@@ -1,0 +1,972 @@
+<Strings>
+
+  <Play>开始游戏</Play>
+  <Quit>退出</Quit>
+  <Loading>加载中</Loading>
+  <Resume>继续游戏</Resume>
+  <Options>选项</Options>
+  <Mods>模组</Mods>
+  <Credits>制作人员</Credits>
+  <ChooseLanguage>选择语言</ChooseLanguage>
+  <QuickRestart>死亡并重新开始</QuickRestart>
+  <QuitToLobby>死亡并返回大厅</QuitToLobby>
+  <SaveAndExitGame>保存并退出游戏</SaveAndExitGame>
+  <Close>关闭</Close>
+  <Back>返回</Back>
+  <Days>{0} 天</Days>
+  <Hours>{0} 小时</Hours>
+  <Minutes>{0} 分钟</Minutes>
+  <OneDay>1 天</OneDay>
+  <OneHour>1 小时</OneHour>
+  <OneMinute>1 分钟</OneMinute>
+  <ApplicationErrorsInfo>有东西导致了错误。\n请查看日志文件获取更多信息。</ApplicationErrorsInfo>
+  <LoggedInAs>已登录 Steam</LoggedInAs>
+  <NoModSelected>未选择模组</NoModSelected>
+  <EarlyAccessTitle>抢先体验</EarlyAccessTitle>
+  <EarlyAccessText>Ricave 目前仍在开发中。\n\n我不断尝试添加更多内容、重新平衡事物、削减无趣的机制并收集反馈，但我可能仍然遗漏了一些东西。如果您觉得游戏太难或太简单，遇到错误，或者对改进或新功能有很棒的想法，请参与开发过程并在我们的 Discord 频道或 Twitter 上分享您的想法。\n\n谢谢，祝您游戏愉快！\n~Piotr "ison" Walczak</EarlyAccessText>
+  <VersionMismatchTitle>游戏已更新</VersionMismatchTitle>
+  <VersionMismatchText>Ricave 已更新至版本 {0}！\n\n您当前的进度可能与新版本不兼容。您想放弃当前进度并返回大厅吗？</VersionMismatchText>
+  <UploadToSteam>上传至 Steam</UploadToSteam>
+  <UploadingToSteam>上传中</UploadingToSteam>
+  <SteamUploadFailed>无法上传至 Steam：{0}</SteamUploadFailed>
+  <SteamUploadSucceeded>成功上传至 Steam。</SteamUploadSucceeded>
+  <MessageTitle>消息</MessageTitle>
+
+  <Resolution>分辨率</Resolution>
+  <Fullscreen>全屏</Fullscreen>
+  <UIScale>界面缩放</UIScale>
+  <FOV>视野</FOV>
+  <VSync>垂直同步</VSync>
+  <TargetFramerate>目标帧率</TargetFramerate>
+  <ShowFPS>显示帧率</ShowFPS>
+  <InvertY>Y轴反转</InvertY>
+  <KeyBindings>按键绑定</KeyBindings>
+  <Volume>音量</Volume>
+  <MusicVolume>音乐音量</MusicVolume>
+  <MouseSensitivity>鼠标灵敏度</MouseSensitivity>
+  <MouseSensitivityController>指针灵敏度</MouseSensitivityController>
+  <SSAOQuality>SSAO质量</SSAOQuality>
+  <ShadowQuality>阴影质量</ShadowQuality>
+  <Downsampling>下采样</Downsampling>
+  <Outline>轮廓</Outline>
+  <MaxLights>最大光源数</MaxLights>
+  <SSAOQuality_Off>关</SSAOQuality_Off>
+  <SSAOQuality_Low>低</SSAOQuality_Low>
+  <SSAOQuality_Normal>中</SSAOQuality_Normal>
+  <SSAOQuality_High>高</SSAOQuality_High>
+  <ShadowQuality_Low>低</ShadowQuality_Low>
+  <ShadowQuality_Normal>中</ShadowQuality_Normal>
+  <ShadowQuality_High>高</ShadowQuality_High>
+  <DownsamplingLevel_None>无 (最佳质量)</DownsamplingLevel_None>
+  <DownsamplingLevel_OneAndHalf>1.5倍 (较差质量)</DownsamplingLevel_OneAndHalf>
+  <DownsamplingLevel_Two>2倍 (最差质量)</DownsamplingLevel_Two>
+  <Outline_MultiPassRound>多通道圆滑</Outline_MultiPassRound>
+  <Outline_MultiPass>多通道</Outline_MultiPass>
+  <Outline_SinglePass>单通道 (推荐)</Outline_SinglePass>
+  <OK>确定</OK>
+  <RestoreDefaults>恢复默认</RestoreDefaults>
+  <ResetGameState>重置游戏状态</ResetGameState>
+  <ReturnToLobby>返回大厅</ReturnToLobby>
+  <ResetAllProgress>重置所有进度</ResetAllProgress>
+  <ConfirmReturnToLobby>您确定要返回大厅吗？\n\n与在游戏中返回大厅不同，使用此选项将意味着您会丢失当前游戏回合的进度。但您不会丢失大厅的总进度（您之前的任务和星尘将保持不变）。\n\n如果您的存档文件损坏（例如，在安装不兼容的更新后），请使用此选项。</ConfirmReturnToLobby>
+  <ConfirmResetAllProgress>您确定要重置所有进度吗？\n\n这将清除您的所有数据，您将从头开始。\n\n仅在您想从头体验游戏，或者您的进度数据已损坏时使用此选项。</ConfirmResetAllProgress>
+  <PressKeyToAssignTo>按下一个键以分配给：</PressKeyToAssignTo>
+  <UnassignedKeyShort>无</UnassignedKeyShort>
+  <VideoSection>视频</VideoSection>
+  <InterfaceSection>界面</InterfaceSection>
+  <AudioSection>音频</AudioSection>
+  <MiscSection>杂项</MiscSection>
+  <QualitySection>质量</QualitySection>
+
+  <No>否</No>
+  <Yes>是</Yes>
+
+  <EnterDungeon>进入地牢</EnterDungeon>
+  <EnterDungeonWithSeed>使用种子进入地牢</EnterDungeonWithSeed>
+  <EnterTrainingRoom>进入训练室</EnterTrainingRoom>
+  <EnterSeed>输入种子</EnterSeed>
+  <ProgressDisabled>进度已禁用</ProgressDisabled>
+  <MaxScore>最高分</MaxScore>
+  <MaxFloorReached>到达层数</MaxFloorReached>
+  <AverageFloorReached>平均层数</AverageFloorReached>
+  <Attempts>尝试次数</Attempts>
+  <TotalKillCount>总击杀数</TotalKillCount>
+  <QuestLog>任务日志</QuestLog>
+  <Stats>统计</Stats>
+  <Cancel>取消</Cancel>
+  <Accept>接受</Accept>
+  <AcceptQuest>接受任务</AcceptQuest>
+  <Claim>领取</Claim>
+  <Postpone>推迟</Postpone>
+  <Locked>已锁定</Locked>
+  <LobbyShopkeeperSpeak_1>只卖最优惠的价格！</LobbyShopkeeperSpeak_1>
+  <LobbyShopkeeperSpeak_2>需要升级吗？</LobbyShopkeeperSpeak_2>
+  <LobbyShopkeeperSpeak_3>有星尘吗？</LobbyShopkeeperSpeak_3>
+  <ClickToReadMore>点击阅读更多</ClickToReadMore>
+  <ClickToReadMoreController>选择以阅读更多</ClickToReadMoreController>
+  <DungeonModifiers>接受后的地牢修正</DungeonModifiers>
+  <Rewards>奖励</Rewards>
+  <PuzzlePiecesCollected>已收集 {0} / {1} 块拼图</PuzzlePiecesCollected>
+  <UnlockedAtLevel>等级 {0} 解锁</UnlockedAtLevel>
+  <UnlockedByQuest>完成任务解锁</UnlockedByQuest>
+  <Place>放置</Place>
+  <PickUp>拾取</PickUp>
+  <PrivateRoomInfo>按 [显示物品栏] 打开商店菜单。</PrivateRoomInfo>
+  <None>无</None>
+  <CompletedQuests>已完成任务</CompletedQuests>
+  <QuestLogBoardText>已完成</QuestLogBoardText>
+  <DailyChallengeBoardText>每日挑战</DailyChallengeBoardText>
+  <DailyChallengeTitle>你只有一次机会——好好把握！</DailyChallengeTitle>
+  <DailyChallengeExplanation>每天，世界各地的玩家都可以玩同一个地牢种子。你每天只有一次机会。\n\n规则：\n  - 普通难度\n  - 禁用增益\n  - 随机职业和特质\n  - 禁用任务\n  - 禁用进度\n  - 无尽的复杂地牢（无层数限制）\n\n你无法在此地牢中收集星尘，也不会计入你的统计数据，但你将因参与而获得 {0}。</DailyChallengeExplanation>
+  <DailyChallengeTimeLeft>下一次挑战倒计时：{0}:{1}:{2}</DailyChallengeTimeLeft>
+  <AllDailyChallengesBestScore>你的历史最高分：{0}</AllDailyChallengesBestScore>
+  <DailyChallengeStart>开始每日挑战</DailyChallengeStart>
+  <DailyChallengeAlreadyPlayed>你今天已经玩过挑战了\n你的分数是：{0}</DailyChallengeAlreadyPlayed>
+  <DailyChallengeModsActive>请先禁用模组</DailyChallengeModsActive>
+  <DailyChallengeRequiresLevel>等级 {0} 解锁</DailyChallengeRequiresLevel>
+  <ViewDailyLeaderboard>查看今日排行榜</ViewDailyLeaderboard>
+  <GlobalLeaderboard>全球</GlobalLeaderboard>
+  <FriendsLeaderboard>好友</FriendsLeaderboard>
+  <YourLeaderboardRank>你的排名：#{0}</YourLeaderboardRank>
+  <LoadingLeaderboard>正在加载排行榜...</LoadingLeaderboard>
+  <LeaderboardLoadTimeout>加载排行榜失败。</LeaderboardLoadTimeout>
+  <NoLeaderboardData>无可用排行榜数据。</NoLeaderboardData>
+  <NoFriendsPlayed>你的好友还没有人玩过此挑战。</NoFriendsPlayed>
+  <ActiveQuests>进行中的任务</ActiveQuests>
+  <ActiveQuestsShort>进行中</ActiveQuestsShort>
+  <AvailableQuests>可接任务</AvailableQuests>
+  <AvailableQuestsShort>可接</AvailableQuestsShort>
+  <HistoricalQuests>历史任务</HistoricalQuests>
+  <HistoricalQuestsShort>历史</HistoricalQuestsShort>
+  <PressSpaceToContinue>按 [等待] 继续</PressSpaceToContinue>
+  <Quest>任务</Quest>
+  <Runs>游戏次数</Runs>
+  <OneQuestAvailable>1 个可接任务</OneQuestAvailable>
+  <QuestsAvailable>{0} 个可接任务</QuestsAvailable>
+  <QuestsAvailableTip>使用任务日志接受任务。</QuestsAvailableTip>
+  <PlayerName>玩家名称</PlayerName>
+  <Difficulty>难度</Difficulty>
+  <Enemies>敌人</Enemies>
+  <Bosses>首领</Bosses>
+  <Train>训练</Train>
+  <EnterNewName>输入新名称</EnterNewName>
+  <EnemyHPFactor>敌人生命值</EnemyHPFactor>
+  <StartingPlayerHP>初始生命值</StartingPlayerHP>
+  <ScoreFactor>分数</ScoreFactor>
+  <ExtraEnemies>额外敌人</ExtraEnemies>
+  <BreadCountPerFloor>每层面包数</BreadCountPerFloor>
+  <UpToHealthPotionsPerFloor>每层生命药水数</UpToHealthPotionsPerFloor>
+  <DifficultyRampUpMultiplier>敌人等级</DifficultyRampUpMultiplier>
+  <GoldPerFloorMultiplier>每层金币掉落</GoldPerFloorMultiplier>
+  <StardustFactor>星尘</StardustFactor>
+  <HealingCrystalsPerFloor>治疗水晶</HealingCrystalsPerFloor>
+  <SmallHealingCrystalsPerFloor>小型治疗水晶</SmallHealingCrystalsPerFloor>
+  <ManaCrystalsPerFloor>法力水晶</ManaCrystalsPerFloor>
+  <SmallManaCrystalsPerFloor>小型法力水晶</SmallManaCrystalsPerFloor>
+  <EnemyCountPerFloorMultiplier>敌人数量</EnemyCountPerFloorMultiplier>
+  <StartingHealthPotions>初始生命药水</StartingHealthPotions>
+  <FinishedGameTitle>恭喜！</FinishedGameTitle>
+  <FinishedGameText>恭喜！\n\n你的最终分数是：{0}\n\n尽管主线任务已经结束，但可能还有很多东西等着你去发现。\n\n如果你喜欢这款游戏，可以考虑加入我们的 Discord 服务器：{1}</FinishedGameText>
+  <NextTraitsPrice>下一特质价格</NextTraitsPrice>
+  <LockedTraitTip>你需要先解锁这个特质。\n\n你可以用星尘购买一个随机特质。你拥有的特质越多，购买下一个就越贵。</LockedTraitTip>
+  <MaxFloorReachedWithTraitTip>使用此特质到达的最高层数：{0}</MaxFloorReachedWithTraitTip>
+  <TraitsLimitReached>你最多只能选择2个特质。</TraitsLimitReached>
+  <CantAffordTrait>你没有足够的星尘。</CantAffordTrait>
+  <ClickToSelectTrait>点击选择或取消选择此特质。</ClickToSelectTrait>
+  <ClickToSelectTraitController>选择或取消选择此特质。</ClickToSelectTraitController>
+  <ClickToSelect>点击选择或取消选择。</ClickToSelect>
+  <ClickToSelectController>选择或取消选择。</ClickToSelectController>
+  <BuyRandomTraits>购买 {0} 个随机特质</BuyRandomTraits>
+  <SelectedTraits>已选特质</SelectedTraits>
+  <ConfirmBuyRandomTraits>你真的想用 {0} 购买 {1} 个随机特质吗？</ConfirmBuyRandomTraits>
+  <TraitExtraStartingItem>开局携带 {0}</TraitExtraStartingItem>
+  <TraitGoldPerFloorFactor_More>找到 {0} 更多金币</TraitGoldPerFloorFactor_More>
+  <TraitGoldPerFloorFactor_Less>找到 {0} 更少金币</TraitGoldPerFloorFactor_Less>
+  <TraitMaxHPOffset>最大生命值</TraitMaxHPOffset>
+  <TraitMaxManaOffset>最大法力值</TraitMaxManaOffset>
+  <TraitMaxStaminaOffset>最大耐力</TraitMaxStaminaOffset>
+  <TraitNotHostileTo>对 {0} 不敌对</TraitNotHostileTo>
+  <TraitHostileTo>对 {0} 敌对</TraitHostileTo>
+  <TraitPoisonIncomingDamageFactor_Less>{0} 毒素抗性</TraitPoisonIncomingDamageFactor_Less>
+  <TraitPoisonIncomingDamageFactor_More>{0} 毒素易伤</TraitPoisonIncomingDamageFactor_More>
+  <TraitPoisonIncomingDamageFactor_Zero>免疫毒素</TraitPoisonIncomingDamageFactor_Zero>
+  <TraitFallIncomingDamageFactor_Zero>无坠落伤害</TraitFallIncomingDamageFactor_Zero>
+  <TraitFallIncomingDamageFactor>{0} 坠落伤害</TraitFallIncomingDamageFactor>
+  <TraitFireIncomingDamageFactor_Less>{0} 火焰抗性</TraitFireIncomingDamageFactor_Less>
+  <TraitFireIncomingDamageFactor_More>{0} 火焰易伤</TraitFireIncomingDamageFactor_More>
+  <TraitMagicIncomingDamageFactor_Less>{0} 魔法抗性</TraitMagicIncomingDamageFactor_Less>
+  <TraitMagicIncomingDamageFactor_More>{0} 魔法易伤</TraitMagicIncomingDamageFactor_More>
+  <TraitDamageFactorAgainstActor>对 {1} 造成 {0} 伤害</TraitDamageFactorAgainstActor>
+  <TraitNativeStaminaRegenIntervalFactor>耐力恢复速度慢 {0} 倍</TraitNativeStaminaRegenIntervalFactor>
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>耐力恢复速度慢一倍</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>
+  <TraitLastStand>生命值低于 {1} 时造成 {0} 更多伤害</TraitLastStand>
+  <TraitMaxHPOffsetPerLevel_Less>每级获得 {0} 更少最大生命值</TraitMaxHPOffsetPerLevel_Less>
+  <TraitMaxHPOffsetPerLevel_More>每级获得 {0} 更多最大生命值</TraitMaxHPOffsetPerLevel_More>
+  <TraitWalkingNoiseOffset>行走噪音 {0}</TraitWalkingNoiseOffset>
+  <TraitManaPerWorthyKill>每次有效击杀获得 {0} 法力值</TraitManaPerWorthyKill>
+  <TraitHPPerWorthyKill_Gain>每次有效击杀获得 {0} 生命值</TraitHPPerWorthyKill_Gain>
+  <TraitHPPerWorthyKill_Lose>每次有效击杀失去 {0} 生命值</TraitHPPerWorthyKill_Lose>
+  <TraitBackpackSlotsOffset>物品栏格子 {0}</TraitBackpackSlotsOffset>
+  <TraitMaxHPFactor>最大生命值 x{0}</TraitMaxHPFactor>
+  <TraitDamageFactorAgainstBosses>对首领造成 {0} 伤害</TraitDamageFactorAgainstBosses>
+  <TraitNativeHealingRate>治疗速率 {0}</TraitNativeHealingRate>
+  <TraitImmuneToConditionsFromDamage>免疫 {0}</TraitImmuneToConditionsFromDamage>
+  <TraitImmuneToPushing>免疫推撞</TraitImmuneToPushing>
+  <TraitHungerRateFactor>饥饿速率 {0}</TraitHungerRateFactor>
+  <TraitWanderersAndShopkeepersPricesFactor>商店价格 {0}</TraitWanderersAndShopkeepersPricesFactor>
+  <TraitCanFly>可以飞行</TraitCanFly>
+  <TraitGainedExpFactor_More>获得 {0} 更多经验</TraitGainedExpFactor_More>
+  <TraitGainedExpFactor_Less>获得 {0} 更少经验</TraitGainedExpFactor_Less>
+  <NextRunRetainedExp>上次游戏保留的经验值</NextRunRetainedExp>
+  <NextRunRetainedGold>上次游戏保留的金币</NextRunRetainedGold>
+  <PetRatOneRunLeft>剩余1次</PetRatOneRunLeft>
+  <PetRatRunsLeft>剩余 {0} 次</PetRatRunsLeft>
+  <StartNewRun>开始</StartNewRun>
+  <Character>角色</Character>
+  <Traits>特质</Traits>
+  <Boosts>增益</Boosts>
+  <Floors>层数</Floors>
+  <FloorCount>{0} 层</FloorCount>
+  <RoomsPerFloor>每层房间数</RoomsPerFloor>
+  <UnlockFor>花费 {0} 解锁</UnlockFor>
+  <CompletedOnDifficulty>完成于难度</CompletedOnDifficulty>
+  <HasMiniBosses>有小首领</HasMiniBosses>
+  <HasShelters>有庇护所</HasShelters>
+  <SpiritsSetFree>解救的灵魂</SpiritsSetFree>
+  <RunWins>胜利</RunWins>
+  <RunLosses>失败</RunLosses>
+  <NewRunScreenBossLabel>{0} 首领</NewRunScreenBossLabel>
+  <CosmeticCollidesWith>与...碰撞</CosmeticCollidesWith>
+  <CosmeticsInfo>外观物品纯属视觉效果，除非另有说明，否则没有游戏效果。</CosmeticsInfo>
+  <ConfirmBuyCosmetic>你想要用 {1} 购买 {0} 吗？</ConfirmBuyCosmetic>
+  <CantAffordCosmetic>你买不起这个外观物品。</CantAffordCosmetic>
+  <Price>价格</Price>
+  <CosmeticWillMakeFactionHostile>警告：此外观物品将使 {0} 对你产生敌意</CosmeticWillMakeFactionHostile>
+  <DungeonModifiersTitle>额外地牢修正</DungeonModifiersTitle>
+  <DemonNoteText>你的时间是借来的。\n我只是在收回我的债务。\n尽管跑吧。\n最终，你会找到出口。\n我就在它之外。</DemonNoteText>
+  <UndiscoveredEnemy>未发现的敌人</UndiscoveredEnemy>
+
+  <HP>{0} 生命值</HP>
+  <Mana>{0} 法力值</Mana>
+  <Stamina>{0} 耐力</Stamina>
+  <FromTo>{0} 到 {1}</FromTo>
+  <Ambushed>伏击</Ambushed>
+  <AltitudeDamageBonus>来自上方</AltitudeDamageBonus>
+  <FromDeflectedDamage>来自偏转</FromDeflectedDamage>
+  <DamageSpreadOntoSomethingElse>伤害扩散</DamageSpreadOntoSomethingElse>
+  <UnidentifiedLower>未鉴定</UnidentifiedLower>
+  <Cursed>被诅咒的</Cursed>
+  <CursedLower>被诅咒的</CursedLower>
+  <OneTurn>1 回合</OneTurn>
+  <TurnsCount>{0} 回合</TurnsCount>
+  <OneUse>1 次使用</OneUse>
+  <UsesCount>{0} 次使用</UsesCount>
+  <OneCharge>1 次充能</OneCharge>
+  <ChargesCount>{0} 次充能</ChargesCount>
+  <OneDiamond>1 颗钻石</OneDiamond>
+  <DiamondsCount>{0} 颗钻石</DiamondsCount>
+  <OneStardust>1 份星尘</OneStardust>
+  <StardustCount>{0} 份星尘</StardustCount>
+  <OneCell>1 格</OneCell>
+  <CellsCount>{0} 格</CellsCount>
+  <OneGold>1 金币</OneGold>
+  <GoldCount>{0} 金币</GoldCount>
+  <GoldCountShort>{0}g</GoldCountShort>
+  <PressAcceptToContinue>按 [接受] 继续</PressAcceptToContinue>
+  <PressAcceptToContinueToLobby>按 [接受] 继续前往大厅</PressAcceptToContinueToLobby>
+  <PressWaitToRestart>按 [等待] 重新开始</PressWaitToRestart>
+  <NoOptions>无选项</NoOptions>
+  <ItemMayBeCursedWarning>警告：此物品可能{0}。</ItemMayBeCursedWarning>
+  <ItemCursedWarning>警告：此物品{0}。</ItemCursedWarning>
+  <CantUnequipCursedItems>你无法卸下{0}的物品（除非有诅咒解除卷轴）。</CantUnequipCursedItems>
+  <Gold>金币</Gold>
+  <Leave>离开</Leave>
+  <ActsTwicePerTurn>每回合行动两次</ActsTwicePerTurn>
+  <ActsTimesPerTurn>每回合行动 {0} 次</ActsTimesPerTurn>
+  <ActsEverySecondTurn>每两回合行动一次</ActsEverySecondTurn>
+  <ActsOnceEveryTurns>每 {0} 回合行动一次</ActsOnceEveryTurns>
+  <DoesntGetHungry>不会饥饿</DoesntGetHungry>
+  <GetsHungryTwiceAsFast>饥饿速度快一倍</GetsHungryTwiceAsFast>
+  <GetsHungryTimesAsFast>饥饿速度快 {0} 倍</GetsHungryTimesAsFast>
+  <GetsHungryTwiceAsSlow>饥饿速度慢一倍</GetsHungryTwiceAsSlow>
+  <HungerRateMultiplier>饥饿速率倍数：{0}</HungerRateMultiplier>
+  <ThrowGold>投掷 {0} 金币</ThrowGold>
+  <Chance>{0} 几率</Chance>
+  <WorthOfTurns>价值 {0} 回合</WorthOfTurns>
+  <AoERadius>半径 {0}</AoERadius>
+  <WholeMap>全图</WholeMap>
+  <ThroughWalls>穿墙</ThroughWalls>
+  <AroundTarget>目标周围</AroundTarget>
+  <Used>已使用</Used>
+  <Waiting>等待中</Waiting>
+  <Interrupted>已中断</Interrupted>
+  <Location>地点</Location>
+  <StopTargeting>停止瞄准</StopTargeting>
+  <QuestCompleted>任务完成</QuestCompleted>
+  <QuestCompletedTip>回到大厅后领取你的奖励</QuestCompletedTip>
+  <Stationary>静止</Stationary>
+  <OneStep>一步</OneStep>
+  <BuyConfirmation>你想要用 {1} 购买 {0} 吗？</BuyConfirmation>
+  <BuyConfirmation_SingleUseUnlockable>这是一个一次性增益，只对你的下一次游戏生效。</BuyConfirmation_SingleUseUnlockable>
+  <Buy>购买</Buy>
+  <CanRewindTimeAgainIn>可在 {0} 后再次使用</CanRewindTimeAgainIn>
+  <NativeWeaponDescription>这是该角色的原生武器。</NativeWeaponDescription>
+  <ChooseSpellWheelSelectorText>选择一个新法术。\n\n每次升级你都可以选择一个新法术。</ChooseSpellWheelSelectorText>
+  <BossSlain>{0} 已被击杀</BossSlain>
+  <RandomTip>提示：{0}</RandomTip>
+  <FirstTip>使用 [MoveForward][MoveLeft][MoveBack][MoveRight] 移动。按 [ShowInventory] 打开物品栏。使用 [Interact] 与物体互动。用 [RotateLeft] 和 [RotateRight] 旋转。按住 [Inspect] 进行检查。按 [Wait] 等待一回合。</FirstTip>
+  <Waits>等待</Waits>
+  <Wait>等待</Wait>
+  <WaitsDrunk>等待（醉酒）</WaitsDrunk>
+  <WaitsPanic>等待（恐慌）</WaitsPanic>
+  <WaitsReason>等待 ({0})</WaitsReason>
+  <Zzz>Zzz</Zzz>
+  <WakesUp>醒来</WakesUp>
+  <GoesToCheckPossibleEnemyLocation>在哪？！</GoesToCheckPossibleEnemyLocation>
+  <NoArms>没有手臂</NoArms>
+  <NoLegs>没有腿</NoLegs>
+  <Hostile>敌对</Hostile>
+  <MissingBodyParts>缺失身体部位</MissingBodyParts>
+  <SeenByHostiles>有人看到你了</SeenByHostiles>
+  <BossStillAlive>首领还活着</BossStillAlive>
+  <NotEnoughMana>法力值不足 ({0})</NotEnoughMana>
+  <NotEnoughStamina>耐力不足 ({0})</NotEnoughStamina>
+  <OnCooldown>冷却中 ({0})</OnCooldown>
+  <GetCloser>靠近点</GetCloser>
+  <InvalidTarget>无效目标</InvalidTarget>
+  <OutOfRange>超出范围</OutOfRange>
+  <NoLineOfSight>没有视野</NoLineOfSight>
+  <CantAfford>需要 {0}</CantAfford>
+  <CantReach>无法到达</CantReach>
+  <NotEnoughSpaceToPickUp>物品栏已满</NotEnoughSpaceToPickUp>
+  <Need2SameCrystals>需要2个相同的水晶</Need2SameCrystals>
+  <NeedSpirit>需要灵魂</NeedSpirit>
+  <NeedShovel>需要铲子</NeedShovel>
+  <UseShovel>使用铲子</UseShovel>
+  <NeedPickaxe>需要镐</NeedPickaxe>
+  <UsePickaxe>使用镐</UsePickaxe>
+  <CantDescendBecausePartyCantReach>有些队员离得太远</CantDescendBecausePartyCantReach>
+  <CantCloseBlockedDoor>门被堵住了</CantCloseBlockedDoor>
+  <CantSummonFollowerAlreadyExists>{0} 随从已存在</CantSummonFollowerAlreadyExists>
+  <DamageRangeDealtToPlayer>现在对你造成 {0}</DamageRangeDealtToPlayer>
+  <PostProcessedDamageRange>现在造成 {0}</PostProcessedDamageRange>
+  <PostProcessedPlayerHealAmount>现在为你治疗 {0}</PostProcessedPlayerHealAmount>
+  <DamagePerTurn>每回合 {0} 伤害</DamagePerTurn>
+  <DamagePerTurns>每 {1} 回合 {0} 伤害</DamagePerTurns>
+  <NumberPerTurn>每回合 {0}</NumberPerTurn>
+  <NumberPerTurns>每 {1} 回合 {0}</NumberPerTurns>
+  <RestoreAll>全部</RestoreAll>
+  <RestoredAmountForPlayer>为你恢复 {0}</RestoredAmountForPlayer>
+  <Or>或</Or>
+  <And>和</And>
+  <Score>分数</Score>
+  <FloorReached>到达层数</FloorReached>
+  <KillCount>击杀数</KillCount>
+  <Playtime>游戏时间</Playtime>
+  <Kills>击杀</Kills>
+  <CombatRating>战斗评级</CombatRating>
+  <BossesSlain>击杀的首领</BossesSlain>
+  <LobbyItemsCollected>收集的大厅物品</LobbyItemsCollected>
+  <NextRewardAtScoreLevel>下一奖励在等级 {0}</NextRewardAtScoreLevel>
+  <DaysShort>{0}天</DaysShort>
+  <HoursShort>{0}时</HoursShort>
+  <MinutesShort>{0}分</MinutesShort>
+  <NoneLower>无</NoneLower>
+  <NewRecord>新纪录！</NewRecord>
+  <AndMore>以及更多</AndMore>
+  <WelcomeTextRunWithSeed>种子：{0}</WelcomeTextRunWithSeed>
+  <DungeonModifiersCount_One>1 个修正</DungeonModifiersCount_One>
+  <DungeonModifiersCount_More>{0} 个修正</DungeonModifiersCount_More>
+  <BetAmount>下注 {0} 金币</BetAmount>
+  <Tutorial>教程</Tutorial>
+  <BossKillCount>击杀的首领</BossKillCount>
+  <QuestsCompleted>完成的任务</QuestsCompleted>
+  <NotesCollected>找到的笔记</NotesCollected>
+  <ChestsOpened>打开的箱子</ChestsOpened>
+  <RecipesUsed>制作的物品</RecipesUsed>
+  <Common>普通</Common>
+  <Uncommon>罕见</Uncommon>
+  <Rare>稀有</Rare>
+  <Epic>史诗</Epic>
+  <Unidentified>未鉴定</Unidentified>
+  <LobbyItem>大厅（永久）物品</LobbyItem>
+  <LobbyItemShort>大厅</LobbyItemShort>
+  <WakeUpReason_Harmed>受伤</WakeUpReason_Harmed>
+  <WakeUpReason_StructureSetOnFire>附近着火</WakeUpReason_StructureSetOnFire>
+  <WakeUpReason_LoudNoise>巨大噪音</WakeUpReason_LoudNoise>
+  <WakeUpReason_ActorWokeUp>附近盟友醒来</WakeUpReason_ActorWokeUp>
+  <WakeUpReason_HostileFootsteps>敌对脚步声</WakeUpReason_HostileFootsteps>
+  <WakeUpReason_AlertAllyPassing>警惕的盟友经过</WakeUpReason_AlertAllyPassing>
+  <WakeUpReason_KickedDoor>踢门</WakeUpReason_KickedDoor>
+  <Miss>未命中</Miss>
+  <MissChance>{0} 未命中</MissChance>
+  <CritChance>{0} 暴击</CritChance>
+  <CriticalHit>暴击</CriticalHit>
+  <CriticalHitFloatingText>暴击</CriticalHitFloatingText>
+  <ChargedAttack>蓄力</ChargedAttack>
+  <AvailableRecipes>可用配方</AvailableRecipes>
+  <WaitTurns>等待 {0} 回合</WaitTurns>
+  <RewindTurns>回溯 {0} 回合</RewindTurns>
+  <YouHave>你有 {0}</YouHave>
+  <BabyLabel>幼年 {0}</BabyLabel>
+  <BossLabel>{0} 首领</BossLabel>
+  <Intro1>你似乎身处某种地牢之中……</Intro1>
+  <Intro2>你不知道自己具体在哪，甚至不知道是怎么到这里来的。</Intro2>
+  <Intro3>周围的一切感觉有些像梦。但同时，又感觉太真实了，不只是个梦。</Intro3>
+  <Intro4>你慢慢开始记起一些事情。至少你知道自己的名字。</Intro4>
+  <Intro5>你的名字是：</Intro5>
+  <Intro6>你刚注意到远处有个人，但只瞥见了他的影子。你最好去看看。</Intro6>
+  <Ending1>你缓缓睁开眼睛……</Ending1>
+  <Ending2>你在医院里醒来。</Ending2>
+  <Ending3><i>“他醒了！”</i></Ending3>
+  <Ending4><i>“发生了什么？”</i></Ending4>
+  <Ending5><i>“你和朋友去远足，头部受了重伤。”</i></Ending5>
+  <Ending6><i>“救援人员及时找到了你。你需要休息，恢复体力。”</i></Ending6>
+  <Ending7><i>“玛雅在哪？”</i></Ending7>
+  <Ending8><i>“谁是玛雅？”</i></Ending8>
+  <Ending9><i>“她先找到我的。她还好吗？”</i></Ending9>
+  <Ending10><i>“你可能有些意识模糊，但很快就会恢复的。”</i></Ending10>
+  <Ending11>……</Ending11>
+  <Ending12>你很困惑，但又有一种奇怪的成就感。仿佛你在某种程度上改变了。</Ending12>
+  <Ending13>你闭上眼睛，深吸一口气，想象着阳光洒在脸上的温暖。新鲜空气充满你的肺部，你忍不住微笑起来。</Ending13>
+  <ThanksForPlayingDemo>感谢游玩试玩版！</ThanksForPlayingDemo>
+  <GameCreatedBy>开发者</GameCreatedBy>
+  <MainMenuArtBy>主菜单背景画师</MainMenuArtBy>
+  <MusicBy>音乐制作</MusicBy>
+  <LogoBy>标志设计</LogoBy>
+  <CharacterModelsBy>角色模型</CharacterModelsBy>
+  <SoundEffectsBy>音效提供</SoundEffectsBy>
+  <ThanksForPlaying>感谢游玩！</ThanksForPlaying>
+  <MemoryPiece1>森林……对了！你开始记起你到这里之前发生的事了。一个温暖的夏日，鸟儿在歌唱，地平线上是美丽的山脉——你和朋友们去远足。但后来，有样东西吸引了你的注意。你记得你离开了队伍。但为什么？</MemoryPiece1>
+  <MemoryPiece2>山洞！你听到有人喊救命后离开了你的队伍。你以为是另一个遇到麻烦的徒步者，于是跟着声音来到了一个山洞。在里面，你滑倒摔断了腿。你大声呼救，但无人应答。孤独又受伤，你的希望开始消退……</MemoryPiece2>
+  <MemoryPiece3>你独自在那个山洞里坐了几个小时。当夜晚降临，大雨倾盆时，你几乎失去了所有希望。在感觉像是永恒之后，你看到洞口有光。是……玛雅！你如释重负！</MemoryPiece3>
+  <MemoryPiece4>看到玛雅你欣喜若狂。她伸出手拉你起来，有那么一瞬间，你似乎就要成功了。但无情的雨水让她滑倒，你们俩都摔了下去，重重地撞在石头上。之后，一切都安静了。</MemoryPiece4>
+  <EquipmentTab>装备</EquipmentTab>
+  <CraftingTab>制作</CraftingTab>
+  <IdentificationTab>鉴定</IdentificationTab>
+  <Name>名称</Name>
+  <Level>等级</Level>
+  <Experience>经验</Experience>
+  <ExperienceShort>经验</ExperienceShort>
+  <AttackDamage>攻击</AttackDamage>
+  <EquipmentTabTip>查看你当前装备的所有物品。</EquipmentTabTip>
+  <CraftingTabTip>查看所有你可以用来制作新物品的配方。如果你需要移除诅咒或治疗缺失的肢体，这可能会很有用。</CraftingTabTip>
+  <IdentificationTabTip>查看你物品栏中所有未鉴定的物品。\n\n随着时间的推移，每个物品都会慢慢被鉴定（除非你饿了）。列表顶部的物品将首先被鉴定。\n\n拖放以重新排序。</IdentificationTabTip>
+  <NoUnidentifiedItems>你没有任何未鉴定的物品</NoUnidentifiedItems>
+  <IdentificationQueueExplanation>这是你的鉴定队列。拖放来决定下一个随时间流逝而鉴定的物品。你也可以在流浪者处鉴定物品。</IdentificationQueueExplanation>
+  <Craft>制作</Craft>
+  <AdjacentLower>相邻</AdjacentLower>
+  <WillLoseBoosts>你将失去已购买的增益</WillLoseBoosts>
+  <NightmareLord>梦魇领主</NightmareLord>
+  <Hypnorak>Hypnorak</Hypnorak>
+  <Phantasmos>Phantasmos</Phantasmos>
+  <AvailableSkillPoints>可用技能点</AvailableSkillPoints>
+  <UnlockedSkills>已解锁技能</UnlockedSkills>
+  <UnlockedAchievements>已解锁成就</UnlockedAchievements>
+  <EscapeToCancel>按 [取消] 取消</EscapeToCancel>
+  <EscapeToCancelShort>按 ESC 取消</EscapeToCancelShort>
+  <FactionEnemies>敌人</FactionEnemies>
+  <FactionKnownMembers>已知成员</FactionKnownMembers>
+  <YouAreHereTip>你在这里</YouAreHereTip>
+  <PlaceLinkTip>如果你选择走这条路，你将收到以下内容</PlaceLinkTip>
+  <DungeonMapHeader>去哪里？</DungeonMapHeader>
+  <MoreEnemies>更多敌人</MoreEnemies>
+  <LessEnemies>更少敌人</LessEnemies>
+  <NormalEnemies>普通敌人</NormalEnemies>
+  <MoreGold>更多金币</MoreGold>
+  <LessGold>更少金币</LessGold>
+  <NormalGold>普通金币</NormalGold>
+  <EnemyCountFactor>敌人数量</EnemyCountFactor>
+  <GoldFactor>金币掉落</GoldFactor>
+  <PlaceCrystal>水晶</PlaceCrystal>
+  <PlaceCrystalShort>{0} 水晶</PlaceCrystalShort>
+  <HealHPReward>治疗 {0} 生命值</HealHPReward>
+  <FallIntoDescendTriggerConfirmation>此举会让你掉进坑里。你真的要这么做吗？\n\n你会掉到下一层的随机位置并损失一些生命值。你无法回来。</FallIntoDescendTriggerConfirmation>
+  <MoveIntoRunEndPortalConfirmation>此举将结束你的游戏。你真的要这么做吗？</MoveIntoRunEndPortalConfirmation>
+  <NeverUsedWatchRewindTip>按 [回溯] 回溯时间</NeverUsedWatchRewindTip>
+  <NeverInspectedAnythingTip>记得用 [检查] 检查你的周围环境。</NeverInspectedAnythingTip>
+  <EscapingMode>逃跑！</EscapingMode>
+  <ShelterReward>奖励</ShelterReward>
+  <TextOnFirstTimeFloorReached_1>这是什么地方？我必须找到出路……</TextOnFirstTimeFloorReached_1>
+  <TextOnFirstTimeFloorReached_2>每次我来这里，这个地牢都会变。但为什么？</TextOnFirstTimeFloorReached_2>
+  <TextOnFirstTimeFloorReached_3>每一步都感觉异常熟悉，好像我以前来过这里。</TextOnFirstTimeFloorReached_3>
+  <TextOnFirstTimeFloorReached_4>前面有东西，我能感觉到。</TextOnFirstTimeFloorReached_4>
+  <TextOnFirstTimeFloorReached_5>我是赢了一场战斗还是理解了什么？</TextOnFirstTimeFloorReached_5>
+  <TextOnFirstTimeFloorReached_6>我感觉一切都导向了前方的事物。</TextOnFirstTimeFloorReached_6>
+  <TextOnFirstTimeFloorReached_7>我感觉……心头的重担被卸下了。奇怪。</TextOnFirstTimeFloorReached_7>
+  <TextAfterFirstDungeonCompleted1>你怎么这么久？</TextAfterFirstDungeonCompleted1>
+  <TextAfterFirstDungeonCompleted2>那是什么？</TextAfterFirstDungeonCompleted2>
+  <YouDied>你死了</YouDied>
+  <YouEscaped>你逃脱了</YouEscaped>
+  <RunCompleted>游戏完成</RunCompleted>
+  <FindLeverToOpen>找到杠杆\n以打开</FindLeverToOpen>
+  <FollowTutorialToOpen>跟随教程\n以打开</FollowTutorialToOpen>
+  <Help>帮助</Help>
+  <HelpMe>帮帮我</HelpMe>
+  <OverHere>在这里</OverHere>
+  <ReadSignTip>按住 [检查] 阅读</ReadSignTip>
+  <MainQuests>主线任务</MainQuests>
+  <SideQuests>支线任务</SideQuests>
+  <ExtraQuests>额外任务</ExtraQuests>
+  <AcceptQuestsInLobbyInfo>你可以在大厅接受和推迟任务。</AcceptQuestsInLobbyInfo>
+  <QuestsRequireDungeonFloorInfo>请注意，某些任务只能在有足够层数的地牢中完成。</QuestsRequireDungeonFloorInfo>
+  <ExtraQuest_UnlockNextDungeon>解锁下一个地牢</ExtraQuest_UnlockNextDungeon>
+  <ExtraQuest_UnlockNextDungeonDesc>到达此地牢的第 {0} 层尽头以解锁下一个地牢。</ExtraQuest_UnlockNextDungeonDesc>
+  <ExtraQuest_FindPuzzlePiece>寻找拼图碎片</ExtraQuest_FindPuzzlePiece>
+  <ExtraQuest_FindPuzzlePieceDesc>在第 {0} 层找到下一个拼图碎片。你当前拥有 {1}/{2} 块。</ExtraQuest_FindPuzzlePieceDesc>
+  <ExtraQuest_SetSpiritsFree>灵魂救援</ExtraQuest_SetSpiritsFree>
+  <ExtraQuest_SetSpiritsFreeDesc_One>此地牢中有1个灵魂。将它带到庇护所来解救它。</ExtraQuest_SetSpiritsFreeDesc_One>
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>此地牢中有 {0} 个灵魂。将它们带到庇护所来解救它们。</ExtraQuest_SetSpiritsFreeDesc_Multiple>
+  <TheseFollowersWillBeLeftBehind>警告：这些随从将被留下</TheseFollowersWillBeLeftBehind>
+  <ChooseYourSpell>选择你的法术</ChooseYourSpell>
+  <ChooseYourSpellController>选择你的法术 ([QuickbarMenu])</ChooseYourSpellController>
+  <QuickbarMenuNewSpell>新法术</QuickbarMenuNewSpell>
+  <QuickbarMenuTitle>你的快捷栏和法术</QuickbarMenuTitle>
+  <DungeonModifiersLocked>等级 {0} 解锁</DungeonModifiersLocked>
+  <StardustInfo>你收集到了星尘——一种珍贵的货币！\n\n星尘可以在大厅中用于为你的下一次游戏购买增益并解锁特殊房间。\n\n所有标记为“大厅物品”的物品都会带到大厅。所有其他物品在游戏结束时丢失。</StardustInfo>
+  <PuzzlePieceInfo>拼图碎片，就像星尘一样，是永久的大厅物品。\n\n在不同的游戏中收集所有 {0} 块拼图以解锁大厅中的一个秘密房间。</PuzzlePieceInfo>
+  <PetRatInfo>你有一个同伴。\n\n每当你移动时，洛可会自动为你收集相邻地块的金币。\n\n1块奶酪能让洛可只跟随你一次游戏。</PetRatInfo>
+  <PartyInfo>你现在有队员了。\n\n你可以在他们之间切换并分别管理他们的物品栏。每个队员独立行动。</PartyInfo>
+  <UpgradeOrb_MaxHP>最大生命值 +{0}</UpgradeOrb_MaxHP>
+  <UpgradeOrb_Crit>暴击率 +{0}%</UpgradeOrb_Crit>
+  <UpgradeOrb_Miss>未命中率 -{0}%</UpgradeOrb_Miss>
+  <UpgradeOrb_Fire>{0}% 火焰</UpgradeOrb_Fire>
+  <Kick>踢</Kick>
+  <KickDescription>这个角色可以踢东西。</KickDescription>
+  <MemoryPieceHereHint>这层有一个记忆碎片</MemoryPieceHereHint>
+  <MemoryPieceHereHint2>去寻找它</MemoryPieceHereHint2>
+  <SearchFilter>搜索</SearchFilter>
+  <DiscoveredItems>已发现物品</DiscoveredItems>
+  <DiscoveredActors>已发现生物</DiscoveredActors>
+  <DiscoveredEntitiesTip>图鉴显示物品和生物处于其典型的、未被诅咒的状态。实际的物品/生物可能会有所不同。</DiscoveredEntitiesTip>
+  <DailyChallenge>每日挑战</DailyChallenge>
+
+  <Class>职业</Class>
+  <NoClass>无职业\n\n效果：\n- 声名与荣耀</NoClass>
+  <ClassesLocked>等级 {0} 解锁</ClassesLocked>
+  <ClassEffects>效果</ClassEffects>
+  <ClassSpells>能力：{0}</ClassSpells>
+  <ClassMaxHPOffset>最大生命值</ClassMaxHPOffset>
+  <ClassMaxManaOffset>最大法力值</ClassMaxManaOffset>
+  <ClassMaxStaminaOffset>最大耐力</ClassMaxStaminaOffset>
+  <ClassDamageFactorAgainstUndead>对亡灵（骷髅、木乃伊等）造成 {0} 伤害</ClassDamageFactorAgainstUndead>
+  <ClassFireIncomingDamageFactor_Less>{0} 火焰抗性</ClassFireIncomingDamageFactor_Less>
+  <ClassFireIncomingDamageFactor_More>{0} 火焰易伤</ClassFireIncomingDamageFactor_More>
+  <ClassHungerRateFactor>饥饿速率 {0}</ClassHungerRateFactor>
+  <ClassDisablesPressurePlates>不会触发压力板</ClassDisablesPressurePlates>
+  <ClassImmuneToPoison>免疫毒素</ClassImmuneToPoison>
+  <ClassImmuneToPushing>免疫推撞</ClassImmuneToPushing>
+  <ClassDogsAreHostile>狗是敌对的</ClassDogsAreHostile>
+  <ClassWalkingNoiseOffset>行走噪音 {0}</ClassWalkingNoiseOffset>
+  <MaxFloorReachedWithClassTip>使用此职业到达的最高层数：{0}</MaxFloorReachedWithClassTip>
+  <MaxFloorReachedWithoutClassTip>无职业到达的最高层数：{0}</MaxFloorReachedWithoutClassTip>
+
+  <EntityTakesDamage>{0} 受到 {1} {2} 伤害</EntityTakesDamage>
+  <EntityTakesDamageAndDies>{0} 受到 {1} {2} 伤害并死亡</EntityTakesDamageAndDies>
+  <EntityTakesDamageAndDies_Exp>{0} 经验</EntityTakesDamageAndDies_Exp>
+  <EntityTakesNoDamage>{0} 未受到 {1} 伤害</EntityTakesNoDamage>
+  <EntityGainsHP>{0} 获得 {1}</EntityGainsHP>
+  <BodyPartTakesDamage>{0} 受到 {1} {2} 伤害</BodyPartTakesDamage>
+  <BodyPartTakesDamageAndIsDestroyed>{0} 受到 {1} {2} 伤害并被摧毁</BodyPartTakesDamageAndIsDestroyed>
+  <BodyPartTakesNoDamage>{0} 未受到 {1} 伤害</BodyPartTakesNoDamage>
+  <BodyPartGainsHP>{0} 获得 {1}</BodyPartGainsHP>
+  <BodyPartDestroyedDirectly>{0} 的 {1} 被摧毁</BodyPartDestroyedDirectly>
+  <DamageBlocked>{0} 格挡了 {1} {2} 伤害</DamageBlocked>
+  <DamageBlockedAndDeflected>{0} 将 {1} {2} 伤害偏转到 {3} 身上</DamageBlockedAndDeflected>
+  <EntityIsPushed>{0} 被推开</EntityIsPushed>
+  <EntityIsPulled>{0} 被拉近</EntityIsPulled>
+  <EntityGainsCondition>{0} 获得一个新状态：{1}</EntityGainsCondition>
+  <EntityGainsUseEffect>{0} 获得一个新效果：{1}</EntityGainsUseEffect>
+  <BodyPartIsRestored>{0} 的 {1} 已恢复</BodyPartIsRestored>
+  <ActorGainsMana>{0} 恢复了 {1}</ActorGainsMana>
+  <ActorGainsStamina>{0} 恢复了 {1}</ActorGainsStamina>
+  <ItemIdentified>{0} 已被鉴定</ItemIdentified>
+  <ConditionWearsOff>{0} 效果消失</ConditionWearsOff>
+  <UseEffectWearsOff>{0} 效果消失</UseEffectWearsOff>
+  <EntityPicksUpItem>{0} 拾取了 {1}</EntityPicksUpItem>
+  <ItemIdentifiedOnUse_Removed>它曾是 {0}</ItemIdentifiedOnUse_Removed>
+  <ItemIdentifiedOnUse_StillExists>它是 {0}</ItemIdentifiedOnUse_StillExists>
+  <CursedItemIdentifiedAfterEquipping>{0} {1}！（你需要找到或制作一个诅咒解除卷轴）</CursedItemIdentifiedAfterEquipping>
+  <ItemHasBeenCursed>你的 {0} 已被 {1}！</ItemHasBeenCursed>
+  <CurseRemoved>从 {0} 移除了诅咒</CurseRemoved>
+  <EntityTeleportsRandomly>{0} 随机传送</EntityTeleportsRandomly>
+  <EntityTeleports>{0} 传送</EntityTeleports>
+  <GateOpens>{0} 打开了。现在找到出口。</GateOpens>
+  <SafeOpens>{0} 打开了</SafeOpens>
+  <GateClosesBehindYou>一扇门在你身后关上了</GateClosesBehindYou>
+  <EntityHasAlreadyBeenUsed>{0} 发出嘶嘶声但似乎没有任何效果</EntityHasAlreadyBeenUsed>
+  <YouAreStarving>你正在挨饿</YouAreStarving>
+  <YouAreHungry>你饿了</YouAreHungry>
+  <YouBoughtItem>你购买了 {0}</YouBoughtItem>
+  <LeveledUp>升级了！</LeveledUp>
+  <LeveledUp_CanChooseNewSpell>你可以选择一个新法术。</LeveledUp_CanChooseNewSpell>
+  <LeveledUpShort>升级</LeveledUpShort>
+  <ShieldRemovedBecauseHarmed>护盾效果因为你伤害了 {0} 而被取消</ShieldRemovedBecauseHarmed>
+  <ActorWakesUp>{0} 醒来了</ActorWakesUp>
+  <TotalItems>总共 {0}</TotalItems>
+  <YouSacrificedYourself>你牺牲了自己</YouSacrificedYourself>
+  <GambleWin>你赢了</GambleWin>
+  <GambleLose>你输了</GambleLose>
+  <TrialCompleted>你完成了试炼并获得了 {0}</TrialCompleted>
+  <GlyphsCompleted>你解开了符文谜题并获得了 {0}</GlyphsCompleted>
+  <PlayerHealedOnKilledByWearable>你被 {0} 救了</PlayerHealedOnKilledByWearable>
+  <HealedOnKilledByWearable>{0} 被 {1} 救了</HealedOnKilledByWearable>
+  <TrialFailed>你试炼失败了</TrialFailed>
+  <ItemDuplicated>{0} 被复制了</ItemDuplicated>
+  <FailedToDuplicate>{0} 被摧毁了</FailedToDuplicate>
+  <NoMoreFishHere>这里再也没有鱼了</NoMoreFishHere>
+  <CaughtFishing>你钓到了 {0}</CaughtFishing>
+  <TriggerWillActivateIn>{0} 将在 {1} 内激活</TriggerWillActivateIn>
+  <ReceivedItem>你收到了 {0}</ReceivedItem>
+  <DevilStatueAcceptedItem>恶魔雕像接受了你的 {0} 并给了你 {1}</DevilStatueAcceptedItem>
+  <ActorReceivesItem>{0} 收到了 {1}</ActorReceivesItem>
+  <ActorMisses>{0} 未命中</ActorMisses>
+  <EnemySpawnedNearby>{0} 在附近生成</EnemySpawnedNearby>
+  <ActorGivesItemToActor>{0} 把 {1} 给了 {2}</ActorGivesItemToActor>
+  <FactionBecameHostile>{0} 阵营变为敌对</FactionBecameHostile>
+  <MissingIngredients>你没有所有材料</MissingIngredients>
+  <DroppedItemInInvalidSlot>此物品不适合此槽位</DroppedItemInInvalidSlot>
+  <StoleItem>{0} 从 {2} 那里偷了 {1}</StoleItem>
+  <PlayerCollectedBossTrophyStardust>你收集了 {0} x{1}</PlayerCollectedBossTrophyStardust>
+  <YouGainedSkillPoint>你获得了一个技能点！打开物品栏来使用它。</YouGainedSkillPoint>
+  <SetSpiritFree>你解救了 {0} 并获得了 {1}</SetSpiritFree>
+  <ItemRampUpUpgraded>{0} 的等级已提升</ItemRampUpUpgraded>
+  <CannotUnequipCursedItem>你无法卸下一个被诅咒的物品</CannotUnequipCursedItem>
+  <UsedRecipe>{0} 制作了 {1}</UsedRecipe>
+
+  <UseLabel_Self>对自己使用</UseLabel_Self>
+  <UseLabel_Other>对...使用</UseLabel_Other>
+  <PotionUseLabel_Self>饮用</PotionUseLabel_Self>
+  <PotionUseLabel_Other>投掷...</PotionUseLabel_Other>
+  <FoodUseLabel_Self>食用</FoodUseLabel_Self>
+  <BombUseLabel_Other>投掷...</BombUseLabel_Other>
+  <SetTrapLabel_Other>设置陷阱...</SetTrapLabel_Other>
+  <ThrownWeaponUseLabel_Other>投掷...</ThrownWeaponUseLabel_Other>
+  <SeedUseLabel_Other>种植...</SeedUseLabel_Other>
+  <NativeWeaponUseLabel_Self>对自己使用</NativeWeaponUseLabel_Self>
+  <NativeWeaponUseLabel_Other>攻击...</NativeWeaponUseLabel_Other>
+  <SpellUseLabel_Self>对自己施法</SpellUseLabel_Self>
+  <SpellUseLabel_Other>对...施法</SpellUseLabel_Other>
+  <EmptyVialUseLabel_Other>装满...</EmptyVialUseLabel_Other>
+  <PlanksUseLabel_Other>封住门...</PlanksUseLabel_Other>
+  <ChainUseLabel_Self>锁住自己</ChainUseLabel_Self>
+  <ChainUseLabel_Other>锁住...</ChainUseLabel_Other>
+  <PlacePrivateRoomStructure_Other>放置...</PlacePrivateRoomStructure_Other>
+  <PickUpPrivateRoomStructure_Other>拾取...</PickUpPrivateRoomStructure_Other>
+  <FishingRodUseLabel_Other>钓鱼...</FishingRodUseLabel_Other>
+  <PickaxeUseLabel_Other>挖掘...</PickaxeUseLabel_Other>
+  <TalkUseLabel_Other>交谈...</TalkUseLabel_Other>
+  <CrystalUseLabel_Self>附魔</CrystalUseLabel_Self>
+  <ShovelUseLabel_Other>挖掘...</ShovelUseLabel_Other>
+  <KickUseLabel_Self>踢自己</KickUseLabel_Self>
+  <KickUseLabel_Other>踢...</KickUseLabel_Other>
+
+  <AttackDescription_Self>{0} 用 {1} 攻击自己</AttackDescription_Self>
+  <AttackDescription_Other>{0} 用 {1} 攻击 {2}</AttackDescription_Other>
+  <UseDescription_Self>{0} 使用了 {1}</UseDescription_Self>
+  <UseDescription_Other>{0} 对 {2} 使用了 {1}</UseDescription_Other>
+  <PotionUseDescription_Self>{0} 喝下了 {1}</PotionUseDescription_Self>
+  <PotionUseDescription_Other>{0} 将 {1} 扔向了 {2}</PotionUseDescription_Other>
+  <ScrollUseDescription_Self>{0} 对自己使用了 {1}</ScrollUseDescription_Self>
+  <ScrollUseDescription_Other>{0} 对 {2} 使用了 {1}</ScrollUseDescription_Other>
+  <BombUseDescription_Other>{0} 将 {1} 扔向了 {2}</BombUseDescription_Other>
+  <OpenUseDescription_Self>{0} 打开了 {1}</OpenUseDescription_Self>
+  <CloseUseDescription_Self>{0} 关闭了 {1}</CloseUseDescription_Self>
+  <GraveUseDescription_Self>{0} 挖开了 {1}</GraveUseDescription_Self>
+  <FountainUseDescription_Self>{0} 从 {1} 喝水</FountainUseDescription_Self>
+  <EnchantingTableUseDescription_Self>{0} 在 {1} 附魔装备</EnchantingTableUseDescription_Self>
+  <StaircaseUseDescription_Self>{0} 走下楼梯</StaircaseUseDescription_Self>
+  <StaircaseUpUseDescription_Self>{0} 走上楼梯</StaircaseUpUseDescription_Self>
+  <LeverUseDescription_Self>{0} 拉动了 {1}</LeverUseDescription_Self>
+  <ShrineUseDescription_Self>{0} 在 {1} 获得祝福</ShrineUseDescription_Self>
+  <FoodUseDescription_Self>{0} 吃了 {1}</FoodUseDescription_Self>
+  <SetTrapDescription_Other>{0} 设置了 {1}</SetTrapDescription_Other>
+  <WaterUseDescription_Self>{0} 在 {1} 中游泳</WaterUseDescription_Self>
+  <LavaUseDescription_Self>{0} 在 {1} 中燃烧</LavaUseDescription_Self>
+  <PressurePlateUseDescription_Self>{0} 踩上了 {1}</PressurePlateUseDescription_Self>
+  <PortalUseDescription_Self>{0} 传送</PortalUseDescription_Self>
+  <ThrownWeaponUseDescription_Other>{0} 将 {1} 扔向了 {2}</ThrownWeaponUseDescription_Other>
+  <SeedUseDescription_Other>{0} 种植了 {1}</SeedUseDescription_Other>
+  <SpellUseDescription_Self>{0} 对自己施放了 {1}</SpellUseDescription_Self>
+  <SpellUseDescription_Other>{0} 对 {2} 施放了 {1}</SpellUseDescription_Other>
+  <EmptyVialUseDescription_Other>{0} 用水装满了 {1}</EmptyVialUseDescription_Other>
+  <PlanksUseDescription_Other>{0} 封住了 {2}</PlanksUseDescription_Other>
+  <ChainUseDescription_Self>{0} 把自己锁在柱子上</ChainUseDescription_Self>
+  <ChainUseDescription_Other>{0} 把 {2} 锁在柱子上</ChainUseDescription_Other>
+  <PlacePrivateRoomStructureDescription_Other>{0} 放置了 {1}</PlacePrivateRoomStructureDescription_Other>
+  <PickUpPrivateRoomStructureDescription_Other>{0} 拾取了 {2}</PickUpPrivateRoomStructureDescription_Other>
+  <BandageUseDescription_Self>{0} 包扎自己的伤口</BandageUseDescription_Self>
+  <BandageUseDescription_Other>{0} 包扎 {2} 的伤口</BandageUseDescription_Other>
+  <SurgicalKitUseDescription_Self>{0} 进行手术</SurgicalKitUseDescription_Self>
+  <SurgicalKitUseDescription_Other>{0} 对 {2} 进行手术</SurgicalKitUseDescription_Other>
+  <SkeletalRemainsUseDescription_Self>{0} 搜索了 {1}</SkeletalRemainsUseDescription_Self>
+  <GamblingTableUseDescription_Self>{0} 在 {1} 赌博</GamblingTableUseDescription_Self>
+  <ButtonUseDescription_Self>{0} 按下了 {1}</ButtonUseDescription_Self>
+  <TrialUseDescription_Self>{0} 在 {1} 开始挑战</TrialUseDescription_Self>
+  <DuplicatorUseDescription_Self>{0} 在 {1} 复制物品</DuplicatorUseDescription_Self>
+  <FishingRodUseDescription_Other>{0} 在 {2} 钓鱼</FishingRodUseDescription_Other>
+  <ExtinguisherUseDescription_Self>{0} 熄灭了自己身上的火</ExtinguisherUseDescription_Self>
+  <ExtinguisherUseDescription_Other>{0} 熄灭了 {2} 身上的火</ExtinguisherUseDescription_Other>
+  <AncientDeviceUseDescription_Self>{0} 研究了 {1}</AncientDeviceUseDescription_Self>
+  <WallWithCompartmentUseDescription_Self>{0} 搜索了 {1}</WallWithCompartmentUseDescription_Self>
+  <BedUseDescription_Self>{0} 在 {1} 中睡觉</BedUseDescription_Self>
+  <PickaxeUseDescription_Other>{0} 用 {1} 挖掘 {2}</PickaxeUseDescription_Other>
+  <TalkUseDescription_Other>{0} 与 {2} 交谈</TalkUseDescription_Other>
+  <CrystalUseDescription_Self>{0} 用 {1} 附魔一个物品</CrystalUseDescription_Self>
+  <ShovelUseDescription_Other>{0} 用 {1} 挖掘 {2}</ShovelUseDescription_Other>
+  <LimbOfferingAltarUseDescription_Self>{0} 在 {1} 献祭肢体</LimbOfferingAltarUseDescription_Self>
+  <PhantomsAltarUseDescription_Self>{0} 在 {1} 召唤幻影</PhantomsAltarUseDescription_Self>
+  <AltarOfRedemptionUseDescription_Self>{0} 在 {1} 解救灵魂</AltarOfRedemptionUseDescription_Self>
+  <CleanUpUseDescription_Self>{0} 清理了 {1}</CleanUpUseDescription_Self>
+  <BookshelfUseDescription_Self>{0} 在 {1} 获得一个技能点</BookshelfUseDescription_Self>
+  <KickDescription_Self>{0} 踢了自己</KickDescription_Self>
+  <KickDescription_Other>{0} 踢了 {2}</KickDescription_Other>
+  <AnvilUseDescription_Self>{0} 在 {1} 升级装备</AnvilUseDescription_Self>
+  <DevilStatueUseDescription_Self>{0} 向 {1} 献上被诅咒的物品</DevilStatueUseDescription_Self>
+
+  <Up>上</Up>
+  <Down>下</Down>
+  <North>北</North>
+  <South>南</South>
+  <West>西</West>
+  <East>东</East>
+  <NorthWest>西北</NorthWest>
+  <NorthEast>东北</NorthEast>
+  <SouthWest>西南</SouthWest>
+  <SouthEast>东南</SouthEast>
+  <UpNorth>上北</UpNorth>
+  <UpSouth>上南</UpSouth>
+  <UpWest>上西</UpWest>
+  <UpEast>上东</UpEast>
+  <UpNorthWest>上西北</UpNorthWest>
+  <UpNorthEast>上东北</UpNorthEast>
+  <UpSouthWest>上西南</UpSouthWest>
+  <UpSouthEast>上东南</UpSouthEast>
+  <DownNorth>下北</DownNorth>
+  <DownSouth>下南</DownSouth>
+  <DownWest>下西</DownWest>
+  <DownEast>下东</DownEast>
+  <DownNorthWest>下西北</DownNorthWest>
+  <DownNorthEast>下东北</DownNorthEast>
+  <DownSouthWest>下西南</DownSouthWest>
+  <DownSouthEast>下东南</DownSouthEast>
+
+  <Room_Start>起点</Room_Start>
+  <Room_End>终点</Room_End>
+  <Room_Lever>杠杆</Room_Lever>
+  <Room_StoreysTransition>梯子</Room_StoreysTransition>
+  <Room_BossRoom>首领房</Room_BossRoom>
+
+  <CanSurpriseAttack>伏击机会</CanSurpriseAttack>
+  <CanSurpriseAttackDesc>此角色在上一回合没有看到你，所以如果你现在攻击他们，将造成 {0} 额外伤害。</CanSurpriseAttackDesc>
+
+  <AboveYou>在你上方</AboveYou>
+  <AboveYouDesc>此角色当前在你上方，这意味着如果他们从这个位置击中你，将造成 {0} 额外伤害。</AboveYouDesc>
+
+  <BelowYou>在你下方</BelowYou>
+  <BelowYouDesc>此角色当前在你下方，这意味着如果你从这个位置击中他们，将造成 {0} 额外伤害。</BelowYouDesc>
+
+  <CantSeePlayer>看不见你</CantSeePlayer>
+  <CantSeePlayerDesc>此角色看不见你（他们的视线范围没有你远）。但要小心——他们可能还记得你的最后位置并想去查看！</CantSeePlayerDesc>
+
+  <Falling>坠落中</Falling>
+  <FallingDesc>此角色正在坠落，这意味着他们的下一回合将用于坠落而不是执行动作。</FallingDesc>
+
+  <UnidentifiedCondition>未鉴定效果</UnidentifiedCondition>
+  <UnidentifiedConditionDesc>一个未知效果。它来自一个未鉴定的物品。</UnidentifiedConditionDesc>
+
+  <SurroundedBonusDesc>你被至少2个敌人包围，这意味着如果你从这个位置击中此角色，将造成 {0} 额外伤害。</SurroundedBonusDesc>
+
+  <UnidentifiedUseEffect>未鉴定效果</UnidentifiedUseEffect>
+  <UnidentifiedUseEffectDesc>一个未知效果。它来自一个未鉴定的物品。</UnidentifiedUseEffectDesc>
+
+  <TimeTip>{0}\n{1}\n\n这是当前的游戏内时间。一分钟代表一回合。\n\n整个游戏是回合制的。大多数动作需要一回合完成，如行走、喝药水、攻击或与事物互动。\n\n已过总回合数：{2}。\n在此层：{3}。</TimeTip>
+  <PlayerHealthTip>这是你角色的生命值。\n\n某些物品可能会增加你的最大生命值。每升一级会给你 {0} 最大生命值。</PlayerHealthTip>
+  <PlayerHealthRegenTip>如果不饿或不挨饿，每 {1} 会治疗 {0}。</PlayerHealthRegenTip>
+  <PlayerHealthRegenHealHPInTip>下一点生命值治疗倒计时：{0}。</PlayerHealthRegenHealHPInTip>
+  <LosingHPBecauseAboveMaxTip>你正在失去生命值，因为它超过了最大值。</LosingHPBecauseAboveMaxTip>
+  <LosingManaBecauseAboveMaxTip>你正在失去法力值，因为它超过了最大值。</LosingManaBecauseAboveMaxTip>
+  <LosingStaminaBecauseAboveMaxTip>你正在失去耐力，因为它超过了最大值。</LosingStaminaBecauseAboveMaxTip>
+  <ItemIdentificationTip>此物品将在 {0} 后被鉴定。拖放以重新排序。</ItemIdentificationTip>
+  <ItemUnidentifiedDescChoices>此物品{0}。然而，由于你无可挑剔的洞察力，你可以判断出它是以下之一：</ItemUnidentifiedDescChoices>
+  <IdentificationGroupsBecomeIdentifiedDesc>这类物品一旦使用就会被永久鉴定。</IdentificationGroupsBecomeIdentifiedDesc>
+  <ItemUnidentifiedDesc>此物品{0}。它可能有未知效果并且{1}（你无法卸下{1}物品）。流浪者可以帮助你进行鉴定。</ItemUnidentifiedDesc>
+  <ItemCursedDesc>此物品{0}。你无法卸下{0}物品（除非有诅咒解除卷轴）。</ItemCursedDesc>
+  <SignTexts>恭喜！;你能行的！;我一直相信你！;就快到了！;我希望我能像你一样棒！;太棒了！;继续努力！;你是最棒的！;你做到了！;干得漂亮！;你太棒了！</SignTexts>
+  <Sign_FloorOne>欢迎来到第1层。\n\n你的旅程从这里开始，即使这可能不是你第一次读这个牌子。\n\n有些事情一开始可能看起来很困难，但这没关系。最重要的是，我们必须记住——失败是很有趣的！</Sign_FloorOne>
+  <Sign_AnyFloor>欢迎来到第 {0} 层。</Sign_AnyFloor>
+  <Sign_Shelter>在这里，每个灵魂都停下脚步寻找自己的道路。</Sign_Shelter>
+  <BossTrophyDesc>在 {0} 被击杀。</BossTrophyDesc>
+  <PlayerGoldTip>你物品栏中的金币数量。这个地牢里可能有一些人愿意交易。</PlayerGoldTip>
+  <SpawnsNextIn>下一个 {0} 生成于</SpawnsNextIn>
+  <WontSpawnMore>不会再生成</WontSpawnMore>
+  <DisappearsIn>在 {0} 内消失。</DisappearsIn>
+  <SpreadsIn>在 {0} 内扩散。</SpreadsIn>
+  <UseCycleUseIn>下一个动作在 {0} 后。</UseCycleUseIn>
+  <TriggerTurnsLeft>将在 {0} 内激活。</TriggerTurnsLeft>
+  <ConditionOrigin>来源</ConditionOrigin>
+  <DifficultyOrigin>来源：难度</DifficultyOrigin>
+  <WorldSituationPresentSince>自...以来存在</WorldSituationPresentSince>
+  <ChangeAltitudeTip>按 [Fly]+[MoveForward] 上升，按 [Fly]+[MoveBack] 下降。</ChangeAltitudeTip>
+  <KickDoorTip>按住 [Fly] 踢门。</KickDoorTip>
+  <PressKeyToRewindTip>按 [Rewind] 回溯时间。</PressKeyToRewindTip>
+
+  <UsingThisItemCostsNoTurn>使用此物品不消耗回合。</UsingThisItemCostsNoTurn>
+  <UsingThisItemCostsXOfATurn>使用此物品消耗 {0} 回合。</UsingThisItemCostsXOfATurn>
+  <UsingThisItemCostsXTurns>使用此物品消耗 {0} 回合。</UsingThisItemCostsXTurns>
+  <UsingThisSpellCostsNoTurn>使用此法术不消耗回合。</UsingThisSpellCostsNoTurn>
+  <UsingThisSpellCostsXOfATurn>使用此法术消耗 {0} 回合。</UsingThisSpellCostsXOfATurn>
+  <UsingThisSpellCostsXTurns>使用此法术消耗 {0} 回合。</UsingThisSpellCostsXTurns>
+  <UsingThisNativeWeaponCostsNoTurn>这样做不消耗回合。</UsingThisNativeWeaponCostsNoTurn>
+  <UsingThisNativeWeaponCostsXOfATurn>这样做消耗 {0} 回合。</UsingThisNativeWeaponCostsXOfATurn>
+  <UsingThisNativeWeaponCostsXTurns>这样做消耗 {0} 回合。</UsingThisNativeWeaponCostsXTurns>
+  <InteractingWithThisStructureCostsNoTurn>与此物体互动不消耗回合。</InteractingWithThisStructureCostsNoTurn>
+  <InteractingWithThisStructureCostsXOfATurn>与此物体互动消耗 {0} 回合。</InteractingWithThisStructureCostsXOfATurn>
+  <InteractingWithThisStructureCostsXTurns>与此物体互动消耗 {0} 回合。</InteractingWithThisStructureCostsXTurns>
+  
+  <FlammableEntityTip>此物体易燃。</FlammableEntityTip>
+  <AllowUseOnlyIfNotSeenByHostilesTip>只有在没人看到你的时候才能使用它。</AllowUseOnlyIfNotSeenByHostilesTip>
+  <FragileEntityTip>此物体易碎（爆炸会摧毁它）。</FragileEntityTip>
+  <IdentificationStoppedTip>因为你饿了，鉴定已停止。</IdentificationStoppedTip>
+  <ClickToPickUpTip>点击拾取。</ClickToPickUpTip>
+  <ClickToInteractTip>点击互动。</ClickToInteractTip>
+  <ClickToBuyTip>点击购买。</ClickToBuyTip>
+  <ClickToPickUpTipController>互动以拾取。</ClickToPickUpTipController>
+  <ClickToInteractTipController>与此物体互动。</ClickToInteractTipController>
+  <ClickToBuyTipController>互动以购买。</ClickToBuyTipController>
+  <DestroyOnDescendItemTip>此物品在下降后会消失。</DestroyOnDescendItemTip>
+  <PlayerExperienceTip>这是你到下一级的进度。你可以通过击败敌人获得经验。\n\n到下一级的经验：{0}\n当前等级：{1}\n总经验：{2}</PlayerExperienceTip>
+  <PlayerLevelTip>这是你当前的等级。你可以通过击败敌人升级。\n\n每升一级给你 {0} 最大生命值。此外，每次升级你都可以选择一个新法术。\n\n到下一级的经验：{2}\n总经验：{3}</PlayerLevelTip>
+  <ScoreLevelTip>这是你基于所有游戏总分的当前等级。你可以通过击败敌人和在游戏中取得进展来获得分数。\n\n到下一级的分数：{0}\n总分数：{1}</ScoreLevelTip>
+  <PlayerHungerTip>这是你当前的饱食度：{0}/{1}\n\n你需要定期进食以满足你的饥饿并避免后果。\n\n一旦饱食度达到 {2}，你就会变得饥饿——你将不会再生生命值或鉴定物品。\n\n一旦饱食度达到 {3}，你就会变得挨饿——你将不会再生耐力，并且会随着时间的推移慢慢失去生命值。</PlayerHungerTip>
+  <DungeonFloorTip>这是当前的地牢层数。你走得越深，生存就越困难，但也会变得更有趣！</DungeonFloorTip>
+  <KilledExperienceTip>给予 {0} 经验</KilledExperienceTip>
+  <AngeringFactionTip>警告：如果被杀死，该阵营的所有成员都将变得敌对。</AngeringFactionTip>
+  <AITip>战术：{0}</AITip>
+  <FollowerTip>此角色将跟随你到下一层。</FollowerTip>
+  <Conditions>状态</Conditions>
+  <Weapon>武器</Weapon>
+  <Spells>法术</Spells>
+  <Talk>交谈</Talk>
+  <WhenDies>死亡时</WhenDies>
+  <Worn>穿戴</Worn>
+  <Inventory>物品栏</Inventory>
+  <ActorMiscSection>信息</ActorMiscSection>
+  <CostsMana>消耗 {0}</CostsMana>
+  <CostsStamina>消耗 {0}</CostsStamina>
+  <PlayerManaTip>这是你角色的法力值。\n\n施放法术和使用魔法物品会消耗法力值。法力值不会随时间自动恢复，只能通过饮用法力药水或与某些特殊物体互动来补充。当你没有任何法术时，法力条是隐藏的。\n\n每次升级你都可以选择一个新法术。</PlayerManaTip>
+  <PlayerStaminaTip>这是你角色的耐力。\n\n使用某些物品可能需要耐力。当你物品栏中没有任何需要耐力的物品时，耐力条是隐藏的。</PlayerStaminaTip>
+  <PlayerStaminaRegenTip>如果不挨饿，每 {1} 将恢复 {0}。</PlayerStaminaRegenTip>
+  <PlayerStaminaRegenNextRegenInTip>下一点耐力恢复倒计时：{0}。</PlayerStaminaRegenNextRegenInTip>
+  <AddSpellButtonTip>选择一个新法术。每次升级你都可以选择一个新法术。</AddSpellButtonTip>
+  <FleesOnLowHP>低生命值时逃跑</FleesOnLowHP>
+  <RewindTip>手表让你随意回溯时间！按 [Rewind] 回溯上一回合。\n\n当你对最近行动的结果不满意或只是误操作时，随时使用它。\n\n手表一次可以回溯的回合数有限，但每 {0} 回合会重新充能。与其他时间操控物品（如回溯卷轴）不同，手表在你使用未鉴定药水或卷轴、装备被诅咒物品、踩到陷阱或使用银钥匙时会失去所有剩余充能。\n\nRicave 中的所有行动都是确定性的，这意味着回溯后，如果你再次做出相同的移动，一切都会和之前完全一样，包括造成相同的伤害和敌人做出相同的决定。仅仅为了掷出更高的伤害而回溯时间是行不通的。</RewindTip>
+  <RewindReplenishTip>补充倒计时：{0}</RewindReplenishTip>
+  <StardustTip>星尘可以在地牢的各个地方找到，也可以作为完成任务的奖励。你可以在大厅花费星尘。</StardustTip>
+  <PuzzlePiecesTip>收集所有 {0} 块拼图以解锁大厅中的一个特殊房间。地牢的每一层都有一块拼图，每次游戏只能找到一块。</PuzzlePiecesTip>
+  <PuzzlePiecesTip_NextPuzzlePiece>下一块拼图在第 {0} 层</PuzzlePiecesTip_NextPuzzlePiece>
+  <UseRange>范围：{0}</UseRange>
+  <Melee>近战</Melee>
+  <YouAreInRange>你在范围内</YouAreInRange>
+  <YouAreOutOfRange>你不在范围内</YouAreOutOfRange>
+  <PickUpPrivateRoomStructureTip>拾取你私人房间里放置的物体。</PickUpPrivateRoomStructureTip>
+  <CompassTip>你当前朝向 {0}。\n\n使用“[MoveForward][RotateLeft][MoveBack][RotateRight]”移动。\n使用“[MoveLeft]”和“[MoveRight]”侧移。\n如果你的角色可以飞行，使用“[Fly]+[MoveForward]”和“[Fly]+[MoveBack]”上下移动。</CompassTip>
+  <WillTakeDamageIn>将在 {0} 内受到伤害。</WillTakeDamageIn>
+  <WillGainHPIn>将在 {0} 内获得生命值。</WillGainHPIn>
+  <WillGainStaminaIn>将在 {0} 内获得耐力。</WillGainStaminaIn>
+  <WillGainManaIn>将在 {0} 内获得法力值。</WillGainManaIn>
+  <StaminaRegenDisabledBecauseNotTouchingGround>耐力恢复已禁用，因为此角色未接触地面。</StaminaRegenDisabledBecauseNotTouchingGround>
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>耐力恢复已禁用，因为你未接触地面。</StaminaRegenDisabledBecausePlayerNotTouchingGround>
+  <CooldownTip>冷却时间：{0}</CooldownTip>
+  <CooldownTurnsRemaining>剩余 {0}</CooldownTurnsRemaining>
+  <UnlockSkillFirst>先解锁 {0}</UnlockSkillFirst>
+  <YouDontHaveAnySkillPoints>你没有任何技能点</YouDontHaveAnySkillPoints>
+  <ClickToUnlockSkill>点击解锁</ClickToUnlockSkill>
+  <ClickToUnlockSkillController>互动以解锁</ClickToUnlockSkillController>
+  <TraitEffects>效果</TraitEffects>
+  <EscapingModeTip>所有的门都打开了，所有人都醒了。你现在必须逃跑！\n\n此外，将生成两倍的老鼠。</EscapingModeTip>
+  <PetRatTip>洛可会在你移动时为你收集相邻地块的金币。</PetRatTip>
+  <CheckInCodexTip>提示：你可以查看图鉴以获取典型数据</CheckInCodexTip>
+  <InventorySortButtonTip>对物品栏进行排序</InventorySortButtonTip>
+
+  <Unequip>卸下</Unequip>
+  <Equip>装备</Equip>
+  <Unwear>脱下</Unwear>
+  <Wear>穿戴</Wear>
+  <Drop>丢弃</Drop>
+  <Destroy>摧毁</Destroy>
+  <MixWith>与 {0} 混合</MixWith>
+  <LookAt>查看</LookAt>
+  <MoveTo>移动到</MoveTo>
+  <UseOn>对...使用 {0}</UseOn>
+  <InteractWith>与...互动</InteractWith>
+  <Disabled>已禁用</Disabled>
+  <GiveItem>给予 {0}</GiveItem>
+  <WaitOptionDeath>死亡</WaitOptionDeath>
+  <NoSpace>没有空间</NoSpace>
+  <CurrentlyEquippedItemIsCursed>当前装备的物品被诅咒了</CurrentlyEquippedItemIsCursed>
+
+  <NameGenerator1>奇特的, 强大的, 全能的, 有力的, 可怕的, 令人愉快的, 令人印象深刻的, 精力充沛的, 迷人的, 美丽的, 可爱的, 惊险的, 可爱的, 聪明的, 迷人的, 尴尬的, 不可战胜的, 小的, 大的, 可怕的, 快乐的, 悲伤的, 摇晃的, 奇怪的, 疯狂的, 令人兴奋的, 漂亮的, 诱人的</NameGenerator1>
+  <NameGenerator2>大黄蜂, 谦虚的, 小豆, 柠檬, 胡言乱语, 杂乱, 傻瓜, 开花, 大错误, 棒棒糖, 波普尔, 猪肉, 隆隆声, 唐德, 唐德尔, 多普尔, 布罗布尔, 鸡, 紫色, 扭动, 喋喋不休, 摆弄, 丁格尔, 扑通, 摇摆, 叮当, 涂鸦</NameGenerator2>
+  <NameGenerator3>离合器, 价值, 院子, 儿子, 巴布尔, 马克, 吨, 邦, 贡, 蹄, 斯坦, 豆, 鲷鱼, 斑点, 噗, 笑, 巴赫, 多莉, 斯纳夫, 扑通, 扑通, 布夫, 咩, 斯纳克, 博克</NameGenerator3>
+  <SpiritName>{0}之魂</SpiritName>
+  <SpiritNameGenerator>欢笑, 变化, 希望, 孤独, 和谐, 决心, 喜悦, 恐惧, 愤怒, 悲伤, 爱, 惊喜, 厌恶, 好奇, 希望, 绝望, 信任, 怀疑, 勇气, 愧疚, 羞耻, 感激, 嫉妒, 宽慰, 无聊, 平静, 怀旧, 韧性, 共情, 期待, 悔恨, 敬畏, 谦逊, 挫折, 轻蔑</SpiritNameGenerator>
+
+  <KeyCode_None>无</KeyCode_None>
+  <KeyCode_Return>回车</KeyCode_Return>
+  <KeyCode_Escape>退出</KeyCode_Escape>
+  <KeyCode_Space>空格</KeyCode_Space>
+  <KeyCode_Mouse0>鼠标左键</KeyCode_Mouse0>
+  <KeyCode_Mouse1>鼠标右键</KeyCode_Mouse1>
+  <KeyCode_Mouse2>鼠标中键</KeyCode_Mouse2>
+  <KeyCode_Alt>Alt</KeyCode_Alt>
+  <KeyCode_Shift>Shift</KeyCode_Shift>
+  <KeyCode_Control>Control</KeyCode_Control>
+  <KeyCode_Command>Command</KeyCode_Command>
+  <KeyCode_Windows>Windows键</KeyCode_Windows>
+  <ControllerKey_LT>左扳机</ControllerKey_LT>
+  <ControllerKey_RT>右扳机</ControllerKey_RT>
+  <ControllerKey_LB>左缓冲键</ControllerKey_LB>
+  <ControllerKey_RB>右缓冲键</ControllerKey_RB>
+  <ControllerKey_View>后退按钮</ControllerKey_View>
+  <ControllerKey_Menu>开始按钮</ControllerKey_Menu>
+  <ControllerKey_LSB>左摇杆点击</ControllerKey_LSB>
+  <ControllerKey_RSB>右摇杆点击</ControllerKey_RSB>
+
+  <ScoreGain_Kill>击杀</ScoreGain_Kill>
+  <ScoreGain_DoubleKill>双杀</ScoreGain_DoubleKill>
+  <ScoreGain_TripleKill>三杀</ScoreGain_TripleKill>
+  <ScoreGain_KillCombo>{0} 连杀</ScoreGain_KillCombo>
+  <ScoreGain_NewFloor>新楼层</ScoreGain_NewFloor>
+  <ScoreGain_TrialCompleted>试炼完成</ScoreGain_TrialCompleted>
+  <ScoreGain_SpecificKill>{0} 击杀</ScoreGain_SpecificKill>
+
+  <DayPart_Morning>早晨</DayPart_Morning>
+  <DayPart_Day>白天</DayPart_Day>
+  <DayPart_Evening>傍晚</DayPart_Evening>
+  <DayPart_Night>夜晚</DayPart_Night>
+
+  <CombatRating_Unknown>-</CombatRating_Unknown>
+  <CombatRating_S>S</CombatRating_S>
+  <CombatRating_A>A</CombatRating_A>
+  <CombatRating_B>B</CombatRating_B>
+  <CombatRating_C>C</CombatRating_C>
+  <CombatRating_D>D</CombatRating_D>
+
+  <SkillCategory_Defense>防御者</SkillCategory_Defense>
+  <SkillCategory_Attack>战士</SkillCategory_Attack>
+  <SkillCategory_Misc>冒险家</SkillCategory_Misc>
+
+  <CrystalType_Red>红色</CrystalType_Red>
+  <CrystalType_Green>绿色</CrystalType_Green>
+  <CrystalType_Blue>蓝色</CrystalType_Blue>
+
+  <AuthorType_1>里奥</AuthorType_1>
+  <AuthorType_2>伊芙</AuthorType_2>
+
+  <RecipeCategory_Utilities>工具</RecipeCategory_Utilities>
+  <RecipeCategory_Potions>药水</RecipeCategory_Potions>
+  <RecipeCategory_Scrolls>卷轴</RecipeCategory_Scrolls>
+  <RecipeCategory_WeaponsAndGear>武器与装备</RecipeCategory_WeaponsAndGear>
+
+</Strings>

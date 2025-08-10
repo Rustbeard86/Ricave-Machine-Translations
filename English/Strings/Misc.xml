@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>Play</Play>
+  <Quit>Quit</Quit>
+  <Loading>Loading</Loading>
+  <Resume>Resume</Resume>
+  <Options>Options</Options>
+  <Mods>Mods</Mods>
+  <Credits>Credits</Credits>
+  <ChooseLanguage>Choose language</ChooseLanguage>
+  <QuickRestart>Die and restart</QuickRestart>
+  <QuitToLobby>Die and go to lobby</QuitToLobby>
+  <SaveAndExitGame>Save and exit game</SaveAndExitGame>
+  <Close>Close</Close>
+  <Back>Back</Back>
+  <Days>{0} days</Days>
+  <Hours>{0} hours</Hours>
+  <Minutes>{0} minutes</Minutes>
+  <OneDay>1 day</OneDay>
+  <OneHour>1 hour</OneHour>
+  <OneMinute>1 minute</OneMinute>
+  <ApplicationErrorsInfo>Something is causing errors.\nSee log file for more information.</ApplicationErrorsInfo>
+  <LoggedInAs>Logged into Steam</LoggedInAs>
+  <NoModSelected>no mod selected</NoModSelected>
+  <EarlyAccessTitle>Early Access</EarlyAccessTitle>
+  <EarlyAccessText>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</EarlyAccessText>
+  <VersionMismatchTitle>Game updated</VersionMismatchTitle>
+  <VersionMismatchText>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</VersionMismatchText>
+  <UploadToSteam>Upload to Steam</UploadToSteam>
+  <UploadingToSteam>uploading</UploadingToSteam>
+  <SteamUploadFailed>Could not upload to Steam: {0}</SteamUploadFailed>
+  <SteamUploadSucceeded>Successfully uploaded to Steam.</SteamUploadSucceeded>
+  <MessageTitle>Message</MessageTitle>
+
+  <!-- Options -->
+  <Resolution>Resolution</Resolution>
+  <Fullscreen>Fullscreen</Fullscreen>
+  <UIScale>UI scale</UIScale>
+  <FOV>FOV</FOV>
+  <VSync>VSync</VSync>
+  <TargetFramerate>Target framerate</TargetFramerate>
+  <ShowFPS>Show FPS</ShowFPS>
+  <InvertY>Invert Y</InvertY>
+  <KeyBindings>Key bindings</KeyBindings>
+  <Volume>Volume</Volume>
+  <MusicVolume>Music volume</MusicVolume>
+  <MouseSensitivity>Mouse sensitivity</MouseSensitivity>
+  <MouseSensitivityController>Pointer sensitivity</MouseSensitivityController>
+  <SSAOQuality>SSAO quality</SSAOQuality>
+  <ShadowQuality>Shadow quality</ShadowQuality>
+  <Downsampling>Downsampling</Downsampling>
+  <Outline>Outline</Outline>
+  <MaxLights>Max lights</MaxLights>
+  <SSAOQuality_Off>Off</SSAOQuality_Off>
+  <SSAOQuality_Low>Low</SSAOQuality_Low>
+  <SSAOQuality_Normal>Normal</SSAOQuality_Normal>
+  <SSAOQuality_High>High</SSAOQuality_High>
+  <ShadowQuality_Low>Low</ShadowQuality_Low>
+  <ShadowQuality_Normal>Normal</ShadowQuality_Normal>
+  <ShadowQuality_High>High</ShadowQuality_High>
+  <DownsamplingLevel_None>None (best quality)</DownsamplingLevel_None>
+  <DownsamplingLevel_OneAndHalf>1.5x (worse quality)</DownsamplingLevel_OneAndHalf>
+  <DownsamplingLevel_Two>2x (worst quality)</DownsamplingLevel_Two>
+  <Outline_MultiPassRound>Multi-pass rounded</Outline_MultiPassRound>
+  <Outline_MultiPass>Multi-pass</Outline_MultiPass>
+  <Outline_SinglePass>Single-pass (recommended)</Outline_SinglePass>
+  <OK>OK</OK>
+  <RestoreDefaults>Restore defaults</RestoreDefaults>
+  <ResetGameState>Reset game state</ResetGameState>
+  <ReturnToLobby>Return to lobby</ReturnToLobby>
+  <ResetAllProgress>Reset all progress</ResetAllProgress>
+  <ConfirmReturnToLobby>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</ConfirmReturnToLobby>
+  <ConfirmResetAllProgress>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</ConfirmResetAllProgress>
+  <PressKeyToAssignTo>Press a key to assign to:</PressKeyToAssignTo>
+  <UnassignedKeyShort>None</UnassignedKeyShort>
+  <VideoSection>Video</VideoSection>
+  <InterfaceSection>Interface</InterfaceSection>
+  <AudioSection>Audio</AudioSection>
+  <MiscSection>Misc</MiscSection>
+  <QualitySection>Quality</QualitySection>
+
+  <!-- Confirmation -->
+  <No>No</No>
+  <Yes>Yes</Yes>
+
+  <!-- Lobby -->
+  <EnterDungeon>Enter dungeon</EnterDungeon>
+  <EnterDungeonWithSeed>Enter dungeon with seed</EnterDungeonWithSeed>
+  <EnterTrainingRoom>Enter training room</EnterTrainingRoom>
+  <EnterSeed>Enter seed</EnterSeed>
+  <ProgressDisabled>Progress disabled</ProgressDisabled>
+  <MaxScore>High score</MaxScore>
+  <MaxFloorReached>Floor reached</MaxFloorReached>
+  <AverageFloorReached>Average floor</AverageFloorReached>
+  <Attempts>Attempts</Attempts>
+  <TotalKillCount>Total kills</TotalKillCount>
+  <QuestLog>Quests</QuestLog>
+  <Stats>Stats</Stats>
+  <Cancel>Cancel</Cancel>
+  <Accept>Accept</Accept>
+  <AcceptQuest>Accept quest</AcceptQuest>
+  <Claim>Claim</Claim>
+  <Postpone>Postpone</Postpone>
+  <Locked>Locked</Locked>
+  <LobbyShopkeeperSpeak_1>Best prices only!</LobbyShopkeeperSpeak_1>
+  <LobbyShopkeeperSpeak_2>Need upgrades?</LobbyShopkeeperSpeak_2>
+  <LobbyShopkeeperSpeak_3>Got stardust?</LobbyShopkeeperSpeak_3>
+  <ClickToReadMore>Click to read more</ClickToReadMore>
+  <ClickToReadMoreController>Select to read more</ClickToReadMoreController>
+  <DungeonModifiers>Dungeon modifiers when accepted</DungeonModifiers>
+  <Rewards>Rewards</Rewards>
+  <PuzzlePiecesCollected>{0} / {1} puzzle pieces</PuzzlePiecesCollected>
+  <UnlockedAtLevel>Unlock at level {0}</UnlockedAtLevel>
+  <UnlockedByQuest>Unlock by finishing quest</UnlockedByQuest>
+  <Place>Place</Place>
+  <PickUp>Pick up</PickUp>
+  <PrivateRoomInfo>Press [ShowInventory] to open the shop menu.</PrivateRoomInfo>
+  <None>None</None>
+  <CompletedQuests>Completed quests</CompletedQuests>
+  <QuestLogBoardText>Completed</QuestLogBoardText>
+  <DailyChallengeBoardText>Daily challenge</DailyChallengeBoardText>
+  <DailyChallengeTitle>You have one attempt - make it count!</DailyChallengeTitle>
+  <DailyChallengeExplanation>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</DailyChallengeExplanation>
+  <DailyChallengeTimeLeft>Next challenge in: {0}:{1}:{2}</DailyChallengeTimeLeft>
+  <AllDailyChallengesBestScore>Your best score (all days): {0}</AllDailyChallengesBestScore>
+  <DailyChallengeStart>Start daily challenge</DailyChallengeStart>
+  <DailyChallengeAlreadyPlayed>You've already played today's challenge\nYour score was: {0}</DailyChallengeAlreadyPlayed>
+  <DailyChallengeModsActive>Disable mods first</DailyChallengeModsActive>
+  <DailyChallengeRequiresLevel>Unlocked at level {0}</DailyChallengeRequiresLevel>
+  <ViewDailyLeaderboard>View leaderboard for today</ViewDailyLeaderboard>
+  <GlobalLeaderboard>Global</GlobalLeaderboard>
+  <FriendsLeaderboard>Friends</FriendsLeaderboard>
+  <YourLeaderboardRank>Your rank: #{0}</YourLeaderboardRank>
+  <LoadingLeaderboard>Loading leaderboard...</LoadingLeaderboard>
+  <LeaderboardLoadTimeout>Failed to load leaderboard.</LeaderboardLoadTimeout>
+  <NoLeaderboardData>No leaderboard available.</NoLeaderboardData>
+  <NoFriendsPlayed>None of your friends have played this challenge yet.</NoFriendsPlayed>
+  <ActiveQuests>Active quests</ActiveQuests>
+  <ActiveQuestsShort>Active</ActiveQuestsShort>
+  <AvailableQuests>Available quests</AvailableQuests>
+  <AvailableQuestsShort>Available</AvailableQuestsShort>
+  <HistoricalQuests>Historical quests</HistoricalQuests>
+  <HistoricalQuestsShort>Historical</HistoricalQuestsShort>
+  <PressSpaceToContinue>Press [Wait] to continue</PressSpaceToContinue>
+  <Quest>Quest</Quest>
+  <Runs>Runs</Runs>
+  <OneQuestAvailable>1 quest available</OneQuestAvailable>
+  <QuestsAvailable>{0} quests available</QuestsAvailable>
+  <QuestsAvailableTip>Use the quest log to accept quests.</QuestsAvailableTip>
+  <PlayerName>Player name</PlayerName>
+  <Difficulty>Difficulty</Difficulty>
+  <Enemies>Enemies</Enemies>
+  <Bosses>Bosses</Bosses>
+  <Train>Train</Train>
+  <EnterNewName>Enter new name</EnterNewName>
+  <EnemyHPFactor>Enemy HP</EnemyHPFactor>
+  <StartingPlayerHP>Starting HP</StartingPlayerHP>
+  <ScoreFactor>Score</ScoreFactor>
+  <ExtraEnemies>Extra enemies</ExtraEnemies>
+  <BreadCountPerFloor>Bread per floor</BreadCountPerFloor>
+  <UpToHealthPotionsPerFloor>Health potions per floor</UpToHealthPotionsPerFloor>
+  <DifficultyRampUpMultiplier>Enemy level</DifficultyRampUpMultiplier>
+  <GoldPerFloorMultiplier>Gold loot per floor</GoldPerFloorMultiplier>
+  <StardustFactor>Stardust</StardustFactor>
+  <HealingCrystalsPerFloor>Healing crystals</HealingCrystalsPerFloor>
+  <SmallHealingCrystalsPerFloor>Small healing crystals</SmallHealingCrystalsPerFloor>
+  <ManaCrystalsPerFloor>Mana crystals</ManaCrystalsPerFloor>
+  <SmallManaCrystalsPerFloor>Small mana crystals</SmallManaCrystalsPerFloor>
+  <EnemyCountPerFloorMultiplier>Number of enemies</EnemyCountPerFloorMultiplier>
+  <StartingHealthPotions>Starting health potions</StartingHealthPotions>
+  <FinishedGameTitle>Congratulations!</FinishedGameTitle>
+  <FinishedGameText>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</FinishedGameText>
+  <NextTraitsPrice>Next traits price</NextTraitsPrice>
+  <LockedTraitTip>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</LockedTraitTip>
+  <MaxFloorReachedWithTraitTip>Max floor you've reached with this trait: {0}</MaxFloorReachedWithTraitTip>
+  <TraitsLimitReached>You can only choose up to 2 traits.</TraitsLimitReached>
+  <CantAffordTrait>You don't have enough stardust.</CantAffordTrait>
+  <ClickToSelectTrait>Click to select or unselect this trait.</ClickToSelectTrait>
+  <ClickToSelectTraitController>Select or unselect this trait.</ClickToSelectTraitController>
+  <ClickToSelect>Click to select or unselect.</ClickToSelect>
+  <ClickToSelectController>Select or unselect.</ClickToSelectController>
+  <BuyRandomTraits>Buy {0} random traits</BuyRandomTraits>
+  <SelectedTraits>Selected traits</SelectedTraits>
+  <ConfirmBuyRandomTraits>Do you really want to buy {1} random traits for {0}?</ConfirmBuyRandomTraits>
+  <TraitExtraStartingItem>Start with {0}</TraitExtraStartingItem>
+  <TraitGoldPerFloorFactor_More>Find {0} more gold</TraitGoldPerFloorFactor_More>
+  <TraitGoldPerFloorFactor_Less>Find {0} less gold</TraitGoldPerFloorFactor_Less>
+  <TraitMaxHPOffset>Max HP</TraitMaxHPOffset>
+  <TraitMaxManaOffset>Max mana</TraitMaxManaOffset>
+  <TraitMaxStaminaOffset>Max stamina</TraitMaxStaminaOffset>
+  <TraitNotHostileTo>Not hostile {0}</TraitNotHostileTo>
+  <TraitHostileTo>Hostile {0}</TraitHostileTo>
+  <TraitPoisonIncomingDamageFactor_Less>{0} poison resistance</TraitPoisonIncomingDamageFactor_Less>
+  <TraitPoisonIncomingDamageFactor_More>{0} poison vulnerability</TraitPoisonIncomingDamageFactor_More>
+  <TraitPoisonIncomingDamageFactor_Zero>Immune to poison</TraitPoisonIncomingDamageFactor_Zero>
+  <TraitFallIncomingDamageFactor_Zero>No fall damage</TraitFallIncomingDamageFactor_Zero>
+  <TraitFallIncomingDamageFactor>{0} fall damage</TraitFallIncomingDamageFactor>
+  <TraitFireIncomingDamageFactor_Less>{0} fire resistance</TraitFireIncomingDamageFactor_Less>
+  <TraitFireIncomingDamageFactor_More>{0} fire vulnerability</TraitFireIncomingDamageFactor_More>
+  <TraitMagicIncomingDamageFactor_Less>{0} magic resistance</TraitMagicIncomingDamageFactor_Less>
+  <TraitMagicIncomingDamageFactor_More>{0} magic vulnerability</TraitMagicIncomingDamageFactor_More>
+  <TraitDamageFactorAgainstActor>{0} damage to {1}</TraitDamageFactorAgainstActor>
+  <TraitNativeStaminaRegenIntervalFactor>Stamina regenerates {0}x as slow</TraitNativeStaminaRegenIntervalFactor>
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Stamina regenerates twice as slow</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>
+  <TraitLastStand>Deal {0} more damage when below {1} HP</TraitLastStand>
+  <TraitMaxHPOffsetPerLevel_Less>Gain {0} less max HP per level</TraitMaxHPOffsetPerLevel_Less>
+  <TraitMaxHPOffsetPerLevel_More>Gain {0} more max HP per level</TraitMaxHPOffsetPerLevel_More>
+  <TraitWalkingNoiseOffset>Walking noise {0}</TraitWalkingNoiseOffset>
+  <TraitManaPerWorthyKill>Gain {0} mana per worthy kill</TraitManaPerWorthyKill>
+  <TraitHPPerWorthyKill_Gain>Gain {0} HP per worthy kill</TraitHPPerWorthyKill_Gain>
+  <TraitHPPerWorthyKill_Lose>Lose {0} HP per worthy kill</TraitHPPerWorthyKill_Lose>
+  <TraitBackpackSlotsOffset>Inventory slots {0}</TraitBackpackSlotsOffset>
+  <TraitMaxHPFactor>Max HP x{0}</TraitMaxHPFactor>
+  <TraitDamageFactorAgainstBosses>{0} damage to bosses</TraitDamageFactorAgainstBosses>
+  <TraitNativeHealingRate>Healing rate {0}</TraitNativeHealingRate>
+  <TraitImmuneToConditionsFromDamage>Immune to {0}</TraitImmuneToConditionsFromDamage>
+  <TraitImmuneToPushing>Immune to pushing</TraitImmuneToPushing>
+  <TraitHungerRateFactor>Hunger rate {0}</TraitHungerRateFactor>
+  <TraitWanderersAndShopkeepersPricesFactor>Shop prices {0}</TraitWanderersAndShopkeepersPricesFactor>
+  <TraitCanFly>Can fly</TraitCanFly>
+  <TraitGainedExpFactor_More>Gain {0} more experience</TraitGainedExpFactor_More>
+  <TraitGainedExpFactor_Less>Gain {0} less experience</TraitGainedExpFactor_Less>
+  <NextRunRetainedExp>Retained XP from last run</NextRunRetainedExp>
+  <NextRunRetainedGold>Retained gold from last run</NextRunRetainedGold>
+  <PetRatOneRunLeft>1 run left</PetRatOneRunLeft>
+  <PetRatRunsLeft>{0} runs left</PetRatRunsLeft>
+  <StartNewRun>Start</StartNewRun>
+  <Character>Character</Character>
+  <Traits>Traits</Traits>
+  <Boosts>Boosts</Boosts>
+  <Floors>Floors</Floors>
+  <FloorCount>{0} floors</FloorCount>
+  <RoomsPerFloor>Rooms per floor</RoomsPerFloor>
+  <UnlockFor>Unlock for {0}</UnlockFor>
+  <CompletedOnDifficulty>Completed on difficulty</CompletedOnDifficulty>
+  <HasMiniBosses>Mini-bosses</HasMiniBosses>
+  <HasShelters>Shelters</HasShelters>
+  <SpiritsSetFree>Spirits rescued</SpiritsSetFree>
+  <RunWins>Wins</RunWins>
+  <RunLosses>Losses</RunLosses>
+  <NewRunScreenBossLabel>{0} boss</NewRunScreenBossLabel>
+  <CosmeticCollidesWith>Collides with</CosmeticCollidesWith>
+  <CosmeticsInfo>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</CosmeticsInfo>
+  <ConfirmBuyCosmetic>Do you want to buy {0} for {1}?</ConfirmBuyCosmetic>
+  <CantAffordCosmetic>You can't afford this cosmetic.</CantAffordCosmetic>
+  <Price>Price</Price>
+  <CosmeticWillMakeFactionHostile>Warning: This cosmetic will make {0} hostile to you</CosmeticWillMakeFactionHostile>
+  <DungeonModifiersTitle>Extra dungeon modifiers</DungeonModifiersTitle>
+  <DemonNoteText>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</DemonNoteText>
+  <UndiscoveredEnemy>Undiscovered enemy</UndiscoveredEnemy>
+
+  <!-- Misc -->
+  <HP>{0} HP</HP>
+  <Mana>{0} mana</Mana>
+  <Stamina>{0} stamina</Stamina>
+  <FromTo>{0} to {1}</FromTo>
+  <Ambushed>ambushed</Ambushed>
+  <AltitudeDamageBonus>from above</AltitudeDamageBonus>
+  <FromDeflectedDamage>from deflecting</FromDeflectedDamage>
+  <DamageSpreadOntoSomethingElse>damage spread</DamageSpreadOntoSomethingElse>
+  <UnidentifiedLower>unidentified</UnidentifiedLower>
+  <Cursed>Cursed</Cursed>
+  <CursedLower>cursed</CursedLower>
+  <OneTurn>1 turn</OneTurn>
+  <TurnsCount>{0} turns</TurnsCount>
+  <OneUse>1 use</OneUse>
+  <UsesCount>{0} uses</UsesCount>
+  <OneCharge>1 charge</OneCharge>
+  <ChargesCount>{0} charges</ChargesCount>
+  <OneDiamond>1 diamond</OneDiamond>
+  <DiamondsCount>{0} diamonds</DiamondsCount>
+  <OneStardust>1 stardust</OneStardust>
+  <StardustCount>{0} stardust</StardustCount>
+  <OneCell>1 cell</OneCell>
+  <CellsCount>{0} cells</CellsCount>
+  <OneGold>1 gold</OneGold>
+  <GoldCount>{0} gold</GoldCount>
+  <GoldCountShort>{0}g</GoldCountShort>
+  <PressAcceptToContinue>Press [Accept] to continue</PressAcceptToContinue>
+  <PressAcceptToContinueToLobby>Press [Accept] to continue to lobby</PressAcceptToContinueToLobby>
+  <PressWaitToRestart>Press [Wait] to restart</PressWaitToRestart>
+  <NoOptions>no options</NoOptions>
+  <ItemMayBeCursedWarning>Warning: This item may be {0}.</ItemMayBeCursedWarning>
+  <ItemCursedWarning>Warning: This item is {0}.</ItemCursedWarning>
+  <CantUnequipCursedItems>You can't unequip {0} items (without curse removal scroll).</CantUnequipCursedItems>
+  <Gold>Gold</Gold>
+  <Leave>Leave</Leave>
+  <ActsTwicePerTurn>Acts twice per turn</ActsTwicePerTurn>
+  <ActsTimesPerTurn>Acts {0} times per turn</ActsTimesPerTurn>
+  <ActsEverySecondTurn>Acts every second turn</ActsEverySecondTurn>
+  <ActsOnceEveryTurns>Acts once every {0} turns</ActsOnceEveryTurns>
+  <DoesntGetHungry>Doesn't get hungry</DoesntGetHungry>
+  <GetsHungryTwiceAsFast>Gets hungry twice as fast</GetsHungryTwiceAsFast>
+  <GetsHungryTimesAsFast>Gets hungry {0} times as fast</GetsHungryTimesAsFast>
+  <GetsHungryTwiceAsSlow>Gets hungry twice as slow</GetsHungryTwiceAsSlow>
+  <HungerRateMultiplier>Hunger rate multiplier: {0}</HungerRateMultiplier>
+  <ThrowGold>Throw {0} gold</ThrowGold>
+  <Chance>{0} chance</Chance>
+  <WorthOfTurns>worth {0} turns</WorthOfTurns>
+  <AoERadius>radius {0}</AoERadius>
+  <WholeMap>whole map</WholeMap>
+  <ThroughWalls>through walls</ThroughWalls>
+  <AroundTarget>around target</AroundTarget>
+  <Used>Used</Used>
+  <Waiting>Waiting</Waiting>
+  <Interrupted>Interrupted</Interrupted>
+  <Location>spot</Location>
+  <StopTargeting>Stop targeting</StopTargeting>
+  <QuestCompleted>Quest completed</QuestCompleted>
+  <QuestCompletedTip>Claim your reward when you're back in the lobby</QuestCompletedTip>
+  <Stationary>Stationary</Stationary>
+  <OneStep>One step</OneStep>
+  <BuyConfirmation>Do you want to buy {0} for {1}?</BuyConfirmation>
+  <BuyConfirmation_SingleUseUnlockable>This is a single-use bonus and it only applies to your next run.</BuyConfirmation_SingleUseUnlockable>
+  <Buy>Buy</Buy>
+  <CanRewindTimeAgainIn>Available in {0}</CanRewindTimeAgainIn>
+  <NativeWeaponDescription>This is this character's native weapon.</NativeWeaponDescription>
+  <ChooseSpellWheelSelectorText>Choose a new spell.\n\nYou can choose a new spell every time you level up.</ChooseSpellWheelSelectorText>
+  <BossSlain>{0} slain</BossSlain>
+  <RandomTip>Tip: {0}</RandomTip>
+  <FirstTip>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</FirstTip>
+  <Waits>Waits</Waits>
+  <Wait>Wait</Wait>
+  <WaitsDrunk>Waits (drunk)</WaitsDrunk>
+  <WaitsPanic>Waits (panic)</WaitsPanic>
+  <WaitsReason>Waits ({0})</WaitsReason>
+  <Zzz>Zzz</Zzz>
+  <WakesUp>Wakes up</WakesUp>
+  <GoesToCheckPossibleEnemyLocation>Where?!</GoesToCheckPossibleEnemyLocation>
+  <NoArms>No arms</NoArms>
+  <NoLegs>No legs</NoLegs>
+  <Hostile>Hostile</Hostile>
+  <MissingBodyParts>Missing body parts</MissingBodyParts>
+  <SeenByHostiles>Someone sees you</SeenByHostiles>
+  <BossStillAlive>Boss is still alive</BossStillAlive>
+  <NotEnoughMana>Not enough mana ({0})</NotEnoughMana>
+  <NotEnoughStamina>Not enough stamina ({0})</NotEnoughStamina>
+  <OnCooldown>Cooldown ({0})</OnCooldown>
+  <GetCloser>Get closer</GetCloser>
+  <InvalidTarget>Invalid target</InvalidTarget>
+  <OutOfRange>Out of range</OutOfRange>
+  <NoLineOfSight>No line of sight</NoLineOfSight>
+  <CantAfford>Need {0}</CantAfford>
+  <CantReach>Can't reach</CantReach>
+  <NotEnoughSpaceToPickUp>Inventory full</NotEnoughSpaceToPickUp>
+  <Need2SameCrystals>Need 2 same crystals</Need2SameCrystals>
+  <NeedSpirit>Need spirit</NeedSpirit>
+  <NeedShovel>Need shovel</NeedShovel>
+  <UseShovel>Use shovel</UseShovel>
+  <NeedPickaxe>Need pickaxe</NeedPickaxe>
+  <UsePickaxe>Use pickaxe</UsePickaxe>
+  <CantDescendBecausePartyCantReach>Some party members are too far</CantDescendBecausePartyCantReach>
+  <CantCloseBlockedDoor>Door is blocked</CantCloseBlockedDoor>
+  <CantSummonFollowerAlreadyExists>{0} follower already exists</CantSummonFollowerAlreadyExists>
+  <DamageRangeDealtToPlayer>{0} now to you</DamageRangeDealtToPlayer>
+  <PostProcessedDamageRange>{0} now</PostProcessedDamageRange>
+  <PostProcessedPlayerHealAmount>{0} now for you</PostProcessedPlayerHealAmount>
+  <DamagePerTurn>{0} damage per turn</DamagePerTurn>
+  <DamagePerTurns>{0} damage per {1} turns</DamagePerTurns>
+  <NumberPerTurn>{0} per turn</NumberPerTurn>
+  <NumberPerTurns>{0} per {1} turns</NumberPerTurns>
+  <RestoreAll>all</RestoreAll>
+  <RestoredAmountForPlayer>{0} for you</RestoredAmountForPlayer>
+  <Or>or</Or>
+  <And>and</And>
+  <Score>Score</Score>
+  <FloorReached>Floor reached</FloorReached>
+  <KillCount>Kills</KillCount>
+  <Playtime>Playtime</Playtime>
+  <Kills>Kills</Kills>
+  <CombatRating>Combat rating</CombatRating>
+  <BossesSlain>Bosses slain</BossesSlain>
+  <LobbyItemsCollected>Lobby items collected</LobbyItemsCollected>
+  <NextRewardAtScoreLevel>Next reward at level {0}</NextRewardAtScoreLevel>
+  <DaysShort>{0}d</DaysShort>
+  <HoursShort>{0}h</HoursShort>
+  <MinutesShort>{0}m</MinutesShort>
+  <NoneLower>none</NoneLower>
+  <NewRecord>New record!</NewRecord>
+  <AndMore>and more</AndMore>
+  <WelcomeTextRunWithSeed>Seed: {0}</WelcomeTextRunWithSeed>
+  <DungeonModifiersCount_One>1 modifier</DungeonModifiersCount_One>
+  <DungeonModifiersCount_More>{0} modifiers</DungeonModifiersCount_More>
+  <BetAmount>Bet {0} gold</BetAmount>
+  <Tutorial>Tutorial</Tutorial>
+  <BossKillCount>Bosses killed</BossKillCount>
+  <QuestsCompleted>Quests completed</QuestsCompleted>
+  <NotesCollected>Notes found</NotesCollected>
+  <ChestsOpened>Chests opened</ChestsOpened>
+  <RecipesUsed>Items crafted</RecipesUsed>
+  <Common>Common</Common>
+  <Uncommon>Uncommon</Uncommon>
+  <Rare>Rare</Rare>
+  <Epic>Epic</Epic>
+  <Unidentified>Unidentified</Unidentified>
+  <LobbyItem>Lobby (permanent) item</LobbyItem>
+  <LobbyItemShort>Lobby</LobbyItemShort>
+  <WakeUpReason_Harmed>harmed</WakeUpReason_Harmed>
+  <WakeUpReason_StructureSetOnFire>fire nearby</WakeUpReason_StructureSetOnFire>
+  <WakeUpReason_LoudNoise>loud noise</WakeUpReason_LoudNoise>
+  <WakeUpReason_ActorWokeUp>ally woke up nearby</WakeUpReason_ActorWokeUp>
+  <WakeUpReason_HostileFootsteps>hostile footsteps</WakeUpReason_HostileFootsteps>
+  <WakeUpReason_AlertAllyPassing>alert ally passing</WakeUpReason_AlertAllyPassing>
+  <WakeUpReason_KickedDoor>kicked door</WakeUpReason_KickedDoor>
+  <Miss>Miss</Miss>
+  <MissChance>{0} miss</MissChance>
+  <CritChance>{0} crit</CritChance>
+  <CriticalHit>critical</CriticalHit>
+  <CriticalHitFloatingText>Critical hit</CriticalHitFloatingText>
+  <ChargedAttack>charged</ChargedAttack>
+  <AvailableRecipes>Available recipes</AvailableRecipes>
+  <WaitTurns>Wait {0}</WaitTurns>
+  <RewindTurns>Rewind {0}</RewindTurns>
+  <YouHave>you have {0}</YouHave>
+  <BabyLabel>baby {0}</BabyLabel>
+  <BossLabel>{0} boss</BossLabel>
+  <Intro1>You appear to be in some sort of dungeon...</Intro1>
+  <Intro2>You don't know where you are exactly, or even how you ended up here.</Intro2>
+  <Intro3>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</Intro3>
+  <Intro4>You slowly start to remember something. At least you know your name.</Intro4>
+  <Intro5>Your name is:</Intro5>
+  <Intro6>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</Intro6>
+  <Ending1>You slowly open your eyes...</Ending1>
+  <Ending2>You wake up in a hospital.</Ending2>
+  <Ending3><i>"He's awake!"</i></Ending3>
+  <Ending4><i>"What happened?"</i></Ending4>
+  <Ending5><i>"You went for a hike with your friends and had a serious head injury."</i></Ending5>
+  <Ending6><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></Ending6>
+  <Ending7><i>"Where's Maya?"</i></Ending7>
+  <Ending8><i>"Who's Maya?"</i></Ending8>
+  <Ending9><i>"She found me first. Is she okay?"</i></Ending9>
+  <Ending10><i>"You may be experiencing some confusion, but you'll recover soon."</i></Ending10>
+  <Ending11>...</Ending11>
+  <Ending12>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</Ending12>
+  <Ending13>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</Ending13>
+  <ThanksForPlayingDemo>Thanks for playing the demo!</ThanksForPlayingDemo>
+  <GameCreatedBy>Created by</GameCreatedBy>
+  <MainMenuArtBy>Main menu background art by</MainMenuArtBy>
+  <MusicBy>Music by</MusicBy>
+  <LogoBy>Logo by</LogoBy>
+  <CharacterModelsBy>Character models by</CharacterModelsBy>
+  <SoundEffectsBy>Sound effects provided by</SoundEffectsBy>
+  <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
+  <MemoryPiece1>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</MemoryPiece1>
+  <MemoryPiece2>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</MemoryPiece2>
+  <MemoryPiece3>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</MemoryPiece3>
+  <MemoryPiece4>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</MemoryPiece4>
+  <EquipmentTab>Equip</EquipmentTab>
+  <CraftingTab>Craft</CraftingTab>
+  <IdentificationTab>Identify</IdentificationTab>
+  <Name>Name</Name>
+  <Level>Level</Level>
+  <Experience>Experience</Experience>
+  <ExperienceShort>XP</ExperienceShort>
+  <AttackDamage>Attack</AttackDamage>
+  <EquipmentTabTip>See all items you currently have equipped.</EquipmentTabTip>
+  <CraftingTabTip>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</CraftingTabTip>
+  <IdentificationTabTip>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</IdentificationTabTip>
+  <NoUnidentifiedItems>You don't have any unidentified items</NoUnidentifiedItems>
+  <IdentificationQueueExplanation>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</IdentificationQueueExplanation>
+  <Craft>Craft</Craft>
+  <AdjacentLower>adjacent</AdjacentLower>
+  <WillLoseBoosts>you'll lose purchased boosts</WillLoseBoosts>
+  <NightmareLord>Nightmare Lord</NightmareLord>
+  <Hypnorak>Hypnorak</Hypnorak>
+  <Phantasmos>Phantasmos</Phantasmos>
+  <AvailableSkillPoints>Available skill points</AvailableSkillPoints>
+  <UnlockedSkills>Unlocked skills</UnlockedSkills>
+  <UnlockedAchievements>Unlocked achievements</UnlockedAchievements>
+  <EscapeToCancel>[Cancel] to cancel</EscapeToCancel>
+  <EscapeToCancelShort>ESC to cancel</EscapeToCancelShort>
+  <FactionEnemies>Enemies</FactionEnemies>
+  <FactionKnownMembers>Known members</FactionKnownMembers>
+  <YouAreHereTip>You are here</YouAreHereTip>
+  <PlaceLinkTip>If you choose to go this way, you'll receive the following</PlaceLinkTip>
+  <DungeonMapHeader>Where to go?</DungeonMapHeader>
+  <MoreEnemies>More enemies</MoreEnemies>
+  <LessEnemies>Fewer enemies</LessEnemies>
+  <NormalEnemies>Normal enemies</NormalEnemies>
+  <MoreGold>More gold</MoreGold>
+  <LessGold>Less gold</LessGold>
+  <NormalGold>Normal gold</NormalGold>
+  <EnemyCountFactor>Number of enemies</EnemyCountFactor>
+  <GoldFactor>Gold loot</GoldFactor>
+  <PlaceCrystal>Crystal</PlaceCrystal>
+  <PlaceCrystalShort>{0} crystal</PlaceCrystalShort>
+  <HealHPReward>Heal {0} HP</HealHPReward>
+  <FallIntoDescendTriggerConfirmation>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</FallIntoDescendTriggerConfirmation>
+  <MoveIntoRunEndPortalConfirmation>This move will end your run. Do you really want to do it?</MoveIntoRunEndPortalConfirmation>
+  <NeverUsedWatchRewindTip>[Rewind] to rewind</NeverUsedWatchRewindTip>
+  <NeverInspectedAnythingTip>Remember to inspect your surroundings with [Inspect].</NeverInspectedAnythingTip>
+  <EscapingMode>Escape!</EscapingMode>
+  <ShelterReward>Reward</ShelterReward>
+  <TextOnFirstTimeFloorReached_1>What is this place? I must find the way out...</TextOnFirstTimeFloorReached_1>
+  <TextOnFirstTimeFloorReached_2>Every time I come here, this dungeon changes. But why?</TextOnFirstTimeFloorReached_2>
+  <TextOnFirstTimeFloorReached_3>Every step feels eerily familiar, almost as if I've been here before.</TextOnFirstTimeFloorReached_3>
+  <TextOnFirstTimeFloorReached_4>There's something up ahead, I can feel it.</TextOnFirstTimeFloorReached_4>
+  <TextOnFirstTimeFloorReached_5>Did I just win a battle or understand something?</TextOnFirstTimeFloorReached_5>
+  <TextOnFirstTimeFloorReached_6>I feel like everything's led to what lies ahead.</TextOnFirstTimeFloorReached_6>
+  <TextOnFirstTimeFloorReached_7>I feel like... a weight's been lifted off my mind. Strange.</TextOnFirstTimeFloorReached_7>
+  <TextAfterFirstDungeonCompleted1>What's taking you so long?</TextAfterFirstDungeonCompleted1>
+  <TextAfterFirstDungeonCompleted2>What was that?</TextAfterFirstDungeonCompleted2>
+  <YouDied>You died</YouDied>
+  <YouEscaped>You escaped</YouEscaped>
+  <RunCompleted>Run completed</RunCompleted>
+  <FindLeverToOpen>Find lever\nto open</FindLeverToOpen>
+  <FollowTutorialToOpen>Follow tutorial\nto open</FollowTutorialToOpen>
+  <Help>Help</Help>
+  <HelpMe>Help me</HelpMe>
+  <OverHere>Over here</OverHere>
+  <ReadSignTip>Hold [Inspect] to read</ReadSignTip>
+  <MainQuests>Main quests</MainQuests>
+  <SideQuests>Side quests</SideQuests>
+  <ExtraQuests>Extras</ExtraQuests>
+  <AcceptQuestsInLobbyInfo>You can accept and postpone quests in the lobby.</AcceptQuestsInLobbyInfo>
+  <QuestsRequireDungeonFloorInfo>Note that some quests can only be completed in dungeons that have enough floors.</QuestsRequireDungeonFloorInfo>
+  <ExtraQuest_UnlockNextDungeon>Unlock next dungeon</ExtraQuest_UnlockNextDungeon>
+  <ExtraQuest_UnlockNextDungeonDesc>Reach the end of floor {0} of this dungeon to unlock the next one.</ExtraQuest_UnlockNextDungeonDesc>
+  <ExtraQuest_FindPuzzlePiece>Find puzzle piece</ExtraQuest_FindPuzzlePiece>
+  <ExtraQuest_FindPuzzlePieceDesc>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</ExtraQuest_FindPuzzlePieceDesc>
+  <ExtraQuest_SetSpiritsFree>Spirit rescue</ExtraQuest_SetSpiritsFree>
+  <ExtraQuest_SetSpiritsFreeDesc_One>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</ExtraQuest_SetSpiritsFreeDesc_One>
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</ExtraQuest_SetSpiritsFreeDesc_Multiple>
+  <TheseFollowersWillBeLeftBehind>Warning: These followers will be left behind</TheseFollowersWillBeLeftBehind>
+  <ChooseYourSpell>Choose your spell</ChooseYourSpell>
+  <ChooseYourSpellController>Choose your spell ([QuickbarMenu])</ChooseYourSpellController>
+  <QuickbarMenuNewSpell>New spell</QuickbarMenuNewSpell>
+  <QuickbarMenuTitle>Your hotbar and spells</QuickbarMenuTitle>
+  <DungeonModifiersLocked>Unlocked at level {0}</DungeonModifiersLocked>
+  <StardustInfo>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</StardustInfo>
+  <PuzzlePieceInfo>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</PuzzlePieceInfo>
+  <PetRatInfo>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</PetRatInfo>
+  <PartyInfo>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</PartyInfo>
+  <UpgradeOrb_MaxHP>Max HP +{0}</UpgradeOrb_MaxHP>
+  <UpgradeOrb_Crit>Crit. +{0}%</UpgradeOrb_Crit>
+  <UpgradeOrb_Miss>Miss -{0}%</UpgradeOrb_Miss>
+  <UpgradeOrb_Fire>{0}% fire</UpgradeOrb_Fire>
+  <Kick>Kick</Kick>
+  <KickDescription>This character can kick things.</KickDescription>
+  <MemoryPieceHereHint>There's a Memory Piece on this floor</MemoryPieceHereHint>
+  <MemoryPieceHereHint2>Search for it</MemoryPieceHereHint2>
+  <SearchFilter>Search</SearchFilter>
+  <DiscoveredItems>Discovered items</DiscoveredItems>
+  <DiscoveredActors>Discovered creatures</DiscoveredActors>
+  <DiscoveredEntitiesTip>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</DiscoveredEntitiesTip>
+  <DailyChallenge>Daily challenge</DailyChallenge>
+
+  <!-- Classes -->
+  <Class>Class</Class>
+  <NoClass>No class\n\nEffects:\n- Fame and glory</NoClass>
+  <ClassesLocked>Unlocked at level {0}</ClassesLocked>
+  <ClassEffects>Effects</ClassEffects>
+  <ClassSpells>Abilities: {0}</ClassSpells>
+  <ClassMaxHPOffset>Max HP</ClassMaxHPOffset>
+  <ClassMaxManaOffset>Max mana</ClassMaxManaOffset>
+  <ClassMaxStaminaOffset>Max stamina</ClassMaxStaminaOffset>
+  <ClassDamageFactorAgainstUndead>{0} damage to undead (skeleton, mummy, etc.)</ClassDamageFactorAgainstUndead>
+  <ClassFireIncomingDamageFactor_Less>{0} fire resistance</ClassFireIncomingDamageFactor_Less>
+  <ClassFireIncomingDamageFactor_More>{0} fire vulnerability</ClassFireIncomingDamageFactor_More>
+  <ClassHungerRateFactor>Hunger rate {0}</ClassHungerRateFactor>
+  <ClassDisablesPressurePlates>Doesn't activate pressure plates</ClassDisablesPressurePlates>
+  <ClassImmuneToPoison>Immune to poison</ClassImmuneToPoison>
+  <ClassImmuneToPushing>Immune to pushing</ClassImmuneToPushing>
+  <ClassDogsAreHostile>Dogs are hostile</ClassDogsAreHostile>
+  <ClassWalkingNoiseOffset>Walking noise {0}</ClassWalkingNoiseOffset>
+  <MaxFloorReachedWithClassTip>Max floor you've reached with this class: {0}</MaxFloorReachedWithClassTip>
+  <MaxFloorReachedWithoutClassTip>Max floor you've reached without a class: {0}</MaxFloorReachedWithoutClassTip>
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} takes {1} {2} damage</EntityTakesDamage>
+  <EntityTakesDamageAndDies>{0} takes {1} {2} damage and dies</EntityTakesDamageAndDies>
+  <EntityTakesDamageAndDies_Exp>{0} XP</EntityTakesDamageAndDies_Exp>
+  <EntityTakesNoDamage>{0} takes no {1} damage</EntityTakesNoDamage>
+  <EntityGainsHP>{0} gains {1}</EntityGainsHP>
+  <BodyPartTakesDamage>{0} takes {1} {2} damage</BodyPartTakesDamage>
+  <BodyPartTakesDamageAndIsDestroyed>{0} takes {1} {2} damage and is destroyed</BodyPartTakesDamageAndIsDestroyed>
+  <BodyPartTakesNoDamage>{0} takes no {1} damage</BodyPartTakesNoDamage>
+  <BodyPartGainsHP>{0} gains {1}</BodyPartGainsHP>
+  <BodyPartDestroyedDirectly>{0}'s {1} is destroyed</BodyPartDestroyedDirectly>
+  <DamageBlocked>{0} blocks {1} {2} damage</DamageBlocked>
+  <DamageBlockedAndDeflected>{0} deflects {1} {2} damage onto {3}</DamageBlockedAndDeflected>
+  <EntityIsPushed>{0} is pushed</EntityIsPushed>
+  <EntityIsPulled>{0} is pulled</EntityIsPulled>
+  <EntityGainsCondition>{0} gets a new condition: {1}</EntityGainsCondition>
+  <EntityGainsUseEffect>{0} gains a new effect: {1}</EntityGainsUseEffect>
+  <BodyPartIsRestored>{1} is restored for {0}</BodyPartIsRestored>
+  <ActorGainsMana>{1} is restored for {0}</ActorGainsMana>
+  <ActorGainsStamina>{1} is restored for {0}</ActorGainsStamina>
+  <ItemIdentified>{0} is identified</ItemIdentified>
+  <ConditionWearsOff>{0} wears off</ConditionWearsOff>
+  <UseEffectWearsOff>{0} wears off</UseEffectWearsOff>
+  <EntityPicksUpItem>{0} picks up {1}</EntityPicksUpItem>
+  <ItemIdentifiedOnUse_Removed>It was {0}</ItemIdentifiedOnUse_Removed>
+  <ItemIdentifiedOnUse_StillExists>It is {0}</ItemIdentifiedOnUse_StillExists>
+  <CursedItemIdentifiedAfterEquipping>{0} is {1}! (you need to find or craft a curse removal scroll)</CursedItemIdentifiedAfterEquipping>
+  <ItemHasBeenCursed>Your {0} has been {1}!</ItemHasBeenCursed>
+  <CurseRemoved>Curse has been removed from {0}</CurseRemoved>
+  <EntityTeleportsRandomly>{0} teleports to a random location</EntityTeleportsRandomly>
+  <EntityTeleports>{0} teleports</EntityTeleports>
+  <GateOpens>{0} opens. Now find the exit.</GateOpens>
+  <SafeOpens>{0} opens</SafeOpens>
+  <GateClosesBehindYou>A gate closes behind you</GateClosesBehindYou>
+  <EntityHasAlreadyBeenUsed>{0} fizzles but doesn't seem to have any effect</EntityHasAlreadyBeenUsed>
+  <YouAreStarving>You are starving</YouAreStarving>
+  <YouAreHungry>You are hungry</YouAreHungry>
+  <YouBoughtItem>You bought {0}</YouBoughtItem>
+  <LeveledUp>Level up!</LeveledUp>
+  <LeveledUp_CanChooseNewSpell>You can choose a new spell.</LeveledUp_CanChooseNewSpell>
+  <LeveledUpShort>Level up</LeveledUpShort>
+  <ShieldRemovedBecauseHarmed>Shield effect has been canceled because you harmed {0}</ShieldRemovedBecauseHarmed>
+  <ActorWakesUp>{0} wakes up</ActorWakesUp>
+  <TotalItems>{0} in total</TotalItems>
+  <YouSacrificedYourself>You sacrificed yourself</YouSacrificedYourself>
+  <GambleWin>You win</GambleWin>
+  <GambleLose>You lose</GambleLose>
+  <TrialCompleted>You've completed the trial and received {0}</TrialCompleted>
+  <GlyphsCompleted>You've solved the glyph puzzle and received {0}</GlyphsCompleted>
+  <PlayerHealedOnKilledByWearable>You are saved by {0}</PlayerHealedOnKilledByWearable>
+  <HealedOnKilledByWearable>{0} is saved by {1}</HealedOnKilledByWearable>
+  <TrialFailed>You've failed the trial</TrialFailed>
+  <ItemDuplicated>{0} has been duplicated</ItemDuplicated>
+  <FailedToDuplicate>{0} has been destroyed</FailedToDuplicate>
+  <NoMoreFishHere>There's nothing here anymore</NoMoreFishHere>
+  <CaughtFishing>You caught {0}</CaughtFishing>
+  <TriggerWillActivateIn>{0} will activate in {1}</TriggerWillActivateIn>
+  <ReceivedItem>You received {0}</ReceivedItem>
+  <DevilStatueAcceptedItem>The devil statue accepts your {0} and gives you {1}</DevilStatueAcceptedItem>
+  <ActorReceivesItem>{0} receives {1}</ActorReceivesItem>
+  <ActorMisses>{0} misses</ActorMisses>
+  <EnemySpawnedNearby>{0} spawned nearby</EnemySpawnedNearby>
+  <ActorGivesItemToActor>{0} gives {1} to {2}</ActorGivesItemToActor>
+  <FactionBecameHostile>{0} faction became hostile</FactionBecameHostile>
+  <MissingIngredients>You don't have all the ingredients</MissingIngredients>
+  <DroppedItemInInvalidSlot>This item doesn't fit in this slot</DroppedItemInInvalidSlot>
+  <StoleItem>{0} stole {1} from {2}</StoleItem>
+  <PlayerCollectedBossTrophyStardust>You've collected {0} x{1}</PlayerCollectedBossTrophyStardust>
+  <YouGainedSkillPoint>You've gained a skill point! Open inventory to spend it.</YouGainedSkillPoint>
+  <SetSpiritFree>You've set {0} free and received {1}</SetSpiritFree>
+  <ItemRampUpUpgraded>The level of {0} has been upgraded</ItemRampUpUpgraded>
+  <CannotUnequipCursedItem>You can't unequip a cursed item</CannotUnequipCursedItem>
+  <UsedRecipe>{0} crafts {1}</UsedRecipe>
+
+  <!-- Use label -->
+  <UseLabel_Self>Use on self</UseLabel_Self>
+  <UseLabel_Other>Use on...</UseLabel_Other>
+  <PotionUseLabel_Self>Drink</PotionUseLabel_Self>
+  <PotionUseLabel_Other>Throw...</PotionUseLabel_Other>
+  <FoodUseLabel_Self>Eat</FoodUseLabel_Self>
+  <BombUseLabel_Other>Throw...</BombUseLabel_Other>
+  <SetTrapLabel_Other>Set trap...</SetTrapLabel_Other>
+  <ThrownWeaponUseLabel_Other>Throw...</ThrownWeaponUseLabel_Other>
+  <SeedUseLabel_Other>Plant...</SeedUseLabel_Other>
+  <NativeWeaponUseLabel_Self>Use on self</NativeWeaponUseLabel_Self>
+  <NativeWeaponUseLabel_Other>Attack...</NativeWeaponUseLabel_Other>
+  <SpellUseLabel_Self>Cast on self</SpellUseLabel_Self>
+  <SpellUseLabel_Other>Cast on...</SpellUseLabel_Other>
+  <EmptyVialUseLabel_Other>Fill with...</EmptyVialUseLabel_Other>
+  <PlanksUseLabel_Other>Bar door...</PlanksUseLabel_Other>
+  <ChainUseLabel_Self>Chain yourself</ChainUseLabel_Self>
+  <ChainUseLabel_Other>Chain...</ChainUseLabel_Other>
+  <PlacePrivateRoomStructure_Other>Place...</PlacePrivateRoomStructure_Other>
+  <PickUpPrivateRoomStructure_Other>Pick up...</PickUpPrivateRoomStructure_Other>
+  <FishingRodUseLabel_Other>Catch fish...</FishingRodUseLabel_Other>
+  <PickaxeUseLabel_Other>Mine...</PickaxeUseLabel_Other>
+  <TalkUseLabel_Other>Talk...</TalkUseLabel_Other>
+  <CrystalUseLabel_Self>Enchant</CrystalUseLabel_Self>
+  <ShovelUseLabel_Other>Dig...</ShovelUseLabel_Other>
+  <KickUseLabel_Self>Kick yourself</KickUseLabel_Self>
+  <KickUseLabel_Other>Kick...</KickUseLabel_Other>
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} attacks himself with {1}</AttackDescription_Self>
+  <AttackDescription_Other>{0} attacks {2} with {1}</AttackDescription_Other>
+  <UseDescription_Self>{0} uses {1}</UseDescription_Self>
+  <UseDescription_Other>{0} uses {1} on {2}</UseDescription_Other>
+  <PotionUseDescription_Self>{0} drinks {1}</PotionUseDescription_Self>
+  <PotionUseDescription_Other>{0} throws {1} at {2}</PotionUseDescription_Other>
+  <ScrollUseDescription_Self>{0} uses {1} on himself</ScrollUseDescription_Self>
+  <ScrollUseDescription_Other>{0} uses {1} on {2}</ScrollUseDescription_Other>
+  <BombUseDescription_Other>{0} throws {1} at {2}</BombUseDescription_Other>
+  <OpenUseDescription_Self>{0} opens {1}</OpenUseDescription_Self>
+  <CloseUseDescription_Self>{0} closes {1}</CloseUseDescription_Self>
+  <GraveUseDescription_Self>{0} digs up {1}</GraveUseDescription_Self>
+  <FountainUseDescription_Self>{0} drinks from {1}</FountainUseDescription_Self>
+  <EnchantingTableUseDescription_Self>{0} enchants gear at {1}</EnchantingTableUseDescription_Self>
+  <StaircaseUseDescription_Self>{0} goes down the stairs</StaircaseUseDescription_Self>
+  <StaircaseUpUseDescription_Self>{0} goes up the stairs</StaircaseUpUseDescription_Self>
+  <LeverUseDescription_Self>{0} pulls {1}</LeverUseDescription_Self>
+  <ShrineUseDescription_Self>{0} receives blessing at {1}</ShrineUseDescription_Self>
+  <FoodUseDescription_Self>{0} eats {1}</FoodUseDescription_Self>
+  <SetTrapDescription_Other>{0} sets {1}</SetTrapDescription_Other>
+  <WaterUseDescription_Self>{0} swims in {1}</WaterUseDescription_Self>
+  <LavaUseDescription_Self>{0} burns in {1}</LavaUseDescription_Self>
+  <PressurePlateUseDescription_Self>{0} steps on {1}</PressurePlateUseDescription_Self>
+  <PortalUseDescription_Self>{0} teleports</PortalUseDescription_Self>
+  <ThrownWeaponUseDescription_Other>{0} throws {1} at {2}</ThrownWeaponUseDescription_Other>
+  <SeedUseDescription_Other>{0} plants {1}</SeedUseDescription_Other>
+  <SpellUseDescription_Self>{0} casts {1} on himself</SpellUseDescription_Self>
+  <SpellUseDescription_Other>{0} casts {1} on {2}</SpellUseDescription_Other>
+  <EmptyVialUseDescription_Other>{0} fills {1} with water</EmptyVialUseDescription_Other>
+  <PlanksUseDescription_Other>{0} bars {2}</PlanksUseDescription_Other>
+  <ChainUseDescription_Self>{0} chains himself to a post</ChainUseDescription_Self>
+  <ChainUseDescription_Other>{0} chains {2} to a post</ChainUseDescription_Other>
+  <PlacePrivateRoomStructureDescription_Other>{0} places {1}</PlacePrivateRoomStructureDescription_Other>
+  <PickUpPrivateRoomStructureDescription_Other>{0} picks up {2}</PickUpPrivateRoomStructureDescription_Other>
+  <BandageUseDescription_Self>{0} bandages own wounds</BandageUseDescription_Self>
+  <BandageUseDescription_Other>{0} bandages {2}'s wounds</BandageUseDescription_Other>
+  <SurgicalKitUseDescription_Self>{0} performs surgery</SurgicalKitUseDescription_Self>
+  <SurgicalKitUseDescription_Other>{0} performs surgery on {2}</SurgicalKitUseDescription_Other>
+  <SkeletalRemainsUseDescription_Self>{0} searches {1}</SkeletalRemainsUseDescription_Self>
+  <GamblingTableUseDescription_Self>{0} gambles at {1}</GamblingTableUseDescription_Self>
+  <ButtonUseDescription_Self>{0} presses {1}</ButtonUseDescription_Self>
+  <TrialUseDescription_Self>{0} starts a challenge at {1}</TrialUseDescription_Self>
+  <DuplicatorUseDescription_Self>{0} duplicates item at {1}</DuplicatorUseDescription_Self>
+  <FishingRodUseDescription_Other>{0} catches fish at {2}</FishingRodUseDescription_Other>
+  <ExtinguisherUseDescription_Self>{0} extinguishes himself</ExtinguisherUseDescription_Self>
+  <ExtinguisherUseDescription_Other>{0} extinguishes {2}</ExtinguisherUseDescription_Other>
+  <AncientDeviceUseDescription_Self>{0} researches {1}</AncientDeviceUseDescription_Self>
+  <WallWithCompartmentUseDescription_Self>{0} searches {1}</WallWithCompartmentUseDescription_Self>
+  <BedUseDescription_Self>{0} sleeps in {1}</BedUseDescription_Self>
+  <PickaxeUseDescription_Other>{0} mines {2} with {1}</PickaxeUseDescription_Other>
+  <TalkUseDescription_Other>{0} talks with {2}</TalkUseDescription_Other>
+  <CrystalUseDescription_Self>{0} enchants an item with {1}</CrystalUseDescription_Self>
+  <ShovelUseDescription_Other>{0} digs {2} with {1}</ShovelUseDescription_Other>
+  <LimbOfferingAltarUseDescription_Self>{0} offers a limb at {1}</LimbOfferingAltarUseDescription_Self>
+  <PhantomsAltarUseDescription_Self>{0} summons Phantom at {1}</PhantomsAltarUseDescription_Self>
+  <AltarOfRedemptionUseDescription_Self>{0} sets a spirit free at {1}</AltarOfRedemptionUseDescription_Self>
+  <CleanUpUseDescription_Self>{0} cleans up {1}</CleanUpUseDescription_Self>
+  <BookshelfUseDescription_Self>{0} gains a skill point at {1}</BookshelfUseDescription_Self>
+  <KickDescription_Self>{0} kicks himself</KickDescription_Self>
+  <KickDescription_Other>{0} kicks {2}</KickDescription_Other>
+  <AnvilUseDescription_Self>{0} upgrades gear at {1}</AnvilUseDescription_Self>
+  <DevilStatueUseDescription_Self>{0} offers cursed item to {1}</DevilStatueUseDescription_Self>
+
+  <!-- Directions -->
+  <Up>up</Up>
+  <Down>down</Down>
+  <North>north</North>
+  <South>south</South>
+  <West>west</West>
+  <East>east</East>
+  <NorthWest>north-west</NorthWest>
+  <NorthEast>north-east</NorthEast>
+  <SouthWest>south-west</SouthWest>
+  <SouthEast>south-east</SouthEast>
+  <UpNorth>up-north</UpNorth>
+  <UpSouth>up-south</UpSouth>
+  <UpWest>up-west</UpWest>
+  <UpEast>up-east</UpEast>
+  <UpNorthWest>up-north-west</UpNorthWest>
+  <UpNorthEast>up-north-east</UpNorthEast>
+  <UpSouthWest>up-south-west</UpSouthWest>
+  <UpSouthEast>up-south-east</UpSouthEast>
+  <DownNorth>down-north</DownNorth>
+  <DownSouth>down-south</DownSouth>
+  <DownWest>down-west</DownWest>
+  <DownEast>down-east</DownEast>
+  <DownNorthWest>down-north-west</DownNorthWest>
+  <DownNorthEast>down-north-east</DownNorthEast>
+  <DownSouthWest>down-south-west</DownSouthWest>
+  <DownSouthEast>down-south-east</DownSouthEast>
+
+  <!-- Rooms -->
+  <Room_Start>Start</Room_Start>
+  <Room_End>End</Room_End>
+  <Room_Lever>Lever</Room_Lever>
+  <Room_StoreysTransition>Ladder</Room_StoreysTransition>
+  <Room_BossRoom>Boss</Room_BossRoom>
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Ambush opportunity</CanSurpriseAttack>
+  <CanSurpriseAttackDesc>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</CanSurpriseAttackDesc>
+
+  <AboveYou>Above you</AboveYou>
+  <AboveYouDesc>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</AboveYouDesc>
+
+  <BelowYou>Below you</BelowYou>
+  <BelowYouDesc>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</BelowYouDesc>
+
+  <CantSeePlayer>Can't see you</CantSeePlayer>
+  <CantSeePlayerDesc>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</CantSeePlayerDesc>
+
+  <Falling>Falling</Falling>
+  <FallingDesc>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</FallingDesc>
+
+  <UnidentifiedCondition>Unidentified effect</UnidentifiedCondition>
+  <UnidentifiedConditionDesc>An unknown effect. It comes from an unidentified item.</UnidentifiedConditionDesc>
+
+  <SurroundedBonusDesc>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</SurroundedBonusDesc>
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Unidentified effect</UnidentifiedUseEffect>
+  <UnidentifiedUseEffectDesc>An unknown effect. It comes from an unidentified item.</UnidentifiedUseEffectDesc>
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</TimeTip>
+  <PlayerHealthTip>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</PlayerHealthTip>
+  <PlayerHealthRegenTip>If not hungry or starving, {0} will be healed every {1}.</PlayerHealthRegenTip>
+  <PlayerHealthRegenHealHPInTip>Next hit point healed in: {0}.</PlayerHealthRegenHealHPInTip>
+  <LosingHPBecauseAboveMaxTip>You're losing health because it's above the maximum level.</LosingHPBecauseAboveMaxTip>
+  <LosingManaBecauseAboveMaxTip>You're losing mana because it's above the maximum level.</LosingManaBecauseAboveMaxTip>
+  <LosingStaminaBecauseAboveMaxTip>You're losing stamina because it's above the maximum level.</LosingStaminaBecauseAboveMaxTip>
+  <ItemIdentificationTip>This item will be identified after {0}. Drag and drop to reorder.</ItemIdentificationTip>
+  <ItemUnidentifiedDescChoices>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</ItemUnidentifiedDescChoices>
+  <IdentificationGroupsBecomeIdentifiedDesc>Items like this become permanently identified once used.</IdentificationGroupsBecomeIdentifiedDesc>
+  <ItemUnidentifiedDesc>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</ItemUnidentifiedDesc>
+  <ItemCursedDesc>This item is {0}. You can't unequip {0} items (without curse removal scroll).</ItemCursedDesc>
+  <SignTexts>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</SignTexts>
+  <Sign_FloorOne>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</Sign_FloorOne>
+  <Sign_AnyFloor>Welcome to floor {0}.</Sign_AnyFloor>
+  <Sign_Shelter>Here, every soul pauses to find its way.</Sign_Shelter>
+  <BossTrophyDesc>Slain on the {0}.</BossTrophyDesc>
+  <PlayerGoldTip>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</PlayerGoldTip>
+  <SpawnsNextIn>Spawns next {0} in</SpawnsNextIn>
+  <WontSpawnMore>Won't spawn more</WontSpawnMore>
+  <DisappearsIn>Disappears in {0}.</DisappearsIn>
+  <SpreadsIn>Spreads in {0}.</SpreadsIn>
+  <UseCycleUseIn>Next action in {0}.</UseCycleUseIn>
+  <TriggerTurnsLeft>Will activate in {0}.</TriggerTurnsLeft>
+  <ConditionOrigin>Source</ConditionOrigin>
+  <DifficultyOrigin>Source: Difficulty</DifficultyOrigin>
+  <WorldSituationPresentSince>Present since</WorldSituationPresentSince>
+  <ChangeAltitudeTip>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</ChangeAltitudeTip>
+  <KickDoorTip>Hold [Fly] to kick the door.</KickDoorTip>
+  <PressKeyToRewindTip>Press [Rewind] to rewind time.</PressKeyToRewindTip>
+  <UsingThisItemCostsNoTurn>Using this item takes no turn.</UsingThisItemCostsNoTurn>
+  <UsingThisItemCostsXOfATurn>Using this item takes {0} of a turn.</UsingThisItemCostsXOfATurn>
+  <UsingThisItemCostsXTurns>Using this item takes {0} turns.</UsingThisItemCostsXTurns>
+  <UsingThisSpellCostsNoTurn>Using this spell takes no turn.</UsingThisSpellCostsNoTurn>
+  <UsingThisSpellCostsXOfATurn>Using this spell takes {0} of a turn.</UsingThisSpellCostsXOfATurn>
+  <UsingThisSpellCostsXTurns>Using this spell takes {0} turns.</UsingThisSpellCostsXTurns>
+  <UsingThisNativeWeaponCostsNoTurn>Doing this takes no turn.</UsingThisNativeWeaponCostsNoTurn>
+  <UsingThisNativeWeaponCostsXOfATurn>Doing this takes {0} of a turn.</UsingThisNativeWeaponCostsXOfATurn>
+  <UsingThisNativeWeaponCostsXTurns>Doing this takes {0} turns.</UsingThisNativeWeaponCostsXTurns>
+  <InteractingWithThisStructureCostsNoTurn>Interacting with this object takes no turn.</InteractingWithThisStructureCostsNoTurn>
+  <InteractingWithThisStructureCostsXOfATurn>Interacting with this object takes {0} of a turn.</InteractingWithThisStructureCostsXOfATurn>
+  <InteractingWithThisStructureCostsXTurns>Interacting with this object takes {0} turns.</InteractingWithThisStructureCostsXTurns>
+  <FlammableEntityTip>This object is flammable.</FlammableEntityTip>
+  <AllowUseOnlyIfNotSeenByHostilesTip>You can use it only if nobody sees you.</AllowUseOnlyIfNotSeenByHostilesTip>
+  <FragileEntityTip>This object is fragile (explosions will destroy it).</FragileEntityTip>
+  <IdentificationStoppedTip>Identification has stopped because you're hungry.</IdentificationStoppedTip>
+  <ClickToPickUpTip>Click to pick up.</ClickToPickUpTip>
+  <ClickToInteractTip>Click to interact.</ClickToInteractTip>
+  <ClickToBuyTip>Click to buy.</ClickToBuyTip>
+  <ClickToPickUpTipController>Interact to pick up.</ClickToPickUpTipController>
+  <ClickToInteractTipController>Interact with this object.</ClickToInteractTipController>
+  <ClickToBuyTipController>Interact to buy.</ClickToBuyTipController>
+  <DestroyOnDescendItemTip>This item will disappear after descending.</DestroyOnDescendItemTip>
+  <PlayerExperienceTip>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</PlayerExperienceTip>
+  <PlayerLevelTip>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</PlayerLevelTip>
+  <ScoreLevelTip>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</ScoreLevelTip>
+  <PlayerHungerTip>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</PlayerHungerTip>
+  <DungeonFloorTip>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</DungeonFloorTip>
+  <KilledExperienceTip>Gives {0} experience</KilledExperienceTip>
+  <AngeringFactionTip>Warning: If killed, all members of this faction will become hostile.</AngeringFactionTip>
+  <AITip>Tactics: {0}</AITip>
+  <FollowerTip>This character will follow you to the next floor.</FollowerTip>
+  <Conditions>Conditions</Conditions>
+  <Weapon>Weapon</Weapon>
+  <Spells>Spells</Spells>
+  <Talk>Talk</Talk>
+  <WhenDies>When dies</WhenDies>
+  <Worn>Worn</Worn>
+  <Inventory>Inventory</Inventory>
+  <ActorMiscSection>Info</ActorMiscSection>
+  <CostsMana>Costs {0}</CostsMana>
+  <CostsStamina>Costs {0}</CostsStamina>
+  <PlayerManaTip>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</PlayerManaTip>
+  <PlayerStaminaTip>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</PlayerStaminaTip>
+  <PlayerStaminaRegenTip>If not starving, {0} will regenerate every {1}.</PlayerStaminaRegenTip>
+  <PlayerStaminaRegenNextRegenInTip>Next stamina will regenerate in: {0}.</PlayerStaminaRegenNextRegenInTip>
+  <AddSpellButtonTip>Choose a new spell. You can choose a new spell every time you level up.</AddSpellButtonTip>
+  <FleesOnLowHP>flees on low HP</FleesOnLowHP>
+  <RewindTip>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</RewindTip>
+  <RewindReplenishTip>Replenishes in: {0}</RewindReplenishTip>
+  <StardustTip>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</StardustTip>
+  <PuzzlePiecesTip>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</PuzzlePiecesTip>
+  <PuzzlePiecesTip_NextPuzzlePiece>Next puzzle piece on floor: {0}</PuzzlePiecesTip_NextPuzzlePiece>
+  <UseRange>Range: {0}</UseRange>
+  <Melee>Melee</Melee>
+  <YouAreInRange>you're in range</YouAreInRange>
+  <YouAreOutOfRange>you're out of range</YouAreOutOfRange>
+  <PickUpPrivateRoomStructureTip>Pick up placed objects in your private room.</PickUpPrivateRoomStructureTip>
+  <CompassTip>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</CompassTip>
+  <WillTakeDamageIn>Will take damage in {0}.</WillTakeDamageIn>
+  <WillGainHPIn>Will gain HP in {0}.</WillGainHPIn>
+  <WillGainStaminaIn>Will gain stamina in {0}.</WillGainStaminaIn>
+  <WillGainManaIn>Will gain mana in {0}.</WillGainManaIn>
+  <StaminaRegenDisabledBecauseNotTouchingGround>Stamina regeneration is disabled because this character is not touching the ground.</StaminaRegenDisabledBecauseNotTouchingGround>
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>Stamina regeneration is disabled because you're not touching the ground.</StaminaRegenDisabledBecausePlayerNotTouchingGround>
+  <CooldownTip>Cooldown: {0}</CooldownTip>
+  <CooldownTurnsRemaining>{0} remaining</CooldownTurnsRemaining>
+  <UnlockSkillFirst>Unlock {0} first</UnlockSkillFirst>
+  <YouDontHaveAnySkillPoints>You don't have any skill points</YouDontHaveAnySkillPoints>
+  <ClickToUnlockSkill>Click to unlock</ClickToUnlockSkill>
+  <ClickToUnlockSkillController>Interact to unlock</ClickToUnlockSkillController>
+  <TraitEffects>Effects</TraitEffects>
+  <EscapingModeTip>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</EscapingModeTip>
+  <PetRatTip>Roko will collect gold coins in the adjacent tiles for you whenever you move.</PetRatTip>
+  <CheckInCodexTip>Tip: You can check codex for typical stats</CheckInCodexTip>
+  <InventorySortButtonTip>Sort inventory items</InventorySortButtonTip>
+
+  <!-- Context menu -->
+  <Unequip>Unequip</Unequip>
+  <Equip>Equip</Equip>
+  <Unwear>Take off</Unwear>
+  <Wear>Wear</Wear>
+  <Drop>Drop</Drop>
+  <Destroy>Destroy</Destroy>
+  <MixWith>Mix with {0}</MixWith>
+  <LookAt>Look at</LookAt>
+  <MoveTo>Move to</MoveTo>
+  <UseOn>Use {0} on</UseOn>
+  <InteractWith>Interact with</InteractWith>
+  <Disabled>Disabled</Disabled>
+  <GiveItem>Give {0}</GiveItem>
+  <WaitOptionDeath>death</WaitOptionDeath>
+  <NoSpace>No space</NoSpace>
+  <CurrentlyEquippedItemIsCursed>Currently equipped item is cursed</CurrentlyEquippedItemIsCursed>
+
+  <!-- Name generator -->
+  <NameGenerator1>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</NameGenerator1>
+  <NameGenerator2>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</NameGenerator2>
+  <NameGenerator3>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</NameGenerator3>
+  <SpiritName>Spirit of {0}</SpiritName>
+  <SpiritNameGenerator>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</SpiritNameGenerator>
+
+  <!-- Key codes -->
+  <KeyCode_None>None</KeyCode_None>
+  <KeyCode_Return>Enter</KeyCode_Return>
+  <KeyCode_Escape>Escape</KeyCode_Escape>
+  <KeyCode_Space>Space</KeyCode_Space>
+  <KeyCode_Mouse0>Left Mouse Button</KeyCode_Mouse0>
+  <KeyCode_Mouse1>Right Mouse Button</KeyCode_Mouse1>
+  <KeyCode_Mouse2>Middle Mouse Button</KeyCode_Mouse2>
+  <KeyCode_Alt>Alt</KeyCode_Alt>
+  <KeyCode_Shift>Shift</KeyCode_Shift>
+  <KeyCode_Control>Control</KeyCode_Control>
+  <KeyCode_Command>Command</KeyCode_Command>
+  <KeyCode_Windows>Windows Key</KeyCode_Windows>
+  <ControllerKey_LT>Left Trigger</ControllerKey_LT>
+  <ControllerKey_RT>Right Trigger</ControllerKey_RT>
+  <ControllerKey_LB>Left Bumper</ControllerKey_LB>
+  <ControllerKey_RB>Right Bumper</ControllerKey_RB>
+  <ControllerKey_View>Back Button</ControllerKey_View>
+  <ControllerKey_Menu>Start Button</ControllerKey_Menu>
+  <ControllerKey_LSB>Left Stick Click</ControllerKey_LSB>
+  <ControllerKey_RSB>Right Stick Click</ControllerKey_RSB>
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Kill</ScoreGain_Kill>
+  <ScoreGain_DoubleKill>Double kill</ScoreGain_DoubleKill>
+  <ScoreGain_TripleKill>Triple kill</ScoreGain_TripleKill>
+  <ScoreGain_KillCombo>{0} kill combo</ScoreGain_KillCombo>
+  <ScoreGain_NewFloor>New floor</ScoreGain_NewFloor>
+  <ScoreGain_TrialCompleted>Trial completed</ScoreGain_TrialCompleted>
+  <ScoreGain_SpecificKill>{0} kill</ScoreGain_SpecificKill>
+
+  <!-- Day parts -->
+  <DayPart_Morning>morning</DayPart_Morning>
+  <DayPart_Day>day</DayPart_Day>
+  <DayPart_Evening>evening</DayPart_Evening>
+  <DayPart_Night>night</DayPart_Night>
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown>
+  <CombatRating_S>S</CombatRating_S>
+  <CombatRating_A>A</CombatRating_A>
+  <CombatRating_B>B</CombatRating_B>
+  <CombatRating_C>C</CombatRating_C>
+  <CombatRating_D>D</CombatRating_D>
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>DEFENDER</SkillCategory_Defense>
+  <SkillCategory_Attack>WARRIOR</SkillCategory_Attack>
+  <SkillCategory_Misc>ADVENTURER</SkillCategory_Misc>
+
+  <!-- Crystal types -->
+  <CrystalType_Red>red</CrystalType_Red>
+  <CrystalType_Green>green</CrystalType_Green>
+  <CrystalType_Blue>blue</CrystalType_Blue>
+
+  <!-- Note authors -->
+  <AuthorType_1>Leo</AuthorType_1>
+  <AuthorType_2>Eve</AuthorType_2>
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Utilities</RecipeCategory_Utilities>
+  <RecipeCategory_Potions>Potions</RecipeCategory_Potions>
+  <RecipeCategory_Scrolls>Scrolls</RecipeCategory_Scrolls>
+  <RecipeCategory_WeaponsAndGear>Weapons and gear</RecipeCategory_WeaponsAndGear>
+
+</Strings>
