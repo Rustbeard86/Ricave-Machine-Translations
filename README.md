@@ -27,7 +27,7 @@ You can easily find the game's installation folder through the Steam client:
 2.  Right-click on **Ricave** in your game list.
 3.  Go to **Manage** > **Browse local files**.
 
-![Steam Browse Local Files]([https://i.imgur.com/KxN3o4T.png](https://github.com/Rustbeard86/Ricave-Machine-Translations/blob/main/steam-browse-local-files.jpg?raw=true))
+![Steam Browse Local Files](steam-browse-local-files.jpg)
 
 This will open the main game folder. From there, navigate to the `Data\Languages` directory. The final path should look like this:
 ```
