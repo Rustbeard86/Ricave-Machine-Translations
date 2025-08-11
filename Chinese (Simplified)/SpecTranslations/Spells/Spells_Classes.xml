@@ -1,0 +1,33 @@
+﻿<SpecTranslations>
+
+  <BlindingFlashAbility.label>致盲闪光</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>在短时间内致盲所有当前能看到你的敌人。使用不消耗回合。</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>欺骗</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>使目标在短时间内对其他所有单位产生敌意。使用不消耗回合。</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>缠绕邻近单位</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>在短时间内缠绕所有与你相邻的单位。使用不消耗回合。</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>急速</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>在短时间内每回合行动两次。使用不消耗回合。</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>跳跃</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>立即跳到任何相邻的格子，即使是垂直方向。使用不消耗回合。</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>推</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>将任何人推开1格。使用不消耗回合。</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>随机逃脱</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>传送到地图上的一个随机位置。使用不消耗回合。</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>生成藤蔓</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>在指定位置生成藤蔓并攀爬它们。</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>毒云</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>在指定位置生成一团毒云。使用不消耗回合。</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>召唤幻影</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>召唤一个友好的幻影来帮助你战斗。一次只能存在一个幻影。</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

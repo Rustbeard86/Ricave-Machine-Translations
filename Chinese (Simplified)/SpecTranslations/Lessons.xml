@@ -1,0 +1,82 @@
+﻿<SpecTranslations>
+
+  <BigMap.label>小地图</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>按住 [Minimap] 或 [MinimapAlt] 查看地图。\n\n你可以用鼠标滚轮缩放。\n\n最重要的房间会标记在你的地图上。</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>按住 [MinimapAlt] 查看地图。\n\n最重要的房间会标记在你的地图上。</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>攀爬</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>进入下一个房间并爬上梯子。\n\n走到有梯子的格子上，然后按住 [Fly] 并按 [MoveForward] 向上爬。\n\n或者，你也可以直接点击梯子。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>进入下一个房间并爬上梯子。\n\n走到有梯子的格子上，然后按住 [Fly] 并按 [MoveForward] 向上爬。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>喝药水</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>从箱子里拿出药水并喝下。\n\n你可以按相应的数字键从快捷栏使用药水——这里是“1”。</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>从箱子里拿出药水并喝下。按 [Accept] 进行互动。\n\n你可以按 [QuickbarMenu] 显示一个包含你快捷栏中所有物品的菜单。</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>战斗</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>击败骷髅。点击进行攻击。[Wait] 等待。\n\n除非你移动或攻击，否则敌人不会移动。\n\n提示：\n- 总是仔细计划你的下一步行动。\n- 大多数敌人都很致命，每一点生命值都很重要。\n- 避免同时被多个敌人包围。</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>击败骷髅。按 [Accept] 进行攻击，按 [Wait] 等待。\n\n除非你移动或攻击，否则敌人不会移动。\n\n提示：\n- 总是仔细计划你的下一步行动。\n- 大多数敌人都很致命，每一点生命值都很重要。\n- 避免同时被多个敌人包围。</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>检查</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>再次按 [ShowInventory] 关闭物品栏，然后按住 [Inspect] 或 [InspectAlt] 检查周围环境。\n\n记得检查所有敌人，了解他们的危险程度。</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>再次按 [ShowInventory] 关闭物品栏，然后按住 [Inspect] 检查周围环境。\n\n记得检查所有敌人，了解他们的危险程度。</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>再次按 [ShowInventory] 关闭物品栏，然后按住 [Inspect] 或 [InspectAlt] 检查周围环境。\n\n记得检查所有敌人，了解他们的危险程度。</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>物品栏</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>装备剑。\n\n可以拖动它，右键点击它，或者按“1”从快捷栏使用它。\n\n大多数物品都是未鉴定的，有些甚至是被诅咒的！</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>装备剑。\n\n你可以按 [QuickbarMenu] 显示一个包含你快捷栏中所有物品的菜单。\n\n大多数物品都是未鉴定的，有些甚至是被诅咒的！</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>杠杆</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>每层都有一个杠杆可以打开通往出口房间的大门。点击它并离开该区域。\n\n但要小心！拉动杠杆会唤醒该层所有的敌人！</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>每层都有一个杠杆可以打开通往出口房间的大门。按 [Accept] 拉动它并离开该区域。\n\n但要小心！拉动杠杆会唤醒该层所有的敌人！</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>移动</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>按 [MoveForward], [MoveLeft], [MoveBack], [MoveRight] 进行移动。\n\nRicave 是回合制的。一次移动消耗一回合，所以其他人也会随你一起移动。\n\n你也可以点击移动。</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>按 [MoveForward], [MoveLeft], [MoveBack], [MoveRight] 进行移动。\n\nRicave 是回合制的。一次移动消耗一回合，所以其他人也会随你一起移动。</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>开门</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>要开门，走过去或点击它。</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>要开门，走过去。</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>物品栏</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>按 [ShowInventory] 打开你的物品栏。</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>拾取物品</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>同样，要拾取物品，走过去或点击它。</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>同样，要拾取物品，走过去。</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>快速攻击</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>进入下一个房间，在箱子附近按 [AttackNearest]，会自动攻击离你鼠标最近的目标。\n\n按 [AttackNearest] 比用鼠标更方便。它可以让你快速摧毁周围的多个目标。</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>进入下一个房间，按 [Accept] 摧毁箱子。用 [RotateLeft] 和 [RotateRight] 转向它们。</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>旋转</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>使用鼠标环顾四周或按 [RotateLeft] 或 [RotateRight] 进行旋转。\n\n与移动不同，旋转不消耗回合。</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>按 [RotateLeft] 或 [RotateRight] 进行旋转。\n\n与移动不同，旋转不消耗回合。</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>侧移</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>按 [MoveLeft] 或 [MoveRight] 进行侧移。</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>身体部位</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>按住 [Fly] 并点击骷髅的手臂来摧毁它，然后正常解决它。\n\n每个身体部位都有自己的生命值。</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>按住 [Fly] 并按 [Accept] 或右扳机键攻击骷髅的手臂来摧毁它，然后正常解决它。\n\n每个身体部位都有自己的生命值。</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>提示</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>提示很重要！将鼠标悬停在物品栏屏幕上的任何东西上以了解它。\n\n记得检查你找到的每一件物品。</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>提示很重要！在物品栏屏幕打开时试试它们。\n\n记得检查你找到的每一件物品。</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>等待</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>按 [Wait] 等待一回合。\n\n等待可以让你率先造成伤害，并且还能为你的下一次攻击蓄力。</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

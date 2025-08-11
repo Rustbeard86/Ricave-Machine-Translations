@@ -1,0 +1,75 @@
+﻿<SpecTranslations>
+
+  <Debug_AddCondition.label>添加状态 (调试)</Debug_AddCondition.label> <!-- <En>add condition (debug)</En> -->
+  <Debug_AddCondition.IsGivenToDebug>将 {0} 给予 {1} (调试)</Debug_AddCondition.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddParty.label>添加到队伍 (调试)</Debug_AddParty.label> <!-- <En>add to party (debug)</En> -->
+  <Debug_AddParty.AddingToPlayerPartyDebug>将 {0} 添加到玩家队伍 (调试)</Debug_AddParty.AddingToPlayerPartyDebug> <!-- <En>Adding {0} to player party (debug)</En> -->
+
+  <Debug_AddToInventory.label>添加到物品栏 (调试)</Debug_AddToInventory.label> <!-- <En>add to inventory (debug)</En> -->
+  <Debug_AddToInventory.IsAddedToSInventoryDebug>将 {0} 添加到 {1} 的物品栏 (调试)</Debug_AddToInventory.IsAddedToSInventoryDebug> <!-- <En>{0} is added to {1}'s inventory (debug)</En> -->
+
+  <Debug_AddUseEffect.label>添加使用效果 (调试)</Debug_AddUseEffect.label> <!-- <En>add use effect (debug)</En> -->
+  <Debug_AddUseEffect.IsGivenToDebug>将 {0} 给予 {1} (调试)</Debug_AddUseEffect.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddWorldSituation.label>添加世界状况 (调试)</Debug_AddWorldSituation.label> <!-- <En>add world situation (debug)</En> -->
+  <Debug_AddWorldSituation.IsAddedDebug>已添加 {0} (调试)</Debug_AddWorldSituation.IsAddedDebug> <!-- <En>{0} is added (debug)</En> -->
+
+  <Debug_AttachToChainPost.label>附加到链柱 (调试)</Debug_AttachToChainPost.label> <!-- <En>attach to chain post (debug)</En> -->
+  <Debug_AttachToChainPost.IsAttachedToDebug>{0} 已附加到 {1} (调试)</Debug_AttachToChainPost.IsAttachedToDebug> <!-- <En>{0} is attached to {1} (debug)</En> -->
+
+  <Debug_Control.label>控制角色 (调试)</Debug_Control.label> <!-- <En>control actor (debug)</En> -->
+  <Debug_Control.ControllingDebug>正在控制 {0} (调试)</Debug_Control.ControllingDebug> <!-- <En>Controlling {0} (debug)</En> -->
+
+  <Debug_DeSpawn.label>移除 (调试)</Debug_DeSpawn.label> <!-- <En>despawn (debug)</En> -->
+  <Debug_DeSpawn.IsDespawnedDebug>{0} 已被移除 (调试)</Debug_DeSpawn.IsDespawnedDebug> <!-- <En>{0} is despawned (debug)</En> -->
+
+  <Debug_Destroy.label>摧毁 (调试)</Debug_Destroy.label> <!-- <En>destroy (debug)</En> -->
+  <Debug_Destroy.IsDestroyedDebug>{0} 已被摧毁 (调试)</Debug_Destroy.IsDestroyedDebug> <!-- <En>{0} is destroyed (debug)</En> -->
+
+  <Debug_DoWorldEvent.label>执行世界事件 (调试)</Debug_DoWorldEvent.label> <!-- <En>do world event (debug)</En> -->
+  <Debug_DoWorldEvent.IsInvokedDebug>{0} 已被调用 (调试)</Debug_DoWorldEvent.IsInvokedDebug> <!-- <En>{0} is invoked (debug)</En> -->
+
+  <Debug_LevelUp.label>升级 (调试)</Debug_LevelUp.label> <!-- <En>level up (debug)</En> -->
+  <Debug_LevelUp.ThePlayerLevelsUpDebug>玩家升级 (调试)</Debug_LevelUp.ThePlayerLevelsUpDebug> <!-- <En>The player levels up (debug)</En> -->
+
+  <Debug_RemoveCondition.label>移除状态 (调试)</Debug_RemoveCondition.label> <!-- <En>remove condition (debug)</En> -->
+  <Debug_RemoveCondition.IsRemovedFromDebug>已从 {1} 移除 {0} (调试)</Debug_RemoveCondition.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveParty.label>从队伍中移除 (调试)</Debug_RemoveParty.label> <!-- <En>remove from party (debug)</En> -->
+  <Debug_RemoveParty.RemovingFromPlayerParty>正在从玩家队伍中移除 {0} (调试)</Debug_RemoveParty.RemovingFromPlayerParty> <!-- <En>Removing {0} from player party (debug)</En> -->
+
+  <Debug_RemoveUseEffect.label>移除使用效果 (调试)</Debug_RemoveUseEffect.label> <!-- <En>remove use effect (debug)</En> -->
+  <Debug_RemoveUseEffect.IsRemovedFromDebug>已从 {1} 移除 {0} (调试)</Debug_RemoveUseEffect.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveWorldSituation.label>移除世界状况 (调试)</Debug_RemoveWorldSituation.label> <!-- <En>remove world situation (debug)</En> -->
+  <Debug_RemoveWorldSituation.IsRemovedDebug>{0} 已被移除 (调试)</Debug_RemoveWorldSituation.IsRemovedDebug> <!-- <En>{0} is removed (debug)</En> -->
+
+  <Debug_RewindTime.label>回溯时间 (调试)</Debug_RewindTime.label> <!-- <En>rewind time (debug)</En> -->
+  <Debug_RewindTime.RewindTurnsDebug>回溯 {0} 回合 (调试)</Debug_RewindTime.RewindTurnsDebug> <!-- <En>Rewind {0} turns (debug)</En> -->
+
+  <Debug_SaveBlueprint.label>保存蓝图 (调试)</Debug_SaveBlueprint.label> <!-- <En>save blueprint (debug)</En> -->
+  <Debug_SaveBlueprint.BlueprintIsSavedDebug>蓝图 {0} 已保存 (调试)</Debug_SaveBlueprint.BlueprintIsSavedDebug> <!-- <En>Blueprint {0} is saved (debug)</En> -->
+
+  <Debug_SetGravity.label>改变重力 (调试)</Debug_SetGravity.label> <!-- <En>change gravity (debug)</En> -->
+  <Debug_SetGravity.GravityIsChangedForDebug>{0} 的重力已改变 (调试)</Debug_SetGravity.GravityIsChangedForDebug> <!-- <En>Gravity is changed for {0} (debug)</En> -->
+
+  <Debug_SetRampUp.label>改变难度递增 (调试)</Debug_SetRampUp.label> <!-- <En>change ramp up (debug)</En> -->
+  <Debug_SetRampUp.RampUpIsChangedForDebug>{0} 的难度递增已改变 (调试)</Debug_SetRampUp.RampUpIsChangedForDebug> <!-- <En>Ramp up is changed for {0} (debug)</En> -->
+
+  <Debug_SetScale.label>改变大小 (调试)</Debug_SetScale.label> <!-- <En>change scale (debug)</En> -->
+  <Debug_SetScale.ScaleIsChangedForDebug>{0} 的大小已改变 (调试)</Debug_SetScale.ScaleIsChangedForDebug> <!-- <En>Scale is changed for {0} (debug)</En> -->
+
+  <Debug_Spawn.label>生成 (调试)</Debug_Spawn.label> <!-- <En>spawn (debug)</En> -->
+  <Debug_Spawn.IsSpawnedDebug>{0} 已生成 (调试)</Debug_Spawn.IsSpawnedDebug> <!-- <En>{0} is spawned (debug)</En> -->
+
+  <Debug_SpawnBlueprint.label>生成蓝图 (调试)</Debug_SpawnBlueprint.label> <!-- <En>spawn blueprint (debug)</En> -->
+  <Debug_SpawnBlueprint.BlueprintIsSpawnedDebug>蓝图 {0} 已生成 (调试)</Debug_SpawnBlueprint.BlueprintIsSpawnedDebug> <!-- <En>Blueprint {0} is spawned (debug)</En> -->
+
+  <Debug_Teleport.label>传送 (调试)</Debug_Teleport.label> <!-- <En>teleport (debug)</En> -->
+  <Debug_Teleport.TeleportsDebug>{0} 传送 (调试)</Debug_Teleport.TeleportsDebug> <!-- <En>{0} teleports (debug)</En> -->
+
+  <Debug_UnfogAll.label>清除全部迷雾 (调试)</Debug_UnfogAll.label> <!-- <En>unfog everything (debug)</En> -->
+  <Debug_UnfogAll.EveryCellIsUnfoggedDebug>所有单元格的迷雾已清除 (调试)</Debug_UnfogAll.EveryCellIsUnfoggedDebug> <!-- <En>Every cell is unfogged (debug)</En> -->
+
+</SpecTranslations>

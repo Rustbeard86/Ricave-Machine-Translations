@@ -1,0 +1,34 @@
+﻿<SpecTranslations>
+
+  <Introduction.label>新家</Introduction.label> <!-- <En>New home</En> -->
+  <Introduction.description>进入地牢并杀死3个骷髅。</Introduction.description> <!-- <En>Enter the dungeon and kill 3 skeletons.</En> -->
+  <Introduction.AllSeemsStrangeButYou>一切看起来都很奇怪，但你希望最终能弄明白。\n\n进入你的第一个地牢并杀死至少3个骷髅以熟悉这个地方。尝试通过进入传送门到达第二层的尽头。</Introduction.AllSeemsStrangeButYou> <!-- <En>All seems strange, but you hope it will start making sense eventually.\n\nEnter your first dungeon and kill at least 3 skeletons to get familiar with the place. Try to reach the end of the second floor by entering into the portal.</En> -->
+  <Introduction.IntroductionKillCount>[Introduction_KillCount] / 3</Introduction.IntroductionKillCount> <!-- <En>[Introduction_KillCount] / 3</En> -->
+
+  <MemoryPiece1.label_2>记忆丧失</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
+  <MemoryPiece1.description_2>在第3层找到第一个记忆碎片。</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
+  <MemoryPiece1.YouveLostYourMemoryBut>你失去了记忆，但有样东西可以帮助你记起你到这里之前发生的事情。\n\n在第三层找到第一个记忆碎片。\n\n这一切起初可能看起来很有挑战性，但每走一步，你都会离解锁被遗忘的记忆更近一步。</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
+  <MemoryPiece1.dungeonModifiers>第3层有记忆碎片</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+
+  <MemoryPiece2.label_2>记忆丧失：分离</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
+  <MemoryPiece2.description_2>在第4层找到第二个记忆碎片。</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
+  <MemoryPiece2.YoureMakingProgressYou>你正在取得进展。你慢慢开始记起发生了什么——你和朋友们去远足了。令你惊讶的是，玛雅也在这里。\n\n找到第二个记忆碎片将帮助你记起接下来发生的事情。它应该在第4层的小首领手中。</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
+  <MemoryPiece2.dungeonModifiers>第4层有记忆碎片</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+
+  <MemoryPiece3.label_2>记忆丧失：洞穴</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
+  <MemoryPiece3.description_2>在第6层找到第三个记忆碎片。</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
+  <MemoryPiece3.YoureStartingToRemember>你开始记起发生了什么。与你的团队分开后，你偶然发现了一个洞穴。不幸的是，你滑倒摔断了腿。但接下来发生了什么？\n\n找到第三个记忆碎片。它应该在第6层的某个地方，并确保带上一根绳子。</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
+  <MemoryPiece3.dungeonModifiers>第6层有记忆碎片</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+
+  <MemoryPiece4.label_2>记忆丧失：获救</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
+  <MemoryPiece4.description_2>在第8层找到最后一个记忆碎片。</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
+  <MemoryPiece4.YoureAlmostThereSurprisingly>你快到了。令人惊讶的是，是玛雅在那个洞穴里找到了你。然而，你仍然不明白你为什么在这里。你需要更多答案。\n\n找到最后一个记忆碎片。它应该在第8层的某个毒药陷阱里。</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
+  <MemoryPiece4.dungeonModifiers>第8层有记忆碎片</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+
+  <RescueLobbyShopkeeper.label>救援</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
+  <RescueLobbyShopkeeper.description>在第2层营救暗影的朋友。</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
+  <RescueLobbyShopkeeper.ToGetMoreInformation>要从暗影那里获得更多信息，你必须先营救他的朋友。他被锁在这个地牢第二层的某个笼子里。\n\n请注意，你可以在任何地牢中完成任务，只要它有足够的层数。你走得越远，地牢的层数就越多。</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers>第2层有一个待救援的人</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards>在大厅解锁一个新房间</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+
+</SpecTranslations>

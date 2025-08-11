@@ -1,0 +1,46 @@
+﻿<SpecTranslations>
+
+  <Entangle.label>缠绕</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>使某人在短时间内无法移动。请注意，被缠绕的敌人仍然可以从他们的位置进行攻击。</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>进食</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>就像吃东西一样，但实际上并没有吃任何东西。魔法。</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>火球术</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>施放一个火球，会产生爆炸并在所有相邻的单元格引发火焰。</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>冰冻</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>在短时间内冰冻目标。被冰冻的敌人无法移动或攻击。</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>粘液坑</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>生成一滩粘液，会减慢任何经过的角色的速度。</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>生长</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>生成一个3x3的草和藤蔓区域。适合阻挡敌人。</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>治疗</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>恢复一些生命值并治愈流血。</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>鉴定</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>鉴定你选择的一件物品。对自己使用此法术以从你的物品栏中鉴定一件物品。</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>选择一件物品进行鉴定。</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>魔法墙</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>生成一堵临时的魔法墙。</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>群体推</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>将所有人推离你。</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>推</Push.label> <!-- <En>push</En> -->
+  <Push.description>将某人推离你。</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>打击</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>对目标造成伤害。</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>传送</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>传送到指定位置。适合快速逃脱，因为使用此法术不消耗回合。</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>随机传送</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>将目标传送到地图上的一个随机位置。</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>
