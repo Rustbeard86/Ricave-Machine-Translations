@@ -1,0 +1,53 @@
+﻿<SpecTranslations>
+
+  <FindRelic.label>Найти реликвию</FindRelic.label> <!-- <En>Find Relic</En> -->
+  <FindRelic.description>Найдите древнюю реликвию на 4-м этаже.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
+  <FindRelic.ThereAppearsToBeAnAgeold>Похоже, где-то на 4-м этаже есть древняя реликвия, окутанная тайной. Идите и найдите её.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
+  <FindRelic.dungeonModifiers>Реликвия на 4-м этаже</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+
+  <KillHypnorak.label>Убить Гипнорака</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
+  <KillHypnorak.description>Убейте Гипнорака — мини-босса-дракона на 3-м этаже.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
+  <KillHypnorak.YourNextChallengeAwaits>Ваше следующее испытание ждёт вас на 3-м этаже, где обитает Гипнорак. Соберитесь с духом и победите его.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
+  <KillHypnorak.dungeonModifiers>Гипнорак на 3-м этаже</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+
+  <KillMimics.label>Охотник на мимиков</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
+  <KillMimics.description>Убейте 10 мимиков.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
+  <KillMimics.NotAllTreasuresAreWhat>Не все сокровища таковы, какими кажутся. У некоторых сундуков есть острые зубы и аппетит к неосторожным. Ваша цель — уничтожить 10 мимиков.</KillMimics.NotAllTreasuresAreWhat> <!-- <En>Not all treasures are what they seem. Some chests bear sharp teeth and an appetite for the unwary. Your goal is to eliminate 10 mimics.</En> -->
+  <KillMimics.KillMimicsKillCount10>[KillMimics_KillCount] / 10</KillMimics.KillMimicsKillCount10> <!-- <En>[KillMimics_KillCount] / 10</En> -->
+
+  <KillNightmareLord.label>Убить Повелителя Кошмаров</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
+  <KillNightmareLord.description>Убейте Повелителя Кошмаров — мини-босса-скелета на 1-м этаже.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
+  <KillNightmareLord.YourMissionIsToConfront>Ваша миссия — сразиться со зловещим Повелителем Кошмаров, скелетоподобным чудовищем. К счастью, далеко ходить не придётся, его логово находится на самом первом этаже.\n\nОбратите внимание, что вы можете выполнить это задание только в подземельях с мини-боссами.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
+  <KillNightmareLord.dungeonModifiers>Повелитель Кошмаров на 1-м этаже</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+
+  <KillPhantasmos.label>Убить Фантазмоса</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
+  <KillPhantasmos.description>Убейте Фантазмоса — мини-босса-мумию на 4-м этаже.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
+  <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>На 4-м этаже вас ждёт Фантазмос, мумия, окутанная древними тайнами. Ваша цель — победить его.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
+  <KillPhantasmos.dungeonModifiers>Фантазмос на 4-м этаже</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+
+  <KillSkeletons.label>Разминка</KillSkeletons.label> <!-- <En>Warmup</En> -->
+  <KillSkeletons.description>Убейте 10 скелетов.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
+  <KillSkeletons.ItLooksLikeYoureGoing>Похоже, вы здесь задержитесь надолго, так что стоит немного попрактиковаться. Убейте 10 скелетов.</KillSkeletons.ItLooksLikeYoureGoing> <!-- <En>It looks like you're going to stay here for a while, so you should practice a bit. Kill 10 skeletons.</En> -->
+  <KillSkeletons.KillSkeletonsKillCount>[KillSkeletons_KillCount] / 10</KillSkeletons.KillSkeletonsKillCount> <!-- <En>[KillSkeletons_KillCount] / 10</En> -->
+
+  <KillSlimes.label>Продвинутая разминка</KillSlimes.label> <!-- <En>Advanced Warmup</En> -->
+  <KillSlimes.description>Убейте 10 слизней.</KillSlimes.description> <!-- <En>Kill 10 slimes.</En> -->
+  <KillSlimes.NowThatYouveGottenSome>Теперь, когда вы немного попрактиковались, пришло время для настоящего испытания. Слизни вторглись в подземелье, и вам предстоит положить этому конец. Убейте 10 слизней.</KillSlimes.NowThatYouveGottenSome> <!-- <En>Now that you've gotten some practice, it's time for a real challenge. Slimes have invaded the dungeon and it's up to you to put a stop to this. Kill 10 slimes.</En> -->
+  <KillSlimes.KillSlimesKillCount10>[KillSlimes_KillCount] / 10</KillSlimes.KillSlimesKillCount10> <!-- <En>[KillSlimes_KillCount] / 10</En> -->
+
+  <MoonlightMedallions.label>Лунные медальоны</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
+  <MoonlightMedallions.description>Соберите 4 лунных медальона на 2-м этаже.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
+  <MoonlightMedallions.ThereAre4MoonlightMedallions>На втором этаже этого подземелья разбросаны 4 лунных медальона. Соберите их все, чтобы узнать их значение.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
+  <MoonlightMedallions.dungeonModifiers>4 лунных медальона на 2-м этаже</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+
+  <PhantomSwarm.label>Рой фантомов</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
+  <PhantomSwarm.description>Подавите фантомные беспорядки на 3-м этаже.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
+  <PhantomSwarm.PhantomsHaveOverrunThe>Фантомы заполонили третий этаж. Положите этому конец, убив как минимум 3 из них.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
+  <PhantomSwarm.dungeonModifiers>Дополнительные 3 фантома на 3-м этаже</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+
+  <RatInfestation.label>Нашествие крыс</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
+  <RatInfestation.description>Разберитесь с нашествием крыс на 2-м этаже.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
+  <RatInfestation.RatsEverywhereYouHave>Крысы повсюду! Вы должны решить эту надоедливую проблему и разобраться с нашествием крыс на втором этаже. Чтобы завершить задание, вам придётся убить там не менее 5 крыс. Внимание: принятие этого задания означает, что на втором этаже появится больше крыс.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
+  <RatInfestation.dungeonModifiers>Дополнительные 5 крыс на 2-м этаже</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+
+</SpecTranslations>

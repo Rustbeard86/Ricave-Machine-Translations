@@ -1,0 +1,997 @@
+﻿<Strings>
+
+  <!-- Main menu -->
+  <Play>Грати</Play> <!-- <En>Play</En> -->
+  <Quit>Вийти</Quit> <!-- <En>Quit</En> -->
+  <Loading>Завантаження</Loading> <!-- <En>Loading</En> -->
+  <Resume>Продовжити</Resume> <!-- <En>Resume</En> -->
+  <Options>Налаштування</Options> <!-- <En>Options</En> -->
+  <Mods>Моди</Mods> <!-- <En>Mods</En> -->
+  <Credits>Титри</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>Обрати мову</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>Померти та перезапустити</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>Померти та перейти до лобі</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>Зберегти та вийти з гри</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>Закрити</Close> <!-- <En>Close</En> -->
+  <Back>Назад</Back> <!-- <En>Back</En> -->
+  <Days>{0} днів</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} годин</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} хвилин</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 день</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 година</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 хвилина</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>Щось викликає помилки.\nДив. файл журналу для отримання додаткової інформації.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Увійшли до Steam</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>мод не обрано</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>Ранній доступ</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave зараз знаходиться в розробці.\n\nЯ постійно намагаюся додавати більше контенту, збалансовувати речі, вирізати механіки, які не є приємними, та збирати відгуки, але я, ймовірно, щось пропустив. Якщо ви вважаєте гру занадто складною або занадто легкою, зіткнулися з помилкою або маєте чудову ідею для покращення чи нової функції, будь ласка, візьміть участь у процесі розробки та поділіться своїми думками на нашому каналі Discord або Twitter.\n\nДякую та насолоджуйтесь!\n~Петро "ison" Валчак</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>Гру оновлено</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricave було оновлено до версії {0}!\n\nВаше поточне проходження може бути сумісним з новою версією, а може й ні. Ви хочете залишити поточне проходження та повернутися до лобі?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Завантажити в Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>завантаження</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Не вдалося завантажити в Steam: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Успішно завантажено в Steam.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>Повідомлення</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>Роздільна здатність</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>Повноекранний режим</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>Масштаб інтерфейсу</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>FOV</FOV> <!-- <En>FOV</En> -->
+  <VSync>Вертикальна синхронізація</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>Цільова частота кадрів</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>Показувати FPS</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Інвертувати Y</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>Прив'язка клавіш</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>Гучність</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>Гучність музики</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>Чутливість миші</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>Чутливість покажчика</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>Якість SSAO</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>Якість тіней</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>Downsampling</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>Контур</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>Макс. світла</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>Вимкнено</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>Низька</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>Нормальна</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>Висока</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>Низька</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>Нормальна</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>Висока</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>Немає (найкраща якість)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5x (гірша якість)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (найгірша якість)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>Багатопрохідний заокруглений</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>Багатопрохідний</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>Однопрохідний (рекомендовано)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>OK</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>Відновити значення за замовчуванням</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>Скинути стан гри</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>Повернутися до лобі</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>Скинути весь прогрес</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>Ви впевнені, що хочете повернутися до лобі?\n\nНа відміну від повернення до лобі в грі, використання цієї опції тут означає, що ви втратите свій прогрес для поточного проходження. Ви не втратите загальний прогрес лобі (ваші попередні квести та зоряний пил залишаться недоторканими).\n\nВикористовуйте цю опцію, якщо ваш файл збереження пошкоджено, наприклад, після встановлення несумісного оновлення.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>Ви впевнені, що хочете скинути ВЕСЬ прогрес?\n\nЦе призведе до стирання всіх ваших даних, і ви почнете з початку.\n\nВикористовуйте цю опцію лише, якщо ви хочете пройти гру з нуля або якщо ваші дані про прогрес пошкоджені.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>Натисніть клавішу для призначення:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>Немає</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>Відео</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>Інтерфейс</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>Аудіо</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>Різне</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>Якість</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>Ні</No> <!-- <En>No</En> -->
+  <Yes>Так</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>Увійти до підземелля</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>Увійти до підземелля з зерном</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>Увійти до тренувальної кімнати</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>Введіть зерно</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>Прогрес вимкнено</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>Найкращий рахунок</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>Досягнутий поверх</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>Середній поверх</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>Спроби</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>Всього вбивств</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>Квести</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>Статистика</Stats> <!-- <En>Stats</En> -->
+  <Cancel>Скасувати</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>Прийняти</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>Прийняти квест</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>Отримати</Claim> <!-- <En>Claim</En> -->
+  <Postpone>Відкласти</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>Заблоковано</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>Тільки найкращі ціни!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>Потрібні покращення?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>Маєте зоряний пил?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>Натисніть, щоб дізнатися більше</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>Виберіть, щоб дізнатися більше</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>Модифікатори підземелля після прийняття</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>Нагороди</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} фрагментів головоломки</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>Розблокується на рівні {0}</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>Розблоковується після виконання квесту</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>Помістити</Place> <!-- <En>Place</En> -->
+  <PickUp>Підібрати</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>Натисніть [ShowInventory], щоб відкрити меню магазину.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>Немає</None> <!-- <En>None</En> -->
+  <CompletedQuests>Виконані квести</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>Виконано</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>Щоденне випробування</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>У вас є одна спроба - використайте її з розумом!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>Щодня гравці з усього світу грають в одному і тому ж зерні підземелля. У вас є лише один шанс на день.\n\nПравила:\n  - Нормальна складність\n  - Підсилення вимкнено\n  - Випадковий клас та риси\n  - Квести вимкнено\n  - Прогрес вимкнено\n  - Безкінечне складне підземелля (без обмеження поверху)\n\nВи не можете збирати зоряний пил у цьому підземеллі, і це не враховуватиметься у вашій статистиці, але ви отримаєте {0} за участь.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>Наступне випробування через: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>Ваш найкращий результат (за всі дні): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>Почати щоденне випробування</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>Ви вже грали в сьогоднішньому випробуванні\nВаш рахунок: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>Спочатку вимкніть моди</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>Розблоковується на рівні {0}</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>Переглянути таблицю лідерів за сьогодні</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>Світова</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>Друзі</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>Ваш рейтинг: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>Завантаження таблиці лідерів...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>Не вдалося завантажити таблицю лідерів.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>Таблиця лідерів недоступна.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>Жоден з ваших друзів ще не грав у цьому випробуванні.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>Активні квести</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>Активні</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>Доступні квести</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>Доступні</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>Виконані квести</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>Історія</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>Натисніть [Wait], щоб продовжити</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>Квест</Quest> <!-- <En>Quest</En> -->
+  <Runs>Проходження</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 квест доступний</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>Доступно {0} квестів</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>Використовуйте журнал квестів, щоб прийняти квести.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>Ім'я гравця</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>Складність</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>Вороги</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>Боси</Bosses> <!-- <En>Bosses</En> -->
+  <Train>Тренуватися</Train> <!-- <En>Train</En> -->
+  <EnterNewName>Введіть нове ім'я</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>Здоров'я ворога</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>Початкове здоров'я</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>Рахунок</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>Додаткові вороги</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>Хліб на поверх</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>Зілля здоров'я на поверх</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>Рівень ворога</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>Золота здобич на поверх</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>Зоряний пил</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>Кристали зцілення</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>Малі кристали зцілення</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>Кристали мани</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>Малі кристали мани</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>Кількість ворогів</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>Початкові зілля здоров'я</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>Вітаємо!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>Вітаємо!\n\nВаш остаточний рахунок: {0}\n\nНавіть якщо основна сюжетна лінія закінчена, можливо, вам ще є що відкрити.\n\nЯкщо вам сподобалася гра, приєднуйтесь до нашого сервера Discord за адресою {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>Ціна наступних рис</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>Вам потрібно спочатку розблокувати цю рису.\n\nВи можете купити випадкову рису за зоряний пил. Чим більше рис у вас вже є, тим дорожче купити наступну.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>Максимальний поверх, якого ви досягли з цією рисою: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>Ви можете вибрати лише до 2 рис.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>У вас недостатньо зоряного пилу.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>Натисніть, щоб вибрати або скасувати вибір цієї риси.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>Виберіть або скасуйте вибір цієї риси.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>Натисніть, щоб вибрати або скасувати вибір.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>Виберіть або скасуйте вибір.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>Купити {0} випадкових рис</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>Обрані риси</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>Ви дійсно хочете купити {1} випадкових рис за {0}?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>Почніть з {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>Знайдіть на {0} більше золота</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>Знайдіть на {0} менше золота</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>Максимальне здоров'я</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>Максимальна мана</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>Максимальна витривалість</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>Не ворожий до {0}</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>Ворожий до {0}</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>Стійкість до отрути {0}</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>Вразливість до отрути {0}</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>Імунітет до отрути</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>Без шкоди від падіння</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>Шкода від падіння {0}</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>Стійкість до вогню {0}</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>Вразливість до вогню {0}</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>Стійкість до магії {0}</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>Вразливість до магії {0}</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>Шкода {0} до {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>Витривалість відновлюється в {0} разів повільніше</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Витривалість відновлюється вдвічі повільніше</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>Завдайте на {0} більше шкоди, коли здоров'я нижче {1}</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>Отримайте на {0} менше максимального здоров'я за рівень</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>Отримайте на {0} більше максимального здоров'я за рівень</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>Шум ходьби {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>Отримання {0} мани за кожне вбивство гідного супротивника</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>Отримання {0} HP за кожне вбивство гідного супротивника</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>Втрата {0} HP за кожне вбивство гідного супротивника</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>Слоти інвентарю {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>Макс. HP x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>{0} шкоди босам</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>Швидкість зцілення {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>Імунітет до {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>Імунітет до відштовхування</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>Швидкість голоду {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>Ціни в магазинах {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>Може літати</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>Отримання на {0} більше досвіду</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>Отримання на {0} менше досвіду</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>Збережений досвід з минулого проходження</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>Збережене золото з минулого проходження</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>Залишився 1 забіг</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>Залишилося {0} забігів</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>Старт</StartNewRun> <!-- <En>Start</En> -->
+  <Character>Персонаж</Character> <!-- <En>Character</En> -->
+  <Traits>Риси</Traits> <!-- <En>Traits</En> -->
+  <Boosts>Підсилення</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>Поверхи</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} поверхів</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>Кімнат на поверх</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>Розблокувати за {0}</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>Завершено на складності</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>Міні-боси</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>Сховища</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>Врятовані духи</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>Перемоги</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>Поразки</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>Бос: {0}</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>Зіштовхується з</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>Косметика є виключно візуальною і не має жодного впливу на ігровий процес, якщо не зазначено інше.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>Ви хочете купити {0} за {1}?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>У вас недостатньо коштів для придбання цієї косметики.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>Ціна</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>Попередження: Ця косметика зробить {0} ворожими до вас</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>Додаткові модифікатори підземелля</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>Ваш час позичений.\nЯ просто збираю свій борг.\nБудь ласка, продовжуйте бігти.\nЗрештою, ви знайдете вихід.\nЯ просто за ним.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>Невідомий ворог</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} HP</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} мани</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} витривалості</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>Від {0} до {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>засідка</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>зверху</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>відбиття</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>розподіл шкоди</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>неідентифікований</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>Проклятий</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>проклятий</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 хід</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} ходів</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1 використання</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} використань</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 заряд</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} зарядів</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 діамант</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} діамантів</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 зоряний пил</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} зоряного пилу</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 комірка</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} комірок</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 золото</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} золота</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}з</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>Натисніть [Accept] для продовження</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>Натисніть [Accept] щоб повернутися до лобі</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>Натисніть [Wait] для перезапуску</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>немає опцій</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>Попередження: Цей предмет може бути {0}.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>Попередження: Цей предмет {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>Ви не можете зняти {0} предмети (без сувою зняття прокляття).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>Золото</Gold> <!-- <En>Gold</En> -->
+  <Leave>Вийти</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>Діє двічі за хід</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>Діє {0} разів за хід</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>Діє кожен другий хід</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>Діє раз на {0} ходів</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>Не голодує</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>Голодує вдвічі швидше</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>Голодує в {0} разів швидше</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>Голодує вдвічі повільніше</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>Множник швидкості голоду: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>Кинути {0} золота</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>{0} шанс</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>вартістю {0} ходів</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>радіус {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>вся карта</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>крізь стіни</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>навколо цілі</AroundTarget> <!-- <En>around target</En> -->
+  <Used>Використано</Used> <!-- <En>Used</En> -->
+  <Waiting>Очікування</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>Перервано</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>місце</Location> <!-- <En>spot</En> -->
+  <StopTargeting>Припинити прицілювання</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>Завдання виконано</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>Заберіть свою винагороду, коли повернетеся в лобі</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>Стаціонарний</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>Один крок</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>Бажаєте придбати {0} за {1}?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>Це одноразовий бонус, який застосовується лише до вашого наступного проходження.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>Купити</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>Доступно через {0}</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>Це рідна зброя цього персонажа.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>Виберіть нове заклинання.\n\nВи можете вибрати нове заклинання кожного разу, коли підвищуєте рівень.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} вбитий</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>Порада: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>Використовуйте [MoveForward][MoveLeft][MoveBack][MoveRight] для переміщення. Натисніть [ShowInventory], щоб відкрити інвентар. Використовуйте [Interact] для взаємодії з об'єктами. Обертайтеся за допомогою [RotateLeft] та [RotateRight]. Утримуйте [Inspect] для огляду. Натисніть [Wait], щоб почекати хід.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>Чекає</Waits> <!-- <En>Waits</En> -->
+  <Wait>Чекати</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>Чекає (п'яний)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>Чекає (паніка)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>Чекає ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Хрр</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>Прокидається</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>Де?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>Немає рук</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>Немає ніг</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>Ворожий</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>Відсутні частини тіла</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>Хтось вас бачить</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>Бос ще живий</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>Недостатньо мани ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>Недостатньо витривалості ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>Відновлення ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>Підійдіть ближче</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>Недійсна ціль</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>Поза зоною досяжності</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>Немає прямої видимості</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>Потрібно {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>Неможливо досягти</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>Інвентар повний</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>Потрібно 2 однакових кристали</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>Потрібен дух</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>Потрібна лопата</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>Використати лопату</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>Потрібна кирка</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>Використати кирку</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>Деякі члени групи занадто далеко</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>Двері заблоковані</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>Послідовник {0} вже існує</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} вам</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} тепер</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} вам</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>{0} шкоди за хід</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{0} шкоди за {1} ходи</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} за хід</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} за {1} ходи</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>все</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} вам</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>або</Or> <!-- <En>or</En> -->
+  <And>і</And> <!-- <En>and</En> -->
+  <Score>Рахунок</Score> <!-- <En>Score</En> -->
+  <FloorReached>Досягнутий поверх</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>Вбивства</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>Час гри</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>Вбивства</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>Бойовий рейтинг</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>Вбиті боси</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>Зібрані предмети лобі</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>Наступна винагорода на рівні {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}д</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}г</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}хв</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>немає</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>Новий рекорд!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>і більше</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>Зерно: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 модифікатор</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} модифікатори</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>Поставити {0} золота</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>Навчання</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>Вбито босів</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>Виконано квестів</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>Знайдено нотаток</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>Відкрито скринь</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>Створено предметів</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>Звичайний</Common> <!-- <En>Common</En> -->
+  <Uncommon>Незвичайний</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>Рідкісний</Rare> <!-- <En>Rare</En> -->
+  <Epic>Епічний</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>Неідентифікований</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>Предмет лобі (постійний)</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>Лобі</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>поранений</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>вогонь поруч</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>гучний шум</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>союзник прокинувся поруч</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>кроки ворога</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>союзник проходить повз</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>удар по дверях</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>Промах</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} промах</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} крит</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>критичний</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>Критичний удар</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>заряджений</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>Доступні рецепти</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>Чекати {0}</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>Перемотати {0}</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>у вас є {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>малюк {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>бос {0}</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>Здається, ви перебуваєте в якомусь підземеллі...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>Ви не знаєте, де саме ви знаходитесь, або навіть як ви тут опинилися.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>Все навколо здається дещо мрійливим. У той же час, це відчувається трохи занадто реально, щоб бути просто сном.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>Ви повільно починаєте щось згадувати. Принаймні ви знаєте своє ім'я.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>Ваше ім'я:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>Ви щойно помітили когось на відстані, але ви лише впіймали погляд його тіні. Вам краще перевірити це.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>Ви повільно відкриваєте очі...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>Ви прокидаєтеся в лікарні.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3>"Він прокинувся!"</Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4>"Що сталося?"</Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5>"Ви ходили в похід з друзями і отримали серйозну травму голови."</Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6>"Рятувальники знайшли вас вчасно. Вам потрібно відпочити та відновити сили."</Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7>"Де Майя?"</Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8>"Хто така Майя?"</Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9>"Вона знайшла мене першою. З нею все гаразд?"</Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10>"У вас може бути деяка плутанина, але ви скоро одужаєте."</Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>Ви здивовані, але у вас є це дивне відчуття досягнення. Майже так, ніби ви якось змінилися.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>Ви заплющуєте очі та глибоко вдихаєте, уявляючи тепло сонця на вашому обличчі. Свіже повітря наповнює ваші легені, і ви не можете не посміхнутися.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>Дякуємо, що грали в демоверсію!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>Створено</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>Фон головного меню створено</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>Музика</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>Логотип</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>Моделі персонажів</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>Звукові ефекти надано</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>Дякуємо за гру!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>Ліс... бінго! Ви починаєте згадувати, що сталося, перш ніж ви потрапили сюди. Теплий літній день, спів птахів і прекрасні гори на горизонті - ви ходили в похід з друзями. Але потім щось привернуло вашу увагу. Ви пам'ятаєте, як відокремилися від групи. Але чому?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>Печера! Ви покинули свою групу, почувши, як хтось кличе на допомогу. Вважаючи, що це ще один турист у біді, ви пішли за голосом до печери. Усередині ви послизнулися та впали, зламавши ногу. Ви покликали, але ніхто не відповів. Самотні та поранені, ваша надія почала згасати...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>Ви сиділи самі в цій печері годинами. Коли настала ніч і почався дощ, ви майже втратили всю свою надію. Через те, що здавалося вічністю, ви побачили світло біля входу в печеру. Це була... Майя! Ви були так полегшені!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>Ви були в захваті від побачення Майї. Вона простягнула руку, щоб підняти вас, і на мить здавалося, що вам вдасться. Але невблаганний дощ змусив її послизнутися, і ви обоє впали, боляче вдарившись об каміння. Після цього все стихло.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>Спорядження</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>Крафт</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>Ідентифікація</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>Ім'я</Name> <!-- <En>Name</En> -->
+  <Level>Рівень</Level> <!-- <En>Level</En> -->
+  <Experience>Досвід</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>ДС</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>Атака</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>Перегляньте всі предмети, які ви зараз маєте на собі.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>Перегляньте всі рецепти, які ви можете використовувати для створення нових предметів. Це може бути корисним, якщо вам потрібно зняти прокляття або вилікувати відсутню кінцівку.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>Перегляньте всі неідентифіковані предмети, які є у вашому інвентарі.\n\nКожен предмет повільно ідентифікується з часом (якщо ви не голодні). Предмет у верхній частині списку буде ідентифіковано першим.\n\nПеретягніть, щоб змінити порядок.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>У вас немає неідентифікованих предметів</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>Це ваша черга ідентифікації. Перетягніть, щоб вирішити, який предмет слід ідентифікувати наступним, коли мине час. Ви також можете ідентифікувати предмети у мандрівників.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>Створити</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>сусідній</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>ви втратите придбані підсилення</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>Лорд Кошмарів</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>Гіпнорак</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>Фантазмос</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>Доступні очкі навичок</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>Розблоковані навички</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>Розблоковані досягнення</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Скасувати], щоб скасувати</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC для скасування</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>Вороги</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>Відомі члени</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>Ви тут</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>Якщо ви вирішите піти цим шляхом, ви отримаєте наступне</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>Куди йти?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>Більше ворогів</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>Менше ворогів</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>Звичайні вороги</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>Більше золота</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>Менше золота</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>Звичайне золото</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>Кількість ворогів</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>Здобич золота</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>Кристал</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>кристал {0}</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>Зцілити {0} Здоров'я</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>Цей крок змусить вас впасти в яму. Ви дійсно хочете це зробити?\n\nВи впадете у випадкове місце на поверсі нижче та втратите трохи здоров'я. Ви не можете повернутися.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>Цей крок завершить ваш забіг. Ви дійсно хочете це зробити?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Перемотати] для перемотування</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Не забудьте оглянути своє оточення за допомогою [Оглянути].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>Втеча!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>Нагорода</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>Що це за місце? Я мушу знайти вихід...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>Щоразу, коли я приходжу сюди, це підземелля змінюється. Але чому?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>Кожен крок здається моторошно знайомим, майже так, ніби я вже був тут раніше.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>Там щось попереду, я це відчуваю.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>Я щойно виграв битву чи щось зрозумів?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>Я відчуваю, що все веде до того, що попереду.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>Я відчуваю, ніби... тягар знято з мого розуму. Дивно.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>Чого ти так довго?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>Що це було?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>Ви померли</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>Ви втекли</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>Забіг завершено</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>Знайдіть важіль,\nщоб відкрити</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>Виконайте інструкції,\nщоб відкрити</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>Допомога</Help> <!-- <En>Help</En> -->
+  <HelpMe>Допоможіть мені</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>Тут</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>Утримуйте [Inspect], щоб прочитати</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>Основні завдання</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>Побічні завдання</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>Додаткові завдання</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>Ви можете приймати та відкладати завдання у вестибюлі.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>Зверніть увагу, що деякі завдання можна виконати лише в підземеллях з достатньою кількістю поверхів.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>Відкрийте наступне підземелля</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>Досягніть кінця {0}-го поверху цього підземелля, щоб відкрити наступне.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>Знайдіть фрагмент головоломки</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>Знайдіть наступний фрагмент головоломки на {0}-му поверсі. У вас вже є {1}/{2} з них.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>Врятуйте духів</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>У цьому підземеллі є 1 дух. Звільніть його, доставивши до притулку.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>У цьому підземеллі є {0} духів. Звільніть їх, доставивши до притулку.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>Попередження: Ці супутники залишаться позаду</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>Виберіть своє заклинання</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>Виберіть своє заклинання ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>Нове заклинання</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>Ваша панель швидкого доступу та заклинання</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>Розблоковується на рівні {0}</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>Ви зібрали зоряний пил - дорогоцінну валюту!\n\nЗоряний пил можна витратити у вестибюлі, щоб купити підсилення для наступних проходжень та розблокувати спеціальні кімнати.\n\nУсі предмети, позначені як "Предмет вестибюля", переносяться до вестибюля. Всі інші предмети втрачаються після завершення проходження.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>Фрагменти головоломки, як і зоряний пил, є постійними предметами вестибюля.\n\nЗберіть усі {0} з них у різних проходженнях, щоб розблокувати секретну кімнату у вестибюлі.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>У вас є супутник.\n\nЩоразу, коли ви рухаєтесь, Роко автоматично збиратиме золоті монети на сусідніх клітинках для вас.\n\n1 сир змушує Роко слідувати за вами лише протягом 1 проходження.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>Тепер у вас є члени групи.\n\nВи можете перемикатися між ними та керувати їхнім інвентарем окремо. Кожен член групи ходить по черзі незалежно.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>Макс. здоров'я +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>Крит. +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>Промах -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% вогню</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>Копняк</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>Цей персонаж може копати речі.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>На цьому поверсі є Фрагмент пам'яті</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>Шукайте його</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>Пошук</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>Знайдені предмети</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>Знайдені істоти</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>Кодекс показує предмети та істоти в їхньому типовому, не проклятому стані. Фактичні предмети/істоти можуть відрізнятися.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>Щоденне випробування</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>Клас</Class> <!-- <En>Class</En> -->
+  <NoClass>Без класу\n\nЕфекти:\n- Слава та пошана</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>Розблоковується на рівні {0}</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>Ефекти</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>Здібності: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>Макс. здоров'я</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>Макс. мана</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>Макс. витривалість</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>{0} шкоди нежиті (скелетам, муміям тощо)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} вогнестійкість</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} вразливість до вогню</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>Швидкість голоду {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>Не активує натискні плити</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>Імунітет до отрути</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>Імунітет до штовхання</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>Собаки ворожі</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>Шум ходьби {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>Максимальний поверх, якого ви досягли з цим класом: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>Максимальний поверх, якого ви досягли без класу: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} отримує {1} {2} шкоди</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} отримує {1} {2} шкоди та гине</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} XP</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0} не отримує {1} шкоди</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} отримує {1}</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} отримує {1} {2} шкоди</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} отримує {1} {2} шкоди та знищується</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0} не отримує {1} шкоди</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} отримує {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{1} {0} знищено</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} блокує {1} {2} шкоди</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} відбиває {1} {2} шкоди на {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} штовхають</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} тягнуть</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} отримує новий стан: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} отримує новий ефект: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{1} відновлено для {0}</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{1} відновлено для {0}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{1} відновлено для {0}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} ідентифіковано</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} зникає</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} зникає</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} підбирає {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>Це був {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>Це {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} - {1}! (вам потрібно знайти або створити сувій зняття прокляття)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>Ваш {0} був {1}!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>Прокляття знято з {0}</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} телепортується у випадкове місце</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} телепортується</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} відкривається. Тепер знайдіть вихід.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} відкривається</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>Ворота зачиняються за вами</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} шипить, але, здається, не має жодного ефекту</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>Ви голодуєте</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>Ви голодні</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>Ви купили {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>Підвищення рівня!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>Ви можете вибрати нове заклинання.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>Підвищення рівня</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>Ефект щита скасовано, оскільки ви завдали шкоди {0}</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} прокидається</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>Всього {0}</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>Ви пожертвували собою</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>Ви виграли</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>Ви програли</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>Ви пройшли випробування та отримали {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>Ви розгадали головоломку з гліфами та отримали {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>Вас врятував {0}</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0} врятований {1}</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>Ви провалили випробування</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0} було продубльовано</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0} було знищено</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>Тут більше нічого немає</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>Ви зловили {0}</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0} активується через {1}</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>Ви отримали {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>Статуя диявола приймає ваш {0} і дає вам {1}</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} отримує {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} промахується</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>Поруч з'явився {0}</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} дає {1} {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>Фракція {0} стала ворожою</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>У вас немає всіх інгредієнтів</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>Цей предмет не підходить до цього слота</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} вкрав {1} у {2}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>Ви зібрали {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>Ви отримали очко навичок! Відкрийте інвентар, щоб витратити його.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>Ви звільнили {0} та отримали {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>Рівень {0} було підвищено</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>Ви не можете зняти проклятий предмет</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} створює {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>Використати на собі</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>Використати на...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>Випити</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>Кинути...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>З'їсти</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>Кинути...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>Встановити пастку...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>Кинути...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>Посадити...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>Використати на собі</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>Атакувати...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>Накинути на себе</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>Накинути на...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>Наповнити...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>Забарикадувати двері...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>Прикувати себе</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>Прикувати...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>Розмістити...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>Підібрати...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>Ловити рибу...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>Копати...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>Поговорити...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>Зачарувати</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>Копати...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>Вдарити себе</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>Вдарити...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} атакує себе {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0} атакує {2} за допомогою {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0} використовує {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0} використовує {1} на {2}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0} п'є {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0} кидає {1} в {2}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0} використовує {1} на собі</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0} використовує {1} на {2}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} кидає {1} в {2}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0} відкриває {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0} закриває {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0} розкопує {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0} п'є з {1}</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0} зачаровує спорядження в {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} спускається сходами</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} піднімається сходами</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0} тягне {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0} отримує благословення в {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0} їсть {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0} встановлює {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0} плаває в {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0} горить в {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0} наступає на {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} телепортується</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0} кидає {1} в {2}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0} садить {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0} накладає {1} на себе</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0} накладає {1} на {2}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0} наповнює {1} водою</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0} забарикадовує {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} приковує себе до стовпа</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0} приковує {2} до стовпа</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0} розміщує {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0} підбирає {2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} перев'язує свої рани</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0} перев'язує рани {2}</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} проводить операцію</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0} проводить операцію на {2}</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0} обшукує {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0} грає в азартні ігри в {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0} натискає {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0} починає випробування в {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0} дублює предмет в {1}</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0} ловить рибу в {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} гасить себе</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0} гасить {2}</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0} досліджує {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} обшукує {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} спить в {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} видобуває {2} за допомогою {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} розмовляє з {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} зачаровує предмет за допомогою {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} копає {2} за допомогою {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} жертвує кінцівку на {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} викликає Фантома на {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} звільняє духа на {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} прибирає {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} отримує очко навичок на {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} б'є себе ногою</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} б'є ногою {2}</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} покращує спорядження на {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} пропонує проклятий предмет {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>вгору</Up> <!-- <En>up</En> -->
+  <Down>вниз</Down> <!-- <En>down</En> -->
+  <North>північ</North> <!-- <En>north</En> -->
+  <South>південь</South> <!-- <En>south</En> -->
+  <West>захід</West> <!-- <En>west</En> -->
+  <East>схід</East> <!-- <En>east</En> -->
+  <NorthWest>північний захід</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>північний схід</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>південний захід</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>південний схід</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>нагору-північ</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>нагору-південь</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>нагору-захід</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>нагору-схід</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>нагору-північний захід</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>нагору-північний схід</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>нагору-південний захід</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>нагору-південний схід</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>вниз-північ</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>вниз-південь</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>вниз-захід</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>вниз-схід</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>вниз-північний захід</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>вниз-північний схід</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>вниз-південний захід</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>вниз-південний схід</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>Старт</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>Кінець</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>Важіль</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>Драбина</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>Бос</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Можливість атаки зненацька</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>Цей персонаж не бачив вас у попередньому ході, тому ви завдасте йому на {0} більше шкоди, якщо атакуєте зараз.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>Над вами</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>Цей персонаж знаходиться над вами, це означає, що він завдасть вам на {0} більше шкоди, якщо вдарить вас з цієї позиції.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>Під вами</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>Цей персонаж знаходиться під вами, це означає, що ви завдасте йому на {0} більше шкоди, якщо вдарите його з цієї позиції.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>Не бачить вас</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>Цей персонаж не бачить вас (він не бачить так далеко, як ви). Але будьте обережні - він все ще може пам'ятати вашу останню позицію і захотіти її перевірити!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>Падіння</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>Цей персонаж падає, це означає, що його наступний хід буде витрачено на падіння, а не на виконання дії.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>Невідомий ефект</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>Невідомий ефект. Він походить від неідентифікованого предмета.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>Ви оточені принаймні 2 ворогами, це означає, що ви завдасте цьому персонажу на {0} більше шкоди, якщо вдарите його з цієї позиції.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Невідомий ефект</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>Невідомий ефект. Він походить від неідентифікованого предмета.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nЦе поточний ігровий час. Одна хвилина представляє один хід.\n\nВся гра покрокова. Більшість дій, таких як ходьба, пиття зілля, атака або взаємодія з предметами, займають один хід.\n\nЗагальна кількість пройдених ходів: {2}.\nНа цьому поверсі: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>Це очки здоров'я вашого персонажа.\n\nДеякі предмети можуть збільшити ваші максимальні очки здоров'я. Кожен рівень дає вам {0} до максимальних очок здоров'я.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>Якщо не голодний або не вмираєте з голоду, {0} буде зцілено кожні {1}.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>Наступне очко здоров'я буде зцілено через: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>Ви втрачаєте здоров'я, тому що воно перевищує максимальний рівень.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>Ви втрачаєте ману, тому що вона перевищує максимальний рівень.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>Ви втрачаєте витривалість, тому що вона перевищує максимальний рівень.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>Цей предмет буде ідентифіковано через {0}. Перетягніть, щоб змінити порядок.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>Цей предмет {0}. Однак, завдяки вашому бездоганному сприйняттю, ви можете сказати, що це один з наступних:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>Такі предмети стають постійно ідентифікованими після використання.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>Цей предмет {0}. Він може мати невідомі ефекти та бути {1} (ви не можете зняти {1} предмети). Мандрівники можуть допомогти вам з ідентифікацією.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>Цей предмет {0}. Ви не можете зняти {0} предмети (без сувою зняття прокляття).</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>Вітаємо!;Ви можете це зробити!;Я завжди вірив у вас!;Майже там!;Хотів би я бути таким крутим, як ви!;Вражаюче!;Продовжуйте!;Ви найкращі!;Ви зробили це!;Чудово!;Ви приголомшливі!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>Ласкаво просимо на 1 поверх.\n\nВаша подорож починається тут, хоча це може бути не перший раз, коли ви читаєте цей знак.\n\nДеякі речі можуть здатися спочатку складними, але це нормально. Перш за все, ми повинні пам'ятати - програвати весело!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>Ласкаво просимо на {0} поверх.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>Тут кожна душа зупиняється, щоб знайти свій шлях.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>Убитий на {0}.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>Кількість золотих монет, які ви маєте в своєму інвентарі. У цьому підземеллі можуть бути люди, які бажають торгувати.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>Наступний {0} з'явиться через</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>Більше не з'явиться</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>Зникне через {0}.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>Пошириться через {0}.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>Наступна дія через {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>Активується через {0}.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>Джерело</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>Джерело: Складність</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>Присутній з</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>Натисніть [Fly]+[MoveForward], щоб піднятися вгору, та [Fly]+[MoveBack], щоб спуститися вниз.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>Утримуйте [Fly], щоб kopнути двері.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>Натисніть [Rewind], щоб перемотати час.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>Використання цього предмета не займає часу.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>Використання цього предмета займає {0} ходу.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>Використання цього предмета займає {0} ходів.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>Використання цього заклинання не займає часу.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>Використання цього заклинання займає {0} ходу.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>Використання цього заклинання займає {0} ходів.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>Виконання цієї дії не займає часу.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>Виконання цієї дії займає {0} ходу.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>Виконання цієї дії займає {0} ходів.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>Взаємодія з цим об'єктом не займає хід.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>Взаємодія з цим об'єктом займає {0} ходу.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>Взаємодія з цим об'єктом займає {0} ходів.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>Цей об'єкт легкозаймистий.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>Ви можете використовувати це лише якщо вас ніхто не бачить.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>Цей об'єкт крихкий (вибухи знищать його).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>Ідентифікація зупинена, тому що ви голодні.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>Натисніть, щоб підібрати.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>Натисніть, щоб взаємодіяти.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>Натисніть, щоб купити.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>Взаємодійте, щоб підібрати.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>Взаємодійте з цим об'єктом.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>Взаємодійте, щоб купити.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>Цей предмет зникне після спуску.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>Це ваш прогрес до наступного рівня. Ви можете отримати досвід, перемагаючи ворогів.\n\nДосвіду до наступного рівня: {0}\nПоточний рівень: {1}\nЗагальний досвід: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>Це ваш поточний рівень. Ви можете підвищити рівень, перемагаючи ворогів.\n\nКожен рівень дає вам {0} до максимального здоров'я. Крім того, кожного разу, коли ви підвищуєте рівень, ви можете обрати нове заклинання.\n\nДосвіду до наступного рівня: {2}\nЗагальний досвід: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>Це ваш поточний рівень, заснований на загальній кількості очок з усіх ваших проходжень. Ви можете отримати очки, перемагаючи ворогів та просуваючись у грі.\n\nОчок до наступного рівня: {0}\nЗагальна кількість очок: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>Це ваш поточний рівень ситості: {0}/{1}\n\nВам потрібно періодично їсти, щоб задовольнити свій голод та уникнути наслідків.\n\nЯк тільки рівень ситості досягне {2}, ви станете голодними - ви не будете регенерувати здоров'я або ідентифікувати предмети.\n\nЯк тільки рівень ситості досягне {3}, ви почнете голодувати - ви не будете регенерувати витривалість і будете повільно втрачати здоров'я з часом.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>Це поточний поверх підземелля. Чим нижче ви спускаєтесь, тим важче вижити, але й тим цікавіше стає!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>Дає {0} досвіду</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>Попередження: Якщо вбити, всі члени цієї фракції стануть ворожими.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>Тактика: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>Цей персонаж піде за вами на наступний поверх.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>Стани</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>Зброя</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>Заклинання</Spells> <!-- <En>Spells</En> -->
+  <Talk>Розмова</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>При смерті</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>Одягнуто</Worn> <!-- <En>Worn</En> -->
+  <Inventory>Інвентар</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>Інфо</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>Вартість: {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>Вартість: {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>Це мана вашого персонажа.\n\nВикористання заклинань та магічних предметів вимагає мани. Мана не регенерується автоматично з часом, її можна поповнити лише випивши зілля мани або взаємодіючи з деякими спеціальними об'єктами. Панель мани прихована, коли у вас немає жодних заклинань.\n\nВи можете обрати нове заклинання кожного разу, коли підвищуєте рівень.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>Це витривалість вашого персонажа.\n\nВикористання деяких предметів може вимагати витривалості. Панель витривалості прихована, коли у вас немає жодних предметів, що потребують витривалості, у вашому інвентарі.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>Якщо не голодуєте, {0} буде регенеруватися кожні {1}.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>Наступна регенерація витривалості через: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>Виберіть нове заклинання. Ви можете вибрати нове заклинання кожного разу, коли підвищуєте рівень.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>тікає при низькому рівні здоров'я</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>Годинник дозволяє вам перемотувати час за вашим бажанням! Перемотайте останній хід, натиснувши [Rewind].\n\nВикористовуйте його, коли вам не подобається результат ваших останніх дій, або ви просто промахнулися.\n\nГодинник має обмеження щодо того, скільки ходів ви можете перемотати за один раз, але він перезаряджається кожні {0} ходів. На відміну від інших предметів, що маніпулюють часом, таких як сувої перемотування, годинник втрачає всі свої заряди, коли ви використовуєте неідентифіковане зілля або сувій, одягаєте проклятий предмет, наступаєте на пастку або використовуєте срібний ключ.\n\nУсі дії в Ricave детерміновані, що означає, що після перемотування все буде відбуватися точно так само, як і раніше, якщо ви знову зробите той самий хід, включаючи нанесення тієї ж шкоди та прийняття ворогів тих самих рішень. Перемотування часу лише для того, щоб отримати більшу кількість завданої шкоди, не спрацює.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>Поповнюється через: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>Зоряний пил можна знайти в різних місцях підземелля або отримати як винагороду за виконання завдання. Ви можете витратити зоряний пил у вестибюлі.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>Зберіть усі {0} частин головоломки, щоб відімкнути спеціальну кімнату у вестибюлі. На кожному поверсі підземелля є одна частина головоломки, і ви можете знайти лише одну частину за проходження.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>Наступна частина головоломки на поверсі: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>Дальність: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>Ближній бій</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>ви в зоні досяжності</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>ви поза зоною досяжності</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>Підберіть розміщені об'єкти у вашій приватній кімнаті.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>Ви зараз дивитесь на {0}.\n\nПереміщуйтесь за допомогою "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nРухайтесь вбік за допомогою "[MoveLeft]" та "[MoveRight]".\nПіднімайтесь та спускайтесь за допомогою "[Fly]+[MoveForward]" та "[Fly]+[MoveBack]", якщо ваш персонаж може літати.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>Отримає пошкодження через {0}.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>Отримає здоров'я через {0}.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>Отримає витривалість через {0}.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>Отримає ману через {0}.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>Регенерація витривалості вимкнена, оскільки цей персонаж не торкається землі.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>Регенерація витривалості вимкнена, оскільки ви не торкаєтесь землі.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>Час відновлення: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>Залишилось {0}</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>Спочатку розблокуйте {0}</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>У вас немає очок навичок</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>Натисніть, щоб розблокувати</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>Взаємодійте, щоб розблокувати</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>Ефекти</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>Усі ворота відчинені, і всі прокинулися. Вам потрібно тікати зараз!\n\nКрім того, з'явиться вдвічі більше щурів.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>Роко збиратиме золоті монети на сусідніх плитках для вас, коли ви рухаєтесь.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>Порада: Ви можете перевірити кодекс для типової статистики</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>Сортувати предмети інвентарю</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>Зняти</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>Одягнути</Equip> <!-- <En>Equip</En> -->
+  <Unwear>Зняти</Unwear> <!-- <En>Take off</En> -->
+  <Wear>Одягнути</Wear> <!-- <En>Wear</En> -->
+  <Drop>Викинути</Drop> <!-- <En>Drop</En> -->
+  <Destroy>Знищити</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>Змішати з {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>Подивитися на</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>Перемістити до</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>Використати {0} на</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>Взаємодіяти з</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>Вимкнено</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>Дати {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>смерть</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>Немає місця</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>Поточно одягнений предмет проклятий</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>вигадливий, могутній, всемогутній, потужний, страшний, чудовий, вражаючий, енергійний, привабливий, красивий, милий, захоплюючий, чарівний, розумний, дивовижний, незграбний, непереможний, маленький, великий, жахливий, щасливий, сумний, хиткий, дивний, божевільний, захопливий, гарненький, спокусливий</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>дзижчальник, смиренний, шапочка, лимон, бурмотун, безлад, дурник, цвіт, гупало, льодяник, хлопавка, свинина, гуркіт, грім, дзенькіт, подвійний, буркіт, курча, фіолетовий, вигин, базікання, крутіння, дзвін, плюхання, хитання, дзвін, каракулі</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>зчеплення, цінність, двір, син, бормотання, знак, тонна, кістка, гон, копито, кружка, бджола, клацач, крапля, пуф, сміх, бах, дорі, хропіння, шльопання, плюх, гавкіт, ляпас, хропіння, гавкіт</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>Дух {0}</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>Сміху, Змін, Надії, Самотності, Гармонії, Рішучості, Радості, Страху, Гніву, Смутку, Любові, Здивування, Огиди, Цікавості, Надії, Відчаю, Довіри, Скептицизму, Мужності, Провини, Сорому, Вдячності, Заздрості, Полегшення, Нудьги, Спокою, Ностальгії, Стійкості, Емпатії, Передчуття, Жалю, Трепету, Смирення, Розчарування, Презирства</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>Немає</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Enter</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Пробіл</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>Ліва кнопка миші</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>Права кнопка миші</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>Середня кнопка миші</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Ctrl</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Клавіша Windows</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>Лівий тригер</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>Правий тригер</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>Лівий бампер</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>Правий бампер</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>Кнопка "Назад"</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>Кнопка "Старт"</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>Натискання лівого стіка</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>Натискання правого стіка</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Вбивство</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>Подвійне вбивство</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>Потрійне вбивство</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>Комбо з {0} вбивств</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>Новий поверх</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>Випробування завершено</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>Вбивство {0}</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>ранок</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>день</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>вечір</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>ніч</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>ЗАХИСНИК</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>ВОЇН</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>ШУКАЧ ПРИГОД</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>червоний</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>зелений</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>синій</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>Лев</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>Єва</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Утиліти</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>Зілля</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>Сувої</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>Зброя та спорядження</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

@@ -1,36 +1,36 @@
 ﻿<SpecTranslations>
 
   <Potion_Antidote.label>解毒剂</Potion_Antidote.label> <!-- <En>antidote</En> -->
-  <Potion_Antidote.description>一种解毒剂。此外，还能提供短暂的毒素免疫。</Potion_Antidote.description> <!-- <En>An antidote for poison. Additionally, gives a short-lasting immunity to poison.</En> -->
+  <Potion_Antidote.description>一种毒药的解毒剂。此外，还能提供短暂的毒素免疫效果。</Potion_Antidote.description> <!-- <En>An antidote for poison. Additionally, gives a short-lasting immunity to poison.</En> -->
 
   <Potion_Beer.label>啤酒</Potion_Beer.label> <!-- <En>beer</En> -->
-  <Potion_Beer.description>这里最好的饮料。喝醉的角色每回合会随机移动。</Potion_Beer.description> <!-- <En>The finest drink out here. Drunk characters move in a random direction each turn.</En> -->
+  <Potion_Beer.description>这里最好的饮料。喝醉的角色每回合会朝随机方向移动。</Potion_Beer.description> <!-- <En>The finest drink out here. Drunk characters move in a random direction each turn.</En> -->
 
   <Potion_Fragility.label>脆弱药水</Potion_Fragility.label> <!-- <En>Potion of Fragility</En> -->
-  <Potion_Fragility.description>在短时间内降低最大生命值。</Potion_Fragility.description> <!-- <En>Decreases the maximum number of hit points for a short time.</En> -->
+  <Potion_Fragility.description>在短时间内降低生命值上限。</Potion_Fragility.description> <!-- <En>Decreases the maximum number of hit points for a short time.</En> -->
 
   <Potion_Haste.label>急速药水</Potion_Haste.label> <!-- <En>Potion of Haste</En> -->
-  <Potion_Haste.description>在短时间内每回合可以执行两倍的动作。</Potion_Haste.description> <!-- <En>Do twice as many actions per turn for a short time.</En> -->
+  <Potion_Haste.description>在短时间内，每回合可执行双倍的行动。</Potion_Haste.description> <!-- <En>Do twice as many actions per turn for a short time.</En> -->
 
   <Potion_Health.label>生命药水</Potion_Health.label> <!-- <En>Health Potion</En> -->
-  <Potion_Health.description>恢复生命值。这是一种相当珍贵的药水！</Potion_Health.description> <!-- <En>Restores health. This is quite a precious potion!</En> -->
+  <Potion_Health.description>恢复生命值。这是一种非常珍贵的药水！</Potion_Health.description> <!-- <En>Restores health. This is quite a precious potion!</En> -->
 
-  <Potion_Life.label>生命药水</Potion_Life.label> <!-- <En>Potion of Life</En> -->
-  <Potion_Life.description>在短时间内增加最大生命值。</Potion_Life.description> <!-- <En>Increases the maximum number of hit points for a short time.</En> -->
+  <Potion_Life.label>活力药水</Potion_Life.label> <!-- <En>Potion of Life</En> -->
+  <Potion_Life.description>在短时间内增加生命值上限。</Potion_Life.description> <!-- <En>Increases the maximum number of hit points for a short time.</En> -->
 
   <Potion_Mana.label>法力药水</Potion_Mana.label> <!-- <En>Mana Potion</En> -->
-  <Potion_Mana.description>恢复法力值，这样你就可以施展更多的纸牌魔术了。</Potion_Mana.description> <!-- <En>Restores mana so you can do some more of those card magic tricks.</En> -->
+  <Potion_Mana.description>恢复法力值，这样你就可以施展更多卡牌魔法了。</Potion_Mana.description> <!-- <En>Restores mana so you can do some more of those card magic tricks.</En> -->
 
   <Potion_Poison.label>毒药</Potion_Poison.label> <!-- <En>poison</En> -->
   <Potion_Poison.description>一种致命的毒药。</Potion_Poison.description> <!-- <En>A deadly poison.</En> -->
 
-  <Potion_Slowness.label>缓慢药水</Potion_Slowness.label> <!-- <En>Potion of Slowness</En> -->
-  <Potion_Slowness.description>行动速度减半——目标每行动一回合，其他人将行动两回合。</Potion_Slowness.description> <!-- <En>Perform actions twice as slow - for every turn the target takes, everyone else will perform twice as many turns.</En> -->
+  <Potion_Slowness.label>迟缓药水</Potion_Slowness.label> <!-- <En>Potion of Slowness</En> -->
+  <Potion_Slowness.description>行动速度减半——目标每行动一回合，其他所有人将行动两回合。</Potion_Slowness.description> <!-- <En>Perform actions twice as slow - for every turn the target takes, everyone else will perform twice as many turns.</En> -->
 
   <Potion_Strength.label>力量药水</Potion_Strength.label> <!-- <En>Strength Potion</En> -->
   <Potion_Strength.description>在短时间内让你造成更多物理伤害。由这里最好的菠菜制成。</Potion_Strength.description> <!-- <En>Makes you deal more physical damage for a short time. Made from the best kind of spinach out here.</En> -->
 
   <Potion_Weakness.label>虚弱药水</Potion_Weakness.label> <!-- <En>Potion of Weakness</En> -->
-  <Potion_Weakness.description>在短时间内让你造成更少物理伤害。</Potion_Weakness.description> <!-- <En>Makes you deal less physical damage for a short time.</En> -->
+  <Potion_Weakness.description>在短时间内让你造成的物理伤害减少。</Potion_Weakness.description> <!-- <En>Makes you deal less physical damage for a short time.</En> -->
 
 </SpecTranslations>

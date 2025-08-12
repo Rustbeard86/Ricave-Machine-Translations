@@ -1,0 +1,33 @@
+﻿<SpecTranslations>
+
+  <EveryoneStartsAwake.label>todos empiezan despiertos</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>Todos empezarán despiertos.</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>un minijefe extra por planta</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>Aparecerá un minijefe extra en cada planta (solo se aplica si la mazmorra tiene minijefes).</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>20 % menos de enemigos</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>Todas las plantas tendrán un 20 % menos de enemigos.</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>todos los objetos empiezan identificados</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>Todos los objetos que encuentres en la mazmorra ya estarán identificados.</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>20 % más de enemigos</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>Todas las plantas tendrán un 20 % más de enemigos.</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>más trampas</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>Aparecerán más pinchos y bombas de proximidad en la mazmorra.</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>sin hambre</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>Nunca tendrás hambre.</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>sin minijefes</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>No aparecerán minijefes (solo se aplica si la mazmorra tiene minijefes).</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>sin eventos aleatorios</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>No ocurrirán eventos aleatorios, sin importar cuánto tiempo pases en la mazmorra (solo se aplica si la mazmorra tiene eventos aleatorios).</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>sin refugios</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>No se generarán refugios (solo se aplica si la mazmorra tiene refugios).</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,33 @@
+﻿<SpecTranslations>
+
+  <BlindingFlashAbility.label>осліплюючий спалах</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>Осліплює всіх, хто вас бачить, на короткий час. Не потребує ходів.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>обман</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>Робить ціль ворожою до всіх інших на короткий час. Не потребує ходів.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>обплутати сусідів</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>Обплутує всіх, хто знаходиться поруч із вами, на короткий час. Не потребує ходів.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>прискорення</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>Дозволяє діяти двічі за хід протягом короткого часу. Не потребує ходів.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>стрибок</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Миттєво стрибає на будь-яку сусідню клітинку, навіть по вертикалі. Не потребує ходів.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>поштовх</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Відштовхує будь-кого на 1 клітинку. Не потребує ходів.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>випадкова втеча</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Телепортує у випадкове місце на мапі. Не потребує ходів.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>створити ліану</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Створює ліани у вказаному місці та дозволяє дертися по них.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>отруйна хмара</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Створює хмару отрути у вказаному місці. Не потребує ходів.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>викликати фантома</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Викликає дружнього фантома, щоб допомогти вам у битвах. Одночасно може існувати лише один фантом.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

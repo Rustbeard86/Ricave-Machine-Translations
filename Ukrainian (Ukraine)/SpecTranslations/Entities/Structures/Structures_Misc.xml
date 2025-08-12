@@ -1,0 +1,346 @@
+﻿<SpecTranslations>
+
+  <BarredDoor.label>загороджені двері</BarredDoor.label> <!-- <En>barred door</En> -->
+  <BarredDoor.description>Загороджені двері. Єдиний спосіб пройти крізь них — знищити їх.</BarredDoor.description> <!-- <En>A barred door. The only way to get through is to destroy it.</En> -->
+
+  <Barrel.label>бочка</Barrel.label> <!-- <En>barrel</En> -->
+  <Barrel.description>Стара бочка. Може містити щось корисне.</Barrel.description> <!-- <En>An old barrel. May contain something useful.</En> -->
+
+  <Bars.label>ґрати</Bars.label> <!-- <En>bars</En> -->
+  <Bars.description>Металеві ґрати.</Bars.description> <!-- <En>Metal bars.</En> -->
+
+  <BeerBarrel.label>пивна бочка</BeerBarrel.label> <!-- <En>beer barrel</En> -->
+  <BeerBarrel.description>Бочка, повна пива. Якщо її знищити, усі навколо сп'яніють.</BeerBarrel.description> <!-- <En>A barrel full of beer. It'll make everyone nearby drunk if destroyed.</En> -->
+
+  <BigCrate.label>великий ящик</BigCrate.label> <!-- <En>big crate</En> -->
+  <BigCrate.description>Старий ящик. Може містити щось корисне.</BigCrate.description> <!-- <En>An old crate. May contain something useful.</En> -->
+
+  <BigMagicTrap.label>велика магічна пастка</BigMagicTrap.label> <!-- <En>big magic trap</En> -->
+  <BigMagicTrap.description>Смертельна магічна пастка. Краще кинути в неї когось іншого.</BigMagicTrap.description> <!-- <En>A deadly magic trap. Best to throw someone else into it.</En> -->
+
+  <BigPoisonTrap.label>велика отруйна пастка</BigPoisonTrap.label> <!-- <En>big poison trap</En> -->
+  <BigPoisonTrap.description>Смертельна отруйна пастка. Краще кинути в неї когось іншого.</BigPoisonTrap.description> <!-- <En>A deadly poison trap. Best to throw someone else into it.</En> -->
+
+  <BlueCrystal.label>синій кристал</BlueCrystal.label> <!-- <En>blue crystal</En> -->
+  <BlueCrystal.description>Добудьте його кайлом і використайте, щоб зачарувати свою зброю магічним ефектом. Вам потрібно зібрати 2 кристали одного кольору, щоб зачарувати своє спорядження.</BlueCrystal.description> <!-- <En>Mine it with a pickaxe and use it to enchant your weapon with a magic effect. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <Bonfire.label>багаття</Bonfire.label> <!-- <En>bonfire</En> -->
+  <Bonfire.description>Тут можна щось приготувати.</Bonfire.description> <!-- <En>You can cook something here.</En> -->
+  <Bonfire.YouSeeABonfireInFront>Ви бачите перед собою багаття.\n\nТут можна приготувати їжу.</Bonfire.YouSeeABonfireInFront> <!-- <En>You see a bonfire in front of you.\n\nYou can cook some food here.</En> -->
+
+  <Boulder.label>валун</Boulder.label> <!-- <En>boulder</En> -->
+  <Boulder.description>Великий валун, що перегороджує вам шлях.</Boulder.description> <!-- <En>A big boulder blocking your path.</En> -->
+
+  <BrickWall.label>цегляна стіна</BrickWall.label> <!-- <En>brick wall</En> -->
+  <BrickWall.description>Ця стара цегляна стіна не виглядає дуже стійкою.</BrickWall.description> <!-- <En>This old brick wall doesn't look very stable.</En> -->
+
+  <Bridge.label>міст</Bridge.label> <!-- <En>bridge</En> -->
+  <Bridge.description>Дерев'яний, легкозаймистий міст.</Bridge.description> <!-- <En>A wooden, flammable bridge.</En> -->
+
+  <CeilingBars.label>стельові ґрати</CeilingBars.label> <!-- <En>ceiling bars</En> -->
+  <CeilingBars.description>Металеві ґрати на стелі.</CeilingBars.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingBarsReinforced.label>стельові ґрати (посилені)</CeilingBarsReinforced.label> <!-- <En>ceiling bars (reinforced)</En> -->
+  <CeilingBarsReinforced.description>Металеві ґрати на стелі.</CeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingSupport.label>опора стелі</CeilingSupport.label> <!-- <En>ceiling support</En> -->
+  <CeilingSupport.description>Допомагає підтримувати вагу стелі.</CeilingSupport.description> <!-- <En>Helps support the weight of the ceiling.</En> -->
+
+  <CeilingWithPipe.label>стеля з трубою</CeilingWithPipe.label> <!-- <En>ceiling with a pipe</En> -->
+  <CeilingWithPipe.description>Стеля з трубою.</CeilingWithPipe.description> <!-- <En>A ceiling with a pipe.</En> -->
+
+  <Chain.label>ланцюг</Chain.label> <!-- <En>chain</En> -->
+  <Chain.description>Ланцюг, що звисає зі стелі.</Chain.description> <!-- <En>A chain hanging from the ceiling.</En> -->
+
+  <ChainPost.label>стовп з ланцюгом</ChainPost.label> <!-- <En>chain post</En> -->
+  <ChainPost.description>Кам'яний стовп з прикріпленим до нього ланцюгом.</ChainPost.description> <!-- <En>A stone post with a chain attached to it.</En> -->
+
+  <Chair.label>стілець</Chair.label> <!-- <En>chair</En> -->
+  <Chair.description>Сидіть і відпочивайте в цьому прекрасному підземеллі.</Chair.description> <!-- <En>Sit and relax in this beautiful dungeon.</En> -->
+
+  <Crates.label>ящики</Crates.label> <!-- <En>crates</En> -->
+  <Crates.description>Можуть містити щось корисне, а можуть і ні.</Crates.description> <!-- <En>May or may not contain something useful.</En> -->
+
+  <CultistCircle.label>коло культистів</CultistCircle.label> <!-- <En>cultist circle</En> -->
+  <CultistCircle.description>Якісь дивні символи на підлозі. Свята вода з ними не ладнає.</CultistCircle.description> <!-- <En>Some strange symbols on the floor. They don't go well with holy water.</En> -->
+
+  <CutGrass.label>скошена трава</CutGrass.label> <!-- <En>cut grass</En> -->
+  <CutGrass.description>Залишки трави.</CutGrass.description> <!-- <En>Grass remains.</En> -->
+
+  <CutsceneTrigger.label>тригер катсцени</CutsceneTrigger.label> <!-- <En>cutscene trigger</En> -->
+
+  <CyanWallLamp.label>блакитна настінна лампа</CyanWallLamp.label> <!-- <En>cyan wall lamp</En> -->
+  <CyanWallLamp.description>Стильна, блакитна настінна лампа.</CyanWallLamp.description> <!-- <En>A stylish, cyan wall lamp.</En> -->
+
+  <DamagedCeilingBars.label>пошкоджені стельові ґрати</DamagedCeilingBars.label> <!-- <En>damaged ceiling bars</En> -->
+  <DamagedCeilingBars.description>Металеві ґрати на стелі. Схоже, хтось пробився крізь них.</DamagedCeilingBars.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DamagedCeilingBarsReinforced.label>пошкоджені стельові ґрати (посилені)</DamagedCeilingBarsReinforced.label> <!-- <En>damaged ceiling bars (reinforced)</En> -->
+  <DamagedCeilingBarsReinforced.description>Металеві ґрати на стелі. Схоже, хтось пробився крізь них.</DamagedCeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DangerDoor.label>червоні двері</DangerDoor.label> <!-- <En>red door</En> -->
+  <DangerDoor.description>За цими дверима є необов'язкове випробування. Але будьте обережні, воно може бути дуже складним!</DangerDoor.description> <!-- <En>There's an optional challenge behind this door. But beware, it may be really difficult!</En> -->
+  <DangerDoor.YouSeeARedDoorInFront>Ви бачите перед собою червоні двері.\n\nЗа ними є необов'язкове випробування.\n\nАле будьте обережні, воно може бути дуже складним!</DangerDoor.YouSeeARedDoorInFront> <!-- <En>You see a red door in front of you.\n\nThere's an optional challenge behind it.\n\nBut beware, it may be really difficult!</En> -->
+  <DangerDoor.Open>Відчинити</DangerDoor.Open> <!-- <En>Open</En> -->
+
+  <DescendTrigger.label>діра</DescendTrigger.label> <!-- <En>hole</En> -->
+  <DescendTrigger.description>Ця діра приведе вас на нижчий рівень цього підземелля.</DescendTrigger.description> <!-- <En>This hole will lead you to the lower level of this dungeon.</En> -->
+
+  <Dirt.label>земля</Dirt.label> <!-- <En>dirt</En> -->
+  <Dirt.description>Копайте лопатою, щоб розчистити шлях. Хтозна, що тут можна знайти.</Dirt.description> <!-- <En>Dig into it with a shovel to clear a path. Who knows what you can find here.</En> -->
+
+  <DiscoBall.label>диско-куля</DiscoBall.label> <!-- <En>disco ball</En> -->
+  <DiscoBall.description>Кольорова диско-куля. Але що вона тут робить?</DiscoBall.description> <!-- <En>A colorful disco ball. But what is it doing here?</En> -->
+
+  <Door.label>двері</Door.label> <!-- <En>door</En> -->
+  <Door.description>Відчинення цих дверей може стати найкращим рішенням у вашому житті, або найгіршим. Ви також можете вирішити вибити їх, що відштовхне всіх ворогів, що стоять з іншого боку.</Door.description> <!-- <En>Opening this door could be the best decision of your life, or the worst. You can also decide to kick it instead, which will push all enemies standing on the other side.</En> -->
+
+  <Fan.label>вентилятор</Fan.label> <!-- <En>fan</En> -->
+  <Fan.description>Принаймні, тут є якась вентиляція.</Fan.description> <!-- <En>At least there's some ventilation here.</En> -->
+
+  <Fence.label>паркан</Fence.label> <!-- <En>fence</En> -->
+  <Fence.description>Дерев'яний паркан. Дозволяє дивитися крізь нього, але не проходити.</Fence.description> <!-- <En>A wooden fence. Lets you see through it, but not pass.</En> -->
+
+  <Fire.label_2>вогонь</Fire.label_2> <!-- <En>fire</En> -->
+  <Fire.description>Будь-який персонаж, що проходить повз, буде підпалений. Вогонь поширюється на інші сусідні легкозаймисті об'єкти, але не на персонажів.</Fire.description> <!-- <En>Any passing character will be set on fire. Fire spreads onto other adjacent flammable objects, but not characters.</En> -->
+
+  <Floor.label>підлога</Floor.label> <!-- <En>floor</En> -->
+  <Floor.description>Підлога... або стеля, залежно від того, де ви стоїте.</Floor.description> <!-- <En>A floor... or a ceiling depending on where you're standing.</En> -->
+
+  <FloorBars.label>підлогові ґрати</FloorBars.label> <!-- <En>floor bars</En> -->
+  <FloorBars.description>Металеві ґрати в підлозі.</FloorBars.description> <!-- <En>Metal bars in the floor.</En> -->
+
+  <FloorBarsReinforced.label>підлогові ґрати (посилені)</FloorBarsReinforced.label> <!-- <En>floor bars (reinforced)</En> -->
+  <FloorBarsReinforced.description>Металеві ґрати в підлозі. Ці ґрати стійкі до вибухів.</FloorBarsReinforced.description> <!-- <En>Metal bars in the floor. These bars are resistant to explosions.</En> -->
+
+  <Frame.label>рама</Frame.label> <!-- <En>frame</En> -->
+  <Frame.description>Альтернативний спосіб потрапити до іншої кімнати.</Frame.description> <!-- <En>An alternative way to get to the other room.</En> -->
+
+  <Gate.label>ворота</Gate.label> <!-- <En>gate</En> -->
+  <Gate.description>Десь має бути важіль, щоб відкрити ці ворота.</Gate.description> <!-- <En>There must be a lever somewhere to open this gate.</En> -->
+
+  <GateReinforced.label>ворота (посилені)</GateReinforced.label> <!-- <En>gate (reinforced)</En> -->
+  <GateReinforced.description>Десь має бути важіль, щоб відкрити ці ворота. Ці ворота стійкі до вибухів.</GateReinforced.description> <!-- <En>There must be a lever somewhere to open this gate. This gate is resistant to explosions.</En> -->
+
+  <GlassWall.label>скляна стіна</GlassWall.label> <!-- <En>glass wall</En> -->
+  <GlassWall.description>Подивіться, що з іншого боку. Можна кинути камінь, щоб розбити її.</GlassWall.description> <!-- <En>See what's on the other side. You can throw a stone to break it.</En> -->
+
+  <Glyph1.label>гліф</Glyph1.label> <!-- <En>glyph</En> -->
+  <Glyph1.description>Якийсь таємничий малюнок. Чи означає він щось?\n\nВнизу написано: Nopaew</Glyph1.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Nopaew</En> -->
+
+  <Glyph2.label>гліф</Glyph2.label> <!-- <En>glyph</En> -->
+  <Glyph2.description>Якийсь таємничий малюнок. Чи означає він щось?\n\nВнизу написано: Romra</Glyph2.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Romra</En> -->
+
+  <Glyph3.label>гліф</Glyph3.label> <!-- <En>glyph</En> -->
+  <Glyph3.description>Якийсь таємничий малюнок. Чи означає він щось?\n\nВнизу написано: Llorcs</Glyph3.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Llorcs</En> -->
+
+  <Glyph4.label>гліф</Glyph4.label> <!-- <En>glyph</En> -->
+  <Glyph4.description>Якийсь таємничий малюнок. Чи означає він щось?\n\nВнизу написано: Noitop</Glyph4.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Noitop</En> -->
+
+  <GoldenDoor.label>золоті двері</GoldenDoor.label> <!-- <En>golden door</En> -->
+  <GoldenDoor.description>Ці золоті двері можна відчинити лише золотим ключем.</GoldenDoor.description> <!-- <En>This golden door can only be opened with a golden key.</En> -->
+
+  <GooPuddle.label>калюжа слизу</GooPuddle.label> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description>Калюжа слизу, яка сповільнить будь-якого персонажа, що проходить повз.</GooPuddle.description> <!-- <En>A pool of goo which will slow down any passing character.</En> -->
+
+  <Grass.label>трава</Grass.label> <!-- <En>grass</En> -->
+  <Grass.description>Ділянка незвично високої трави.</Grass.description> <!-- <En>A patch of unusually long blades of grass.</En> -->
+
+  <GreenCrystal.label>зелений кристал</GreenCrystal.label> <!-- <En>green crystal</En> -->
+  <GreenCrystal.description>Добудьте його кайлом і використайте, щоб посилити захисні властивості вашого спорядження. Вам потрібно зібрати 2 кристали одного кольору, щоб зачарувати своє спорядження.</GreenCrystal.description> <!-- <En>Mine it with a pickaxe and use it to boost your gear's protective properties. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <GreenWallLamp.label>зелена настінна лампа</GreenWallLamp.label> <!-- <En>green wall lamp</En> -->
+  <GreenWallLamp.description>Стильна зелена настінна лампа.</GreenWallLamp.description> <!-- <En>A stylish, green wall lamp.</En> -->
+
+  <HangingRope.label>мотузка</HangingRope.label> <!-- <En>rope</En> -->
+  <HangingRope.description>Мотузка, що звисає зі стелі.</HangingRope.description> <!-- <En>A rope hanging from the ceiling.</En> -->
+
+  <Hatch.label>люк</Hatch.label> <!-- <En>hatch</En> -->
+  <Hatch.description>Це місце, звідки ви прийшли. Шляху назад немає - час рухається лише вперед, чи не так?</Hatch.description> <!-- <En>This is where you came from. There's no going back - time only moves forward, right?</En> -->
+
+  <InvisibleBlocker.label>блокатор</InvisibleBlocker.label> <!-- <En>blocker</En> -->
+
+  <IronOre.label>залізна руда</IronOre.label> <!-- <En>iron ore</En> -->
+  <IronOre.description>Добувайте її киркою та використовуйте на ковадлі, щоб підвищити рівень свого спорядження.</IronOre.description> <!-- <En>Mine it with a pickaxe and use it at an anvil to upgrade your gear level.</En> -->
+
+  <Ladder.label>драбина</Ladder.label> <!-- <En>ladder</En> -->
+  <Ladder.description>Драбина, якою можна дістатися верхнього рівня.</Ladder.description> <!-- <En>A ladder you can use to reach the upper level.</En> -->
+
+  <Lava.label>лава</Lava.label> <!-- <En>lava</En> -->
+  <Lava.description>Не найкраще місце для перебування.</Lava.description> <!-- <En>Not the best place to be in.</En> -->
+
+  <Liana.label>ліана</Liana.label> <!-- <En>liana</En> -->
+  <Liana.description>Ліана, по якій можна дертися.</Liana.description> <!-- <En>A liana which you can climb.</En> -->
+
+  <LobbySign.label>знак лобі</LobbySign.label> <!-- <En>lobby sign</En> -->
+  <LobbySign.description>Цей шлях веде назад до лобі.</LobbySign.description> <!-- <En>This way leads back to the lobby.</En> -->
+
+  <MagicColumns.label>колони</MagicColumns.label> <!-- <En>columns</En> -->
+  <MagicColumns.description>Чотири тонкі колони.</MagicColumns.description> <!-- <En>Four thin columns.</En> -->
+
+  <MagicFire.label>магічний вогонь</MagicFire.label> <!-- <En>magic fire</En> -->
+  <MagicFire.description>Будь-який персонаж, що пройде повз, загориться. Цей тип вогню не поширюється на сусідні об'єкти.</MagicFire.description> <!-- <En>Any passing character will be set on fire. This type of fire doesn't spread onto adjacent objects.</En> -->
+
+  <MagicWall.label>магічна стіна</MagicWall.label> <!-- <En>magic wall</En> -->
+  <MagicWall.description>Магічна стіна, яка незабаром зникне.</MagicWall.description> <!-- <En>A magic wall which will disappear soon.</En> -->
+
+  <Pedestal.label>п'єдестал</Pedestal.label> <!-- <En>pedestal</En> -->
+  <Pedestal.description>Міцний кам'яний п'єдестал.</Pedestal.description> <!-- <En>A sturdy, stone pedestal.</En> -->
+
+  <Pillar.label>стовп</Pillar.label> <!-- <En>pillar</En> -->
+  <Pillar.description>Чудово підтримує стелю.</Pillar.description> <!-- <En>Does a great job at keeping the ceiling stable.</En> -->
+
+  <PinkWallLamp.label>рожева настінна лампа</PinkWallLamp.label> <!-- <En>pink wall lamp</En> -->
+  <PinkWallLamp.description>Стильна рожева настінна лампа.</PinkWallLamp.description> <!-- <En>A stylish, pink wall lamp.</En> -->
+
+  <PipeSmoke.label>дим з труби</PipeSmoke.label> <!-- <En>pipe smoke</En> -->
+  <PipeSmoke.description>Токсичний дим, що йде з труби.</PipeSmoke.description> <!-- <En>A toxic smoke coming from a pipe.</En> -->
+
+  <Piston.label>поршень</Piston.label> <!-- <En>piston</En> -->
+  <Piston.description>Висувається та втягується.</Piston.description> <!-- <En>Extends and retracts.</En> -->
+
+  <Planks.label>дошки</Planks.label> <!-- <En>planks</En> -->
+  <Planks.description>Купа дерев'яних дощок. Якщо зруйнувати сокирою, випадуть дошки.</Planks.description> <!-- <En>A pile of wooden planks. Will drop planks if destroyed with an axe.</En> -->
+
+  <Platform.label>платформа</Platform.label> <!-- <En>platform</En> -->
+  <Platform.description>Платформа з дерев'яною опорою, прикріплена до стіни.</Platform.description> <!-- <En>A platform with a wooden support attached to the wall.</En> -->
+
+  <PoisonCloud.label>отруйна хмара</PoisonCloud.label> <!-- <En>poison cloud</En> -->
+  <PoisonCloud.description>Будь-який персонаж, що пройде повз, буде отруєний.</PoisonCloud.description> <!-- <En>Any passing character will become poisoned.</En> -->
+
+  <Pond.label>ставок</Pond.label> <!-- <En>pond</En> -->
+  <Pond.description>Невеликий ставок. Добре підходить для гасіння вогню. Тут також можна наповнювати флакони водою.</Pond.description> <!-- <En>A small pond. Good for extinguishing fires. You can also fill vials with water here.</En> -->
+
+  <PressurePlate.label>натискна плита</PressurePlate.label> <!-- <En>pressure plate</En> -->
+  <PressurePlate.description>Натискна плита, яка активується, щойно хтось на неї наступить.</PressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it.</En> -->
+
+  <RedCrystal.label>червоний кристал</RedCrystal.label> <!-- <En>red crystal</En> -->
+  <RedCrystal.description>Добувайте його киркою та використовуйте, щоб зробити вашу зброю смертоноснішою. Вам потрібно зібрати 2 кристали одного кольору, щоб зачарувати спорядження.</RedCrystal.description> <!-- <En>Mine it with a pickaxe and use it to make your weapon more deadly. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <RedCutGrass.label>зрізана червона трава</RedCutGrass.label> <!-- <En>cut red grass</En> -->
+  <RedCutGrass.description>Залишки червоної трави.</RedCutGrass.description> <!-- <En>Red grass remains.</En> -->
+
+  <RedLamp.label>червона лампа</RedLamp.label> <!-- <En>red lamp</En> -->
+  <RedLamp.description>Лампа, що випромінює насичене червоне світло.</RedLamp.description> <!-- <En>A lamp emitting deep red light.</En> -->
+
+  <Rock.label>камінь</Rock.label> <!-- <En>rock</En> -->
+  <Rock.description>Камінь середнього розміру. Розбийте його, щоб отримати камінь для метання.</Rock.description> <!-- <En>A medium-sized rock. Break it to get a throwable stone.</En> -->
+
+  <RoyalDoor.label>королівські двері</RoyalDoor.label> <!-- <En>royal door</En> -->
+  <RoyalDoor.description>Ці королівські двері можна відчинити лише королівським ключем.</RoyalDoor.description> <!-- <En>This royal door can only be opened with a royal key.</En> -->
+
+  <SecretPassage.label>стіна</SecretPassage.label> <!-- <En>wall</En> -->
+  <SecretPassage.description>Ця стіна стоїть тут уже давно і, швидше за все, нікуди не дінеться найближчим часом.</SecretPassage.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <SecretRoomTrigger.label>тригер таємної кімнати</SecretRoomTrigger.label> <!-- <En>secret room trigger</En> -->
+
+  <Shelf.label>полиця</Shelf.label> <!-- <En>shelf</En> -->
+  <Shelf.description>Полиця, на якій щось лежить.</Shelf.description> <!-- <En>A shelf with some things on it.</En> -->
+
+  <Sign.label>знак</Sign.label> <!-- <En>sign</En> -->
+
+  <SilverDoor.label>срібні двері</SilverDoor.label> <!-- <En>silver door</En> -->
+  <SilverDoor.description>Ці срібні двері можна відчинити лише срібним ключем. За ними може бути щось цінне.</SilverDoor.description> <!-- <En>This silver door can only be opened with a silver key. There could be something precious behind it.</En> -->
+  <SilverDoor.YouSeeASilverDoorInFront>Ви бачите перед собою срібні двері.\n\nЇх можна відчинити лише срібним ключем.\n\nЗауважте, що замкнених дверей може бути більше, ніж доступних ключів, тож витрачайте ключі з розумом.</SilverDoor.YouSeeASilverDoorInFront> <!-- <En>You see a silver door in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked doors than available keys, so spend your keys wisely.</En> -->
+  <SilverDoor.Open>Відчинити</SilverDoor.Open> <!-- <En>Open</En> -->
+
+  <Smoke.label>дим</Smoke.label> <!-- <En>smoke</En> -->
+  <Smoke.description>Хмара диму, що затуляє огляд.</Smoke.description> <!-- <En>A smoke cloud which blocks the view.</En> -->
+
+  <Soffit.label>софіт</Soffit.label> <!-- <En>soffit</En> -->
+  <Soffit.description>Нижня сторона стелі.</Soffit.description> <!-- <En>An underside of the ceiling.</En> -->
+
+  <SpawnerPressurePlate.label>натискна плита</SpawnerPressurePlate.label> <!-- <En>pressure plate</En> -->
+  <SpawnerPressurePlate.description>Натискна плита, яка активується, щойно хтось на неї наступить. Напис на табличці говорить: "Обережно! Небезпека!".</SpawnerPressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it. The sign says "Beware! Danger!".</En> -->
+
+  <SpiderWeb.label>павутина</SpiderWeb.label> <!-- <En>spider web</En> -->
+  <SpiderWeb.description>Дає павучий шовк, який можна використовувати як інгредієнт.</SpiderWeb.description> <!-- <En>Yields spider silk, which can be used as an ingredient.</En> -->
+
+  <StaircaseRoomSign.label>знак кімнати зі сходами</StaircaseRoomSign.label> <!-- <En>staircase room sign</En> -->
+  <StaircaseRoomSign.description>У цій кімнаті є сходи, що ведуть на наступний поверх підземелля. Зазвичай потрібно знайти важіль, щоб відчинити ворота.</StaircaseRoomSign.description> <!-- <En>This room has a staircase leading to the next dungeon floor. You usually need to find a lever to open the gate.</En> -->
+
+  <Stairs.label>сходи</Stairs.label> <!-- <En>stairs</En> -->
+  <Stairs.description>Ви можете піднятися сходами або спуститися ними - загалом, так сходи і працюють.</Stairs.description> <!-- <En>You can either go up the stairs or down the stairs - this is how stairs work in general.</En> -->
+
+  <Table.label>стіл</Table.label> <!-- <En>table</En> -->
+  <Table.description>Невеликий стіл.</Table.description> <!-- <En>A small table.</En> -->
+
+  <TemporarilyOpenedDoor.label>дверна рама</TemporarilyOpenedDoor.label> <!-- <En>door frame</En> -->
+  <TemporarilyOpenedDoor.description>Відчинені двері. Ви можете їх зачинити. Якщо ви зробите це, стоячи всередині, вас відштовхне у випадковому напрямку.</TemporarilyOpenedDoor.description> <!-- <En>An open door. You can close it. If you do while standing inside, you'll get pushed away in a random direction.</En> -->
+
+  <TemporaryGate.label>автоматичні ворота</TemporaryGate.label> <!-- <En>automatic gate</En> -->
+  <TemporaryGate.description>Тимчасово зачинені ворота. Вони повинні відчинитися за деякий час.</TemporaryGate.description> <!-- <En>A temporarily-closed gate. It should open after a while.</En> -->
+
+  <Throne.label>трон</Throne.label> <!-- <En>throne</En> -->
+  <Throne.description>Трон для когось важливого.</Throne.description> <!-- <En>A throne for someone important.</En> -->
+
+  <Torch.label>смолоскип</Torch.label> <!-- <En>torch</En> -->
+  <Torch.description>Смолоскип. Ви помічаєте їх лише тоді, коли вони зникають. Також, цікаво, чому вони ніколи не догорають, можливо тому, що вони не розробляють ігри.</Torch.description> <!-- <En>A torch. You only notice them when they're gone. Also, I wonder why they never seem to burn out, maybe because they don't develop games.</En> -->
+
+  <ToxicWater.label>токсична вода</ToxicWater.label> <!-- <En>toxic water</En> -->
+  <ToxicWater.description>Ця вода, схоже, забруднена.</ToxicWater.description> <!-- <En>This water seems to be contaminated.</En> -->
+
+  <Toxofungus.label>токсогриб</Toxofungus.label> <!-- <En>toxofungus</En> -->
+  <Toxofungus.description>Отруйний гриб, що випускає токсичні спори при знищенні. Безпечно ходити по ньому, доки його не турбують.</Toxofungus.description> <!-- <En>A poisonous fungus that releases toxic spores when destroyed. Safe to walk on as long as it's not disturbed.</En> -->
+
+  <UnstableBridge.label>нестійкий міст</UnstableBridge.label> <!-- <En>unstable bridge</En> -->
+  <UnstableBridge.description>Дерев'яний, легкозаймистий міст. Схоже, він може обвалитися будь-якої миті.</UnstableBridge.description> <!-- <En>A wooden, flammable bridge. It looks like it can collapse anytime soon.</En> -->
+
+  <Ventillation.label>вентиляція</Ventillation.label> <!-- <En>ventilation</En> -->
+  <Ventillation.description>Напевно, завдяки їй скелети живуть комфортно.</Ventillation.description> <!-- <En>Makes skeletons live comfortably, probably.</En> -->
+
+  <Vines.label>ліани</Vines.label> <!-- <En>vines</En> -->
+  <Vines.description>Густі ліани, що перекривають шлях. Крізь них можна дивитися.</Vines.description> <!-- <En>Thick vines blocking the path. Can be seen through.</En> -->
+
+  <VioletTorch.label>фіолетовий смолоскип</VioletTorch.label> <!-- <En>violet torch</En> -->
+  <VioletTorch.description>Смолоскип з яскравим фіолетовим полум'ям. Досить дивно.</VioletTorch.description> <!-- <En>A torch with a bright, violet flame. Quite odd.</En> -->
+
+  <VioletWallLamp.label>фіолетова настінна лампа</VioletWallLamp.label> <!-- <En>violet wall lamp</En> -->
+  <VioletWallLamp.description>Стильна фіолетова настінна лампа.</VioletWallLamp.description> <!-- <En>A stylish, violet wall lamp.</En> -->
+
+  <Wall.label>стіна</Wall.label> <!-- <En>wall</En> -->
+  <Wall.description>Ця стіна стоїть тут уже давно і, найімовірніше, нікуди не дінеться найближчим часом.</Wall.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece1.label>стіна</WallPiece1.label> <!-- <En>wall</En> -->
+  <WallPiece1.description>Ця стіна стоїть тут уже давно і, найімовірніше, нікуди не дінеться найближчим часом.</WallPiece1.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece2.label>стіна</WallPiece2.label> <!-- <En>wall</En> -->
+  <WallPiece2.description>Ця стіна стоїть тут уже давно і, найімовірніше, нікуди не дінеться найближчим часом.</WallPiece2.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece3.label>стіна</WallPiece3.label> <!-- <En>wall</En> -->
+  <WallPiece3.description>Ця стіна стоїть тут уже давно і, найімовірніше, нікуди не дінеться найближчим часом.</WallPiece3.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece4.label>стіна</WallPiece4.label> <!-- <En>wall</En> -->
+  <WallPiece4.description>Ця стіна стоїть тут уже давно і, найімовірніше, нікуди не дінеться найближчим часом.</WallPiece4.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece5.label>стіна</WallPiece5.label> <!-- <En>wall</En> -->
+  <WallPiece5.description>Ця стіна стоїть тут уже давно і, найімовірніше, нікуди не дінеться найближчим часом.</WallPiece5.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallWithCompartment.label>стіна зі схованкою</WallWithCompartment.label> <!-- <En>wall with compartment</En> -->
+  <WallWithCompartment.description>У цій стіні є таємна схованка.</WallWithCompartment.description> <!-- <En>This wall has a secret compartment.</En> -->
+
+  <WallWithHole.label>стіна з отвором</WallWithHole.label> <!-- <En>wall with a hole</En> -->
+  <WallWithHole.description>Стіна з отвором.</WallWithHole.description> <!-- <En>A wall with a hole.</En> -->
+
+  <WallWithPipe.label>стіна з трубою</WallWithPipe.label> <!-- <En>wall with a pipe</En> -->
+  <WallWithPipe.description>Стіна з трубою.</WallWithPipe.description> <!-- <En>A wall with a pipe.</En> -->
+
+  <Water.label>вода</Water.label> <!-- <En>water</En> -->
+  <Water.description>Вода по груди. Добре підходить для гасіння пожеж.</Water.description> <!-- <En>Chest-deep water. Good for extinguishing fires.</En> -->
+
+  <Window.label>вікно</Window.label> <!-- <En>window</En> -->
+  <Window.description>Подивіться, що з іншого боку.</Window.description> <!-- <En>See what's on the other side.</En> -->
+
+  <WoodenFloor.label>дерев'яна підлога</WoodenFloor.label> <!-- <En>wooden floor</En> -->
+  <WoodenFloor.description>Було б шкода, якби хтось підпалив цю чудову дерев'яну підлогу.</WoodenFloor.description> <!-- <En>It'd be a shame if someone set this beautiful wooden floor on fire.</En> -->
+
+  <WoodenWall.label>дерев'яна стіна</WoodenWall.label> <!-- <En>wooden wall</En> -->
+  <WoodenWall.description>Дошки на цій стіні починають гнити. Однак, схоже, це не турбує жодного з місцевих скелетів.</WoodenWall.description> <!-- <En>The planks on this wall are starting to rot. However, it doesn't seem to bother any skeletons out here.</En> -->
+
+  <YellowCutGrass.label>скошена жовта трава</YellowCutGrass.label> <!-- <En>cut yellow grass</En> -->
+  <YellowCutGrass.description>Залишки жовтої трави.</YellowCutGrass.description> <!-- <En>Yellow grass remains.</En> -->
+
+  <YellowWallLamp.label>жовта настінна лампа</YellowWallLamp.label> <!-- <En>yellow wall lamp</En> -->
+  <YellowWallLamp.description>Стильна жовта настінна лампа.</YellowWallLamp.description> <!-- <En>A stylish, yellow wall lamp.</En> -->
+
+</SpecTranslations>

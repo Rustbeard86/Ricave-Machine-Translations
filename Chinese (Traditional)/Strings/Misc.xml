@@ -1,0 +1,997 @@
+﻿<Strings>
+
+  <!-- Main menu -->
+  <Play>遊玩</Play> <!-- <En>Play</En> -->
+  <Quit>離開</Quit> <!-- <En>Quit</En> -->
+  <Loading>載入中</Loading> <!-- <En>Loading</En> -->
+  <Resume>繼續遊戲</Resume> <!-- <En>Resume</En> -->
+  <Options>選項</Options> <!-- <En>Options</En> -->
+  <Mods>模組</Mods> <!-- <En>Mods</En> -->
+  <Credits>製作人員</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>選擇語言</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>死亡並重新開始</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>死亡並返回大廳</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>儲存並離開遊戲</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>關閉</Close> <!-- <En>Close</En> -->
+  <Back>返回</Back> <!-- <En>Back</En> -->
+  <Days>{0} 天</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} 小時</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} 分鐘</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 天</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 小時</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 分鐘</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>有東西導致錯誤發生。\n詳情請參閱日誌檔案。</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>已登入 Steam</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>未選擇模組</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>搶先體驗</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave 目前仍在開發中。\n\n我會持續努力新增更多內容、重新平衡遊戲、刪除不好玩的機制，並收集回饋，但我可能還是遺漏了些什麼。如果您覺得遊戲太難或太簡單、遇到錯誤，或是有很棒的改進建議或新功能點子，請參與開發過程，在我們的 Discord 頻道或 Twitter 上分享您的想法。\n\n感謝您的支持，祝您玩得愉快！\n～Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>遊戲已更新</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricave 已更新至版本 {0}！\n\n您目前的遊戲進度可能與新版本不相容。您要放棄目前的進度並返回大廳嗎？</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>上傳至 Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>上傳中</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>無法上傳至 Steam：{0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>已成功上傳至 Steam。</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>訊息</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>解析度</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>全螢幕</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>UI 縮放</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>視野</FOV> <!-- <En>FOV</En> -->
+  <VSync>垂直同步</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>目標幀率</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>顯示 FPS</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>反轉 Y 軸</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>按鍵綁定</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>音量</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>音樂音量</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>滑鼠靈敏度</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>指標靈敏度</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>SSAO 品質</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>陰影品質</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>降採樣</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>輪廓</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>最大光源數</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>關閉</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>低</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>中</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>高</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>低</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>中</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>高</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>無 (最佳品質)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5倍 (品質較差)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2倍 (品質最差)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>多通道圓角</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>多通道</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>單通道 (推薦)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>確定</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>恢復預設</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>重設遊戲狀態</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>返回大廳</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>重設所有進度</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>你確定要返回大廳嗎？\n\n與在遊戲中返回大廳不同，使用此選項將會失去你當前遊戲的進度。但你不會失去大廳的總體進度（你之前的任務和星塵將保持不變）。\n\n如果你的存檔損毀（例如在安裝不相容的更新後），請使用此選項。</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>你確定要重設所有進度嗎？\n\n這將會清除你的所有資料，你將從頭開始。\n\n只有當你想要從頭體驗遊戲，或你的進度資料損毀時，才使用此選項。</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>按下按鍵以指定給：</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>無</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>影像</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>介面</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>音訊</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>雜項</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>品質</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>否</No> <!-- <En>No</En> -->
+  <Yes>是</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>進入地城</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>使用種子碼進入地城</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>進入訓練室</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>輸入種子碼</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>進度已停用</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>最高分數</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>最高樓層</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>平均樓層</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>嘗試次數</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>總擊殺數</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>任務</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>統計</Stats> <!-- <En>Stats</En> -->
+  <Cancel>取消</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>接受</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>接受任務</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>領取</Claim> <!-- <En>Claim</En> -->
+  <Postpone>延後</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>已鎖定</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>只賣最優惠的價格！</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>需要升級嗎？</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>有星塵嗎？</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>點擊以閱讀更多</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>選擇以閱讀更多</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>接受後的地下城修飾</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>獎勵</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} 拼圖碎片</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>等級 {0} 解鎖</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>完成任務後解鎖</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>放置</Place> <!-- <En>Place</En> -->
+  <PickUp>拾取</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>按下 [ShowInventory] 開啟商店選單。</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>無</None> <!-- <En>None</En> -->
+  <CompletedQuests>已完成的任務</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>已完成</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>每日挑戰</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>你只有一次機會 - 好好把握！</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>每天，世界各地的玩家都會玩到相同的地下城種子碼。你每天只有一次機會。\n\n規則：\n  - 普通難度\n  - 增益效果停用\n  - 隨機職業與特性\n  - 任務停用\n  - 進度停用\n  - 無盡複雜地下城（無樓層限制）\n\n你無法在此地下城中收集星塵，且不會計入你的統計數據，但參與即可獲得 {0}。</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>下個挑戰倒數：{0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>你的最高分（所有天數）：{0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>開始每日挑戰</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>你今天已經挑戰過了\n你的分數是：{0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>請先停用模組</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>等級 {0} 解鎖</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>查看今日排行榜</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>全球</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>好友</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>你的排名：#{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>正在載入排行榜...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>載入排行榜失敗。</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>沒有可用的排行榜資料。</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>你的好友中還沒有人玩過這個挑戰。</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>進行中的任務</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>進行中</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>可接取的任務</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>可接取</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>歷史任務</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>歷史</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>按下 [Wait] 繼續</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>任務</Quest> <!-- <En>Quest</En> -->
+  <Runs>場次</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 個可接取的任務</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} 個可接取的任務</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>使用任務日誌來接取任務。</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>玩家名稱</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>難度</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>敵人</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>頭目</Bosses> <!-- <En>Bosses</En> -->
+  <Train>訓練</Train> <!-- <En>Train</En> -->
+  <EnterNewName>輸入新名稱</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>敵人生命值</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>初始生命值</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>分數</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>額外敵人</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>每層麵包數量</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>每層生命藥水數量</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>敵人等級</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>每層黃金戰利品</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>星塵</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>治療水晶</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>小型治療水晶</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>法力水晶</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>小型法力水晶</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>敵人數量</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>起始生命藥水</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>恭喜！</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>恭喜！\n\n您的最終得分是：{0}\n\n儘管主線任務已經結束，但仍有許多事物等待您去發現。\n\n如果您喜歡這款遊戲，歡迎加入我們的 Discord 伺服器：{1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>下個特性的價格</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>您需要先解鎖此特性。\n\n您可以用星塵購買一個隨機特性。您擁有的特性越多，購買下一個的價格就越昂貴。</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>使用此特性達到的最高層數：{0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>您最多只能選擇 2 個特性。</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>您的星塵不足。</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>點擊以選擇或取消選擇此特性。</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>選擇或取消選擇此特性。</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>點擊以選擇或取消選擇。</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>選擇或取消選擇。</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>購買 {0} 個隨機特性</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>已選特性</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>您確定要花費 {0} 購買 {1} 個隨機特性嗎？</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>開局獲得 {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>找到 {0} 更多黃金</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>找到 {0} 更少黃金</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>最大生命值</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>最大法力值</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>最大耐力值</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>對 {0} 非敵對</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>對 {0} 敵對</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>{0} 毒素抗性</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>{0} 毒素易傷</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>免疫毒素</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>無墜落傷害</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>{0} 墜落傷害</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>{0} 火焰抗性</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>{0} 火焰易傷</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>{0} 魔法抗性</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>{0} 魔法易傷</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>對 {1} 造成 {0} 傷害</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>耐力恢復速度減慢 {0} 倍</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>耐力恢復速度慢一倍</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>生命值低於 {1} 時，造成 {0} 額外傷害</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>每級獲得的最大生命值減少 {0}</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>每級獲得的最大生命值增加 {0}</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>行走噪音 {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>擊殺有效目標時獲得 {0} 魔力</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>擊殺有效目標時獲得 {0} 生命</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>擊殺有效目標時失去 {0} 生命</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>物品欄位 {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>最大生命 x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>對頭目造成 {0} 傷害</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>治療速率 {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>免疫 {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>免疫推擠</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>飢餓速率 {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>商店價格 {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>可以飛行</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>獲得 {0} 額外經驗</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>獲得 {0} 較少經驗</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>繼承上次冒險的經驗值</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>繼承上次冒險的金幣</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>剩餘 1 次冒險</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>剩餘 {0} 次冒險</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>開始</StartNewRun> <!-- <En>Start</En> -->
+  <Character>角色</Character> <!-- <En>Character</En> -->
+  <Traits>特性</Traits> <!-- <En>Traits</En> -->
+  <Boosts>增益</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>樓層</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} 層樓</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>每層房間數</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>以 {0} 解鎖</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>已完成難度</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>有迷你頭目</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>有庇護所</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>已解救的靈魂</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>勝利次數</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>失敗次數</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>{0} 頭目</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>與...衝突</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>外觀物品純為視覺效果，除非另有說明，否則不會影響遊戲。</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>您確定要以 {1} 購買 {0} 嗎？</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>你買不起此外觀物品。</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>價格</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>警告：此外觀物品會使 {0} 對你產生敵意</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>額外地城修飾</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>你的時間是借來的。\n我只是在討回我的債務。\n儘管跑吧。\n最終，你會找到出口。\n我就在出口的另一端等著你。</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>未發現的敵人</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} 生命</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} 魔力</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} 耐力</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} 至 {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>遭到伏擊</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>來自上方</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>來自格擋反傷</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>傷害擴散</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>未鑑定</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>已詛咒</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>已詛咒</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 回合</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} 回合</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>可使用 1 次</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>可使用 {0} 次</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 次充能</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} 次充能</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 顆鑽石</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} 顆鑽石</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 份星塵</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} 份星塵</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 個晶胞</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} 個晶胞</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 金幣</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} 金幣</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}g</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>按 [Accept] 繼續</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>按 [Accept] 繼續並返回大廳</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>按 [Wait] 重新開始</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>沒有選項</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>警告：此物品可能{0}。</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>警告：此物品{0}。</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>你無法卸下{0}的物品（除非使用解咒卷軸）。</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>金幣</Gold> <!-- <En>Gold</En> -->
+  <Leave>離開</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>每回合行動兩次</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>每回合行動 {0} 次</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>每兩回合行動一次</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>每 {0} 回合行動一次</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>不會感到飢餓</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>飢餓速度變為兩倍</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>飢餓速度變為 {0} 倍</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>飢餓速度減半</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>飢餓率倍率：{0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>投擲 {0} 金幣</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>{0} 機率</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>價值 {0} 回合</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>半徑 {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>全地圖</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>穿牆</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>目標周圍</AroundTarget> <!-- <En>around target</En> -->
+  <Used>已使用</Used> <!-- <En>Used</En> -->
+  <Waiting>等待中</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>已中斷</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>位置</Location> <!-- <En>spot</En> -->
+  <StopTargeting>停止鎖定</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>任務完成</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>回到大廳後即可領取獎勵</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>靜止不動</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>一步</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>您確定要以 {1} 購買 {0} 嗎？</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>這是一次性的加成，僅對您的下一場遊戲有效。</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>購買</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>可於 {0} 後使用</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>這是此角色的原生武器。</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>選擇一個新法術。\n\n每次升級時，您都可以選擇一個新法術。</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} 已被擊殺</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>提示：{0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>使用 [MoveForward][MoveLeft][MoveBack][MoveRight] 移動。按 [ShowInventory] 開啟物品欄。使用 [Interact] 與物件互動。使用 [RotateLeft] 和 [RotateRight] 旋轉。按住 [Inspect] 進行檢視。按 [Wait] 等待一回合。</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>等待</Waits> <!-- <En>Waits</En> -->
+  <Wait>等待</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>等待（醉酒）</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>等待（恐慌）</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>等待（{0}）</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>醒來了</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>在哪裡？！</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>沒有手臂</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>沒有腿</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>敵對</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>失去身體部位</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>有人看到你了</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>頭目仍然存活</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>魔力不足（{0}）</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>耐力不足（{0}）</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>冷卻中（{0}）</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>靠得更近些</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>無效目標</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>超出範圍</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>沒有視線</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>需要 {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>無法觸及</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>物品欄已滿</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>需要 2 個相同的晶石</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>需要靈魂</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>需要鏟子</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>使用鏟子</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>需要十字鎬</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>使用十字鎬</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>部分隊員距離太遠</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>門被擋住了</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>{0} 追隨者已存在</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>現在對您造成 {0}</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>現在造成 {0}</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>現在為您恢復 {0}</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>每回合造成 {0} 傷害</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>每 {1} 回合造成 {0} 傷害</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>每回合 {0}</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0}／{1} 回合</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>全部</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>為你恢復 {0}</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>或</Or> <!-- <En>or</En> -->
+  <And>和</And> <!-- <En>and</En> -->
+  <Score>分數</Score> <!-- <En>Score</En> -->
+  <FloorReached>抵達樓層</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>擊殺數</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>遊玩時間</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>擊殺數</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>戰鬥評分</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>已擊殺首領</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>已收集大廳物品</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>下一獎勵於等級 {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}天</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}時</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}分</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>無</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>新紀錄！</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>以及更多</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>種子碼：{0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 個詞綴</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} 個詞綴</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>下注 {0} 金幣</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>教學</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>首領擊殺數</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>任務完成數</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>筆記發現數</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>寶箱開啟數</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>物品製作數</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>普通</Common> <!-- <En>Common</En> -->
+  <Uncommon>罕見</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>稀有</Rare> <!-- <En>Rare</En> -->
+  <Epic>史詩</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>未鑑定</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>大廳（永久）物品</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>大廳</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>受到傷害</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>附近著火</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>巨大聲響</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>附近盟友醒來</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>敵對腳步聲</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>警覺的盟友經過</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>踹門</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>未命中</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} 未命中</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} 爆擊</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>爆擊</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>爆擊</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>蓄力</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>可用的配方</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>等待 {0} 回合</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>倒轉 {0} 回合</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>你擁有 {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>幼年 {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>{0} 首領</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>你似乎身處於某種地城之中…</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>你不確定自己身在何處，甚至不知道是怎麼來到這裡的。</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>周遭的一切感覺有些虛幻。同時，又真實得不像一場夢。</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>你慢慢地想起了一些事。至少，你知道自己的名字。</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>你的名字是：</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>你剛才注意到遠方有個人，但只瞥見了他的影子。你最好過去看看。</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>你緩緩睜開雙眼…</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>你在醫院裡醒來。</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3>"他醒了！"</Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4>"發生了什麼事？"</Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5>"你和朋友們去遠足時，頭部受了重傷。"</Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6>"搜救人員及時找到了你。你需要休息，恢復體力。"</Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7>"瑪雅在哪裡？"</Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8>"誰是瑪雅？"</Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9>"是她先找到我的。她還好嗎？"</Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10>"你可能有些意識混亂，但很快就會恢復的。"</Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>…</Ending11> <!-- <En>...</En> -->
+  <Ending12>你感到困惑，卻又有一種奇妙的成就感。彷彿自己發生了某種改變。</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>你閉上眼睛，深吸一口氣，想像著陽光灑在臉上的溫暖。新鮮的空氣充滿你的肺部，讓你情不自禁地微笑起來。</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>感謝遊玩體驗版！</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>遊戲製作</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>主選單背景美術</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>音樂製作</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>標誌設計</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>角色模型製作</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>音效提供</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>感謝遊玩！</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>森林…對了！你想起在來到這裡之前發生的事了。一個溫暖的夏日，鳥兒歌唱，遠方是美麗的山脈——你和朋友們去遠足。但接著，有樣東西吸引了你的注意。你記得自己離開了隊伍。但為什麼呢？</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>山洞！你聽到有人呼救後便離開了隊伍。你以為是其他登山客遇到了麻煩，於是循著聲音來到一個山洞。在裡面，你滑了一跤，摔斷了腿。你大聲呼救，但沒有人回應。孤單又受傷的你，希望開始變得渺茫…</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>你在那個山洞裡獨自坐了好幾個小時。當夜晚降臨，大雨傾盆而下時，你幾乎失去了所有希望。在感覺像永恆的等待之後，你在洞口看到了一道光。是…瑪雅！你鬆了一口氣！</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>看到瑪雅，你欣喜若狂。她伸出手想拉你起來，那一刻，你似乎覺得自己能得救了。但無情的雨水讓她也滑了一跤，你們倆一起滾了下去，重重地撞在岩石上。在那之後，一切都歸於寂靜。</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>裝備</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>製作</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>鑑定</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>名稱</Name> <!-- <En>Name</En> -->
+  <Level>等級</Level> <!-- <En>Level</En> -->
+  <Experience>經驗值</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>經驗</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>攻擊力</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>查看你目前已裝備的所有物品。</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>查看所有可用於製作新物品的配方。如果你需要解除詛咒或治療斷肢，這可能會很有用。</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>查看你物品欄中所有未鑑定的物品。\n\n隨著時間流逝，每件物品都會慢慢被鑑定（除非你處於飢餓狀態）。列表最上方的物品將會被優先鑑定。\n\n拖放以重新排序。</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>你沒有任何未鑑定的物品</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>這是你的鑑定佇列。拖放以決定隨著時間流逝，下一件要鑑定的物品。你也可以在流浪者處鑑定物品。</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>合成</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>相鄰</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>您將失去已購買的增益效果</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>夢魘領主</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>催眠蛛</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>幻靈</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>可用技能點數</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>已解鎖技能</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>已解鎖成就</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>按 [Cancel] 取消</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>按 ESC 取消</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>敵人</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>已知成員</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>您在這裡</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>若您選擇走這條路，將會收到以下物品</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>要去哪裡？</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>更多敵人</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>較少敵人</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>普通敵人</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>更多金幣</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>較少金幣</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>普通金幣</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>敵人数量</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>金幣戰利品</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>水晶</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>{0} 水晶</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>回復 {0} 點生命值</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>此舉會讓您掉進坑裡。您確定要這麼做嗎？\n\n您將會掉到下一層的隨機地點並損失一些生命值。您將無法返回。</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>此舉將會結束本次冒險。您確定要這麼做嗎？</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>按 [Rewind] 倒轉時間</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>記得使用 [Inspect] 來檢視您的周遭環境。</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>逃脫！</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>獎勵</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>這是什麼地方？我必須找到出路…</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>每次我來到這裡，這個地城都會改變。但為什麼？</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>每一步都感覺異常熟悉，彷彿我曾經來過這裡。</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>前面有什麼東西，我能感覺到。</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>我剛剛是贏了一場戰鬥，還是領悟了什麼？</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>我感覺一切都導向了前方的未知。</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>我感覺…心頭的一塊大石放下了。真奇怪。</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>你怎麼花了這麼久？</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>那是什麼？</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>您已死亡</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>您已逃脫</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>冒險完成</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>找到拉桿\n以開啟</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>跟隨教學\n以開啟</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>幫助</Help> <!-- <En>Help</En> -->
+  <HelpMe>救我</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>在這裡</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>按住 [Inspect] 閱讀</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>主線任務</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>支線任務</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>額外任務</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>你可以在大廳中接受和延後任務。</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>請注意，某些任務只能在擁有足夠層數的地城中完成。</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>解鎖下一個地城</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>到達此地城第 {0} 層的盡頭以解鎖下一個地城。</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>尋找拼圖碎片</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>在第 {0} 層尋找下一塊拼圖碎片。你目前擁有 {1}/{2} 塊。</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>靈魂救援</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>此地城中有 1 個靈魂。將其帶到庇護所即可使其自由。</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>此地城中有 {0} 個靈魂。將它們帶到庇護所即可使其自由。</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>警告：這些追隨者將被留下</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>選擇你的法術</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>選擇你的法術 ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>新法術</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>你的快捷列與法術</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>等級 {0} 解鎖</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>你收集到了星塵——一種珍貴的貨幣！\n\n星塵可以在大廳中用來購買增益效果，為你的下一次冒險做好準備，並解鎖特殊房間。\n\n所有標有「大廳物品」的道具都會帶回大廳。所有其他物品在冒險結束時都會遺失。</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>拼圖碎片和星塵一樣，是永久的大廳物品。\n\n在不同的冒險中收集全部 {0} 塊碎片，以解鎖大廳中的一個秘密房間。</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>你得到了一個夥伴。\n\n每當你移動時，Roko 會自動為你收集相鄰格子中的金幣。\n\n1 塊起司能讓 Roko 在 1 次冒險中跟隨你。</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>你現在有隊伍成員了。\n\你可以切換控制他們，並分開管理他們的物品欄。每個隊伍成員都有自己獨立的回合。</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>最大生命值 +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>爆擊率 +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>失手率 -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% 火焰</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>踢擊</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>此角色可以踢東西。</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>這層樓有記憶碎片</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>去尋找它</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>搜尋</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>已發現的物品</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>已發現的生物</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>圖鑑顯示的是物品與生物在正常、未受詛咒狀態下的樣貌。實際遇到的物品／生物可能會有所不同。</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>每日挑戰</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>職業</Class> <!-- <En>Class</En> -->
+  <NoClass>無職業\n\n效果：\n- 名聲與榮耀</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>等級 {0} 解鎖</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>效果</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>技能：{0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>最大生命值</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>最大魔力</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>最大耐力</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>對不死生物（骷髏、木乃伊等）造成 {0} 傷害</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} 火焰抗性</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} 火焰弱點</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>飢餓速率 {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>不會觸發壓力板</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>免疫中毒</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>免疫推擠</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>狗具有敵意</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>行走噪音 {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>使用此職業達到的最高樓層：{0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>未使用職業達到的最高樓層：{0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} 受到 {1} 點 {2} 傷害</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} 受到 {1} 點 {2} 傷害並死亡</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} 經驗值</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0} 未受到 {1} 傷害</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} 獲得 {1}</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} 受到 {1} 點 {2} 傷害</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} 受到 {1} 點 {2} 傷害並被摧毀</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0} 未受到 {1} 傷害</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} 獲得 {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{0} 的 {1} 被摧毀</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} 擋住了 {1} 點 {2} 傷害</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} 將 {1} 點 {2} 傷害反彈給 {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} 被推開</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} 被拉近</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} 獲得新狀態：{1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} 獲得新效果：{1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{0} 的 {1} 已恢復</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{0} 的 {1} 已恢復</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{0} 的 {1} 已恢復</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} 已被鑑定</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} 效果消失</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} 效果消失</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} 拾起了 {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>它是 {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>它是 {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} 是 {1}！(你需要找到或製作詛咒移除卷軸)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>你的 {0} 被 {1}了！</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>已從 {0} 移除詛咒</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} 傳送到隨機位置</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} 傳送了</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} 開啟了。現在去尋找出口。</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} 開啟了</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>你身後的大門關上了</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} 發出嘶嘶聲，但似乎沒有任何效果</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>你正在挨餓</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>你餓了</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>你購買了 {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>升級了！</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>你可以選擇一個新法術。</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>升級</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>因為你傷害了 {0}，護盾效果已被取消</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} 醒來了</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>總共 {0}</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>你犧牲了自己</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>你贏了</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>你輸了</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>你已完成試煉並獲得 {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>你已解開符文謎題並獲得 {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>你被 {0} 拯救了</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0} 被 {1} 拯救了</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>你試煉失敗了</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0} 已被複製</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0} 已被摧毀</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>這裡已經沒有東西了</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>你釣到了 {0}</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0} 將於 {1} 後啟動</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>你收到了 {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>惡魔雕像接受了你的 {0} 並給了你 {1}</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} 獲得了 {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} 未命中</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>{0} 在附近生成</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} 將 {1} 給了 {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>{0} 陣營變為敵對</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>你沒有所有材料</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>此物品不適用於此欄位</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} 從 {2} 身上偷走了 {1}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>你已收集 {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>你獲得了一個技能點！開啟物品欄來使用它。</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>你已釋放 {0} 並獲得 {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>{0} 的等級已提升</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>你無法卸下受詛咒的物品</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} 製作了 {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>對自己使用</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>對...使用</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>飲用</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>投擲...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>食用</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>投擲...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>設置陷阱...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>投擲...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>種植...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>對自己使用</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>攻擊...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>對自己施放</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>對...施放</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>裝填...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>封鎖門...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>束縛自己</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>束縛...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>放置...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>拾起...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>釣魚...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>挖掘...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>交談...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>附魔</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>挖掘...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>踢自己</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>踢...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0}用{1}攻擊自己</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0}用{1}攻擊{2}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0}使用{1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0}對{2}使用{1}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0}喝下{1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0}向{2}投擲{1}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0}對自己使用{1}</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0}對{2}使用{1}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0}向{2}投擲{1}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0}打開{1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0}關上{1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0}挖掘{1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0}從{1}飲水</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0}在{1}為裝備附魔</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0}走下樓梯</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0}走上樓梯</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0}拉動{1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0}在{1}接受祝福</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0}吃下{1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0}設置{1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0}在{1}中游泳</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0}在{1}中燃燒</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0}踩上{1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0}進行傳送</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0}向{2}投擲{1}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0}種下{1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0}對自己施放{1}</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0}對{2}施放{1}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0}用水裝滿{1}</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0}封鎖{2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0}將自己鎖在柱子上</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0}將{2}鎖在柱子上</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0}放置{1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0}拾起{2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0}為自己的傷口包紮</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0}為{2}的傷口包紮</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0}進行手術</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0}對{2}進行手術</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0}搜索{1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0}在{1}賭博</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0}按下{1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0}在{1}開始挑戰</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0}在{1}複製物品</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0}在{2}釣魚</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0}為自己滅火</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0}為{2}滅火</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0}研究{1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} 正在搜索 {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} 在 {1} 中睡覺</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} 使用 {1} 挖掘 {2}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} 與 {2} 交談</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} 使用 {1} 附魔一件物品</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} 使用 {1} 挖掘 {2}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} 在 {1} 獻上一個肢體</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} 在 {1} 召喚幻影</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} 在 {1} 解放一個靈魂</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} 清理了 {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} 在 {1} 獲得一個技能點</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} 踢了自己一腳</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} 踢了 {2} 一腳</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} 在 {1} 升級裝備</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} 將詛咒物品獻給 {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>上</Up> <!-- <En>up</En> -->
+  <Down>下</Down> <!-- <En>down</En> -->
+  <North>北</North> <!-- <En>north</En> -->
+  <South>南</South> <!-- <En>south</En> -->
+  <West>西</West> <!-- <En>west</En> -->
+  <East>東</East> <!-- <En>east</En> -->
+  <NorthWest>西北</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>東北</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>西南</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>東南</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>上-北</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>上-南</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>上-西</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>上-東</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>上-西北</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>上-東北</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>上-西南</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>上-東南</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>下-北</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>下-南</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>下-西</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>下-東</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>下-西北</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>下-東北</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>下-西南</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>下-東南</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>起點</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>終點</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>拉桿</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>梯子</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>頭目</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>偷襲機會</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>此角色在上一回合沒有看見你，所以現在攻擊他們將會造成 {0} 額外傷害。</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>在你上方</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>此角色目前在你上方，這代表若他們從這個位置攻擊你，將會造成 {0} 額外傷害。</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>在你下方</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>此角色目前在你下方，這意味著若從此位置攻擊，將造成 {0} 額外傷害。</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>看不見你</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>此角色看不見你（他們的視野範圍沒有你遠）。但請小心——他們可能還記得你最後的位置並前去查看！</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>墜落中</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>此角色正在墜落，這意味著他們的下一個回合將用於向下墜落，而不是執行任何行動。</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>未鑑定的效果</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>一種未知的效果。它來自一件未鑑定的物品。</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>你被至少 2 名敵人包圍，這意味著若從此位置攻擊，將對此角色造成 {0} 額外傷害。</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>未鑑定的效果</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>一種未知的效果。它來自一件未鑑定的物品。</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\n這是目前的遊戲內時間。一分鐘代表一個回合。\n\n整個遊戲都是回合制的。大多數行動，如行走、喝藥水、攻擊或與物件互動，都需要一個回合來完成。\n\n總經過回合數：{2}。\n在此樓層：{3}。</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>這是你角色的生命值。\n\n某些物品可以增加你的生命值上限。每升一級可為你增加 {0} 生命值上限。</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>若非飢餓或挨餓狀態，每 {1} 將恢復 {0} 生命值。</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>下一次生命值恢復於：{0}。</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>你的生命值超過上限，因此正在流失。</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>你的魔力值超過上限，因此正在流失。</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>你的耐力值超過上限，因此正在流失。</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>此物品將在 {0} 後鑑定完成。拖放以重新排序。</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>此物品是{0}的。然而，憑藉你無可挑剔的洞察力，你可以分辨出它是以下其中之一：</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>這類物品一旦使用過，就會被永久鑑定。</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>此物品是{0}的。它可能有未知的效果，且可能是{1}的（你無法卸下{1}的物品）。流浪者可以幫助你進行鑑定。</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>此物品是{0}的。你無法卸下{0}的物品（除非使用解咒卷軸）。</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>恭喜！;你辦得到！;我一直都相信你！;就快到了！;真希望我能像你一樣厲害！;太厲害了！;繼續加油！;你是最棒的！;你成功了！;做得好！;你太棒了！</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>歡迎來到第 1 層。\n\n你的旅程從這裡開始，即使這可能不是你第一次讀到這個告示。\n\n有些事一開始可能看起來很困難，但沒關係。最重要的是，我們必須記住——失敗也是一種樂趣！</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>歡迎來到第 {0} 層。</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>在此，每個靈魂都停下腳步，尋找出路。</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>於{0}擊殺。</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>你在物品欄中擁有的金幣數量。地城中可能有些人願意進行交易。</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>下個{0}生成倒數</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>不會再生成</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>{0}後消失。</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>{0}後擴散。</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>下次行動：{0}。</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>{0}後觸發。</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>來源</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>來源：難度</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>出現於</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>按下 [Fly]+[MoveForward] 向上，按下 [Fly]+[MoveBack] 向下。</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>按住 [Fly] 來踢門。</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>按下 [Rewind] 來倒轉時間。</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>使用此物品不消耗回合。</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>使用此物品消耗 {0} 回合。</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>使用此物品消耗 {0} 回合。</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>使用此法術不消耗回合。</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>使用此法術消耗 {0} 回合。</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>使用此法術消耗 {0} 回合。</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>進行此動作不消耗回合。</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>進行此動作消耗 {0} 回合。</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>進行此動作消耗 {0} 回合。</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>與此物件互動不消耗回合。</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>與此物件互動將消耗 {0} 回合。</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>與此物件互動將消耗 {0} 回合。</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>此物件可燃。</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>僅在沒有敵人看見你的情況下才能使用。</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>此物件易碎（爆炸會將其摧毀）。</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>鑑定已停止，因為你餓了。</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>點擊以拾取。</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>點擊以互動。</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>點擊以購買。</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>互動以拾取。</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>與此物件互動。</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>互動以購買。</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>此物品在下樓後將會消失。</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>這是你升至下一級的進度。你可以透過擊敗敵人來獲得經驗值。\n\n升級所需經驗值：{0}\n目前等級：{1}\n總經驗值：{2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>這是你目前的等級。你可以透過擊敗敵人來升級。\n\n每升一級，你的最大生命值會增加 {0}。此外，每次升級你都可以選擇一個新法術。\n\n升級所需經驗值：{2}\n總經驗值：{3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>這是根據你所有遊戲回合總分計算出的目前等級。你可以透過擊敗敵人及推進遊戲進度來獲得分數。\n\n升級所需分數：{0}\n總分數：{1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>這是你目前的飽食度：{0}/{1}\n\n你需要定期進食以滿足飢餓感並避免不良後果。\n\n一旦飽食度達到 {2}，你會感到飢餓——你將無法恢復生命值或鑑定物品。\n\n一旦飽食度達到 {3}，你會進入挨餓狀態——你將無法恢復耐力，且會隨時間緩慢損失生命值。</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>這是目前的地城樓層。你下得越深，生存就越困難，但同時也越有趣！</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>擊殺可獲得 {0} 經驗值</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>警告：若擊殺此角色，該陣營的所有成員將會變為敵對狀態。</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>戰術：{0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>此角色將會跟隨你到下一樓層。</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>狀態</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>武器</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>法術</Spells> <!-- <En>Spells</En> -->
+  <Talk>交談</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>死亡時</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>已穿戴</Worn> <!-- <En>Worn</En> -->
+  <Inventory>物品欄</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>資訊</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>消耗 {0} 魔力</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>消耗 {0} 耐力</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>這是你角色的魔力。\n\n施放法術和使用魔法物品會消耗魔力。魔力不會隨時間自動恢復，只能透過飲用魔力藥水或與某些特殊物件互動來補充。當你沒有任何法術時，魔力條會被隱藏。\n\n每次升級你都可以選擇一個新法術。</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>這是你角色的耐力。\n\n使用某些物品可能需要耐力。當你的物品欄中沒有需要耐力的物品時，耐力條會被隱藏。</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>若非挨餓狀態，每 {1} 會恢復 {0} 耐力。</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>下次耐力恢復於：{0}。</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>選擇新法術。每次升級你都可以選擇一個新法術。</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>低生命值時會逃跑</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>這只懷錶能讓你隨心所欲地倒轉時間！按下 [Rewind] 來回溯上一回合。\n\n當你不喜歡最近行動的結果或只是單純點擊錯誤時，就使用它吧。\n\n懷錶一次可以回溯的回合數有上限，但每 {0} 回合會重新充能。與其他時間操縱物品（如回溯卷軸）不同，當你使用未鑑定的藥水或卷軸、裝備受詛咒的物品、踩到陷阱或使用銀鑰匙時，懷錶會失去所有剩餘的充能。\n\n在 Ricave 中，所有行動都是確定性的，這意味著回溯後，如果你再次做出相同的移動，一切都會和之前完全一樣，包括造成的傷害和敵人的決策。為了擲出更高的傷害而回溯時間是行不通的。</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>充能於：{0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>星塵可以在地城中的各個地方找到，或作為完成任務的獎勵。你可以在大廳花費星塵。</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>集齊所有 {0} 塊拼圖碎片，以解鎖大廳中的一個特殊房間。地城的每一層都有一塊拼圖碎片，且每次遊戲只能找到一塊。</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>下一塊拼圖碎片在樓層：{0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>範圍：{0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>近戰</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>你在範圍內</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>你已超出範圍</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>拾取你私人房間中已放置的物件。</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>你目前朝向 {0}。\n\n使用 "[MoveForward][RotateLeft][MoveBack][RotateRight]" 來移動。\n使用 "[MoveLeft]" 和 "[MoveRight]" 來橫移。\n如果你的角色會飛行，可使用 "[Fly]+[MoveForward]" 和 "[Fly]+[MoveBack]" 來上升與下降。</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>將於 {0} 後受到傷害。</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>將於 {0} 後恢復生命值。</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>將於 {0} 後恢復耐力。</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>將於 {0} 後恢復魔力。</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>此角色未接觸地面，耐力再生已停用。</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>你未接觸地面，耐力再生已停用。</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>冷卻時間：{0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>剩餘 {0}</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>先解鎖 {0}</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>你沒有任何技能點數</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>點擊以解鎖</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>互動以解鎖</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>效果</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>所有大門都已敞開，所有人都醒了。你必須立刻逃跑！\n\n此外，生成的老鼠數量將變為兩倍。</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>每當你移動時，洛可會為你收集相鄰地塊上的金幣。</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>提示：你可以在典籍中查看一般屬性</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>排序物品欄</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>卸下</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>裝備</Equip> <!-- <En>Equip</En> -->
+  <Unwear>脫下</Unwear> <!-- <En>Take off</En> -->
+  <Wear>穿上</Wear> <!-- <En>Wear</En> -->
+  <Drop>丟棄</Drop> <!-- <En>Drop</En> -->
+  <Destroy>摧毀</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>與 {0} 混合</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>查看</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>移動至</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>對...使用 {0}</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>互動</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>已停用</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>給予 {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>死亡</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>空間不足</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>目前裝備的物品受到詛咒</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>華麗, 強大, 全能, 有力, 可怕, 欣喜, 壯觀, 活潑, 誘人, 美麗, 可愛, 刺激, 討喜, 聰明, 迷人, 笨拙, 無敵, 微小, 巨大, 駭人, 快樂, 悲傷, 歪斜, 奇怪, 瘋狂, 興奮, 漂亮, 誘惑</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>邦寶, 憨寶, 嗶尼, 檸檬, 嘎寶, 喀特, 咕寶, 布魯, 邦邦, 蘿莉, 波波, 波克, 藍寶, 冬德, 咚多, 多寶, 布寶, 奇肯, 普普, 威格, 普拉, 崔多, 丁格, 普隆, 沃寶, 金格, 嘟嘟</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>克拉奇, 沃斯, 亞德, 森, 拜寶, 馬克, 頓, 邦, 岡, 胡夫, 斯坦, 賓, 斯納, 布洛, 噗夫, 拉夫, 巴赫, 多利, 斯納夫, 弗洛, 普洛, 布夫, 布拉, 斯納克, 博克</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>{0}之靈</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>歡笑, 變化, 希望, 孤獨, 和諧, 決心, 喜悅, 恐懼, 憤怒, 悲傷, 愛, 驚奇, 厭惡, 好奇, 希望, 絕望, 信任, 懷疑, 勇氣, 罪咎, 羞恥, 感激, 嫉妒, 寬慰, 無聊, 平靜, 懷舊, 堅韌, 同理, 期待, 懊悔, 敬畏, 謙遜, 挫折, 輕蔑</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>無</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>確認</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>退出</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>空白鍵</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>滑鼠左鍵</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>滑鼠右鍵</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>滑鼠中鍵</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Windows 鍵</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>左扳機</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>右扳機</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>左肩鍵</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>右肩鍵</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>返回按鈕</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>開始按鈕</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>左搖桿點擊</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>右搖桿點擊</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>擊殺</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>雙殺</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>三連殺</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>{0} 連殺</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>新樓層</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>試煉完成</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>擊殺 {0}</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>早上</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>白天</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>傍晚</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>夜晚</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>防禦者</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>戰士</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>冒險家</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>紅色</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>綠色</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>藍色</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>里歐</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>伊芙</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>實用道具</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>藥水</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>卷軸</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>武器與裝備</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

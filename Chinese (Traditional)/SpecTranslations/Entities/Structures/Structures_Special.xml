@@ -1,0 +1,243 @@
+﻿<SpecTranslations>
+
+  <AncientContainer.label>古老容器</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>此容器只能用 3 個古老機關開啟。它們應該都在這一層的某處。</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>你看到面前有一個古老容器。\n\n它只能用 3 個古老機關開啟。</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>開啟</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>古老裝置</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>一種可以研究的古老裝置。若你研究完所有三個，就可以解鎖並獲得獎勵。</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>裝有解毒劑的盆子</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>一個裝滿毒藥解毒劑的小盆子。你可以在此處消耗一些法力來移除中毒狀態。</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>你看到面前有一個裝有解毒劑的盆子。\n\n你可以在此處消耗一些法力來移除中毒狀態。</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>飲用</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>鐵砧</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>你可以在此處升級你的裝備等級。</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>你看到面前有一座鐵砧。\n\n你可以在此處消耗鐵來升級你的裝備等級。</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>床</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>一張舒適的床。你可以在此處恢復一些生命值，但有 50% 的機率會被敵人發現。</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>你看到面前有一張床。\n\n你可以在此處恢復一些生命值，但有 50% 的機率會被敵人發現。</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>睡覺</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>大磁鐵</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>每兩回合，它會將周圍的所有人拉向自己。</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>書架</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>一個裝有書的架子，可以給予你一個技能點。</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>籠子</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>一個金屬籠子，裡面有東西或人。只有當地下城樓層沒有存活的頭目時，你才能打開它。</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>你看到面前有一個巨大的、生鏽的金屬籠子。\n\n你想打開它嗎？</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>開啟</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>大砲</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>一個致命的陷阱，會傷害站在其火線上的所有人。透過攻擊來觸發它。</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>大鍋</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>用任何藥水換取一個隨機卷軸。</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>你看到面前有一個大鍋。\n\n在這裡你可以用任何藥水換取一個隨機卷軸。</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>天花板尖刺</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>一個致命的陷阱，會傷害站在其下方的任何人。透過攻擊來觸發它。</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>寶箱</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>這個寶箱裡有你一生中可能想要的一切。要嘛是這樣，要嘛是一塊腐爛的布和一些石頭。</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>惡魔雕像</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>一座邪惡的雕像。接受受詛咒的物品以換取獎勵。</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>惡魔雕像凝視著你。\n\n如果你有任何受詛咒的物品，可以將它交給雕像以換取獎勵。</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>龍的遺骸</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>一堆龍骨。這裡可能藏著什麼東西。</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>你看到面前有一些龍的遺骸。\n\n如果你願意，可以在這裡尋找隱藏的寶藏。</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>搜尋</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>複製機</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>一個可以複製任何物品……或將其破壞的裝置。</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>你看到面前有一台複製機。\n\n花費 30 金幣，你可以嘗試複製一件物品。\n\n然而，有 40% 的機率物品會被摧毀。</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>電子保險箱</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>此保險箱只能透過按下其他地方的按鈕來開啟。</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>按鈕</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>這個按鈕會打開某處的一個電子保險箱。</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>附魔台</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>附魔你的裝備，以換取少量捐贈。</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>你看到前方有一張附魔台。\n\n桌子底下有一個投幣口，旁邊的告示牌寫著需要捐獻 170 枚金幣才能繼續。\n\n一個隨機的附魔效果將會施加在你選擇的武器或護甲上。</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>噴泉</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>飲用此噴泉的水可獲得一種溫和但持久的效果——可能是正面的，也可能是負面的。</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>你看到前方有一座噴泉。\n\n飲用它的水會產生溫和但持久的魔法效果。\n\n你可以投入一些金幣來祈求好運。</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>飲用</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>生命之泉</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>飲用此泉水將完全治癒你，恢復所有法力、耐力和飽食度，並提供短暫的毒素免疫。</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>你看到前方有一座生命之泉。\n\n飲用此泉水將完全治癒你，恢復所有法力、耐力和飽食度，並提供短暫的毒素免疫。</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>飲用</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>賭桌</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>如果你覺得手氣不錯，可以來賭一把。</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>你看到前方有一張賭桌。\n\n如果你覺得手氣不錯，可以來賭一把，有 50/50 的機率贏得雙倍或輸掉賭注。</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>鍍金鎖箱</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>這個鎖箱有一個投幣口。你可以投入 50 枚金幣來打開它。</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>你看到前方有一個鍍金鎖箱。\n\n你可以投入 50 枚金幣來打開它。</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>打開</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>墳墓</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>挖掘以尋找隱藏的寶藏。</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>你看到前方有一座墳墓。\n\n這裡肯定埋了什麼東西。\n\n你可以選擇挖掘墳墓，或是讓它安息。誰知道你會在這裡發現什麼。</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>挖掘</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>綠色寶箱</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>此寶箱只能用 3 個綠色鑰匙碎片打開。通常敵人會攜帶這些碎片。</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>你看到前方有一個綠色寶箱。\n\n它只能用 3 個綠色鑰匙碎片打開。</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>打開</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>吊籠</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>一個金屬籠子，裡面有東西或人。只有當地城樓層沒有存活的頭目時才能打開。</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>你看到前方有一個巨大、生鏽的金屬籠子。\n\n你想要打開它嗎？</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>打開</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>治療水晶</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>治癒你所有的生命值。</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>治療草藥</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>一種具有不尋常治療特性的植物。你可以用它來製作生命藥水。</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>拉桿</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>打開所有閘門並驚動樓層上的所有人。只有在你準備好逃脫時才拉動它！</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>你想要拉動拉桿嗎？\n\n這會打開所有閘門，但所有敵人都會被驚醒。</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>拉動</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>斷肢祭壇</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>你可以在此獻祭你的肢體以換取隨機獎勵。</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>你看到前方有一座斷肢祭壇。\n\n你可以在此獻祭你的肢體以換取隨機獎勵。</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>獻祭肢體</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>法力水晶</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>恢復你所有的法力，讓你能夠再次使用法術。</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>法力草藥</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>一種具有不尋常魔法特性的植物。你可以用它來製作法力藥水。</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>金屬貨箱</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>一個金屬貨箱。可能裝有有用的東西。</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>幻影祭壇</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>召喚一個致命的幻影。以視力受損為代價，獲得物理傷害加成。</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>你看到前方有一座幻影祭壇。\n\n你可以在此召喚一個致命的幻影，並藉此獲得 +25% 的物理傷害。\n\n此外，在 25 回合內，你的視野範圍將被設定為 1。</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>召喚</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>傳送門</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>它會將你傳送到地圖上的一個隨機位置。然而，再次使用時，它總是會將你帶到同一個地點。</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>感應炸彈</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>這種炸彈有感應觸發器，靠近後幾回合會爆炸。</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>感應燃燒彈</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>這種燃燒彈有感應觸發器，靠近後幾回合會爆炸。</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>感應煙霧彈</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>這種煙霧彈有感應觸發器，靠近後幾回合會爆炸。</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>老鼠窩</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>一個充滿老鼠的窩。除非受到驚擾，否則老鼠不會出來。你可以搜尋其中隱藏的寶藏。</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>你看到前方有一個老鼠窩。\n\n如果你願意，可以在這裡搜尋隱藏的寶藏。\n\n然而，如果你這麼做，老鼠就會開始從這個窩裡跑出來。</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>搜尋</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>盜賊神龕</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>捐獻少量金錢，可在一段時間內獲得更多耐力、更佳視野範圍以及火焰傷害抗性。</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>你看到前方有一座盜賊神龕。\n\n捐獻少量金錢即可獲得更多耐力、更佳視野範圍以及火焰傷害抗性。</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>繼續</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>終點傳送門</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>一個明亮的傳送門。這就是終點。</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>獻祭祭壇</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>在此祭壇上獻祭兩名強大的對手以獲得獎勵。</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>保險箱</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>裡面可能裝有貴重物品，但要摧毀它可能很棘手。或許用些炸藥？</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>商店</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>沒有什麼比現榨柳橙汁…我的意思是，力量藥水更棒的了。</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>神龕</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>免費獲得一個祝福！</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>你看到前方有一座神龕。\n\n你可以在此獲得一個祝福。</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>繼續</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>銀寶箱</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>它看起來可能裝有貴重物品。你需要一把銀鑰匙才能打開。</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>你看到前方有一個銀寶箱。\n\n它只能用銀鑰匙打開。\n\n請注意，上鎖的寶箱可能比可用的鑰匙多，所以請明智地使用你的鑰匙。</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>打開</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>骸骨</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>一堆白骨。這裡可能藏著什麼東西。</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>你看到前方有一些骸骨。\n\n如果你願意，可以在這裡搜尋隱藏的寶藏。</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>搜尋</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>小型治療水晶</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>恢復最大生命值的 50%。</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>小型法力水晶</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>恢復最大法力值的 50%。</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>樓梯</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>通往地城下層的樓梯。</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>你想要走下樓梯前往地城的下一層嗎？\n\n你將無法再回來。</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>繼續</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>通往大廳的樓梯</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>通往大廳的樓梯。這將結束你目前的冒險，但你會保留部分經驗值和金幣到下一次冒險。此外，你不會失去在大廳購買的一次性加成。</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>你想要返回大廳嗎？\n\n這將結束你目前的冒險，但你會為下一次冒險保留 25% 的經驗值和 50% 的金幣。\n此外，你不會失去在大廳購買的一次性加成。</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>繼續</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>手術床</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>一台自動手術機器，支付少量費用即可恢復所有失去的身體部位。</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>你面前有一台自動手術機。\n\n下方有一個投幣口，標示牌上寫著只要投入 150 枚金幣，機器就能恢復你所有缺失的身體部位。</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>支付 150 金幣</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>時光機</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>回到過去。</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>你面前有一台時光機。\n\n使用它將會讓你回到過去。</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>使用</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>致殘試煉</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>在 120 回合內摧毀 6 個身體部位以獲得獎勵。</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>你面前是致殘試煉。\n\n支付一些金幣，你就可以開始在 120 回合內摧毀 6 個身體部位的挑戰。\n\n完成挑戰後，你會收到一份獎勵。</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>支付 20 金幣</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>迅捷殺手試煉</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>在 100 回合內擊殺 4 名有價值的（能提供經驗值的）敵人以獲得獎勵。</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>你面前是迅捷殺手試煉。\n\n支付一些金幣，你就可以開始在 100 回合內擊殺 4 名有價值的敵人的挑戰。\n\n完成挑戰後，你會收到一份獎勵。</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>支付 20 金幣</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>完美無瑕試煉</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>在不損失任何生命值的情況下擊殺 2 名有價值的（能提供經驗值的）敵人以獲得獎勵。</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>你面前是完美無瑕試煉。\n\n支付一些金幣，你就可以開始在不損失任何生命值的情況下擊殺任意 2 名有價值的敵人的挑戰。\n\n完成挑戰後，你會收到一份獎勵。</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>支付 20 金幣</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>升級寶珠</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>一顆能讓你選擇永久效果的寶珠。你可以選擇額外生命、額外暴擊率、降低失手機率和火焰抗性。</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>這是一顆升級寶珠，能為本次遊戲提供永久效果。\n\n你可以選擇額外生命、額外暴擊率、降低失手機率和火焰抗性。</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>戰士聖壇</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>釋放你內心的戰士之魂並證明你的價值。將你的最大生命值減半，以換取在一段時間內提升 25% 的物理傷害。</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>你面前有一座戰士聖壇。\n\n將你的最大生命值減半，以換取在 400 回合內提升 25% 的傷害。</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>進行</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>黃蜂巢</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>一個異常巨大的黃蜂巢。</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>巫師聖壇</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>支付少量捐獻可增加法力上限，並在一段時間內獲得魔法傷害抗性。</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>你面前有一座巫師聖壇。\n\n支付 80 金幣，你就能獲得祝福，在 400 回合內 +2 法力上限，並在 100 回合內獲得魔法傷害抗性。</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>支付 80 金幣</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

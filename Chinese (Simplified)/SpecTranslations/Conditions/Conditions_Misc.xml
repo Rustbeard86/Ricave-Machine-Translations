@@ -1,60 +1,60 @@
 ﻿<SpecTranslations>
 
   <Berserker.label>狂战士</Berserker.label> <!-- <En>berserker</En> -->
-  <Berserker.description>你最近杀了一个人。在短时间内，你造成和受到的物理伤害都增加25%。</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+  <Berserker.description>你最近杀了人。短时间内，你造成的和受到的物理伤害都会增加25%。</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
 
   <Bleeding.label>流血</Bleeding.label> <!-- <En>bleeding</En> -->
-  <Bleeding.description>该角色正在流血，会持续失血直到被包扎。</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.description>该角色正在流血，在包扎前会持续失去生命值。</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
   <Bleeding.Bleeding>流血 ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
 
-  <Blind.label>失明</Blind.label> <!-- <En>blind</En> -->
-  <Blind.description>该角色只能感知到相邻的物体，并且会有30%的几率失手。</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+  <Blind.label>致盲</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>该角色只能感知到相邻的物体，且有30%的几率攻击落空。</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
 
   <BrokenBone.label>骨折</BrokenBone.label> <!-- <En>broken bone</En> -->
-  <BrokenBone.description>该角色骨折了，导致其造成的物理伤害降低。</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
-  <BrokenBone.ThisCharacterHasABroken>该角色骨折了，导致其造成的物理伤害降低 {0}。</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+  <BrokenBone.description>该角色骨折了，这会使其造成的物理伤害降低。</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>该角色骨折了，这会使其造成的物理伤害降低{0}。</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
 
   <Burning.label>燃烧</Burning.label> <!-- <En>burning</En> -->
-  <Burning.description>该角色正在燃烧，这意味着他每回合会损失一定数量的生命值。</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.description>该角色正在燃烧，这意味着他每回合都会损失一定数量的生命值。</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
   <Burning.Burning>燃烧 ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
 
-  <CritChanceFactor.label>暴击率改变</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.label>暴击率变化</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
   <CritChanceFactor.description>影响该角色造成暴击的几率。</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
   <CritChanceFactor.CriticalHitChance>暴击率：{0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
 
-  <DamageOverTime.label>正在失血</DamageOverTime.label> <!-- <En>losing health</En> -->
-  <DamageOverTime.description>该角色正在失去生命值。</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
-  <DamageOverTime.LosingHealth>正在失血 ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+  <DamageOverTime.label>持续掉血</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>该角色正在持续失去生命值。</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>持续掉血 ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
 
   <DealtDamageFactor.label>造成伤害系数</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
-  <DealtDamageFactor.description>该角色造成的伤害会受此系数影响。</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
-  <DealtDamageFactor.DealtDamage>造成的 {1} 伤害：{0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+  <DealtDamageFactor.description>该角色造成的伤害会受此系数影响而改变。</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>造成{1}伤害：{0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
 
-  <DealtDamageOffset.label>造成伤害偏移</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
-  <DealtDamageOffset.description>此数值会加到（或减去）该角色造成的伤害上。如果此数值是一个范围，则使用该范围内的随机值。</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
-  <DealtDamageOffset.DealtDamage>造成的 {1} 伤害：{0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+  <DealtDamageOffset.label>造成伤害附加值</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>该数值会附加（或减去）到角色造成的伤害上。如果该数值是一个范围，则会使用范围内的随机值。</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>造成{1}伤害：{0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
 
   <Disease.label>疾病</Disease.label> <!-- <En>disease</En> -->
-  <Disease.description>该角色患有疾病，无法自然恢复生命值且无法飞行。</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+  <Disease.description>该角色患有疾病，这会阻止其自然恢复生命值并使其无法飞行。</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
 
   <Drunk.label>醉酒</Drunk.label> <!-- <En>drunk</En> -->
-  <Drunk.description>该角色喝醉了，这意味着他们每回合会随机移动。在此状态下他们无法做任何其他事情。</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+  <Drunk.description>该角色醉酒了，这意味着他们每回合都会随机移动。在此状态下，他们无法做任何其他事情。</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
 
-  <Entangled.label>被缠绕</Entangled.label> <!-- <En>entangled</En> -->
-  <Entangled.description>该角色被缠绕了，这意味着他无法移动。但是，他仍然可以从当前位置进行攻击。</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+  <Entangled.label>缠绕</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>该角色被缠绕了，这意味着他无法移动。但是，他仍然可以从当前位置发动攻击。</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
 
-  <Frozen.label>被冰冻</Frozen.label> <!-- <En>frozen</En> -->
-  <Frozen.description>该角色被冰冻了，这意味着他们在此状态下除了等待之外什么也做不了。</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+  <Frozen.label>冰冻</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>该角色被冰冻了，这意味着在此状态下，他们除了等待之外什么也做不了。</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
 
   <HPRegen.label>生命恢复</HPRegen.label> <!-- <En>health regeneration</En> -->
-  <HPRegen.description>该角色的生命值会随着时间的推移自动恢复。</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.description>该角色的生命值会随着时间自动恢复。</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
   <HPRegen.HealthRegeneration>生命恢复 ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
 
   <HungerRateMultiplier.label>饥饿速率</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
   <HungerRateMultiplier.description>影响该角色饥饿的速度。</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
 
   <Hungry.label>饥饿</Hungry.label> <!-- <En>hungry</En> -->
-  <Hungry.description>你饿了，需要吃点东西。这会停止生命恢复和物品鉴定。</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+  <Hungry.description>你饿了，需要吃点东西。饥饿会停止生命恢复和物品鉴定。</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
 
   <IdentificationRateMultiplier.label>鉴定速率</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
   <IdentificationRateMultiplier.description>影响该角色鉴定物品的速度。</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
@@ -66,99 +66,99 @@
   <ImmuneToFire.label>免疫火焰</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
   <ImmuneToFire.description>该角色免疫火焰。</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
 
-  <ImmuneToPoison.label>免疫毒素</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
-  <ImmuneToPoison.description>该角色免疫毒素。</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+  <ImmuneToPoison.label>免疫中毒</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>该角色免疫中毒。</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
 
   <IncomingDamageFactor.label>护甲</IncomingDamageFactor.label> <!-- <En>armor</En> -->
-  <IncomingDamageFactor.description>该角色受到伤害的系数。如果该值大于1，则为易伤。如果该值为0，则为免疫。</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
-  <IncomingDamageFactor.ReceivedDamage>受到的 {1} 伤害：{0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+  <IncomingDamageFactor.description>此角色承受伤害的系数。如果该值大于1，则为易伤。如果该值为0，则为免疫。</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>受到 {1} 点伤害：{0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
 
   <IncomingDamageOffset.label>护甲</IncomingDamageOffset.label> <!-- <En>armor</En> -->
-  <IncomingDamageOffset.description>此数值会加到（或减去）该角色受到的伤害上。如果此数值是一个范围，则使用该范围内的随机值。</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
-  <IncomingDamageOffset.ReceivedDamage>受到的 {1} 伤害：{0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+  <IncomingDamageOffset.description>此数值会加（或减）在此角色承受的伤害上。如果此数值是一个范围，则会使用该范围内的随机值。</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>受到 {1} 点伤害：{0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
 
-  <InvertHostile.label>对盟友敌对</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
-  <InvertHostile.description>该角色处于狂暴状态，会攻击他平时的盟友。</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+  <InvertHostile.label>对友军怀有敌意</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>此角色处于狂暴状态，会攻击其通常的盟友。</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
 
   <Levitating.label>可以飞行</Levitating.label> <!-- <En>can fly</En> -->
-  <Levitating.description>该角色可以飞行。会飞的角色可以直接上下移动。</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+  <Levitating.description>此角色可以飞行。飞行角色可以直接向上和向下移动。</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
 
-  <ManaRegen.label>法力恢复</ManaRegen.label> <!-- <En>mana regeneration</En> -->
-  <ManaRegen.description>该角色的法力值会随着时间的推移自动恢复。</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
-  <ManaRegen.ManaRegeneration>法力恢复 ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+  <ManaRegen.label>法力回复</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>此角色的法力会随时间自动回复。</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>法力回复 ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
 
-  <MaxHPFactor.label>最大生命值改变</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
-  <MaxHPFactor.description>影响该角色可以拥有的最大生命值。</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.label>最大生命值已改变</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>影响此角色可拥有的最大生命值。</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
   <MaxHPFactor.MaxHP>最大生命值：{0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
 
-  <MaxHPOffset.label>最大生命值改变</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
-  <MaxHPOffset.description>影响该角色可以拥有的最大生命值。</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.label>最大生命值已改变</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>影响此角色可拥有的最大生命值。</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
   <MaxHPOffset.MaxHP>最大生命值：{0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
 
-  <MaxManaOffset.label>最大法力值改变</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
-  <MaxManaOffset.description>影响该角色可以拥有的最大法力值。</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.label>最大法力值已改变</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>影响此角色可拥有的最大法力值。</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
   <MaxManaOffset.MaxMana>最大法力值：{0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
 
-  <MaxStaminaOffset.label>最大耐力改变</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
-  <MaxStaminaOffset.description>影响该角色可以拥有的最大耐力值。</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
-  <MaxStaminaOffset.MaxStamina>最大耐力：{0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+  <MaxStaminaOffset.label>最大耐力值已改变</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>影响此角色可拥有的最大耐力值。</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>最大耐力值：{0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
 
-  <MissChanceFactor.label>失手几率改变</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
-  <MissChanceFactor.description>影响该角色攻击时失手的几率。</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
-  <MissChanceFactor.MissChance>失手几率：{0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+  <MissChanceFactor.label>未命中几率已改变</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>影响此角色攻击时的未命中几率。</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>未命中几率：{0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
 
   <Panic.label>恐慌</Panic.label> <!-- <En>panic</En> -->
-  <Panic.description>该角色处于恐慌状态，每回合会远离最近的敌人。在此状态下他们无法做任何其他事情。</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+  <Panic.description>此角色处于恐慌状态，每回合都会远离最近的敌人。在此状态下，他们无法做任何其他事情。</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
 
   <Poisoned.label>中毒</Poisoned.label> <!-- <En>poisoned</En> -->
-  <Poisoned.description>该角色中毒了，这意味着他们每回合或每几回合会损失一定数量的生命值。</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.description>此角色已中毒，这意味着他们每回合或每几回合会损失一定数量的生命值。</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
   <Poisoned.Poisoned>中毒 ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
 
   <SeeRangeCap.label>视野范围</SeeRangeCap.label> <!-- <En>vision range</En> -->
-  <SeeRangeCap.description>影响该角色可以看到其他物体和角色的最大距离。</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.description>影响此角色能看到其他物体和角色的最大距离。</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
   <SeeRangeCap.VisionRangeMax>视野范围：最大 {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
 
   <SeeRangeOffset.label>视野范围</SeeRangeOffset.label> <!-- <En>vision range</En> -->
-  <SeeRangeOffset.description>影响该角色可以看到其他物体和角色的最大距离。</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.description>影响此角色能看到其他物体和角色的最大距离。</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
   <SeeRangeOffset.VisionRange>视野范围：{0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
 
-  <SequencePerTurnMultiplier.label>改变该角色行动频率</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
-  <SequencePerTurnMultiplier.description>影响该角色每回合允许的移动次数。</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+  <SequencePerTurnMultiplier.label>改变此角色的行动频率</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>影响此角色每回合允许的行动次数。</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
 
   <Shield.label>无法对你造成任何伤害</Shield.label> <!-- <En>can't deal any damage to you</En> -->
-  <Shield.description>在下一回合之前，你受到该角色攻击的保护。但是，如果你对该角色造成任何伤害，效果将被移除。请注意，施放无害法术是可以的。</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+  <Shield.description>在下个回合前，你将免受此角色的攻击。但是，如果你对该角色造成任何伤害，此效果将被移除。注意，施放无害法术不受影响。</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
 
-  <Sleeping.label>正在睡觉</Sleeping.label> <!-- <En>sleeping</En> -->
-  <Sleeping.description>该角色正在睡觉。当被接近或打扰时，他会醒来。</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+  <Sleeping.label>沉睡</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>此角色正在沉睡。当被靠近或打扰时，他会醒来。</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
 
-  <SpawnOnMove.label>留下痕迹</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
-  <SpawnOnMove.description>该角色移动时会留下痕迹。</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
-  <SpawnOnMove.LeavesTrailOf>留下 {0} 的痕迹</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+  <SpawnOnMove.label>留下踪迹</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>此角色移动时会留下踪迹。</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>留下 {0} 的踪迹</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
 
-  <StaminaRegen.label>耐力恢复</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
-  <StaminaRegen.description>该角色的耐力会随着时间的推移自动恢复。</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
-  <StaminaRegen.StaminaRegeneration>耐力恢复 ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+  <StaminaRegen.label>耐力回复</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>此角色的耐力会随时间自动回复。</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>耐力回复 ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
 
-  <Starving.label>正在挨饿</Starving.label> <!-- <En>starving</En> -->
-  <Starving.description>你正在挨饿，需要吃点东西。除了不恢复生命值和不鉴定物品外，你的耐力恢复也停止了，并且会随着时间的推移慢慢失去生命值。饥饿的惩罚不会比这更严重了。</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
-  <Starving.Starving>正在挨饿 ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+  <Starving.label>饥饿</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>你正在挨饿，需要吃点东西。除了无法恢复生命值和鉴定物品外，你的体力恢复也会停止，并且会随着时间的推移缓慢地损失生命值。饥饿带来的惩罚不会比这更严重了。</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>饥饿 ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
 
   <TrialOfCrippling.label>致残试炼</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
-  <TrialOfCrippling.description>该角色正在进行致残试炼。他必须在短时间内摧毁一定数量的身体部位才能完成挑战并获得奖励。</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.description>此角色正在进行致残试炼。他必须在短时间内摧毁一定数量的身体部位，才能完成挑战并获得奖励。</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
   <TrialOfCrippling.TrialOfCrippling>致残试炼 ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
-  <TrialOfCrippling.TrialOfCripplingIsIn>该角色正在进行致残试炼。他必须在 {1} 回合内摧毁 {0} 个身体部位才能完成挑战并获得奖励。</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>此角色正在进行致残试炼。他必须在 {1} 回合内摧毁 {0} 个身体部位，才能完成挑战并获得奖励。</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
 
   <TrialOfSwiftKiller.label>迅捷杀手试炼</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
-  <TrialOfSwiftKiller.description>该角色正在进行迅捷杀手试炼。他必须在短时间内杀死一定数量的有价值的敌人才能完成挑战并获得奖励。</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.description>此角色正在进行迅捷杀手试炼。他必须在短时间内杀死一定数量的有价值的敌人，才能完成挑战并获得奖励。</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
   <TrialOfSwiftKiller.TrialOfSwiftKiller>迅捷杀手试炼 ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
-  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>该角色正在进行迅捷杀手试炼。他必须在 {1} 回合内杀死 {0} 个有价值的敌人才能完成挑战并获得奖励。</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>此角色正在进行迅捷杀手试炼。他必须在 {1} 回合内杀死 {0} 个有价值的敌人，才能完成挑战并获得奖励。</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
 
   <TrialOfUnblemished.label>无瑕试炼</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
-  <TrialOfUnblemished.description>该角色正在进行无瑕试炼。他必须在不损失任何生命值的情况下杀死一定数量的有价值的敌人才能完成挑战并获得奖励。</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.description>此角色正在进行无瑕试炼。他必须在不损失任何生命值的情况下杀死一定数量的有价值的敌人，才能完成挑战并获得奖励。</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
   <TrialOfUnblemished.TrialOfUnblemished>无瑕试炼 ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
-  <TrialOfUnblemished.TrialOfUnblemishedIs>该角色正在进行无瑕试炼。他必须在不损失任何生命值的情况下杀死 {0} 个有价值的敌人才能完成挑战并获得奖励。</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>此角色正在进行无瑕试炼。他必须在不损失任何生命值的情况下杀死 {0} 个有价值的敌人，才能完成挑战并获得奖励。</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
 
-  <Wet.label>湿</Wet.label> <!-- <En>wet</En> -->
-  <Wet.description>该角色湿了，这使他们获得50%的火焰伤害抗性，但自然耐力恢复速度也减半。</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+  <Wet.label>潮湿</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>此角色处于潮湿状态，这会给予他们 50% 的火焰伤害抗性，但也会使体力自然恢复速度减半。</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
 
 </SpecTranslations>

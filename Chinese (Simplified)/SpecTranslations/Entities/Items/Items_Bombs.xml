@@ -1,21 +1,21 @@
 ﻿<SpecTranslations>
 
-  <Bomb_Damage.label>炸弹</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
-  <Bomb_Damage.description>目标及所有相邻单位将受到伤害。</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
+  <Bomb_Damage.label>爆炸弹</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
+  <Bomb_Damage.description>对目标及其周围的所有单位造成伤害。</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
 
-  <Bomb_Drunkenness.label>醉酒炸弹</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
-  <Bomb_Drunkenness.description>目标及所有相邻单位将陷入醉酒状态。</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
+  <Bomb_Drunkenness.label>醉酒弹</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
+  <Bomb_Drunkenness.description>使目标及其周围的所有单位陷入醉酒状态。</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
 
-  <Bomb_Fire.label>火焰炸弹</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
-  <Bomb_Fire.description>爆炸将在所有相邻的单元格引发火焰。</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
+  <Bomb_Fire.label>燃烧弹</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
+  <Bomb_Fire.description>爆炸会在所有相邻的单元格中引发火焰。</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
 
-  <Bomb_Freeze.label>冰冻炸弹</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
-  <Bomb_Freeze.description>目标及所有相邻单位将被冰冻。</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
+  <Bomb_Freeze.label>冰冻弹</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
+  <Bomb_Freeze.description>使目标及其周围的所有单位被冰冻。</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
 
-  <Bomb_Poison.label>毒气炸弹</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
-  <Bomb_Poison.description>每个相邻的单元格都会出现一团毒云。</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
+  <Bomb_Poison.label>剧毒弹</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
+  <Bomb_Poison.description>在每个相邻的单元格中生成一片毒云。</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
 
   <Bomb_Smoke.label>烟雾弹</Bomb_Smoke.label> <!-- <En>smoke bomb</En> -->
-  <Bomb_Smoke.description>每个相邻的单元格都会出现一团烟雾。</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
+  <Bomb_Smoke.description>在每个相邻的单元格中生成一片烟云。</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
 
 </SpecTranslations>

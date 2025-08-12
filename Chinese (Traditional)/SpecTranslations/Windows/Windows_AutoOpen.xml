@@ -1,0 +1,27 @@
+﻿<SpecTranslations>
+
+  <Character.label>角色</Character.label> <!-- <En>character</En> -->
+  <Character.description>顯示關於你角色的資訊。</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>圖鑑</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>顯示你曾見過的所有物品和生物。</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>地城地圖</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>顯示此地城的地圖。</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>陣營</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>顯示此地城中的所有陣營。</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>物品欄</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>顯示你物品欄中的物品。\n\n拖放以重新排序。重新排序物品不消耗回合，所以你可以在戰鬥中安全地進行操作。\n\n裝備和卸下物品是即時的，但其他動作，如喝藥水或投擲藥水，會消耗一個回合。</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>任務</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>顯示你所有的任務。</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>快捷欄</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>快捷欄中的物品可以透過按鍵盤上的數字鍵來使用。</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>技能</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>花費技能點數來學習新技能。</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

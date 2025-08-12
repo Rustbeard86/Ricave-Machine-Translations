@@ -1,63 +1,63 @@
 ﻿<SpecTranslations>
 
   <AllIn.label>孤注一掷</AllIn.label> <!-- <En>all in</En> -->
-  <AllIn.description>开局获得额外技能点，但之后无法再获得更多。</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
-  <AllIn.goodEffects><li>开局获得3个技能点</li></AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
-  <AllIn.badEffects><li>无法获得更多技能点</li></AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+  <AllIn.description>以额外的技能点开局，但你将永远无法再获得更多。</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
+  <AllIn.goodEffects>开局拥有3个技能点</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects>无法获得更多技能点</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
 
   <Angel.label>天使</Angel.label> <!-- <En>angel</En> -->
-  <Angel.description>能够飞行并对恶魔造成更多伤害，但代价是对火焰、毒素和魔法伤害易伤。</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
+  <Angel.description>能够飞行并对恶魔造成更多伤害，但代价是对火焰、毒素和魔法伤害更加脆弱。</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
 
   <Berserker.label_2>狂战士</Berserker.label_2> <!-- <En>berserker</En> -->
-  <Berserker.description_2>每次有效击杀后暂时造成更多伤害，但自身也变得更加脆弱。</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
-  <Berserker.goodEffects><li>有效击杀后6回合内物理伤害提高25%</li></Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
-  <Berserker.badEffects><li>有效击杀后6回合内受到的物理伤害增加25%</li></Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.description_2>每次有效击杀后，暂时造成更多伤害，但自身也会变得更加脆弱。</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
+  <Berserker.goodEffects>有效击杀后6回合内，造成的物理伤害增加25%</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects>有效击杀后6回合内，受到的物理伤害增加25%</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
 
   <BossHunter.label>首领猎人</BossHunter.label> <!-- <En>boss hunter</En> -->
-  <BossHunter.description>对所有首领造成更多伤害，但它们会清醒着开始战斗。</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
-  <BossHunter.badEffects><li>所有首领清醒着开始战斗</li></BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+  <BossHunter.description>对所有首领造成更多伤害，但他们开局时就是清醒状态。</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
+  <BossHunter.badEffects>所有首领开局时都是清醒状态</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
 
-  <Bulky.label>笨重</Bulky.label> <!-- <En>bulky</En> -->
-  <Bulky.description>每级获得更多最大生命值，但移动声音更大。</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
+  <Bulky.label>壮硕</Bulky.label> <!-- <En>bulky</En> -->
+  <Bulky.description>每级获得更多最大生命值，但代价是移动声音更大。</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
 
   <Explorer.label>探险家</Explorer.label> <!-- <En>explorer</En> -->
-  <Explorer.description>开局获得额外装备并找到更多金币，但最大耐力和法力值降低。</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
+  <Explorer.description>以额外的装备开局并能找到更多金币，但代价是最大耐力和法力值降低。</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
 
   <Giant.label>巨人</Giant.label> <!-- <En>giant</En> -->
-  <Giant.description>免疫推拉效果，并获得少量最大生命值加成，但饥饿速度加快，坠落伤害增加，商店价格更高。</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
+  <Giant.description>免疫推和拉，并获得少量最大生命值加成，但代价是饥饿速度加快、坠落伤害更高以及物价更高。</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
 
-  <Insectoid.label>类昆虫</Insectoid.label> <!-- <En>insectoid</En> -->
-  <Insectoid.description>与蜘蛛成为朋友并获得一些毒素抗性，但流浪者会对你产生敌意且对火焰易伤。</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
+  <Insectoid.label>类虫族</Insectoid.label> <!-- <En>insectoid</En> -->
+  <Insectoid.description>与蜘蛛成为朋友并获得一定的毒素抗性，但代价是流浪者会对你抱有敌意，并且你对火焰更加脆弱。</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
 
   <LastStand.label>背水一战</LastStand.label> <!-- <En>last stand</En> -->
-  <LastStand.description>生命值低时造成更多伤害，但耐力恢复速度变慢。</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
+  <LastStand.description>生命值低时造成更多伤害，但代价是耐力恢复速度减慢。</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
 
   <LizardSkin.label>蜥蜴皮肤</LizardSkin.label> <!-- <En>lizard skin</En> -->
-  <LizardSkin.description>获得毒素、流血和骨折免疫，治疗速度加快，但最大生命值减半。</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
+  <LizardSkin.description>免疫中毒、流血和骨折，并且治疗速度加快，但代价是最大生命值减半。</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
 
   <MoleRat.label>鼹鼠</MoleRat.label> <!-- <En>mole-rat</En> -->
-  <MoleRat.description>能够挖掘并获得一些元素抗性，但每级获得的最大生命值减少。</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
-  <MoleRat.goodEffects><li>无需铲子即可挖掘</li></MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+  <MoleRat.description>能够挖掘并获得一定的元素抗性，但代价是每级获得的最高生命值减少。</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
+  <MoleRat.goodEffects>无需铲子即可挖掘</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
 
   <NightOwl.label>夜猫子</NightOwl.label> <!-- <En>night owl</En> -->
-  <NightOwl.description>夜晚视力更好，但白天视力更差。</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
-  <NightOwl.goodEffects><li>19:00至7:00期间视野范围+1</li></NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
-  <NightOwl.badEffects><li>7:00至19:00期间视野范围-1</li></NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+  <NightOwl.description>夜间看得更清楚，但白天视力更差。</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
+  <NightOwl.goodEffects>19:00至7:00期间视野范围+1</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects>7:00至19:00期间视野范围-1</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
 
   <Pacifist.label_2>和平主义者</Pacifist.label_2> <!-- <En>pacifist</En> -->
-  <Pacifist.description>所有商店物品免费，升级速度加倍，但每次有效击杀会损失1点生命值。</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
+  <Pacifist.description>所有商店物品免费，升级速度加倍，但每次有效击杀会消耗你1点生命值。</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
 
   <Scary.label>恐怖</Scary.label> <!-- <En>scary</En> -->
-  <Scary.description>所有被你唤醒的敌人都会陷入恐慌，但商店价格更高，教派会对你产生敌意，最大耐力降低。此外，所有幽灵都会跟随你且不掉落战利品。</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
-  <Scary.goodEffects><li>被你唤醒的敌人会恐慌3回合</li></Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
-  <Scary.badEffects><li>幽灵会跟随你且不掉落战利品</li></Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+  <Scary.description>所有被你惊醒的敌人都会陷入恐慌，但代价是物价更高、邪教徒会对你抱有敌意、最大耐力降低。此外，所有幽灵都会跟随你且不掉落任何战利品。</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
+  <Scary.goodEffects>被你惊醒的敌人会恐慌3回合</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects>幽灵会跟随你且不掉落任何战利品</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
 
   <Shaman.label>萨满</Shaman.label> <!-- <En>shaman</En> -->
-  <Shaman.description>每次有效击杀获得一点法力值，但物品栏格子更少。</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
+  <Shaman.description>每次有效击杀获得一点法力值，但代价是物品栏格子减少。</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
 
   <Vampire.label>吸血鬼</Vampire.label> <!-- <En>vampire</En> -->
-  <Vampire.description>每次有效击杀恢复一点生命值，但白天无法恢复生命，对火焰易伤，且狗会对你产生敌意。</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
-  <Vampire.badEffects><li>7:00至19:00期间无生命恢复7:00至19:00期间视野范围-1对狗敌对</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <Vampire.description>每次有效击杀恢复一点生命值，但代价是白天无法恢复生命、对火焰更加脆弱、并且狗会对你抱有敌意。</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
+  <Vampire.badEffects>7:00至19:00期间不恢复生命值7:00至19:00期间视野范围-1狗会对你抱有敌意</Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
   <li>-1 vision range from 7:00 to 19:00</li>
   <li>Hostile to dogs</li></En> -->
 

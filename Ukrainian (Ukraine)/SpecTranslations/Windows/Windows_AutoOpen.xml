@@ -1,0 +1,27 @@
+﻿<SpecTranslations>
+
+  <Character.label>персонаж</Character.label> <!-- <En>character</En> -->
+  <Character.description>Показує інформацію про вашого персонажа.</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>кодекс</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>Показує всі предмети та істот, яких ви коли-небудь бачили.</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>карта підземелля</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>Показує карту цього підземелля.</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>фракції</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>Показує всі фракції в цьому підземеллі.</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>інвентар</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>Показує предмети у вашому інвентарі.\n\nПеретягуйте, щоб змінити порядок. Зміна порядку предметів не займає ходу, тому це можна безпечно робити в бою.\n\nЕкіпірування та зняття предметів є миттєвим, але інші дії, як-от випивання або кидання зілля, займають один хід.</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>завдання</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>Показує всі ваші завдання.</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>панель швидкого доступу</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>До предметів на панелі швидкого доступу можна отримати доступ, натискаючи цифрові клавіші на клавіатурі.</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>навички</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>Витрачайте очки навичок, щоб вивчати нові навички.</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

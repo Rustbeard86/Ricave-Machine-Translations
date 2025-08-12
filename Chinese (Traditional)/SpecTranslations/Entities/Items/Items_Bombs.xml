@@ -1,0 +1,21 @@
+﻿<SpecTranslations>
+
+  <Bomb_Damage.label>爆炸彈</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
+  <Bomb_Damage.description>目標與所有相鄰單位將會受到傷害。</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
+
+  <Bomb_Drunkenness.label>醉酒彈</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
+  <Bomb_Drunkenness.description>目標與所有相鄰單位將會陷入醉酒狀態。</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
+
+  <Bomb_Fire.label>燃燒彈</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
+  <Bomb_Fire.description>爆炸將會點燃所有相鄰的格子。</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
+
+  <Bomb_Freeze.label>冰凍彈</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
+  <Bomb_Freeze.description>目標與所有相鄰單位將會被冰凍。</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
+
+  <Bomb_Poison.label>毒氣彈</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
+  <Bomb_Poison.description>每個相鄰的格子將會出現一團毒霧。</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
+
+  <Bomb_Smoke.label>煙霧彈</Bomb_Smoke.label> <!-- <En>smoke bomb</En> -->
+  <Bomb_Smoke.description>每個相鄰的格子將會出現一團煙霧。</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
+
+</SpecTranslations>

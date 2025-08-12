@@ -1,0 +1,111 @@
+﻿<SpecTranslations>
+
+  <AncientMechanism.label>стародавній механізм</AncientMechanism.label> <!-- <En>ancient mechanism</En> -->
+  <AncientMechanism.description>Один із трьох стародавніх механізмів, потрібних для розблокування стародавнього контейнера десь на цьому поверсі.</AncientMechanism.description> <!-- <En>One of the three ancient mechanisms needed to unlock the ancient container somewhere on this floor.</En> -->
+
+  <Bandage.label>бинт</Bandage.label> <!-- <En>bandage</En> -->
+  <Bandage.description>Бинти можна використовувати, щоб зупинити кровотечу або вилікувати зламану кістку. Ви також можете поєднати 2 бинти, щоб створити хірургічний набір для лікування втраченої кінцівки. (І ні, це не туалетний папір)</Bandage.description> <!-- <En>Bandages can be used to stop bleeding or heal a broken bone. You can also combine 2 of them to craft a surgical kit to heal a missing limb. (And no, it's not toilet paper)</En> -->
+
+  <BoxingGloves.label>боксерські рукавиці</BoxingGloves.label> <!-- <En>boxing gloves</En> -->
+  <BoxingGloves.description>Для швидкого відштовхування ворогів від себе.</BoxingGloves.description> <!-- <En>For quickly pushing enemies away from you.</En> -->
+
+  <Bread.label>хліб</Bread.label> <!-- <En>bread</En> -->
+  <Bread.description>Буханець смачного хліба. Зменшує голод і відновлює трохи ОЗ.</Bread.description> <!-- <En>A loaf of tasty bread. Reduces hunger and heals some HP.</En> -->
+
+  <ChainItem.label>ланцюг</ChainItem.label> <!-- <En>chain</En> -->
+  <ChainItem.description>Важкий залізний ланцюг. Використайте його на людині поруч, щоб прикувати її до стовпа з ланцюгом.</ChainItem.description> <!-- <En>A heavy iron chain. Use it on a nearby person to attach them to a chain post.</En> -->
+
+  <CookedFish.label>приготована риба</CookedFish.label> <!-- <En>cooked fish</En> -->
+  <CookedFish.description>Поживна, приготована риба.</CookedFish.description> <!-- <En>A nutritious, cooked fish.</En> -->
+
+  <CookedMeat.label>приготоване м'ясо</CookedMeat.label> <!-- <En>cooked meat</En> -->
+  <CookedMeat.description>Поживний шматок м'яса.</CookedMeat.description> <!-- <En>A nutritious piece of meat.</En> -->
+
+  <EmptyVial.label>порожня колба</EmptyVial.label> <!-- <En>empty vial</En> -->
+  <EmptyVial.description>Ви можете наповнити її водою, а потім змішати зі спеціальним інгредієнтом, щоб створити зілля.</EmptyVial.description> <!-- <En>You can fill it with water and then mix with a special ingredient to make a potion.</En> -->
+
+  <Extinguisher.label>вогнегасник</Extinguisher.label> <!-- <En>extinguisher</En> -->
+  <Extinguisher.description>Дозволяє гасити вогонь (також і на собі).</Extinguisher.description> <!-- <En>Lets you extinguish fires (also on yourself).</En> -->
+
+  <Fish.label>риба</Fish.label> <!-- <En>fish</En> -->
+  <Fish.description>Смачна риба. Ви можете з'їсти її або використати для виготовлення риб'ячого жиру.</Fish.description> <!-- <En>A tasty fish. You can either eat it or use it to make fish oil.</En> -->
+
+  <FishingRod.label>вудка</FishingRod.label> <!-- <En>fishing rod</En> -->
+  <FishingRod.description>Можна використовувати для ловлі поживної риби або миттєвого притягування ворогів до себе.</FishingRod.description> <!-- <En>Can be used to catch nutritious fish or instantly pull enemies towards you.</En> -->
+
+  <FishOil.label>риб'ячий жир</FishOil.label> <!-- <En>fish oil</En> -->
+  <FishOil.description>Пляшечка риб'ячого жиру для лікування хвороб.</FishOil.description> <!-- <En>A bottle of fish oil for curing diseases.</En> -->
+
+  <FrostbiteTalon.label>кіготь обмороження</FrostbiteTalon.label> <!-- <En>frostbite talon</En> -->
+  <FrostbiteTalon.description>Гострий кіготь якоїсь таємничої істоти. Швидко заморожує супротивника на короткий час.</FrostbiteTalon.description> <!-- <En>A sharp claw of some mysterious beast. Will quickly freeze the opponent for a short time.</En> -->
+
+  <Gold.label>золоті монети</Gold.label> <!-- <En>gold coins</En> -->
+  <Gold.description>Стос золотих монет. У цьому підземеллі можуть бути люди, що бажають торгувати. Золото — не постійний предмет, тому ви втратите все, якщо забіг завершиться.</Gold.description> <!-- <En>A stack of gold coins. There may be some people willing to trade in this dungeon. Gold isn't a permanent item, so you'll lose all of it if the run ends.</En> -->
+
+  <GoldenKey.label>золотий ключ</GoldenKey.label> <!-- <En>golden key</En> -->
+  <GoldenKey.description>Рідкісний ключ, що відчиняє золоті двері.</GoldenKey.description> <!-- <En>A rare key which opens a golden door.</En> -->
+
+  <GreatShield.label>великий щит</GreatShield.label> <!-- <En>great shield</En> -->
+  <GreatShield.description>Більш ефективна версія стандартного щита, що дозволяє блокувати всі атаки від обраної цілі протягом двох ходів. Ефект скасовується, якщо ви атакуєте ціль.</GreatShield.description> <!-- <En>A more efficient version of the standard shield which lets you block all attacks from the designated target for two turns. The effect will be canceled if you attack the target.</En> -->
+
+  <GreenKeyFragment.label>фрагмент зеленого ключа</GreenKeyFragment.label> <!-- <En>green key fragment</En> -->
+  <GreenKeyFragment.description>Один із трьох фрагментів зеленого ключа. Якщо ви зберете їх усі, ви зможете відкрити зелену скриню десь у цьому підземеллі.</GreenKeyFragment.description> <!-- <En>One of the three green key fragments. If you collect all of them, you can unlock the green chest somewhere in this dungeon.</En> -->
+
+  <Hammer.label>молоток</Hammer.label> <!-- <En>hammer</En> -->
+  <Hammer.description>Дозволяє руйнувати крихкі об'єкти, наприклад, цегляні стіни. Не зброя.</Hammer.description> <!-- <En>Lets you destroy fragile objects like brick walls. Not a weapon.</En> -->
+
+  <HolyWater.label>свята вода</HolyWater.label> <!-- <En>holy water</En> -->
+  <HolyWater.description>Пляшка води з деякими цілющими властивостями.</HolyWater.description> <!-- <En>A bottle of water with some healing properties.</En> -->
+
+  <Honey.label>мед</Honey.label> <!-- <En>honey</En> -->
+  <Honey.description>Трохи смачного меду.</Honey.description> <!-- <En>Some delicious honey.</En> -->
+
+  <Medkit.label>аптечка</Medkit.label> <!-- <En>medkit</En> -->
+  <Medkit.description>Хороший спосіб відновити трохи ОЗ, якщо ніхто не бачить.</Medkit.description> <!-- <En>A good way to heal some HP if nobody sees you.</En> -->
+
+  <Pickaxe.label>кайло</Pickaxe.label> <!-- <En>pickaxe</En> -->
+  <Pickaxe.description>Дозволяє добувати червоні, зелені та сині кристали. Кристали можна використовувати для зачарування вашого спорядження.</Pickaxe.description> <!-- <En>Lets you mine red, green, and blue crystals. Crystals can be used to enchant your gear.</En> -->
+
+  <PlanksItem.label>дошки</PlanksItem.label> <!-- <En>planks</En> -->
+  <PlanksItem.description>Дошки можна використовувати для забарикадування дверей. Єдиний спосіб пройти через забарикадовані двері — знищити їх.</PlanksItem.description> <!-- <En>Planks can be used to bar doors. The only way to get through barred doors is to destroy them.</En> -->
+
+  <PocketKnife.label>кишеньковий ніж</PocketKnife.label> <!-- <En>pocket knife</En> -->
+  <PocketKnife.description>Кишеньковий ніж, який можна використовувати як швидку, допоміжну зброю, оскільки його використання не займає ходу.</PocketKnife.description> <!-- <En>A pocket knife which can be used as a quick, secondary weapon, since using it takes no turn.</En> -->
+
+  <RawMeat.label>сире м'ясо</RawMeat.label> <!-- <En>raw meat</En> -->
+  <RawMeat.description>Вживання сирого м'яса спричинить хворобу. Вам потрібно якось його приготувати.</RawMeat.description> <!-- <En>Eating raw meat will make you sick. You need to cook it somehow.</En> -->
+
+  <RoyalKey.label>королівський ключ</RoyalKey.label> <!-- <En>royal key</En> -->
+  <RoyalKey.description>Прикрашений ключ, що відчиняє королівські двері.</RoyalKey.description> <!-- <En>An ornamented key which opens the royal door.</En> -->
+
+  <Shield.label_2>щит</Shield.label_2> <!-- <En>shield</En> -->
+  <Shield.description_2>Щити можна використовувати для блокування всіх атак від обраної цілі протягом одного ходу. Використання щита не займає ходу. Ефект скасовується, якщо ви атакуєте ціль.</Shield.description_2> <!-- <En>Shields can be used to block all attacks from the designated target for one turn. Using a shield takes no turn. The effect will be canceled if you attack the target.</En> -->
+
+  <Shovel.label>лопата</Shovel.label> <!-- <En>shovel</En> -->
+  <Shovel.description>Дозволяє копати в землі. Хтозна, що ви знайдете.</Shovel.description> <!-- <En>Lets you dig in dirt. Who knows what you'll find.</En> -->
+
+  <SilverKey.label>срібний ключ</SilverKey.label> <!-- <En>silver key</En> -->
+  <SilverKey.description>Одноразовий ключ, що відчиняє срібні двері та срібні скрині.</SilverKey.description> <!-- <En>A single-use key which opens silver doors and silver chests.</En> -->
+
+  <StaminaBooster.label>підсилювач витривалості</StaminaBooster.label> <!-- <En>stamina booster</En> -->
+  <StaminaBooster.description>Швидкий спосіб відновити трохи витривалості.</StaminaBooster.description> <!-- <En>A quick way to restore some stamina.</En> -->
+
+  <Superwatch.label>супергодинник</Superwatch.label> <!-- <En>superwatch</En> -->
+  <Superwatch.description>Магічний годинник, що дозволяє перемотувати час. Це покращена версія стандартного годинника.</Superwatch.description> <!-- <En>A magic watch which lets you rewind time. This is an upgraded version of the standard watch.</En> -->
+
+  <SurgicalKit.label>хірургічний набір</SurgicalKit.label> <!-- <En>surgical kit</En> -->
+  <SurgicalKit.description>Відновлюйте втрачені частини тіла на ходу.</SurgicalKit.description> <!-- <En>Restore missing body parts on the go.</En> -->
+
+  <Teleporter.label>телепорт</Teleporter.label> <!-- <En>teleporter</En> -->
+  <Teleporter.description>Телепортує у вказане місце. Добре для втечі з небезпечних ситуацій.</Teleporter.description> <!-- <En>Teleport to the designated location. Good for escaping from dangerous situations.</En> -->
+
+  <ToxicFish.label>отруйна риба</ToxicFish.label> <!-- <En>toxic fish</En> -->
+  <ToxicFish.description>Не найкраща ідея їсти цю рибу.</ToxicFish.description> <!-- <En>Not a good idea to eat this one.</En> -->
+
+  <VialWithWater.label>колба з водою</VialWithWater.label> <!-- <En>vial with water</En> -->
+  <VialWithWater.description>Змішайте її зі спеціальним інгредієнтом, щоб створити зілля.</VialWithWater.description> <!-- <En>Mix it with a special ingredient to make a potion.</En> -->
+
+  <Watch.label>годинник</Watch.label> <!-- <En>watch</En> -->
+  <Watch.description>Магічний годинник, що дозволяє перемотувати час.</Watch.description> <!-- <En>A magic watch which lets you rewind time.</En> -->
+
+</SpecTranslations>

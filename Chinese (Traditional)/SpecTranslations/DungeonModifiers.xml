@@ -1,0 +1,33 @@
+﻿<SpecTranslations>
+
+  <EveryoneStartsAwake.label>全員初始清醒</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>全員將以清醒狀態開始。</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>每層額外一個小頭目</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>每層會額外生成一個小頭目（僅在地城有小頭目時適用）。</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>敵人數量減少 20%</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>所有樓層的敵人數量將減少 20%。</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>所有物品初始已鑑定</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>你在地城中找到的所有物品都將是已鑑定狀態。</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>敵人數量增加 20%</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>所有樓層的敵人數量將增加 20%。</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>更多陷阱</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>地城中將生成更多地刺和感應炸彈。</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>不會飢餓</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>你將永遠不會感到飢餓。</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>沒有小頭目</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>不會生成任何小頭目（僅在地城有小頭目時適用）。</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>沒有隨機事件</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>無論你在地城中待多久，都不會發生任何隨機事件（僅在地城有隨機事件時適用）。</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>沒有庇護所</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>不會生成任何庇護所（僅在地城有庇護所時適用）。</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

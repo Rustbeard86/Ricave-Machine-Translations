@@ -1,24 +1,24 @@
 ﻿<SpecTranslations>
 
   <ChooseSpell.label>选择法术</ChooseSpell.label> <!-- <En>choose spell</En> -->
-  <ChooseSpell.ANewSpellIsChosen>选择了新法术 {0}</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+  <ChooseSpell.ANewSpellIsChosen>选择了新的法术 {0}</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
 
-  <MoveSelf.label>移动自己</MoveSelf.label> <!-- <En>move self</En> -->
-  <MoveSelf.Moves>{0} 移动 {1}</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+  <MoveSelf.label>移动</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0}向{1}移动</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
 
   <PickUpItem.label>拾取物品</PickUpItem.label> <!-- <En>pick up item</En> -->
-  <PickUpItem.PicksUp>{0} 拾取了 {1}</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+  <PickUpItem.PicksUp>{0}拾取了{1}</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
 
   <ReorderSpell.label>重排法术</ReorderSpell.label> <!-- <En>reorder spell</En> -->
-  <ReorderSpell.IsReordered>{1} 已重排</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+  <ReorderSpell.IsReordered>{1}已重新排序</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
 
   <Sleep.label>睡眠</Sleep.label> <!-- <En>sleep</En> -->
-  <Sleep.Sleeps>{0} 睡着了</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+  <Sleep.Sleeps>{0}开始睡眠</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
 
   <Use.label>使用</Use.label> <!-- <En>use</En> -->
-  <Use.UsesOn>{0} 对 {2} 使用了 {1}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+  <Use.UsesOn>{0}对{2}使用了{1}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
 
   <Wait.label>等待</Wait.label> <!-- <En>wait</En> -->
-  <Wait.Waits>{0} 等待</Wait.Waits> <!-- <En>{0} waits</En> -->
+  <Wait.Waits>{0}等待</Wait.Waits> <!-- <En>{0} waits</En> -->
 
 </SpecTranslations>

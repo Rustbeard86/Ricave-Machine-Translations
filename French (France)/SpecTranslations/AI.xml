@@ -1,0 +1,31 @@
+﻿<SpecTranslations>
+
+  <AttackAndBackOff.label>s'approche et attaque, puis recule pour éviter d'être touché</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>attaque, puis s'enfuit pendant 8 tours sauf s'il est acculé</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>ne s'approche pas en premier mais reste une fois approché</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>s'enfuit toujours</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>garde ses distances sauf s'il est acculé</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>garde ses distances sauf s'il est acculé ou n'a pas d'arme</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>suit le joueur et attaque (membre du groupe)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>suit le joueur et attaque de manière opportuniste</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>s'approche et attaque</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>reste immobile ou s'enfuit s'il est attaqué</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>reste immobile</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>reste immobile et soigne les alliés</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>reste immobile ou s'enfuit s'il est attaqué</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>vole puis s'enfuit</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

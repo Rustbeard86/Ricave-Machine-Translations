@@ -1,0 +1,21 @@
+﻿<SpecTranslations>
+
+  <Bomb_Damage.label>разрывная бомба</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
+  <Bomb_Damage.description>Цель и все, кто находится рядом, получат урон.</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
+
+  <Bomb_Drunkenness.label>бомба опьянения</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
+  <Bomb_Drunkenness.description>Цель и все, кто находится рядом, опьянеют.</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
+
+  <Bomb_Fire.label>зажигательная бомба</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
+  <Bomb_Fire.description>Взрыв подожжёт все соседние клетки.</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
+
+  <Bomb_Freeze.label>замораживающая бомба</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
+  <Bomb_Freeze.description>Цель и все, кто находится рядом, будут заморожены.</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
+
+  <Bomb_Poison.label>ядовитая бомба</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
+  <Bomb_Poison.description>В каждой соседней клетке появится ядовитое облако.</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
+
+  <Bomb_Smoke.label>дымовая бомба</Bomb_Smoke.label> <!-- <En>smoke bomb</En> -->
+  <Bomb_Smoke.description>В каждой соседней клетке появится дымовое облако.</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,33 @@
+﻿<SpecTranslations>
+
+  <BlindingFlashAbility.label>ослепляющая вспышка</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>На короткое время ослепляет всех, кто вас видит. Не тратит ход.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>обман</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>На короткое время делает цель враждебной ко всем остальным. Не тратит ход.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>опутать соседних</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>На короткое время опутывает всех, кто находится рядом с вами. Не тратит ход.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>ускорение</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>На короткое время позволяет действовать дважды за ход. Не тратит ход.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>прыжок</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Мгновенно прыгнуть на любую соседнюю клетку, даже по вертикали. Не тратит ход.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>толчок</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Отталкивает любого на 1 клетку. Не тратит ход.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>случайное бегство</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Телепортирует в случайное место на карте. Не тратит ход.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>создать лиану</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Создаёт лианы в указанном месте и позволяет взобраться по ним.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>ядовитое облако</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Создаёт облако яда в указанном месте. Не тратит ход.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>призвать фантома</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Призывает дружественного фантома для помощи в бою. Одновременно может быть жив только один фантом.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

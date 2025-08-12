@@ -1,0 +1,33 @@
+﻿<SpecTranslations>
+
+  <EveryoneStartsAwake.label>tout le monde commence éveillé</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>Tout le monde commencera éveillé.</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>mini-boss supplémentaire par étage</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>Un mini-boss supplémentaire apparaîtra à chaque étage (s'applique uniquement si le donjon comporte des mini-boss).</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>20% d'ennemis en moins</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>Tous les étages auront 20% d'ennemis en moins.</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>tous les objets identifiés</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>Tous les objets que vous trouverez dans le donjon seront déjà identifiés.</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>20% d'ennemis en plus</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>Tous les étages auront 20% d'ennemis en plus.</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>plus de pièges</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>Plus de pics et de bombes de proximité apparaîtront dans le donjon.</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>pas de faim</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>Vous n'aurez jamais faim.</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>pas de mini-boss</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>Aucun mini-boss n'apparaîtra (s'applique uniquement si le donjon comporte des mini-boss).</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>pas d'événements aléatoires</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>Aucun événement aléatoire ne surviendra, peu importe le temps passé dans le donjon (s'applique uniquement si le donjon comporte des événements aléatoires).</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>pas d'abris</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>Aucun abri ne sera généré (s'applique uniquement si le donjon comporte des abris).</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

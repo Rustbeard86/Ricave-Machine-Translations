@@ -1,0 +1,21 @@
+﻿<SpecTranslations>
+
+  <Bomb_Damage.label>bomba explosiva</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
+  <Bomb_Damage.description>El objetivo y todos los adyacentes recibirán daño.</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
+
+  <Bomb_Drunkenness.label>bomba de embriaguez</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
+  <Bomb_Drunkenness.description>El objetivo y todos los adyacentes se emborracharán.</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
+
+  <Bomb_Fire.label>bomba de fuego</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
+  <Bomb_Fire.description>La explosión provocará incendios en todas las casillas adyacentes.</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
+
+  <Bomb_Freeze.label>bomba de hielo</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
+  <Bomb_Freeze.description>El objetivo y todos los adyacentes se congelarán.</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
+
+  <Bomb_Poison.label>bomba de veneno</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
+  <Bomb_Poison.description>Una nube de veneno aparecerá en cada casilla adyacente.</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
+
+  <Bomb_Smoke.label>bomba de humo</Bomb_Smoke.label> <!-- <En>smoke bomb</En> -->
+  <Bomb_Smoke.description>Una nube de humo aparecerá en cada casilla adyacente.</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,67 @@
+﻿<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>尤爾登護身符</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>以尤爾登護身符開始遊戲。當配戴者即將死亡時，將會完全治癒一次。此外，附近的所有敵人都會死亡。此為單次性加成，且僅適用於你的下一場遊戲。</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>生命藥水</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>開始遊戲時，你的物品欄中會有一瓶額外的生命藥水。此為單次性加成，且僅適用於你的下一場遊戲。</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>卷軸</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>開始遊戲時，你的物品欄中會有一個隨機卷軸。此為單次性加成，且僅適用於你的下一場遊戲。</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>盾牌</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>開始遊戲時，你的物品欄中會有一個盾牌。它能讓你格擋敵人的攻擊。</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>你已為之後的遊戲解鎖了盾牌！你可以用它來格擋敵人的攻擊。\n\n這在對付遠程敵人時特別有用，因為你可以安全地接近他們而不會被擊中。\n\n你不能在格擋敵人攻擊的同時攻擊他——這樣效果會被抵消。\n\n使用盾牌很累，所以會消耗耐力。</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>長矛</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>開始遊戲時，你的物品欄中會有一支額外的長矛。可以把它扔向敵人或用來觸發陷阱。</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>你已為之後的遊戲解鎖了長矛！你可以用它從遠處攻擊敵人或觸發陷阱。\n\n等待敵人走到尖刺下方或壁掛式大砲旁邊，然後向陷阱投擲長矛以觸發它。\n\n投擲長矛很累，所以會消耗耐力。除非你處於飢餓狀態，否則耐力會自動恢復。</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>劍</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>開始遊戲時，你的物品欄中会有一把劍。此為單次性加成，且僅適用於你的下一場遊戲。</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>手錶</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>開始遊戲時，你的物品欄中會有一隻手錶。它能讓你倒轉時間。</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>你已為之後的遊戲解鎖了魔法手錶！它能讓你隨心所欲地倒轉時間。\n\n按下 [Rewind] 來倒轉上一回合。\n\n手錶一次可以倒轉的回合數有限，但每當你移動時它就會充電。</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>金幣 x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>在地城中找到比平時多 25% 的金幣。此為單次性加成，且僅適用於你的下一場遊戲。</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>走廊</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>獲得進入大廳走廊的權限。</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>100 級雕像</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>收到一座紀念達到 100 級的雕像。你可以將它放置在大廳的私人房間裡。</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>恭喜達到 100 級！\n\n你已收到一座特別的雕像，可以將它放置在你的私人房間裡，以紀念這項偉大的成就。</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>25 級雕像</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>收到一座紀念達到 25 級的雕像。你可以將它放置在大廳的私人房間裡。</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>恭喜達到 25 級！\n\n你已收到一座特別的雕像，可以將它放置在你的私人房間裡，以紀念這項偉大的成就。</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>50 級雕像</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>收到一座紀念達到 50 級的雕像。你可以將它放置在大廳的私人房間裡。</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>恭喜達到 50 級！\n\n你已收到一座特別的雕像，可以將它放置在你的私人房間裡，以紀念這項偉大的成就。</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>私人房間鑰匙</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>獲得進入你自己的私人房間的權限，之後你可以裝飾它。</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>你已解鎖了自己的私人房間！\n\n當你在房間裡時，可以按 [ShowInventory] 來裝飾它。\n\n一些較稀有的獎盃和裝飾品可能很難獲得——例如，它們可能藏在地城深處的某個地方。</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>分數 x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>在地城中獲得比平時多 100% 的分數。此為單次性加成，且僅適用於你的下一場遊戲。</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>星塵 x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>在地城中找到比平時多 50% 的星塵。此為單次性加成，且僅適用於你的下一場遊戲。</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>訓練室</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>獲得進入大廳訓練室的權限。</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>垃圾堆</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>清理一堆垃圾以獲得更多空間。</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>垃圾堆</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>清理一堆垃圾以獲得更多空間。</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>垃圾堆</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>清理一堆垃圾以獲得更多空間。</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

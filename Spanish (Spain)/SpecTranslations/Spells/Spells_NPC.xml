@@ -1,0 +1,33 @@
+﻿<SpecTranslations>
+
+  <Blindness.label>ceguera</Blindness.label> <!-- <En>blindness</En> -->
+  <Blindness.description>Deja ciego a alguien durante un breve periodo de tiempo.</Blindness.description> <!-- <En>Make someone blind for a short time.</En> -->
+
+  <Drunkenness.label>embriaguez</Drunkenness.label> <!-- <En>drunkenness</En> -->
+  <Drunkenness.description>Emborracha a alguien durante un breve periodo de tiempo.</Drunkenness.description> <!-- <En>Make someone drunk for a short time.</En> -->
+
+  <Entangle_NPC.label>inmovilizar</Entangle_NPC.label> <!-- <En>entangle</En> -->
+  <Entangle_NPC.description>Inmoviliza a alguien durante un breve periodo de tiempo. Ten en cuenta que los enemigos inmovilizados pueden seguir atacando desde su posición.</Entangle_NPC.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <FireBreath.label>aliento de fuego</FireBreath.label> <!-- <En>fire breath</En> -->
+  <FireBreath.description>Prende fuego al objetivo.</FireBreath.description> <!-- <En>Set the target on fire.</En> -->
+
+  <Heal_NPC.label>curar</Heal_NPC.label> <!-- <En>heal</En> -->
+  <Heal_NPC.description>Restaura parte de la salud.</Heal_NPC.description> <!-- <En>Restore some health.</En> -->
+
+  <Pull.label>atraer</Pull.label> <!-- <En>pull</En> -->
+  <Pull.description>Atrae a alguien hacia ti.</Pull.description> <!-- <En>Pull someone towards you.</En> -->
+
+  <Push_NPC.label>empujar</Push_NPC.label> <!-- <En>push</En> -->
+  <Push_NPC.description>Empuja a alguien lejos de ti.</Push_NPC.description> <!-- <En>Push someone away from you.</En> -->
+
+  <RandomMagicWall.label>muro mágico</RandomMagicWall.label> <!-- <En>magic wall</En> -->
+  <RandomMagicWall.description>Genera un muro mágico cerca del objetivo.</RandomMagicWall.description> <!-- <En>Spawn a magic wall near the target.</En> -->
+
+  <Strike_NPC.label>golpe</Strike_NPC.label> <!-- <En>strike</En> -->
+  <Strike_NPC.description>Inflige daño al objetivo.</Strike_NPC.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <SummonPhantom.label>invocar fantasma</SummonPhantom.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantom.description>Invoca un fantasma letal.</SummonPhantom.description> <!-- <En>Summon a deadly phantom.</En> -->
+
+</SpecTranslations>

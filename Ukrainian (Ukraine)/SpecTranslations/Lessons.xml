@@ -1,0 +1,82 @@
+﻿<SpecTranslations>
+
+  <BigMap.label>мінімапа</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>Утримуйте [Minimap] або [MinimapAlt], щоб побачити мапу.\n\nВи можете наближати та віддаляти мапу коліщатком миші.\n\nНайважливіші кімнати будуть позначені на вашій мапі.</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>Утримуйте [MinimapAlt], щоб побачити мапу.\n\nНайважливіші кімнати будуть позначені на вашій мапі.</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>лазіння</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>Перейдіть до наступної кімнати та підніміться драбиною.\n\nСтаньте на клітинку з драбиною, а потім натисніть [MoveForward], утримуючи [Fly], щоб піднятися.\n\nАбо ж ви можете просто натиснути на драбину.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>Перейдіть до наступної кімнати та підніміться драбиною.\n\nСтаньте на клітинку з драбиною, а потім натисніть [MoveForward], утримуючи [Fly], щоб піднятися.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>вживання зілля</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>Візьміть зілля зі скрині та випийте його.\n\nВи можете натиснути відповідну цифрову клавішу, щоб використати зілля з панелі швидкого доступу — у цьому випадку \"1\".</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>Візьміть зілля зі скрині та випийте його. Натисніть [Accept] для взаємодії.\n\nВи можете натиснути [QuickbarMenu], щоб відкрити меню з усіма предметами на вашій панелі швидкого доступу.</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>бій</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>Переможіть скелета. Натисніть, щоб атакувати. [Wait], щоб чекати.\n\nВороги не рухатимуться, якщо ви не рухаєтеся чи не атакуєте.\n\nПоради:\n- Завжди ретельно плануйте свій наступний хід.\n- Більшість ворогів смертельно небезпечні, і кожне очко здоров'я на вагу золота.\n- Уникайте оточення кількома ворогами одночасно.</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>Переможіть скелета. Натисніть [Accept], щоб атакувати, і [Wait], щоб чекати.\n\nВороги не рухатимуться, якщо ви не рухаєтеся чи не атакуєте.\n\nПоради:\n- Завжди ретельно плануйте свій наступний хід.\n- Більшість ворогів смертельно небезпечні, і кожне очко здоров'я на вагу золота.\n- Уникайте оточення кількома ворогами одночасно.</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>огляд</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>Закрийте інвентар, натиснувши [ShowInventory] ще раз, та утримуйте [Inspect] або [InspectAlt], щоб оглянути оточення.\n\nНе забувайте оглядати всіх ворогів, щоб знати, наскільки вони небезпечні.</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>Закрийте інвентар, натиснувши [ShowInventory] ще раз, та утримуйте [Inspect], щоб оглянути оточення.\n\nНе забувайте оглядати всіх ворогів, щоб знати, наскільки вони небезпечні.</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>Закрийте інвентар, натиснувши [ShowInventory] ще раз, та утримуйте [Inspect] або [InspectAlt], щоб оглянути оточення.\n\nНе забувайте оглядати всіх ворогів, щоб знати, наскільки вони небезпечні.</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>інвентар</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>Екіпіруйте меч.\n\nПеретягніть його, натисніть на нього правою кнопкою миші або натисніть \"1\", щоб використати його з панелі швидкого доступу.\n\nБільшість предметів не розпізнані, а деякі навіть прокляті!</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>Екіпіруйте меч.\n\nВи можете натиснути [QuickbarMenu], щоб відкрити меню з усіма предметами на вашій панелі швидкого доступу.\n\nБільшість предметів не розпізнані, а деякі навіть прокляті!</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>важіль</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>На кожному поверсі є важіль, що відчиняє ворота до кімнати з виходом. Натисніть на нього та покиньте локацію.\n\nАле будьте обережні! Активація важеля пробуджує всіх ворогів на поверсі!</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>На кожному поверсі є важіль, що відчиняє ворота до кімнати з виходом. Активуйте його, натиснувши [Accept], та покиньте локацію.\n\nАле будьте обережні! Активація важеля пробуджує всіх ворогів на поверсі!</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>пересування</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>Натискайте [MoveForward], [MoveLeft], [MoveBack], [MoveRight] для пересування.\n\nRicave — покрокова гра. Один рух займає один хід, тож усі інші також зроблять свій хід разом із вами.\n\nВи також можете пересуватися, натискаючи мишею.</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>Натискайте [MoveForward], [MoveLeft], [MoveBack], [MoveRight] для пересування.\n\nRicave — покрокова гра. Один рух займає один хід, тож усі інші також зроблять свій хід разом із вами.</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>відчинення дверей</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>Щоб відчинити двері, підійдіть до них або натисніть на них.</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>Щоб відчинити двері, підійдіть до них.</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>інвентар</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>Натисніть [ShowInventory], щоб відкрити свій інвентар.</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>підбирання предметів</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>Так само, щоб підібрати предмет, підійдіть до нього або натисніть на нього.</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>Так само, щоб підібрати предмет, підійдіть до нього.</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>швидка атака</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>Перейдіть до наступної кімнати та натисніть [AttackNearest] біля ящиків, щоб автоматично атакувати найближчу до вашої миші ціль.\n\nНатискати [AttackNearest] може бути зручніше, ніж використовувати мишу. Це дозволяє швидко знищувати кілька цілей навколо вас.</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>Перейдіть до наступної кімнати та натисніть [Accept], щоб знищити ящики. Повертайтеся за допомогою [RotateLeft] та [RotateRight], щоб стати до них обличчям.</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>обертання</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>Використовуйте мишу, щоб озирнутися, або натискайте [RotateLeft] чи [RotateRight] для обертання.\n\nНа відміну від пересування, обертання не витрачає хід.</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>Натискайте [RotateLeft] або [RotateRight] для обертання.\n\nНа відміну від пересування, обертання не витрачає хід.</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>рух боком</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>Натискайте [MoveLeft] або [MoveRight], щоб рухатися боком.</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>частини тіла</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Утримуйте [Fly] та натисніть на руку скелета, щоб знищити її, а потім добийте його як зазвичай.\n\nКожна частина тіла має власні очки здоров'я.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Утримуйте [Fly] та натисніть [Accept] або правий тригер на руці скелета, щоб знищити її, а потім добийте його як зазвичай.\n\nКожна частина тіла має власні очки здоров'я.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>підказки</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>Підказки важливі! Наведіть курсор на будь-що в екрані інвентаря, щоб дізнатися про це.\n\nНе забувайте оглядати кожен знайдений предмет.</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>Підказки важливі! Спробуйте їх, коли ваш екран інвентаря відкритий.\n\nНе забувайте оглядати кожен знайдений предмет.</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>очікування</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>Натисніть [Wait], щоб пропустити хід.\n\nОчікування дозволяє завдати шкоди першим, а також заряджає вашу наступну атаку.</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,31 @@
+﻿<SpecTranslations>
+
+  <AttackAndBackOff.label>靠近攻擊，然後後退以避免被擊中</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>攻擊後會逃跑 8 回合，除非被逼至絕境</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>不會主動靠近，但一旦被靠近就會待在原地</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>總是逃跑</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>保持距離，除非被逼至絕境</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>保持距離，除非被逼至絕境或沒有武器</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>跟隨玩家並攻擊（隊友）</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>跟隨玩家並伺機攻擊</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>靠近並攻擊</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>原地不動，受攻擊時逃跑</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>原地不動</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>原地不動並治療盟友</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>原地不動，受攻擊時逃跑</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>偷竊後逃跑</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

@@ -1,37 +1,37 @@
 ﻿<SpecTranslations>
 
   <AncientMechanism.label>古代机关</AncientMechanism.label> <!-- <En>ancient mechanism</En> -->
-  <AncientMechanism.description>解锁本层某处古代容器所需的三个古代机关之一。</AncientMechanism.description> <!-- <En>One of the three ancient mechanisms needed to unlock the ancient container somewhere on this floor.</En> -->
+  <AncientMechanism.description>解锁本层某处古代容器所需的三大古代机关之一。</AncientMechanism.description> <!-- <En>One of the three ancient mechanisms needed to unlock the ancient container somewhere on this floor.</En> -->
 
   <Bandage.label>绷带</Bandage.label> <!-- <En>bandage</En> -->
-  <Bandage.description>绷带可用于止血或治疗骨折。你也可以将2个绷带合成为一个手术工具来治疗缺失的肢体。（不，这不是卫生纸）</Bandage.description> <!-- <En>Bandages can be used to stop bleeding or heal a broken bone. You can also combine 2 of them to craft a surgical kit to heal a missing limb. (And no, it's not toilet paper)</En> -->
+  <Bandage.description>绷带可用于止血或治疗骨折。你也可以用2个绷带来制作一个手术包，以治疗缺失的肢体。（还有，这可不是卫生纸）</Bandage.description> <!-- <En>Bandages can be used to stop bleeding or heal a broken bone. You can also combine 2 of them to craft a surgical kit to heal a missing limb. (And no, it's not toilet paper)</En> -->
 
   <BoxingGloves.label>拳击手套</BoxingGloves.label> <!-- <En>boxing gloves</En> -->
-  <BoxingGloves.description>用于快速推开敌人。</BoxingGloves.description> <!-- <En>For quickly pushing enemies away from you.</En> -->
+  <BoxingGloves.description>用于快速将敌人推离你。</BoxingGloves.description> <!-- <En>For quickly pushing enemies away from you.</En> -->
 
   <Bread.label>面包</Bread.label> <!-- <En>bread</En> -->
-  <Bread.description>一块美味的面包。可以减少饥饿并恢复一些生命值。</Bread.description> <!-- <En>A loaf of tasty bread. Reduces hunger and heals some HP.</En> -->
+  <Bread.description>一条美味的面包。可减少饥饿度并恢复少量生命值。</Bread.description> <!-- <En>A loaf of tasty bread. Reduces hunger and heals some HP.</En> -->
 
-  <ChainItem.label>链条</ChainItem.label> <!-- <En>chain</En> -->
-  <ChainItem.description>一根沉重的铁链。用它将附近的人拴在链柱上。</ChainItem.description> <!-- <En>A heavy iron chain. Use it on a nearby person to attach them to a chain post.</En> -->
+  <ChainItem.label>铁链</ChainItem.label> <!-- <En>chain</En> -->
+  <ChainItem.description>一条沉重的铁链。用它来将附近的人拴在链柱上。</ChainItem.description> <!-- <En>A heavy iron chain. Use it on a nearby person to attach them to a chain post.</En> -->
 
-  <CookedFish.label>熟鱼</CookedFish.label> <!-- <En>cooked fish</En> -->
+  <CookedFish.label>熟鱼肉</CookedFish.label> <!-- <En>cooked fish</En> -->
   <CookedFish.description>一条营养丰富的熟鱼。</CookedFish.description> <!-- <En>A nutritious, cooked fish.</En> -->
 
   <CookedMeat.label>熟肉</CookedMeat.label> <!-- <En>cooked meat</En> -->
   <CookedMeat.description>一块营养丰富的肉。</CookedMeat.description> <!-- <En>A nutritious piece of meat.</En> -->
 
   <EmptyVial.label>空瓶</EmptyVial.label> <!-- <En>empty vial</En> -->
-  <EmptyVial.description>你可以装满水，然后与特殊配料混合制成药水。</EmptyVial.description> <!-- <En>You can fill it with water and then mix with a special ingredient to make a potion.</En> -->
+  <EmptyVial.description>你可以将它装满水，然后与特殊材料混合来制作药水。</EmptyVial.description> <!-- <En>You can fill it with water and then mix with a special ingredient to make a potion.</En> -->
 
   <Extinguisher.label>灭火器</Extinguisher.label> <!-- <En>extinguisher</En> -->
-  <Extinguisher.description>可以让你扑灭火焰（也包括自己身上的火）。</Extinguisher.description> <!-- <En>Lets you extinguish fires (also on yourself).</En> -->
+  <Extinguisher.description>可以让你扑灭火焰（包括自己身上的火）。</Extinguisher.description> <!-- <En>Lets you extinguish fires (also on yourself).</En> -->
 
   <Fish.label>鱼</Fish.label> <!-- <En>fish</En> -->
-  <Fish.description>一条美味的鱼。你可以吃了它，也可以用它来制作鱼油。</Fish.description> <!-- <En>A tasty fish. You can either eat it or use it to make fish oil.</En> -->
+  <Fish.description>一条美味的鱼。你可以直接吃掉它，或者用它来制作鱼油。</Fish.description> <!-- <En>A tasty fish. You can either eat it or use it to make fish oil.</En> -->
 
   <FishingRod.label>鱼竿</FishingRod.label> <!-- <En>fishing rod</En> -->
-  <FishingRod.description>可用于捕捉营养丰富的鱼或立即将敌人拉向你。</FishingRod.description> <!-- <En>Can be used to catch nutritious fish or instantly pull enemies towards you.</En> -->
+  <FishingRod.description>可用于捕捉营养丰富的鱼，或立即将敌人拉向你。</FishingRod.description> <!-- <En>Can be used to catch nutritious fish or instantly pull enemies towards you.</En> -->
 
   <FishOil.label>鱼油</FishOil.label> <!-- <En>fish oil</En> -->
   <FishOil.description>一瓶用于治疗疾病的鱼油。</FishOil.description> <!-- <En>A bottle of fish oil for curing diseases.</En> -->
@@ -40,72 +40,72 @@
   <FrostbiteTalon.description>某种神秘野兽的锋利爪子。能迅速将对手冰冻一小段时间。</FrostbiteTalon.description> <!-- <En>A sharp claw of some mysterious beast. Will quickly freeze the opponent for a short time.</En> -->
 
   <Gold.label>金币</Gold.label> <!-- <En>gold coins</En> -->
-  <Gold.description>一堆金币。这个地牢里可能有些人愿意交易。金币不是永久物品，所以如果游戏结束，你会失去所有金币。</Gold.description> <!-- <En>A stack of gold coins. There may be some people willing to trade in this dungeon. Gold isn't a permanent item, so you'll lose all of it if the run ends.</En> -->
+  <Gold.description>一堆金币。地牢里可能有些人愿意交易。金币不是永久物品，如果本次冒险结束，你会失去所有金币。</Gold.description> <!-- <En>A stack of gold coins. There may be some people willing to trade in this dungeon. Gold isn't a permanent item, so you'll lose all of it if the run ends.</En> -->
 
   <GoldenKey.label>金钥匙</GoldenKey.label> <!-- <En>golden key</En> -->
-  <GoldenKey.description>一把稀有的钥匙，可以打开一扇金门。</GoldenKey.description> <!-- <En>A rare key which opens a golden door.</En> -->
+  <GoldenKey.description>一把可以打开金色门的稀有钥匙。</GoldenKey.description> <!-- <En>A rare key which opens a golden door.</En> -->
 
-  <GreatShield.label>巨盾</GreatShield.label> <!-- <En>great shield</En> -->
-  <GreatShield.description>标准盾牌的更高效版本，可以让你在两回合内格挡指定目标的所有攻击。如果你攻击目标，效果将被取消。</GreatShield.description> <!-- <En>A more efficient version of the standard shield which lets you block all attacks from the designated target for two turns. The effect will be canceled if you attack the target.</En> -->
+  <GreatShield.label>大盾</GreatShield.label> <!-- <En>great shield</En> -->
+  <GreatShield.description>标准盾牌的更高效版本，可以让你在两个回合内格挡来自指定目标的所有攻击。如果你攻击该目标，效果将会取消。</GreatShield.description> <!-- <En>A more efficient version of the standard shield which lets you block all attacks from the designated target for two turns. The effect will be canceled if you attack the target.</En> -->
 
   <GreenKeyFragment.label>绿色钥匙碎片</GreenKeyFragment.label> <!-- <En>green key fragment</En> -->
-  <GreenKeyFragment.description>三个绿色钥匙碎片之一。如果你集齐所有碎片，就可以解锁这个地牢某处的绿色箱子。</GreenKeyFragment.description> <!-- <En>One of the three green key fragments. If you collect all of them, you can unlock the green chest somewhere in this dungeon.</En> -->
+  <GreenKeyFragment.description>三块绿色钥匙碎片之一。如果你集齐所有碎片，就可以解锁地牢某处的绿色宝箱。</GreenKeyFragment.description> <!-- <En>One of the three green key fragments. If you collect all of them, you can unlock the green chest somewhere in this dungeon.</En> -->
 
   <Hammer.label>锤子</Hammer.label> <!-- <En>hammer</En> -->
   <Hammer.description>可以让你摧毁像砖墙这样的易碎物体。不是武器。</Hammer.description> <!-- <En>Lets you destroy fragile objects like brick walls. Not a weapon.</En> -->
 
   <HolyWater.label>圣水</HolyWater.label> <!-- <En>holy water</En> -->
-  <HolyWater.description>一瓶具有一些治疗功效的水。</HolyWater.description> <!-- <En>A bottle of water with some healing properties.</En> -->
+  <HolyWater.description>一瓶具有一定治疗功效的水。</HolyWater.description> <!-- <En>A bottle of water with some healing properties.</En> -->
 
   <Honey.label>蜂蜜</Honey.label> <!-- <En>honey</En> -->
   <Honey.description>一些美味的蜂蜜。</Honey.description> <!-- <En>Some delicious honey.</En> -->
 
   <Medkit.label>医疗包</Medkit.label> <!-- <En>medkit</En> -->
-  <Medkit.description>如果没人看到你，这是恢复一些生命值的好方法。</Medkit.description> <!-- <En>A good way to heal some HP if nobody sees you.</En> -->
+  <Medkit.description>在没人看见的情况下，这是恢复生命值的好方法。</Medkit.description> <!-- <En>A good way to heal some HP if nobody sees you.</En> -->
 
   <Pickaxe.label>镐</Pickaxe.label> <!-- <En>pickaxe</En> -->
-  <Pickaxe.description>可以让你开采红色、绿色和蓝色的水晶。水晶可以用来附魔你的装备。</Pickaxe.description> <!-- <En>Lets you mine red, green, and blue crystals. Crystals can be used to enchant your gear.</En> -->
+  <Pickaxe.description>可以让你开采红、绿、蓝水晶。水晶可用于附魔你的装备。</Pickaxe.description> <!-- <En>Lets you mine red, green, and blue crystals. Crystals can be used to enchant your gear.</En> -->
 
   <PlanksItem.label>木板</PlanksItem.label> <!-- <En>planks</En> -->
-  <PlanksItem.description>木板可以用来封锁门。通过被封锁的门的唯一方法是摧毁它们。</PlanksItem.description> <!-- <En>Planks can be used to bar doors. The only way to get through barred doors is to destroy them.</En> -->
+  <PlanksItem.description>木板可用于封锁门。通过被封锁的门的唯一方法就是摧毁它们。</PlanksItem.description> <!-- <En>Planks can be used to bar doors. The only way to get through barred doors is to destroy them.</En> -->
 
   <PocketKnife.label>小刀</PocketKnife.label> <!-- <En>pocket knife</En> -->
-  <PocketKnife.description>一把可以用作快速副武器的小刀，因为它不消耗回合。</PocketKnife.description> <!-- <En>A pocket knife which can be used as a quick, secondary weapon, since using it takes no turn.</En> -->
+  <PocketKnife.description>一把可以用作快速副武器的小刀，因为使用它不消耗回合。</PocketKnife.description> <!-- <En>A pocket knife which can be used as a quick, secondary weapon, since using it takes no turn.</En> -->
 
   <RawMeat.label>生肉</RawMeat.label> <!-- <En>raw meat</En> -->
-  <RawMeat.description>吃生肉会让你生病。你需要把它煮熟。</RawMeat.description> <!-- <En>Eating raw meat will make you sick. You need to cook it somehow.</En> -->
+  <RawMeat.description>吃生肉会让你生病。你需要设法把它煮熟。</RawMeat.description> <!-- <En>Eating raw meat will make you sick. You need to cook it somehow.</En> -->
 
   <RoyalKey.label>皇家钥匙</RoyalKey.label> <!-- <En>royal key</En> -->
-  <RoyalKey.description>一把华丽的钥匙，可以打开皇家门。</RoyalKey.description> <!-- <En>An ornamented key which opens the royal door.</En> -->
+  <RoyalKey.description>一把华丽的钥匙，可以打开皇家大门。</RoyalKey.description> <!-- <En>An ornamented key which opens the royal door.</En> -->
 
   <Shield.label_2>盾牌</Shield.label_2> <!-- <En>shield</En> -->
-  <Shield.description_2>盾牌可以用来在一回合内格挡指定目标的所有攻击。使用盾牌不消耗回合。如果你攻击目标，效果将被取消。</Shield.description_2> <!-- <En>Shields can be used to block all attacks from the designated target for one turn. Using a shield takes no turn. The effect will be canceled if you attack the target.</En> -->
+  <Shield.description_2>盾牌可用于格挡指定目标一回合的所有攻击。使用盾牌不消耗回合。如果你攻击该目标，效果将会取消。</Shield.description_2> <!-- <En>Shields can be used to block all attacks from the designated target for one turn. Using a shield takes no turn. The effect will be canceled if you attack the target.</En> -->
 
   <Shovel.label>铲子</Shovel.label> <!-- <En>shovel</En> -->
-  <Shovel.description>可以让你在泥土里挖掘。谁知道你会发现什么。</Shovel.description> <!-- <En>Lets you dig in dirt. Who knows what you'll find.</En> -->
+  <Shovel.description>可以用来在土里挖掘。谁知道你会发现什么呢。</Shovel.description> <!-- <En>Lets you dig in dirt. Who knows what you'll find.</En> -->
 
   <SilverKey.label>银钥匙</SilverKey.label> <!-- <En>silver key</En> -->
-  <SilverKey.description>一把一次性的钥匙，可以打开银门和银箱子。</SilverKey.description> <!-- <En>A single-use key which opens silver doors and silver chests.</En> -->
+  <SilverKey.description>一次性使用的钥匙，可以打开银门和银箱。</SilverKey.description> <!-- <En>A single-use key which opens silver doors and silver chests.</En> -->
 
-  <StaminaBooster.label>耐力增强剂</StaminaBooster.label> <!-- <En>stamina booster</En> -->
-  <StaminaBooster.description>快速恢复一些耐力的好方法。</StaminaBooster.description> <!-- <En>A quick way to restore some stamina.</En> -->
+  <StaminaBooster.label>体力增强剂</StaminaBooster.label> <!-- <En>stamina booster</En> -->
+  <StaminaBooster.description>一种快速恢复部分体力的方法。</StaminaBooster.description> <!-- <En>A quick way to restore some stamina.</En> -->
 
-  <Superwatch.label>超级手表</Superwatch.label> <!-- <En>superwatch</En> -->
-  <Superwatch.description>一块可以让你回溯时间的魔法手表。这是标准手表的升级版。</Superwatch.description> <!-- <En>A magic watch which lets you rewind time. This is an upgraded version of the standard watch.</En> -->
+  <Superwatch.label>超级怀表</Superwatch.label> <!-- <En>superwatch</En> -->
+  <Superwatch.description>一块可以让你回溯时间的魔法怀表。这是标准怀表的升级版。</Superwatch.description> <!-- <En>A magic watch which lets you rewind time. This is an upgraded version of the standard watch.</En> -->
 
-  <SurgicalKit.label>手术工具</SurgicalKit.label> <!-- <En>surgical kit</En> -->
-  <SurgicalKit.description>随时恢复缺失的身体部位。</SurgicalKit.description> <!-- <En>Restore missing body parts on the go.</En> -->
+  <SurgicalKit.label>手术包</SurgicalKit.label> <!-- <En>surgical kit</En> -->
+  <SurgicalKit.description>随时随地恢复缺失的身体部位。</SurgicalKit.description> <!-- <En>Restore missing body parts on the go.</En> -->
 
   <Teleporter.label>传送器</Teleporter.label> <!-- <En>teleporter</En> -->
-  <Teleporter.description>传送到指定位置。适合逃离危险情况。</Teleporter.description> <!-- <En>Teleport to the designated location. Good for escaping from dangerous situations.</En> -->
+  <Teleporter.description>传送到指定位置。适合用来逃离危险境地。</Teleporter.description> <!-- <En>Teleport to the designated location. Good for escaping from dangerous situations.</En> -->
 
-  <ToxicFish.label>毒鱼</ToxicFish.label> <!-- <En>toxic fish</En> -->
-  <ToxicFish.description>吃这个不是个好主意。</ToxicFish.description> <!-- <En>Not a good idea to eat this one.</En> -->
+  <ToxicFish.label>有毒的鱼</ToxicFish.label> <!-- <En>toxic fish</En> -->
+  <ToxicFish.description>吃这个可不是个好主意。</ToxicFish.description> <!-- <En>Not a good idea to eat this one.</En> -->
 
-  <VialWithWater.label>装水的瓶子</VialWithWater.label> <!-- <En>vial with water</En> -->
-  <VialWithWater.description>与特殊配料混合制成药水。</VialWithWater.description> <!-- <En>Mix it with a special ingredient to make a potion.</En> -->
+  <VialWithWater.label>装水的药瓶</VialWithWater.label> <!-- <En>vial with water</En> -->
+  <VialWithWater.description>将其与特殊材料混合以制作药水。</VialWithWater.description> <!-- <En>Mix it with a special ingredient to make a potion.</En> -->
 
-  <Watch.label>手表</Watch.label> <!-- <En>watch</En> -->
-  <Watch.description>一块可以让你回溯时间的魔法手表。</Watch.description> <!-- <En>A magic watch which lets you rewind time.</En> -->
+  <Watch.label>怀表</Watch.label> <!-- <En>watch</En> -->
+  <Watch.description>一块可以让你回溯时间的魔法怀表。</Watch.description> <!-- <En>A magic watch which lets you rewind time.</En> -->
 
 </SpecTranslations>

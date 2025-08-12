@@ -1,15 +1,15 @@
 ﻿<SpecTranslations>
 
   <ActiveTrap_Damage.label>伤害陷阱</ActiveTrap_Damage.label> <!-- <En>damage trap</En> -->
-  <ActiveTrap_Damage.description>一种一次性陷阱，会对除你之外的任何人造成伤害。</ActiveTrap_Damage.description> <!-- <En>A single-use trap which will deal damage to anyone passing, except you.</En> -->
+  <ActiveTrap_Damage.description>一次性陷阱，会对除你之外任何经过的生物造成伤害。</ActiveTrap_Damage.description> <!-- <En>A single-use trap which will deal damage to anyone passing, except you.</En> -->
 
   <ActiveTrap_Drunkenness.label>醉酒陷阱</ActiveTrap_Drunkenness.label> <!-- <En>drunkenness trap</En> -->
-  <ActiveTrap_Drunkenness.description>一种一次性陷阱，会使除你之外的任何人喝醉。</ActiveTrap_Drunkenness.description> <!-- <En>A single-use trap which will make anyone passing drunk, except you.</En> -->
+  <ActiveTrap_Drunkenness.description>一次性陷阱，会让除你之外任何经过的生物陷入醉酒状态。</ActiveTrap_Drunkenness.description> <!-- <En>A single-use trap which will make anyone passing drunk, except you.</En> -->
 
   <ActiveTrap_Freeze.label>冰冻陷阱</ActiveTrap_Freeze.label> <!-- <En>freeze trap</En> -->
-  <ActiveTrap_Freeze.description>一种一次性陷阱，会冰冻除你之外的任何人。</ActiveTrap_Freeze.description> <!-- <En>A single-use trap which will freeze anyone passing, except you.</En> -->
+  <ActiveTrap_Freeze.description>一次性陷阱，会冰冻除你之外任何经过的生物。</ActiveTrap_Freeze.description> <!-- <En>A single-use trap which will freeze anyone passing, except you.</En> -->
 
-  <ActiveTrap_Poison.label>毒药陷阱</ActiveTrap_Poison.label> <!-- <En>poison trap</En> -->
-  <ActiveTrap_Poison.description>一种一次性陷阱，会毒害除你之外的任何人。</ActiveTrap_Poison.description> <!-- <En>A single-use trap which will poison anyone passing, except you.</En> -->
+  <ActiveTrap_Poison.label>中毒陷阱</ActiveTrap_Poison.label> <!-- <En>poison trap</En> -->
+  <ActiveTrap_Poison.description>一次性陷阱，会使除你之外任何经过的生物中毒。</ActiveTrap_Poison.description> <!-- <En>A single-use trap which will poison anyone passing, except you.</En> -->
 
 </SpecTranslations>

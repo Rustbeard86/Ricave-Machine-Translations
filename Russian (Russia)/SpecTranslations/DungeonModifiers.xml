@@ -1,0 +1,33 @@
+﻿<SpecTranslations>
+
+  <EveryoneStartsAwake.label>все начинают бодрствующими</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>Все начнут игру бодрствующими.</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>дополнительный мини-босс на этаж</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>На каждом этаже будет появляться дополнительный мини-босс (действует, только если в подземелье есть мини-боссы).</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>на 20% меньше врагов</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>На всех этажах будет на 20% меньше врагов.</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>все предметы опознаны с начала</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>Все предметы, которые вы найдёте в подземелье, уже будут опознаны.</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>на 20% больше врагов</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>На всех этажах будет на 20% больше врагов.</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>больше ловушек</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>В подземелье будет появляться больше шипов и мин.</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>нет голода</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>Вы никогда не проголодаетесь.</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>нет мини-боссов</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>Мини-боссы не будут появляться (действует, только если в подземелье есть мини-боссы).</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>нет случайных событий</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>Случайные события не будут происходить, как бы долго вы ни находились в подземелье (действует, только если в подземелье есть случайные события).</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>нет убежищ</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>Убежища не будут создаваться (действует, только если в подземелье есть убежища).</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

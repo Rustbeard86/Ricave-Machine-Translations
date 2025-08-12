@@ -9,7 +9,7 @@
   <Equip.label>装备</Equip.label> <!-- <En>equip</En> -->
   <Equip.Equips>{0} 装备了 {1}</Equip.Equips> <!-- <En>{0} equips {1}</En> -->
 
-  <MoveItemInInventory.label>移动物品栏中的物品</MoveItemInInventory.label> <!-- <En>move item in inventory</En> -->
+  <MoveItemInInventory.label>移动物品</MoveItemInInventory.label> <!-- <En>move item in inventory</En> -->
   <MoveItemInInventory.IsMovedInSInventory>{1} 在 {0} 的物品栏中被移动</MoveItemInInventory.IsMovedInSInventory> <!-- <En>{1} is moved in {0}'s inventory</En> -->
 
   <RefundSkill.label>返还技能点</RefundSkill.label> <!-- <En>refund skill</En> -->
@@ -19,7 +19,7 @@
   <SortInventory.SortsInventory>{0} 整理了物品栏</SortInventory.SortsInventory> <!-- <En>{0} sorts inventory</En> -->
 
   <Transfer.label>转移</Transfer.label> <!-- <En>transfer</En> -->
-  <Transfer.GivesTo>{0} 将 {1} 给予了 {2}</Transfer.GivesTo> <!-- <En>{0} gives {1} to {2}</En> -->
+  <Transfer.GivesTo>{0} 将 {1} 给了 {2}</Transfer.GivesTo> <!-- <En>{0} gives {1} to {2}</En> -->
 
   <Unequip.label>卸下</Unequip.label> <!-- <En>unequip</En> -->
   <Unequip.Unequips>{0} 卸下了 {1}</Unequip.Unequips> <!-- <En>{0} unequips {1}</En> -->

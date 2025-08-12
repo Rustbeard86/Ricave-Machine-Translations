@@ -1,0 +1,164 @@
+﻿<SpecTranslations>
+
+  <Berserker.label>берсерк</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>Вы недавно кого-то убили. Вы наносите и получаете на 25% больше физического урона в течение короткого времени.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>кровотечение</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>У этого персонажа кровотечение, и он будет терять здоровье, пока его не перевяжут.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>кровотечение ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>ослеплён</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>Этот персонаж может ощущать только соседние объекты и промахивается в 30% случаев.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>сломанная кость</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>У этого персонажа сломана кость, из-за чего он наносит меньше физического урона.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>У этого персонажа сломана кость, из-за чего он наносит на {0} меньше физического урона.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>горение</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>Этот персонаж горит, что означает, что он будет терять определённое количество очков здоровья каждый ход.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>горение ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>шанс критического удара изменён</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>Влияет на шанс критического удара, наносимого этим персонажем.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>шанс критического удара: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>потеря здоровья</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>Этот персонаж теряет здоровье.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>потеря здоровья ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>множитель наносимого урона</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>Урон, наносимый этим персонажем, изменяется этим множителем.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>нанесено {1} урона: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>смещение наносимого урона</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>Это значение добавляется (или вычитается) к урону, наносимому этим персонажем. Если это значение является диапазоном, то используется случайное значение из этого диапазона.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>нанесено {1} урона: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>болезнь</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>У этого персонажа болезнь, которая препятствует естественному исцелению и лишает его возможности летать.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>пьян</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>Этот персонаж пьян, а значит, каждый ход он будет двигаться в случайном направлении. В этом состоянии он не может делать ничего другого.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>запутан</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>Этот персонаж запутан, что означает, что он не может двигаться. Однако он всё ещё может атаковать со своей текущей позиции.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>заморожен</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>Этот персонаж заморожен, а значит, он не может делать ничего, кроме ожидания, пока находится в этом состоянии.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>регенерация здоровья</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>Здоровье этого персонажа автоматически восстанавливается со временем.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>регенерация здоровья ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>скорость наступления голода</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>Влияет на то, как быстро этот персонаж проголодается.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>голод</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>Вы голодны и вам нужно что-нибудь съесть. Это останавливает регенерацию здоровья и опознание предметов.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>скорость опознания</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>Влияет на то, как быстро этот персонаж опознаёт предметы.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>скорость опознания: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>иммунитет к болезням</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>У этого персонажа иммунитет к болезням.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>иммунитет к огню</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>У этого персонажа иммунитет к огню.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>иммунитет к яду</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>У этого персонажа иммунитет к яду.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>броня</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>Множитель для урона, получаемого этим персонажем. Если значение больше 1, это уязвимость. Если значение равно 0, это иммунитет.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>получено {1} урона: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>броня</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>Это значение добавляется (или вычитается) к урону, получаемому этим персонажем. Если это значение является диапазоном, то используется случайное значение из этого диапазона.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>получено {1} урона: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>враждебен к союзникам</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>Этот персонаж находится в состоянии берсерка и будет атаковать своих обычных союзников.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>может летать</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>Этот персонаж может летать. Летающие персонажи могут перемещаться прямо вверх и вниз.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>регенерация маны</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>Мана этого персонажа автоматически восстанавливается со временем.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>регенерация маны ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>макс. ОЗ изменено</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>Влияет на максимальное количество очков здоровья, которое может быть у этого персонажа.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>макс. ОЗ: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>макс. ОЗ изменено</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>Влияет на максимальное количество очков здоровья, которое может быть у этого персонажа.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>макс. ОЗ: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>макс. маны изменено</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>Влияет на максимальное количество очков маны, которое может быть у этого персонажа.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>макс. маны: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>макс. выносливости изменено</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>Влияет на максимальное количество очков выносливости, которое может быть у этого персонажа.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>макс. выносливости: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>шанс промаха изменён</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>Влияет на шанс промаха при атаке этого персонажа.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>шанс промаха: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>паника</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>Этот персонаж в панике и каждый ход будет убегать от ближайшего врага. В этом состоянии он не может делать ничего другого.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>отравлен</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>Этот персонаж отравлен, а значит, он будет терять определённое количество очков здоровья каждый ход или каждые несколько ходов.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>отравлен ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>дальность зрения</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>Влияет на максимальное расстояние, на котором этот персонаж может видеть другие объекты и персонажей.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>дальность зрения: макс. {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>дальность зрения</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>Влияет на максимальное расстояние, на котором этот персонаж может видеть другие объекты и персонажей.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>дальность зрения: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>изменение частоты действий персонажа</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>Влияет на количество разрешённых ходов за один ход для этого персонажа.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>не может нанести вам урон</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>Вы защищены от атак этого персонажа до следующего хода. Однако, если вы нанесёте ему какой-либо урон, эффект будет снят. Обратите внимание, что использование безвредных заклинаний допускается.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>спит</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>Этот персонаж спит. Он проснётся, если к нему подойти или потревожить.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>оставляет след</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>Этот персонаж оставляет след при каждом движении.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>оставляет след из {0}</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>регенерация выносливости</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>Выносливость этого персонажа автоматически восстанавливается со временем.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>регенерация выносливости ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>голод</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>Вы голодаете и должны что-нибудь съесть. Помимо отсутствия регенерации здоровья и опознания предметов, ваша регенерация выносливости останавливается, и вы медленно теряете здоровье. Дальше этого штрафы от голода не увеличатся.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>голод ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>Испытание на увечья</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>Для этого персонажа проходит Испытание на увечья. Он должен уничтожить определённое количество частей тела за короткое время, чтобы завершить испытание и получить награду.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>Испытание на увечья ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>Для этого персонажа проходит Испытание на увечья. Он должен уничтожить {0} частей тела в течение {1} ходов, чтобы завершить испытание и получить награду.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>Испытание быстрого убийцы</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>Для этого персонажа проходит Испытание быстрого убийцы. Он должен убить определённое количество достойных врагов за короткое время, чтобы завершить испытание и получить награду.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>Испытание быстрого убийцы ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>Для этого персонажа проходит Испытание быстрого убийцы. Он должен убить {0} достойных врагов в течение {1} ходов, чтобы завершить испытание и получить награду.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>Испытание безупречного</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>Для этого персонажа проходит Испытание безупречного. Он должен убить определённое количество достойных врагов, не потеряв ни одного очка здоровья, чтобы завершить испытание и получить награду.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>Испытание безупречного ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>Для этого персонажа проходит Испытание безупречного. Он должен убить {0} достойных врагов, не потеряв ни одного очка здоровья, чтобы завершить испытание и получить награду.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>мокрота</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>Этот персонаж мокрый, что даёт ему 50% сопротивления урону от огня, но также вдвое замедляет естественную регенерацию выносливости.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

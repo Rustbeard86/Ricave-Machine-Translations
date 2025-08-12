@@ -1,0 +1,82 @@
+﻿<SpecTranslations>
+
+  <BigMap.label>minimapa</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>Mantén pulsado [Minimap] o [MinimapAlt] para ver el mapa.\n\nPuedes hacer zoom con la rueda del ratón.\n\nLas salas más importantes aparecerán marcadas en tu mapa.</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>Mantén pulsado [MinimapAlt] para ver el mapa.\n\nLas salas más importantes aparecerán marcadas en tu mapa.</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>escalar</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>Entra en la siguiente sala y sube por la escalera.\n\nCamina hasta la casilla de la escalera y pulsa [MoveForward] mientras mantienes pulsado [Fly] para subir.\n\nComo alternativa, puedes hacer clic en la escalera.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>Entra en la siguiente sala y sube por la escalera.\n\nCamina hasta la casilla de la escalera y pulsa [MoveForward] mientras mantienes pulsado [Fly] para subir.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>beber pociones</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>Coge la poción del cofre y bébetela.\n\nPuedes pulsar la tecla numérica correspondiente para usar la poción desde la barra de acceso rápido, en este caso el "1".</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>Coge la poción del cofre y bébetela. Pulsa [Accept] para interactuar.\n\nPuedes pulsar [QuickbarMenu] para mostrar un menú con todos los objetos de tu barra de acceso rápido.</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>combate</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>Derrota al esqueleto. Haz clic para atacar. Pulsa [Wait] para esperar.\n\nLos enemigos no se moverán a menos que tú te muevas o ataques.\n\nConsejos:\n- Planifica siempre tu siguiente movimiento con cuidado.\n- La mayoría de los enemigos son letales y cada punto de vida cuenta.\n- Evita que te rodeen varios enemigos a la vez.</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>Derrota al esqueleto. Pulsa [Accept] para atacar y [Wait] para esperar.\n\nLos enemigos no se moverán a menos que tú te muevas o ataques.\n\nConsejos:\n- Planifica siempre tu siguiente movimiento con cuidado.\n- La mayoría de los enemigos son letales y cada punto de vida cuenta.\n- Evita que te rodeen varios enemigos a la vez.</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>inspeccionar</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>Cierra tu inventario pulsando [ShowInventory] de nuevo y mantén pulsado [Inspect] o [InspectAlt] para inspeccionar los alrededores.\n\nRecuerda inspeccionar a todos los enemigos para saber lo peligrosos que son.</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>Cierra tu inventario pulsando [ShowInventory] de nuevo y mantén pulsado [Inspect] para inspeccionar los alrededores.\n\nRecuerda inspeccionar a todos los enemigos para saber lo peligrosos que son.</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>Cierra tu inventario pulsando [ShowInventory] de nuevo y mantén pulsado [Inspect] o [InspectAlt] para inspeccionar los alrededores.\n\nRecuerda inspeccionar a todos los enemigos para saber lo peligrosos que son.</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>inventario</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>Equipa la espada.\n\nPuedes arrastrarla, hacer clic derecho sobre ella o pulsar "1" para usarla desde la barra de acceso rápido.\n\n¡La mayoría de los objetos no están identificados y algunos incluso están malditos!</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>Equipa la espada.\n\nPuedes pulsar [QuickbarMenu] para mostrar un menú con todos los objetos de tu barra de acceso rápido.\n\n¡La mayoría de los objetos no están identificados y algunos incluso están malditos!</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>palanca</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>Cada piso tiene una palanca que abre la puerta a la sala de salida. Haz clic en ella y abandona la zona.\n\n¡Pero ten cuidado! ¡Activar la palanca despierta a todos los enemigos del piso!</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>Cada piso tiene una palanca que abre la puerta a la sala de salida. Actívala pulsando [Accept] y abandona la zona.\n\n¡Pero ten cuidado! ¡Activar la palanca despierta a todos los enemigos del piso!</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>moverse</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>Pulsa [MoveForward], [MoveLeft], [MoveBack] y [MoveRight] para moverte.\n\nRicave es un juego por turnos. Un movimiento consume un turno, por lo que los demás se moverán contigo.\n\nTambién puedes hacer clic para moverte.</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>Pulsa [MoveForward], [MoveLeft], [MoveBack] y [MoveRight] para moverte.\n\nRicave es un juego por turnos. Un movimiento consume un turno, por lo que los demás se moverán contigo.</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>abrir puertas</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>Para abrir una puerta, camina hacia ella o hazle clic.</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>Para abrir una puerta, camina hacia ella.</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>inventario</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>Pulsa [ShowInventory] para abrir tu inventario.</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>recoger objetos</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>Del mismo modo, para recoger un objeto, camina hacia él o hazle clic.</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>Del mismo modo, para recoger un objeto, camina hacia él.</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>ataque rápido</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>Entra en la siguiente sala y pulsa [AttackNearest] cerca de las cajas para atacar automáticamente al objetivo más cercano a tu ratón.\n\nPulsar [AttackNearest] puede ser más cómodo que usar el ratón. Te permite destruir rápidamente múltiples objetivos a tu alrededor.</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>Entra en la siguiente sala y pulsa [Accept] para destruir las cajas. Gira con [RotateLeft] y [RotateRight] para encararlas.</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>girar</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>Usa el ratón para mirar a tu alrededor o pulsa [RotateLeft] o [RotateRight] para girar.\n\nA diferencia de moverse, girar no consume un turno.</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>Pulsa [RotateLeft] o [RotateRight] para girar.\n\nA diferencia de moverse, girar no consume un turno.</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>moverse lateralmente</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>Pulsa [MoveLeft] o [MoveRight] para moverte lateralmente.</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>partes del cuerpo</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Mantén pulsado [Fly] y haz clic en el brazo del esqueleto para destruirlo, luego acaba con él de forma normal.\n\nCada parte del cuerpo tiene sus propios puntos de vida.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Mantén pulsado [Fly] y pulsa [Accept] o el Gatillo Derecho sobre el brazo del esqueleto para destruirlo, luego acaba con él de forma normal.\n\nCada parte del cuerpo tiene sus propios puntos de vida.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>descripciones</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>¡Las descripciones son importantes! Pasa el cursor sobre cualquier cosa en la pantalla de inventario para saber más.\n\nRecuerda inspeccionar cada objeto que encuentres.</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>¡Las descripciones son importantes! Pruébalas mientras la pantalla de inventario está abierta.\n\nRecuerda inspeccionar cada objeto que encuentres.</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>esperar</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>Pulsa [Wait] para esperar un turno.\n\nEsperar te permite ser el primero en infligir daño y también carga tu próximo ataque.</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

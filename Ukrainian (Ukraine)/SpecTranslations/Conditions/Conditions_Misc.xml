@@ -1,0 +1,164 @@
+﻿<SpecTranslations>
+
+  <Berserker.label>берсерк</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>Ви нещодавно когось вбили. Ви завдаєте та отримуєте на 25% більше фізичної шкоди протягом короткого часу.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>кровотеча</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>У цього персонажа кровотеча, і він буде втрачати здоров'я, доки його не перев'яжуть.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>кровотеча ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>сліпий</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>Цей персонаж може відчувати лише сусідні об'єкти і промахуватиметься у 30% випадків.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>зламана кістка</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>У цього персонажа зламана кістка, через що він завдає менше фізичної шкоди.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>У цього персонажа зламана кістка, через що він завдає на {0} менше фізичної шкоди.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>горіння</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>Цей персонаж горить, що означає, що він втрачатиме певну кількість очок здоров'я кожного ходу.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>горить ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>змінено шанс критичного удару</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>Впливає на шанс критичного удару, який завдає цей персонаж.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>шанс критичного удару: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>втрата здоров'я</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>Цей персонаж втрачає здоров'я.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>втрата здоров'я ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>множник завданої шкоди</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>Шкода, яку завдає цей персонаж, змінюється цим множником.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>завдано {1} шкоди: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>зміщення завданої шкоди</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>Це значення додається (або віднімається) до шкоди, яку завдає цей персонаж. Якщо це значення є діапазоном, то використовується випадкове значення з цього діапазону.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>завдано {1} шкоди: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>хвороба</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>Цей персонаж хворий, що перешкоджає природному зціленню та робить його нездатним літати.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>п'яний</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>Цей персонаж п'яний, що означає, що він рухатиметься у випадковому напрямку кожного ходу. У цьому стані він не може робити нічого іншого.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>заплутаний</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>Цей персонаж заплутаний, що означає, що він не може рухатися. Однак він все ще може атакувати зі своєї поточної позиції.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>заморожений</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>Цей персонаж заморожений, що означає, що він не може робити нічого, крім як чекати, перебуваючи в цьому стані.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>регенерація здоров'я</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>Здоров'я цього персонажа автоматично відновлюється з часом.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>регенерація здоров'я ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>швидкість голоду</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>Впливає на те, як швидко цей персонаж зголодніє.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>голодний</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>Ви голодні й вам потрібно щось з'їсти. Це зупиняє регенерацію здоров'я та ідентифікацію предметів.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>швидкість ідентифікації</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>Впливає на те, як швидко цей персонаж ідентифікує предмети.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>швидкість ідентифікації: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>імунітет до хвороб</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>Цей персонаж має імунітет до хвороб.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>імунітет до вогню</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>Цей персонаж має імунітет до вогню.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>імунітет до отрути</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>Цей персонаж має імунітет до отрути.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>броня</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>Множник для шкоди, яку отримує цей персонаж. Якщо значення більше 1, це вразливість. Якщо значення 0, це імунітет.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>отримано {1} шкоди: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>броня</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>Це значення додається (або віднімається) до шкоди, яку отримує цей персонаж. Якщо це значення є діапазоном, то використовується випадкове значення з цього діапазону.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>отримано {1} шкоди: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>ворожий до союзників</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>Цей персонаж у стані берсерка і буде атакувати своїх звичайних союзників.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>може літати</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>Цей персонаж може літати. Персонажі, що літають, можуть рухатися прямо вгору та вниз.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>регенерація мани</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>Мана цього персонажа автоматично відновлюється з часом.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>регенерація мани ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>макс. ОЗ змінено</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>Впливає на максимальну кількість очок здоров'я, яку може мати цей персонаж.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>макс. ОЗ: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>макс. ОЗ змінено</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>Впливає на максимальну кількість очок здоров'я, яку може мати цей персонаж.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>макс. ОЗ: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>макс. мани змінено</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>Впливає на максимальну кількість очок мани, яку може мати цей персонаж.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>макс. мани: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>макс. витривалості змінено</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>Впливає на максимальну кількість очок витривалості, яку може мати цей персонаж.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>макс. витривалості: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>змінено шанс промаху</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>Впливає на шанс промаху, коли цей персонаж атакує.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>шанс промаху: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>паніка</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>Цей персонаж у паніці й буде віддалятися від найближчого ворога кожного ходу. У цьому стані він не може робити нічого іншого.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>отруєний</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>Цей персонаж отруєний, що означає, що він втрачатиме певну кількість очок здоров'я кожного ходу або кожні кілька ходів.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>отруєний ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>радіус зору</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>Впливає на максимальну відстань, на якій цей персонаж може бачити інші об'єкти та персонажів.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>радіус зору: макс. {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>радіус зору</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>Впливає на максимальну відстань, на якій цей персонаж може бачити інші об'єкти та персонажів.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>радіус зору: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>зміна частоти дій персонажа</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>Впливає на кількість дозволених ходів за хід для цього персонажа.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>не може завдати вам шкоди</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>Ви захищені від атак цього персонажа до наступного ходу. Однак, якщо ви завдасте шкоди цьому персонажу, ефект буде знято. Зауважте, що використання нешкідливих заклинань дозволено.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>спить</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>Цей персонаж спить. Він прокинеться, якщо до нього наблизитись або потурбувати.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>залишає слід</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>Цей персонаж залишає слід щоразу, коли рухається.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>залишає слід із {0}</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>регенерація витривалості</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>Витривалість цього персонажа автоматично відновлюється з часом.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>регенерація витривалості ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>Виснаження</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>Ви виснажені й мусите щось з'їсти. Окрім того, що не відновлюється здоров'я та не розпізнаються предмети, регенерація вашої витривалості зупиняється, і ви поступово втрачаєте здоров'я з часом. Штрафи від голоду далі не прогресуватимуть.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>Виснаження ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>Випробування калічення</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>Для цього персонажа триває Випробування калічення. Він мусить знищити певну кількість частин тіла за короткий час, щоб завершити випробування та отримати нагороду.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>Випробування калічення ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>Для цього персонажа триває Випробування калічення. Він мусить знищити {0} частин тіла протягом {1} ходів, щоб завершити випробування та отримати нагороду.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>Випробування спритного вбивці</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>Для цього персонажа триває Випробування спритного вбивці. Він мусить вбити певну кількість гідних ворогів за короткий час, щоб завершити випробування та отримати нагороду.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>Випробування спритного вбивці ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>Для цього персонажа триває Випробування спритного вбивці. Він мусить вбити {0} гідних ворогів протягом {1} ходів, щоб завершити випробування та отримати нагороду.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>Випробування бездоганного</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>Для цього персонажа триває Випробування бездоганного. Він мусить вбити певну кількість гідних ворогів, не втративши жодного очка здоров'я, щоб завершити випробування та отримати нагороду.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>Випробування бездоганного ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>Для цього персонажа триває Випробування бездоганного. Він мусить вбити {0} гідних ворогів, не втративши жодного очка здоров'я, щоб завершити випробування та отримати нагороду.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>Мокрий</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>Цей персонаж мокрий, що надає йому 50% опору до шкоди від вогню, але також уповільнює природну регенерацію витривалості вдвічі.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,57 @@
+﻿<SpecTranslations>
+
+  <BodyPartsDamage.label>анатом</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>Завдавайте на 30% більше шкоди при прямому ударі по частині тіла.</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>липкий</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>50% шанс автоматично заплутати будь-кого, хто вас атакує, на 1 хід.</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>вибухостійкий</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>Отримуйте на 80% менше шкоди від вибухів.</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>швидке одужання</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>Природна регенерація здоров'я вдвічі швидша.</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>енергійний</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>Природна регенерація витривалості вдвічі швидша.</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>життєва сила</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>Отримайте +1 до максимального здоров'я.</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>маг</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>Отримайте +1 до максимальної мани та отримуйте на 50% менше магічної шкоди.</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>атлет</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>Отримайте +2 до максимальної витривалості.</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>зломщик</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>Відкривайте зелені скрині, стародавні контейнери та королівські двері без потреби шукати ключі. Також відкривайте клітки, не перемагаючи спочатку боса.</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>переговорник</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>Крамничарі продають предмети на 50% дешевше, а мандрівники розпізнають предмети за на 50% меншу ціну в золоті.</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>гурман</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>Їжа відновлює вдвічі більше здоров'я, ніж зазвичай.</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>збирач</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>Знаходьте більше сирого м'яса в підземеллі.</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>розбійник</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>Знаходьте більше розставних пасток у підземеллі.</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>акробат</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>Стрибайте з будь-якої висоти без шкоди від падіння. Крім того, ви падаєте швидше.</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>відбиття атак</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>Шкода, заблокована щитом, відбивається на випадкового ворога поруч із вами, за винятком нападника.</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>майстер щита</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>Використання щитів вимагає на 50% менше витривалості.</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>аскет</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>Вам не потрібно їсти так часто — голод наступає вдвічі повільніше.</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>бонус в оточенні</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>Завдавайте на 25% більше шкоди, поки поруч із вами є щонайменше 2 вороги.</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,31 @@
+﻿<SpecTranslations>
+
+  <AttackAndBackOff.label>se acerca y ataca, luego retrocede para evitar ser golpeado</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>ataca, luego huye durante 8 turnos a menos que esté acorralado</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>no se acerca primero, pero se queda si se le acercan</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>siempre huye</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>mantiene la distancia a menos que esté acorralado</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>mantiene la distancia a menos que esté acorralado o no tenga un arma</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>sigue al jugador y ataca (miembro del grupo)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>sigue al jugador y ataca de forma oportunista</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>se acerca y ataca</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>se queda quieto o huye si es atacado</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>se queda quieto</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>se queda quieto y cura a los aliados</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>se queda quieto o huye si es atacado</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>roba y luego huye</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

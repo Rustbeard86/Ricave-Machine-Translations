@@ -1,0 +1,110 @@
+﻿<SpecTranslations>
+
+  <BannerPuzzle.label>банер головоломки</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>Барвистий банер.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>трофей</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Кожен трофей боса генерує зоряний пил, кількість якого дорівнює номеру поверху, на якому боса було вбито. Зоряний пил поповнюється щоразу, коли ви досягаєте принаймні другого поверху підземелля.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>гардероб</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Змініть тут свій зовнішній вигляд.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>дошка щоденних випробувань</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Беріть участь у щоденних випробуваннях. Усі гравці по всьому світу отримують однакове випробування щодня!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>вітрина</Display.label> <!-- <En>display</En> -->
+  <Display.description>Місце для предмета.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>портал</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Це кінець?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>тригер фінального діалогу</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>табличка коридору</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>За цими дверима — коридор.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>двері</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Схоже, ці двері замкнені.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>двері</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Схоже, ці двері замкнені.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Бажаєте відкрити коридор за 60 од. зоряного пилу?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Відкрити</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>двері</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Схоже, ці двері замкнені.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Бажаєте відкрити тренувальну кімнату за 20 од. зоряного пилу?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Відкрити</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Двері спогадів</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>Двері, які можна відкрити, лише зібравши всі 4 Фрагменти спогадів.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>двері-головоломка</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>Двері, які можна відкрити, зібравши всі 10 частин головоломки. На кожному поверсі підземелля є одна частина, і за одне проходження можна знайти лише одну. Це означає, що остання частина буде на 10-му поверсі.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>чарівне дзеркало</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Змініть тут свої риси.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Двері спогадів</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>Двері, які можна відкрити, лише зібравши всі 4 Фрагменти спогадів.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Фрагмент спогадів</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>Невідомий Фрагмент спогадів.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Фрагмент спогадів</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>Невідомий Фрагмент спогадів.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Фрагмент спогадів</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>Невідомий Фрагмент спогадів.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Фрагмент спогадів</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>Невідомий Фрагмент спогадів.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>сходи</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>Сходи, що ведуть до підземелля.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>сходи</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>Сходи, що ведуть до підземелля, які дозволяють використовувати конкретне зерно світу. У цьому підземеллі весь прогрес лобі та квести вимкнені.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>табличка особистої кімнати</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>Ваша особиста кімната. Тобто, коли ви її купите.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>двері-головоломка</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>Двері, що були відкриті шляхом збору всіх частин головоломки.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>табличка кімнати з головоломками</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Таємнича кімната.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>дошка завдань</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Переглянути всі доступні та виконані завдання.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>вивіска крамниці</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Тут є крамниця. Ви можете витрачати зоряний пил на придбання підсилень для наступних проходжень.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>небо</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>Гарний краєвид.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>небо</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>Гарний краєвид.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>сходи</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>Сходи, що ведуть до підземелля.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>дошка статистики</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Переглянути всю вашу статистику.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>табличка тренувальної кімнати</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Тут є тренувальна кімната. Ви можете тренуватися проти різноманітних ворогів.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>сходи</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>Сходи, що ведуть до тренувальної кімнати. Тренуйтеся проти ворогів та босів.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>купа сміття</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>Купа сміття, що блокує цю комірку. Використайте зоряний пил, щоб прибрати її назавжди.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>Бажаєте прибрати цю купу сміття за 40 од. зоряного пилу?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Прибрати</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>настінна лампа</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>Стильна настінна лампа.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

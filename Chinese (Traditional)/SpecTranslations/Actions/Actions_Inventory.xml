@@ -1,0 +1,33 @@
+﻿<SpecTranslations>
+
+  <DestroyItemInInventory.label>摧毀</DestroyItemInInventory.label> <!-- <En>destroy</En> -->
+  <DestroyItemInInventory.Destroys>{0}摧毀了{1}</DestroyItemInInventory.Destroys> <!-- <En>{0} destroys {1}</En> -->
+
+  <DropItem.label>丟棄</DropItem.label> <!-- <En>drop</En> -->
+  <DropItem.Drops>{0}丟棄了{1}</DropItem.Drops> <!-- <En>{0} drops {1}</En> -->
+
+  <Equip.label>裝備</Equip.label> <!-- <En>equip</En> -->
+  <Equip.Equips>{0}裝備了{1}</Equip.Equips> <!-- <En>{0} equips {1}</En> -->
+
+  <MoveItemInInventory.label>移動物品</MoveItemInInventory.label> <!-- <En>move item in inventory</En> -->
+  <MoveItemInInventory.IsMovedInSInventory>{1}已在{0}的物品庫存中移動</MoveItemInInventory.IsMovedInSInventory> <!-- <En>{1} is moved in {0}'s inventory</En> -->
+
+  <RefundSkill.label>重置技能</RefundSkill.label> <!-- <En>refund skill</En> -->
+  <RefundSkill.Refunds>{0}重置了{1}</RefundSkill.Refunds> <!-- <En>{0} refunds {1}</En> -->
+
+  <SortInventory.label>整理物品庫存</SortInventory.label> <!-- <En>sort inventory</En> -->
+  <SortInventory.SortsInventory>{0}整理了物品庫存</SortInventory.SortsInventory> <!-- <En>{0} sorts inventory</En> -->
+
+  <Transfer.label>給予</Transfer.label> <!-- <En>transfer</En> -->
+  <Transfer.GivesTo>{0}將{1}給予{2}</Transfer.GivesTo> <!-- <En>{0} gives {1} to {2}</En> -->
+
+  <Unequip.label>卸下</Unequip.label> <!-- <En>unequip</En> -->
+  <Unequip.Unequips>{0}卸下了{1}</Unequip.Unequips> <!-- <En>{0} unequips {1}</En> -->
+
+  <UnlockSkill.label>解鎖技能</UnlockSkill.label> <!-- <En>unlock skill</En> -->
+  <UnlockSkill.Unlocks>{0}解鎖了{1}</UnlockSkill.Unlocks> <!-- <En>{0} unlocks {1}</En> -->
+
+  <UseRecipe.label>使用配方</UseRecipe.label> <!-- <En>use recipe</En> -->
+  <UseRecipe.CombinesItems>{0}組合了物品</UseRecipe.CombinesItems> <!-- <En>{0} combines items</En> -->
+
+</SpecTranslations>

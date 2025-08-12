@@ -1,0 +1,243 @@
+﻿<SpecTranslations>
+
+  <AncientContainer.label>стародавній контейнер</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Цей контейнер можна відкрити лише за допомогою 3 стародавніх механізмів. Усі вони мають бути десь на цьому поверсі.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Ви бачите перед собою стародавній контейнер.\n\nЙого можна відкрити лише за допомогою 3 стародавніх механізмів.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Відкрити</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>стародавній пристрій</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>Якийсь стародавній пристрій, який ви можете дослідити. Якщо ви дослідите всі три, то зможете розблокувати його та отримати нагороду.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>басейн з протиотрутою</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>Невеликий басейн, наповнений протиотрутою. Тут ви можете зняти статус отруєння в обмін на ману.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Ви бачите перед собою басейн з протиотрутою.\n\nТут ви можете зняти статус отруєння в обмін на ману.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>Випити</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>ковадло</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Тут ви можете покращити рівень свого спорядження.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Ви бачите перед собою ковадло.\n\nТут ви можете покращити рівень свого спорядження в обмін на залізо.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>ліжко</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>Затишне ліжко. Тут ви можете відновити частину здоров'я, але є 50% шанс, що вас помітить ворог.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Ви бачите перед собою ліжко.\n\nТут ви можете відновити частину здоров'я, але є 50% шанс, що вас помітить ворог.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Спати</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>великий магніт</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>Кожного другого ходу притягує до себе всіх навколо.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>книжкова полиця</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>Полиця з книгами, яка дасть вам очко навичок.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>клітка</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>Металева клітка з чимось або кимось усередині. Ви можете відкрити її, лише якщо на цьому поверсі підземелля немає живого боса.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Ви бачите перед собою велику, металеву, іржаву клітку.\n\nБажаєте її відкрити?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Відкрити</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>гармата</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>Смертельна пастка, яка завдасть шкоди всім, хто стоїть на лінії вогню. Активується атакою.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>казан</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Обміняйте будь-яке зілля на випадковий сувій.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Ви бачите перед собою казан.\n\nТут ви можете обміняти будь-яке зілля на випадковий сувій.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>шипи на стелі</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>Смертельна пастка, яка завдасть шкоди кожному, хто стоїть під нею. Активується атакою.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>скриня</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>У цій скрині є все, що ви могли б забажати у своєму житті. Або ж гнилий шматок тканини та кілька каменів.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>статуя диявола</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>Зловісна статуя. Приймає прокляті предмети в обмін на нагороди.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>Статуя диявола дивиться на вас.\n\nЯкщо у вас є проклятий предмет, ви можете віддати його статуї за нагороду.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>рештки дракона</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>Купа драконячих кісток. Тут може бути щось заховано.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Ви бачите перед собою рештки дракона.\n\nЯкщо бажаєте, можете пошукати тут прихований скарб.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Шукати</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>дуплікатор</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>Пристрій, який може дублювати будь-який предмет... або зламати його.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Ви бачите перед собою дуплікатор.\n\nЗа 30 золотих ви можете спробувати дублювати предмет.\n\nОднак є 40% шанс, що предмет буде натомість знищено.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>електронний сейф</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Цей сейф можна відкрити, лише натиснувши кнопку десь в іншому місці.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>кнопка</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Ця кнопка відкриє електронний сейф десь неподалік.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>стіл зачарування</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Зачаруйте своє спорядження в обмін на невелику пожертву.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Ви бачите перед собою стіл зачарування.\n\nПід столом є отвір для монет і табличка, яка говорить, що для продовження потрібна невелика пожертва у 170 золотих.\n\nВипадкове зачарування буде накладено на вашу зброю або броню на вибір.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>фонтан</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Випийте з цього фонтану, щоб отримати слабкий, але тривалий ефект - позитивний або негативний.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Ви бачите перед собою фонтан.\n\nПиття з нього матиме слабкий, але тривалий магічний ефект.\n\nМожете кинути кілька золотих монет на удачу.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>Випити</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Фонтан Життя</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Пиття з цього фонтану повністю вас зцілить, відновить всю ману, витривалість, ситість, а також надасть короткочасний імунітет до отрути.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Ви бачите перед собою Фонтан Життя.\n\nПиття з цього фонтану повністю вас зцілить, відновить всю ману, витривалість, ситість і надасть короткочасний імунітет до отрути.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>Випити</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>гральний стіл</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Зробіть ставку, якщо відчуваєте, що вам щастить.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Ви бачите перед собою гральний стіл.\n\nВи можете зробити ставку, якщо відчуваєте, що вам щастить, і з шансом 50/50 подвоїти виграш або програти.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>позолочена скринька</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>Ця скринька має отвір для монет. Ви можете відкрити її, вставивши 50 золотих.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Ви бачите перед собою позолочену скриньку.\n\nВи можете відкрити її, вставивши 50 золотих.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Відкрити</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>могила</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Розкопайте, щоб знайти прихований скарб.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Ви бачите перед собою могилу.\n\nТут точно щось поховано.\n\nВи можете розкопати могилу або залишити її в спокої. Хто знає, що ви можете тут знайти.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Копати</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>зелена скриня</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Цю скриню можна відкрити лише за допомогою 3 фрагментів зеленого ключа. Зазвичай їх носять вороги.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Ви бачите перед собою зелену скриню.\n\nЇї можна відкрити лише за допомогою 3 фрагментів зеленого ключа.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Відкрити</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>підвісна клітка</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>Металева клітка з чимось або кимось усередині. Ви можете відкрити її, лише якщо на цьому поверсі підземелля немає живого боса.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Ви бачите перед собою велику, металеву, іржаву клітку.\n\nБажаєте її відкрити?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Відкрити</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>цілющий кристал</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Відновлює всі ваші очки здоров'я.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>цілюща рослина</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>Рослина з незвичайними цілющими властивостями. Ви можете використати її, щоб зробити зілля здоров'я.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>важіль</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Відкриває всі ворота та сповіщає всіх на поверсі. Тягніть його, лише коли будете готові втікати!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Бажаєте потягнути за важіль?\n\nВін відкриє всі ворота, але всі вороги прокинуться.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Потягнути</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>вівтар пожертви кінцівки</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Тут ви можете пожертвувати свою кінцівку в обмін на випадкову нагороду.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Ви бачите перед собою вівтар пожертви кінцівки.\n\nТут ви можете пожертвувати свою кінцівку в обмін на випадкову нагороду.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Пожертвувати кінцівку</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>кристал мани</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Відновлює всю вашу ману, щоб ви знову могли використовувати заклинання.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>рослина мани</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>Рослина з незвичайними магічними властивостями. Ви можете використати її, щоб зробити зілля мани.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>металевий ящик</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>Металевий ящик. Може містити щось корисне.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>Вівтар Фантома</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Викличте смертоносного Фантома. Отримайте бонус до фізичної шкоди в обмін на погіршення зору.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>Ви бачите перед собою Вівтар Фантома.\n\nТут ви можете викликати смертоносного Фантома, за що отримаєте +25% до фізичної шкоди.\n\nКрім того, на 25 ходів ваш радіус зору буде встановлено на 1.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Викликати</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>портал</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>Телепортує вас у випадкове місце на карті. Однак при повторному використанні він завжди переноситиме вас у те саме місце.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>безконтактна бомба</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Ця бомба має безконтактний детонатор і вибухне через кілька ходів після наближення.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>безконтактна вогняна бомба</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Ця вогняна бомба має безконтактний детонатор і вибухне через кілька ходів після наближення.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>безконтактна димова шашка</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Ця димова шашка має безконтактний детонатор і вибухне через кілька ходів після наближення.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>щуряче гніздо</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Гніздо, повне щурів. Щурі не вилізуть, якщо їх не потривожити. Ви можете обшукати його в пошуках скарбу.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Ви бачите перед собою щуряче гніздо.\n\nЯкщо бажаєте, ви можете пошукати тут прихований скарб.\n\nОднак, якщо ви це зробите, з гнізда почнуть вилазити щурі.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Шукати</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>святилище розбійника</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Отримайте більше витривалості, кращий радіус огляду та опір шкоді від вогню на деякий час за невелику пожертву.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Ви бачите перед собою святилище розбійника.\n\nОтримайте більше витривалості, кращий радіус огляду та опір шкоді від вогню за невелику пожертву.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Продовжити</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>кінцевий портал</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>Яскравий портал. Це кінець.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>жертовний вівтар</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Принесіть у жертву двох гідних супротивників на цьому вівтарі, щоб отримати нагороду.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>сейф</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>Він може містити щось цінне, але знищити його може бути складно. Можливо, за допомогою вибухівки?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>крамниця</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Ніщо не зрівняється зі свіжовичавленим апельсиновим со... тобто, я маю на увазі, зіллям сили.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>святилище</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Отримайте благословення, безкоштовно!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Ви бачите перед собою святилище.\n\nТут ви можете отримати благословення.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Продовжити</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>срібна скриня</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Схоже, вона може містити щось цінне. Щоб її відкрити, потрібен срібний ключ.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Ви бачите перед собою срібну скриню.\n\nЇї можна відкрити лише срібним ключем.\n\nЗауважте, що замкнених скринь може бути більше, ніж доступних ключів, тому витрачайте ключі з розумом.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Відкрити</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>скелетні останки</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>Купа кісток. Тут може бути щось приховане.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Ви бачите перед собою скелетні останки.\n\nЯкщо бажаєте, ви можете пошукати тут прихований скарб.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Шукати</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>малий кристал зцілення</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>Зцілює 50% від ваших максимальних очок здоров'я.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>малий кристал мани</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>Відновлює 50% від вашої максимальної мани.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>сходи</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>Сходи, що ведуть на нижчий рівень цього підземелля.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Бажаєте спуститися сходами на нижчий рівень підземелля?\n\nВи не зможете повернутися назад.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Продовжити</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>сходи до лобі</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>Сходи, що ведуть назад до лобі. Це завершить ваш поточний забіг, але ви збережете частину досвіду та золота для наступного. Також ви не втратите одноразові бонуси, придбані в лобі.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Бажаєте повернутися до лобі?\n\nЦе завершить ваш поточний забіг, але ви збережете 25% досвіду та 50% золота для наступного.\nТакож ви не втратите одноразові бонуси, придбані в лобі.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Продовжити</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>хірургічне ліжко</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>Автономний хірургічний апарат, який може відновити всі відсутні частини тіла за невелику плату.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Ви бачите перед собою автономний хірургічний апарат.\n\nПід ним є отвір для монет і табличка з написом, що за 150 золотих монет апарат може відновити всі ваші відсутні частини тіла.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>Заплатити 150 золотих</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>машина часу</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Подорожуйте назад у часі.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Ви бачите перед собою машину часу.\n\nВикориставши її, ви перенесетеся назад у часі.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Використати</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>Випробування каліцтва</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Знищте 6 частин тіла протягом 120 ходів, щоб отримати нагороду.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>Ви бачите перед собою Випробування каліцтва.\n\nЗа певну кількість золота ви можете розпочати виклик: знищити 6 частин тіла протягом 120 ходів.\n\nЗавершивши виклик, ви отримаєте нагороду.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>Заплатити 20 золотих</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>Випробування прудкого вбивці</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Убийте 4 гідних ворогів (що дають досвід) протягом 100 ходів, щоб отримати нагороду.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>Ви бачите перед собою Випробування прудкого вбивці.\n\nЗа певну кількість золота ви можете розпочати виклик: убити 4 гідних ворогів протягом 100 ходів.\n\nЗавершивши виклик, ви отримаєте нагороду.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>Заплатити 20 золотих</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>Випробування бездоганності</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Убийте 2 гідних ворогів (що дають досвід), не втративши жодного очка здоров'я, щоб отримати нагороду.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>Ви бачите перед собою Випробування бездоганності.\n\nЗа певну кількість золота ви можете розпочати виклик: убити будь-яких 2 гідних ворогів, не втративши жодного очка здоров'я.\n\nЗавершивши виклик, ви отримаєте нагороду.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>Заплатити 20 золотих</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>сфера покращення</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Сфера, що дозволяє вибрати постійний ефект. Ви можете вибрати між додатковим здоров'ям, додатковим шансом критичного удару, меншим шансом промаху та опором вогню.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Це сфера покращення, яка надає постійні ефекти на цей забіг.\n\nВи можете вибрати між додатковим здоров'ям, додатковим шансом критичного удару, меншим шансом промаху та опором вогню.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>святилище воїна</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>Дайте волю своєму внутрішньому воїну та доведіть, що ви гідні. Зменште вдвічі максимальне здоров'я в обмін на 25% вищу фізичну шкоду на деякий час.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Ви бачите перед собою святилище воїна.\n\nЗменште вдвічі максимальне здоров'я в обмін на 25% вищу шкоду протягом 400 ходів.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Продовжити</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>осине гніздо</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Гніздо незвично великих ос.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>святилище чарівника</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Збільште максимальну ману та отримайте опір магічній шкоді на деякий час за невелику пожертву.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Ви бачите перед собою святилище чарівника.\n\nЗа 80 золотих ви можете отримати благословення, яке дасть вам +2 до максимальної мани на 400 ходів та опір магічній шкоді на 100 ходів.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>Заплатити 80 золотих</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

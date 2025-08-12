@@ -1,63 +1,63 @@
 ﻿<SpecTranslations>
 
   <AncientContainer.label>古代容器</AncientContainer.label> <!-- <En>ancient container</En> -->
-  <AncientContainer.description>这个容器只能用3个古代机关打开。它们应该都在这一层的某个地方。</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
-  <AncientContainer.YouSeeAnAncientContainer>你看到面前有一个古代容器。\n\n它只能用3个古代机关打开。</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.description>这个容器只能用3个古代机关来打开。它们应该都在这一层的某个地方。</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>你看到一个古代容器在你面前。\n\n它只能用3个古代机关来打开。</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
   <AncientContainer.Open>打开</AncientContainer.Open> <!-- <En>Open</En> -->
 
   <AncientDevice.label>古代装置</AncientDevice.label> <!-- <En>ancient device</En> -->
-  <AncientDevice.description>某种可以研究的古代装置。如果你研究了所有三个，就可以解锁它并获得奖励。</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+  <AncientDevice.description>一种可以研究的古代装置。如果你研究了全部三个，你就可以解锁它并获得奖励。</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
 
-  <AntidoteBasin.label>解毒盆</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
-  <AntidoteBasin.description>一个装满解毒剂的小盆。你可以在这里用一些法力值来解除中毒状态。</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
-  <AntidoteBasin.YouSeeAnAntidoteBasin>你看到面前有一个解毒盆。\n\n你可以在这里用一些法力值来解除中毒状态。</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
-  <AntidoteBasin.Drink>喝</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+  <AntidoteBasin.label>盛有解毒剂的盆</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>一个装满毒药解毒剂的小盆。你可以在这里消耗一些法力来移除中毒状态。</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>你看到一个盛有解毒剂的盆在你面前。\n\n你可以在这里消耗一些法力来移除中毒状态。</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>饮用</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
 
   <Anvil.label>铁砧</Anvil.label> <!-- <En>anvil</En> -->
   <Anvil.description>你可以在这里升级你的装备等级。</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
-  <Anvil.YouSeeAnAnvilInFront>你看到面前有一个铁砧。\n\n你可以在这里用铁来升级你的装备等级。</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>你看到一个铁砧在你面前。\n\n你可以在这里消耗铁来升级你的装备等级。</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
 
   <Bed.label>床</Bed.label> <!-- <En>bed</En> -->
   <Bed.description>一张舒适的床。你可以在这里恢复一些生命值，但有50%的几率被敌人发现。</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
-  <Bed.YouSeeABedInFrontOfYou>你看到面前有一张床。\n\n你可以在这里恢复一些生命值，但有50%的几率被敌人发现。</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>你看到一张床在你面前。\n\n你可以在这里恢复一些生命值，但有50%的几率被敌人发现。</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
   <Bed.Sleep>睡觉</Bed.Sleep> <!-- <En>Sleep</En> -->
 
   <BigMagnet.label>大磁铁</BigMagnet.label> <!-- <En>big magnet</En> -->
   <BigMagnet.description>每隔一回合，它会把周围的所有人拉向自己。</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
 
   <Bookshelf.label>书架</Bookshelf.label> <!-- <En>bookshelf</En> -->
-  <Bookshelf.description>一个装有书籍的架子，可以给你一个技能点。</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+  <Bookshelf.description>一个放着书的书架，可以让你获得一个技能点。</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
 
   <Cage.label>笼子</Cage.label> <!-- <En>cage</En> -->
-  <Cage.description>一个装着某物或某人的金属笼子。只有在地牢楼层没有存活的首领时才能打开它。</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
-  <Cage.YouSeeABigMetalRusty>你看到面前有一个生锈的大金属笼子。\n\n你要打开它吗？</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.description>一个金属笼子，里面关着什么东西或某个人。只有当地下城这一层没有存活的头目时，你才能打开它。</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>你看到一个又大又生锈的金属笼子在你面前。\n\n你想打开它吗？</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
   <Cage.Open>打开</Cage.Open> <!-- <En>Open</En> -->
 
-  <Cannon.label>大炮</Cannon.label> <!-- <En>cannon</En> -->
-  <Cannon.description>一个致命的陷阱，会伤害站在其火线上的所有人。通过攻击来触发它。</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+  <Cannon.label>加农炮</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>一个致命的陷阱，会伤害所有站在其射线上的人。通过攻击来触发它。</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
 
-  <Cauldron.label>大锅</Cauldron.label> <!-- <En>cauldron</En> -->
-  <Cauldron.description>用任何药水换取一个随机卷轴。</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
-  <Cauldron.YouSeeACauldronInFront>你看到面前有一个大锅。\n\n在这里你可以用任何药水换取一个随机卷轴。</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+  <Cauldron.label>坩埚</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>用任意药水换取一个随机卷轴。</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>你看到一个坩埚在你面前。\n\n你可以在这里用任意药水换取一个随机卷轴。</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
 
   <CeilingSpikes.label>天花板尖刺</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
-  <CeilingSpikes.description>一个致命的陷阱，会伤害站在它下面的任何人。通过攻击来触发它。</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+  <CeilingSpikes.description>一个致命的陷阱，会伤害所有站在其下方的人。通过攻击来触发它。</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
 
   <Chest.label>箱子</Chest.label> <!-- <En>chest</En> -->
-  <Chest.description>这个箱子里装着你一生中可能希望得到的一切。或者，也可能是一块腐烂的布和一些石头。</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+  <Chest.description>这个箱子里装着你一生中可能想要的一切。也可能是一块腐烂的布和几块石头。</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
 
   <DevilStatue.label>恶魔雕像</DevilStatue.label> <!-- <En>devil statue</En> -->
-  <DevilStatue.description>一座险恶的雕像。接受被诅咒的物品以换取奖励。</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.description>一尊邪恶的雕像。接受被诅咒的物品以换取奖励。</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
   <DevilStatue.TheDevilStatueStares>恶魔雕像凝视着你。\n\n如果你有任何被诅咒的物品，你可以把它交给雕像以换取奖励。</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
 
   <DragonRemains.label>龙的遗骸</DragonRemains.label> <!-- <En>dragon remains</En> -->
   <DragonRemains.description>一堆龙骨。这里可能藏着什么东西。</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
-  <DragonRemains.YouSeeSomeDragonRemains>你看到面前有一些龙的遗骸。\n\n如果你愿意，你可以在这里寻找隐藏的宝藏。</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>你看到一些龙的遗骸在你面前。\n\n如果你愿意，你可以在这里搜索隐藏的宝藏。</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
   <DragonRemains.Search>搜索</DragonRemains.Search> <!-- <En>Search</En> -->
 
   <Duplicator.label>复制器</Duplicator.label> <!-- <En>duplicator</En> -->
-  <Duplicator.description>一种可以复制任何物品……或摧毁它的装置。</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
-  <Duplicator.YouSeeADuplicatorInFront>你看到面前有一个复制器。\n\n花费30金币，你可以尝试复制一件物品。\n\n然而，有40%的几率物品会被摧毁。</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+  <Duplicator.description>一个可以复制任何物品……或摧毁它的装置。</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>你看到一个复制器在你面前。\n\n花费30金币，你可以尝试复制一个物品。\n\n但是，有40%的几率该物品会被摧毁。</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
 
   <ElectronicSafe.label>电子保险箱</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
   <ElectronicSafe.description>这个保险箱只能通过按别处的按钮来打开。</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
@@ -66,178 +66,178 @@
   <ElectronicSafeButton.description>这个按钮会打开某个地方的电子保险箱。</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
 
   <EnchantingTable.label>附魔台</EnchantingTable.label> <!-- <En>enchanting table</En> -->
-  <EnchantingTable.description>用少量捐赠来附魔你的装备。</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
-  <EnchantingTable.YouSeeAnEnchantingTable>你看到面前有一个附魔台。\n\n桌子下面有一个投币口，还有一个牌子写着需要捐赠170金币才能继续。\n\n一个随机的附魔将被应用到你选择的武器或盔甲上。</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+  <EnchantingTable.description>消耗少量捐赠来附魔你的装备。</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>你看到前方有一张附魔台。\n\n桌子下方有一个投币口，旁边的牌子上写着需要捐赠170枚金币才能继续。\n\n一个随机的附魔将被施加到你选择的武器或盔甲上。</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
 
   <Fountain.label>喷泉</Fountain.label> <!-- <En>fountain</En> -->
-  <Fountain.description>从这个喷泉喝水会得到一个温和但持久的效果——可能是正面的，也可能是负面的。</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
-  <Fountain.YouSeeAFountainInFront>你看到面前有一个喷泉。\n\n从它那里喝水会产生一个温和但持久的魔法效果。\n\n你可以扔一些金币进去祈求好运。</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
-  <Fountain.Drink>喝</Fountain.Drink> <!-- <En>Drink</En> -->
+  <Fountain.description>饮用此喷泉的水可获得一种温和但持久的效果——可能是增益，也可能是减益。</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>你看到前方有一座喷泉。\n\n饮用它的水会产生一种温和但持久的魔法效果。\n\n你可以投入一些金币来祈求好运。</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>饮用</Fountain.Drink> <!-- <En>Drink</En> -->
 
   <FountainOfLife.label>生命之泉</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
-  <FountainOfLife.description>从这个喷泉喝水会完全治愈你，恢复所有法力、耐力和饱食度，并提供短暂的毒素免疫。</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
-  <FountainOfLife.YouSeeAFountainOfLife>你看到面前有一个生命之泉。\n\n从这个喷泉喝水会完全治愈你，恢复所有法力、耐力和饱食度，并提供短暂的毒素免疫。</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
-  <FountainOfLife.Drink>喝</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+  <FountainOfLife.description>饮用此喷泉的水将完全治愈你，恢复所有法力、耐力和饱食度，并提供短暂的毒素免疫。</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>你看到前方有一座生命之泉。\n\n饮用此喷泉的水将完全治愈你，恢复所有法力、耐力和饱食度，并提供短暂的毒素免疫。</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>饮用</FountainOfLife.Drink> <!-- <En>Drink</En> -->
 
   <GamblingTable.label>赌桌</GamblingTable.label> <!-- <En>gambling table</En> -->
-  <GamblingTable.description>如果你觉得幸运，可以赌点钱。</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
-  <GamblingTable.YouSeeAGamblingTable>你看到面前有一张赌桌。\n\n如果你觉得幸运，可以赌点钱，有50/50的机会赢双倍或输光。</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+  <GamblingTable.description>如果你觉得手气不错，可以下注赌一把。</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>你看到前方有一张赌桌。\n\n如果你觉得手气不错，可以下注赌一把，有50/50的几率赢得双倍或输掉赌注。</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
 
   <GildedLockbox.label>镀金锁盒</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
-  <GildedLockbox.description>这个锁盒有一个投币口。你可以投入50金币来打开它。</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
-  <GildedLockbox.YouSeeAGildedLockbox>你看到面前有一个镀金锁盒。\n\n你可以投入50金币来打开它。</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.description>这个锁盒有一个投币口。投入50金币即可打开。</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>你看到前方有一个镀金锁盒。\n\n投入50金币即可打开。</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
   <GildedLockbox.Open>打开</GildedLockbox.Open> <!-- <En>Open</En> -->
 
   <Grave.label>坟墓</Grave.label> <!-- <En>grave</En> -->
   <Grave.description>挖掘以寻找隐藏的宝藏。</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
-  <Grave.YouSeeAGraveInFrontOf>你看到面前有一座坟墓。\n\n这里肯定埋着什么东西。\n\n你可以挖开坟墓，也可以让它安息。谁知道你会在这里找到什么。</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>你看到前方有一座坟墓。\n\n这里肯定埋着什么东西。\n\n你可以选择挖掘坟墓，或者让它安息。谁知道你会在这里发现什么。</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
   <Grave.Dig>挖掘</Grave.Dig> <!-- <En>Dig</En> -->
 
-  <GreenChest.label>绿色箱子</GreenChest.label> <!-- <En>green chest</En> -->
-  <GreenChest.description>这个箱子只能用3个绿色钥匙碎片打开。通常，敌人会携带它们。</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
-  <GreenChest.YouSeeAGreenChestInFront>你看到面前有一个绿色箱子。\n\n它只能用3个绿色钥匙碎片打开。</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.label>绿色宝箱</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>这个宝箱只能用3个绿色钥匙碎片打开。通常，敌人会携带这些碎片。</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>你看到前方有一个绿色宝箱。\n\n它只能用3个绿色钥匙碎片打开。</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
   <GreenChest.Open>打开</GreenChest.Open> <!-- <En>Open</En> -->
 
   <HangingCage.label>吊笼</HangingCage.label> <!-- <En>hanging cage</En> -->
-  <HangingCage.description>一个装着某物或某人的金属笼子。只有在地牢楼层没有存活的首领时才能打开它。</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
-  <HangingCage.YouSeeABigMetalRusty>你看到面前有一个生锈的大金属笼子。\n\n你要打开它吗？</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.description>一个金属笼子，里面有东西或人。只有当地下城楼层没有存活的头目时，你才能打开它。</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>你看到前方有一个巨大的、生锈的金属笼子。\n\n你想打开它吗？</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
   <HangingCage.Open>打开</HangingCage.Open> <!-- <En>Open</En> -->
 
   <HealingCrystal.label>治疗水晶</HealingCrystal.label> <!-- <En>healing crystal</En> -->
   <HealingCrystal.description>治愈你所有的生命值。</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
 
   <Healplant.label>治疗草</Healplant.label> <!-- <En>healplant</En> -->
-  <Healplant.description>一种具有不寻常治疗功效的植物。你可以用它来制作生命药水。</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+  <Healplant.description>一种具有非凡治疗特性的植物。你可以用它来制作生命药水。</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
 
-  <Lever.label>杠杆</Lever.label> <!-- <En>lever</En> -->
-  <Lever.description>打开所有大门并惊动楼层上的所有人。只有在你准备好逃跑时才拉动它！</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
-  <Lever.DoYouWantToPullTheLever>你想要拉动杠杆吗？\n\n它会打开所有大门，但所有敌人都会醒来。</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.label>拉杆</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>打开所有大门并惊动楼层上的所有人。只有当你准备好逃跑时才拉动它！</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>你想要拉动拉杆吗？\n\n它会打开所有大门，但所有敌人都会被惊醒。</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
   <Lever.Pull>拉动</Lever.Pull> <!-- <En>Pull</En> -->
 
-  <LimbOfferingAltar.label>肢体献祭祭坛</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
-  <LimbOfferingAltar.description>你可以在这里献祭你的肢体以换取随机奖励。</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
-  <LimbOfferingAltar.YouSeeALimbOfferingAltar>你看到面前有一个肢体献祭祭坛。\n\n在这里你可以献祭你的肢体以换取随机奖励。</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.label>献祭肢体祭坛</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>你可以在此献祭你的肢体以换取随机奖励。</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>你看到前方有一座献祭肢体祭坛。\n\n你可以在此献祭你的肢体以换取随机奖励。</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
   <LimbOfferingAltar.OfferLimb>献祭肢体</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
 
   <ManaCrystal.label>法力水晶</ManaCrystal.label> <!-- <En>mana crystal</En> -->
-  <ManaCrystal.description>恢复你所有的法力，这样你就可以再次使用你的法术了。</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+  <ManaCrystal.description>恢复你所有的法力，这样你就可以再次使用法术了。</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
 
   <Manaplant.label>法力草</Manaplant.label> <!-- <En>manaplant</En> -->
-  <Manaplant.description>一种具有不寻常魔法功效的植物。你可以用它来制作法力药水。</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+  <Manaplant.description>一种具有非凡魔法特性的植物。你可以用它来制作法力药水。</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
 
   <MetalCrate.label>金属箱</MetalCrate.label> <!-- <En>metal crate</En> -->
   <MetalCrate.description>一个金属箱。可能装有有用的东西。</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
 
   <PhantomsAltar.label>幻影祭坛</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
-  <PhantomsAltar.description>召唤一个致命的幻影。获得物理伤害加成，但代价是视力受损。</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
-  <PhantomsAltar.YouSeeAPhantomsAltar>你看到面前有一个幻影祭坛。\n\n在这里你可以召唤一个致命的幻影，从而获得+25%的物理伤害。\n\n此外，在25回合内你的视野范围将被设置为1。</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.description>召唤一个致命的幻影。获得物理伤害加成，代价是视力受损。</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>你看到前方有一座幻影祭坛。\n\n你可以在此召唤一个致命的幻影，作为回报，你将获得+25%的物理伤害加成。\n\n此外，在接下来的25个回合内，你的视野范围将被设置为1。</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
   <PhantomsAltar.Summon>召唤</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
 
   <Portal.label>传送门</Portal.label> <!-- <En>portal</En> -->
-  <Portal.description>它会把你传送到地图上的一个随机位置。然而，再次使用时，它总是会把你带到同一个位置。</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+  <Portal.description>它会将你传送到地图上的一个随机位置。但是，再次使用时，它会把你传送到同一个位置。</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
 
   <ProximityBomb.label>感应炸弹</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
-  <ProximityBomb.description>这个炸弹有一个感应触发器，接近后几回合会爆炸。</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+  <ProximityBomb.description>这枚炸弹带有近炸引信，靠近后几回合内会爆炸。</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
 
-  <ProximityFireBomb.label>感应火焰炸弹</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
-  <ProximityFireBomb.description>这个火焰炸弹有一个感应触发器，接近后几回合会爆炸。</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+  <ProximityFireBomb.label>感应燃烧弹</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>这枚燃烧弹带有近炸引信，靠近后几回合内会爆炸。</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
 
   <ProximitySmokeBomb.label>感应烟雾弹</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
-  <ProximitySmokeBomb.description>这个烟雾弹有一个感应触发器，接近后几回合会爆炸。</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+  <ProximitySmokeBomb.description>这枚烟雾弹带有近炸引信，靠近后几回合内会爆炸。</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
 
-  <RatNest.label>老鼠窝</RatNest.label> <!-- <En>rat nest</En> -->
-  <RatNest.description>一个满是老鼠的窝。除非被打扰，否则老鼠不会出来。你可以搜索它寻找隐藏的宝藏。</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
-  <RatNest.YouSeeARatNestInFront>你看到面前有一个老鼠窝。\n\n如果你愿意，你可以在这里寻找隐藏的宝藏。\n\n然而，如果你这么做，老鼠就会从这个窝里出来。</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.label>鼠巢</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>一个满是老鼠的巢穴。除非受到惊扰，否则老鼠不会出来。你可以搜索它以寻找隐藏的宝藏。</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>你面前有一个鼠巢。\n\n如果你愿意，可以在这里搜索隐藏的宝藏。\n\n但是，如果你这么做，老鼠就会开始从这个巢穴里涌出。</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
   <RatNest.Search>搜索</RatNest.Search> <!-- <En>Search</En> -->
 
   <RogueShrine.label>盗贼神龛</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
-  <RogueShrine.description>用少量捐赠换取一段时间内更多的耐力、更好的视野范围和火焰伤害抗性。</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
-  <RogueShrine.YouSeeARoguesShrineIn>你看到面前有一个盗贼神龛。\n\n用少量捐赠换取更多的耐力、更好的视野范围和火焰伤害抗性。</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.description>只需少量捐赠，即可在一段时间内获得更多耐力、更广视野和火焰伤害抗性。</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>你面前有一座盗贼神龛。\n\n只需少量捐赠，即可获得更多耐力、更广视野和火焰伤害抗性。</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
   <RogueShrine.Proceed>继续</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
 
   <RunEndPortal.label>终点传送门</RunEndPortal.label> <!-- <En>end portal</En> -->
   <RunEndPortal.description>一个明亮的传送门。这就是终点。</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
 
   <SacrificialAltar.label>献祭祭坛</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
-  <SacrificialAltar.description>在这个祭坛上献祭两个有价值的对手以获得奖励。</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+  <SacrificialAltar.description>在这座祭坛上献祭两个强大的对手以获得奖励。</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
 
   <Safe.label>保险箱</Safe.label> <!-- <En>safe</En> -->
-  <Safe.description>它可能装有贵重物品，但摧毁它可能很棘手。也许用些炸药？</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+  <Safe.description>它可能装有贵重物品，但摧毁它可能很棘手。或许可以用些炸药？</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
 
   <Shop.label>商店</Shop.label> <!-- <En>shop</En> -->
-  <Shop.description>没有什么比一杯鲜榨橙汁……我是说力量药水更好的了。</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+  <Shop.description>没有什么比一杯鲜榨橙汁……我是说力量药水更棒的了。</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
 
   <Shrine.label>神龛</Shrine.label> <!-- <En>shrine</En> -->
-  <Shrine.description>免费获得祝福！</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
-  <Shrine.YouSeeAShrineInFront>你看到面前有一个神龛。\n\n你可以在这里获得祝福。</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.description>免费获得一个祝福！</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>你面前有一座神龛。\n\n你可以在这里获得一个祝福。</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
   <Shrine.Proceed>继续</Shrine.Proceed> <!-- <En>Proceed</En> -->
 
-  <SilverChest.label>银箱子</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.label>银箱</SilverChest.label> <!-- <En>silver chest</En> -->
   <SilverChest.description>它看起来可能装有贵重物品。你需要一把银钥匙才能打开它。</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
-  <SilverChest.YouSeeASilverChestIn>你看到面前有一个银箱子。\n\n它只能用银钥匙打开。\n\n请注意，锁着的箱子可能比可用的钥匙多，所以要明智地使用你的钥匙。</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.YouSeeASilverChestIn>你面前有一个银箱。\n\n它只能用银钥匙打开。\n\n请注意，上锁的箱子可能比可用的钥匙多，所以请明智地使用你的钥匙。</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
   <SilverChest.Open>打开</SilverChest.Open> <!-- <En>Open</En> -->
 
   <SkeletalRemains.label>骸骨</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
-  <SkeletalRemains.description>一堆骨头。这里可能藏着什么东西。</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
-  <SkeletalRemains.YouSeeSomeSkeletalRemains>你看到面前有一些骸骨。\n\n如果你愿意，你可以在这里寻找隐藏的宝藏。</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.description>一堆白骨。这里可能藏着什么东西。</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>你面前有一些骸骨。\n\n如果你愿意，可以在这里搜索隐藏的宝藏。</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
   <SkeletalRemains.Search>搜索</SkeletalRemains.Search> <!-- <En>Search</En> -->
 
   <SmallHealingCrystal.label>小型治疗水晶</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
-  <SmallHealingCrystal.description>治愈你最大生命值的50%。</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+  <SmallHealingCrystal.description>治疗最大生命值的50%。</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
 
   <SmallManaCrystal.label>小型法力水晶</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
-  <SmallManaCrystal.description>恢复你最大法力的50%。</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+  <SmallManaCrystal.description>恢复最大法力值的50%。</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
 
   <Staircase.label>楼梯</Staircase.label> <!-- <En>staircase</En> -->
   <Staircase.description>通往地牢下一层的楼梯。</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
-  <Staircase.DoYouWantToGoDownThe>你想要下楼梯到地牢的下一层吗？\n\n你将无法回来。</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.DoYouWantToGoDownThe>你要走下楼梯去地牢的下一层吗？\n\n你将无法返回。</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
   <Staircase.Proceed>继续</Staircase.Proceed> <!-- <En>Proceed</En> -->
 
   <StaircaseToLobby.label>通往大厅的楼梯</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
-  <StaircaseToLobby.description>通往大厅的楼梯。这将结束你当前的游戏，但你会为下一次游戏保留一些经验和金币。此外，你不会失去在大厅购买的一次性奖励。</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
-  <StaircaseToLobby.DoYouWantToGoBackToThe>你想要回到大厅吗？\n\n这将结束你当前的游戏，但你会为下一次游戏保留25%的经验和50%的金币。\n此外，你不会失去在大厅购买的一次性奖励。</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.description>通往大厅的楼梯。这会结束你当前的冒险，但你会保留一些经验和金币用于下一次冒险。此外，你不会失去在大厅购买的一次性加成。</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>你想回到大厅吗？\n\n这会结束你当前的冒险，但你会为下一次冒险保留25%的经验和50%的金币。\n此外，你不会失去在大厅购买的一次性加成。</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
   <StaircaseToLobby.Proceed>继续</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
 
   <SurgicalBed.label>手术床</SurgicalBed.label> <!-- <En>surgical bed</En> -->
-  <SurgicalBed.description>一台可以支付少量费用恢复所有缺失身体部位的自主手术机。</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
-  <SurgicalBed.YouSeeAnAutonomousSurgical>你看到面前有一台自主手术机。\n\n下面有一个投币口，还有一个牌子写着支付150金币，机器可以恢复你所有缺失的身体部位。</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.description>一台自动手术机，只需支付少量费用即可恢复所有缺失的身体部位。</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>你面前有一台自动手术机。\n\n机器下方有一个投币口，旁边的牌子上写着：花费150金币，即可恢复你所有缺失的身体部位。</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
   <SurgicalBed.Pay150Gold>支付150金币</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
 
   <TimeMachine.label>时间机器</TimeMachine.label> <!-- <En>time machine</En> -->
   <TimeMachine.description>回到过去。</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
-  <TimeMachine.YouSeeATimeMachineIn>你看到面前有一台时间机器。\n\n使用它会让你回到过去。</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>你面前有一台时间机器。\n\n使用它能让你回到过去。</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
   <TimeMachine.Use>使用</TimeMachine.Use> <!-- <En>Use</En> -->
 
   <TrialOfCrippling.label_2>致残试炼</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
   <TrialOfCrippling.description_2>在120回合内摧毁6个身体部位以获得奖励。</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
-  <TrialOfCrippling.YouSeeATrialOfCrippling>你看到面前有一个致残试炼。\n\n花费一些金币，你可以开始一个在120回合内摧毁6个身体部位的挑战。\n\n完成挑战后，你将获得奖励。</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>你面前是一个致残试炼。\n\n花费一些金币，你就可以开始一项在120回合内摧毁6个身体部位的挑战。\n\n完成挑战后，你将获得一份奖励。</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
   <TrialOfCrippling.Pay20Gold>支付20金币</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
 
   <TrialOfSwiftKiller.label_2>迅捷杀手试炼</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
-  <TrialOfSwiftKiller.description_2>在100回合内杀死4个有价值的（提供经验的）敌人以获得奖励。</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
-  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>你看到面前有一个迅捷杀手试炼。\n\n花费一些金币，你可以开始一个在100回合内杀死4个有价值的敌人的挑战。\n\n完成挑战后，你将获得奖励。</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.description_2>在100回合内击杀4名有价值的（可提供经验值的）敌人以获得奖励。</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>你面前是一个迅捷杀手试炼。\n\n花费一些金币，你就可以开始一项在100回合内击杀4名有价值的敌人的挑战。\n\n完成挑战后，你将获得一份奖励。</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
   <TrialOfSwiftKiller.Pay20Gold>支付20金币</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
 
   <TrialOfUnblemished.label_2>无瑕试炼</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
-  <TrialOfUnblemished.description_2>在不损失任何生命值的情况下杀死2个有价值的（提供经验的）敌人以获得奖励。</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
-  <TrialOfUnblemished.YouSeeATrialOfUnblemished>你看到面前有一个无瑕试炼。\n\n花费一些金币，你可以开始一个在不损失任何生命值的情况下杀死任意2个有价值的敌人的挑战。\n\n完成挑战后，你将获得奖励。</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.description_2>在不损失任何生命值的情况下击杀2名有价值的（可提供经验值的）敌人以获得奖励。</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>你面前是一个无瑕试炼。\n\n花费一些金币，你就可以开始一项在不损失任何生命值的情况下击杀任意2名有价值的敌人的挑战。\n\n完成挑战后，你将获得一份奖励。</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
   <TrialOfUnblemished.Pay20Gold>支付20金币</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
 
   <UpgradeOrb.label>升级宝珠</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
-  <UpgradeOrb.description>一个可以让你选择永久效果的宝珠。你可以在额外生命值、额外暴击率、更低失手率和火焰抗性之间选择。</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
-  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>这是一个升级宝珠，可以为本次游戏提供永久效果。\n\n你可以在额外生命值、额外暴击率、更低失手率和火焰抗性之间选择。</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.description>一个能让你选择永久效果的宝珠。你可以选择额外生命值、额外暴击率、降低失手率和火焰抗性。</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>这是一个升级宝珠，能为本次游戏提供永久效果。\n\n你可以选择额外生命值、额外暴击率、降低失手率和火焰抗性。</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
 
   <WarriorShrine.label>战士神龛</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
-  <WarriorShrine.description>释放你内心的战士，证明你是有价值的。将你的最大生命值减半，以换取一段时间内25%的物理伤害加成。</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
-  <WarriorShrine.YouSeeAWarriorsShrine>你看到面前有一个战士神龛。\n\n将你的最大生命值减半，以换取400回合内25%的伤害加成。</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.description>释放你内心的战士之魂，证明你的价值。以最大生命值减半为代价，在一段时间内换取25%的物理伤害提升。</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>你面前是一座战士神龛。\n\n将你的最大生命值减半，以换取在400回合内25%的伤害提升。</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
   <WarriorShrine.Proceed>继续</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
 
   <WaspNest.label>黄蜂巢</WaspNest.label> <!-- <En>wasp nest</En> -->
-  <WaspNest.description>一个异常巨大的黄蜂巢。</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+  <WaspNest.description>一个巨大黄蜂的巢穴。</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
 
   <WizardShrine.label>巫师神龛</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
-  <WizardShrine.description>用少量捐赠换取一段时间内增加最大法力和一些魔法伤害抗性。</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
-  <WizardShrine.YouSeeAWizardsShrine>你看到面前有一个巫师神龛。\n\n花费80金币，你可以获得一个祝福，在400回合内给你+2最大法力，并在100回合内获得魔法伤害抗性。</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.description>进行少量捐赠，可在一段时间内增加法力值上限并获得魔法伤害抗性。</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>你面前是一座巫师神龛。\n\n花费80金币，你将获得一个祝福，在400回合内为你提供+2法力值上限，并在100回合内提供魔法伤害抗性。</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
   <WizardShrine.Pay80Gold>支付80金币</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
 
 </SpecTranslations>

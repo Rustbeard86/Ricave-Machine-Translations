@@ -1,0 +1,346 @@
+﻿<SpecTranslations>
+
+  <BarredDoor.label>porte barricadée</BarredDoor.label> <!-- <En>barred door</En> -->
+  <BarredDoor.description>Une porte barricadée. Le seul moyen de passer est de la détruire.</BarredDoor.description> <!-- <En>A barred door. The only way to get through is to destroy it.</En> -->
+
+  <Barrel.label>tonneau</Barrel.label> <!-- <En>barrel</En> -->
+  <Barrel.description>Un vieux tonneau. Peut contenir quelque chose d'utile.</Barrel.description> <!-- <En>An old barrel. May contain something useful.</En> -->
+
+  <Bars.label>barreaux</Bars.label> <!-- <En>bars</En> -->
+  <Bars.description>Barreaux en métal.</Bars.description> <!-- <En>Metal bars.</En> -->
+
+  <BeerBarrel.label>tonneau de bière</BeerBarrel.label> <!-- <En>beer barrel</En> -->
+  <BeerBarrel.description>Un tonneau rempli de bière. Il rendra ivres tous ceux à proximité s'il est détruit.</BeerBarrel.description> <!-- <En>A barrel full of beer. It'll make everyone nearby drunk if destroyed.</En> -->
+
+  <BigCrate.label>grande caisse</BigCrate.label> <!-- <En>big crate</En> -->
+  <BigCrate.description>Une vieille caisse. Peut contenir quelque chose d'utile.</BigCrate.description> <!-- <En>An old crate. May contain something useful.</En> -->
+
+  <BigMagicTrap.label>grand piège magique</BigMagicTrap.label> <!-- <En>big magic trap</En> -->
+  <BigMagicTrap.description>Un piège magique mortel. Le mieux est d'y jeter quelqu'un d'autre.</BigMagicTrap.description> <!-- <En>A deadly magic trap. Best to throw someone else into it.</En> -->
+
+  <BigPoisonTrap.label>grand piège à poison</BigPoisonTrap.label> <!-- <En>big poison trap</En> -->
+  <BigPoisonTrap.description>Un piège à poison mortel. Le mieux est d'y jeter quelqu'un d'autre.</BigPoisonTrap.description> <!-- <En>A deadly poison trap. Best to throw someone else into it.</En> -->
+
+  <BlueCrystal.label>cristal bleu</BlueCrystal.label> <!-- <En>blue crystal</En> -->
+  <BlueCrystal.description>Extrayez-le avec une pioche et utilisez-le pour enchanter votre arme avec un effet magique. Vous devez collecter 2 cristaux de la même couleur pour enchanter votre équipement.</BlueCrystal.description> <!-- <En>Mine it with a pickaxe and use it to enchant your weapon with a magic effect. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <Bonfire.label>feu de camp</Bonfire.label> <!-- <En>bonfire</En> -->
+  <Bonfire.description>Vous pouvez y faire cuire quelque chose.</Bonfire.description> <!-- <En>You can cook something here.</En> -->
+  <Bonfire.YouSeeABonfireInFront>Vous voyez un feu de camp devant vous.\n\nVous pouvez y faire cuire de la nourriture.</Bonfire.YouSeeABonfireInFront> <!-- <En>You see a bonfire in front of you.\n\nYou can cook some food here.</En> -->
+
+  <Boulder.label>rocher</Boulder.label> <!-- <En>boulder</En> -->
+  <Boulder.description>Un gros rocher qui bloque votre chemin.</Boulder.description> <!-- <En>A big boulder blocking your path.</En> -->
+
+  <BrickWall.label>mur de briques</BrickWall.label> <!-- <En>brick wall</En> -->
+  <BrickWall.description>Ce vieux mur de briques n'a pas l'air très stable.</BrickWall.description> <!-- <En>This old brick wall doesn't look very stable.</En> -->
+
+  <Bridge.label>pont</Bridge.label> <!-- <En>bridge</En> -->
+  <Bridge.description>Un pont en bois, inflammable.</Bridge.description> <!-- <En>A wooden, flammable bridge.</En> -->
+
+  <CeilingBars.label>barreaux au plafond</CeilingBars.label> <!-- <En>ceiling bars</En> -->
+  <CeilingBars.description>Barreaux en métal au plafond.</CeilingBars.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingBarsReinforced.label>barreaux au plafond (renforcés)</CeilingBarsReinforced.label> <!-- <En>ceiling bars (reinforced)</En> -->
+  <CeilingBarsReinforced.description>Barreaux en métal au plafond.</CeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingSupport.label>support de plafond</CeilingSupport.label> <!-- <En>ceiling support</En> -->
+  <CeilingSupport.description>Aide à soutenir le poids du plafond.</CeilingSupport.description> <!-- <En>Helps support the weight of the ceiling.</En> -->
+
+  <CeilingWithPipe.label>plafond avec un tuyau</CeilingWithPipe.label> <!-- <En>ceiling with a pipe</En> -->
+  <CeilingWithPipe.description>Un plafond avec un tuyau.</CeilingWithPipe.description> <!-- <En>A ceiling with a pipe.</En> -->
+
+  <Chain.label>chaîne</Chain.label> <!-- <En>chain</En> -->
+  <Chain.description>Une chaîne suspendue au plafond.</Chain.description> <!-- <En>A chain hanging from the ceiling.</En> -->
+
+  <ChainPost.label>poteau à chaîne</ChainPost.label> <!-- <En>chain post</En> -->
+  <ChainPost.description>Un poteau en pierre auquel est attachée une chaîne.</ChainPost.description> <!-- <En>A stone post with a chain attached to it.</En> -->
+
+  <Chair.label>chaise</Chair.label> <!-- <En>chair</En> -->
+  <Chair.description>Asseyez-vous et détendez-vous dans ce magnifique donjon.</Chair.description> <!-- <En>Sit and relax in this beautiful dungeon.</En> -->
+
+  <Crates.label>caisses</Crates.label> <!-- <En>crates</En> -->
+  <Crates.description>Peuvent contenir ou non quelque chose d'utile.</Crates.description> <!-- <En>May or may not contain something useful.</En> -->
+
+  <CultistCircle.label>cercle de culte</CultistCircle.label> <!-- <En>cultist circle</En> -->
+  <CultistCircle.description>D'étranges symboles sur le sol. Ils ne font pas bon ménage avec l'eau bénite.</CultistCircle.description> <!-- <En>Some strange symbols on the floor. They don't go well with holy water.</En> -->
+
+  <CutGrass.label>herbe coupée</CutGrass.label> <!-- <En>cut grass</En> -->
+  <CutGrass.description>Restes d'herbe.</CutGrass.description> <!-- <En>Grass remains.</En> -->
+
+  <CutsceneTrigger.label>déclencheur de cinématique</CutsceneTrigger.label> <!-- <En>cutscene trigger</En> -->
+
+  <CyanWallLamp.label>applique murale cyan</CyanWallLamp.label> <!-- <En>cyan wall lamp</En> -->
+  <CyanWallLamp.description>Une applique murale cyan, très stylée.</CyanWallLamp.description> <!-- <En>A stylish, cyan wall lamp.</En> -->
+
+  <DamagedCeilingBars.label>barreaux de plafond endommagés</DamagedCeilingBars.label> <!-- <En>damaged ceiling bars</En> -->
+  <DamagedCeilingBars.description>Barreaux en métal au plafond. On dirait que quelqu'un les a défoncés.</DamagedCeilingBars.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DamagedCeilingBarsReinforced.label>barreaux de plafond endommagés (renforcés)</DamagedCeilingBarsReinforced.label> <!-- <En>damaged ceiling bars (reinforced)</En> -->
+  <DamagedCeilingBarsReinforced.description>Barreaux en métal au plafond. On dirait que quelqu'un les a défoncés.</DamagedCeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DangerDoor.label>porte rouge</DangerDoor.label> <!-- <En>red door</En> -->
+  <DangerDoor.description>Il y a un défi optionnel derrière cette porte. Mais attention, il pourrait être très difficile !</DangerDoor.description> <!-- <En>There's an optional challenge behind this door. But beware, it may be really difficult!</En> -->
+  <DangerDoor.YouSeeARedDoorInFront>Vous voyez une porte rouge devant vous.\n\nIl y a un défi optionnel derrière elle.\n\nMais attention, il pourrait être très difficile !</DangerDoor.YouSeeARedDoorInFront> <!-- <En>You see a red door in front of you.\n\nThere's an optional challenge behind it.\n\nBut beware, it may be really difficult!</En> -->
+  <DangerDoor.Open>Ouvrir</DangerDoor.Open> <!-- <En>Open</En> -->
+
+  <DescendTrigger.label>trou</DescendTrigger.label> <!-- <En>hole</En> -->
+  <DescendTrigger.description>Ce trou vous mènera au niveau inférieur de ce donjon.</DescendTrigger.description> <!-- <En>This hole will lead you to the lower level of this dungeon.</En> -->
+
+  <Dirt.label>terre</Dirt.label> <!-- <En>dirt</En> -->
+  <Dirt.description>Creusez avec une pelle pour dégager un passage. Qui sait ce que vous pourriez y trouver.</Dirt.description> <!-- <En>Dig into it with a shovel to clear a path. Who knows what you can find here.</En> -->
+
+  <DiscoBall.label>boule à facettes</DiscoBall.label> <!-- <En>disco ball</En> -->
+  <DiscoBall.description>Une boule à facettes colorée. Mais que fait-elle ici ?</DiscoBall.description> <!-- <En>A colorful disco ball. But what is it doing here?</En> -->
+
+  <Door.label>porte</Door.label> <!-- <En>door</En> -->
+  <Door.description>Ouvrir cette porte pourrait être la meilleure décision de votre vie, ou la pire. Vous pouvez aussi décider de l'enfoncer, ce qui repoussera tous les ennemis se trouvant de l'autre côté.</Door.description> <!-- <En>Opening this door could be the best decision of your life, or the worst. You can also decide to kick it instead, which will push all enemies standing on the other side.</En> -->
+
+  <Fan.label>ventilateur</Fan.label> <!-- <En>fan</En> -->
+  <Fan.description>Au moins, il y a un peu de ventilation ici.</Fan.description> <!-- <En>At least there's some ventilation here.</En> -->
+
+  <Fence.label>clôture</Fence.label> <!-- <En>fence</En> -->
+  <Fence.description>Une clôture en bois. Elle permet de voir à travers, mais pas de passer.</Fence.description> <!-- <En>A wooden fence. Lets you see through it, but not pass.</En> -->
+
+  <Fire.label_2>feu</Fire.label_2> <!-- <En>fire</En> -->
+  <Fire.description>Tout personnage qui passe s'enflammera. Le feu se propage aux autres objets inflammables adjacents, mais pas aux personnages.</Fire.description> <!-- <En>Any passing character will be set on fire. Fire spreads onto other adjacent flammable objects, but not characters.</En> -->
+
+  <Floor.label>sol</Floor.label> <!-- <En>floor</En> -->
+  <Floor.description>Un sol... ou un plafond, selon l'endroit où vous vous tenez.</Floor.description> <!-- <En>A floor... or a ceiling depending on where you're standing.</En> -->
+
+  <FloorBars.label>barreaux au sol</FloorBars.label> <!-- <En>floor bars</En> -->
+  <FloorBars.description>Barreaux en métal dans le sol.</FloorBars.description> <!-- <En>Metal bars in the floor.</En> -->
+
+  <FloorBarsReinforced.label>barreaux au sol (renforcés)</FloorBarsReinforced.label> <!-- <En>floor bars (reinforced)</En> -->
+  <FloorBarsReinforced.description>Barreaux en métal dans le sol. Ces barreaux résistent aux explosions.</FloorBarsReinforced.description> <!-- <En>Metal bars in the floor. These bars are resistant to explosions.</En> -->
+
+  <Frame.label>cadre</Frame.label> <!-- <En>frame</En> -->
+  <Frame.description>Un moyen alternatif d'accéder à l'autre pièce.</Frame.description> <!-- <En>An alternative way to get to the other room.</En> -->
+
+  <Gate.label>grille</Gate.label> <!-- <En>gate</En> -->
+  <Gate.description>Il doit y avoir un levier quelque part pour ouvrir cette grille.</Gate.description> <!-- <En>There must be a lever somewhere to open this gate.</En> -->
+
+  <GateReinforced.label>grille (renforcée)</GateReinforced.label> <!-- <En>gate (reinforced)</En> -->
+  <GateReinforced.description>Il doit y avoir un levier quelque part pour ouvrir cette grille. Cette grille résiste aux explosions.</GateReinforced.description> <!-- <En>There must be a lever somewhere to open this gate. This gate is resistant to explosions.</En> -->
+
+  <GlassWall.label>mur de verre</GlassWall.label> <!-- <En>glass wall</En> -->
+  <GlassWall.description>Regardez ce qu'il y a de l'autre côté. Vous pouvez lancer une pierre pour le briser.</GlassWall.description> <!-- <En>See what's on the other side. You can throw a stone to break it.</En> -->
+
+  <Glyph1.label>glyphe</Glyph1.label> <!-- <En>glyph</En> -->
+  <Glyph1.description>Un dessin mystérieux. Est-ce que ça signifie quelque chose ?\n\nEn bas, il est écrit : Nopaew</Glyph1.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Nopaew</En> -->
+
+  <Glyph2.label>glyphe</Glyph2.label> <!-- <En>glyph</En> -->
+  <Glyph2.description>Un dessin mystérieux. Est-ce que ça signifie quelque chose ?\n\nEn bas, il est écrit : Romra</Glyph2.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Romra</En> -->
+
+  <Glyph3.label>glyphe</Glyph3.label> <!-- <En>glyph</En> -->
+  <Glyph3.description>Un dessin mystérieux. Est-ce que ça signifie quelque chose ?\n\nEn bas, il est écrit : Llorcs</Glyph3.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Llorcs</En> -->
+
+  <Glyph4.label>glyphe</Glyph4.label> <!-- <En>glyph</En> -->
+  <Glyph4.description>Un dessin mystérieux. Est-ce que ça signifie quelque chose ?\n\nEn bas, il est écrit : Noitop</Glyph4.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Noitop</En> -->
+
+  <GoldenDoor.label>porte dorée</GoldenDoor.label> <!-- <En>golden door</En> -->
+  <GoldenDoor.description>Cette porte dorée ne peut être ouverte qu'avec une clé dorée.</GoldenDoor.description> <!-- <En>This golden door can only be opened with a golden key.</En> -->
+
+  <GooPuddle.label>flaque de vase</GooPuddle.label> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description>Une flaque de vase qui ralentira tout personnage qui la traverse.</GooPuddle.description> <!-- <En>A pool of goo which will slow down any passing character.</En> -->
+
+  <Grass.label>herbe</Grass.label> <!-- <En>grass</En> -->
+  <Grass.description>Une parcelle d'herbes inhabituellement hautes.</Grass.description> <!-- <En>A patch of unusually long blades of grass.</En> -->
+
+  <GreenCrystal.label>cristal vert</GreenCrystal.label> <!-- <En>green crystal</En> -->
+  <GreenCrystal.description>Extrayez-le avec une pioche et utilisez-le pour améliorer les propriétés protectrices de votre équipement. Vous devez collecter 2 cristaux de la même couleur pour enchanter votre équipement.</GreenCrystal.description> <!-- <En>Mine it with a pickaxe and use it to boost your gear's protective properties. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <GreenWallLamp.label>applique murale verte</GreenWallLamp.label> <!-- <En>green wall lamp</En> -->
+  <GreenWallLamp.description>Une applique murale verte et élégante.</GreenWallLamp.description> <!-- <En>A stylish, green wall lamp.</En> -->
+
+  <HangingRope.label>corde</HangingRope.label> <!-- <En>rope</En> -->
+  <HangingRope.description>Une corde suspendue au plafond.</HangingRope.description> <!-- <En>A rope hanging from the ceiling.</En> -->
+
+  <Hatch.label>trappe</Hatch.label> <!-- <En>hatch</En> -->
+  <Hatch.description>C'est d'ici que vous venez. Impossible de faire demi-tour - le temps ne va que de l'avant, n'est-ce pas ?</Hatch.description> <!-- <En>This is where you came from. There's no going back - time only moves forward, right?</En> -->
+
+  <InvisibleBlocker.label>bloqueur</InvisibleBlocker.label> <!-- <En>blocker</En> -->
+
+  <IronOre.label>minerai de fer</IronOre.label> <!-- <En>iron ore</En> -->
+  <IronOre.description>Extrayez-le avec une pioche et utilisez-le sur une enclume pour améliorer le niveau de votre équipement.</IronOre.description> <!-- <En>Mine it with a pickaxe and use it at an anvil to upgrade your gear level.</En> -->
+
+  <Ladder.label>échelle</Ladder.label> <!-- <En>ladder</En> -->
+  <Ladder.description>Une échelle que vous pouvez utiliser pour atteindre le niveau supérieur.</Ladder.description> <!-- <En>A ladder you can use to reach the upper level.</En> -->
+
+  <Lava.label>lave</Lava.label> <!-- <En>lava</En> -->
+  <Lava.description>Ce n'est pas le meilleur endroit où se trouver.</Lava.description> <!-- <En>Not the best place to be in.</En> -->
+
+  <Liana.label>liane</Liana.label> <!-- <En>liana</En> -->
+  <Liana.description>Une liane sur laquelle vous pouvez grimper.</Liana.description> <!-- <En>A liana which you can climb.</En> -->
+
+  <LobbySign.label>panneau du hall</LobbySign.label> <!-- <En>lobby sign</En> -->
+  <LobbySign.description>Ce chemin ramène au hall.</LobbySign.description> <!-- <En>This way leads back to the lobby.</En> -->
+
+  <MagicColumns.label>colonnes</MagicColumns.label> <!-- <En>columns</En> -->
+  <MagicColumns.description>Quatre fines colonnes.</MagicColumns.description> <!-- <En>Four thin columns.</En> -->
+
+  <MagicFire.label>feu magique</MagicFire.label> <!-- <En>magic fire</En> -->
+  <MagicFire.description>Tout personnage qui passe sera enflammé. Ce type de feu ne se propage pas aux objets adjacents.</MagicFire.description> <!-- <En>Any passing character will be set on fire. This type of fire doesn't spread onto adjacent objects.</En> -->
+
+  <MagicWall.label>mur magique</MagicWall.label> <!-- <En>magic wall</En> -->
+  <MagicWall.description>Un mur magique qui disparaîtra bientôt.</MagicWall.description> <!-- <En>A magic wall which will disappear soon.</En> -->
+
+  <Pedestal.label>piédestal</Pedestal.label> <!-- <En>pedestal</En> -->
+  <Pedestal.description>Un piédestal en pierre robuste.</Pedestal.description> <!-- <En>A sturdy, stone pedestal.</En> -->
+
+  <Pillar.label>pilier</Pillar.label> <!-- <En>pillar</En> -->
+  <Pillar.description>Assure parfaitement la stabilité du plafond.</Pillar.description> <!-- <En>Does a great job at keeping the ceiling stable.</En> -->
+
+  <PinkWallLamp.label>applique murale rose</PinkWallLamp.label> <!-- <En>pink wall lamp</En> -->
+  <PinkWallLamp.description>Une applique murale rose et élégante.</PinkWallLamp.description> <!-- <En>A stylish, pink wall lamp.</En> -->
+
+  <PipeSmoke.label>fumée de tuyau</PipeSmoke.label> <!-- <En>pipe smoke</En> -->
+  <PipeSmoke.description>Une fumée toxique provenant d'un tuyau.</PipeSmoke.description> <!-- <En>A toxic smoke coming from a pipe.</En> -->
+
+  <Piston.label>piston</Piston.label> <!-- <En>piston</En> -->
+  <Piston.description>S'étend et se rétracte.</Piston.description> <!-- <En>Extends and retracts.</En> -->
+
+  <Planks.label>planches</Planks.label> <!-- <En>planks</En> -->
+  <Planks.description>Une pile de planches en bois. Donne des planches si elle est détruite avec une hache.</Planks.description> <!-- <En>A pile of wooden planks. Will drop planks if destroyed with an axe.</En> -->
+
+  <Platform.label>plateforme</Platform.label> <!-- <En>platform</En> -->
+  <Platform.description>Une plateforme avec un support en bois fixée au mur.</Platform.description> <!-- <En>A platform with a wooden support attached to the wall.</En> -->
+
+  <PoisonCloud.label>nuage de poison</PoisonCloud.label> <!-- <En>poison cloud</En> -->
+  <PoisonCloud.description>Tout personnage qui passe sera empoisonné.</PoisonCloud.description> <!-- <En>Any passing character will become poisoned.</En> -->
+
+  <Pond.label>étang</Pond.label> <!-- <En>pond</En> -->
+  <Pond.description>Un petit étang. Idéal pour éteindre les feux. Vous pouvez également y remplir des fioles d'eau.</Pond.description> <!-- <En>A small pond. Good for extinguishing fires. You can also fill vials with water here.</En> -->
+
+  <PressurePlate.label>plaque de pression</PressurePlate.label> <!-- <En>pressure plate</En> -->
+  <PressurePlate.description>Une plaque de pression qui s'active dès que quelqu'un marche dessus.</PressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it.</En> -->
+
+  <RedCrystal.label>cristal rouge</RedCrystal.label> <!-- <En>red crystal</En> -->
+  <RedCrystal.description>Extrayez-le avec une pioche et utilisez-le pour rendre votre arme plus mortelle. Vous devez collecter 2 cristaux de la même couleur pour enchanter votre équipement.</RedCrystal.description> <!-- <En>Mine it with a pickaxe and use it to make your weapon more deadly. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <RedCutGrass.label>herbe rouge coupée</RedCutGrass.label> <!-- <En>cut red grass</En> -->
+  <RedCutGrass.description>Restes d'herbe rouge.</RedCutGrass.description> <!-- <En>Red grass remains.</En> -->
+
+  <RedLamp.label>lampe rouge</RedLamp.label> <!-- <En>red lamp</En> -->
+  <RedLamp.description>Une lampe émettant une lumière rouge profonde.</RedLamp.description> <!-- <En>A lamp emitting deep red light.</En> -->
+
+  <Rock.label>rocher</Rock.label> <!-- <En>rock</En> -->
+  <Rock.description>Un rocher de taille moyenne. Brisez-le pour obtenir une pierre à lancer.</Rock.description> <!-- <En>A medium-sized rock. Break it to get a throwable stone.</En> -->
+
+  <RoyalDoor.label>porte royale</RoyalDoor.label> <!-- <En>royal door</En> -->
+  <RoyalDoor.description>Cette porte royale ne peut être ouverte qu'avec une clé royale.</RoyalDoor.description> <!-- <En>This royal door can only be opened with a royal key.</En> -->
+
+  <SecretPassage.label>mur</SecretPassage.label> <!-- <En>wall</En> -->
+  <SecretPassage.description>Ce mur est là depuis longtemps et ne risque pas de bouger de sitôt.</SecretPassage.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <SecretRoomTrigger.label>déclencheur de salle secrète</SecretRoomTrigger.label> <!-- <En>secret room trigger</En> -->
+
+  <Shelf.label>étagère</Shelf.label> <!-- <En>shelf</En> -->
+  <Shelf.description>Une étagère avec quelques objets dessus.</Shelf.description> <!-- <En>A shelf with some things on it.</En> -->
+
+  <Sign.label>panneau</Sign.label> <!-- <En>sign</En> -->
+
+  <SilverDoor.label>porte d'argent</SilverDoor.label> <!-- <En>silver door</En> -->
+  <SilverDoor.description>Cette porte d'argent ne peut être ouverte qu'avec une clé d'argent. Il pourrait y avoir quelque chose de précieux derrière.</SilverDoor.description> <!-- <En>This silver door can only be opened with a silver key. There could be something precious behind it.</En> -->
+  <SilverDoor.YouSeeASilverDoorInFront>Vous voyez une porte d'argent devant vous.\n\nElle ne peut être ouverte qu'avec une clé d'argent.\n\nNotez qu'il peut y avoir plus de portes verrouillées que de clés disponibles, alors utilisez vos clés à bon escient.</SilverDoor.YouSeeASilverDoorInFront> <!-- <En>You see a silver door in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked doors than available keys, so spend your keys wisely.</En> -->
+  <SilverDoor.Open>Ouvrir</SilverDoor.Open> <!-- <En>Open</En> -->
+
+  <Smoke.label>fumée</Smoke.label> <!-- <En>smoke</En> -->
+  <Smoke.description>Un nuage de fumée qui bloque la vue.</Smoke.description> <!-- <En>A smoke cloud which blocks the view.</En> -->
+
+  <Soffit.label>soffite</Soffit.label> <!-- <En>soffit</En> -->
+  <Soffit.description>La partie inférieure du plafond.</Soffit.description> <!-- <En>An underside of the ceiling.</En> -->
+
+  <SpawnerPressurePlate.label>plaque de pression</SpawnerPressurePlate.label> <!-- <En>pressure plate</En> -->
+  <SpawnerPressurePlate.description>Une plaque de pression qui s'active dès que quelqu'un marche dessus. Le panneau indique : \"Attention ! Danger !\".</SpawnerPressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it. The sign says "Beware! Danger!".</En> -->
+
+  <SpiderWeb.label>toile d'araignée</SpiderWeb.label> <!-- <En>spider web</En> -->
+  <SpiderWeb.description>Donne de la soie d'araignée, qui peut être utilisée comme ingrédient.</SpiderWeb.description> <!-- <En>Yields spider silk, which can be used as an ingredient.</En> -->
+
+  <StaircaseRoomSign.label>panneau de la salle d'escalier</StaircaseRoomSign.label> <!-- <En>staircase room sign</En> -->
+  <StaircaseRoomSign.description>Cette salle contient un escalier menant au prochain étage du donjon. Vous devez généralement trouver un levier pour ouvrir la grille.</StaircaseRoomSign.description> <!-- <En>This room has a staircase leading to the next dungeon floor. You usually need to find a lever to open the gate.</En> -->
+
+  <Stairs.label>escalier</Stairs.label> <!-- <En>stairs</En> -->
+  <Stairs.description>Vous pouvez soit monter, soit descendre les escaliers - c'est ainsi que les escaliers fonctionnent en général.</Stairs.description> <!-- <En>You can either go up the stairs or down the stairs - this is how stairs work in general.</En> -->
+
+  <Table.label>table</Table.label> <!-- <En>table</En> -->
+  <Table.description>Une petite table.</Table.description> <!-- <En>A small table.</En> -->
+
+  <TemporarilyOpenedDoor.label>cadre de porte</TemporarilyOpenedDoor.label> <!-- <En>door frame</En> -->
+  <TemporarilyOpenedDoor.description>Une porte ouverte. Vous pouvez la fermer. Si vous le faites en vous tenant à l'intérieur, vous serez repoussé(e) dans une direction aléatoire.</TemporarilyOpenedDoor.description> <!-- <En>An open door. You can close it. If you do while standing inside, you'll get pushed away in a random direction.</En> -->
+
+  <TemporaryGate.label>grille automatique</TemporaryGate.label> <!-- <En>automatic gate</En> -->
+  <TemporaryGate.description>Une grille temporairement fermée. Elle devrait s'ouvrir après un certain temps.</TemporaryGate.description> <!-- <En>A temporarily-closed gate. It should open after a while.</En> -->
+
+  <Throne.label>trône</Throne.label> <!-- <En>throne</En> -->
+  <Throne.description>Un trône pour quelqu'un d'important.</Throne.description> <!-- <En>A throne for someone important.</En> -->
+
+  <Torch.label>torche</Torch.label> <!-- <En>torch</En> -->
+  <Torch.description>Une torche. On ne les remarque que lorsqu'elles ont disparu. D'ailleurs, je me demande pourquoi elles ne semblent jamais s'éteindre, peut-être parce qu'elles ne développent pas de jeux.</Torch.description> <!-- <En>A torch. You only notice them when they're gone. Also, I wonder why they never seem to burn out, maybe because they don't develop games.</En> -->
+
+  <ToxicWater.label>eau toxique</ToxicWater.label> <!-- <En>toxic water</En> -->
+  <ToxicWater.description>Cette eau semble contaminée.</ToxicWater.description> <!-- <En>This water seems to be contaminated.</En> -->
+
+  <Toxofungus.label>toxofungus</Toxofungus.label> <!-- <En>toxofungus</En> -->
+  <Toxofungus.description>Un champignon vénéneux qui libère des spores toxiques lorsqu'il est détruit. Marcher dessus est sans danger tant qu'il n'est pas dérangé.</Toxofungus.description> <!-- <En>A poisonous fungus that releases toxic spores when destroyed. Safe to walk on as long as it's not disturbed.</En> -->
+
+  <UnstableBridge.label>pont instable</UnstableBridge.label> <!-- <En>unstable bridge</En> -->
+  <UnstableBridge.description>Un pont en bois, inflammable. Il semble pouvoir s'effondrer à tout moment.</UnstableBridge.description> <!-- <En>A wooden, flammable bridge. It looks like it can collapse anytime soon.</En> -->
+
+  <Ventillation.label>ventilation</Ventillation.label> <!-- <En>ventilation</En> -->
+  <Ventillation.description>Permet aux squelettes de vivre confortablement, probablement.</Ventillation.description> <!-- <En>Makes skeletons live comfortably, probably.</En> -->
+
+  <Vines.label>lianes</Vines.label> <!-- <En>vines</En> -->
+  <Vines.description>Des lianes épaisses bloquent le chemin. On peut voir à travers.</Vines.description> <!-- <En>Thick vines blocking the path. Can be seen through.</En> -->
+
+  <VioletTorch.label>torche violette</VioletTorch.label> <!-- <En>violet torch</En> -->
+  <VioletTorch.description>Une torche avec une flamme violette et vive. Assez étrange.</VioletTorch.description> <!-- <En>A torch with a bright, violet flame. Quite odd.</En> -->
+
+  <VioletWallLamp.label>applique murale violette</VioletWallLamp.label> <!-- <En>violet wall lamp</En> -->
+  <VioletWallLamp.description>Une applique murale violette et élégante.</VioletWallLamp.description> <!-- <En>A stylish, violet wall lamp.</En> -->
+
+  <Wall.label>mur</Wall.label> <!-- <En>wall</En> -->
+  <Wall.description>Ce mur est là depuis longtemps et ne va probablement pas bouger de sitôt.</Wall.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece1.label>mur</WallPiece1.label> <!-- <En>wall</En> -->
+  <WallPiece1.description>Ce mur est là depuis longtemps et ne va probablement pas bouger de sitôt.</WallPiece1.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece2.label>mur</WallPiece2.label> <!-- <En>wall</En> -->
+  <WallPiece2.description>Ce mur est là depuis longtemps et ne va probablement pas bouger de sitôt.</WallPiece2.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece3.label>mur</WallPiece3.label> <!-- <En>wall</En> -->
+  <WallPiece3.description>Ce mur est là depuis longtemps et ne va probablement pas bouger de sitôt.</WallPiece3.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece4.label>mur</WallPiece4.label> <!-- <En>wall</En> -->
+  <WallPiece4.description>Ce mur est là depuis longtemps et ne va probablement pas bouger de sitôt.</WallPiece4.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece5.label>mur</WallPiece5.label> <!-- <En>wall</En> -->
+  <WallPiece5.description>Ce mur est là depuis longtemps et ne va probablement pas bouger de sitôt.</WallPiece5.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallWithCompartment.label>mur avec compartiment</WallWithCompartment.label> <!-- <En>wall with compartment</En> -->
+  <WallWithCompartment.description>Ce mur a un compartiment secret.</WallWithCompartment.description> <!-- <En>This wall has a secret compartment.</En> -->
+
+  <WallWithHole.label>mur avec un trou</WallWithHole.label> <!-- <En>wall with a hole</En> -->
+  <WallWithHole.description>Un mur avec un trou.</WallWithHole.description> <!-- <En>A wall with a hole.</En> -->
+
+  <WallWithPipe.label>mur avec un tuyau</WallWithPipe.label> <!-- <En>wall with a pipe</En> -->
+  <WallWithPipe.description>Un mur avec un tuyau.</WallWithPipe.description> <!-- <En>A wall with a pipe.</En> -->
+
+  <Water.label>eau</Water.label> <!-- <En>water</En> -->
+  <Water.description>De l'eau jusqu'à la poitrine. Idéal pour éteindre les incendies.</Water.description> <!-- <En>Chest-deep water. Good for extinguishing fires.</En> -->
+
+  <Window.label>fenêtre</Window.label> <!-- <En>window</En> -->
+  <Window.description>Pour voir ce qui se trouve de l'autre côté.</Window.description> <!-- <En>See what's on the other side.</En> -->
+
+  <WoodenFloor.label>plancher en bois</WoodenFloor.label> <!-- <En>wooden floor</En> -->
+  <WoodenFloor.description>Ce serait dommage que quelqu'un mette le feu à ce magnifique plancher en bois.</WoodenFloor.description> <!-- <En>It'd be a shame if someone set this beautiful wooden floor on fire.</En> -->
+
+  <WoodenWall.label>mur en bois</WoodenWall.label> <!-- <En>wooden wall</En> -->
+  <WoodenWall.description>Les planches de ce mur commencent à pourrir. Cependant, cela ne semble pas déranger les squelettes du coin.</WoodenWall.description> <!-- <En>The planks on this wall are starting to rot. However, it doesn't seem to bother any skeletons out here.</En> -->
+
+  <YellowCutGrass.label>herbe jaune coupée</YellowCutGrass.label> <!-- <En>cut yellow grass</En> -->
+  <YellowCutGrass.description>Restes d'herbe jaune.</YellowCutGrass.description> <!-- <En>Yellow grass remains.</En> -->
+
+  <YellowWallLamp.label>applique murale jaune</YellowWallLamp.label> <!-- <En>yellow wall lamp</En> -->
+  <YellowWallLamp.description>Une applique murale jaune et élégante.</YellowWallLamp.description> <!-- <En>A stylish, yellow wall lamp.</En> -->
+
+</SpecTranslations>

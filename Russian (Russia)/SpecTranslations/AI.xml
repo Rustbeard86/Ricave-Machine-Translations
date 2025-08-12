@@ -1,0 +1,31 @@
+﻿<SpecTranslations>
+
+  <AttackAndBackOff.label>сближается и атакует, затем отступает, чтобы избежать удара</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>атакует, затем убегает на 8 ходов, если не загнан в угол</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>не сближается первым, но остаётся на месте, если к нему подойти</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>всегда убегает</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>держит дистанцию, если не загнан в угол</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>держит дистанцию, если не загнан в угол или не имеет оружия</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>следует за игроком и атакует (член отряда)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>следует за игроком и атакует при возможности</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>сближается и атакует</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>стоит на месте или убегает при атаке</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>стоит на месте</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>стоит на месте и лечит союзников</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>стоит на месте или убегает при атаке</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>крадёт, а затем убегает</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

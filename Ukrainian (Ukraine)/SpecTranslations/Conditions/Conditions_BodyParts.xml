@@ -1,0 +1,30 @@
+﻿<SpecTranslations>
+
+  <AllArmsMissing.label>безрукий</AllArmsMissing.label> <!-- <En>armless</En> -->
+  <AllArmsMissing.description>Цей персонаж не має рук, через що завдає менше фізичної шкоди. Крім того, цей персонаж не може використовувати предмети та деякі власні атаки (наприклад, лук лучника). Втрачені кінцівки можна відновити за допомогою хірургічного набору.</AllArmsMissing.description> <!-- <En>This character has no arms which makes them deal less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+  <AllArmsMissing.ThisCharacterHasNoArms>Цей персонаж не має рук, через що завдає на {0} менше фізичної шкоди. Крім того, цей персонаж не може використовувати предмети та деякі власні атаки (наприклад, лук лучника). Втрачені кінцівки можна відновити за допомогою хірургічного набору.</AllArmsMissing.ThisCharacterHasNoArms> <!-- <En>This character has no arms which makes them deal {0} less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllEyesMissing.label>сліпий</AllEyesMissing.label> <!-- <En>blind</En> -->
+  <AllEyesMissing.description>У цього персонажа відсутні всі очі, що робить його сліпим, і він промахуватиметься у 30% випадків. Однак він все ще може відчувати сусідніх персонажів і пам'ятати, з якого напрямку його нещодавно атакували. Втрачені кінцівки можна відновити за допомогою хірургічного набору.</AllEyesMissing.description> <!-- <En>This character has all of their eyes missing which makes them blind and they will miss 30% of the time. However, they can still sense adjacent characters and remember from which direction they've recently been attacked. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllLegsMissing.label>знерухомлений</AllLegsMissing.label> <!-- <En>immobilized</En> -->
+  <AllLegsMissing.description>У цього персонажа відсутні всі ноги, що робить його нерухомим. Втрачені кінцівки можна відновити за допомогою хірургічного набору.</AllLegsMissing.description> <!-- <En>This character has all of their legs missing which makes them immobile. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllWingsMissing.label>безкрилий</AllWingsMissing.label> <!-- <En>wingless</En> -->
+  <AllWingsMissing.description>У цього персонажа відсутні всі крила, що робить його нездатним літати.</AllWingsMissing.description> <!-- <En>This character has all of their wings missing which makes them unable to fly.</En> -->
+
+  <ArmMissing.label>відсутня рука</ArmMissing.label> <!-- <En>arm missing</En> -->
+  <ArmMissing.description>У цього персонажа відсутня одна рука, через що він завдає менше фізичної шкоди. Втрачені кінцівки можна відновити за допомогою хірургічного набору.</ArmMissing.description> <!-- <En>This character has one of their arms missing which makes them deal less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+  <ArmMissing.ThisCharacterHasOneOf>У цього персонажа відсутня одна рука, через що він завдає на {0} менше фізичної шкоди. Втрачені кінцівки можна відновити за допомогою хірургічного набору.</ArmMissing.ThisCharacterHasOneOf> <!-- <En>This character has one of their arms missing which makes them deal {0} less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <HatMissing.label>без капелюха</HatMissing.label> <!-- <En>hatless</En> -->
+  <HatMissing.description>Це був його улюблений капелюх.</HatMissing.description> <!-- <En>It was his favorite hat.</En> -->
+
+  <LegMissing.label>відсутня нога</LegMissing.label> <!-- <En>leg missing</En> -->
+  <LegMissing.description>У цього персонажа відсутня одна нога, через що він рухається вдвічі повільніше. Втрачені кінцівки можна відновити за допомогою хірургічного набору.</LegMissing.description> <!-- <En>This character has one of their legs missing which makes them move twice as slow. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <StingMissing.label>відсутнє жало</StingMissing.label> <!-- <En>sting missing</En> -->
+  <StingMissing.description>У цього персонажа відсутнє жало, через що він завдає менше фізичної шкоди.</StingMissing.description> <!-- <En>This character has their sting missing which makes them deal less physical damage.</En> -->
+  <StingMissing.ThisCharacterHasTheir>У цього персонажа відсутнє жало, через що він завдає на {0} менше фізичної шкоди.</StingMissing.ThisCharacterHasTheir> <!-- <En>This character has their sting missing which makes them deal {0} less physical damage.</En> -->
+
+</SpecTranslations>

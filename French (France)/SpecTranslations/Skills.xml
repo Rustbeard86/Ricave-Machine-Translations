@@ -1,0 +1,57 @@
+﻿<SpecTranslations>
+
+  <BodyPartsDamage.label>anatomiste</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>Inflige 30 % de dégâts supplémentaires en ciblant directement une partie du corps.</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>poisseux</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>50 % de chances d'immobiliser automatiquement quiconque vous attaque pendant 1 tour.</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>antiexplosion</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>Subissez 80 % de dégâts d'explosion en moins.</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>récupération rapide</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>La régénération naturelle de santé est deux fois plus rapide.</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>vigoureux</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>La régénération naturelle d'endurance est deux fois plus rapide.</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>vitalité</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>Obtenez +1 PV max.</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>mage</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>Obtenez +1 mana max et subissez 50 % de dégâts magiques en moins.</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>athlète</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>Obtenez +2 endurance max.</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>crocheteur</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>Ouvrez les coffres verts, les conteneurs anciens et les portes royales sans avoir à trouver de clés. Ouvrez également les cages sans avoir à vaincre le boss au préalable.</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>négociateur</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>Les commerçants vendent les objets 50 % moins cher et les vagabonds identifient les objets pour 50 % d'or en moins.</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>gourmand</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>La nourriture restaure deux fois plus de PV que d'habitude.</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>charognard</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>Trouvez plus de viande crue dans le donjon.</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>roublard</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>Trouvez plus de pièges déployables dans le donjon.</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>antichute</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>Sautez de n'importe quelle hauteur sans subir de dégâts de chute. De plus, vous tombez plus vite.</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>déviation d'attaques</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>Les dégâts bloqués avec un bouclier sont déviés sur un ennemi adjacent aléatoire, à l'exclusion de l'attaquant.</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>expert du bouclier</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>L'utilisation des boucliers coûte 50 % d'endurance en moins.</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>ascète</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>Vous n'avez pas besoin de manger autant : vous mettez deux fois plus de temps à avoir faim.</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>bonus d'encerclement</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>Infligez 25 % de dégâts supplémentaires tant qu'au moins 2 ennemis vous sont adjacents.</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

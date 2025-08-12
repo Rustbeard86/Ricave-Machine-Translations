@@ -1,0 +1,111 @@
+﻿<SpecTranslations>
+
+  <AncientMechanism.label>mecanismo antiguo</AncientMechanism.label> <!-- <En>ancient mechanism</En> -->
+  <AncientMechanism.description>Uno de los tres mecanismos antiguos necesarios para desbloquear el contenedor antiguo en algún lugar de este piso.</AncientMechanism.description> <!-- <En>One of the three ancient mechanisms needed to unlock the ancient container somewhere on this floor.</En> -->
+
+  <Bandage.label>venda</Bandage.label> <!-- <En>bandage</En> -->
+  <Bandage.description>Las vendas se pueden usar para detener el sangrado o curar un hueso roto. También puedes combinar 2 de ellas para fabricar un kit quirúrgico y curar una extremidad perdida. (Y no, no es papel de baño)</Bandage.description> <!-- <En>Bandages can be used to stop bleeding or heal a broken bone. You can also combine 2 of them to craft a surgical kit to heal a missing limb. (And no, it's not toilet paper)</En> -->
+
+  <BoxingGloves.label>guantes de boxeo</BoxingGloves.label> <!-- <En>boxing gloves</En> -->
+  <BoxingGloves.description>Para alejar rápidamente a los enemigos de ti.</BoxingGloves.description> <!-- <En>For quickly pushing enemies away from you.</En> -->
+
+  <Bread.label>pan</Bread.label> <!-- <En>bread</En> -->
+  <Bread.description>Una hogaza de pan delicioso. Reduce el hambre y cura algo de HP.</Bread.description> <!-- <En>A loaf of tasty bread. Reduces hunger and heals some HP.</En> -->
+
+  <ChainItem.label>cadena</ChainItem.label> <!-- <En>chain</En> -->
+  <ChainItem.description>Una pesada cadena de hierro. Úsala en una persona cercana para atarla a un poste.</ChainItem.description> <!-- <En>A heavy iron chain. Use it on a nearby person to attach them to a chain post.</En> -->
+
+  <CookedFish.label>pescado cocido</CookedFish.label> <!-- <En>cooked fish</En> -->
+  <CookedFish.description>Un nutritivo pescado cocido.</CookedFish.description> <!-- <En>A nutritious, cooked fish.</En> -->
+
+  <CookedMeat.label>carne cocida</CookedMeat.label> <!-- <En>cooked meat</En> -->
+  <CookedMeat.description>Un nutritivo trozo de carne.</CookedMeat.description> <!-- <En>A nutritious piece of meat.</En> -->
+
+  <EmptyVial.label>frasco vacío</EmptyVial.label> <!-- <En>empty vial</En> -->
+  <EmptyVial.description>Puedes llenarlo con agua y luego mezclarlo con un ingrediente especial para hacer una poción.</EmptyVial.description> <!-- <En>You can fill it with water and then mix with a special ingredient to make a potion.</En> -->
+
+  <Extinguisher.label>extintor</Extinguisher.label> <!-- <En>extinguisher</En> -->
+  <Extinguisher.description>Te permite extinguir incendios (también sobre ti mismo).</Extinguisher.description> <!-- <En>Lets you extinguish fires (also on yourself).</En> -->
+
+  <Fish.label>pescado</Fish.label> <!-- <En>fish</En> -->
+  <Fish.description>Un pescado delicioso. Puedes comértelo o usarlo para hacer aceite de pescado.</Fish.description> <!-- <En>A tasty fish. You can either eat it or use it to make fish oil.</En> -->
+
+  <FishingRod.label>caña de pescar</FishingRod.label> <!-- <En>fishing rod</En> -->
+  <FishingRod.description>Puede usarse para pescar peces nutritivos o para atraer enemigos hacia ti al instante.</FishingRod.description> <!-- <En>Can be used to catch nutritious fish or instantly pull enemies towards you.</En> -->
+
+  <FishOil.label>aceite de pescado</FishOil.label> <!-- <En>fish oil</En> -->
+  <FishOil.description>Una botella de aceite de pescado para curar enfermedades.</FishOil.description> <!-- <En>A bottle of fish oil for curing diseases.</En> -->
+
+  <FrostbiteTalon.label>garra de congelación</FrostbiteTalon.label> <!-- <En>frostbite talon</En> -->
+  <FrostbiteTalon.description>Una garra afilada de alguna bestia misteriosa. Congelará rápidamente al oponente por un corto tiempo.</FrostbiteTalon.description> <!-- <En>A sharp claw of some mysterious beast. Will quickly freeze the opponent for a short time.</En> -->
+
+  <Gold.label>monedas de oro</Gold.label> <!-- <En>gold coins</En> -->
+  <Gold.description>Un montón de monedas de oro. Puede que haya gente dispuesta a comerciar en esta mazmorra. El oro no es un objeto permanente, así que lo perderás todo si la partida termina.</Gold.description> <!-- <En>A stack of gold coins. There may be some people willing to trade in this dungeon. Gold isn't a permanent item, so you'll lose all of it if the run ends.</En> -->
+
+  <GoldenKey.label>llave dorada</GoldenKey.label> <!-- <En>golden key</En> -->
+  <GoldenKey.description>Una llave rara que abre una puerta dorada.</GoldenKey.description> <!-- <En>A rare key which opens a golden door.</En> -->
+
+  <GreatShield.label>gran escudo</GreatShield.label> <!-- <En>great shield</En> -->
+  <GreatShield.description>Una versión más eficiente del escudo estándar que te permite bloquear todos los ataques del objetivo designado durante dos turnos. El efecto se cancelará si atacas al objetivo.</GreatShield.description> <!-- <En>A more efficient version of the standard shield which lets you block all attacks from the designated target for two turns. The effect will be canceled if you attack the target.</En> -->
+
+  <GreenKeyFragment.label>fragmento de llave verde</GreenKeyFragment.label> <!-- <En>green key fragment</En> -->
+  <GreenKeyFragment.description>Uno de los tres fragmentos de llave verde. Si los reúnes todos, podrás abrir el cofre verde en algún lugar de esta mazmorra.</GreenKeyFragment.description> <!-- <En>One of the three green key fragments. If you collect all of them, you can unlock the green chest somewhere in this dungeon.</En> -->
+
+  <Hammer.label>martillo</Hammer.label> <!-- <En>hammer</En> -->
+  <Hammer.description>Te permite destruir objetos frágiles como muros de ladrillo. No es un arma.</Hammer.description> <!-- <En>Lets you destroy fragile objects like brick walls. Not a weapon.</En> -->
+
+  <HolyWater.label>agua bendita</HolyWater.label> <!-- <En>holy water</En> -->
+  <HolyWater.description>Una botella de agua con algunas propiedades curativas.</HolyWater.description> <!-- <En>A bottle of water with some healing properties.</En> -->
+
+  <Honey.label>miel</Honey.label> <!-- <En>honey</En> -->
+  <Honey.description>Un poco de miel deliciosa.</Honey.description> <!-- <En>Some delicious honey.</En> -->
+
+  <Medkit.label>botiquín</Medkit.label> <!-- <En>medkit</En> -->
+  <Medkit.description>Una buena forma de curar algo de HP si nadie te ve.</Medkit.description> <!-- <En>A good way to heal some HP if nobody sees you.</En> -->
+
+  <Pickaxe.label>pico</Pickaxe.label> <!-- <En>pickaxe</En> -->
+  <Pickaxe.description>Te permite minar cristales rojos, verdes y azules. Los cristales se pueden usar para encantar tu equipo.</Pickaxe.description> <!-- <En>Lets you mine red, green, and blue crystals. Crystals can be used to enchant your gear.</En> -->
+
+  <PlanksItem.label>tablones</PlanksItem.label> <!-- <En>planks</En> -->
+  <PlanksItem.description>Los tablones se pueden usar para atrancar puertas. La única forma de atravesar puertas atrancadas es destruyéndolas.</PlanksItem.description> <!-- <En>Planks can be used to bar doors. The only way to get through barred doors is to destroy them.</En> -->
+
+  <PocketKnife.label>navaja</PocketKnife.label> <!-- <En>pocket knife</En> -->
+  <PocketKnife.description>Una navaja que se puede usar como un arma secundaria rápida, ya que usarla no consume un turno.</PocketKnife.description> <!-- <En>A pocket knife which can be used as a quick, secondary weapon, since using it takes no turn.</En> -->
+
+  <RawMeat.label>carne cruda</RawMeat.label> <!-- <En>raw meat</En> -->
+  <RawMeat.description>Comer carne cruda te enfermará. Necesitas cocinarla de alguna manera.</RawMeat.description> <!-- <En>Eating raw meat will make you sick. You need to cook it somehow.</En> -->
+
+  <RoyalKey.label>llave real</RoyalKey.label> <!-- <En>royal key</En> -->
+  <RoyalKey.description>Una llave ornamentada que abre la puerta real.</RoyalKey.description> <!-- <En>An ornamented key which opens the royal door.</En> -->
+
+  <Shield.label_2>escudo</Shield.label_2> <!-- <En>shield</En> -->
+  <Shield.description_2>Los escudos se pueden usar para bloquear todos los ataques del objetivo designado durante un turno. Usar un escudo no consume un turno. El efecto se cancelará si atacas al objetivo.</Shield.description_2> <!-- <En>Shields can be used to block all attacks from the designated target for one turn. Using a shield takes no turn. The effect will be canceled if you attack the target.</En> -->
+
+  <Shovel.label>pala</Shovel.label> <!-- <En>shovel</En> -->
+  <Shovel.description>Te permite cavar en la tierra. Quién sabe qué encontrarás.</Shovel.description> <!-- <En>Lets you dig in dirt. Who knows what you'll find.</En> -->
+
+  <SilverKey.label>llave de plata</SilverKey.label> <!-- <En>silver key</En> -->
+  <SilverKey.description>Una llave de un solo uso que abre puertas de plata y cofres de plata.</SilverKey.description> <!-- <En>A single-use key which opens silver doors and silver chests.</En> -->
+
+  <StaminaBooster.label>potenciador de aguante</StaminaBooster.label> <!-- <En>stamina booster</En> -->
+  <StaminaBooster.description>Una forma rápida de restaurar algo de aguante.</StaminaBooster.description> <!-- <En>A quick way to restore some stamina.</En> -->
+
+  <Superwatch.label>superreloj</Superwatch.label> <!-- <En>superwatch</En> -->
+  <Superwatch.description>Un reloj mágico que te permite retroceder en el tiempo. Esta es una versión mejorada del reloj estándar.</Superwatch.description> <!-- <En>A magic watch which lets you rewind time. This is an upgraded version of the standard watch.</En> -->
+
+  <SurgicalKit.label>kit quirúrgico</SurgicalKit.label> <!-- <En>surgical kit</En> -->
+  <SurgicalKit.description>Restaura partes del cuerpo perdidas sobre la marcha.</SurgicalKit.description> <!-- <En>Restore missing body parts on the go.</En> -->
+
+  <Teleporter.label>teletransportador</Teleporter.label> <!-- <En>teleporter</En> -->
+  <Teleporter.description>Teletranspórtate a la ubicación designada. Bueno para escapar de situaciones peligrosas.</Teleporter.description> <!-- <En>Teleport to the designated location. Good for escaping from dangerous situations.</En> -->
+
+  <ToxicFish.label>pescado tóxico</ToxicFish.label> <!-- <En>toxic fish</En> -->
+  <ToxicFish.description>No es buena idea comerse este.</ToxicFish.description> <!-- <En>Not a good idea to eat this one.</En> -->
+
+  <VialWithWater.label>frasco con agua</VialWithWater.label> <!-- <En>vial with water</En> -->
+  <VialWithWater.description>Mézclalo con un ingrediente especial para hacer una poción.</VialWithWater.description> <!-- <En>Mix it with a special ingredient to make a potion.</En> -->
+
+  <Watch.label>reloj</Watch.label> <!-- <En>watch</En> -->
+  <Watch.description>Un reloj mágico que te permite retroceder en el tiempo.</Watch.description> <!-- <En>A magic watch which lets you rewind time.</En> -->
+
+</SpecTranslations>

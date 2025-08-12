@@ -1,0 +1,57 @@
+﻿<SpecTranslations>
+
+  <BodyPartsDamage.label>解剖學者</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>直接攻擊身體部位時，造成額外 30% 的傷害。</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>黏性</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>受到攻擊時，有 50% 的機率自動纏繞攻擊者 1 回合。</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>防爆</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>受到的爆炸傷害減少 80%。</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>快速恢復</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>自然生命回復速度加倍。</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>精力充沛</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>自然耐力回復速度加倍。</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>活力</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>最大生命值 +1。</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>法師</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>最大魔力 +1，且受到的魔法傷害減少 50%。</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>運動員</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>最大耐力 +2。</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>開鎖專家</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>無需鑰匙即可打開綠色寶箱、古代容器和皇家大門。此外，無需先擊敗首領即可打開牢籠。</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>議價者</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>店主以 50% 的折扣出售物品，流浪者鑑定物品的費用減少 50% 黃金。</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>美食家</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>食物回復的生命值是平常的兩倍。</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>拾荒者</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>在地城中找到更多生肉。</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>盜賊</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>在地城中找到更多可部署的陷阱。</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>防摔</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>從任何高度跳下都不會受到墜落傷害。此外，你的墜落速度會更快。</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>格擋反擊</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>用盾牌格擋的傷害會反彈到你身邊（不含攻擊者）的一個隨機敵人身上。</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>盾牌專家</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>使用盾牌的耐力消耗減少 50%。</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>苦行者</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>你不需要吃那麼多東西——飢餓的時間延長一倍。</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>圍攻加成</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>只要身邊至少有 2 名敵人，造成的傷害就增加 25%。</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

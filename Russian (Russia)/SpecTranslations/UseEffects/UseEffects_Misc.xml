@@ -1,0 +1,214 @@
+﻿<SpecTranslations>
+
+  <AddCondition.label>добавить состояние</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>Цель получит новое состояние.</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>на цель: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>добавить эффект</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>Цель получит новый эффект.</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>добавить эффект: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>приковать к столбу</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>Приковать цель к столбу.</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>забаррикадировать дверь</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>Забаррикадировать дверь. Единственный способ пройти через забаррикадированную дверь — уничтожить её.</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>ослепляющая вспышка</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>Ослепить всех, кто вас сейчас видит.</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>ослепляющая вспышка {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>закопаться</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>Спрятаться в земле.</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>обменять зелье на свиток</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>Вы получите случайный свиток в обмен на любое зелье.</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>обрушить потолок</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>Потолок обрушится, если не будет другой опоры.</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>обрушение потолка ({0} {1} урона)</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>обрушить потолок (одна клетка)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>Потолок в этом месте обрушится и навредит всем, кто находится под ним.</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>обрушение потолка (одна клетка) ({0} {1} урона)</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>собрать звёздную пыль</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>Собрать звёздную пыль с трофея.</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>собрать звёздную пыль x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>готовить</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>Приготовить еду.</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>зачаровать снаряжение (кристалл)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>Накладывает чары на выбранный вами предмет снаряжения.</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>предложить проклятый предмет</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>Предложить проклятый предмет статуе дьявола в обмен на награду.</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>нанести урон</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>Цель потеряет указанное количество очков здоровья за вычетом брони.</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1} урона</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>уничтожить</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>Цель будет уничтожена.</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>копать</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>Раскапывать землю и подобные вещи.</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>уничтожить хрупкие объекты</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>Уничтожать хрупкие объекты, такие как кирпичные стены и ворота.</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>разбить стекло</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>Уничтожать стеклянные объекты, такие как окна и стеклянные полы.</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>добывать</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>Добывать ресурсы, такие как кристаллы.</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>уничтожить часть тела</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>Уничтожить случайную часть тела.</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>получить награду</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>Получить случайную награду.</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>дублировать</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>Выбранный вами предмет будет дублирован или уничтожен.</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>дублировать (шанс {0})</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>зачаровать снаряжение</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>Накладывает случайные чары на выбранный вами предмет снаряжения.</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>потушить</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>Потушить любой огонь.</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>поесть</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>Утолить голод.</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>насыщение {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>завершить забег</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>Завершить этот забег и вернуться в лобби.</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>поймать рыбу</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>Поймать рыбу.</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>получить очко навыка</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>Получить одно очко навыка.</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>играть</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>Сделайте ставку и посмотрите, выиграете ли вы.</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>исцелить</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>Цели будет восстановлено указанное количество очков здоровья.</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>исцелить {0} ОЗ</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>опознать предмет</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>Опознать предмет.</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>опознать предметы</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>Опознать предметы (на указанное количество ходов опознания).</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>опознать предметы {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>создать шум</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>Разбудить спящих существ в указанном радиусе.</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>взломать электронный сейф</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>Взломать электронный сейф где-то поблизости.</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>заплатить</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>Вам придётся отдать определённые предметы.</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>заплатить {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>притянуть</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>Цель будет притянута к заклинателю.</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>притянуть {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>оттолкнуть</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>Цель будет оттолкнута на несколько клеток назад.</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>оттолкнуть {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>случайный толчок</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>Цель будет оттолкнута в случайном направлении.</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>случайный толчок {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>случайный эффект</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>Накладывает случайный эффект.</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>получить предмет</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>Игрок получит предмет.</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>получить {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>снять состояние</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>С цели будет снято определённое состояние.</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>снять {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>снять проклятие</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>Снять проклятие с предмета в инвентаре цели. В первую очередь проклятие будет снято с надетых предметов.</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>снять состояние</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>С цели будет снято определённое состояние.</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>снять {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>исследовать</Research.label> <!-- <En>research</En> -->
+  <Research.description>Исследовать объект.</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>сбросить заряды часов</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>Заряды ваших часов обнулятся, так что вы не сможете перематывать время некоторое время.</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>восстановить ману</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>Цели будет восстановлена мана.</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>восстановить {0} маны</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>восстановить части тела</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>Цели будут восстановлены все отсутствующие части тела.</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>восстановить выносливость</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>Цели будет восстановлена выносливость.</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>восстановить {0} выносливости</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>вернуться в лобби</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>Вернуться в лобби. Ваш текущий забег закончится, но некоторые вещи вы сохраните.</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>перемотать время</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>Вернуться в прошлое.</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>перемотать {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>поджечь</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>Поджечь горючий объект.</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>поджечь ({0} ХП)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>освободить духа</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>Освободить духа.</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>создать объект</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>Рядом появится новый объект.</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>создать {0}</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>создать случайного врага</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>Рядом появится случайный враг.</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>создать объект</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>Рядом появится новый объект.</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>создать {0}</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>украсть</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>Украсть предмет у цели.</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>восстановить части тела</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>Цели будут восстановлены все отсутствующие части тела.</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>телепортироваться</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>Цель будет телепортирована в указанное место.</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>телепортироваться в случайное место</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>Цель будет телепортирована в случайное место.</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>разблокировать</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>Разблокировать новый предмет, место или бонус.</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>разблокировать {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>повысить уровень</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>Повысить уровень предмета.</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>улучшить эффект сферы</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>Применить постоянное усиление.</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

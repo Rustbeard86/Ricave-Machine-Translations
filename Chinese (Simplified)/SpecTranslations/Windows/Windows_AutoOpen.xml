@@ -4,7 +4,7 @@
   <Character.description>显示关于你角色的信息。</Character.description> <!-- <En>Shows information about your character.</En> -->
 
   <Codex.label_2>图鉴</Codex.label_2> <!-- <En>codex</En> -->
-  <Codex.description_2>显示你见过的所有物品和生物。</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+  <Codex.description_2>显示你曾见过的所有物品和生物。</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
 
   <DungeonMap.label_2>地牢地图</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
   <DungeonMap.description_2>显示本地牢的地图。</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
@@ -13,15 +13,15 @@
   <Factions.description_2>显示本地牢中的所有阵营。</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
 
   <Inventory.label_3>物品栏</Inventory.label_3> <!-- <En>inventory</En> -->
-  <Inventory.description_2>显示你物品栏中的物品。\n\n拖放以重新排序。重新排序物品不消耗回合，所以你可以在战斗中安全地进行。\n\n装备和卸下物品是即时的，但其他动作如喝药水或投掷药水则需要一回合。</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+  <Inventory.description_2>显示你物品栏中的物品。\n\n拖放以重新排序。重新排序物品不消耗回合，因此你可以在战斗中安全地进行。\n\n装备和卸下物品是即时的，但其他动作，如喝药水或投掷药水，会消耗一回合。</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
 
   <Quests.label_2>任务</Quests.label_2> <!-- <En>quests</En> -->
-  <Quests.description_2>显示你的所有任务。</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+  <Quests.description_2>显示你所有的任务。</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
 
   <Quickbar.label>快捷栏</Quickbar.label> <!-- <En>quickbar</En> -->
   <Quickbar.description>快捷栏中的物品可以通过按键盘上的数字键来使用。</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
 
   <Skills.label_2>技能</Skills.label_2> <!-- <En>skills</En> -->
-  <Skills.description_2>花费技能点学习新技能。</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+  <Skills.description_2>花费技能点来学习新技能。</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
 
 </SpecTranslations>

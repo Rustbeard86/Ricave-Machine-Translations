@@ -1,0 +1,46 @@
+﻿<SpecTranslations>
+
+  <Entangle.label>enredar</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>Inmoviliza a alguien durante un breve periodo de tiempo. Ten en cuenta que los enemigos enredados pueden seguir atacando desde su posición.</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>alimentar</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>Es como comer algo, pero sin comer nada realmente. Magia.</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>bola de fuego</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>Lanza una bola de fuego que provocará una explosión e iniciará incendios en todas las casillas adyacentes.</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>congelar</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>Congela al objetivo durante un breve periodo de tiempo. Los enemigos congelados no pueden moverse ni atacar.</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>charco de pringue</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>Crea un charco de pringue que ralentizará a cualquier personaje que lo atraviese.</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>crecimiento</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>Crea un área de 3x3 de hierba y enredaderas. Ideal para bloquear enemigos.</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>curar</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>Restaura parte de la salud y cura el sangrado.</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>identificación</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>Identifica un objeto de tu elección. Usa este hechizo sobre ti mismo para identificar un objeto de tu inventario.</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>Elige un objeto para identificar.</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>muro mágico</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>Crea un muro mágico temporal.</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>empujón masivo</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>Empuja a todos lejos de ti.</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>empujar</Push.label> <!-- <En>push</En> -->
+  <Push.description>Empuja a alguien lejos de ti.</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>golpe</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>Inflige daño al objetivo.</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>teletransporte</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>Te teletransporta a la ubicación designada. Ideal para una huida rápida, ya que usar este hechizo no consume turno.</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>teletransporte aleatorio</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>Teletransporta al objetivo a una ubicación aleatoria del mapa.</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>

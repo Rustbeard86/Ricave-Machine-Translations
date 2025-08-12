@@ -1,0 +1,110 @@
+﻿<SpecTranslations>
+
+  <BannerPuzzle.label>баннер-головоломка</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>Красочный баннер.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>трофей</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Каждый трофей с босса создаёт звёздную пыль в количестве, равном этажу, на котором был убит босс. Запас звёздной пыли пополняется каждый раз, когда вы добираетесь как минимум до второго этажа подземелья.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>гардероб</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Здесь можно изменить свою внешность.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>доска ежедневных испытаний</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Участвуйте в ежедневных испытаниях. Игроки со всего мира получают одно и то же испытание каждый день!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>витрина</Display.label> <!-- <En>display</En> -->
+  <Display.description>Место для предмета.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>портал</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Это конец?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>триггер финального диалога</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>табличка коридора</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>За этой дверью коридор.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>дверь</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Кажется, эта дверь заперта.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>дверь</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Кажется, эта дверь заперта.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Хотите открыть коридор за 60 ед. звёздной пыли?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Открыть</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>дверь</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Кажется, эта дверь заперта.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Хотите открыть тренировочный зал за 20 ед. звёздной пыли?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Открыть</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Дверь воспоминаний</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>Дверь, которую можно открыть, только собрав все 4 фрагмента воспоминаний.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>дверь-головоломка</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>Дверь, которую можно открыть, собрав все 10 фрагментов головоломки. На каждом этаже подземелья есть по одному фрагменту, и за один забег можно найти только один. Это значит, что последний фрагмент будет на 10-м этаже.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>волшебное зеркало</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Здесь можно изменить свои черты.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Дверь воспоминаний</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>Дверь, которую можно открыть, только собрав все 4 фрагмента воспоминаний.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Фрагмент воспоминаний</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>Неизвестный фрагмент воспоминаний.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Фрагмент воспоминаний</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>Неизвестный фрагмент воспоминаний.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Фрагмент воспоминаний</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>Неизвестный фрагмент воспоминаний.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Фрагмент воспоминаний</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>Неизвестный фрагмент воспоминаний.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>лестница</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>Лестница, ведущая в подземелье.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>лестница</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>Лестница, ведущая в подземелье, которая позволяет использовать определённый сид мира. Весь прогресс в лобби и задания в этом подземелье отключены.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>табличка личной комнаты</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>Ваша личная комната. Точнее, будет вашей, когда вы её купите.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>дверь-головоломка</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>Дверь, открытая с помощью всех собранных фрагментов головоломки.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>табличка комнаты с головоломкой</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Загадочная комната.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>доска заданий</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Посмотреть все доступные и выполненные задания.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>вывеска магазина</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Здесь находится магазин. Вы можете тратить звёздную пыль на покупку усилений для следующих забегов.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>небо</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>Красивый вид.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>небо</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>Красивый вид.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>лестница</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>Лестница, ведущая в подземелье.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>доска статистики</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Посмотреть всю вашу статистику.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>табличка тренировочного зала</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Здесь находится тренировочный зал. Вы можете тренироваться в бою с различными видами врагов.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>лестница</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>Лестница, ведущая в тренировочный зал. Тренируйтесь в бою с врагами и боссами.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>куча мусора</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>Куча мусора, блокирующая эту ячейку. Используйте звёздную пыль, чтобы убрать её навсегда.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>Хотите убрать эту кучу мусора за 40 ед. звёздной пыли?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Убрать</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>настенная лампа</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>Стильная настенная лампа.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

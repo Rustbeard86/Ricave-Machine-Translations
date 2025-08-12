@@ -1,0 +1,39 @@
+﻿<SpecTranslations>
+
+  <BuyItem.label>покупка предмета</BuyItem.label> <!-- <En>buy item</En> -->
+  <BuyItem.Buys>{0} покупает {1}</BuyItem.Buys> <!-- <En>{0} buys {1}</En> -->
+
+  <BuyPrivateRoomStructure.label>покупка мебели для личной комнаты</BuyPrivateRoomStructure.label> <!-- <En>buy private room furniture</En> -->
+  <BuyPrivateRoomStructure.Buys>{0} покупает {1}</BuyPrivateRoomStructure.Buys> <!-- <En>{0} buys {1}</En> -->
+
+  <ErrorRecoveryAddSequence.label>восстановление после ошибки последовательности</ErrorRecoveryAddSequence.label> <!-- <En>sequence error recovery</En> -->
+  <ErrorRecoveryAddSequence.SequenceErrorRecovery>Восстановление после ошибки последовательности для {0}</ErrorRecoveryAddSequence.SequenceErrorRecovery> <!-- <En>Sequence error recovery for {0}</En> -->
+
+  <MoveDownByGravity.label>падение</MoveDownByGravity.label> <!-- <En>fall</En> -->
+  <MoveDownByGravity.Falls>{0} падает</MoveDownByGravity.Falls> <!-- <En>{0} falls</En> -->
+
+  <PulledByChain.label>притягивание цепью</PulledByChain.label> <!-- <En>pull by chain</En> -->
+  <PulledByChain.IsPulledByAChain>{0} притягивается цепью</PulledByChain.IsPulledByAChain> <!-- <En>{0} is pulled by a chain</En> -->
+
+  <ResolveCondition.label>разрешение состояния</ResolveCondition.label> <!-- <En>resolve condition</En> -->
+  <ResolveCondition.TakesTurn>{0} делает ход</ResolveCondition.TakesTurn> <!-- <En>{0} takes turn</En> -->
+
+  <ResolveStructure.label>разрешение структуры</ResolveStructure.label> <!-- <En>resolve structure</En> -->
+  <ResolveStructure.TakesTurn>{0} делает ход</ResolveStructure.TakesTurn> <!-- <En>{0} takes turn</En> -->
+
+  <ResolveVelocity.label>остановка падения</ResolveVelocity.label> <!-- <En>no longer falling</En> -->
+  <ResolveVelocity.IsNoLongerFalling>{0} больше не падает</ResolveVelocity.IsNoLongerFalling> <!-- <En>{0} is no longer falling</En> -->
+
+  <ResolveWorld.label>разрешение мира</ResolveWorld.label> <!-- <En>resolve world</En> -->
+  <ResolveWorld.TheWorldIsResolved>Состояние мира разрешено</ResolveWorld.TheWorldIsResolved> <!-- <En>The world is resolved</En> -->
+
+  <RewindTime.label>перемотка времени</RewindTime.label> <!-- <En>rewind time</En> -->
+  <RewindTime.TimeRewind>Перемотка времени</RewindTime.TimeRewind> <!-- <En>Time rewind</En> -->
+
+  <SwitchCurrentPartyMember.label>смена активного члена отряда</SwitchCurrentPartyMember.label> <!-- <En>switch current party member</En> -->
+  <SwitchCurrentPartyMember.PlayerSwitchesCurrent>Игрок меняет активного члена отряда на {0}</SwitchCurrentPartyMember.PlayerSwitchesCurrent> <!-- <En>Player switches current party member to {0}</En> -->
+
+  <Think.label>раздумье</Think.label> <!-- <En>think</En> -->
+  <Think.Thinks>{0} думает</Think.Thinks> <!-- <En>{0} thinks</En> -->
+
+</SpecTranslations>

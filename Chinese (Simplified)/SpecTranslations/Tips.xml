@@ -1,43 +1,43 @@
 ﻿<SpecTranslations>
 
-  <Combat.tips><li>不惜一切代价避免同时受到多个敌人的伤害。尽可能逐个引诱他们。</li><li>永远不要先靠近敌人。相反，按 [Wait] 等待他们过来，这样你总是能先造成伤害。</li><li>位于目标上方会让你造成额外伤害。这意味着会飞的角色更加致命。</li><li>如果敌人在上一回合没有看到你，攻击他们会造成额外伤害。躲在墙后，等他们靠近进行突袭。</li><li>大炮可以同时对多个目标造成伤害。从远处投掷长矛来触发陷阱。</li><li>按住 [Fly] 来瞄准身体部位。不同的身体部位被摧毁时有不同的效果。你可以让一些敌人无法移动或失明。</li><li>摧毁某人的手臂会让他们无法使用物品。</li><li>你可以按住 [Fly] 来踢门。踢门会推开站在另一侧的敌人。</li><li>等待会为你的下一次攻击蓄力。这是一个强大的机制，尽可能多地使用它。</li></Combat.tips> <!-- <En><li>Avoid taking damage from multiple enemies at once at all costs. Lure them one by one whenever possible.</li>
-  <li>Never approach an enemy first. Instead, press [Wait] to wait for them to come to you so that you're always the first one to deal damage.</li>
-  <li>Being above your target makes you deal extra damage. This means that flying characters are even more deadly.</li>
-  <li>If your enemy didn't see you on their last turn, attacking them will make you deal extra damage. Hide behind a wall and wait for them to approach you for a surprise attack.</li>
-  <li>Cannons can deal damage to multiple targets at once. Throw a spear to trigger the trap from a distance.</li>
-  <li>Hold [Fly] to target body parts. Different body parts have different effects when destroyed. You can immobilize some enemies or make them blind.</li>
-  <li>Destroying someone's arms makes them unable to use items.</li>
-  <li>You can hold [Fly] to kick doors. Kicking doors pushes enemies standing on the other side.</li>
-  <li>Waiting charges your next attack. This is a powerful mechanic, so use it whenever you can.</li></En> -->
+  <Combat.tips>不惜一切代价避免同时受到多个敌人的伤害。尽可能逐个引诱他们。切勿首先靠近敌人。而是按下 [Wait] 等待他们过来，这样你总能第一个造成伤害。位于目标上方会造成额外伤害。这意味着会飞的角色更加致命。如果敌人在上个回合没有看到你，攻击他们会造成额外伤害。躲在墙后等待他们靠近，进行一次出其不意的攻击。加农炮可以同时对多个目标造成伤害。从远处投掷长矛来触发陷阱。按住 [Fly] 来瞄准身体部位。不同的身体部位被摧毁时有不同的效果。你可以使一些敌人无法移动或致盲他们。摧毁某人的手臂会使他们无法使用物品。你可以按住 [Fly] 来踢门。踢门会推开站在另一侧的敌人。等待会为你的下一次攻击充能。这是一个强大的机制，所以尽可能多地使用它。</Combat.tips> <!-- <En><li>Avoid taking damage from multiple enemies at once at all costs. Lure them one by one whenever possible.</li>
+  <li>Never approach an enemy first. Instead, press [Wait] to wait for them to come to you so that you're always the first one to deal damage.</li>
+  <li>Being above your target makes you deal extra damage. This means that flying characters are even more deadly.</li>
+  <li>If your enemy didn't see you on their last turn, attacking them will make you deal extra damage. Hide behind a wall and wait for them to approach you for a surprise attack.</li>
+  <li>Cannons can deal damage to multiple targets at once. Throw a spear to trigger the trap from a distance.</li>
+  <li>Hold [Fly] to target body parts. Different body parts have different effects when destroyed. You can immobilize some enemies or make them blind.</li>
+  <li>Destroying someone's arms makes them unable to use items.</li>
+  <li>You can hold [Fly] to kick doors. Kicking doors pushes enemies standing on the other side.</li>
+  <li>Waiting charges your next attack. This is a powerful mechanic, so use it whenever you can.</li></En> -->
 
-  <General.tips><li>这里的一切都是回合制的，所以要慢慢来，计划好你的下一步行动。</li><li>像大门和地板块这样的东西只能用炸弹或特殊装备摧毁。</li><li>摧毁地板块可以让你直接跳到下一层。然而，这可能会让你损失一些生命值。</li><li>火会迅速蔓延到相邻的可燃物体上，但不会蔓延到角色身上。你需要直接走进火里才会被烧伤。</li><li>法力是宝贵的——它不会自动恢复，而且法力药水相当稀有。明智地使用你的法术。</li><li>木板可以用来封锁门。通过被封锁的门的唯一方法是摧毁它们。</li></General.tips> <!-- <En><li>Everything is turn-based here, so always take your time to plan your next move.</li>
-  <li>Some things like gates and floor bars can only be destroyed with bombs or special equipment.</li>
-  <li>Destroying floor bars will let you jump straight into the next floor. However, this may cost you some hit points.</li>
-  <li>Fires spread quickly onto adjacent, flammable objects, but not characters. You need to step directly into the fire to get burned.</li>
-  <li>Mana is precious - it doesn't regenerate automatically and mana potions are quite rare. Use your spells wisely.</li>
-  <li>Planks can be used to bar doors. The only way to get through barred doors is to destroy them.</li></En> -->
+  <General.tips>这里的一切都是回合制的，所以要花时间计划你的下一步行动。像大门和地板格栅这样的东西只能用炸弹或特殊设备摧毁。摧毁地板格栅可以让你直接跳到下一层。然而，这可能会消耗你一些生命值。火焰会迅速蔓延到邻近的可燃物上，但不会蔓延到角色身上。你需要直接走进火里才会被烧伤。法力是宝贵的——它不会自动恢复，而且法力药水相当稀有。明智地使用你的法术。木板可以用来封住门。通过被封住的门的唯一方法是摧毁它们。</General.tips> <!-- <En><li>Everything is turn-based here, so always take your time to plan your next move.</li>
+  <li>Some things like gates and floor bars can only be destroyed with bombs or special equipment.</li>
+  <li>Destroying floor bars will let you jump straight into the next floor. However, this may cost you some hit points.</li>
+  <li>Fires spread quickly onto adjacent, flammable objects, but not characters. You need to step directly into the fire to get burned.</li>
+  <li>Mana is precious - it doesn't regenerate automatically and mana potions are quite rare. Use your spells wisely.</li>
+  <li>Planks can be used to bar doors. The only way to get through barred doors is to destroy them.</li></En> -->
 
-  <Identification.tips><li>武器和盔甲可以有随机的、强大的附魔。它们也可能被诅咒，你需要使用诅咒解除卷轴才能脱下它们。</li><li>如果你不饿，每个未鉴定的物品最终都会随着时间的推移而被鉴定。你可以在物品栏屏幕上拖放物品来决定下一个要鉴定的物品。</li><li>一些未鉴定的物品，如药水、卷轴、魔杖和炸弹，会在其提示信息中暗示它们可能是什么。如果你决定无论如何都要使用它们，它们将在本次游戏中被鉴定。</li></Identification.tips> <!-- <En><li>Weapons and armor can have random, powerful enchantments. They can also be cursed and you'll have to use a curse removal scroll to take them off.</li>
+  <Identification.tips>武器和盔甲可以有随机的、强大的附魔。它们也可能被诅咒，你必须使用诅咒移除卷轴才能脱下它们。如果你不饿，每个未鉴定的物品最终都会随着时间的推移而被鉴定。你可以在物品栏界面拖放物品来决定下一个要鉴定的物品。一些未鉴定的物品，如药水、卷轴、魔杖和炸弹，会在其工具提示中给出它们可能是什么的线索。如果你决定无论如何都要使用它们，它们将在本次游戏剩余的时间里被鉴定。</Identification.tips> <!-- <En><li>Weapons and armor can have random, powerful enchantments. They can also be cursed and you'll have to use a curse removal scroll to take them off.</li>
   <li>Every unidentified item eventually becomes identified over time if you're not hungry. You can drag and drop items in your inventory screen to decide which one should be identified next.</li>
   <li>Some unidentified items like potions, scrolls, wands, and bombs give a hint on what they could be in their tooltip. If you decide to use them anyway, they will become identified for the rest of the run.</li></En> -->
 
-  <Interface.tips><li>几乎每个界面元素都有提示信息。试试看！</li><li>你可以通过按 [MoveLeft] 和 [MoveRight] 来侧移。</li><li>按住 [Minimap] 可以看到更大的地图。一些有用的地点会标记在那里。</li><li>按 [AttackNearest] 可以快速攻击离你鼠标最近的目标。像爆炸桶这样的危险物品不会被自动攻击。</li><li>按住 [StationaryActionsOnly] 可以保持位置，只允许在你当前位置与物体互动。这可以帮助你避免误操作。</li><li>按住 [OneStep] 可以只向你的目的地移动一步。这可以帮助你更好地计划下一步行动。</li><li>你可以通过按 [LeanLeft] 和 [LeanRight]（或按住 [StationaryActionsOnly] 并按 [MoveForward], [RotateLeft], [MoveBack], [RotateRight]）来倾斜。</li><li>你可以通过按 [RotateToNearestTarget] 自动转向最近的目标。</li><li>你可以通过按 [SnapToCurrentRotation] 重置你当前的旋转。</li></Interface.tips> <!-- <En><li>Almost every interface element has a tooltip. Try it!</li>
-  <li>You can strafe by pressing [MoveLeft] and [MoveRight].</li>
-  <li>Hold [Minimap] to see a bigger map. Some useful locations will be marked there.</li>
-  <li>Press [AttackNearest] to quickly attack the closest target to your mouse. Dangerous objects like exploding barrels aren't auto-attackable.</li>
-  <li>Hold [StationaryActionsOnly] to hold position and allow interacting with objects only from your current position. This can help you avoid missclicks.</li>
-  <li>Hold [OneStep] to make only one move towards your destination. This can help you plan your next moves better.</li>
-  <li>You can lean by pressing [LeanLeft] and [LeanRight] (or holding [StationaryActionsOnly] and pressing [MoveForward], [RotateLeft], [MoveBack], [RotateRight]).</li>
-  <li>You can automatically rotate towards the nearest target by pressing [RotateToNearestTarget].</li>
-  <li>You can reset your current rotation by pressing [SnapToCurrentRotation].</li></En> -->
+  <Interface.tips>几乎每个界面元素都有工具提示。试试看！你可以按 [MoveLeft] 和 [MoveRight] 进行平移。按住 [Minimap] 查看更大的地图。一些有用的地点会在上面标记出来。按下 [AttackNearest] 快速攻击离你鼠标最近的目标。像爆炸桶这样的危险物体无法自动攻击。按住 [StationaryActionsOnly] 保持位置，并只允许从当前位置与物体互动。这可以帮助你避免误操作。按住 [OneStep] 向目的地只移动一步。这可以帮助你更好地计划下一步行动。你可以按 [LeanLeft] 和 [LeanRight] 进行侧身探看（或者按住 [StationaryActionsOnly] 并按下 [MoveForward], [RotateLeft], [MoveBack], [RotateRight]）。你可以按 [RotateToNearestTarget] 自动转向最近的目标。你可以按 [SnapToCurrentRotation] 重置你当前的方向。</Interface.tips> <!-- <En><li>Almost every interface element has a tooltip. Try it!</li>
+  <li>You can strafe by pressing [MoveLeft] and [MoveRight].</li>
+  <li>Hold [Minimap] to see a bigger map. Some useful locations will be marked there.</li>
+  <li>Press [AttackNearest] to quickly attack the closest target to your mouse. Dangerous objects like exploding barrels aren't auto-attackable.</li>
+  <li>Hold [StationaryActionsOnly] to hold position and allow interacting with objects only from your current position. This can help you avoid missclicks.</li>
+  <li>Hold [OneStep] to make only one move towards your destination. This can help you plan your next moves better.</li>
+  <li>You can lean by pressing [LeanLeft] and [LeanRight] (or holding [StationaryActionsOnly] and pressing [MoveForward], [RotateLeft], [MoveBack], [RotateRight]).</li>
+  <li>You can automatically rotate towards the nearest target by pressing [RotateToNearestTarget].</li>
+  <li>You can reset your current rotation by pressing [SnapToCurrentRotation].</li></En> -->
 
-  <RewindingTime.tips><li>如果你误操作了，别担心——你总是可以通过按 [Rewind] 来回溯时间（如果你的物品栏里有手表）。</li><li>这里的所有行动都是确定性的，这意味着如果你回溯时间然后再次做出相同的移动，一切都会和之前完全一样。</li></RewindingTime.tips> <!-- <En><li>Don't worry if you missclick - you can always rewind time by pressing [Rewind] (if you have a watch in your inventory).</li>
-  <li>All actions here are deterministic, which means that everything will play out exactly the same as before if you rewind time and then make the same move again.</li></En> -->
+  <RewindingTime.tips>如果你误操作了也不用担心——你可以随时按 [Rewind] 来回溯时间（如果你的物品栏里有怀表的话）。这里的所有行动都是确定性的，这意味着如果你回溯时间然后再次做出相同的移动，一切都会和之前完全一样。</RewindingTime.tips> <!-- <En><li>Don't worry if you missclick - you can always rewind time by pressing [Rewind] (if you have a watch in your inventory).</li>
+  <li>All actions here are deterministic, which means that everything will play out exactly the same as before if you rewind time and then make the same move again.</li></En> -->
 
-  <Specific.tips><li>尽量为你最好的药水和卷轴留到小首领战。</li><li>你有时可以找到一个装有独特装备的银色箱子和一个通往秘密房间的银色门。但要明智选择——附近通常只有一个银色钥匙。</li><li>要酿造药水，你需要先找到一个空瓶子，装满水，然后与你选择的成分混合。</li><li>银色箱子里可能含有翅膀，可以让你飞行。你可以通过按住 [Fly] 并按 [MoveForward] 或 [MoveBack] 来飞行。</li><li>你有时可以找到一个商店，在那里你可以用金币购买药水和卷轴。如果你有勇气，你可以试着杀死店主并偷走他的物品。但要小心，那是一场艰难的战斗！</li></Specific.tips> <!-- <En><li>Try to save your best potions and scrolls for the mini-boss fights.</li>
-  <li>You can sometimes find a silver chest with unique gear and a silver door leading to a secret room. But choose wisely - there's usually only one silver key nearby.</li>
-  <li>To brew a potion you need to first find an empty vial, fill it with water, and then mix with your ingredient of choice.</li>
-  <li>A silver chest can contain wings which will let you fly. You can fly by holding [Fly] and pressing [MoveForward] or [MoveBack].</li>
-  <li>You can sometimes find a shop where you can buy potions and scrolls for gold. If you're brave, you can try to kill the shopkeeper and steal his items. But be careful, it's a difficult fight!</li></En> -->
+  <Specific.tips>尽量为你最好的药水和卷轴留到迷你Boss战时使用。你有时可以找到一个装有独特装备的银色宝箱和一扇通往秘密房间的银色门。但要明智选择——附近通常只有一把银钥匙。要酿造一瓶药水，你需要先找到一个空瓶，装满水，然后与你选择的材料混合。银色宝箱里可能含有能让你飞行的翅膀。你可以通过按住 [Fly] 并按下 [MoveForward] 或 [MoveBack] 来飞行。你有时可以找到一个商店，在那里你可以用金币购买药水和卷轴。如果你够勇敢，可以试着杀死店主并偷走他的物品。但要小心，那是一场艰难的战斗！</Specific.tips> <!-- <En><li>Try to save your best potions and scrolls for the mini-boss fights.</li>
+  <li>You can sometimes find a silver chest with unique gear and a silver door leading to a secret room. But choose wisely - there's usually only one silver key nearby.</li>
+  <li>To brew a potion you need to first find an empty vial, fill it with water, and then mix with your ingredient of choice.</li>
+  <li>A silver chest can contain wings which will let you fly. You can fly by holding [Fly] and pressing [MoveForward] or [MoveBack].</li>
+  <li>You can sometimes find a shop where you can buy potions and scrolls for gold. If you're brave, you can try to kill the shopkeeper and steal his items. But be careful, it's a difficult fight!</li></En> -->
 
 </SpecTranslations>

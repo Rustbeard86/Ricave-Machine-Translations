@@ -1,33 +1,33 @@
 ﻿<SpecTranslations>
 
-  <EveryoneStartsAwake.label>所有人都清醒着开始</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
-  <EveryoneStartsAwake.description>所有人都将清醒着开始。</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+  <EveryoneStartsAwake.label>所有人初始清醒</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>所有人将以清醒状态开始。</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
 
-  <ExtraMiniBoss.label>每层额外一个小首领</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
-  <ExtraMiniBoss.description>每层都会额外生成一个小首领（仅当地牢有小首领时适用）。</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+  <ExtraMiniBoss.label>每层一个额外的小头目</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>每层都会生成一个额外的小头目（仅在地牢有小头目时生效）。</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
 
-  <FewerEnemies.label>敌人减少20%</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
-  <FewerEnemies.description>所有楼层的敌人将减少20%。</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+  <FewerEnemies.label>敌人数量减少20%</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>所有楼层的敌人数量将减少20%。</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
 
-  <ItemsStartIdentified.label>所有物品开局已鉴定</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.label>所有物品初始已鉴定</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
   <ItemsStartIdentified.description>你在地牢中找到的所有物品都将是已鉴定状态。</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
 
-  <MoreEnemies.label>敌人增加20%</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
-  <MoreEnemies.description>所有楼层的敌人将增加20%。</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+  <MoreEnemies.label>敌人数量增加20%</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>所有楼层的敌人数量将增加20%。</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
 
   <MoreTraps.label>更多陷阱</MoreTraps.label> <!-- <En>more traps</En> -->
-  <MoreTraps.description>地牢中会生成更多的尖刺和感应炸弹。</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+  <MoreTraps.description>地牢中将生成更多地刺和感应炸弹。</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
 
   <NoHunger.label>无饥饿</NoHunger.label> <!-- <En>no hunger</En> -->
   <NoHunger.description>你将永远不会感到饥饿。</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
 
-  <NoMiniBosses.label>无小首领</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
-  <NoMiniBosses.description>不会生成小首领（仅当地牢有小首领时适用）。</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+  <NoMiniBosses.label>无小头目</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>不会生成任何小头目（仅在地牢有小头目时生效）。</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
 
   <NoRandomEvents.label>无随机事件</NoRandomEvents.label> <!-- <En>no random events</En> -->
-  <NoRandomEvents.description>无论你在地牢中停留多久，都不会发生随机事件（仅当地牢有随机事件时适用）。</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+  <NoRandomEvents.description>无论你在地牢中停留多久，都不会发生随机事件（仅在地牢有随机事件时生效）。</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
 
   <NoShelters.label>无庇护所</NoShelters.label> <!-- <En>no shelters</En> -->
-  <NoShelters.description>不会生成庇护所（仅当地牢有庇护所时适用）。</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+  <NoShelters.description>不会生成任何庇护所（仅在地牢有庇护所时生效）。</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
 
 </SpecTranslations>

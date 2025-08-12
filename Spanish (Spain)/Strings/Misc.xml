@@ -1,0 +1,997 @@
+﻿<Strings>
+
+  <!-- Main menu -->
+  <Play>Jugar</Play> <!-- <En>Play</En> -->
+  <Quit>Salir</Quit> <!-- <En>Quit</En> -->
+  <Loading>Cargando</Loading> <!-- <En>Loading</En> -->
+  <Resume>Reanudar</Resume> <!-- <En>Resume</En> -->
+  <Options>Opciones</Options> <!-- <En>Options</En> -->
+  <Mods>Mods</Mods> <!-- <En>Mods</En> -->
+  <Credits>Créditos</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>Elegir idioma</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>Morir y reiniciar</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>Morir e ir al vestíbulo</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>Guardar y salir del juego</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>Cerrar</Close> <!-- <En>Close</En> -->
+  <Back>Atrás</Back> <!-- <En>Back</En> -->
+  <Days>{0} días</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} horas</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} minutos</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 día</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 hora</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 minuto</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>Algo está causando errores.\nConsulta el archivo de registro para más información.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Sesión iniciada en Steam</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>ningún mod seleccionado</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>Acceso anticipado</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave está actualmente en desarrollo.\n\nConstantemente intento añadir más contenido, reequilibrar las cosas, eliminar mecánicas que no son divertidas y recopilar vuestros comentarios, pero es probable que aún se me haya pasado algo. Si el juego te parece demasiado difícil o demasiado fácil, encuentras un error o tienes una idea genial para una mejora o una nueva característica, por favor, participa en el proceso de desarrollo y comparte tus pensamientos en nuestro canal de Discord o en Twitter.\n\n¡Gracias y que lo disfrutes!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>Juego actualizado</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>¡Ricave se ha actualizado a la versión {0}!\n\nEs posible que tu partida actual no sea compatible con la nueva versión. ¿Quieres abandonar tu partida actual y volver al vestíbulo?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Subir a Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>subiendo</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>No se pudo subir a Steam: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Subido a Steam correctamente.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>Mensaje</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>Resolución</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>Pantalla completa</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>Escala de la interfaz</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>Campo de visión</FOV> <!-- <En>FOV</En> -->
+  <VSync>Sincronización vertical</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>Tasa de fotogramas objetivo</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>Mostrar FPS</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Invertir eje Y</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>Asignación de teclas</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>Volumen</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>Volumen de la música</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>Sensibilidad del ratón</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>Sensibilidad del puntero</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>Calidad SSAO</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>Calidad de las sombras</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>Reducción de muestreo</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>Contorno</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>Luces máximas</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>No</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>Baja</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>Normal</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>Alta</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>Baja</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>Normal</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>Alta</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>No (mejor calidad)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1,5x (peor calidad)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (la peor calidad)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>Multipaso redondeado</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>Multipaso</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>Un solo paso (recomendado)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>Aceptar</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>Restaurar valores por defecto</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>Reiniciar estado del juego</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>Volver al vestíbulo</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>Reiniciar todo el progreso</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>¿Seguro que quieres volver al vestíbulo?\n\nA diferencia de volver al vestíbulo desde el juego, usar esta opción aquí significa que perderás el progreso de tu partida actual. Sin embargo, no perderás el progreso general del vestíbulo (tus misiones anteriores y el polvo estelar permanecerán intactos).\n\nUsa esta opción si tu archivo de guardado está dañado, por ejemplo, después de instalar una actualización incompatible.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>¿Seguro que quieres reiniciar TODO el progreso?\n\nEsto borrará todos tus datos y empezarás desde el principio.\n\nUsa esta opción solo si quieres experimentar el juego desde cero o si tus datos de progreso están dañados.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>Pulsa una tecla para asignar a:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>Ninguna</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>Vídeo</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>Interfaz</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>Audio</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>Varios</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>Calidad</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>No</No> <!-- <En>No</En> -->
+  <Yes>Sí</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>Entrar en la mazmorra</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>Entrar en la mazmorra con semilla</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>Entrar en la sala de entrenamiento</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>Introducir semilla</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>Progreso deshabilitado</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>Puntuación máxima</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>Piso alcanzado</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>Piso promedio</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>Intentos</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>Bajas totales</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>Misiones</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>Estadísticas</Stats> <!-- <En>Stats</En> -->
+  <Cancel>Cancelar</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>Aceptar</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>Aceptar misión</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>Reclamar</Claim> <!-- <En>Claim</En> -->
+  <Postpone>Pospener</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>Bloqueado</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>¡Solo los mejores precios!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>¿Necesitas mejoras?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>¿Tienes polvo estelar?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>Haz clic para leer más</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>Selecciona para leer más</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>Modificadores de mazmorra al aceptar</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>Recompensas</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} piezas de puzle</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>Desbloqueable en el nivel {0}</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>Desbloqueable al completar la misión</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>Colocar</Place> <!-- <En>Place</En> -->
+  <PickUp>Recoger</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>Pulsa [ShowInventory] para abrir el menú de la tienda.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>Ninguno</None> <!-- <En>None</En> -->
+  <CompletedQuests>Misiones completadas</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>Completadas</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>Desafío diario</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>¡Solo tienes un intento, haz que cuente!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>Cada día, jugadores de todo el mundo pueden jugar la misma semilla de mazmorra. Solo tienes una oportunidad al día.\n\nReglas:\n  - Dificultad normal\n  - Potenciadores desactivados\n  - Clase y rasgos aleatorios\n  - Misiones desactivadas\n  - Progreso desactivado\n  - Mazmorra compleja infinita (sin límite de pisos)\n\nNo puedes recoger polvo estelar en esta mazmorra y no contará para tus estadísticas, pero recibirás {0} por participar.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>Próximo desafío en: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>Tu mejor puntuación (todos los días): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>Empezar desafío diario</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>Ya has jugado el desafío de hoy\nTu puntuación fue: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>Desactiva los mods primero</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>Desbloqueable en el nivel {0}</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>Ver la clasificación de hoy</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>Global</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>Amigos</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>Tu puesto: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>Cargando clasificación...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>Error al cargar la clasificación.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>No hay datos de clasificación disponibles.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>Ninguno de tus amigos ha jugado este desafío todavía.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>Misiones activas</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>Activas</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>Misiones disponibles</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>Disponibles</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>Misiones históricas</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>Históricas</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>Pulsa [Wait] para continuar</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>Misión</Quest> <!-- <En>Quest</En> -->
+  <Runs>Partidas</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 misión disponible</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} misiones disponibles</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>Usa el diario de misiones para aceptar misiones.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>Nombre del jugador</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>Dificultad</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>Enemigos</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>Jefes</Bosses> <!-- <En>Bosses</En> -->
+  <Train>Entrenar</Train> <!-- <En>Train</En> -->
+  <EnterNewName>Introduce un nombre nuevo</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>PV de enemigos</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>PV iniciales</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>Puntuación</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>Enemigos extra</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>Pan por piso</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>Pociones de salud por piso</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>Nivel de enemigo</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>Botín de oro por piso</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>Polvo estelar</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>Cristales de curación</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>Cristales de curación pequeños</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>Cristales de maná</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>Cristales de maná pequeños</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>Número de enemigos</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>Pociones de salud iniciales</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>¡Enhorabuena!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>¡Enhorabuena!\n\nTu puntuación final fue: {0}\n\nAunque la cadena de misiones principal ha terminado, puede que aún queden muchas cosas por descubrir.\n\nSi te ha gustado el juego, considera unirte a nuestro servidor de Discord en {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>Precio de los siguientes rasgos</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>Primero tienes que desbloquear este rasgo.\n\nPuedes comprar un rasgo aleatorio con polvo estelar. Cuantos más rasgos tengas, más caro será comprar el siguiente.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>Piso máximo alcanzado con este rasgo: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>Solo puedes elegir hasta 2 rasgos.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>No tienes suficiente polvo estelar.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>Haz clic para seleccionar o anular la selección de este rasgo.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>Selecciona o anula la selección de este rasgo.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>Haz clic para seleccionar o anular la selección.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>Selecciona o anula la selección.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>Comprar {0} rasgos aleatorios</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>Rasgos seleccionados</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>¿De verdad quieres comprar {1} rasgos aleatorios por {0}?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>Empiezas con {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>Encuentras un {0} más de oro</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>Encuentras un {0} menos de oro</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>PV máximos</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>Maná máximo</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>Aguante máximo</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>No hostil a {0}</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>Hostil a {0}</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>{0} de resistencia al veneno</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>{0} de vulnerabilidad al veneno</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>Inmune al veneno</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>Sin daño por caída</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>{0} de daño por caída</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>{0} de resistencia al fuego</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>{0} de vulnerabilidad al fuego</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>{0} de resistencia a la magia</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>{0} de vulnerabilidad a la magia</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{0} de daño a {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>El aguante se regenera {0}x más lento</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>El aguante se regenera el doble de lento</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>Inflige un {0} más de daño con menos de {1} PV</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>Ganas {0} menos PV máximos por nivel</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>Ganas {0} más PV máximos por nivel</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>Ruido al caminar {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>Gana {0} de maná por baja valiosa</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>Gana {0} de vida por baja valiosa</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>Pierde {0} de vida por baja valiosa</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>Espacios de inventario {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>Vida máx. x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>{0} de daño a jefes</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>Tasa de curación {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>Inmune a {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>Inmune a empujones</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>Tasa de hambre {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>Precios de tienda {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>Puede volar</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>Gana {0} más de experiencia</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>Gana {0} menos de experiencia</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>EXP retenida de la última partida</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>Oro retenido de la última partida</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>Queda 1 partida</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>Quedan {0} partidas</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>Empezar</StartNewRun> <!-- <En>Start</En> -->
+  <Character>Personaje</Character> <!-- <En>Character</En> -->
+  <Traits>Rasgos</Traits> <!-- <En>Traits</En> -->
+  <Boosts>Potenciadores</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>Pisos</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} pisos</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>Salas por piso</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>Desbloquear por {0}</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>Completado en dificultad</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>Minijefes</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>Refugios</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>Espíritus rescatados</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>Victorias</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>Derrotas</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>Jefe de {0}</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>Incompatible con</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>Los cosméticos son puramente visuales y no tienen efectos en el juego, a menos que se indique lo contrario.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>¿Quieres comprar {0} por {1}?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>No tienes suficiente para comprar este cosmético.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>Precio</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>Advertencia: Este cosmético hará que la facción {0} sea hostil hacia ti</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>Modificadores de mazmorra extra</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>Tu tiempo es prestado.\nSolo estoy cobrando mi deuda.\nSigue corriendo, por supuesto.\nCon el tiempo, encontrarás la salida.\nYo estoy justo detrás.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>Enemigo no descubierto</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} de vida</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} de maná</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} de aguante</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} a {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>emboscado</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>desde arriba</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>por desviar</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>daño propagado</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>sin identificar</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>Maldito</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>maldito</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 turno</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} turnos</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1 uso</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} usos</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 carga</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} cargas</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 diamante</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} diamantes</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 de polvo estelar</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} de polvo estelar</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 célula</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} células</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 de oro</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} de oro</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}o</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>Pulsa [Accept] para continuar</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>Pulsa [Accept] para continuar a la sala</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>Pulsa [Wait] para reiniciar</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>sin opciones</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>Advertencia: Este objeto podría estar {0}.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>Advertencia: Este objeto está {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>No puedes desequipar objetos {0} (sin un pergamino de eliminación de maldiciones).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>Oro</Gold> <!-- <En>Gold</En> -->
+  <Leave>Salir</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>Actúa dos veces por turno</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>Actúa {0} veces por turno</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>Actúa cada dos turnos</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>Actúa una vez cada {0} turnos</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>No le entra hambre</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>Le entra hambre el doble de rápido</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>Le entra hambre {0} veces más rápido</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>Le entra hambre el doble de lento</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>Multiplicador de tasa de hambre: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>Lanzar {0} de oro</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>{0} de probabilidad</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>Equivalente a {0} turnos</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>radio {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>mapa completo</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>a través de las paredes</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>alrededor del objetivo</AroundTarget> <!-- <En>around target</En> -->
+  <Used>Usado</Used> <!-- <En>Used</En> -->
+  <Waiting>Esperando</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>Interrumpido</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>lugar</Location> <!-- <En>spot</En> -->
+  <StopTargeting>Dejar de fijar objetivo</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>Misión completada</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>Reclama tu recompensa cuando vuelvas a la sala</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>Estacionario</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>Un paso</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>¿Quieres comprar {0} por {1}?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>Esta es una bonificación de un solo uso y solo se aplica a tu próxima partida.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>Comprar</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>Disponible en {0}</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>Esta es el arma nativa de este personaje.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>Elige un nuevo hechizo.\n\nPuedes elegir un nuevo hechizo cada vez que subas de nivel.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} derrotado</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>Consejo: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>Usa [MoveForward][MoveLeft][MoveBack][MoveRight] para moverte. Pulsa [ShowInventory] para abrir el inventario. Usa [Interact] para interactuar con objetos. Gira con [RotateLeft] y [RotateRight]. Mantén pulsado [Inspect] para inspeccionar. Pulsa [Wait] para esperar un turno.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>Espera</Waits> <!-- <En>Waits</En> -->
+  <Wait>Esperar</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>Espera (ebrio)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>Espera (pánico)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>Espera ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>Se despierta</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>¡¿Dónde?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>Sin brazos</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>Sin piernas</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>Hostil</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>Faltan partes del cuerpo</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>Alguien te ve</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>El jefe sigue vivo</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>Maná insuficiente ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>Aguante insuficiente ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>Enfriamiento ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>Acércate</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>Objetivo no válido</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>Fuera de alcance</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>Sin línea de visión</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>Necesitas {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>No se puede alcanzar</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>Inventario lleno</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>Se necesitan 2 cristales iguales</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>Se necesita espíritu</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>Se necesita una pala</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>Usar pala</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>Se necesita un pico</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>Usar pico</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>Algunos miembros del grupo están demasiado lejos</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>La puerta está bloqueada</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>El seguidor {0} ya existe</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} ahora a ti</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} ahora</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} ahora para ti</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>{0} de daño por turno</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{0} de daño cada {1} turnos</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} por turno</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} cada {1} turnos</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>todo</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} para ti</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>o</Or> <!-- <En>or</En> -->
+  <And>y</And> <!-- <En>and</En> -->
+  <Score>Puntuación</Score> <!-- <En>Score</En> -->
+  <FloorReached>Piso alcanzado</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>Bajas</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>Tiempo de juego</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>Bajas</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>Clasificación de combate</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>Jefes derrotados</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>Objetos de sala recogidos</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>Próxima recompensa en el nivel {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}d</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}h</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}m</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>ninguno</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>¡Nuevo récord!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>y más</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>Semilla: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 modificador</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} modificadores</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>Apostar {0} de oro</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>Tutorial</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>Jefes abatidos</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>Misiones completadas</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>Notas encontradas</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>Cofres abiertos</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>Objetos fabricados</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>Común</Common> <!-- <En>Common</En> -->
+  <Uncommon>Poco común</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>Raro</Rare> <!-- <En>Rare</En> -->
+  <Epic>Épico</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>Sin identificar</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>Objeto de sala (permanente)</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>Sala</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>dañado</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>fuego cercano</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>ruido fuerte</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>aliado despertó cerca</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>pisadas hostiles</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>paso de aliado en alerta</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>patada a una puerta</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>Fallo</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} de fallo</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} de crítico</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>crítico</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>Golpe crítico</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>cargado</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>Recetas disponibles</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>Esperar {0}</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>Rebobinar {0}</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>tienes {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>cría de {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>jefe {0}</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>Parece que estás en una especie de mazmorra...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>No sabes dónde estás exactamente, ni siquiera cómo has acabado aquí.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>Todo a tu alrededor parece un tanto onírico. Al mismo tiempo, se siente demasiado real para ser solo un sueño.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>Poco a poco empiezas a recordar algo. Al menos sabes cómo te llamas.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>Te llamas:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>Acabas de ver a alguien a lo lejos, pero solo has podido entrever su sombra. Será mejor que vayas a investigar.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>Abres los ojos lentamente...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>Te despiertas en un hospital.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3>"¡Está despierto!"</Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4>"¿Qué ha pasado?"</Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5>"Fuiste de excursión con tus amigos y sufriste una herida grave en la cabeza."</Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6>"El equipo de rescate te encontró justo a tiempo. Tienes que descansar y recuperar fuerzas."</Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7>"¿Dónde está Maya?"</Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8>"¿Quién es Maya?"</Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9>"Ella me encontró primero. ¿Está bien?"</Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10>"Puede que estés un poco confuso, pero te recuperarás pronto."</Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>Estás perplejo, pero tienes una extraña sensación de logro. Casi como si hubieras cambiado de alguna manera.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>Cierras los ojos y respiras hondo, imaginando el calor del sol en tu cara. El aire fresco llena tus pulmones y no puedes evitar sonreír.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>¡Gracias por jugar a la demo!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>Creado por</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>Arte del fondo del menú principal por</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>Música por</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>Logo por</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>Modelos de personajes por</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>Efectos de sonido por</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>¡Gracias por jugar!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>El bosque... ¡bingo! Empiezas a recordar lo que pasó antes de llegar aquí. Un cálido día de verano, pájaros cantando y hermosas montañas en el horizonte: fuiste de excursión con tus amigos. Pero entonces, algo llamó tu atención. Recuerdas haberte separado del grupo. ¿Pero por qué?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>¡La cueva! Dejaste a tu grupo tras oír a alguien gritar pidiendo ayuda. Creyendo que era otro excursionista en apuros, seguiste la voz hasta una cueva. Dentro, resbalaste y caíste, rompiéndote una pierna. Gritaste, pero nadie respondió. Solo y herido, tu esperanza empezó a desvanecerse...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>Estuviste sentado solo en esa cueva durante horas. Cuando llegó la noche y empezó a llover a cántaros, casi perdiste toda esperanza. Después de lo que pareció una eternidad, viste una luz en la entrada de la cueva. ¡Era... Maya! ¡Qué alivio sentiste!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>Te alegraste muchísimo de ver a Maya. Se acercó para ayudarte a levantar y, por un momento, pareció que lo conseguiríais. Pero la lluvia incesante la hizo resbalar y ambos caísteis, golpeándoos contra las rocas con una fuerza dolorosa. Después de eso, todo quedó en silencio.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>Equipar</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>Crear</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>Identificar</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>Nombre</Name> <!-- <En>Name</En> -->
+  <Level>Nivel</Level> <!-- <En>Level</En> -->
+  <Experience>Experiencia</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>EXP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>Ataque</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>Mira todos los objetos que tienes equipados actualmente.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>Mira todas las recetas que puedes usar para crear nuevos objetos. Puede ser útil si necesitas eliminar una maldición o curar un miembro perdido.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>Mira todos los objetos sin identificar que tienes en tu inventario.\n\nCada objeto se identifica lentamente con el tiempo (a menos que tengas hambre). El objeto que esté al principio de la lista se identificará primero.\n\nArrastra y suelta para reordenar.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>No tienes ningún objeto sin identificar</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>Esta es tu cola de identificación. Arrastra y suelta para decidir qué objeto se identificará a continuación a medida que pase el tiempo. También puedes identificar objetos en los puestos de los errantes.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>Crear</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>adyacente</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>perderás las mejoras compradas</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>Señor de las Pesadillas</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>Hypnorak</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>Phantasmos</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>Puntos de habilidad disponibles</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>Habilidades desbloqueadas</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>Logros desbloqueados</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Cancel] para cancelar</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC para cancelar</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>Enemigos</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>Miembros conocidos</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>Estás aquí</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>Si eliges ir por este camino, recibirás lo siguiente</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>¿Adónde ir?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>Más enemigos</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>Menos enemigos</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>Enemigos normales</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>Más oro</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>Menos oro</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>Oro normal</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>Número de enemigos</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>Botín de oro</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>Cristal</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>cristal {0}</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>Cura {0} PS</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>Este movimiento te hará caer al foso. ¿Seguro que quieres hacerlo?\n\nCaerás en un lugar aleatorio del piso inferior y perderás algo de salud. No podrás volver.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>Este movimiento terminará tu partida. ¿Seguro que quieres hacerlo?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Rewind] para rebobinar</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Recuerda inspeccionar tu entorno con [Inspect].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>¡Escapa!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>Recompensa</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>¿Qué es este lugar? Debo encontrar la salida...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>Cada vez que vengo, esta mazmorra cambia. ¿Pero por qué?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>Cada paso me resulta inquietantemente familiar, casi como si ya hubiera estado aquí.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>Hay algo más adelante, puedo sentirlo.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>¿Acabo de ganar una batalla o de comprender algo?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>Siento que todo me ha conducido a lo que me espera.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>Siento como si... me hubieran quitado un peso de encima. Qué extraño.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>¿Por qué tardas tanto?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>¿Qué ha sido eso?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>Has muerto</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>Has escapado</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>Partida completada</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>Encuentra la palanca\npara abrir</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>Sigue el tutorial\npara abrir</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>Ayuda</Help> <!-- <En>Help</En> -->
+  <HelpMe>Ayúdame</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>Por aquí</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>Mantén [Inspect] para leer</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>Misiones principales</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>Misiones secundarias</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>Extras</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>Puedes aceptar y posponer misiones en la sala.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>Ten en cuenta que algunas misiones solo se pueden completar en mazmorras que tengan suficientes pisos.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>Desbloquea la siguiente mazmorra</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>Llega al final del piso {0} de esta mazmorra para desbloquear la siguiente.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>Encuentra la pieza del puzle</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>Encuentra la siguiente pieza del puzle en el piso {0}. Actualmente tienes {1}/{2}.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>Rescate de espíritus</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>Hay 1 espíritu en esta mazmorra. Libéralo llevándolo al refugio.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>Hay {0} espíritus en esta mazmorra. Libéralos llevándolos al refugio.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>Aviso: Estos seguidores se quedarán atrás</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>Elige tu hechizo</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>Elige tu hechizo ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>Nuevo hechizo</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>Tu barra de acceso rápido y tus hechizos</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>Se desbloquea en el nivel {0}</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>¡Has recogido polvo estelar, una valiosa moneda!\n\nEl polvo estelar se puede gastar en la sala para comprar mejoras para tus próximas partidas y desbloquear salas especiales.\n\nTodos los objetos marcados como "Objeto de sala" se conservan en la sala. Todos los demás objetos se pierden cuando termina la partida.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>Las piezas de puzle, al igual que el polvo estelar, son objetos de sala permanentes.\n\nReúne las {0} piezas en diferentes partidas para desbloquear una sala secreta.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>Tienes un compañero.\n\nCada vez que te muevas, Roko recogerá automáticamente las monedas de oro de las casillas adyacentes.\n\n1 queso hace que Roko te siga solo durante 1 partida.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>Ahora tienes miembros en tu grupo.\n\nPuedes cambiar entre ellos y gestionar su inventario por separado. Cada miembro del grupo tiene su propio turno.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>PS máx. +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>Crít. +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>Fallo -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% de fuego</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>Patada</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>Este personaje puede patear cosas.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>Hay un fragmento de memoria en este piso</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>Búscalo</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>Buscar</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>Objetos descubiertos</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>Criaturas descubiertas</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>El códice muestra los objetos y las criaturas en su estado normal, no maldito. Los objetos/criaturas reales pueden variar.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>Desafío diario</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>Clase</Class> <!-- <En>Class</En> -->
+  <NoClass>Sin clase\n\nEfectos:\n- Fama y gloria</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>Se desbloquea en el nivel {0}</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>Efectos</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>Habilidades: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>PS máx.</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>Maná máx.</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>Aguante máx.</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>{0} de daño a no muertos (esqueleto, momia, etc.)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} de resistencia al fuego</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} de vulnerabilidad al fuego</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>Ritmo de hambre {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>No activa las placas de presión</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>Inmune al veneno</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>Inmune a los empujones</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>Los perros son hostiles</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>Ruido al caminar {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>Piso máximo alcanzado con esta clase: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>Piso máximo alcanzado sin clase: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} recibe {1} p. de daño {2}</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} recibe {1} p. de daño {2} y muere</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} PE</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0} no recibe daño {1}</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} recupera {1}</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} recibe {1} p. de daño {2}</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} recibe {1} p. de daño {2} y es destruido</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0} no recibe daño {1}</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} recupera {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>El/la {1} de {0} se ha destruido.</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} bloquea {1} p. de daño {2}</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} desvía {1} p. de daño {2} hacia {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} es empujado</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} es atraído</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} adquiere una nueva condición: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} obtiene un nuevo efecto: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>Se ha restaurado la parte {1} de {0}</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{0} recupera {1}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{0} recupera {1}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} ha sido identificado</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>El efecto {0} desaparece</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>El efecto {0} desaparece</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} recoge {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>Era {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>Es {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>¡{0} está {1}! (necesitas encontrar o fabricar un pergamino de eliminación de maldición)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>¡Tu {0} ha sido {1}!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>Se ha eliminado la maldición de {0}</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} se teletransporta a un lugar aleatorio</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} se teletransporta</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} se abre. Ahora, encuentra la salida.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} se abre</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>Una puerta se cierra detrás de ti</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} chisporrotea, pero no parece tener ningún efecto</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>Te mueres de hambre</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>Tienes hambre</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>Has comprado {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>¡Has subido de nivel!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>Puedes elegir un nuevo hechizo.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>Subida de nivel</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>El efecto de escudo se ha cancelado porque has dañado a {0}</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} se despierta</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>{0} en total</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>Te has sacrificado</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>Ganas</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>Has perdido</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>Has completado la prueba y has recibido {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>Has resuelto el puzle de glifos y has recibido {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>{0} te ha salvado</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{1} ha salvado a {0}</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>Has fallado la prueba</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>Se ha duplicado {0}</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>Se ha destruido {0}</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>Aquí ya no queda nada</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>Has pescado {0}</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0} se activará en {1}</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>Has recibido {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>La estatua del diablo acepta tu {0} y te da {1}</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} recibe {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} falla</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>Ha aparecido {0} cerca</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} le da {1} a {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>La facción {0} se ha vuelto hostil</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>No tienes todos los ingredientes</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>Este objeto no cabe en esta ranura</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} le ha robado {1} a {2}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>Has recogido {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>¡Has ganado un punto de habilidad! Abre el inventario para gastarlo.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>Has liberado a {0} y has recibido {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>Se ha mejorado el nivel de {0}</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>No puedes desequipar un objeto maldito</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} fabrica {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>Usar en uno mismo</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>Usar en...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>Beber</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>Lanzar...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>Comer</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>Lanzar...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>Poner trampa...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>Lanzar...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>Plantar...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>Usar en uno mismo</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>Atacar...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>Lanzar sobre uno mismo</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>Lanzar sobre...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>Rellenar con...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>Atrancar puerta...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>Encadenarse</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>Encadenar...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>Colocar...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>Recoger...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>Pescar...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>Picar...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>Hablar...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>Encantar</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>Cavar...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>Patearse</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>Patear...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} se ataca a sí mismo con {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0} ataca a {2} con {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0} usa {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0} usa {1} en {2}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0} se bebe {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0} le lanza {1} a {2}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0} usa {1} en sí mismo</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0} usa {1} en {2}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} le lanza {1} a {2}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0} abre {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0} cierra {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0} desentierra {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0} bebe de {1}</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0} encanta su equipo en {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} baja las escaleras</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} sube las escaleras</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0} tira de {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0} recibe una bendición en {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0} se come {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0} pone {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0} nada en {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0} se quema en {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0} pisa {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} se teletransporta</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0} le lanza {1} a {2}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0} planta {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0} se lanza {1} a sí mismo</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0} le lanza {1} a {2}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0} llena {1} de agua</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0} atranca {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} se encadena a un poste</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0} encadena a {2} a un poste</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0} coloca {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0} recoge {2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} se venda las heridas</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0} venda las heridas de {2}</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} realiza una cirugía</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0} le realiza una cirugía a {2}</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0} registra {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0} apuesta en {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0} pulsa {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0} inicia un desafío en {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0} duplica un objeto en {1}</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0} pesca en {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} se apaga el fuego</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0} le apaga el fuego a {2}</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0} investiga {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} registra {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} duerme en {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} pica {2} con {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} habla con {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} encanta un objeto con {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} cava {2} con {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} ofrece una extremidad en {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} invoca un Fantasma en {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} libera un espíritu en {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} limpia {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} obtiene un punto de habilidad en {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} se da una patada</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} patea a {2}</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} mejora su equipo en {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} ofrece un objeto maldito a {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>arriba</Up> <!-- <En>up</En> -->
+  <Down>abajo</Down> <!-- <En>down</En> -->
+  <North>norte</North> <!-- <En>north</En> -->
+  <South>sur</South> <!-- <En>south</En> -->
+  <West>oeste</West> <!-- <En>west</En> -->
+  <East>este</East> <!-- <En>east</En> -->
+  <NorthWest>noroeste</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>noreste</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>suroeste</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>sureste</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>arriba-norte</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>arriba-sur</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>arriba-oeste</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>arriba-este</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>arriba-noroeste</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>arriba-noreste</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>arriba-suroeste</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>arriba-sureste</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>abajo-norte</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>abajo-sur</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>abajo-oeste</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>abajo-este</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>abajo-noroeste</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>abajo-noreste</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>abajo-suroeste</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>abajo-sureste</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>Inicio</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>Fin</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>Palanca</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>Escalera</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>Jefe</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Oportunidad de emboscada</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>Este personaje no te vio en el turno anterior, así que le infligirás un {0} más de daño si le atacas ahora.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>Sobre ti</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>Este personaje está sobre ti, lo que significa que te infligirá un {0} más de daño si te golpea desde esta posición.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>Bajo ti</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>Este personaje está bajo ti, lo que significa que le infligirás un {0} más de daño si le golpeas desde esta posición.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>No puede verte</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>Este personaje no te ve (no puede ver tan lejos como tú). Pero ten cuidado, ¡puede que todavía recuerde tu última posición y quiera ir a comprobarla!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>Cayendo</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>Este personaje está cayendo, lo que significa que tendrá que usar su próximo turno en caer en lugar de realizar una acción.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>Efecto no identificado</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>Un efecto desconocido. Proviene de un objeto no identificado.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>Estás rodeado por al menos 2 enemigos, lo que significa que infligirás un {0} más de daño a este personaje si le golpeas desde esta posición.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Efecto de uso no identificado</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>Un efecto desconocido. Proviene de un objeto no identificado.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nEsta es la hora actual del juego. Un minuto representa un turno.\n\nTodo el juego está basado en turnos. La mayoría de las acciones, como caminar, beber una poción, atacar o interactuar con objetos, tardan un turno en completarse.\n\nTurnos totales transcurridos: {2}.\nEn esta planta: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>Estos son los puntos de vida de tu personaje.\n\nCiertos objetos pueden aumentar tus puntos de vida máximos. Cada nivel te otorga {0} a tus puntos de vida máximos.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>Si no tienes hambre ni estás famélico, se curarán {0} cada {1}.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>Siguiente punto de vida curado en: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>Estás perdiendo vida porque está por encima del nivel máximo.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>Estás perdiendo maná porque está por encima del nivel máximo.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>Estás perdiendo aguante porque está por encima del nivel máximo.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>Este objeto se identificará después de {0}. Arrastra y suelta para reordenar.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>Este objeto está {0}. Sin embargo, gracias a tu impecable percepción, puedes deducir que es uno de los siguientes:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>Los objetos como este se identifican permanentemente una vez usados.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>Este objeto está {0}. Puede tener efectos desconocidos y estar {1} (no puedes desequipar objetos {1}). Los Errantes pueden ayudarte con la identificación.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>Este objeto está {0}. No puedes desequipar objetos {0} (sin un pergamino de eliminación de maldición).</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>¡Enhorabuena!;¡Tú puedes!;¡Siempre he creído en ti!;¡Casi lo tienes!;¡Ojalá fuera tan genial como tú!;¡Impresionante!;¡Sigue así!;¡Eres el mejor!;¡Lo has conseguido!;¡Bien hecho!;¡Eres genial!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>Bienvenido a la planta 1.\n\nTu viaje comienza aquí, aunque puede que no sea la primera vez que lees este cartel.\n\nAlgunas cosas pueden parecer difíciles al principio, pero no pasa nada. Sobre todo, debemos recordar: ¡perder es divertido!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>Bienvenido a la planta {0}.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>Aquí, toda alma se detiene para encontrar su camino.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>Derrotado el {0}.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>El número de monedas de oro que tienes en tu inventario. Puede que haya gente dispuesta a comerciar en esta mazmorra.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>Aparición del próximo {0} en</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>No aparecerán más</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>Desaparece en {0}.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>Se extiende en {0}.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>Próxima acción en {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>Se activará en {0}.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>Origen</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>Origen: Dificultad</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>Presente desde</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>Pulsa [Fly]+[MoveForward] para subir y [Fly]+[MoveBack] para bajar.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>Mantén [Fly] para dar una patada a la puerta.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>Pulsa [Rewind] para rebobinar el tiempo.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>Usar este objeto no consume turno.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>Usar este objeto consume {0} de un turno.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>Usar este objeto consume {0} turnos.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>Usar este hechizo no consume turno.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>Usar este hechizo consume {0} de un turno.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>Usar este hechizo consume {0} turnos.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>Hacer esto no consume turno.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>Hacer esto consume {0} de un turno.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>Hacer esto consume {0} turnos.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>Interactuar con este objeto no consume ningún turno.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>Interactuar con este objeto consume {0} de un turno.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>Interactuar con este objeto consume {0} turnos.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>Este objeto es inflamable.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>Solo puedes usarlo si nadie te ve.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>Este objeto es frágil (las explosiones lo destruirán).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>La identificación se ha detenido porque tienes hambre.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>Haz clic para recoger.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>Haz clic para interactuar.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>Haz clic para comprar.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>Interactúa para recoger.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>Interactúa con este objeto.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>Interactúa para comprar.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>Este objeto desaparecerá al descender.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>Este es tu progreso hacia el siguiente nivel. Puedes ganar experiencia derrotando enemigos.\n\nEXP para el siguiente nivel: {0}\nNivel actual: {1}\nExperiencia total: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>Este es tu nivel actual. Puedes subir de nivel derrotando enemigos.\n\nCada nivel te otorga {0} puntos de vida máximos. Además, cada vez que subes de nivel puedes elegir un nuevo hechizo.\n\nEXP para el siguiente nivel: {2}\nExperiencia total: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>Este es tu nivel actual basado en la puntuación total de todas tus partidas. Puedes ganar puntos derrotando enemigos y progresando en el juego.\n\nPuntuación para el siguiente nivel: {0}\nPuntuación total: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>Este es tu nivel de saciedad actual: {0}/{1}\n\nNecesitas comer periódicamente para saciar tu hambre y evitar las consecuencias.\n\nCuando el nivel de saciedad llega a {2}, te entra hambre: no regenerarás salud ni identificarás objetos.\n\nCuando el nivel de saciedad llega a {3}, te mueres de hambre: no regenerarás aguante y perderás salud lentamente con el tiempo.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>Este es el piso actual de la mazmorra. ¡Cuanto más bajes, más difícil será sobrevivir, pero también más divertido se volverá!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>Otorga {0} de experiencia</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>Advertencia: si lo matas, todos los miembros de esta facción se volverán hostiles.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>Tácticas: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>Este personaje te seguirá al siguiente piso.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>Condiciones</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>Arma</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>Hechizos</Spells> <!-- <En>Spells</En> -->
+  <Talk>Hablar</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>Al morir</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>Equipado</Worn> <!-- <En>Worn</En> -->
+  <Inventory>Inventario</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>Info</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>Cuesta {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>Cuesta {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>Este es el maná de tu personaje.\n\nLanzar hechizos y usar objetos mágicos cuesta maná. El maná no se regenera automáticamente con el tiempo, solo se puede rellenar bebiendo pociones de maná o interactuando con algunos objetos especiales. La barra de maná está oculta cuando no tienes ningún hechizo.\n\nPuedes elegir un nuevo hechizo cada vez que subes de nivel.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>Este es el aguante de tu personaje.\n\nUsar ciertos objetos puede requerir aguante. La barra de aguante está oculta cuando no tienes ningún objeto en tu inventario que requiera aguante.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>Si no te mueres de hambre, se regenerará {0} cada {1}.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>El aguante se regenerará en: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>Elige un nuevo hechizo. Puedes elegir un nuevo hechizo cada vez que subes de nivel.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>huye con poca vida</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>¡El reloj te permite rebobinar el tiempo a tu antojo! Rebobina el último turno pulsando [Rewind].\n\nÚsalo cuando no te guste el resultado de tus acciones recientes o simplemente hayas hecho clic por error.\n\nEl reloj tiene un límite de turnos que puedes rebobinar de una vez, pero se recarga cada {0} turnos. A diferencia de otros objetos de manipulación del tiempo, como los pergaminos de rebobinado, el reloj pierde todas sus cargas restantes cada vez que usas una poción o pergamino no identificado, te equipas un objeto maldito, pisas una trampa o usas una llave de plata.\n\nTodas las acciones en Ricave son deterministas, lo que significa que después de rebobinar, todo se desarrollará exactamente igual que antes si realizas el mismo movimiento de nuevo, incluyendo el mismo daño infligido y las mismas decisiones de los enemigos. Rebobinar el tiempo solo para intentar sacar un daño mayor no funcionará.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>Se recarga en: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>El polvo de estrellas se puede encontrar en varios lugares de la mazmorra o puede ofrecerse como recompensa por completar una misión. Puedes gastar el polvo de estrellas en el vestíbulo.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>Reúne las {0} piezas del puzle para desbloquear una sala especial en el vestíbulo. Hay una pieza del puzle en cada piso de la mazmorra, y solo puedes encontrar una pieza por partida.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>Siguiente pieza del puzle en el piso: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>Alcance: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>Cuerpo a cuerpo</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>estás al alcance</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>estás fuera de alcance</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>Recoge los objetos colocados en tu sala privada.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>Actualmente miras hacia {0}.\n\nMuévete con "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nMuévete lateralmente con "[MoveLeft]" y "[MoveRight]".\nSube y baja con "[Fly]+[MoveForward]" y "[Fly]+[MoveBack]" si tu personaje puede volar.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>Recibirá daño en {0}.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>Ganará PV en {0}.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>Ganará aguante en {0}.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>Ganará maná en {0}.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>La regeneración de aguante está desactivada porque este personaje no está tocando el suelo.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>La regeneración de aguante está desactivada porque no estás tocando el suelo.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>Reutilización: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>{0} restantes</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>Desbloquea {0} primero</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>No tienes puntos de habilidad</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>Haz clic para desbloquear</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>Interactúa para desbloquear</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>Efectos</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>Todas las puertas están abiertas y todo el mundo está despierto. ¡Tienes que escapar ahora!\n\nAdemás, aparecerá el doble de ratas.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>Roko recogerá las monedas de oro de las casillas adyacentes por ti cada vez que te muevas.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>Consejo: puedes consultar el códice para ver las estadísticas típicas</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>Ordenar objetos del inventario</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>Desequipar</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>Equipar</Equip> <!-- <En>Equip</En> -->
+  <Unwear>Quitar</Unwear> <!-- <En>Take off</En> -->
+  <Wear>Poner</Wear> <!-- <En>Wear</En> -->
+  <Drop>Soltar</Drop> <!-- <En>Drop</En> -->
+  <Destroy>Destruir</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>Mezclar con {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>Mirar</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>Mover a</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>Usar {0} en</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>Interactuar con</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>Desactivado</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>Dar {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>muerte</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>Sin espacio</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>El objeto equipado actualmente está maldito</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>elegante, poderoso, todopoderoso, potente, aterrador, encantador, impresionante, vigoroso, seductor, hermoso, adorable, emocionante, adorable, listo, fascinante, torpe, invencible, pequeño, grande, espantoso, feliz, triste, desvencijado, raro, loco, excitante, bonito, tentador</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>bombo, humilde, pini, limón, farfu, trasto, moco, flor, bumbo, pirulí, popi, cerdo, retumbo, tontín, dondel, dobel, brobel, pollo, morado, meneo, parla, giro, tilín, plof, bamboleo, tintín, garabato</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>garras, val, patio, son, barbo, marca, ton, bon, gon, casco, stein, bin, mordiscos, masa, puf, risa, bach, dori, ñerf, flop, chof, buf, blat, snark, bork</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>Espíritu de {0}</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>Risa, Cambio, Esperanza, Soledad, Armonía, Determinación, Alegría, Miedo, Ira, Tristeza, Amor, Sorpresa, Asco, Curiosidad, Esperanza, Desesperación, Confianza, Escepticismo, Valor, Culpa, Vergüenza, Gratitud, Envidia, Alivio, Aburrimiento, Calma, Nostalgia, Resiliencia, Empatía, Anticipación, Arrepentimiento, Asombro, Humildad, Frustración, Desprecio</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>Ninguna</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Intro</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Espacio</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>Botón izquierdo del ratón</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>Botón derecho del ratón</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>Botón central del ratón</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Mayús</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Comando</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Tecla de Windows</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>Gatillo Izquierdo</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>Gatillo Derecho</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>Bumper Izquierdo</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>Bumper Derecho</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>Botón Vista</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>Botón Menú</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>Pulsar Stick Izquierdo</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>Pulsar Stick Derecho</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Baja</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>Baja doble</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>Baja triple</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>Combo de {0} bajas</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>Nueva planta</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>Prueba completada</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>Baja de {0}</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>mañana</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>día</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>tarde</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>noche</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>DEFENSOR</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>GUERRERO</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>AVENTURERO</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>rojo</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>verde</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>azul</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>Leo</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>Eve</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Utilidades</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>Pociones</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>Pergaminos</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>Armas y equipo</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

@@ -1,0 +1,36 @@
+﻿<SpecTranslations>
+
+  <Potion_Antidote.label>противоядие</Potion_Antidote.label> <!-- <En>antidote</En> -->
+  <Potion_Antidote.description>Противоядие от яда. Кроме того, даёт кратковременный иммунитет к яду.</Potion_Antidote.description> <!-- <En>An antidote for poison. Additionally, gives a short-lasting immunity to poison.</En> -->
+
+  <Potion_Beer.label>пиво</Potion_Beer.label> <!-- <En>beer</En> -->
+  <Potion_Beer.description>Лучший напиток в этих краях. Пьяные персонажи каждый ход движутся в случайном направлении.</Potion_Beer.description> <!-- <En>The finest drink out here. Drunk characters move in a random direction each turn.</En> -->
+
+  <Potion_Fragility.label>Зелье хрупкости</Potion_Fragility.label> <!-- <En>Potion of Fragility</En> -->
+  <Potion_Fragility.description>На короткое время уменьшает максимальное количество очков здоровья.</Potion_Fragility.description> <!-- <En>Decreases the maximum number of hit points for a short time.</En> -->
+
+  <Potion_Haste.label>Зелье ускорения</Potion_Haste.label> <!-- <En>Potion of Haste</En> -->
+  <Potion_Haste.description>Позволяет совершать вдвое больше действий за ход в течение короткого времени.</Potion_Haste.description> <!-- <En>Do twice as many actions per turn for a short time.</En> -->
+
+  <Potion_Health.label>Зелье здоровья</Potion_Health.label> <!-- <En>Health Potion</En> -->
+  <Potion_Health.description>Восстанавливает здоровье. Это весьма ценное зелье!</Potion_Health.description> <!-- <En>Restores health. This is quite a precious potion!</En> -->
+
+  <Potion_Life.label>Зелье жизни</Potion_Life.label> <!-- <En>Potion of Life</En> -->
+  <Potion_Life.description>На короткое время увеличивает максимальное количество очков здоровья.</Potion_Life.description> <!-- <En>Increases the maximum number of hit points for a short time.</En> -->
+
+  <Potion_Mana.label>Зелье маны</Potion_Mana.label> <!-- <En>Mana Potion</En> -->
+  <Potion_Mana.description>Восстанавливает ману, чтобы вы могли провернуть ещё парочку своих карточных фокусов.</Potion_Mana.description> <!-- <En>Restores mana so you can do some more of those card magic tricks.</En> -->
+
+  <Potion_Poison.label>яд</Potion_Poison.label> <!-- <En>poison</En> -->
+  <Potion_Poison.description>Смертельный яд.</Potion_Poison.description> <!-- <En>A deadly poison.</En> -->
+
+  <Potion_Slowness.label>Зелье замедления</Potion_Slowness.label> <!-- <En>Potion of Slowness</En> -->
+  <Potion_Slowness.description>Замедляет действия вдвое — за каждый ход, сделанный целью, все остальные совершат два хода.</Potion_Slowness.description> <!-- <En>Perform actions twice as slow - for every turn the target takes, everyone else will perform twice as many turns.</En> -->
+
+  <Potion_Strength.label>Зелье силы</Potion_Strength.label> <!-- <En>Strength Potion</En> -->
+  <Potion_Strength.description>На короткое время увеличивает наносимый физический урон. Изготовлено из лучшего местного шпината.</Potion_Strength.description> <!-- <En>Makes you deal more physical damage for a short time. Made from the best kind of spinach out here.</En> -->
+
+  <Potion_Weakness.label>Зелье слабости</Potion_Weakness.label> <!-- <En>Potion of Weakness</En> -->
+  <Potion_Weakness.description>На короткое время уменьшает наносимый физический урон.</Potion_Weakness.description> <!-- <En>Makes you deal less physical damage for a short time.</En> -->
+
+</SpecTranslations>

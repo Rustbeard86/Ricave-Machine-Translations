@@ -1,0 +1,67 @@
+﻿<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>Амулет Єрдона</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>Почніть з Амулетом Єрдона. Власник буде повністю зцілений один раз, коли він мав би померти. Крім того, кожен ворог поблизу загине. Це одноразовий бонус, який діє лише під час наступного забігу.</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>зілля здоров'я</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>Почніть з додатковим зіллям здоров'я в інвентарі. Це одноразовий бонус, який діє лише під час наступного забігу.</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>сувій</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>Почніть з випадковим сувоєм в інвентарі. Це одноразовий бонус, який діє лише під час наступного забігу.</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>щит</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>Почніть зі щитом в інвентарі. Він дозволить вам блокувати атаки ворогів.</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>Ви розблокували щит для наступних забігів! Ви можете використовувати його для блокування атак ворогів.\n\nЦе особливо корисно при боротьбі з ворогами дальнього бою, оскільки ви можете безпечно наближатися до них, не отримуючи ударів.\n\nВи не можете одночасно блокувати атаки ворога та атакувати його — ефект буде скасовано.\n\nВикористання щита втомлює, тому він споживає витривалість.</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>спис</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>Почніть з додатковим списом в інвентарі. Кидайте його у ворогів або використовуйте для активації пасток.</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>Ви розблокували спис для наступних забігів! Ви можете використовувати його для атаки ворогів або активації пасток на відстані.\n\nДочекайтеся, поки ворог пройде під шипами або поруч з настінною гарматою, і киньте спис у пастку, щоб активувати її.\n\nКидання списа втомлює, тому воно споживає витривалість. Витривалість відновлюється автоматично, якщо ви не голодуєте.</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>меч</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>Почніть з мечем в інвентарі. Це одноразовий бонус, який діє лише під час наступного забігу.</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>годинник</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>Почніть з годинником в інвентарі. Він дозволить вам перемотувати час.</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>Ви розблокували магічний годинник для наступних забігів! Він дозволяє перемотувати час за вашим бажанням.\n\nПеремотайте останній хід, натиснувши [Rewind].\n\nГодинник має обмеження на кількість ходів, які можна перемотати за один раз, але він перезаряджається, коли ви рухаєтеся.</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>золото x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>Знаходьте на 25% більше золота, ніж зазвичай, у підземеллі. Це одноразовий бонус, який діє лише під час наступного забігу.</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>коридор</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>Отримайте доступ до коридору в лобі.</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>скульптура 100-го рівня</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>Отримайте скульптуру на згадку про досягнення 100-го рівня. Ви можете розмістити її у своїй особистій кімнаті в лобі.</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>Вітаємо з досягненням 100-го рівня!\n\nВи отримали особливу скульптуру, яку можете розмістити у своїй особистій кімнаті на згадку про це велике досягнення.</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>скульптура 25-го рівня</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>Отримайте скульптуру на згадку про досягнення 25-го рівня. Ви можете розмістити її у своїй особистій кімнаті в лобі.</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>Вітаємо з досягненням 25-го рівня!\n\nВи отримали особливу скульптуру, яку можете розмістити у своїй особистій кімнаті на згадку про це велике досягнення.</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>скульптура 50-го рівня</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>Отримайте скульптуру на згадку про досягнення 50-го рівня. Ви можете розмістити її у своїй особистій кімнаті в лобі.</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>Вітаємо з досягненням 50-го рівня!\n\nВи отримали особливу скульптуру, яку можете розмістити у своїй особистій кімнаті на згадку про це велике досягнення.</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>ключ від особистої кімнати</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>Отримайте доступ до власної особистої кімнати, яку ви зможете прикрашати.</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>Ви розблокували власну особисту кімнату!\n\nВи можете прикрасити її, натиснувши [ShowInventory], перебуваючи всередині.\n\nДеякі рідкісні трофеї та прикраси може бути важко отримати — наприклад, вони можуть бути заховані десь глибоко в підземеллі.</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>очки x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>Отримуйте на 100% більше очок, ніж зазвичай, у підземеллі. Це одноразовий бонус, який діє лише під час наступного забігу.</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>зоряний пил x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>Знаходьте на 50% більше зоряного пилу, ніж зазвичай, у підземеллі. Це одноразовий бонус, який діє лише під час наступного забігу.</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>тренувальна кімната</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>Отримайте доступ до тренувальної кімнати в лобі.</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>купа сміття</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>Приберіть купу сміття, щоб звільнити місце.</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>купа сміття</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>Приберіть купу сміття, щоб звільнити місце.</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>купа сміття</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>Приберіть купу сміття, щоб звільнити місце.</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

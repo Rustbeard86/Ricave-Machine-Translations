@@ -1,42 +1,42 @@
 ﻿<SpecTranslations>
 
   <BlindingGoo.label>致盲粘液</BlindingGoo.label> <!-- <En>blinding goo</En> -->
-  <BlindingGoo.description>扔向某人，使其暂时失明。在对付远程敌人时特别有用。你可以让他们暂时无害。</BlindingGoo.description> <!-- <En>Throw it at someone to make them blind for a while. Especially useful when dealing with ranged enemies. You can make them harmless for a while.</En> -->
+  <BlindingGoo.description>扔向某人可使其暂时失明。在对付远程敌人时特别有用。你可以让他们暂时失去威胁。</BlindingGoo.description> <!-- <En>Throw it at someone to make them blind for a while. Especially useful when dealing with ranged enemies. You can make them harmless for a while.</En> -->
 
   <Bone.label>骨头</Bone.label> <!-- <En>bone</En> -->
-  <Bone.description>你可以扔它来造成一些伤害。也用作配料。通常在泥土中找到。</Bone.description> <!-- <En>You can throw it to deal some damage. Also used as an ingredient. Usually found in dirt.</En> -->
+  <Bone.description>你可以扔它来造成一些伤害。也可用作原料。通常在泥土中找到。</Bone.description> <!-- <En>You can throw it to deal some damage. Also used as an ingredient. Usually found in dirt.</En> -->
 
   <Goo.label>粘液</Goo.label> <!-- <En>goo</En> -->
-  <Goo.description>扔向某人，使其暂时无法移动。他们将无法移动，但仍可以从他们的位置攻击你。</Goo.description> <!-- <En>Throw it at someone to immobilize them for a while. They won't be able to move, but they can still attack you from their position.</En> -->
+  <Goo.description>扔向某人可使其暂时无法动弹。他们将无法移动，但仍能从原地攻击你。</Goo.description> <!-- <En>Throw it at someone to immobilize them for a while. They won't be able to move, but they can still attack you from their position.</En> -->
 
   <HeavySpear.label>重矛</HeavySpear.label> <!-- <En>heavy spear</En> -->
-  <HeavySpear.description>标准长矛的更重版本。更致命，但也更难驾驭。</HeavySpear.description> <!-- <En>A heavier version of the standard spear. More deadly, but also more difficult to handle.</En> -->
+  <HeavySpear.description>标准矛的加重版。更致命，但也更难操控。</HeavySpear.description> <!-- <En>A heavier version of the standard spear. More deadly, but also more difficult to handle.</En> -->
 
-  <PoisonShuriken.label>毒手里剑</PoisonShuriken.label> <!-- <En>poison shuriken</En> -->
-  <PoisonShuriken.description>一种一次性的、致命的投掷武器。涂有毒药。使用不消耗回合。</PoisonShuriken.description> <!-- <En>A single-use, deadly thrown weapon. Slathered in poison. Costs no turn to use.</En> -->
+  <PoisonShuriken.label>淬毒手里剑</PoisonShuriken.label> <!-- <En>poison shuriken</En> -->
+  <PoisonShuriken.description>一次性的致命投掷武器。涂满了毒药。使用不消耗回合。</PoisonShuriken.description> <!-- <En>A single-use, deadly thrown weapon. Slathered in poison. Costs no turn to use.</En> -->
 
-  <PoisonThrowingKnife.label>毒飞刀</PoisonThrowingKnife.label> <!-- <En>poison throwing knife</En> -->
-  <PoisonThrowingKnife.description>一种一次性的投掷武器。涂有毒药。</PoisonThrowingKnife.description> <!-- <En>A single-use, thrown weapon. Slathered in poison.</En> -->
+  <PoisonThrowingKnife.label>淬毒飞刀</PoisonThrowingKnife.label> <!-- <En>poison throwing knife</En> -->
+  <PoisonThrowingKnife.description>一次性的投掷武器。涂满了毒药。</PoisonThrowingKnife.description> <!-- <En>A single-use, thrown weapon. Slathered in poison.</En> -->
 
   <Rope.label>绳子</Rope.label> <!-- <En>rope</En> -->
-  <Rope.description>挂一根绳子然后爬上去，以进入原本无法进入的区域。你也可以用它来缠绕某人。</Rope.description> <!-- <En>Hang a rope and climb it to access otherwise inaccessible areas. You can also use it to entangle someone.</En> -->
+  <Rope.description>挂上绳子并攀爬，以进入原本无法到达的区域。你也可以用它来缠住某人。</Rope.description> <!-- <En>Hang a rope and climb it to access otherwise inaccessible areas. You can also use it to entangle someone.</En> -->
 
   <Shuriken.label>手里剑</Shuriken.label> <!-- <En>shuriken</En> -->
-  <Shuriken.description>一种一次性的、致命的投掷武器。使用不消耗回合。</Shuriken.description> <!-- <En>A single-use, deadly thrown weapon. Costs no turn to use.</En> -->
+  <Shuriken.description>一次性的致命投掷武器。使用不消耗回合。</Shuriken.description> <!-- <En>A single-use, deadly thrown weapon. Costs no turn to use.</En> -->
 
-  <Spear.label>长矛</Spear.label> <!-- <En>spear</En> -->
-  <Spear.description>一种投掷武器。投掷后可以回收。适合触发陷阱。</Spear.description> <!-- <En>A thrown weapon. Can be recovered after throwing. Good for triggering traps.</En> -->
+  <Spear.label>矛</Spear.label> <!-- <En>spear</En> -->
+  <Spear.description>一种投掷武器。投出后可以回收。适合用来触发陷阱。</Spear.description> <!-- <En>A thrown weapon. Can be recovered after throwing. Good for triggering traps.</En> -->
 
   <Stone.label>石头</Stone.label> <!-- <En>stone</En> -->
-  <Stone.description>一块用于推开敌人或打碎玻璃的小石头。投掷石头不消耗回合。</Stone.description> <!-- <En>A small stone used for pushing enemies or destroying glass. Throwing stones costs no turn.</En> -->
+  <Stone.description>一块小石头，用于推开敌人或打碎玻璃。投掷石头不消耗回合。</Stone.description> <!-- <En>A small stone used for pushing enemies or destroying glass. Throwing stones costs no turn.</En> -->
 
   <TeleportationOrb.label>传送宝珠</TeleportationOrb.label> <!-- <En>teleportation orb</En> -->
-  <TeleportationOrb.description>一种一次性的传送宝珠。将宝珠扔到任何地方，你将立即被传送到那里。适合逃离危险情况。</TeleportationOrb.description> <!-- <En>A single-use teleportation orb. Throw the orb at any place and you'll be teleported there instantly. Good for escaping from dangerous situations.</En> -->
+  <TeleportationOrb.description>一次性的传送宝珠。将宝珠扔到任何地方，你就会被立即传送到那里。适合用来逃离危险境地。</TeleportationOrb.description> <!-- <En>A single-use teleportation orb. Throw the orb at any place and you'll be teleported there instantly. Good for escaping from dangerous situations.</En> -->
 
   <ThrowingKnife.label>飞刀</ThrowingKnife.label> <!-- <En>throwing knife</En> -->
-  <ThrowingKnife.description>一种一次性的投掷武器。</ThrowingKnife.description> <!-- <En>A single-use, thrown weapon.</En> -->
+  <ThrowingKnife.description>一次性的投掷武器。</ThrowingKnife.description> <!-- <En>A single-use, thrown weapon.</En> -->
 
   <VineSeed.label>藤蔓种子</VineSeed.label> <!-- <En>vine seed</En> -->
-  <VineSeed.description>种植藤蔓，可以阻挡路径，但不阻挡视线。</VineSeed.description> <!-- <En>Plant vines which will block path, but not line of sight.</En> -->
+  <VineSeed.description>种植藤蔓，它会阻挡路径，但不阻挡视线。</VineSeed.description> <!-- <En>Plant vines which will block path, but not line of sight.</En> -->
 
 </SpecTranslations>

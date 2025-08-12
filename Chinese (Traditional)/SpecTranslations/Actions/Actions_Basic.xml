@@ -1,0 +1,24 @@
+﻿<SpecTranslations>
+
+  <ChooseSpell.label>選擇法術</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>已選擇新法術 {0}</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>移動自己</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0} 移動 {1}</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>撿起物品</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>{0} 撿起了 {1}</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>重排法術</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>{1} 已被重排</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>睡眠</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>{0} 睡著了</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>使用</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>{0} 對 {2} 使用了 {1}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>等待</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>{0} 正在等待</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

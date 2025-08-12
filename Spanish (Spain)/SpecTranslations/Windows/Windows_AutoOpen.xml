@@ -1,0 +1,27 @@
+﻿<SpecTranslations>
+
+  <Character.label>personaje</Character.label> <!-- <En>character</En> -->
+  <Character.description>Muestra información sobre tu personaje.</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>códice</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>Muestra todos los objetos y criaturas que has visto.</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>mapa de la mazmorra</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>Muestra el mapa de esta mazmorra.</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>facciones</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>Muestra todas las facciones de esta mazmorra.</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>inventario</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>Muestra los objetos que tienes en tu inventario.\n\nArrastra y suelta para reordenar. Reordenar objetos no consume un turno, así que puedes hacerlo de forma segura en combate.\n\nEquipar y desequipar objetos es instantáneo, pero otras acciones como beber o lanzar una poción consumen un turno.</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>misiones</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>Muestra todas tus misiones.</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>barra rápida</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>Puedes acceder a los objetos de la barra rápida pulsando las teclas numéricas de tu teclado.</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>habilidades</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>Gasta puntos de habilidad para aprender nuevas habilidades.</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

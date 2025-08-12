@@ -1,0 +1,346 @@
+﻿<SpecTranslations>
+
+  <BarredDoor.label>有門閂的門</BarredDoor.label> <!-- <En>barred door</En> -->
+  <BarredDoor.description>一扇有門閂的門。唯一通過的方法就是摧毀它。</BarredDoor.description> <!-- <En>A barred door. The only way to get through is to destroy it.</En> -->
+
+  <Barrel.label>木桶</Barrel.label> <!-- <En>barrel</En> -->
+  <Barrel.description>一個舊木桶。裡面可能裝有有用的東西。</Barrel.description> <!-- <En>An old barrel. May contain something useful.</En> -->
+
+  <Bars.label>鐵欄杆</Bars.label> <!-- <En>bars</En> -->
+  <Bars.description>金屬欄杆。</Bars.description> <!-- <En>Metal bars.</En> -->
+
+  <BeerBarrel.label>啤酒桶</BeerBarrel.label> <!-- <En>beer barrel</En> -->
+  <BeerBarrel.description>一個裝滿啤酒的木桶。如果被摧毀，會讓附近的所有人都喝醉。</BeerBarrel.description> <!-- <En>A barrel full of beer. It'll make everyone nearby drunk if destroyed.</En> -->
+
+  <BigCrate.label>大木箱</BigCrate.label> <!-- <En>big crate</En> -->
+  <BigCrate.description>一個舊木箱。裡面可能裝有有用的東西。</BigCrate.description> <!-- <En>An old crate. May contain something useful.</En> -->
+
+  <BigMagicTrap.label>大型魔法陷阱</BigMagicTrap.label> <!-- <En>big magic trap</En> -->
+  <BigMagicTrap.description>一個致命的魔法陷阱。最好把別人扔進去。</BigMagicTrap.description> <!-- <En>A deadly magic trap. Best to throw someone else into it.</En> -->
+
+  <BigPoisonTrap.label>大型毒藥陷阱</BigPoisonTrap.label> <!-- <En>big poison trap</En> -->
+  <BigPoisonTrap.description>一個致命的毒藥陷阱。最好把別人扔進去。</BigPoisonTrap.description> <!-- <En>A deadly poison trap. Best to throw someone else into it.</En> -->
+
+  <BlueCrystal.label>藍色水晶</BlueCrystal.label> <!-- <En>blue crystal</En> -->
+  <BlueCrystal.description>用十字鎬開採它，並用它為你的武器附加魔法效果。你需要收集2個相同顏色的水晶才能為你的裝備附魔。</BlueCrystal.description> <!-- <En>Mine it with a pickaxe and use it to enchant your weapon with a magic effect. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <Bonfire.label>營火</Bonfire.label> <!-- <En>bonfire</En> -->
+  <Bonfire.description>你可以在這裡烹飪食物。</Bonfire.description> <!-- <En>You can cook something here.</En> -->
+  <Bonfire.YouSeeABonfireInFront>你看到前方有一堆營火。\n\n你可以在這裡烹飪一些食物。</Bonfire.YouSeeABonfireInFront> <!-- <En>You see a bonfire in front of you.\n\nYou can cook some food here.</En> -->
+
+  <Boulder.label>巨石</Boulder.label> <!-- <En>boulder</En> -->
+  <Boulder.description>一塊擋住你去路的大石頭。</Boulder.description> <!-- <En>A big boulder blocking your path.</En> -->
+
+  <BrickWall.label>磚牆</BrickWall.label> <!-- <En>brick wall</En> -->
+  <BrickWall.description>這面舊磚牆看起來不太穩固。</BrickWall.description> <!-- <En>This old brick wall doesn't look very stable.</En> -->
+
+  <Bridge.label>橋</Bridge.label> <!-- <En>bridge</En> -->
+  <Bridge.description>一座木製的易燃橋樑。</Bridge.description> <!-- <En>A wooden, flammable bridge.</En> -->
+
+  <CeilingBars.label>天花板欄杆</CeilingBars.label> <!-- <En>ceiling bars</En> -->
+  <CeilingBars.description>天花板上的金屬欄杆。</CeilingBars.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingBarsReinforced.label>天花板欄杆（加固）</CeilingBarsReinforced.label> <!-- <En>ceiling bars (reinforced)</En> -->
+  <CeilingBarsReinforced.description>天花板上的金屬欄杆。</CeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingSupport.label>天花板支撐</CeilingSupport.label> <!-- <En>ceiling support</En> -->
+  <CeilingSupport.description>幫助支撐天花板的重量。</CeilingSupport.description> <!-- <En>Helps support the weight of the ceiling.</En> -->
+
+  <CeilingWithPipe.label>帶管道的天花板</CeilingWithPipe.label> <!-- <En>ceiling with a pipe</En> -->
+  <CeilingWithPipe.description>一個帶有管道的天花板。</CeilingWithPipe.description> <!-- <En>A ceiling with a pipe.</En> -->
+
+  <Chain.label>鎖鏈</Chain.label> <!-- <En>chain</En> -->
+  <Chain.description>一條從天花板垂下的鎖鏈。</Chain.description> <!-- <En>A chain hanging from the ceiling.</En> -->
+
+  <ChainPost.label>鎖鏈柱</ChainPost.label> <!-- <En>chain post</En> -->
+  <ChainPost.description>一個附有鎖鏈的石柱。</ChainPost.description> <!-- <En>A stone post with a chain attached to it.</En> -->
+
+  <Chair.label>椅子</Chair.label> <!-- <En>chair</En> -->
+  <Chair.description>坐在這美麗的地牢裡放鬆一下。</Chair.description> <!-- <En>Sit and relax in this beautiful dungeon.</En> -->
+
+  <Crates.label>木箱</Crates.label> <!-- <En>crates</En> -->
+  <Crates.description>可能裝有也可能沒裝有用的東西。</Crates.description> <!-- <En>May or may not contain something useful.</En> -->
+
+  <CultistCircle.label>邪教法陣</CultistCircle.label> <!-- <En>cultist circle</En> -->
+  <CultistCircle.description>地板上有一些奇怪的符號。它們與聖水不合。</CultistCircle.description> <!-- <En>Some strange symbols on the floor. They don't go well with holy water.</En> -->
+
+  <CutGrass.label>割下的草</CutGrass.label> <!-- <En>cut grass</En> -->
+  <CutGrass.description>草的殘骸。</CutGrass.description> <!-- <En>Grass remains.</En> -->
+
+  <CutsceneTrigger.label>過場動畫觸發器</CutsceneTrigger.label> <!-- <En>cutscene trigger</En> -->
+
+  <CyanWallLamp.label>青色壁燈</CyanWallLamp.label> <!-- <En>cyan wall lamp</En> -->
+  <CyanWallLamp.description>一盞時尚的青色壁燈。</CyanWallLamp.description> <!-- <En>A stylish, cyan wall lamp.</En> -->
+
+  <DamagedCeilingBars.label>損壞的天花板欄杆</DamagedCeilingBars.label> <!-- <En>damaged ceiling bars</En> -->
+  <DamagedCeilingBars.description>天花板上的金屬欄杆。看起來有人把它們砸穿了。</DamagedCeilingBars.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DamagedCeilingBarsReinforced.label>損壞的天花板鐵欄杆 (加固)</DamagedCeilingBarsReinforced.label> <!-- <En>damaged ceiling bars (reinforced)</En> -->
+  <DamagedCeilingBarsReinforced.description>天花板上的金屬欄杆。看起來像是有人把它們砸穿了。</DamagedCeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DangerDoor.label>紅色門</DangerDoor.label> <!-- <En>red door</En> -->
+  <DangerDoor.description>這扇門後有一個可選的挑戰。但要小心，它可能會非常困難！</DangerDoor.description> <!-- <En>There's an optional challenge behind this door. But beware, it may be really difficult!</En> -->
+  <DangerDoor.YouSeeARedDoorInFront>你看見前方有一扇紅色的門。\n\n門後有一個可選的挑戰。\n\n但要小心，它可能會非常困難！</DangerDoor.YouSeeARedDoorInFront> <!-- <En>You see a red door in front of you.\n\nThere's an optional challenge behind it.\n\nBut beware, it may be really difficult!</En> -->
+  <DangerDoor.Open>開啟</DangerDoor.Open> <!-- <En>Open</En> -->
+
+  <DescendTrigger.label>洞口</DescendTrigger.label> <!-- <En>hole</En> -->
+  <DescendTrigger.description>這個洞口會將你帶到這個地城的下層。</DescendTrigger.description> <!-- <En>This hole will lead you to the lower level of this dungeon.</En> -->
+
+  <Dirt.label>泥土</Dirt.label> <!-- <En>dirt</En> -->
+  <Dirt.description>用鏟子挖掘以開闢一條道路。誰知道你能在這裡找到什麼。</Dirt.description> <!-- <En>Dig into it with a shovel to clear a path. Who knows what you can find here.</En> -->
+
+  <DiscoBall.label>迪斯可球</DiscoBall.label> <!-- <En>disco ball</En> -->
+  <DiscoBall.description>一顆色彩繽紛的迪斯可球。但它為什麼會在這裡？</DiscoBall.description> <!-- <En>A colorful disco ball. But what is it doing here?</En> -->
+
+  <Door.label>門</Door.label> <!-- <En>door</En> -->
+  <Door.description>打開這扇門可能是你一生中最好的決定，也可能是最壞的決定。你也可以選擇踢開它，這將會推開所有站在另一側的敵人。</Door.description> <!-- <En>Opening this door could be the best decision of your life, or the worst. You can also decide to kick it instead, which will push all enemies standing on the other side.</En> -->
+
+  <Fan.label>風扇</Fan.label> <!-- <En>fan</En> -->
+  <Fan.description>至少這裡還有點通風。</Fan.description> <!-- <En>At least there's some ventilation here.</En> -->
+
+  <Fence.label>柵欄</Fence.label> <!-- <En>fence</En> -->
+  <Fence.description>一個木製柵欄。可以看穿，但無法通過。</Fence.description> <!-- <En>A wooden fence. Lets you see through it, but not pass.</En> -->
+
+  <Fire.label_2>火</Fire.label_2> <!-- <En>fire</En> -->
+  <Fire.description>任何經過的角色都會被點燃。火焰會蔓延到其他相鄰的可燃物體上，但不會蔓延到角色身上。</Fire.description> <!-- <En>Any passing character will be set on fire. Fire spreads onto other adjacent flammable objects, but not characters.</En> -->
+
+  <Floor.label>地板</Floor.label> <!-- <En>floor</En> -->
+  <Floor.description>一塊地板……或者天花板，取決於你站在哪裡。</Floor.description> <!-- <En>A floor... or a ceiling depending on where you're standing.</En> -->
+
+  <FloorBars.label>地板鐵欄杆</FloorBars.label> <!-- <En>floor bars</En> -->
+  <FloorBars.description>地板上的金屬欄杆。</FloorBars.description> <!-- <En>Metal bars in the floor.</En> -->
+
+  <FloorBarsReinforced.label>地板鐵欄杆 (加固)</FloorBarsReinforced.label> <!-- <En>floor bars (reinforced)</En> -->
+  <FloorBarsReinforced.description>地板上的金屬欄杆。這些欄杆能抵抗爆炸。</FloorBarsReinforced.description> <!-- <En>Metal bars in the floor. These bars are resistant to explosions.</En> -->
+
+  <Frame.label>框架</Frame.label> <!-- <En>frame</En> -->
+  <Frame.description>進入另一個房間的另一種方式。</Frame.description> <!-- <En>An alternative way to get to the other room.</En> -->
+
+  <Gate.label>閘門</Gate.label> <!-- <En>gate</En> -->
+  <Gate.description>某處一定有拉桿可以打開這扇閘門。</Gate.description> <!-- <En>There must be a lever somewhere to open this gate.</En> -->
+
+  <GateReinforced.label>閘門 (加固)</GateReinforced.label> <!-- <En>gate (reinforced)</En> -->
+  <GateReinforced.description>某處一定有拉桿可以打開這扇閘門。這扇閘門能抵抗爆炸。</GateReinforced.description> <!-- <En>There must be a lever somewhere to open this gate. This gate is resistant to explosions.</En> -->
+
+  <GlassWall.label>玻璃牆</GlassWall.label> <!-- <En>glass wall</En> -->
+  <GlassWall.description>看看另一邊有什麼。你可以扔塊石頭來打破它。</GlassWall.description> <!-- <En>See what's on the other side. You can throw a stone to break it.</En> -->
+
+  <Glyph1.label>符文</Glyph1.label> <!-- <En>glyph</En> -->
+  <Glyph1.description>一些神秘的圖畫。它有什麼含義嗎？\n\n底部寫著：Nopaew</Glyph1.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Nopaew</En> -->
+
+  <Glyph2.label>符文</Glyph2.label> <!-- <En>glyph</En> -->
+  <Glyph2.description>一些神秘的圖畫。它有什麼含義嗎？\n\n底部寫著：Romra</Glyph2.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Romra</En> -->
+
+  <Glyph3.label>符文</Glyph3.label> <!-- <En>glyph</En> -->
+  <Glyph3.description>一些神秘的圖畫。它有什麼含義嗎？\n\n底部寫著：Llorcs</Glyph3.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Llorcs</En> -->
+
+  <Glyph4.label>符文</Glyph4.label> <!-- <En>glyph</En> -->
+  <Glyph4.description>一些神秘的圖畫。它有什麼含義嗎？\n\n底部寫著：Noitop</Glyph4.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Noitop</En> -->
+
+  <GoldenDoor.label>金門</GoldenDoor.label> <!-- <En>golden door</En> -->
+  <GoldenDoor.description>這扇金門只能用金鑰匙打開。</GoldenDoor.description> <!-- <En>This golden door can only be opened with a golden key.</En> -->
+
+  <GooPuddle.label>黏液潭</GooPuddle.label> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description>一灘會減慢任何經過角色的黏液。</GooPuddle.description> <!-- <En>A pool of goo which will slow down any passing character.</En> -->
+
+  <Grass.label>草</Grass.label> <!-- <En>grass</En> -->
+  <Grass.description>一片異常長的草叢。</Grass.description> <!-- <En>A patch of unusually long blades of grass.</En> -->
+
+  <GreenCrystal.label>綠色水晶</GreenCrystal.label> <!-- <En>green crystal</En> -->
+  <GreenCrystal.description>用十字鎬開採它，並用它來提升你裝備的防護性能。你需要收集2顆相同顏色的水晶來為你的裝備附魔。</GreenCrystal.description> <!-- <En>Mine it with a pickaxe and use it to boost your gear's protective properties. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <GreenWallLamp.label>綠色壁燈</GreenWallLamp.label> <!-- <En>green wall lamp</En> -->
+  <GreenWallLamp.description>一盞時尚的綠色壁燈。</GreenWallLamp.description> <!-- <En>A stylish, green wall lamp.</En> -->
+
+  <HangingRope.label>繩索</HangingRope.label> <!-- <En>rope</En> -->
+  <HangingRope.description>一條從天花板垂下的繩索。</HangingRope.description> <!-- <En>A rope hanging from the ceiling.</En> -->
+
+  <Hatch.label>艙口</Hatch.label> <!-- <En>hatch</En> -->
+  <Hatch.description>你就是從這裡來的。沒有回頭路了——時間只會前進，對吧？</Hatch.description> <!-- <En>This is where you came from. There's no going back - time only moves forward, right?</En> -->
+
+  <InvisibleBlocker.label>障礙物</InvisibleBlocker.label> <!-- <En>blocker</En> -->
+
+  <IronOre.label>鐵礦石</IronOre.label> <!-- <En>iron ore</En> -->
+  <IronOre.description>用鎬子開採，並在鐵砧上使用它來升級你的裝備等級。</IronOre.description> <!-- <En>Mine it with a pickaxe and use it at an anvil to upgrade your gear level.</En> -->
+
+  <Ladder.label>梯子</Ladder.label> <!-- <En>ladder</En> -->
+  <Ladder.description>你可以用這個梯子到達上層。</Ladder.description> <!-- <En>A ladder you can use to reach the upper level.</En> -->
+
+  <Lava.label>熔岩</Lava.label> <!-- <En>lava</En> -->
+  <Lava.description>不是什麼好待的地方。</Lava.description> <!-- <En>Not the best place to be in.</En> -->
+
+  <Liana.label>藤蔓</Liana.label> <!-- <En>liana</En> -->
+  <Liana.description>一條可以攀爬的藤蔓。</Liana.description> <!-- <En>A liana which you can climb.</En> -->
+
+  <LobbySign.label>大廳標誌</LobbySign.label> <!-- <En>lobby sign</En> -->
+  <LobbySign.description>這條路可以回到大廳。</LobbySign.description> <!-- <En>This way leads back to the lobby.</En> -->
+
+  <MagicColumns.label>魔法柱</MagicColumns.label> <!-- <En>columns</En> -->
+  <MagicColumns.description>四根細長的柱子。</MagicColumns.description> <!-- <En>Four thin columns.</En> -->
+
+  <MagicFire.label>魔法火焰</MagicFire.label> <!-- <En>magic fire</En> -->
+  <MagicFire.description>任何經過的角色都會被點燃。這種火焰不會蔓延到相鄰的物件上。</MagicFire.description> <!-- <En>Any passing character will be set on fire. This type of fire doesn't spread onto adjacent objects.</En> -->
+
+  <MagicWall.label>魔法牆</MagicWall.label> <!-- <En>magic wall</En> -->
+  <MagicWall.description>一堵即將消失的魔法牆。</MagicWall.description> <!-- <En>A magic wall which will disappear soon.</En> -->
+
+  <Pedestal.label>底座</Pedestal.label> <!-- <En>pedestal</En> -->
+  <Pedestal.description>一個堅固的石頭底座。</Pedestal.description> <!-- <En>A sturdy, stone pedestal.</En> -->
+
+  <Pillar.label>柱子</Pillar.label> <!-- <En>pillar</En> -->
+  <Pillar.description>很好地保持了天花板的穩定。</Pillar.description> <!-- <En>Does a great job at keeping the ceiling stable.</En> -->
+
+  <PinkWallLamp.label>粉紅色壁燈</PinkWallLamp.label> <!-- <En>pink wall lamp</En> -->
+  <PinkWallLamp.description>一盞時尚的粉紅色壁燈。</PinkWallLamp.description> <!-- <En>A stylish, pink wall lamp.</En> -->
+
+  <PipeSmoke.label>管道煙霧</PipeSmoke.label> <!-- <En>pipe smoke</En> -->
+  <PipeSmoke.description>從管道冒出的有毒煙霧。</PipeSmoke.description> <!-- <En>A toxic smoke coming from a pipe.</En> -->
+
+  <Piston.label>活塞</Piston.label> <!-- <En>piston</En> -->
+  <Piston.description>會伸出和縮回。</Piston.description> <!-- <En>Extends and retracts.</En> -->
+
+  <Planks.label>木板</Planks.label> <!-- <En>planks</En> -->
+  <Planks.description>一堆木板。用斧頭摧毀會掉落木板。</Planks.description> <!-- <En>A pile of wooden planks. Will drop planks if destroyed with an axe.</En> -->
+
+  <Platform.label>平台</Platform.label> <!-- <En>platform</En> -->
+  <Platform.description>一個附有木製支撐並固定在牆上的平台。</Platform.description> <!-- <En>A platform with a wooden support attached to the wall.</En> -->
+
+  <PoisonCloud.label>毒雲</PoisonCloud.label> <!-- <En>poison cloud</En> -->
+  <PoisonCloud.description>任何經過的角色都會中毒。</PoisonCloud.description> <!-- <En>Any passing character will become poisoned.</En> -->
+
+  <Pond.label>池塘</Pond.label> <!-- <En>pond</En> -->
+  <Pond.description>一個小池塘。很適合用來滅火。你也可以在這裡用水裝滿藥瓶。</Pond.description> <!-- <En>A small pond. Good for extinguishing fires. You can also fill vials with water here.</En> -->
+
+  <PressurePlate.label>壓力板</PressurePlate.label> <!-- <En>pressure plate</En> -->
+  <PressurePlate.description>只要有人踩上去就會啟動的壓力板。</PressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it.</En> -->
+
+  <RedCrystal.label>紅色水晶</RedCrystal.label> <!-- <En>red crystal</En> -->
+  <RedCrystal.description>用鎬子開採，並用它來讓你的武器更致命。你需要收集2個相同顏色的水晶才能為你的裝備附魔。</RedCrystal.description> <!-- <En>Mine it with a pickaxe and use it to make your weapon more deadly. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <RedCutGrass.label>割下的紅草</RedCutGrass.label> <!-- <En>cut red grass</En> -->
+  <RedCutGrass.description>紅草的殘餘物。</RedCutGrass.description> <!-- <En>Red grass remains.</En> -->
+
+  <RedLamp.label>紅燈</RedLamp.label> <!-- <En>red lamp</En> -->
+  <RedLamp.description>一盞發出深紅色光芒的燈。</RedLamp.description> <!-- <En>A lamp emitting deep red light.</En> -->
+
+  <Rock.label>岩石</Rock.label> <!-- <En>rock</En> -->
+  <Rock.description>一塊中型岩石。打碎它可以獲得可投擲的石頭。</Rock.description> <!-- <En>A medium-sized rock. Break it to get a throwable stone.</En> -->
+
+  <RoyalDoor.label>皇家大門</RoyalDoor.label> <!-- <En>royal door</En> -->
+  <RoyalDoor.description>這扇皇家大門只能用皇家鑰匙打開。</RoyalDoor.description> <!-- <En>This royal door can only be opened with a royal key.</En> -->
+
+  <SecretPassage.label>牆</SecretPassage.label> <!-- <En>wall</En> -->
+  <SecretPassage.description>這面牆已經存在很久了，而且很可能在短期內不會有任何變化。</SecretPassage.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <SecretRoomTrigger.label>密室觸發器</SecretRoomTrigger.label> <!-- <En>secret room trigger</En> -->
+
+  <Shelf.label>架子</Shelf.label> <!-- <En>shelf</En> -->
+  <Shelf.description>一個上面放著一些東西的架子。</Shelf.description> <!-- <En>A shelf with some things on it.</En> -->
+
+  <Sign.label>告示牌</Sign.label> <!-- <En>sign</En> -->
+
+  <SilverDoor.label>銀門</SilverDoor.label> <!-- <En>silver door</En> -->
+  <SilverDoor.description>這扇銀門只能用銀鑰匙打開。後面可能有珍貴的東西。</SilverDoor.description> <!-- <En>This silver door can only be opened with a silver key. There could be something precious behind it.</En> -->
+  <SilverDoor.YouSeeASilverDoorInFront>你面前有一扇銀門。\n\n它只能用銀鑰匙打開。\n\n請注意，上鎖的門可能比可用的鑰匙多，所以請明智地使用你的鑰匙。</SilverDoor.YouSeeASilverDoorInFront> <!-- <En>You see a silver door in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked doors than available keys, so spend your keys wisely.</En> -->
+  <SilverDoor.Open>打開</SilverDoor.Open> <!-- <En>Open</En> -->
+
+  <Smoke.label>煙霧</Smoke.label> <!-- <En>smoke</En> -->
+  <Smoke.description>一團阻礙視線的煙霧。</Smoke.description> <!-- <En>A smoke cloud which blocks the view.</En> -->
+
+  <Soffit.label>天花板底面</Soffit.label> <!-- <En>soffit</En> -->
+  <Soffit.description>天花板的底面。</Soffit.description> <!-- <En>An underside of the ceiling.</En> -->
+
+  <SpawnerPressurePlate.label>壓力板</SpawnerPressurePlate.label> <!-- <En>pressure plate</En> -->
+  <SpawnerPressurePlate.description>只要有人踩上去就會啟動的壓力板。告示牌上寫著"小心！危險！"。</SpawnerPressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it. The sign says "Beware! Danger!".</En> -->
+
+  <SpiderWeb.label>蜘蛛網</SpiderWeb.label> <!-- <En>spider web</En> -->
+  <SpiderWeb.description>可產出蜘蛛絲，能用作材料。</SpiderWeb.description> <!-- <En>Yields spider silk, which can be used as an ingredient.</En> -->
+
+  <StaircaseRoomSign.label>樓梯間告示牌</StaircaseRoomSign.label> <!-- <En>staircase room sign</En> -->
+  <StaircaseRoomSign.description>這個房間有通往下一個地城樓層的樓梯。通常需要找到一個拉桿才能打開大門。</StaircaseRoomSign.description> <!-- <En>This room has a staircase leading to the next dungeon floor. You usually need to find a lever to open the gate.</En> -->
+
+  <Stairs.label>樓梯</Stairs.label> <!-- <En>stairs</En> -->
+  <Stairs.description>你可以上樓梯或下樓梯——樓梯通常就是這樣運作的。</Stairs.description> <!-- <En>You can either go up the stairs or down the stairs - this is how stairs work in general.</En> -->
+
+  <Table.label>桌子</Table.label> <!-- <En>table</En> -->
+  <Table.description>一張小桌子。</Table.description> <!-- <En>A small table.</En> -->
+
+  <TemporarilyOpenedDoor.label>門框</TemporarilyOpenedDoor.label> <!-- <En>door frame</En> -->
+  <TemporarilyOpenedDoor.description>一扇開著的門。你可以關上它。如果你站在裡面時關門，你將會被隨機推向一個方向。</TemporarilyOpenedDoor.description> <!-- <En>An open door. You can close it. If you do while standing inside, you'll get pushed away in a random direction.</En> -->
+
+  <TemporaryGate.label>自動閘門</TemporaryGate.label> <!-- <En>automatic gate</En> -->
+  <TemporaryGate.description>一扇暫時關閉的閘門。它應該會在一段時間後打開。</TemporaryGate.description> <!-- <En>A temporarily-closed gate. It should open after a while.</En> -->
+
+  <Throne.label>王座</Throne.label> <!-- <En>throne</En> -->
+  <Throne.description>給某個重要人物的王座。</Throne.description> <!-- <En>A throne for someone important.</En> -->
+
+  <Torch.label>火把</Torch.label> <!-- <En>torch</En> -->
+  <Torch.description>一支火把。只有當它們熄滅時你才會注意到它們。另外，我很好奇它們為何似乎永不燃盡，也許是因為它們不開發遊戲吧。</Torch.description> <!-- <En>A torch. You only notice them when they're gone. Also, I wonder why they never seem to burn out, maybe because they don't develop games.</En> -->
+
+  <ToxicWater.label>毒水</ToxicWater.label> <!-- <En>toxic water</En> -->
+  <ToxicWater.description>這水似乎被污染了。</ToxicWater.description> <!-- <En>This water seems to be contaminated.</En> -->
+
+  <Toxofungus.label>毒蕈</Toxofungus.label> <!-- <En>toxofungus</En> -->
+  <Toxofungus.description>一種有毒的真菌，被摧毀時會釋放有毒孢子。只要不打擾它，走在上面是安全的。</Toxofungus.description> <!-- <En>A poisonous fungus that releases toxic spores when destroyed. Safe to walk on as long as it's not disturbed.</En> -->
+
+  <UnstableBridge.label>不穩定的橋</UnstableBridge.label> <!-- <En>unstable bridge</En> -->
+  <UnstableBridge.description>一座木製的易燃橋樑。它看起來隨時都可能倒塌。</UnstableBridge.description> <!-- <En>A wooden, flammable bridge. It looks like it can collapse anytime soon.</En> -->
+
+  <Ventillation.label>通風口</Ventillation.label> <!-- <En>ventilation</En> -->
+  <Ventillation.description>大概是讓骷髏們住得更舒適。</Ventillation.description> <!-- <En>Makes skeletons live comfortably, probably.</En> -->
+
+  <Vines.label>藤蔓</Vines.label> <!-- <En>vines</En> -->
+  <Vines.description>阻擋道路的粗壯藤蔓。可以看穿。</Vines.description> <!-- <En>Thick vines blocking the path. Can be seen through.</En> -->
+
+  <VioletTorch.label>紫色火把</VioletTorch.label> <!-- <En>violet torch</En> -->
+  <VioletTorch.description>一支有著明亮紫色火焰的火把。相當奇特。</VioletTorch.description> <!-- <En>A torch with a bright, violet flame. Quite odd.</En> -->
+
+  <VioletWallLamp.label>紫色壁燈</VioletWallLamp.label> <!-- <En>violet wall lamp</En> -->
+  <VioletWallLamp.description>一盞時髦的紫色壁燈。</VioletWallLamp.description> <!-- <En>A stylish, violet wall lamp.</En> -->
+
+  <Wall.label>牆</Wall.label> <!-- <En>wall</En> -->
+  <Wall.description>這面牆已經在這裡很久了，而且很可能短期內不會有任何變化。</Wall.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece1.label>牆</WallPiece1.label> <!-- <En>wall</En> -->
+  <WallPiece1.description>這面牆已經在這裡很久了，而且很可能短期內不會有任何變化。</WallPiece1.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece2.label>牆</WallPiece2.label> <!-- <En>wall</En> -->
+  <WallPiece2.description>這面牆已經在這裡很久了，而且很可能短期內不會有任何變化。</WallPiece2.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece3.label>牆</WallPiece3.label> <!-- <En>wall</En> -->
+  <WallPiece3.description>這面牆已經在這裡很久了，而且很可能短期內不會有任何變化。</WallPiece3.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece4.label>牆</WallPiece4.label> <!-- <En>wall</En> -->
+  <WallPiece4.description>這面牆已經在這裡很久了，而且很可能短期內不會有任何變化。</WallPiece4.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece5.label>牆</WallPiece5.label> <!-- <En>wall</En> -->
+  <WallPiece5.description>這面牆已經在這裡很久了，而且很可能短期內不會有任何變化。</WallPiece5.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallWithCompartment.label>帶有暗格的牆</WallWithCompartment.label> <!-- <En>wall with compartment</En> -->
+  <WallWithCompartment.description>這面牆上有一個秘密暗格。</WallWithCompartment.description> <!-- <En>This wall has a secret compartment.</En> -->
+
+  <WallWithHole.label>有洞的牆</WallWithHole.label> <!-- <En>wall with a hole</En> -->
+  <WallWithHole.description>一面有洞的牆。</WallWithHole.description> <!-- <En>A wall with a hole.</En> -->
+
+  <WallWithPipe.label>有管線的牆</WallWithPipe.label> <!-- <En>wall with a pipe</En> -->
+  <WallWithPipe.description>一面有管線的牆。</WallWithPipe.description> <!-- <En>A wall with a pipe.</En> -->
+
+  <Water.label>水</Water.label> <!-- <En>water</En> -->
+  <Water.description>及胸深的水。適合用來滅火。</Water.description> <!-- <En>Chest-deep water. Good for extinguishing fires.</En> -->
+
+  <Window.label>窗戶</Window.label> <!-- <En>window</En> -->
+  <Window.description>看看另一邊有什麼。</Window.description> <!-- <En>See what's on the other side.</En> -->
+
+  <WoodenFloor.label>木地板</WoodenFloor.label> <!-- <En>wooden floor</En> -->
+  <WoodenFloor.description>如果有人放火燒了這片美麗的木地板，那可真是太可惜了。</WoodenFloor.description> <!-- <En>It'd be a shame if someone set this beautiful wooden floor on fire.</En> -->
+
+  <WoodenWall.label>木牆</WoodenWall.label> <!-- <En>wooden wall</En> -->
+  <WoodenWall.description>這面牆上的木板已經開始腐爛。然而，這似乎並沒有困擾到外面的任何骷髏。</WoodenWall.description> <!-- <En>The planks on this wall are starting to rot. However, it doesn't seem to bother any skeletons out here.</En> -->
+
+  <YellowCutGrass.label>割下的黃草</YellowCutGrass.label> <!-- <En>cut yellow grass</En> -->
+  <YellowCutGrass.description>殘留的黃草。</YellowCutGrass.description> <!-- <En>Yellow grass remains.</En> -->
+
+  <YellowWallLamp.label>黃色壁燈</YellowWallLamp.label> <!-- <En>yellow wall lamp</En> -->
+  <YellowWallLamp.description>一盞時尚的黃色壁燈。</YellowWallLamp.description> <!-- <En>A stylish, yellow wall lamp.</En> -->
+
+</SpecTranslations>

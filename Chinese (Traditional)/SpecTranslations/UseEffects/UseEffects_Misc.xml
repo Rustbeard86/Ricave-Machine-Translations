@@ -1,0 +1,214 @@
+﻿<SpecTranslations>
+
+  <AddCondition.label>新增狀態</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>目標將獲得一個新狀態。</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>對目標：{0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>新增效果</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>目標將獲得一個新效果。</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>新增效果：{0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>固定到鏈柱上</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>將目標固定到鏈柱上。</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>封鎖門</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>封鎖一扇門。要穿過被封鎖的門，唯一的方法就是摧毀它們。</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>致盲閃光</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>致盲所有目前能看見你的人。</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>致盲閃光 {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>鑽地</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>躲到地底下。</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>用藥水換卷軸</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>你將用任何藥水換取一個隨機卷軸。</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>天花板坍塌</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>如果沒有其他支撐，天花板將會坍塌。</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>天花板坍塌（{0} {1} 傷害）</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>天花板坍塌（單格）</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>此處的天花板將會坍塌，並傷害底下所有的人。</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>天花板坍塌（單格）（{0} {1} 傷害）</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>收集星塵</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>從戰利品中收集星塵。</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>收集星塵 x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>烹飪</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>烹飪一些食物。</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>附魔裝備（水晶）</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>為你選擇的裝備施加附魔。</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>獻上詛咒物品</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>將詛咒物品獻給惡魔雕像以換取獎勵。</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>造成傷害</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>目標將損失指定數量的生命值，再減去其護甲值。</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1} 傷害</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>摧毀</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>目標將被摧毀。</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>挖掘</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>挖掘諸如泥土之類的東西。</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>摧毀易碎物件</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>摧毀諸如磚牆和閘門之類的易碎物件。</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>摧毀玻璃</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>摧毀由玻璃製成的物件，如窗戶和玻璃地板。</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>開採</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>開採可被開採的物件，如水晶。</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>摧毀身體部位</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>摧毀一個隨機的身體部位。</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>獲得獎勵</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>獲得一個隨機獎勵。</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>複製</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>你所選的物品將會被複製或摧毀。</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>複製（{0} 機率）</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>附魔裝備</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>為你選擇的裝備附加一個隨機的附魔。</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>熄滅</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>熄滅任何火焰。</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>進食</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>滿足你的飢餓感。</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>飽足 {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>結束本局</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>結束本局遊戲並返回大廳。</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>釣魚</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>釣一條魚。</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>獲得技能點</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>獲得一點技能點。</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>賭博</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>賭上你的錢，看看你是否會贏。</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>治療</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>目標將會恢復指定數量的生命值。</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>治療 {0} 生命值</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>鑑定一件物品</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>鑑定一件物品。</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>鑑定物品</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>鑑定物品（鑑定指定回合數的份量）。</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>鑑定物品 {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>製造噪音</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>喚醒指定範圍內的沉睡生物。</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>打開電子保險箱</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>打開某處的電子保險箱。</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>支付</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>你將必須交出某些物品。</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>支付 {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>拉近</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>目標將被拉向施法者。</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>拉近 {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>推開</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>目標將被向後推開幾格。</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>推開 {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>隨機推開</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>目標將被向一個隨機方向推開。</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>隨機推開 {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>隨機效果</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>施加一個隨機效果。</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>獲得物品</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>一個物品將會給予使用者。</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>獲得 {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>移除狀態</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>某個狀態將會從目標身上移除。</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>移除 {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>移除詛咒</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>移除目標物品欄中一件物品的詛咒。此效果會優先移除已裝備物品的詛咒。</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>移除狀態</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>目標身上某個特定狀態將被移除。</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>移除 {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>研究</Research.label> <!-- <En>research</En> -->
+  <Research.description>研究一件物品。</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>重設懷錶充能</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>你的懷錶充能將歸零，在一段時間內你將無法回溯時間。</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>恢復魔力</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>目標的魔力將會恢復。</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>恢復 {0} 魔力</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>恢復缺失的身體部位</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>目標所有缺失的身體部位將會恢復。</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>恢復體力</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>目標的體力將會恢復。</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>恢復 {0} 體力</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>返回大廳</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>返回大廳。你當前的遊戲進程將會結束，但你會保留一些東西。</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>回溯時間</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>回到過去。</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>回溯 {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>點燃</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>點燃一個可燃物。</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>點燃 ({0} 生命值)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>解放靈魂</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>解放一個靈魂。</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>生成物件</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>附近將會出現一個新物件。</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>生成 {0}</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>生成隨機敵人</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>附近將會出現一個隨機敵人。</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>生成物件</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>附近將會出現一個新物件。</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>生成 {0}</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>偷竊</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>從目標身上偷一件物品。</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>恢復缺失的身體部位</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>目標所有缺失的身體部位將會恢復。</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>傳送</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>目標將被傳送到指定地點。</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>隨機傳送</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>目標將被傳送到一個隨機地點。</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>解鎖</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>解鎖一個新物品、地點或獎勵。</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>解鎖 {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>提升等級</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>提升一件物品的等級。</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>升級寶珠效果</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>施加一個永久性的增益效果。</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

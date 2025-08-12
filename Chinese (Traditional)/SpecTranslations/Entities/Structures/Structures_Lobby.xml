@@ -1,0 +1,110 @@
+﻿<SpecTranslations>
+
+  <BannerPuzzle.label>謎題旗幟</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>一面色彩繽紛的旗幟。</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>戰利品</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>每座魔王戰利品都會產生星塵，其數量等於擊殺魔王的樓層數。每當你到達地牢至少第二層時，星塵就會補充。</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>衣櫃</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>在這裡改變你的外觀。</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>每日挑戰板</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>參與每日挑戰。世界各地的每個人每天都會接到相同的挑戰！</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>展示</Display.label> <!-- <En>display</En> -->
+  <Display.description>一個放置物品的地方。</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>傳送門</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>這就是終點嗎？</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>最終對話觸發器</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>走廊標誌</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>這扇門後面有一條走廊。</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>門</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>這扇門似乎鎖上了。</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>門</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>這扇門似乎鎖上了。</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>您想花費 60 星塵解鎖走廊嗎？</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>解鎖</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>門</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>這扇門似乎鎖上了。</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>您想花費 20 星塵解鎖訓練室嗎？</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>解鎖</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>記憶之門</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>一扇只有集齊所有 4 個記憶碎片才能解鎖的門。</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>謎題門</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>一扇集齊全部 10 個謎題碎片才能解鎖的門。每個地牢樓層都有一個謎題碎片，每次冒險只能找到一個。這意味著最後一個會在第 10 層。</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>魔鏡</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>在這裡改變你的特性。</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>記憶之門</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>一扇只有集齊所有 4 個記憶碎片才能解鎖的門。</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>記憶碎片</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>一個未知的記憶碎片。</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>記憶碎片</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>一個未知的記憶碎片。</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>記憶碎片</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>一個未知的記憶碎片。</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>記憶碎片</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>一個未知的記憶碎片。</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>樓梯</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>通往地牢的樓梯。</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>樓梯</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>一座通往地牢的樓梯，可讓您使用特定的世界種子碼。在此地牢中，所有大廳進度和任務都將被禁用。</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>私人房間標誌</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>你的私人房間。當然，前提是你買下它。</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>謎題門</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>一扇因集齊所有謎題碎片而已解鎖的門。</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>謎題房間標誌</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>一個神秘的房間。</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>任務板</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>查看所有可接取與已完成的任務。</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>商店招牌</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>這裡有一間商店。你可以花費星塵來為下次的冒險購買增益效果。</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>天空</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>景色宜人。</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>天空</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>景色宜人。</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>樓梯</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>通往地牢的樓梯。</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>統計板</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>查看你的所有統計數據。</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>訓練室招牌</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>這裡有一間訓練室。你可以和各種類型的敵人進行訓練。</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>樓梯</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>通往訓練室的樓梯。與敵人和頭目進行訓練。</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>垃圾堆</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>一堆垃圾堵住了這個格子。使用星塵可將其永久移除。</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>您想花費 40 星塵清理這堆垃圾嗎？</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>清理</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>壁燈</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>一盞時尚的壁燈。</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

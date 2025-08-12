@@ -1,0 +1,243 @@
+﻿<SpecTranslations>
+
+  <AncientContainer.label>древний контейнер</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Этот контейнер можно открыть только с помощью 3 древних механизмов. Все они должны быть где-то на этом этаже.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Вы видите перед собой древний контейнер.\n\nЕго можно открыть только с помощью 3 древних механизмов.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Открыть</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>древнее устройство</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>Некое древнее устройство, которое можно исследовать. Если вы исследуете все три, то сможете его разблокировать и получить награду.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>чаша с противоядием</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>Небольшая чаша, наполненная противоядием. Здесь вы можете снять эффект отравления в обмен на некоторое количество маны.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Вы видите перед собой чашу с противоядием.\n\nЗдесь вы можете снять эффект отравления в обмен на некоторое количество маны.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>Выпить</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>наковальня</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Здесь вы можете повысить уровень своего снаряжения.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Вы видите перед собой наковальню.\n\nЗдесь вы можете повысить уровень своего снаряжения в обмен на железо.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>кровать</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>Уютная кровать. Здесь можно восстановить немного здоровья, но есть 50% шанс, что вас заметит враг.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Вы видите перед собой кровать.\n\nЗдесь можно восстановить немного здоровья, но есть 50% шанс, что вас заметит враг.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Спать</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>большой магнит</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>Каждый второй ход он притягивает к себе всех вокруг.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>книжная полка</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>Полка с книгами, которая даст вам очко навыка.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>клетка</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>Металлическая клетка, в которой кто-то или что-то есть. Её можно открыть, только если на этом этаже подземелья нет живых боссов.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Вы видите перед собой большую ржавую металлическую клетку.\n\nХотите её открыть?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Открыть</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>пушка</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>Смертельная ловушка, которая ранит всех, кто окажется на линии огня. Активируется атакой.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>котёл</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Обменяйте любое зелье на случайный свиток.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Вы видите перед собой котёл.\n\nЗдесь вы можете обменять любое зелье на случайный свиток.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>потолочные шипы</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>Смертельная ловушка, которая ранит любого, кто окажется под ней. Активируется атакой.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>сундук</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>В этом сундуке есть всё, о чём вы только могли мечтать. Либо это, либо гнилой кусок ткани и несколько камней.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>статуя дьявола</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>Зловещая статуя. Принимает проклятые предметы в обмен на награды.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>Статуя дьявола смотрит на вас.\n\nЕсли у вас есть проклятый предмет, вы можете отдать его статуе за награду.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>останки дракона</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>Куча драконьих костей. Здесь может быть что-то спрятано.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Вы видите перед собой останки дракона.\n\nЕсли хотите, можете поискать здесь спрятанное сокровище.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Искать</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>дубликатор</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>Устройство, которое может дублировать любой предмет... или сломать его.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Вы видите перед собой дубликатор.\n\nЗа 30 золотых вы можете попытаться дублировать предмет.\n\nОднако есть 40% шанс, что предмет будет уничтожен.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>электронный сейф</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Этот сейф можно открыть, только нажав кнопку в другом месте.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>кнопка</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Эта кнопка откроет электронный сейф где-то на этаже.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>стол зачарования</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Зачаруйте своё снаряжение в обмен на небольшое пожертвование.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Вы видите перед собой стол зачарования.\n\nПод столом есть монетоприёмник и табличка, на которой написано, что для продолжения требуется небольшое пожертвование в 170 золотых монет.\n\nСлучайное зачарование будет наложено на выбранное вами оружие или доспех.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>фонтан</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Испив из этого фонтана, вы получите слабый, но продолжительный эффект - положительный или отрицательный.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Вы видите перед собой фонтан.\n\nПитье из него даст слабый, но продолжительный магический эффект.\n\nВы можете бросить в него несколько золотых монет на удачу.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>Выпить</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Источник Жизни</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Питье из этого источника полностью вас исцелит, восстановит всю ману, выносливость и сытость, а также даст кратковременный иммунитет к яду.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Вы видите перед собой Источник Жизни.\n\nПитье из этого источника полностью вас исцелит, восстановит всю ману, выносливость и сытость, а также даст кратковременный иммунитет к яду.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>Выпить</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>игорный стол</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Сделайте ставку, если чувствуете себя удачливым.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Вы видите перед собой игорный стол.\n\nВы можете сделать ставку, если чувствуете себя удачливым, и с шансом 50/50 либо удвоить ставку, либо проиграть.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>позолоченная шкатулка</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>У этой шкатулки есть монетоприёмник. Её можно открыть, вставив 50 золотых.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Вы видите перед собой позолоченную шкатулку.\n\nЕё можно открыть, вставив 50 золотых.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Открыть</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>могила</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Копайте, чтобы найти спрятанное сокровище.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Вы видите перед собой могилу.\n\nЗдесь определенно что-то зарыто.\n\nВы можете либо раскопать могилу, либо оставить её в покое. Кто знает, что вы можете здесь найти.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Копать</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>зелёный сундук</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Этот сундук можно открыть только с помощью 3 фрагментов зелёного ключа. Обычно их носят враги.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Вы видите перед собой зелёный сундук.\n\nЕго можно открыть только с помощью 3 фрагментов зелёного ключа.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Открыть</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>подвесная клетка</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>Металлическая клетка, в которой кто-то или что-то есть. Её можно открыть, только если на этом этаже подземелья нет живых боссов.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Вы видите перед собой большую ржавую металлическую клетку.\n\nХотите её открыть?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Открыть</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>исцеляющий кристалл</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Восстанавливает все ваши очки здоровья.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>целебное растение</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>Растение с необычными целебными свойствами. Вы можете использовать его для создания зелья здоровья.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>рычаг</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Открывает все ворота и предупреждает всех на этаже. Тяните его, только когда будете готовы к побегу!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Хотите потянуть за рычаг?\n\nЭто откроет все ворота, но все враги проснутся.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Потянуть</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>алтарь жертвоприношения конечностей</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Вы можете пожертвовать здесь свою конечность в обмен на случайную награду.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Вы видите перед собой алтарь жертвоприношения конечностей.\n\nЗдесь вы можете пожертвовать свою конечность в обмен на случайную награду.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Пожертвовать конечность</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>кристалл маны</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Восстанавливает всю вашу ману, так что вы снова сможете использовать заклинания.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>мана-растение</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>Растение с необычными магическими свойствами. Вы можете использовать его для создания зелья маны.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>металлический ящик</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>Металлический ящик. Может содержать что-то полезное.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>алтарь Фантома</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Призовите смертоносного Фантома. Получите бонус к наносимому физическому урону в обмен на ухудшенное зрение.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>Вы видите перед собой алтарь Фантома.\n\nЗдесь вы можете призвать смертоносного Фантома, за что получите +25% к наносимому физическому урону.\n\nКроме того, на 25 ходов дальность вашего обзора будет установлена на 1.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Призвать</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>портал</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>Телепортирует вас в случайное место на карте. Однако при повторном использовании всегда будет переносить в то же самое место.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>бесконтактная бомба</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Эта бомба имеет бесконтактный взрыватель и взорвётся через несколько ходов после приближения.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>бесконтактная огненная бомба</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Эта огненная бомба имеет бесконтактный взрыватель и взорвётся через несколько ходов после приближения.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>бесконтактная дымовая бомба</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Эта дымовая бомба имеет бесконтактный взрыватель и взорвётся через несколько ходов после приближения.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>крысиное гнездо</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Гнездо, полное крыс. Крысы не вылезут, если их не потревожить. Вы можете обыскать его в поисках спрятанного сокровища.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Вы видите перед собой крысиное гнездо.\n\nПри желании вы можете поискать здесь спрятанное сокровище.\n\nОднако, если вы это сделаете, из гнезда начнут вылезать крысы.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Обыскать</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>святилище разбойника</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Получите больше выносливости, увеличенную дальность обзора и сопротивление урону от огня на некоторое время за небольшое пожертвование.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Вы видите перед собой святилище разбойника.\n\nПолучите больше выносливости, увеличенную дальность обзора и сопротивление урону от огня за небольшое пожертвование.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Продолжить</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>портал конца</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>Яркий портал. Это конец.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>жертвенный алтарь</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Принесите в жертву на этом алтаре двух достойных противников, чтобы получить награду.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>сейф</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>В нём может быть что-то ценное, но уничтожить его может быть непросто. Может, с помощью взрывчатки?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>магазин</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Ничто не сравнится со свежевыжатым апельсиновым со... то есть, я имею в виду, зельем силы.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>святилище</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Получите благословение, бесплатно!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Вы видите перед собой святилище.\n\nЗдесь вы можете получить благословение.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Продолжить</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>серебряный сундук</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Похоже, в нём может быть что-то ценное. Вам нужен серебряный ключ, чтобы его открыть.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Вы видите перед собой серебряный сундук.\n\nЕго можно открыть только серебряным ключом.\n\nОбратите внимание, что запертых сундуков может быть больше, чем доступных ключей, так что тратьте ключи с умом.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Открыть</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>скелетные останки</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>Куча костей. Здесь может быть что-то спрятано.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Вы видите перед собой скелетные останки.\n\nПри желании вы можете поискать здесь спрятанное сокровище.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Обыскать</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>малый кристалл исцеления</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>Исцеляет 50% от вашего максимального здоровья.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>малый кристалл маны</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>Восстанавливает 50% от вашей максимальной маны.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>лестница</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>Лестница, ведущая на нижний уровень этого подземелья.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Хотите спуститься по лестнице на нижний уровень подземелья?\n\nВы не сможете вернуться назад.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Продолжить</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>лестница в лобби</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>Лестница, ведущая обратно в лобби. Это завершит ваш текущий забег, но вы сохраните часть опыта и золота для следующего. Также вы не потеряете одноразовые бонусы, купленные в лобби.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Хотите вернуться в лобби?\n\nЭто завершит ваш текущий забег, но вы сохраните 25% опыта и 50% золота для следующего.\nТакже вы не потеряете одноразовые бонусы, купленные в лобби.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Продолжить</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>хирургическая койка</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>Автономный хирургический аппарат, который может восстановить все недостающие части тела за небольшую плату.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Вы видите перед собой автономный хирургический аппарат.\n\nПод ним есть монетоприёмник и табличка, на которой написано, что за 150 золотых монет аппарат может восстановить все ваши недостающие части тела.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>Заплатить 150 золота</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>машина времени</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Путешествие в прошлое.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Вы видите перед собой машину времени.\n\nИспользование её отправит вас в прошлое.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Использовать</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>Калечащее испытание</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Уничтожьте 6 частей тела за 120 ходов, чтобы получить награду.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>Вы видите перед собой «Калечащее испытание».\n\nЗа некоторое количество золота вы можете начать испытание по уничтожению 6 частей тела за 120 ходов.\n\nПо завершении испытания вы получите награду.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>Заплатить 20 золота</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>Испытание быстрого убийцы</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Убейте 4 достойных (дающих опыт) врагов за 100 ходов, чтобы получить награду.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>Вы видите перед собой «Испытание быстрого убийцы».\n\nЗа некоторое количество золота вы можете начать испытание по убийству 4 достойных врагов за 100 ходов.\n\nПо завершении испытания вы получите награду.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>Заплатить 20 золота</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>Испытание безупречного</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Убейте 2 достойных (дающих опыт) врагов, не потеряв ни одного очка здоровья, чтобы получить награду.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>Вы видите перед собой «Испытание безупречного».\n\nЗа некоторое количество золота вы можете начать испытание по убийству 2 любых достойных врагов без потери очков здоровья.\n\nПо завершении испытания вы получите награду.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>Заплатить 20 золота</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>сфера улучшения</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Сфера, которая позволяет вам выбрать постоянный эффект. Вы можете выбрать между дополнительным здоровьем, повышенным шансом критического удара, пониженным шансом промаха и сопротивлением огню.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Это сфера улучшения, которая даёт постоянные эффекты на этот забег.\n\nВы можете выбрать между дополнительным здоровьем, повышенным шансом критического удара, пониженным шансом промаха и сопротивлением огню.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>святилище воина</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>Высвободите своего внутреннего воина и докажите, что вы достойны. Уменьшите своё максимальное здоровье вдвое в обмен на 25% повышение физического урона на некоторое время.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Вы видите перед собой святилище воина.\n\nУменьшите своё максимальное здоровье вдвое в обмен на 25% повышение урона на 400 ходов.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Продолжить</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>осиное гнездо</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Гнездо необычно больших ос.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>святилище волшебника</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Увеличьте максимальную ману и получите сопротивление магическому урону на некоторое время за небольшое пожертвование.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Вы видите перед собой святилище волшебника.\n\nЗа 80 золота вы можете получить благословение, которое даст вам +2 к максимальной мане на 400 ходов и сопротивление магическому урону на 100 ходов.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>Заплатить 80 золота</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

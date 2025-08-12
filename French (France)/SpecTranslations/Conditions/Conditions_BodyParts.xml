@@ -1,0 +1,30 @@
+﻿<SpecTranslations>
+
+  <AllArmsMissing.label>sans bras</AllArmsMissing.label> <!-- <En>armless</En> -->
+  <AllArmsMissing.description>Ce personnage n'a pas de bras, ce qui lui fait infliger moins de dégâts physiques. De plus, ce personnage ne peut pas utiliser d'objets ni certaines attaques natives (par exemple, l'arc de l'archer). Les membres manquants peuvent être restaurés avec une trousse chirurgicale.</AllArmsMissing.description> <!-- <En>This character has no arms which makes them deal less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+  <AllArmsMissing.ThisCharacterHasNoArms>Ce personnage n'a pas de bras, ce qui lui fait infliger {0} de dégâts physiques en moins. De plus, ce personnage ne peut pas utiliser d'objets ni certaines attaques natives (par exemple, l'arc de l'archer). Les membres manquants peuvent être restaurés avec une trousse chirurgicale.</AllArmsMissing.ThisCharacterHasNoArms> <!-- <En>This character has no arms which makes them deal {0} less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllEyesMissing.label>aveugle</AllEyesMissing.label> <!-- <En>blind</En> -->
+  <AllEyesMissing.description>Ce personnage n'a plus d'yeux, ce qui le rend aveugle et lui fait rater ses attaques 30 % du temps. Cependant, il peut toujours sentir les personnages adjacents et se souvenir de la direction d'où il a été récemment attaqué. Les membres manquants peuvent être restaurés avec une trousse chirurgicale.</AllEyesMissing.description> <!-- <En>This character has all of their eyes missing which makes them blind and they will miss 30% of the time. However, they can still sense adjacent characters and remember from which direction they've recently been attacked. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllLegsMissing.label>immobilisé</AllLegsMissing.label> <!-- <En>immobilized</En> -->
+  <AllLegsMissing.description>Ce personnage n'a plus de jambes, ce qui le rend immobile. Les membres manquants peuvent être restaurés avec une trousse chirurgicale.</AllLegsMissing.description> <!-- <En>This character has all of their legs missing which makes them immobile. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllWingsMissing.label>sans ailes</AllWingsMissing.label> <!-- <En>wingless</En> -->
+  <AllWingsMissing.description>Ce personnage n'a plus d'ailes, ce qui le rend incapable de voler.</AllWingsMissing.description> <!-- <En>This character has all of their wings missing which makes them unable to fly.</En> -->
+
+  <ArmMissing.label>bras manquant</ArmMissing.label> <!-- <En>arm missing</En> -->
+  <ArmMissing.description>Il manque un bras à ce personnage, ce qui lui fait infliger moins de dégâts physiques. Les membres manquants peuvent être restaurés avec une trousse chirurgicale.</ArmMissing.description> <!-- <En>This character has one of their arms missing which makes them deal less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+  <ArmMissing.ThisCharacterHasOneOf>Il manque un bras à ce personnage, ce qui lui fait infliger {0} de dégâts physiques en moins. Les membres manquants peuvent être restaurés avec une trousse chirurgicale.</ArmMissing.ThisCharacterHasOneOf> <!-- <En>This character has one of their arms missing which makes them deal {0} less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <HatMissing.label>sans chapeau</HatMissing.label> <!-- <En>hatless</En> -->
+  <HatMissing.description>C'était son chapeau préféré.</HatMissing.description> <!-- <En>It was his favorite hat.</En> -->
+
+  <LegMissing.label>jambe manquante</LegMissing.label> <!-- <En>leg missing</En> -->
+  <LegMissing.description>Il manque une jambe à ce personnage, ce qui le fait se déplacer deux fois plus lentement. Les membres manquants peuvent être restaurés avec une trousse chirurgicale.</LegMissing.description> <!-- <En>This character has one of their legs missing which makes them move twice as slow. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <StingMissing.label>dard manquant</StingMissing.label> <!-- <En>sting missing</En> -->
+  <StingMissing.description>Il manque son dard à ce personnage, ce qui lui fait infliger moins de dégâts physiques.</StingMissing.description> <!-- <En>This character has their sting missing which makes them deal less physical damage.</En> -->
+  <StingMissing.ThisCharacterHasTheir>Il manque son dard à ce personnage, ce qui lui fait infliger {0} de dégâts physiques en moins.</StingMissing.ThisCharacterHasTheir> <!-- <En>This character has their sting missing which makes them deal {0} less physical damage.</En> -->
+
+</SpecTranslations>

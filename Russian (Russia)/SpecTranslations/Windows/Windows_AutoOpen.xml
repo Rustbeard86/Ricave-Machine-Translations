@@ -1,0 +1,27 @@
+﻿<SpecTranslations>
+
+  <Character.label>Персонаж</Character.label> <!-- <En>character</En> -->
+  <Character.description>Отображает информацию о вашем персонаже.</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>Кодекс</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>Отображает все предметы и существа, которые вы когда-либо видели.</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>Карта подземелья</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>Отображает карту этого подземелья.</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>Фракции</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>Отображает все фракции в этом подземелье.</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>Инвентарь</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>Отображает предметы в вашем инвентаре.\n\nПеретаскивайте предметы, чтобы менять их порядок. Изменение порядка предметов не занимает ход, так что это можно безопасно делать в бою.\n\nЭкипировка и снятие предметов происходят мгновенно, но другие действия, такие как выпивание или бросание зелья, занимают один ход.</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>Задания</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>Отображает все ваши задания.</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>Быстрая панель</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>К предметам на быстрой панели можно получить доступ, нажимая цифровые клавиши на клавиатуре.</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>Навыки</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>Тратьте очки навыков, чтобы изучать новые навыки.</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>
