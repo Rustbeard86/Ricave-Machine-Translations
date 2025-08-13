@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>Emlékezetvesztés</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>Találd meg az első Emléktöredéket a 3. emeleten.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>Elvesztetted az emlékezeted, de van valami, ami segíthet visszaemlékezni, mi történt, mielőtt ide kerültél.\n\nTaláld meg az első Emléktöredéket a harmadik emeleten.\n\nMindez eleinte kihívásnak tűnhet, de minden lépéssel közelebb kerülsz elfeledett emlékeid feloldásához.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>Emléktöredék a 3. emeleten</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>Emlékdarab a 3. szinten</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>Emlékezetvesztés: Elválás</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>Találd meg a második Emléktöredéket a 4. emeleten.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>Haladsz előre. Lassan kezdesz emlékezni, mi történt - elmentél túrázni a barátaiddal. Meglepetésedre, Maya is itt van.\n\nA második Emléktöredék megtalálása segít visszaemlékezni a folytatásra. A 4. emeleti mini-főnök birtokában kell lennie.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>Emléktöredék a 4. emeleten</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>Emlékdarab a 4. szinten</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>Emlékezetvesztés: Barlang</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>Találd meg a harmadik Emléktöredéket a 6. emeleten.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>Kezdesz emlékezni, mi történt. Leválva a csoportodról, egy barlangra bukkantál. Sajnos megcsúsztál és eltörted a lábad. De mi történt ezután?\n\nTaláld meg a harmadik Emléktöredéket. Valahol a 6. emeleten kell lennie, és vigyél magaddal kötelet.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>Emléktöredék a 6. emeleten</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>Emlékdarab a 6. szinten</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>Emlékezetvesztés: Megmentve</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>Találd meg az utolsó Emléktöredéket a 8. emeleten.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>Már majdnem ott vagy. Meglepő módon Maya talált meg téged abban a barlangban. Azonban még mindig nem érted, miért vagy itt. Több válaszra van szükséged.\n\nTaláld meg az utolsó Emléktöredéket. Valahol a 8. emeleten kell lennie egy méregcsapdában.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>Emléktöredék a 8. emeleten</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>Emlékdarab a 8. szinten</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>Kimentés</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>Mentsd ki az Árnyék barátját a 2. emeletről.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>Hogy több információt szerezz az Árnyéktól, először ki kell mentened a barátját. Egy ketrecbe van zárva valahol a kazamata második emeletén.\n\nNe feledd, a küldetéseket bármelyik kazamatában teljesítheted, amíg az elég emelettel rendelkezik. Minél messzebbre jutsz, annál több emeletesek lesznek a kazamaták.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>Kimentendő személy a 2. emeleten</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>Új szoba feloldása az előcsarnokban</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>Egy megmentendő személy a 2. szinten</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>Új szoba feloldása az előcsarnokban</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

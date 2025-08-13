@@ -2,20 +2,20 @@
 
   <AllIn.label>all in</AllIn.label> <!-- <En>all in</En> -->
   <AllIn.description>Börja med extra färdighetspoäng, men du kan aldrig få fler.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
-  <AllIn.goodEffects>Börja med 3 färdighetspoäng</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
-  <AllIn.badEffects>Kan inte få fler färdighetspoäng</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+  <AllIn.goodEffects><li>Börja med 3 färdighetspoäng</li></AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects><li>Kan inte få fler färdighetspoäng</li></AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
 
   <Angel.label>ängel</Angel.label> <!-- <En>angel</En> -->
   <Angel.description>Ger förmågan att flyga och gör mer skada på Demonen, men du blir sårbar mot eld-, gift- och magiskada.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
 
   <Berserker.label_2>bersärk</Berserker.label_2> <!-- <En>berserker</En> -->
   <Berserker.description_2>Gör tillfälligt mer skada efter varje värdigt dråp, men blir också mer sårbar.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
-  <Berserker.goodEffects>Gör 25 % mer fys. skada i 6 turer efter ett värdigt dråp</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
-  <Berserker.badEffects>Tar 25 % mer fys. skada i 6 turer efter ett värdigt dråp</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.goodEffects><li>Gör 25 % mer fysisk skada i 6 turer efter en värdig dräpning</li></Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects><li>Tar 25 % mer fysisk skada i 6 turer efter en värdig dräpning</li></Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
 
   <BossHunter.label>bossjägare</BossHunter.label> <!-- <En>boss hunter</En> -->
   <BossHunter.description>Gör mer skada på alla bossar, men de börjar vakna.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
-  <BossHunter.badEffects>Alla bossar börjar vakna</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+  <BossHunter.badEffects><li>Alla bossar börjar vakna</li></BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
 
   <Bulky.label>kraftig</Bulky.label> <!-- <En>bulky</En> -->
   <Bulky.description>Få mer max-HP per nivå i utbyte mot att dina rörelser låter mer.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
@@ -37,20 +37,20 @@
 
   <MoleRat.label>mullvadsråtta</MoleRat.label> <!-- <En>mole-rat</En> -->
   <MoleRat.description>Ger förmågan att gräva och få viss elementär resistens i utbyte mot att du får mindre max-HP per nivå.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
-  <MoleRat.goodEffects>Kan gräva utan spade</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+  <MoleRat.goodEffects><li>Kan gräva utan spade</li></MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
 
   <NightOwl.label>nattuggla</NightOwl.label> <!-- <En>night owl</En> -->
   <NightOwl.description>Ser bättre på natten, men sämre under dagen.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
-  <NightOwl.goodEffects>+1 synfält från 19:00 till 7:00</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
-  <NightOwl.badEffects>-1 synfält från 7:00 till 19:00</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+  <NightOwl.goodEffects><li>+1 synhåll från 19:00 till 7:00</li></NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects><li>-1 synhåll från 7:00 till 19:00</li></NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
 
   <Pacifist.label_2>pacifist</Pacifist.label_2> <!-- <En>pacifist</En> -->
   <Pacifist.description>Alla föremål i butiken är gratis och du går upp i nivå dubbelt så snabbt, men varje värdigt dråp kostar dig 1 HP.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
 
   <Scary.label>skrämmande</Scary.label> <!-- <En>scary</En> -->
   <Scary.description>Alla fiender får panik om de väcks av dig i utbyte mot högre priser, att kulter blir fientliga och sänkt maxuthållighet. Dessutom kommer alla spöken att följa dig och inte tappa något byte.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
-  <Scary.goodEffects>Fiender får panik i 3 turer om de väcks av dig</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
-  <Scary.badEffects>Spöken följer dig och tappar inget byte</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+  <Scary.goodEffects><li>Fiender får panik i 3 turer om de väcks av dig</li></Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects><li>Spöken följer efter dig och lämnar inget byte</li></Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
 
   <Shaman.label>schaman</Shaman.label> <!-- <En>shaman</En> -->
   <Shaman.description>Få en manapoäng för varje värdigt dråp i utbyte mot färre inventarieplatser.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->

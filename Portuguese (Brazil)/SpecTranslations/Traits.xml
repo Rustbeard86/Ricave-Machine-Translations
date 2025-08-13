@@ -2,20 +2,20 @@
 
   <AllIn.label>tudo ou nada</AllIn.label> <!-- <En>all in</En> -->
   <AllIn.description>Comece com pontos de habilidade extras, mas você nunca poderá adquirir mais.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
-  <AllIn.goodEffects>Começa com 3 pontos de habilidade</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
-  <AllIn.badEffects>Não pode obter mais pontos de habilidade</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+  <AllIn.goodEffects><li>Começa com 3 pontos de habilidade</li></AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects><li>Não pode ganhar mais pontos de habilidade</li></AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
 
   <Angel.label>anjo</Angel.label> <!-- <En>angel</En> -->
   <Angel.description>Seja capaz de voar e causar mais dano ao Demônio ao custo de vulnerabilidade a dano de fogo, veneno e magia.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
 
   <Berserker.label_2>berserker</Berserker.label_2> <!-- <En>berserker</En> -->
   <Berserker.description_2>Cause temporariamente mais dano após cada abate digno, mas também se torne mais vulnerável.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
-  <Berserker.goodEffects>Causa 25% mais dano fís. por 6 turnos após um abate digno</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
-  <Berserker.badEffects>Recebe 25% mais dano fís. por 6 turnos após um abate digno</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.goodEffects><li>Causa 25% mais dano fís. por 6 turnos após um abate digno</li></Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects><li>Recebe 25% mais dano fís. por 6 turnos após um abate digno</li></Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
 
   <BossHunter.label>caçador de chefes</BossHunter.label> <!-- <En>boss hunter</En> -->
   <BossHunter.description>Cause mais dano a todos os chefes, mas eles começarão despertos.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
-  <BossHunter.badEffects>Todos os chefes começam despertos</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+  <BossHunter.badEffects><li>Todos os chefes começam despertos</li></BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
 
   <Bulky.label>robusto</Bulky.label> <!-- <En>bulky</En> -->
   <Bulky.description>Ganhe mais PV máx. por nível ao custo de movimento mais barulhento.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
@@ -37,20 +37,20 @@
 
   <MoleRat.label>rato-toupeira</MoleRat.label> <!-- <En>mole-rat</En> -->
   <MoleRat.description>Seja capaz de cavar e ganhe alguma resistência elemental ao custo de ganhar menos PV máx. por nível.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
-  <MoleRat.goodEffects>Pode cavar sem pá</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+  <MoleRat.goodEffects><li>Pode cavar sem pá</li></MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
 
   <NightOwl.label>notívago</NightOwl.label> <!-- <En>night owl</En> -->
   <NightOwl.description>Enxergue melhor à noite, mas pior durante o dia.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
-  <NightOwl.goodEffects>+1 de alcance de visão das 19:00 às 7:00</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
-  <NightOwl.badEffects>-1 de alcance de visão das 7:00 às 19:00</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+  <NightOwl.goodEffects><li>+1 de alcance de visão das 19:00 às 7:00</li></NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects><li>-1 de alcance de visão das 7:00 às 19:00</li></NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
 
   <Pacifist.label_2>pacifista</Pacifist.label_2> <!-- <En>pacifist</En> -->
   <Pacifist.description>Todos os itens da loja são gratuitos e você sobe de nível duas vezes mais rápido, mas cada abate digno lhe custa 1 PV.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
 
   <Scary.label>assustador</Scary.label> <!-- <En>scary</En> -->
   <Scary.description>Todos os inimigos entram em pânico se despertados por você ao custo de preços mais altos, cultos sendo hostis a você e vigor máximo reduzido. Além disso, todos os fantasmas o seguirão e não deixarão saques.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
-  <Scary.goodEffects>Inimigos entram em pânico por 3 turnos se despertados por você</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
-  <Scary.badEffects>Fantasmas te seguem e não deixam saques</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+  <Scary.goodEffects><li>Inimigos entram em pânico por 3 turnos se despertados por você</li></Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects><li>Fantasmas te seguem e não deixam saques</li></Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
 
   <Shaman.label>xamã</Shaman.label> <!-- <En>shaman</En> -->
   <Shaman.description>Ganhe um ponto de mana por cada abate digno ao custo de ter menos espaços no inventário.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->

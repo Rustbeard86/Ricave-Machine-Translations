@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>فقدان الذاكرة</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>ابحث عن قطعة الذاكرة الأولى في الطابق 3.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>لقد فقدت ذاكرتك، ولكن هناك شيء يمكن أن يساعدك على تذكر ما حدث قبل وصولك إلى هنا.\n\nابحث عن قطعة الذاكرة الأولى في الطابق الثالث.\n\nقد يبدو كل هذا تحديًا في البداية، ولكن مع كل خطوة، ستقترب أكثر من استعادة ذكرياتك المنسية.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>قطعة ذاكرة في الطابق 3</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>قطعة ذاكرة في الطابق 3</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>فقدان الذاكرة: الانفصال</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>ابحث عن قطعة الذاكرة الثانية في الطابق 4.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>إنك تحرز تقدمًا. بدأت تتذكر ببطء ما حدث - ذهبت في نزهة مع أصدقائك. ولدهشتك، مايا هنا أيضًا.\n\nسيساعدك العثور على قطعة الذاكرة الثانية على تذكر ما حدث بعد ذلك. يجب أن تكون في حوزة الزعيم المصغر في الطابق الرابع.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>قطعة ذاكرة في الطابق 4</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>قطعة ذاكرة في الطابق 4</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>فقدان الذاكرة: الكهف</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>ابحث عن قطعة الذاكرة الثالثة في الطابق 6.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>بدأت تتذكر ما حدث. بعد أن انفصلت عن مجموعتك، عثرت على كهف. لسوء الحظ، انزلقت وكسرت ساقك. ولكن ماذا حدث بعد ذلك؟\n\nابحث عن قطعة الذاكرة الثالثة. يجب أن تكون موجودة في مكان ما في الطابق السادس، وتأكد من أن تأخذ حبلًا معك.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>قطعة ذاكرة في الطابق 6</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>قطعة ذاكرة في الطابق 6</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>فقدان الذاكرة: الإنقاذ</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>ابحث عن قطعة الذاكرة الأخيرة في الطابق 8.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>لقد أوشكت على الوصول. من المدهش أن مايا هي التي وجدتك في ذلك الكهف. ومع ذلك، ما زلت لا تفهم سبب وجودك هنا. أنت بحاجة إلى المزيد من الإجابات.\n\nابحث عن قطعة الذاكرة الأخيرة. يجب أن تكون موجودة في مكان ما في الطابق الثامن في فخ سم.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>قطعة ذاكرة في الطابق 8</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>قطعة ذاكرة في الطابق 8</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>إنقاذ</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>أنقذ صديق الظل في الطابق الثاني.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>للحصول على مزيد من المعلومات من الظل، يجب عليك أولاً إنقاذ صديقه. إنه محبوس في قفص في مكان ما في الطابق الثاني من هذه الزنزانة.\n\nلاحظ أنه يمكنك إكمال المهام في أي زنزانة، طالما أنها تحتوي على عدد كافٍ من الطوابق. كلما تقدمت، زاد عدد الطوابق في الزنازين.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>شخص لإنقاذه في الطابق 2</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>فتح غرفة جديدة في الردهة</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>شخص لإنقاذه في الطابق 2</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>فتح غرفة جديدة في الردهة</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

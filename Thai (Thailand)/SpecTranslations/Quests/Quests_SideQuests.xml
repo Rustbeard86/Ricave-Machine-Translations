@@ -3,12 +3,12 @@
   <FindRelic.label>ค้นหาวัตถุโบราณ</FindRelic.label> <!-- <En>Find Relic</En> -->
   <FindRelic.description>ค้นหาวัตถุโบราณในตำนานที่ชั้น 4</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
   <FindRelic.ThereAppearsToBeAnAgeold>ดูเหมือนว่าจะมีวัตถุโบราณเก่าแก่ที่ถูกปกคลุมไปด้วยความลึกลับอยู่ที่ไหนสักแห่งบนชั้น 4 ไปตามหามันซะ</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
-  <FindRelic.dungeonModifiers>วัตถุโบราณที่ชั้น 4</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+  <FindRelic.dungeonModifiers><li>รีลิกบนชั้น 4</li></FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
 
   <KillHypnorak.label>สังหารฮิปโนรัค</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
   <KillHypnorak.description>สังหารฮิปโนรัค - มินิบอสมังกรที่ชั้น 3</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
   <KillHypnorak.YourNextChallengeAwaits>ความท้าทายต่อไปของคุณรออยู่ที่ชั้น 3 ที่ซึ่งฮิปโนรัคอาศัยอยู่ รวบรวมความกล้าหาญและเอาชนะมันให้ได้</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
-  <KillHypnorak.dungeonModifiers>ฮิปโนรัคที่ชั้น 3</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+  <KillHypnorak.dungeonModifiers><li>ฮิปโนแร็คบนชั้น 3</li></KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
 
   <KillMimics.label>นักล่ามิมิก</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
   <KillMimics.description>สังหารมิมิก 10 ตัว</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
@@ -18,12 +18,12 @@
   <KillNightmareLord.label>สังหารลอร์ดแห่งฝันร้าย</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
   <KillNightmareLord.description>สังหารลอร์ดแห่งฝันร้าย - มินิบอสโครงกระดูกที่ชั้น 1</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
   <KillNightmareLord.YourMissionIsToConfront>ภารกิจของคุณคือการเผชิญหน้ากับลอร์ดแห่งฝันร้ายผู้ชั่วร้าย - สัตว์ประหลาดโครงกระดูก โชคดีที่คุณไม่ต้องมองหาไกล เพราะคุณสามารถพบรังของมันได้ที่ชั้นแรกสุด\n\nโปรดทราบว่าคุณสามารถทำเควสต์นี้ให้สำเร็จได้เฉพาะในดันเจี้ยนที่มีมินิบอสเท่านั้น</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
-  <KillNightmareLord.dungeonModifiers>ลอร์ดแห่งฝันร้ายที่ชั้น 1</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+  <KillNightmareLord.dungeonModifiers><li>ไนท์แมร์ลอร์ดบนชั้น 1</li></KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
 
   <KillPhantasmos.label>สังหารแฟนทาสมอส</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
   <KillPhantasmos.description>สังหารแฟนทาสมอส - มินิบอสมัมมี่ที่ชั้น 4</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
   <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>ที่ชั้น 4 มีแฟนทาสมอสรออยู่ มัมมี่ที่ห่อหุ้มด้วยความลึกลับเก่าแก่ เป้าหมายของคุณคือการเอาชนะมันให้ได้</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
-  <KillPhantasmos.dungeonModifiers>แฟนทาสมอสที่ชั้น 4</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+  <KillPhantasmos.dungeonModifiers><li>แฟนทาสมอสบนชั้น 4</li></KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
 
   <KillSkeletons.label>อุ่นเครื่อง</KillSkeletons.label> <!-- <En>Warmup</En> -->
   <KillSkeletons.description>สังหารโครงกระดูก 10 ตัว</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
@@ -38,16 +38,16 @@
   <MoonlightMedallions.label>เหรียญแสงจันทร์</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
   <MoonlightMedallions.description>เก็บเหรียญแสงจันทร์ 4 เหรียญที่ชั้น 2</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
   <MoonlightMedallions.ThereAre4MoonlightMedallions>มีเหรียญแสงจันทร์ 4 เหรียญกระจัดกระจายอยู่ทั่วชั้นสองของดันเจี้ยนนี้ รวบรวมพวกมันทั้งหมดเพื่อเปิดเผยความหมาย</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
-  <MoonlightMedallions.dungeonModifiers>เหรียญแสงจันทร์ 4 เหรียญที่ชั้น 2</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+  <MoonlightMedallions.dungeonModifiers><li>เหรียญแสงจันทร์ 4 เหรียญบนชั้น 2</li></MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
 
   <PhantomSwarm.label>ฝูงปีศาจ</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
   <PhantomSwarm.description>ระงับความวุ่นวายของปีศาจที่ชั้น 3</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
   <PhantomSwarm.PhantomsHaveOverrunThe>เหล่าปีศาจได้บุกรุกชั้นสามจนเต็มไปหมด จงยุติเรื่องนี้โดยการสังหารพวกมันอย่างน้อย 3 ตัว</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
-  <PhantomSwarm.dungeonModifiers>ปีศาจพิเศษ 3 ตัวที่ชั้น 3</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+  <PhantomSwarm.dungeonModifiers><li>แฟนทอมเพิ่มเติม 3 ตัวบนชั้น 3</li></PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
 
   <RatInfestation.label>การระบาดของหนู</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
   <RatInfestation.description>จัดการกับการระบาดของหนูที่ชั้น 2</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
   <RatInfestation.RatsEverywhereYouHave>หนูเต็มไปหมด! คุณต้องแก้ปัญหาน่ารำคาญนี้และจัดการกับการระบาดของหนูที่ชั้นสอง เพื่อทำเควสต์นี้ให้สำเร็จ คุณจะต้องฆ่าหนูอย่างน้อย 5 ตัวที่นั่น คำเตือน: การยอมรับเควสต์นี้หมายความว่าจะมีหนูปรากฏตัวมากขึ้นที่ชั้นสอง</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
-  <RatInfestation.dungeonModifiers>หนูพิเศษ 5 ตัวที่ชั้น 2</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+  <RatInfestation.dungeonModifiers><li>หนูเพิ่มเติม 5 ตัวบนชั้น 2</li></RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
 
 </SpecTranslations>

@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>Minnesförlust</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>Hitta den första minnesbiten på våning 3.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>Du har förlorat ditt minne, men det finns något som kan hjälpa dig att minnas vad som hände innan du kom hit.\n\nHitta den första minnesbiten på tredje våningen.\n\nAllt detta kan verka utmanande i början, men för varje steg kommer du närmare att låsa upp dina glömda minnen.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>Minnesbit på våning 3</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>Minnesbit på våning 3</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>Minnesförlust: Separation</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>Hitta den andra minnesbiten på våning 4.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>Du gör framsteg. Du börjar sakta minnas vad som hände - du var ute och vandrade med dina vänner. Till din förvåning är Maya också här.\n\nAtt hitta den andra minnesbiten hjälper dig att minnas vad som hände sedan. Den borde finnas hos minibossen på den 4:e våningen.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>Minnesbit på våning 4</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>Minnesbit på våning 4</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>Minnesförlust: Grottan</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>Hitta den tredje minnesbiten på våning 6.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>Du börjar minnas vad som hände. Du separerade från din grupp och snubblade över en grotta. Tyvärr halkade du och bröt benet. Men vad hände sen?\n\nHitta den tredje minnesbiten. Den borde finnas någonstans på den 6:e våningen, och se till att ta med dig ett rep.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>Minnesbit på våning 6</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>Minnesbit på våning 6</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>Minnesförlust: Räddad</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>Hitta den sista minnesbiten på våning 8.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>Du är nästan där. Överraskande nog var det Maya som hittade dig i den där grottan. Men du förstår fortfarande inte varför du är här. Du behöver fler svar.\n\nHitta den sista minnesbiten. Den borde finnas någonstans på den 8:e våningen i en giftfälla.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>Minnesbit på våning 8</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>Minnesbit på våning 8</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>Räddning</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>Rädda Shadows vän på 2:a våningen.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>För att få mer information från Shadow måste du först rädda hans vän. Han är inlåst i en bur någonstans på andra våningen i den här grottan.\n\nNotera att du kan slutföra uppdrag i vilken grotta som helst, så länge den har tillräckligt med våningar. Ju längre du kommer, desto fler våningar kommer grottorna att ha.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>En person att rädda på våning 2</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>Lås upp ett nytt rum i lobbyn</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>En person att rädda på våning 2</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>Lås upp ett nytt rum i lobbyn</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

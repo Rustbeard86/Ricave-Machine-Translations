@@ -2,20 +2,20 @@
 
   <AllIn.label>minden egy lapra</AllIn.label> <!-- <En>all in</En> -->
   <AllIn.description>Extra képességpontokkal kezdesz, de soha nem szerezhetsz többet.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
-  <AllIn.goodEffects>3 képességponttal kezdesz</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
-  <AllIn.badEffects>Nem szerezhetsz több képességpontot</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+  <AllIn.goodEffects><li>3 képességponttal kezdesz</li></AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects><li>Nem szerezhetsz több képességpontot</li></AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
 
   <Angel.label>angyal</Angel.label> <!-- <En>angel</En> -->
   <Angel.description>Képes leszel repülni és többet sebzel a Démonon, cserébe sebezhetőbb leszel a tűz-, méreg- és mágikus sebzésekre.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
 
   <Berserker.label_2>berzerker</Berserker.label_2> <!-- <En>berserker</En> -->
   <Berserker.description_2>Ideiglenesen többet sebzel minden érdemleges ölés után, de sebezhetőbbé is válsz.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
-  <Berserker.goodEffects>25%-kal több fizikai sebzés 6 körig egy érdemleges ölés után</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
-  <Berserker.badEffects>25%-kal több fizikai sebzést szenvedsz el 6 körig egy érdemleges ölés után</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.goodEffects><li>+25% fizikai sebzés 6 körre egy méltó ellenfél megölése után</li></Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects><li>+25% bekapott fizikai sebzés 6 körre egy méltó ellenfél megölése után</li></Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
 
   <BossHunter.label>főnök vadász</BossHunter.label> <!-- <En>boss hunter</En> -->
   <BossHunter.description>Többet sebzel minden főnökön, de azok ébren kezdenek.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
-  <BossHunter.badEffects>Minden főnök ébren kezd</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+  <BossHunter.badEffects><li>Minden főellenség ébren kezd</li></BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
 
   <Bulky.label>termetes</Bulky.label> <!-- <En>bulky</En> -->
   <Bulky.description>Több maximális ÉP-t kapsz szintenként, cserébe a mozgásod hangosabb lesz.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
@@ -37,20 +37,20 @@
 
   <MoleRat.label>vakondpatkány</MoleRat.label> <!-- <En>mole-rat</En> -->
   <MoleRat.description>Képes leszel ásni és kapsz némi elemi ellenállást, cserébe kevesebb maximális ÉP-t kapsz szintenként.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
-  <MoleRat.goodEffects>Tudsz ásni lapát nélkül</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+  <MoleRat.goodEffects><li>Áshatsz lapát nélkül</li></MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
 
   <NightOwl.label>éjjeli bagoly</NightOwl.label> <!-- <En>night owl</En> -->
   <NightOwl.description>Éjjel jobban látsz, de nappal rosszabbul.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
-  <NightOwl.goodEffects>+1 látótávolság 19:00-tól 7:00-ig</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
-  <NightOwl.badEffects>-1 látótávolság 7:00-tól 19:00-ig</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+  <NightOwl.goodEffects><li>+1 látótávolság 19:00 és 7:00 között</li></NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects><li>-1 látótávolság 7:00 és 19:00 között</li></NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
 
   <Pacifist.label_2>pacifista</Pacifist.label_2> <!-- <En>pacifist</En> -->
   <Pacifist.description>Minden bolti tárgy ingyenes és kétszer gyorsabban szintet lépsz, de minden érdemleges ölés 1 ÉP-be kerül.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
 
   <Scary.label>ijesztő</Scary.label> <!-- <En>scary</En> -->
   <Scary.description>Minden ellenség pánikba esik, ha felébreszted, cserébe magasabbak az árak, a kultuszok ellenségesek veled, és csökken a maximális állóképességed. Továbbá minden szellem követni fog és nem hagynak hátra zsákmányt.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
-  <Scary.goodEffects>Az ellenségek 3 körig pánikba esnek, ha felébreszted őket</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
-  <Scary.badEffects>A szellemek követnek és nem hagynak hátra zsákmányt</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+  <Scary.goodEffects><li>Az ellenfelek 3 körre pánikba esnek, ha te ébreszted fel őket</li></Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects><li>Szellemek követnek, és nem adnak zsákmányt</li></Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
 
   <Shaman.label>sámán</Shaman.label> <!-- <En>shaman</En> -->
   <Shaman.description>Minden érdemleges ölésért egy manapontot kapsz, cserébe kevesebb a tárhelyed.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->

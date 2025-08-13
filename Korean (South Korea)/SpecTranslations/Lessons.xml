@@ -7,8 +7,8 @@
   <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
 
   <ClimbingLadders.label>오르기</ClimbingLadders.label> <!-- <En>climbing</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd>다음 방으로 가서 사다리를 오르세요.\n\n사다리가 있는 타일로 걸어간 다음 [Fly] 키를 누른 상태에서 [MoveForward] 키를 눌러 올라가세요.\n\n또는 사다리를 클릭해도 됩니다.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd_2>다음 방으로 가서 사다리를 오르세요.\n\n사다리가 있는 타일로 걸어간 다음 [Fly] 키를 누른 상태에서 [MoveForward] 키를 눌러 올라가세요.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>다음 방으로 가서 사다리를 오르세요.\n\n사다리가 있는 타일로 걸어간 다음, [Fly] 키를 누른 상태에서 [MoveForward] 키를 눌러 올라가세요.\n\n또는, 사다리를 클릭하기만 해도 됩니다.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>다음 방으로 가서 사다리를 오르세요.\n\n사다리가 있는 타일로 걸어간 다음, [Fly] 키를 누른 상태에서 [MoveForward] 키를 눌러 올라가세요.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
   <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
 
   <DrinkingPotion.label>물약 마시기</DrinkingPotion.label> <!-- <En>drinking potions</En> -->

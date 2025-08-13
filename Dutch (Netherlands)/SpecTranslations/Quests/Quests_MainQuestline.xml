@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>Geheugenverlies</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>Vind het eerste Geheugenstuk op verdieping 3.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>Je bent je geheugen kwijt, maar er is iets dat je kan helpen herinneren wat er gebeurde voordat je hier kwam.\n\nVind het eerste Geheugenstuk op de derde verdieping.\n\nDit alles lijkt in het begin misschien uitdagend, maar met elke stap kom je dichter bij het ontsluiten van je vergeten herinneringen.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>Geheugenstuk op verdieping 3</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>Herinneringsstuk op verdieping 3</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>Geheugenverlies: Scheiding</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>Vind het tweede Geheugenstuk op verdieping 4.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>Je boekt vooruitgang. Langzaam begin je je te herinneren wat er is gebeurd - je ging wandelen met je vrienden. Tot je verbazing is Maya hier ook.\n\nHet vinden van het tweede Geheugenstuk zal je helpen herinneren wat er daarna gebeurde. Het zou in handen moeten zijn van de mini-baas op de 4e verdieping.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>Geheugenstuk op verdieping 4</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>Herinneringsstuk op verdieping 4</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>Geheugenverlies: Grot</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>Vind het derde Geheugenstuk op verdieping 6.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>Je begint je te herinneren wat er is gebeurd. Nadat je je van de groep had afgescheiden, stuitte je op een grot. Helaas gleed je uit en brak je je been. Maar wat gebeurde er daarna?\n\nVind het derde Geheugenstuk. Het zou zich ergens op de 6e verdieping moeten bevinden, en zorg ervoor dat je een touw meeneemt.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>Geheugenstuk op verdieping 6</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>Herinneringsstuk op verdieping 6</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>Geheugenverlies: Gered</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>Vind het laatste Geheugenstuk op verdieping 8.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>Je bent er bijna. Verrassend genoeg was het Maya die je in die grot vond. Je begrijpt echter nog steeds niet waarom je hier bent. Je hebt meer antwoorden nodig.\n\nVind het laatste Geheugenstuk. Het zou zich ergens op de 8e verdieping moeten bevinden in een gifval.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>Geheugenstuk op verdieping 8</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>Herinneringsstuk op verdieping 8</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>Redding</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>Red de vriend van Shadow op de 2e verdieping.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>Om meer informatie van de Shadow te krijgen, moet je eerst zijn vriend redden. Hij zit opgesloten in een kooi ergens op de tweede verdieping van deze kerker.\n\nLet op: je kunt missies in elke kerker voltooien, zolang deze maar genoeg verdiepingen heeft. Hoe verder je komt, hoe meer verdiepingen de kerkers zullen hebben.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>Een persoon om te redden op verdieping 2</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>Ontgrendel een nieuwe kamer in de lobby</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>Een persoon om te redden op verdieping 2</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>Ontgrendel een nieuwe kamer in de lobby</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

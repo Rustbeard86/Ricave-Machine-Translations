@@ -3,12 +3,12 @@
   <FindRelic.label>Relikt finden</FindRelic.label> <!-- <En>Find Relic</En> -->
   <FindRelic.description>Finde das antike Relikt auf Ebene 4.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
   <FindRelic.ThereAppearsToBeAnAgeold>Auf der 4. Ebene scheint es ein uraltes, geheimnisumwobenes Relikt zu geben. Geh und finde es.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
-  <FindRelic.dungeonModifiers>Relikt auf Ebene 4</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+  <FindRelic.dungeonModifiers><li>Relikt auf Ebene 4</li></FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
 
   <KillHypnorak.label>Töte Hypnorak</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
   <KillHypnorak.description>Töte Hypnorak – den Drachen-Miniboss auf Ebene 3.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
   <KillHypnorak.YourNextChallengeAwaits>Deine nächste Herausforderung erwartet dich auf der 3. Ebene, wo Hypnorak haust. Nimm deinen Mut zusammen und besiege ihn.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
-  <KillHypnorak.dungeonModifiers>Hypnorak auf Ebene 3</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+  <KillHypnorak.dungeonModifiers><li>Hypnorak auf Ebene 3</li></KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
 
   <KillMimics.label>Mimic-Jäger</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
   <KillMimics.description>Töte 10 Mimics.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
@@ -18,12 +18,12 @@
   <KillNightmareLord.label>Töte den Albtraumfürsten</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
   <KillNightmareLord.description>Töte den Albtraumfürsten – den Skelett-Miniboss auf Ebene 1.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
   <KillNightmareLord.YourMissionIsToConfront>Deine Mission ist es, dich dem finsteren Albtraumfürsten zu stellen – einer Skelett-Monstrosität. Glücklicherweise musst du nicht lange suchen, denn du findest sein Versteck auf der allerersten Ebene.\n\nBeachte, dass du diese Quest nur in Dungeons abschließen kannst, in denen es Minibosse gibt.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
-  <KillNightmareLord.dungeonModifiers>Albtraumfürst auf Ebene 1</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+  <KillNightmareLord.dungeonModifiers><li>Albtraumfürst auf Ebene 1</li></KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
 
   <KillPhantasmos.label>Töte Phantasmos</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
   <KillPhantasmos.description>Töte Phantasmos – den Mumien-Miniboss auf Ebene 4.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
   <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>Auf der 4. Ebene erwartet dich Phantasmos, eine in uralte Mysterien gehüllte Mumie. Dein Ziel ist es, ihn zu besiegen.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
-  <KillPhantasmos.dungeonModifiers>Phantasmos auf Ebene 4</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+  <KillPhantasmos.dungeonModifiers><li>Phantasmos auf Ebene 4</li></KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
 
   <KillSkeletons.label>Aufwärmen</KillSkeletons.label> <!-- <En>Warmup</En> -->
   <KillSkeletons.description>Töte 10 Skelette.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
@@ -38,16 +38,16 @@
   <MoonlightMedallions.label>Mondlichtmedaillons</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
   <MoonlightMedallions.description>Sammle 4 Mondlichtmedaillons auf Ebene 2.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
   <MoonlightMedallions.ThereAre4MoonlightMedallions>Auf der zweiten Ebene dieses Dungeons sind 4 Mondlichtmedaillons verstreut. Sammle sie alle, um ihre Bedeutung zu enthüllen.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
-  <MoonlightMedallions.dungeonModifiers>4 Mondlichtmedaillons auf Ebene 2</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+  <MoonlightMedallions.dungeonModifiers><li>4 Mondlichtmedaillons auf Ebene 2</li></MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
 
   <PhantomSwarm.label>Phantomschwarm</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
   <PhantomSwarm.description>Beende den Phantomaufruhr auf Ebene 3.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
   <PhantomSwarm.PhantomsHaveOverrunThe>Phantome haben die dritte Ebene überrannt. Setze dem ein Ende, indem du mindestens 3 von ihnen tötest.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
-  <PhantomSwarm.dungeonModifiers>Zusätzliche 3 Phantome auf Ebene 3</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+  <PhantomSwarm.dungeonModifiers><li>3 zusätzliche Phantome auf Ebene 3</li></PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
 
   <RatInfestation.label>Rattenplage</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
   <RatInfestation.description>Kümmere dich um die Rattenplage auf Ebene 2.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
   <RatInfestation.RatsEverywhereYouHave>Überall Ratten! Du musst dieses lästige Problem lösen und dich um die Rattenplage auf der zweiten Ebene kümmern. Um diese Quest abzuschließen, musst du dort mindestens 5 Ratten töten. Warnung: Wenn du diese Quest annimmst, erscheinen mehr Ratten auf der zweiten Ebene.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
-  <RatInfestation.dungeonModifiers>Zusätzliche 5 Ratten auf Ebene 2</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+  <RatInfestation.dungeonModifiers><li>5 zusätzliche Ratten auf Ebene 2</li></RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
 
 </SpecTranslations>

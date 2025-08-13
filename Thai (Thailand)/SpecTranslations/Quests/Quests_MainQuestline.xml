@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>ความทรงจำที่หายไป</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>ค้นหาชิ้นส่วนความทรงจำชิ้นแรกบนชั้นที่ 3</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>คุณสูญเสียความทรงจำไป แต่มีบางสิ่งที่สามารถช่วยให้คุณจำเรื่องราวที่เกิดขึ้นก่อนจะมาถึงที่นี่ได้\n\nค้นหาชิ้นส่วนความทรงจำชิ้นแรกบนชั้นที่สาม\n\nทั้งหมดนี้อาจดูท้าทายในตอนแรก แต่ในแต่ละก้าว คุณจะเข้าใกล้การปลดล็อกความทรงจำที่ลืมเลือนไปมากขึ้น</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>ชิ้นส่วนความทรงจำบนชั้นที่ 3</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>ชิ้นส่วนความทรงจำที่ชั้น 3</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>ความทรงจำที่หายไป: การแยกจาก</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>ค้นหาชิ้นส่วนความทรงจำชิ้นที่สองบนชั้นที่ 4</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>คุณกำลังมีความคืบหน้า คุณเริ่มจำเรื่องราวที่เกิดขึ้นได้ช้าๆ - คุณไปเดินป่ากับเพื่อนๆ และที่น่าประหลาดใจคือมายาก็อยู่ที่นี่ด้วย\n\nการค้นหาชิ้นส่วนความทรงจำชิ้นที่สองจะช่วยให้คุณจำได้ว่าเกิดอะไรขึ้นต่อไป มันน่าจะอยู่ในมือของมินิบอสบนชั้นที่ 4</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>ชิ้นส่วนความทรงจำบนชั้นที่ 4</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>ชิ้นส่วนความทรงจำที่ชั้น 4</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>ความทรงจำที่หายไป: ถ้ำ</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>ค้นหาชิ้นส่วนความทรงจำชิ้นที่สามบนชั้นที่ 6</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>คุณเริ่มจำเรื่องราวที่เกิดขึ้นได้แล้ว หลังจากแยกจากกลุ่มของคุณ คุณบังเอิญไปเจอถ้ำแห่งหนึ่ง โชคร้ายที่คุณลื่นล้มจนขาหัก แต่เกิดอะไรขึ้นต่อไป?\n\nค้นหาชิ้นส่วนความทรงจำชิ้นที่สาม มันน่าจะอยู่ที่ไหนสักแห่งบนชั้นที่ 6 และอย่าลืมเอาเชือกไปด้วย</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>ชิ้นส่วนความทรงจำบนชั้นที่ 6</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>ชิ้นส่วนความทรงจำที่ชั้น 6</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>ความทรงจำที่หายไป: ได้รับการช่วยเหลือ</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>ค้นหาชิ้นส่วนความทรงจำชิ้นสุดท้ายบนชั้นที่ 8</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>คุณใกล้จะสำเร็จแล้ว น่าประหลาดใจที่มายาเป็นคนพบคุณในถ้ำนั้น แต่คุณก็ยังไม่เข้าใจว่าทำไมคุณถึงมาอยู่ที่นี่ คุณต้องการคำตอบมากกว่านี้\n\nค้นหาชิ้นส่วนความทรงจำชิ้นสุดท้าย มันน่าจะอยู่ที่ไหนสักแห่งบนชั้นที่ 8 ในกับดักพิษ</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>ชิ้นส่วนความทรงจำบนชั้นที่ 8</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>ชิ้นส่วนความทรงจำที่ชั้น 8</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>ช่วยเหลือ</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>ช่วยเหลือเพื่อนของ Shadow บนชั้นที่ 2</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>หากต้องการข้อมูลเพิ่มเติมจาก Shadow คุณต้องช่วยเหลือเพื่อนของเขาก่อน เขาถูกขังอยู่ในกรงที่ไหนสักแห่งบนชั้นสองของดันเจี้ยนนี้\n\nโปรดทราบว่าคุณสามารถทำเควสต์ในดันเจี้ยนใดก็ได้ ตราบใดที่มันมีจำนวนชั้นเพียงพอ ยิ่งคุณไปไกลเท่าไหร่ ดันเจี้ยนก็จะยิ่งมีชั้นมากขึ้นเท่านั้น</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>บุคคลที่ต้องช่วยเหลือบนชั้นที่ 2</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>ปลดล็อกห้องใหม่ในล็อบบี้</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>บุคคลที่ต้องช่วยเหลือที่ชั้น 2</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>ปลดล็อกห้องใหม่ในล็อบบี้</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

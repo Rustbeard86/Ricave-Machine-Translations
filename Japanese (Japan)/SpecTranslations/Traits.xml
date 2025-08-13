@@ -2,20 +2,20 @@
 
   <AllIn.label>オールイン</AllIn.label> <!-- <En>all in</En> -->
   <AllIn.description>追加のスキルポイントを持って開始するが、それ以降はスキルポイントを一切獲得できなくなる。</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
-  <AllIn.goodEffects>スキルポイント3で開始</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
-  <AllIn.badEffects>追加のスキルポイントを獲得できない</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+  <AllIn.goodEffects><li>スキルポイント3で開始</li></AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects><li>これ以上スキルポイントを獲得できない</li></AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
 
   <Angel.label>天使</Angel.label> <!-- <En>angel</En> -->
   <Angel.description>飛行能力を得て、悪魔に対してより多くのダメージを与えることができるようになる。その代償として、火、毒、魔法ダメージに対して脆弱になる。</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
 
   <Berserker.label_2>バーサーカー</Berserker.label_2> <!-- <En>berserker</En> -->
   <Berserker.description_2>価値あるキルを達成するたびに一時的に与えるダメージが増加するが、同時に自身もより脆弱になる。</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
-  <Berserker.goodEffects>価値あるキル後、6ターンの間、物理ダメージが25%増加</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
-  <Berserker.badEffects>価値あるキル後、6ターンの間、受ける物理ダメージが25%増加</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.goodEffects><li>強敵を倒した後、6ターンの間、与える物理ダメージが25%増加</li></Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects><li>強敵を倒した後、6ターンの間、受ける物理ダメージが25%増加</li></Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
 
   <BossHunter.label>ボスハンター</BossHunter.label> <!-- <En>boss hunter</En> -->
   <BossHunter.description>すべてのボスに対して与えるダメージが増加するが、ボスは最初から覚醒状態で出現する。</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
-  <BossHunter.badEffects>すべてのボスが最初から覚醒状態で出現</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+  <BossHunter.badEffects><li>すべてのボスが最初から目覚めている</li></BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
 
   <Bulky.label>大柄</Bulky.label> <!-- <En>bulky</En> -->
   <Bulky.description>レベルアップごとにより多くの最大HPを得るが、その代償として移動音が大きくなる。</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
@@ -37,20 +37,20 @@
 
   <MoleRat.label>モグラネズミ</MoleRat.label> <!-- <En>mole-rat</En> -->
   <MoleRat.description>掘ることが可能になり、ある程度の属性耐性を得る。その代償として、レベルアップごとに得られる最大HPが少なくなる。</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
-  <MoleRat.goodEffects>シャベルなしで掘れる</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+  <MoleRat.goodEffects><li>シャベルなしで掘ることができる</li></MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
 
   <NightOwl.label>夜型</NightOwl.label> <!-- <En>night owl</En> -->
   <NightOwl.description>夜間の視界が良くなるが、日中の視界が悪くなる。</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
-  <NightOwl.goodEffects>19:00から7:00まで視界範囲+1</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
-  <NightOwl.badEffects>7:00から19:00まで視界範囲-1</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+  <NightOwl.goodEffects><li>19:00から7:00の間、視界範囲+1</li></NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects><li>7:00から19:00の間、視界範囲-1</li></NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
 
   <Pacifist.label_2>平和主義者</Pacifist.label_2> <!-- <En>pacifist</En> -->
   <Pacifist.description>すべてのショップアイテムが無料になり、レベルアップ速度が2倍になるが、価値あるキルを達成するたびにHPを1失う。</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
 
   <Scary.label>恐ろしげ</Scary.label> <!-- <En>scary</En> -->
   <Scary.description>あなたによって目覚めたすべての敵はパニック状態になる。その代償として、物価の上昇、カルト教団からの敵対、最大スタミナの減少を伴う。さらに、すべてのゴーストがあなたを追跡し、戦利品をドロップしなくなる。</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
-  <Scary.goodEffects>あなたによって目覚めた敵は3ターンの間パニック状態になる</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
-  <Scary.badEffects>ゴーストがあなたを追跡し、戦利品をドロップしない</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+  <Scary.goodEffects><li>自分が目覚めさせた敵は3ターンの間パニックに陥る</li></Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects><li>ゴーストが付きまとい、戦利品をドロップしない</li></Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
 
   <Shaman.label>シャーマン</Shaman.label> <!-- <En>shaman</En> -->
   <Shaman.description>価値あるキルを達成するたびにマナポイントを1得るが、その代償としてインベントリのスロット数が少なくなる。</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->

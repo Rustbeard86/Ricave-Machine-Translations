@@ -7,8 +7,8 @@
   <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
 
   <ClimbingLadders.label>はしごを登る</ClimbingLadders.label> <!-- <En>climbing</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd>次の部屋へ行き、はしごを登りましょう。\n\nはしごのあるタイルまで歩き、[Fly]キーを押しながら[MoveForward]キーを押すと上に登れます。\n\nまたは、はしごをクリックするだけでも登れます。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd_2>次の部屋へ行き、はしごを登りましょう。\n\nはしごのあるタイルまで歩き、[Fly]キーを押しながら[MoveForward]キーを押すと上に登れます。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>次の部屋に行き、はしごを登ってください。\n\nはしごのあるタイルまで歩いて行き、[Fly]を押しながら[MoveForward]を押すと登ることができます。\n\nまたは、はしごをクリックするだけでも登れます。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>次の部屋に行き、はしごを登ってください。\n\nはしごのあるタイルまで歩いて行き、[Fly]を押しながら[MoveForward]を押すと登ることができます。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
   <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
 
   <DrinkingPotion.label>ポーションを飲む</DrinkingPotion.label> <!-- <En>drinking potions</En> -->

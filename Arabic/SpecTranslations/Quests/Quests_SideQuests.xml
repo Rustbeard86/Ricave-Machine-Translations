@@ -3,12 +3,12 @@
   <FindRelic.label>العثور على الأثر</FindRelic.label> <!-- <En>Find Relic</En> -->
   <FindRelic.description>اعثر على الأثر القديم في الطابق الرابع.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
   <FindRelic.ThereAppearsToBeAnAgeold>يبدو أن هناك أثرًا عتيقًا يكتنفه الغموض في مكان ما في الطابق الرابع. اذهب واعثر عليه.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
-  <FindRelic.dungeonModifiers>أثر في الطابق الرابع</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+  <FindRelic.dungeonModifiers><li>قطعة أثرية في الطابق 4</li></FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
 
   <KillHypnorak.label>اقتل هيبنوراك</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
   <KillHypnorak.description>اقتل هيبنوراك - الزعيم التنين الصغير في الطابق الثالث.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
   <KillHypnorak.YourNextChallengeAwaits>تحديك القادم ينتظرك في الطابق الثالث، حيث يقيم هيبنوراك. استجمع شجاعتك واهزمه.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
-  <KillHypnorak.dungeonModifiers>هيبنوراك في الطابق الثالث</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+  <KillHypnorak.dungeonModifiers><li>هيبنوراك في الطابق 3</li></KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
 
   <KillMimics.label>صائد المقلِّدات</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
   <KillMimics.description>اقتل 10 مقلِّدات.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
@@ -18,12 +18,12 @@
   <KillNightmareLord.label>اقتل سيد الكوابيس</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
   <KillNightmareLord.description>اقتل سيد الكوابيس - الزعيم الهيكلي الصغير في الطابق الأول.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
   <KillNightmareLord.YourMissionIsToConfront>مهمتك هي مواجهة سيد الكوابيس الشرير - وحش هيكلي مروع. لحسن الحظ، لن تضطر للبحث بعيدًا، حيث يمكنك العثور على عرينه في الطابق الأول.\n\nملاحظة: يمكنك إكمال هذه المهمة فقط في السراديب التي تحتوي على زعماء صغار.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
-  <KillNightmareLord.dungeonModifiers>سيد الكوابيس في الطابق الأول</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+  <KillNightmareLord.dungeonModifiers><li>سيد الكوابيس في الطابق 1</li></KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
 
   <KillPhantasmos.label>اقتل فانتاسموس</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
   <KillPhantasmos.description>اقتل فانتاسموس - زعيم المومياء الصغير في الطابق الرابع.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
   <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>في الطابق الرابع ينتظرك فانتاسموس، مومياء ملفوفة بأسرار قديمة. هدفك هو هزيمته.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
-  <KillPhantasmos.dungeonModifiers>فانتاسموس في الطابق الرابع</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+  <KillPhantasmos.dungeonModifiers><li>فانتاسموس في الطابق 4</li></KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
 
   <KillSkeletons.label>إحماء</KillSkeletons.label> <!-- <En>Warmup</En> -->
   <KillSkeletons.description>اقتل 10 هياكل عظمية.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
@@ -38,16 +38,16 @@
   <MoonlightMedallions.label>ميداليات ضوء القمر</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
   <MoonlightMedallions.description>اجمع 4 ميداليات ضوء القمر في الطابق الثاني.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
   <MoonlightMedallions.ThereAre4MoonlightMedallions>هناك 4 ميداليات ضوء قمر متناثرة في الطابق الثاني من هذا السرداب. اجمعها كلها لكشف معناها.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
-  <MoonlightMedallions.dungeonModifiers>4 ميداليات ضوء قمر في الطابق الثاني</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+  <MoonlightMedallions.dungeonModifiers><li>4 ميداليات ضوء القمر في الطابق 2</li></MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
 
   <PhantomSwarm.label>سرب الأشباح</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
   <PhantomSwarm.description>أخمد اضطراب الأشباح في الطابق الثالث.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
   <PhantomSwarm.PhantomsHaveOverrunThe>لقد اجتاحت الأشباح الطابق الثالث. ضع حداً لذلك بقتل 3 منهم على الأقل.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
-  <PhantomSwarm.dungeonModifiers>3 أشباح إضافية في الطابق الثالث</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+  <PhantomSwarm.dungeonModifiers><li>3 أشباح إضافية في الطابق 3</li></PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
 
   <RatInfestation.label>اجتياح الفئران</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
   <RatInfestation.description>تعامل مع اجتياح الفئران في الطابق الثاني.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
   <RatInfestation.RatsEverywhereYouHave>فئران في كل مكان! عليك حل هذه المشكلة المزعجة والتعامل مع اجتياح الفئران في الطابق الثاني. لإكمال هذه المهمة، سيتعين عليك قتل 5 فئران على الأقل هناك. تحذير: قبول هذه المهمة يعني ظهور المزيد من الفئران في الطابق الثاني.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
-  <RatInfestation.dungeonModifiers>5 فئران إضافية في الطابق الثاني</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+  <RatInfestation.dungeonModifiers><li>5 فئران إضافية في الطابق 2</li></RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
 
 </SpecTranslations>

@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>Mất trí nhớ</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>Tìm Mảnh Ký Ức đầu tiên ở tầng 3.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>Bạn đã mất trí nhớ, nhưng có một thứ có thể giúp bạn nhớ lại những gì đã xảy ra trước khi đến đây.\n\nTìm Mảnh Ký Ức đầu tiên ở tầng thứ ba.\n\nTất cả những điều này ban đầu có vẻ khó khăn, nhưng với mỗi bước đi, bạn sẽ tiến gần hơn đến việc mở khóa những ký ức đã quên.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>Mảnh Ký Ức ở tầng 3</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>Mảnh Ký Ức ở tầng 3</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>Mất trí nhớ: Chia cắt</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>Tìm Mảnh Ký Ức thứ hai ở tầng 4.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>Bạn đang có tiến triển. Bạn dần nhớ ra chuyện gì đã xảy ra - bạn đã đi leo núi cùng bạn bè. Thật ngạc nhiên, Maya cũng ở đây.\n\nTìm Mảnh Ký Ức thứ hai sẽ giúp bạn nhớ lại những gì xảy ra tiếp theo. Nó có lẽ đang nằm trong tay của tiểu trùm ở tầng thứ 4.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>Mảnh Ký Ức ở tầng 4</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>Mảnh Ký Ức ở tầng 4</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>Mất trí nhớ: Hang động</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>Tìm Mảnh Ký Ức thứ ba ở tầng 6.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>Bạn bắt đầu nhớ ra chuyện gì đã xảy ra. Sau khi tách khỏi nhóm, bạn tình cờ phát hiện ra một hang động. Thật không may, bạn đã trượt chân và bị gãy chân. Nhưng chuyện gì đã xảy ra tiếp theo?\n\nTìm Mảnh Ký Ức thứ ba. Nó có lẽ nằm ở đâu đó trên tầng thứ 6, và hãy nhớ mang theo một sợi dây thừng.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>Mảnh Ký Ức ở tầng 6</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>Mảnh Ký Ức ở tầng 6</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>Mất trí nhớ: Được cứu</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>Tìm Mảnh Ký Ức cuối cùng ở tầng 8.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>Bạn gần đến đích rồi. Thật bất ngờ, chính Maya là người đã tìm thấy bạn trong hang động đó. Tuy nhiên, bạn vẫn không hiểu tại sao mình lại ở đây. Bạn cần thêm câu trả lời.\n\nTìm Mảnh Ký Ức cuối cùng. Nó có lẽ nằm ở đâu đó trên tầng thứ 8 trong một cái bẫy độc.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>Mảnh Ký Ức ở tầng 8</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>Mảnh Ký Ức ở tầng 8</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>Giải cứu</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>Giải cứu bạn của Shadow ở tầng thứ 2.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>Để có thêm thông tin từ Shadow, trước tiên bạn phải giải cứu bạn của anh ấy. Anh ta bị nhốt trong một cái lồng ở đâu đó trên tầng thứ hai của hầm ngục này.\n\nLưu ý rằng bạn có thể hoàn thành nhiệm vụ ở bất kỳ hầm ngục nào, miễn là nó có đủ tầng. Bạn càng đi xa, hầm ngục sẽ có càng nhiều tầng.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>Một người cần giải cứu ở tầng 2</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>Mở khóa một căn phòng mới trong sảnh</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>Người cần giải cứu ở tầng 2</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>Mở khóa một căn phòng mới trong sảnh</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

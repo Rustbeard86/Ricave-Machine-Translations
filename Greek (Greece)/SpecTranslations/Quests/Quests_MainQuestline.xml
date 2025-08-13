@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>Απώλεια Μνήμης</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>Βρες το πρώτο Κομμάτι Μνήμης στον 3ο όροφο.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>Έχεις χάσει τη μνήμη σου, αλλά υπάρχει κάτι που μπορεί να σε βοηθήσει να θυμηθείς τι συνέβη πριν φτάσεις εδώ.\n\nΒρες το πρώτο Κομμάτι Μνήμης στον τρίτο όροφο.\n\nΌλα αυτά μπορεί να φαίνονται δύσκολα στην αρχή, αλλά με κάθε βήμα, θα πλησιάζεις όλο και περισσότερο στο να ξεκλειδώσεις τις ξεχασμένες σου αναμνήσεις.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>Κομμάτι Μνήμης στον 3ο όροφο</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>Κομμάτι Μνήμης στον όροφο 3</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>Απώλεια Μνήμης: Χωρισμός</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>Βρες το δεύτερο Κομμάτι Μνήμης στον 4ο όροφο.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>Κάνεις πρόοδο. Σιγά-σιγά αρχίζεις να θυμάσαι τι συνέβη - πήγες για πεζοπορία με τους φίλους σου. Προς έκπληξή σου, η Μάγια είναι κι αυτή εδώ.\n\nΗ εύρεση του δεύτερου Κομματιού Μνήμης θα σε βοηθήσει να θυμηθείς τι συνέβη μετά. Θα πρέπει να βρίσκεται στα χέρια του mini-boss στον 4ο όροφο.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>Κομμάτι Μνήμης στον 4ο όροφο</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>Κομμάτι Μνήμης στον όροφο 4</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>Απώλεια Μνήμης: Σπηλιά</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>Βρες το τρίτο Κομμάτι Μνήμης στον 6ο όροφο.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>Αρχίζεις να θυμάσαι τι συνέβη. Αφού χωρίστηκες από την ομάδα σου, έπεσες πάνω σε μια σπηλιά. Δυστυχώς, γλίστρησες και έσπασες το πόδι σου. Αλλά τι συνέβη μετά;\n\nΒρες το τρίτο Κομμάτι Μνήμης. Θα πρέπει να βρίσκεται κάπου στον 6ο όροφο, και φρόντισε να πάρεις ένα σχοινί μαζί σου.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>Κομμάτι Μνήμης στον 6ο όροφο</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>Κομμάτι Μνήμης στον όροφο 6</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>Απώλεια Μνήμης: Διάσωση</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>Βρες το τελευταίο Κομμάτι Μνήμης στον 8ο όροφο.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>Σχεδόν έφτασες. Παραδόξως, ήταν η Μάγια που σε βρήκε σε εκείνη τη σπηλιά. Ωστόσο, ακόμα δεν καταλαβαίνεις γιατί είσαι εδώ. Χρειάζεσαι περισσότερες απαντήσεις.\n\nΒρες το τελευταίο Κομμάτι Μνήμης. Θα πρέπει να βρίσκεται κάπου στον 8ο όροφο, σε μια παγίδα δηλητηρίου.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>Κομμάτι Μνήμης στον 8ο όροφο</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>Κομμάτι Μνήμης στον όροφο 8</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>Διάσωση</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>Διάσωσε τον φίλο του Shadow στον 2ο όροφο.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>Για να πάρεις περισσότερες πληροφορίες από τον Shadow, πρέπει πρώτα να διασώσεις τον φίλο του. Είναι κλειδωμένος σε ένα κλουβί κάπου στον δεύτερο όροφο αυτού του μπουντρουμιού.\n\nΣημείωσε ότι μπορείς να ολοκληρώσεις αποστολές σε οποιοδήποτε μπουντρούμι, εφόσον έχει αρκετούς ορόφους. Όσο πιο μακριά πας, τόσο περισσότερους ορόφους θα έχουν τα μπουντρούμια.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>Ένα άτομο για διάσωση στον 2ο όροφο</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>Ξεκλείδωμα ενός νέου δωματίου στο λόμπι</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>Ένα άτομο προς διάσωση στον όροφο 2</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>Ξεκλείδωμα ενός νέου δωματίου στο λόμπι</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

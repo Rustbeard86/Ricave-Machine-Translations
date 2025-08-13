@@ -3,12 +3,12 @@
   <FindRelic.label>Tìm Thánh Tích</FindRelic.label> <!-- <En>Find Relic</En> -->
   <FindRelic.description>Tìm Thánh Tích cổ xưa ở tầng 4.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
   <FindRelic.ThereAppearsToBeAnAgeold>Dường như có một thánh tích cổ xưa bị bao phủ trong bí ẩn ở đâu đó trên tầng 4. Hãy đi và tìm nó.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
-  <FindRelic.dungeonModifiers>Thánh Tích ở tầng 4</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+  <FindRelic.dungeonModifiers><li>Cổ vật ở tầng 4</li></FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
 
   <KillHypnorak.label>Tiêu diệt Hypnorak</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
   <KillHypnorak.description>Tiêu diệt Hypnorak - tiểu trùm rồng ở tầng 3.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
   <KillHypnorak.YourNextChallengeAwaits>Thử thách tiếp theo đang chờ bạn ở tầng 3, nơi Hypnorak ngự trị. Hãy vận dụng lòng dũng cảm của bạn và đánh bại hắn.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
-  <KillHypnorak.dungeonModifiers>Hypnorak ở tầng 3</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+  <KillHypnorak.dungeonModifiers><li>Hypnorak ở tầng 3</li></KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
 
   <KillMimics.label>Thợ Săn Mimic</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
   <KillMimics.description>Tiêu diệt 10 mimic.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
@@ -18,12 +18,12 @@
   <KillNightmareLord.label>Tiêu diệt Chúa Tể Ác Mộng</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
   <KillNightmareLord.description>Tiêu diệt Chúa Tể Ác Mộng - tiểu trùm bộ xương ở tầng 1.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
   <KillNightmareLord.YourMissionIsToConfront>Nhiệm vụ của bạn là đối đầu với Chúa Tể Ác Mộng độc ác - một con quái vật xương xẩu. May mắn thay, bạn không phải tìm đâu xa, vì bạn có thể tìm thấy hang ổ của hắn ngay trên tầng đầu tiên.\n\nLưu ý rằng bạn chỉ có thể hoàn thành nhiệm vụ này trong các hầm ngục có tiểu trùm.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
-  <KillNightmareLord.dungeonModifiers>Chúa Tể Ác Mộng ở tầng 1</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+  <KillNightmareLord.dungeonModifiers><li>Chúa tể Ác mộng ở tầng 1</li></KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
 
   <KillPhantasmos.label>Tiêu diệt Phantasmos</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
   <KillPhantasmos.description>Tiêu diệt Phantasmos - tiểu trùm xác ướp ở tầng 4.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
   <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>Ở tầng 4, Phantasmos đang chờ đợi, một xác ướp được bao bọc trong những bí ẩn cổ xưa. Mục tiêu của bạn là đánh bại hắn.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
-  <KillPhantasmos.dungeonModifiers>Phantasmos ở tầng 4</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+  <KillPhantasmos.dungeonModifiers><li>Phantasmos ở tầng 4</li></KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
 
   <KillSkeletons.label>Khởi động</KillSkeletons.label> <!-- <En>Warmup</En> -->
   <KillSkeletons.description>Tiêu diệt 10 bộ xương.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
@@ -38,16 +38,16 @@
   <MoonlightMedallions.label>Mề Đay Ánh Trăng</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
   <MoonlightMedallions.description>Thu thập 4 Mề Đay Ánh Trăng ở tầng 2.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
   <MoonlightMedallions.ThereAre4MoonlightMedallions>Có 4 Mề Đay Ánh Trăng rải rác ở tầng hai của hầm ngục này. Hãy thu thập tất cả chúng để khám phá ý nghĩa của chúng.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
-  <MoonlightMedallions.dungeonModifiers>4 Mề Đay Ánh Trăng ở tầng 2</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+  <MoonlightMedallions.dungeonModifiers><li>4 Huy chương Ánh trăng ở tầng 2</li></MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
 
   <PhantomSwarm.label>Bầy Ma Ảnh</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
   <PhantomSwarm.description>Dẹp loạn ma ảnh ở tầng 3.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
   <PhantomSwarm.PhantomsHaveOverrunThe>Ma ảnh đã tràn ngập tầng ba. Hãy chấm dứt chuyện này bằng cách tiêu diệt ít nhất 3 con trong số chúng.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
-  <PhantomSwarm.dungeonModifiers>Thêm 3 ma ảnh ở tầng 3</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+  <PhantomSwarm.dungeonModifiers><li>Thêm 3 bóng ma ở tầng 3</li></PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
 
   <RatInfestation.label>Chuột Phá Hoại</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
   <RatInfestation.description>Xử lý lũ chuột phá hoại ở tầng 2.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
   <RatInfestation.RatsEverywhereYouHave>Chuột ở khắp mọi nơi! Bạn phải giải quyết vấn đề phiền toái này và xử lý lũ chuột phá hoại ở tầng hai. Để hoàn thành nhiệm vụ này, bạn sẽ phải tiêu diệt ít nhất 5 con chuột ở đó. Cảnh báo: Chấp nhận nhiệm vụ này có nghĩa là sẽ có thêm nhiều chuột xuất hiện ở tầng hai.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
-  <RatInfestation.dungeonModifiers>Thêm 5 con chuột ở tầng 2</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+  <RatInfestation.dungeonModifiers><li>Thêm 5 con chuột ở tầng 2</li></RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
 
 </SpecTranslations>

@@ -2,20 +2,20 @@
 
   <AllIn.label>chơi tất tay</AllIn.label> <!-- <En>all in</En> -->
   <AllIn.description>Bắt đầu với thêm điểm kỹ năng, nhưng bạn không bao giờ có thể nhận thêm được nữa.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
-  <AllIn.goodEffects>Bắt đầu với 3 điểm kỹ năng</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
-  <AllIn.badEffects>Không thể nhận thêm điểm kỹ năng</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+  <AllIn.goodEffects><li>Bắt đầu với 3 điểm kỹ năng</li></AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects><li>Không thể nhận thêm điểm kỹ năng</li></AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
 
   <Angel.label>thiên thần</Angel.label> <!-- <En>angel</En> -->
   <Angel.description>Có thể bay và gây thêm sát thương lên Quỷ nhưng sẽ yếu hơn trước sát thương lửa, độc, và phép thuật.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
 
   <Berserker.label_2>chiến binh cuồng nộ</Berserker.label_2> <!-- <En>berserker</En> -->
   <Berserker.description_2>Tạm thời gây thêm sát thương sau mỗi lần tiêu diệt kẻ địch xứng đáng, nhưng cũng trở nên dễ bị tổn thương hơn.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
-  <Berserker.goodEffects>Gây thêm 25% sát thương vật lý trong 6 lượt sau khi tiêu diệt kẻ địch xứng đáng</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
-  <Berserker.badEffects>Nhận thêm 25% sát thương vật lý trong 6 lượt sau khi tiêu diệt kẻ địch xứng đáng</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.goodEffects><li>Gây thêm 25% sát thương vật lý trong 6 lượt sau khi hạ gục một kẻ địch xứng đáng</li></Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects><li>Nhận thêm 25% sát thương vật lý trong 6 lượt sau khi hạ gục một kẻ địch xứng đáng</li></Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
 
   <BossHunter.label>thợ săn trùm</BossHunter.label> <!-- <En>boss hunter</En> -->
   <BossHunter.description>Gây thêm sát thương lên tất cả trùm, nhưng chúng sẽ thức giấc ngay từ đầu.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
-  <BossHunter.badEffects>Tất cả trùm đều thức giấc ngay từ đầu</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+  <BossHunter.badEffects><li>Mọi con trùm đều thức giấc khi bắt đầu</li></BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
 
   <Bulky.label>cồng kềnh</Bulky.label> <!-- <En>bulky</En> -->
   <Bulky.description>Nhận thêm máu tối đa mỗi cấp độ, đổi lại di chuyển sẽ gây ra tiếng động lớn hơn.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
@@ -37,20 +37,20 @@
 
   <MoleRat.label>chuột chũi</MoleRat.label> <!-- <En>mole-rat</En> -->
   <MoleRat.description>Có thể đào và nhận một chút kháng nguyên tố, đổi lại sẽ nhận được ít máu tối đa hơn mỗi cấp độ.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
-  <MoleRat.goodEffects>Có thể đào mà không cần xẻng</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+  <MoleRat.goodEffects><li>Có thể đào mà không cần xẻng</li></MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
 
   <NightOwl.label>cú đêm</NightOwl.label> <!-- <En>night owl</En> -->
   <NightOwl.description>Nhìn rõ hơn vào ban đêm, nhưng kém hơn vào ban ngày.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
-  <NightOwl.goodEffects>+1 tầm nhìn từ 19:00 đến 7:00</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
-  <NightOwl.badEffects>-1 tầm nhìn từ 7:00 đến 19:00</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+  <NightOwl.goodEffects><li>+1 tầm nhìn từ 19:00 đến 7:00</li></NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects><li>-1 tầm nhìn từ 7:00 đến 19:00</li></NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
 
   <Pacifist.label_2>người theo chủ nghĩa hòa bình</Pacifist.label_2> <!-- <En>pacifist</En> -->
   <Pacifist.description>Tất cả vật phẩm trong cửa hàng đều miễn phí và bạn lên cấp nhanh gấp đôi, nhưng mỗi lần tiêu diệt kẻ địch xứng đáng sẽ khiến bạn mất 1 Máu.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
 
   <Scary.label>đáng sợ</Scary.label> <!-- <En>scary</En> -->
   <Scary.description>Tất cả kẻ địch sẽ hoảng loạn nếu bị bạn đánh thức, đổi lại giá cả sẽ cao hơn, các giáo phái sẽ thù địch với bạn, và thể lực tối đa bị giảm. Ngoài ra, tất cả ma sẽ đi theo bạn và không rơi ra chiến lợi phẩm.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
-  <Scary.goodEffects>Kẻ địch hoảng loạn trong 3 lượt nếu bị bạn đánh thức</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
-  <Scary.badEffects>Ma đi theo bạn và không rơi ra chiến lợi phẩm</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+  <Scary.goodEffects><li>Kẻ địch hoảng loạn trong 3 lượt nếu bị bạn đánh thức</li></Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects><li>Hồn ma theo bạn và không rơi đồ</li></Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
 
   <Shaman.label>pháp sư</Shaman.label> <!-- <En>shaman</En> -->
   <Shaman.description>Nhận một điểm năng lượng cho mỗi lần tiêu diệt kẻ địch xứng đáng, đổi lại sẽ có ít ô chứa đồ hơn.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
