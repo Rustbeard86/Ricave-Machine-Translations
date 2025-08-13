@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>närmar sig och attackerar, backar sedan för att undvika att bli träffad</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>attackerar, flyr sedan i 8 rundor om den inte är inträngd i ett hörn</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>närmar sig inte först men stannar kvar när den blir närmad</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>flyr alltid</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>håller avstånd om den inte är inträngd i ett hörn</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>håller avstånd om den inte är inträngd i ett hörn eller saknar vapen</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>följer spelaren och attackerar (gruppmedlem)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>följer spelaren och attackerar när tillfälle ges</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>närmar sig och attackerar</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>står stilla eller flyr om den attackeras</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>står stilla</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>står stilla och helar allierade</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>står stilla eller flyr om den attackeras</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>stjäl och springer sedan iväg</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

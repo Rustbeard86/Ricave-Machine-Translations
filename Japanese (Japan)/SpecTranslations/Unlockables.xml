@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>イェルドンのお守り</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>イェルドンのお守りを持ってスタートする。装備者は死んでしまう瞬間に一度だけ体力が全回復し、さらに近くにいる敵が全滅する。これは一回限りのボーナスで、次の冒険にのみ適用される。</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>体力ポーション</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>インベントリに体力ポーションを1つ追加した状態でスタートする。これは一回限りのボーナスで、次の冒険にのみ適用される。</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>巻物</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>インベントリにランダムな巻物を1つ持った状態でスタートする。これは一回限りのボーナスで、次の冒険にのみ適用される。</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>盾</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>インベントリに盾を持った状態でスタートする。敵の攻撃をブロックできるようになる。</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>次の冒険から盾がアンロックされました！敵の攻撃をブロックするのに使えます。\n\n遠距離攻撃をしてくる敵に対して特に有効で、ダメージを受けずに安全に近づくことができます。\n\n敵の攻撃をブロックしながら同時に攻撃することはできません。その場合、効果はキャンセルされます。\n\n盾の使用は疲れるため、スタミナを消費します。</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>槍</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>インベントリに槍を1本追加した状態でスタートする。敵に投げつけたり、罠を作動させたりするのに使える。</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>次の冒険から槍がアンロックされました！遠くから敵を攻撃したり、罠を作動させたりするのに使えます。\n\n敵がトゲの下や壁に取り付けられた大砲の横を歩くのを待ち、罠に槍を投げて作動させましょう。\n\n槍を投げるのは疲れるため、スタミナを消費します。スタミナは空腹でない限り自動的に回復します。</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>剣</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>インベントリに剣を持った状態でスタートする。これは一回限りのボーナスで、次の冒険にのみ適用される。</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>懐中時計</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>インベントリに懐中時計を持った状態でスタートする。時間を巻き戻すことができるようになる。</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>次の冒険から魔法の懐中時計がアンロックされました！意のままに時間を巻き戻せます。\n\n[Rewind] を押すと、直前のターンを巻き戻せます。\n\nこの懐中時計には一度に巻き戻せるターン数に制限がありますが、移動するたびにリチャージされます。</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>ゴールド x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>ダンジョンで通常よりも25%多くゴールドを発見する。これは一回限りのボーナスで、次の冒険にのみ適用される。</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>廊下</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>ロビーの廊下へのアクセス権を得る。</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>レベル100の彫像</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>レベル100到達を記念した彫像を受け取る。ロビーの自室に飾ることができる。</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>レベル100到達おめでとうございます！\n\nこの偉業を記念して、自室に飾ることができる特別な彫像を受け取りました。</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>レベル25の彫像</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>レベル25到達を記念した彫像を受け取る。ロビーの自室に飾ることができる。</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>レベル25到達おめでとうございます！\n\nこの偉業を記念して、自室に飾ることができる特別な彫像を受け取りました。</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>レベル50の彫像</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>レベル50到達を記念した彫像を受け取る。ロビーの自室に飾ることができる。</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>レベル50到達おめでとうございます！\n\nこの偉業を記念して、自室に飾ることができる特別な彫像を受け取りました。</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>自室の鍵</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>自分の部屋へのアクセス権を得る。部屋は装飾することができる。</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>自分の部屋がアンロックされました！\n\n部屋の中にいるときに [ShowInventory] を押すと装飾できます。\n\n一部のレアなトロフィーや装飾品は入手が難しいかもしれません。例えば、ダンジョンの奥深くに隠されていることがあります。</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>スコア x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>ダンジョンで通常よりも100%多くスコアを獲得する。これは一回限りのボーナスで、次の冒険にのみ適用される。</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>スターダスト x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>ダンジョンで通常よりも50%多くスターダストを発見する。これは一回限りのボーナスで、次の冒険にのみ適用される。</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>訓練室</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>ロビーの訓練室へのアクセス権を得る。</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>ゴミの山</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>ゴミの山を片付けてスペースを広げる。</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>ゴミの山</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>ゴミの山を片付けてスペースを広げる。</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>ゴミの山</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>ゴミの山を片付けてスペースを広げる。</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

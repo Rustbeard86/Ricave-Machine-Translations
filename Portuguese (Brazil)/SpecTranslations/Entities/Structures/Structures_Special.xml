@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>recipiente antigo</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Este recipiente só pode ser aberto com 3 mecanismos antigos. Todos eles devem estar em algum lugar neste andar.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Você vê um recipiente antigo à sua frente.\n\nEle só pode ser aberto com 3 mecanismos antigos.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Abrir</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>dispositivo antigo</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>Um dispositivo antigo de algum tipo que você pode pesquisar. Se pesquisar os três, poderá desbloqueá-lo e obter uma recompensa.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>bacia com antídoto</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>Uma pequena bacia cheia de um antídoto para veneno. Você pode remover o status de envenenado aqui em troca de um pouco de mana.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Você vê uma bacia com antídoto à sua frente.\n\nVocê pode remover o status de envenenado aqui em troca de um pouco de mana.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>Beber</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>bigorna</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Você pode aprimorar o nível do seu equipamento aqui.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Você vê uma bigorna à sua frente.\n\nVocê pode aprimorar o nível do seu equipamento aqui em troca de ferro.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>cama</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>Uma cama aconchegante. Você pode regenerar um pouco de vida aqui, mas há 50% de chance de um inimigo notar você.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Você vê uma cama à sua frente.\n\nVocê pode regenerar um pouco de vida aqui, mas há 50% de chance de um inimigo notar você.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Dormir</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>grande ímã</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>A cada dois turnos, ele puxa todos ao redor para si.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>estante de livros</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>Uma estante com livros que lhe concederá um ponto de habilidade.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>jaula</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>Uma jaula de metal com algo ou alguém dentro. Você só pode abri-la se não houver nenhum chefe vivo neste andar da masmorra.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Você vê uma jaula grande, de metal e enferrujada à sua frente.\n\nVocê quer abri-la?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Abrir</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>canhão</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>Uma armadilha mortal que ferirá todos que estiverem em sua linha de fogo. Acione-a atacando.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>caldeirão</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Troque qualquer poção por um pergaminho aleatório.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Você vê um caldeirão à sua frente.\n\nAqui você pode trocar qualquer poção por um pergaminho aleatório.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>espetos no teto</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>Uma armadilha mortal que ferirá qualquer um que estiver embaixo dela. Acione-a atacando.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>baú</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>Este baú contém tudo que você poderia desejar na vida. Ou isso, ou um pedaço de pano podre e algumas pedras.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>estátua do diabo</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>Uma estátua sinistra. Aceita itens amaldiçoados em troca de recompensas.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>A estátua do diabo encara você.\n\nSe você tiver algum item amaldiçoado, pode entregá-lo à estátua por uma recompensa.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>restos de dragão</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>Uma pilha de ossos de dragão. Pode haver algo escondido aqui.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Você vê alguns restos de dragão à sua frente.\n\nSe quiser, pode procurar por um tesouro escondido aqui.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Procurar</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>duplicador</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>Um dispositivo que pode duplicar qualquer item... ou quebrá-lo.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Você vê um duplicador à sua frente.\n\nPor 30 de ouro, você pode tentar duplicar um item.\n\nNo entanto, há 40% de chance de que o item seja destruído.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>cofre eletrônico</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Este cofre só pode ser aberto pressionando um botão em outro lugar.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>botão</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Este botão abrirá um cofre eletrônico em algum lugar.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>mesa de encantamentos</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Encante seu equipamento em troca de uma pequena doação.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Você vê uma mesa de encantamentos à sua frente.\n\nHá uma ranhura para moedas debaixo da mesa e uma placa que diz que uma pequena doação de 170 moedas de ouro é necessária para prosseguir.\n\nUm encantamento aleatório será aplicado à sua arma ou armadura de escolha.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>fonte</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Beba desta fonte para obter um efeito suave, mas duradouro - positivo ou negativo.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Você vê uma fonte à sua frente.\n\nBeber dela terá um efeito mágico suave, mas duradouro.\n\nVocê pode jogar algumas moedas de ouro para dar sorte.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>Beber</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Fonte da Vida</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Beber desta fonte irá curá-lo completamente, restaurar toda a mana, vigor e status de saciedade, além de fornecer uma imunidade de curta duração a veneno.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Você vê uma Fonte da Vida à sua frente.\n\nBeber desta fonte irá curá-lo completamente, restaurar toda a mana, vigor e status de saciedade e fornecer uma imunidade de curta duração a veneno.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>Beber</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>mesa de apostas</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Aposte algum dinheiro se estiver se sentindo com sorte.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Você vê uma mesa de apostas à sua frente.\n\nVocê pode apostar algum dinheiro se estiver se sentindo com sorte e tem 50% de chance de ganhar o dobro ou perder.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>caixa de segurança dourada</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>Esta caixa de segurança tem uma ranhura para moedas. Você pode abri-la inserindo 50 de ouro.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Você vê uma caixa de segurança dourada à sua frente.\n\nVocê pode abri-la inserindo 50 de ouro.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Abrir</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>túmulo</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Cave para procurar um tesouro escondido.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Você vê um túmulo à sua frente.\n\nDefinitivamente há algo enterrado aqui.\n\nVocê pode cavar o túmulo ou deixá-lo em paz. Quem sabe o que você pode encontrar aqui.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Cavar</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>baú verde</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Este baú só pode ser aberto com 3 fragmentos de chave verde. Geralmente, os inimigos os carregam.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Você vê um baú verde à sua frente.\n\nEle só pode ser aberto com 3 fragmentos de chave verde.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Abrir</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>jaula suspensa</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>Uma jaula de metal com algo ou alguém dentro. Você só pode abri-la se não houver nenhum chefe vivo neste andar da masmorra.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Você vê uma jaula grande, de metal e enferrujada à sua frente.\n\nVocê quer abri-la?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Abrir</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>cristal de cura</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Cura todos os seus pontos de vida.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>planta curativa</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>Uma planta com propriedades curativas incomuns. Você pode usá-la para fazer uma poção de vida.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>alavanca</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Abre todos os portões e alerta a todos no andar. Puxe-a somente quando estiver pronto para escapar!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Você quer puxar a alavanca?\n\nEla abrirá todos os portões, mas todos os inimigos irão acordar.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Puxar</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>altar de oferenda de membro</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Você pode sacrificar um de seus membros aqui em troca de uma recompensa aleatória.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Você vê um altar de oferenda de membro à sua frente.\n\nAqui você pode sacrificar um de seus membros em troca de uma recompensa aleatória.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Oferecer membro</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>cristal de mana</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Restaura toda a sua mana, para que você possa usar seus feitiços novamente.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>planta de mana</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>Uma planta com propriedades mágicas incomuns. Você pode usá-la para fazer uma poção de mana.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>caixote de metal</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>Um caixote de metal. Pode conter algo útil.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>altar do Fantasma</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Invoque um Fantasma mortal. Receba um bônus no dano físico causado em troca de visão prejudicada.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>Você vê um altar do Fantasma à sua frente.\n\nAqui você pode invocar um Fantasma mortal, pelo qual ganhará +25% de dano físico causado.\n\nAlém disso, por 25 turnos, seu alcance de visão será definido como 1.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Invocar</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>portal</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>Ele o teleportará para um local aleatório no mapa. No entanto, quando usado novamente, sempre o levará para o mesmo local.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>bomba de proximidade</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Esta bomba tem um gatilho de proximidade e explodirá após alguns turnos ao se aproximar.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>bomba de fogo de proximidade</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Esta bomba de fogo tem um gatilho de proximidade e explodirá após alguns turnos ao se aproximar.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>bomba de fumaça de proximidade</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Esta bomba de fumaça tem um gatilho de proximidade e explodirá após alguns turnos ao se aproximar.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>ninho de rato</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Um ninho cheio de ratos. Os ratos não sairão a menos que sejam perturbados. Você pode procurar por um tesouro escondido nele.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Você vê um ninho de rato à sua frente.\n\nSe quiser, pode procurar por um tesouro escondido aqui.\n\nNo entanto, se o fizer, ratos começarão a sair deste ninho.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Procurar</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>santuário do ladino</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Ganhe mais vigor, melhor alcance de visão e resistência a dano de fogo por um tempo, em troca de uma pequena doação.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Você vê um santuário do ladino à sua frente.\n\nGanhe mais vigor, melhor alcance de visão e resistência a dano de fogo em troca de uma pequena doação.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Prosseguir</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>portal final</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>Um portal brilhante. Este é o fim.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>altar sacrificial</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Sacrifique dois oponentes dignos neste altar para obter uma recompensa.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>cofre</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>Pode conter algo valioso, mas destruí-lo pode ser difícil. Talvez com alguns explosivos?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>loja</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Nada supera um suco de laranja espremido na ho... quer dizer, uma poção de força.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>santuário</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Receba uma bênção, de graça!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Você vê um santuário à sua frente.\n\nVocê pode receber uma bênção aqui.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Prosseguir</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>baú de prata</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Parece que pode conter algo valioso. Você precisa de uma chave de prata para abri-lo.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Você vê um baú de prata à sua frente.\n\nEle só pode ser aberto com uma chave de prata.\n\nNote que pode haver mais baús trancados do que chaves disponíveis, então use suas chaves com sabedoria.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Abrir</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>restos de esqueleto</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>Uma pilha de ossos. Pode haver algo escondido aqui.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Você vê alguns restos de esqueleto à sua frente.\n\nSe quiser, pode procurar por um tesouro escondido aqui.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Procurar</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>pequeno cristal de cura</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>Cura 50% dos seus pontos de vida máximos.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>pequeno cristal de mana</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>Restaura 50% da sua mana máxima.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>escadaria</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>Uma escadaria que leva ao nível inferior desta masmorra.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Você quer descer as escadas para o nível inferior da masmorra?\n\nVocê não poderá voltar.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Prosseguir</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>escadaria para o lobby</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>Uma escadaria que leva de volta ao lobby. Isso encerrará sua partida atual, mas você manterá parte da experiência e do ouro para a próxima. Além disso, você não perderá os bônus de uso único que comprou no lobby.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Você quer voltar para o lobby?\n\nIsso encerrará sua partida atual, mas você manterá 25% da experiência e 50% do ouro para a próxima.\nAlém disso, você não perderá os bônus de uso único que comprou no lobby.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Prosseguir</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>cama cirúrgica</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>Uma máquina cirúrgica autônoma que pode restaurar todas as partes do corpo ausentes por um pequeno pagamento.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Você vê uma máquina cirúrgica autônoma na sua frente.\n\nHá uma ranhura para moedas embaixo e uma placa que diz que por 150 moedas de ouro a máquina pode restaurar todas as suas partes do corpo perdidas.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>Pagar 150 de ouro</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>máquina do tempo</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Viaje de volta no tempo.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Você vê uma máquina do tempo na sua frente.\n\nUsá-la fará você viajar de volta no tempo.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Usar</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>Desafio da Mutilação</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Destrua 6 partes do corpo em até 120 turnos para receber uma recompensa.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>Você vê um Desafio da Mutilação na sua frente.\n\nPor um pouco de ouro, você pode iniciar um desafio para destruir 6 partes do corpo em até 120 turnos.\n\nAo completar o desafio, você receberá uma recompensa.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>Pagar 20 de ouro</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>Desafio do Assassino Veloz</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Mate 4 inimigos dignos (que dão experiência) em até 100 turnos para receber uma recompensa.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>Você vê um Desafio do Assassino Veloz na sua frente.\n\nPor um pouco de ouro, você pode iniciar um desafio para matar 4 inimigos dignos em até 100 turnos.\n\nAo completar o desafio, você receberá uma recompensa.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>Pagar 20 de ouro</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>Desafio do Intacto</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Mate 2 inimigos dignos (que dão experiência) sem perder nenhum ponto de vida para receber uma recompensa.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>Você vê um Desafio do Intacto na sua frente.\n\nPor um pouco de ouro, você pode iniciar um desafio para matar 2 inimigos dignos sem perder nenhum ponto de vida.\n\nAo completar o desafio, você receberá uma recompensa.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>Pagar 20 de ouro</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>orbe de melhoria</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Um orbe que permite escolher um efeito permanente. Você pode escolher entre vida extra, chance de acerto crítico extra, menor chance de errar e resistência a fogo.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Este é um orbe de melhoria que concede efeitos permanentes para esta partida.\n\nVocê pode escolher entre vida extra, chance de acerto crítico extra, menor chance de errar e resistência a fogo.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>santuário do guerreiro</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>Liberte seu guerreiro interior e prove que você é digno. Reduza sua vida máxima pela metade em troca de 25% a mais de dano físico por um tempo.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Você vê um santuário do guerreiro na sua frente.\n\nReduza sua vida máxima pela metade em troca de 25% a mais de dano por 400 turnos.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Prosseguir</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>ninho de vespas</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Um ninho de vespas anormalmente grandes.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>santuário do mago</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Aumente a mana máxima e receba resistência a dano mágico por um tempo em troca de uma pequena doação.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Você vê um santuário do mago na sua frente.\n\nPor 80 de ouro, você pode receber uma bênção que lhe dará +2 de mana máxima por 400 turnos e resistência a dano mágico por 100 turnos.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>Pagar 80 de ouro</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

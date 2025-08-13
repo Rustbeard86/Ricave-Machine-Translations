@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>예르돈의 아뮬렛</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>예르돈의 아뮬렛을 가지고 시작합니다. 착용자가 죽음에 이르는 순간, 단 한 번 체력이 완전히 회복됩니다. 또한, 주변의 모든 적들이 죽습니다. 이 보너스는 1회용이며 다음 게임에만 적용됩니다.</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>체력 물약</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>인벤토리에 추가 체력 물약을 가지고 시작합니다. 이 보너스는 1회용이며 다음 게임에만 적용됩니다.</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>스크롤</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>인벤토리에 무작위 스크롤 하나를 가지고 시작합니다. 이 보너스는 1회용이며 다음 게임에만 적용됩니다.</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>방패</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>인벤토리에 방패를 가지고 시작합니다. 적의 공격을 막을 수 있습니다.</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>다음 게임부터 사용할 수 있는 방패를 잠금 해제했습니다! 방패로 적의 공격을 막을 수 있습니다.\n\n원거리 공격을 하는 적을 상대할 때 특히 유용하며, 피해 없이 안전하게 접근할 수 있습니다.\n\n적의 공격을 막는 동시에 공격할 수는 없습니다. 그렇게 하면 효과가 취소됩니다.\n\n방패를 사용하는 것은 힘든 일이므로, 스태미나를 소모합니다.</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>창</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>인벤토리에 추가 창을 가지고 시작합니다. 적에게 던지거나 함정을 발동시키는 데 사용하세요.</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>다음 게임부터 사용할 수 있는 창을 잠금 해제했습니다! 원거리에서 적을 공격하거나 함정을 발동시키는 데 사용할 수 있습니다.\n\n적이 가시 함정 아래나 벽에 설치된 대포 옆으로 걸어갈 때를 기다렸다가 함정에 창을 던져 발동시키세요.\n\n창을 던지는 것은 힘든 일이므로, 스태미나를 소모합니다. 굶주리지 않는 한 스태미나는 자동으로 회복됩니다.</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>검</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>인벤토리에 검을 가지고 시작합니다. 이 보너스는 1회용이며 다음 게임에만 적용됩니다.</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>시계</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>인벤토리에 시계를 가지고 시작합니다. 시간을 되돌릴 수 있습니다.</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>다음 게임부터 사용할 수 있는 마법 시계를 잠금 해제했습니다! 원할 때 시간을 되돌릴 수 있습니다.\n\n[Rewind] 키를 눌러 마지막 턴을 되돌리세요.\n\n시계는 한 번에 되돌릴 수 있는 턴 수에 제한이 있지만, 움직일 때마다 재충전됩니다.</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>골드 x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>던전에서 평소보다 25% 더 많은 골드를 발견합니다. 이 보너스는 1회용이며 다음 게임에만 적용됩니다.</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>복도</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>로비의 복도에 입장할 수 있습니다.</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>레벨 100 조각상</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>레벨 100 달성을 기념하는 조각상을 받습니다. 로비의 개인실에 놓을 수 있습니다.</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>레벨 100 달성을 축하합니다!\n\n이 위대한 업적을 기념하기 위해 개인실에 놓을 수 있는 특별한 조각상을 받았습니다.</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>레벨 25 조각상</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>레벨 25 달성을 기념하는 조각상을 받습니다. 로비의 개인실에 놓을 수 있습니다.</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>레벨 25 달성을 축하합니다!\n\n이 위대한 업적을 기념하기 위해 개인실에 놓을 수 있는 특별한 조각상을 받았습니다.</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>레벨 50 조각상</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>레벨 50 달성을 기념하는 조각상을 받습니다. 로비의 개인실에 놓을 수 있습니다.</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>레벨 50 달성을 축하합니다!\n\n이 위대한 업적을 기념하기 위해 개인실에 놓을 수 있는 특별한 조각상을 받았습니다.</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>개인실 열쇠</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>자신만의 개인실에 입장하여 꾸밀 수 있습니다.</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>자신만의 개인실을 잠금 해제했습니다!\n\n안에 있을 때 [ShowInventory] 키를 눌러 꾸밀 수 있습니다.\n\n일부 희귀한 트로피와 장식은 얻기 어려울 수 있습니다. 예를 들어, 던전 깊숙한 곳 어딘가에 숨겨져 있을 수 있습니다.</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>점수 x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>던전에서 평소보다 100% 더 많은 점수를 얻습니다. 이 보너스는 1회용이며 다음 게임에만 적용됩니다.</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>별가루 x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>던전에서 평소보다 50% 더 많은 별가루를 발견합니다. 이 보너스는 1회용이며 다음 게임에만 적용됩니다.</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>훈련장</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>로비의 훈련장에 입장할 수 있습니다.</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>쓰레기 더미</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>쓰레기 더미를 치워 더 많은 공간을 확보하세요.</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>쓰레기 더미</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>쓰레기 더미를 치워 더 많은 공간을 확보하세요.</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>쓰레기 더미</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>쓰레기 더미를 치워 더 많은 공간을 확보하세요.</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

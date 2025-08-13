@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>ภาชนะโบราณ</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>ภาชนะนี้สามารถเปิดได้ด้วยกลไกโบราณ 3 ชิ้นเท่านั้น ซึ่งน่าจะอยู่ที่ไหนสักแห่งในชั้นนี้</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>คุณเห็นภาชนะโบราณอยู่ตรงหน้า\n\nมันสามารถเปิดได้ด้วยกลไกโบราณ 3 ชิ้นเท่านั้น</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>เปิด</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>อุปกรณ์โบราณ</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>อุปกรณ์โบราณบางชนิดที่คุณสามารถวิจัยได้ หากคุณวิจัยครบทั้งสามชิ้น คุณจะสามารถปลดล็อกและรับรางวัลได้</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>อ่างยาถอนพิษ</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>อ่างเล็กๆ ที่เต็มไปด้วยยาถอนพิษ คุณสามารถลบสถานะติดพิษได้ที่นี่เพื่อแลกกับมานาเล็กน้อย</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>คุณเห็นอ่างยาถอนพิษอยู่ตรงหน้า\n\nคุณสามารถลบสถานะติดพิษได้ที่นี่เพื่อแลกกับมานาเล็กน้อย</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>ดื่ม</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>ทั่งตีเหล็ก</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>คุณสามารถอัปเกรดระดับอุปกรณ์ของคุณได้ที่นี่</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>คุณเห็นทั่งตีเหล็กอยู่ตรงหน้า\n\nคุณสามารถอัปเกรดระดับอุปกรณ์ของคุณได้ที่นี่เพื่อแลกกับเหล็ก</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>เตียงนอน</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>เตียงนอนแสนสบาย คุณสามารถฟื้นฟูพลังชีวิตได้ที่นี่ แต่มีโอกาส 50% ที่ศัตรูจะสังเกตเห็นคุณ</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>คุณเห็นเตียงนอนอยู่ตรงหน้า\n\nคุณสามารถฟื้นฟูพลังชีวิตได้ที่นี่ แต่มีโอกาส 50% ที่ศัตรูจะสังเกตเห็นคุณ</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>นอนหลับ</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>แม่เหล็กขนาดใหญ่</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>ทุกๆ เทิร์นที่สอง มันจะดึงทุกคนที่อยู่รอบๆ เข้าหามัน</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>ชั้นหนังสือ</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>ชั้นหนังสือที่จะมอบแต้มทักษะให้คุณ</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>กรง</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>กรงเหล็กที่มีบางสิ่งหรือบางคนอยู่ข้างใน คุณสามารถเปิดมันได้ก็ต่อเมื่อไม่มีบอสมีชีวิตอยู่ในชั้นดันเจี้ยนนี้</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>คุณเห็นกรงเหล็กขนาดใหญ่ขึ้นสนิมอยู่ตรงหน้า\n\nคุณต้องการเปิดมันหรือไม่?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>เปิด</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>ปืนใหญ่</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>กับดักร้ายแรงที่จะทำร้ายทุกคนที่ยืนอยู่ในแนววิถีกระสุน สั่งการโดยการโจมตี</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>หม้อปรุงยา</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>แลกเปลี่ยนยาใดก็ได้เป็นม้วนคัมภีร์สุ่ม</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>คุณเห็นหม้อปรุงยาอยู่ตรงหน้า\n\nที่นี่คุณสามารถแลกเปลี่ยนยาใดก็ได้เป็นม้วนคัมภีร์สุ่ม</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>หนามเพดาน</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>กับดักร้ายแรงที่จะทำร้ายทุกคนที่ยืนอยู่ข้างใต้มัน สั่งการโดยการโจมตี</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>หีบสมบัติ</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>หีบใบนี้มีทุกสิ่งที่คุณปรารถนาในชีวิต หรืออาจจะเป็นเศษผ้าเน่าๆ กับก้อนหินบางก้อน</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>รูปปั้นปีศาจ</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>รูปปั้นที่น่ากลัว รับไอเทมต้องคำสาปเพื่อแลกกับรางวัล</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>รูปปั้นปีศาจจ้องมองมาที่คุณ\n\nหากคุณมีไอเทมต้องคำสาป คุณสามารถมอบมันให้กับรูปปั้นเพื่อรับรางวัลได้</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>ซากมังกร</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>กองกระดูกมังกร อาจมีบางอย่างซ่อนอยู่ที่นี่</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>คุณเห็นซากมังกรอยู่ตรงหน้า\n\nหากคุณต้องการ คุณสามารถค้นหาสมบัติที่ซ่อนอยู่ได้ที่นี่</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>ค้นหา</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>เครื่องทำซ้ำ</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>อุปกรณ์ที่สามารถทำซ้ำไอเทมใดก็ได้... หรือทำลายมัน</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>คุณเห็นเครื่องทำซ้ำอยู่ตรงหน้า\n\nในราคา 30 ทอง คุณสามารถลองทำซ้ำไอเทมได้\n\nอย่างไรก็ตาม มีโอกาส 40% ที่ไอเทมจะถูกทำลายแทน</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>ตู้นิรภัยอิเล็กทรอนิกส์</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>ตู้นิรภัยนี้สามารถเปิดได้โดยการกดปุ่มที่อื่นเท่านั้น</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>ปุ่ม</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>ปุ่มนี้จะเปิดตู้นิรภัยอิเล็กทรอนิกส์ที่ไหนสักแห่ง</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>โต๊ะเสริมพลัง</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>เสริมพลังอุปกรณ์ของคุณเพื่อแลกกับการบริจาคเล็กน้อย</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>คุณเห็นโต๊ะเสริมพลังอยู่ตรงหน้า\n\nมีช่องหยอดเหรียญอยู่ใต้โต๊ะและป้ายที่บอกว่าต้องบริจาค 170 เหรียญทองเพื่อดำเนินการต่อ\n\nการเสริมพลังแบบสุ่มจะถูกใช้กับอาวุธหรือชุดเกราะที่คุณเลือก</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>น้ำพุ</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>ดื่มจากน้ำพุนี้เพื่อรับผลกระทบที่ไม่รุนแรงแต่ยาวนาน - ไม่ว่าจะเป็นผลดีหรือผลเสีย</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>คุณเห็นน้ำพุอยู่ตรงหน้า\n\nการดื่มจากมันจะส่งผลทางเวทมนตร์ที่ไม่รุนแรงแต่ยาวนาน\n\nคุณสามารถโยนเหรียญทองลงไปเพื่อขอโชคได้</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>ดื่ม</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>น้ำพุแห่งชีวิต</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>การดื่มจากน้ำพุนี้จะรักษาคุณจนเต็ม, ฟื้นฟูมานา, ความแข็งแกร่ง, และสถานะความอิ่มทั้งหมด, รวมถึงให้ภูมิคุ้มกันพิษในระยะเวลาสั้นๆ</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>คุณเห็นน้ำพุแห่งชีวิตอยู่ตรงหน้า\n\nการดื่มจากน้ำพุนี้จะรักษาคุณจนเต็ม, ฟื้นฟูมานา, ความแข็งแกร่ง, และสถานะความอิ่มทั้งหมด และให้ภูมิคุ้มกันพิษในระยะเวลาสั้นๆ</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>ดื่ม</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>โต๊ะพนัน</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>เดิมพันเงินถ้าคุณรู้สึกโชคดี</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>คุณเห็นโต๊ะพนันอยู่ตรงหน้า\n\nคุณสามารถเดิมพันเงินถ้าคุณรู้สึกโชคดีและมีโอกาส 50/50 ที่จะชนะสองเท่าหรือแพ้</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>กล่องล็อคปิดทอง</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>กล่องล็อคนี้มีช่องหยอดเหรียญ คุณสามารถเปิดได้โดยการใส่ทอง 50 เหรียญ</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>คุณเห็นกล่องล็อคปิดทองอยู่ตรงหน้า\n\nคุณสามารถเปิดได้โดยการใส่ทอง 50 เหรียญ</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>เปิด</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>หลุมศพ</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>ขุดเพื่อค้นหาสมบัติที่ซ่อนอยู่</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>คุณเห็นหลุมศพอยู่ตรงหน้า\n\nมีบางอย่างถูกฝังอยู่ที่นี่แน่นอน\n\nคุณสามารถขุดหลุมศพขึ้นมาหรือปล่อยไว้เฉยๆ ก็ได้ ใครจะรู้ว่าคุณอาจจะเจออะไรที่นี่</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>ขุด</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>หีบสีเขียว</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>หีบนี้สามารถเปิดได้ด้วยชิ้นส่วนกุญแจสีเขียว 3 ชิ้นเท่านั้น ปกติแล้วศัตรูจะเป็นผู้ถือมัน</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>คุณเห็นหีบสีเขียวอยู่ตรงหน้า\n\nมันสามารถเปิดได้ด้วยชิ้นส่วนกุญแจสีเขียว 3 ชิ้นเท่านั้น</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>เปิด</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>กรงแขวน</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>กรงเหล็กที่มีบางสิ่งหรือบางคนอยู่ข้างใน คุณสามารถเปิดมันได้ก็ต่อเมื่อไม่มีบอสมีชีวิตอยู่ในชั้นดันเจี้ยนนี้</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>คุณเห็นกรงเหล็กขนาดใหญ่ขึ้นสนิมอยู่ตรงหน้า\n\nคุณต้องการเปิดมันหรือไม่?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>เปิด</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>คริสตัลรักษา</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>ฟื้นฟูพลังชีวิตทั้งหมดของคุณ</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>พืชรักษา</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>พืชที่มีคุณสมบัติในการรักษาที่ไม่ธรรมดา คุณสามารถใช้มันทำยาฟื้นฟูพลังชีวิตได้</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>คันโยก</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>เปิดประตูทุกบานและแจ้งเตือนทุกคนในชั้น ดึงมันเมื่อคุณพร้อมที่จะหลบหนีเท่านั้น!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>คุณต้องการดึงคันโยกหรือไม่?\n\nมันจะเปิดประตูทุกบาน แต่ศัตรูทั้งหมดจะตื่นขึ้น</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>ดึง</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>แท่นบูชาสังเวยอวัยวะ</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>คุณสามารถสังเวยอวัยวะของคุณที่นี่เพื่อแลกกับรางวัลสุ่ม</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>คุณเห็นแท่นบูชาสังเวยอวัยวะอยู่ตรงหน้า\n\nที่นี่คุณสามารถสังเวยอวัยวะของคุณเพื่อแลกกับรางวัลสุ่ม</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>สังเวยอวัยวะ</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>คริสตัลมานา</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>ฟื้นฟูมานาทั้งหมดของคุณ เพื่อให้คุณสามารถใช้คาถาได้อีกครั้ง</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>พืชมานา</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>พืชที่มีคุณสมบัติทางเวทมนตร์ที่ไม่ธรรมดา คุณสามารถใช้มันทำยาฟื้นฟูมานาได้</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>ลังโลหะ</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>ลังโลหะ อาจมีของที่มีประโยชน์อยู่ข้างใน</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>แท่นบูชาของแฟนทอม</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>อัญเชิญแฟนทอมที่ร้ายกาจ รับโบนัสความเสียหายทางกายภาพที่สร้างขึ้นเพื่อแลกกับการมองเห็นที่ลดลง</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>คุณเห็นแท่นบูชาของแฟนทอมอยู่ตรงหน้า\n\nที่นี่คุณสามารถอัญเชิญแฟนทอมที่ร้ายกาจซึ่งคุณจะได้รับความเสียหายทางกายภาพเพิ่มขึ้น +25%\n\nนอกจากนี้ ระยะการมองเห็นของคุณจะถูกตั้งค่าเป็น 1 เป็นเวลา 25 เทิร์น</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>อัญเชิญ</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>ประตูมิติ</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>มันจะเทเลพอร์ตคุณไปยังตำแหน่งสุ่มบนแผนที่ อย่างไรก็ตาม เมื่อใช้อีกครั้ง มันจะพาคุณไปยังตำแหน่งเดิมเสมอ</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>ระเบิดตรวจจับระยะใกล้</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>ระเบิดนี้มีตัวกระตุ้นระยะใกล้และจะระเบิดหลังจากเข้าใกล้ไม่กี่เทิร์น</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>ระเบิดเพลิงตรวจจับระยะใกล้</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>ระเบิดเพลิงนี้มีตัวกระตุ้นระยะใกล้และจะระเบิดหลังจากเข้าใกล้ไม่กี่เทิร์น</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>ระเบิดควันตรวจจับระยะใกล้</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>ระเบิดควันนี้มีตัวกระตุ้นระยะใกล้และจะระเบิดหลังจากเข้าใกล้ไม่กี่เทิร์น</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>รังหนู</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>รังที่เต็มไปด้วยหนู หนูจะไม่ออกมาจนกว่าจะถูกรบกวน คุณสามารถค้นหาสมบัติที่ซ่อนอยู่ได้</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>คุณเห็นรังหนูอยู่ตรงหน้า\n\nหากคุณต้องการ คุณสามารถค้นหาสมบัติที่ซ่อนอยู่ได้ที่นี่\n\nอย่างไรก็ตาม หากคุณทำ หนูจะเริ่มออกมาจากรังนี้</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>ค้นหา</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>ศาลเจ้าของโจร</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>รับความแข็งแกร่งเพิ่มขึ้น, ระยะการมองเห็นที่ดีขึ้น, และความต้านทานความเสียหายจากไฟเป็นเวลาหนึ่งเพื่อแลกกับการบริจาคเล็กน้อย</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>คุณเห็นศาลเจ้าของโจรอยู่ตรงหน้า\n\nรับความแข็งแกร่งเพิ่มขึ้น, ระยะการมองเห็นที่ดีขึ้น, และความต้านทานความเสียหายจากไฟเพื่อแลกกับการบริจาคเล็กน้อย</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>ดำเนินการต่อ</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>ประตูมิติสิ้นสุด</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>ประตูมิติที่สว่างไสว นี่คือจุดสิ้นสุด</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>แท่นบูชายัญ</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>สังเวยคู่ต่อสู้ที่คู่ควรสองตนบนแท่นบูชานี้เพื่อรับรางวัล</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>ตู้นิรภัย</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>มันอาจมีของมีค่าอยู่ข้างใน แต่การทำลายมันอาจเป็นเรื่องยุ่งยาก บางทีอาจต้องใช้วัตถุระเบิด?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>ร้านค้า</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>ไม่มีอะไรดีไปกว่าน้ำส้มคั้นสด... เอ่อ หมายถึงยาเพิ่มความแข็งแกร่ง</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>ศาลเจ้า</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>รับพร ฟรี!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>คุณเห็นศาลเจ้าอยู่ตรงหน้า\n\nคุณสามารถรับพรได้ที่นี่</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>ดำเนินการต่อ</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>หีบเงิน</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>ดูเหมือนว่ามันอาจมีของมีค่าอยู่ข้างใน คุณต้องใช้กุญแจเงินเพื่อเปิดมัน</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>คุณเห็นหีบเงินอยู่ตรงหน้า\n\nมันสามารถเปิดได้ด้วยกุญแจเงินเท่านั้น\n\nโปรดทราบว่าอาจมีหีบที่ถูกล็อคมากกว่ากุญแจที่มีอยู่ ดังนั้นจงใช้กุญแจของคุณอย่างชาญฉลาด</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>เปิด</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>ซากโครงกระดูก</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>กองกระดูก อาจมีบางอย่างซ่อนอยู่ที่นี่</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>คุณเห็นซากโครงกระดูกอยู่ตรงหน้า\n\nหากคุณต้องการ คุณสามารถค้นหาสมบัติที่ซ่อนอยู่ได้ที่นี่</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>ค้นหา</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>คริสตัลรักษาก้อนเล็ก</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>ฟื้นฟูพลังชีวิตสูงสุดของคุณ 50%</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>คริสตัลมานาก้อนเล็ก</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>ฟื้นฟูมานาสูงสุดของคุณ 50%</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>บันได</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>บันไดที่นำไปสู่ชั้นล่างของดันเจี้ยนนี้</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>คุณต้องการลงบันไดไปยังชั้นล่างของดันเจี้ยนหรือไม่?\n\nคุณจะไม่สามารถกลับมาได้</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>ดำเนินการต่อ</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>บันไดสู่ล็อบบี้</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>บันไดที่นำกลับไปสู่ล็อบบี้ การทำเช่นนี้จะสิ้นสุดการเล่นรอบปัจจุบันของคุณ แต่คุณจะเก็บค่าประสบการณ์และทองบางส่วนไว้สำหรับรอบถัดไป นอกจากนี้ คุณจะไม่สูญเสียโบนัสแบบใช้ครั้งเดียวที่คุณซื้อในล็อบบี้</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>คุณต้องการกลับไปที่ล็อบบี้หรือไม่?\n\nการทำเช่นนี้จะสิ้นสุดการเล่นรอบปัจจุบันของคุณ แต่คุณจะเก็บค่าประสบการณ์ 25% และทอง 50% ไว้สำหรับรอบถัดไป\nนอกจากนี้ คุณจะไม่สูญเสียโบนัสแบบใช้ครั้งเดียวที่คุณซื้อในล็อบบี้</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>ดำเนินการต่อ</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>เตียงผ่าตัด</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>เครื่องผ่าตัดอัตโนมัติที่สามารถฟื้นฟูชิ้นส่วนร่างกายที่ขาดหายไปทั้งหมดโดยเสียค่าใช้จ่ายเล็กน้อย</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>คุณเห็นเครื่องผ่าตัดอัตโนมัติอยู่ตรงหน้า\n\nข้างใต้มีช่องหยอดเหรียญและป้ายที่เขียนว่า หากจ่าย 150 เหรียญทอง เครื่องจะฟื้นฟูชิ้นส่วนร่างกายที่ขาดหายไปทั้งหมดให้</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>จ่าย 150 ทอง</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>เครื่องย้อนเวลา</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>เดินทางย้อนเวลากลับไปในอดีต</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>คุณเห็นเครื่องย้อนเวลาอยู่ตรงหน้า\n\nการใช้งานมันจะทำให้คุณเดินทางย้อนเวลากลับไป</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>ใช้</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>บททดสอบแห่งความพิการ</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>ทำลายชิ้นส่วนร่างกาย 6 ชิ้นภายใน 120 เทิร์นเพื่อรับรางวัล</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>คุณเห็นบททดสอบแห่งความพิการอยู่ตรงหน้า\n\nเมื่อจ่ายทองจำนวนหนึ่ง คุณจะสามารถเริ่มบทท้าทายเพื่อทำลายชิ้นส่วนร่างกาย 6 ชิ้นภายใน 120 เทิร์น\n\nเมื่อทำบทท้าทายสำเร็จ คุณจะได้รับรางวัล</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>จ่าย 20 ทอง</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>บททดสอบของนักฆ่าผู้ปราดเปรียว</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>สังหารศัตรูที่คู่ควร (ให้ค่าประสบการณ์) 4 ตัวภายใน 100 เทิร์นเพื่อรับรางวัล</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>คุณเห็นบททดสอบของนักฆ่าผู้ปราดเปรียวอยู่ตรงหน้า\n\nเมื่อจ่ายทองจำนวนหนึ่ง คุณจะสามารถเริ่มบทท้าทายเพื่อสังหารศัตรูที่คู่ควร 4 ตัวภายใน 100 เทิร์น\n\nเมื่อทำบทท้าทายสำเร็จ คุณจะได้รับรางวัล</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>จ่าย 20 ทอง</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>บททดสอบแห่งความไร้มลทิน</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>สังหารศัตรูที่คู่ควร (ให้ค่าประสบการณ์) 2 ตัวโดยไม่เสียพลังชีวิตเลยเพื่อรับรางวัล</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>คุณเห็นบททดสอบแห่งความไร้มลทินอยู่ตรงหน้า\n\nเมื่อจ่ายทองจำนวนหนึ่ง คุณจะสามารถเริ่มบทท้าทายเพื่อสังหารศัตรูที่คู่ควร 2 ตัวโดยไม่เสียพลังชีวิตเลย\n\nเมื่อทำบทท้าทายสำเร็จ คุณจะได้รับรางวัล</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>จ่าย 20 ทอง</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>ลูกแก้วอัปเกรด</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>ลูกแก้วที่ให้คุณเลือกเอฟเฟกต์ถาวรได้ คุณสามารถเลือกระหว่างพลังชีวิตพิเศษ, โอกาสคริติคอลเพิ่มขึ้น, โอกาสโจมตีพลาดลดลง และความต้านทานไฟ</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>นี่คือลูกแก้วอัปเกรดที่มอบเอฟเฟกต์ถาวรให้สำหรับการเล่นรอบนี้\n\nคุณสามารถเลือกระหว่างพลังชีวิตพิเศษ, โอกาสคริติคอลเพิ่มขึ้น, โอกาสโจมตีพลาดลดลง และความต้านทานไฟ</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>ศาลเจ้านักรบ</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>ปลดปล่อยความเป็นนักรบในตัวคุณและพิสูจน์ว่าคุณคู่ควร ลดพลังชีวิตสูงสุดของคุณลงครึ่งหนึ่งเพื่อแลกกับความเสียหายกายภาพที่สูงขึ้น 25% เป็นเวลาชั่วคราว</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>คุณเห็นศาลเจ้านักรบอยู่ตรงหน้า\n\nลดพลังชีวิตสูงสุดของคุณลงครึ่งหนึ่งเพื่อแลกกับความเสียหายที่สูงขึ้น 25% เป็นเวลา 400 เทิร์น</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>ดำเนินการต่อ</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>รังต่อ</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>รังของต่อขนาดใหญ่ผิดปกติ</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>ศาลเจ้าพ่อมด</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>เพิ่มมานาสูงสุดและรับความต้านทานความเสียหายเวทมนตร์เป็นเวลาชั่วคราวด้วยการบริจาคเล็กน้อย</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>คุณเห็นศาลเจ้าพ่อมดอยู่ตรงหน้า\n\nหากจ่าย 80 ทอง คุณจะได้รับพรซึ่งจะให้มานาสูงสุด +2 เป็นเวลา 400 เทิร์น และความต้านทานความเสียหายเวทมนตร์เป็นเวลา 100 เทิร์น</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>จ่าย 80 ทอง</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

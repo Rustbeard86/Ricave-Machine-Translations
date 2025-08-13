@@ -1,0 +1,57 @@
+<SpecTranslations>
+
+  <BodyPartsDamage.label>anatómus</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>30%-kal nagyobb sebzés, ha közvetlenül egy testrészt célzol.</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>ragacsos</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>50% esély, hogy automatikusan gúzsba kötöd 1 körre azt, aki megtámad.</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>robbanásbiztos</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>80%-kal kevesebb robbanásból származó sebzést szenvedsz el.</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>gyors felépülés</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>A természetes életerő-regeneráció kétszer gyorsabb.</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>energikus</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>A természetes állóképesség-regeneráció kétszer gyorsabb.</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>vitalitás</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>Kapsz +1 maximális ÉP-t.</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>mágus</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>Kapsz +1 maximális manát és 50%-kal kevesebb mágikus sebzést szenvedsz el.</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>atléta</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>Kapsz +2 maximális állóképességet.</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>zárfeltörő</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>Kinyithatod a zöld ládákat, ősi tárolókat és királyi ajtókat anélkül, hogy kulcsokat kellene keresned. Továbbá a ketreceket is kinyithatod anélkül, hogy előbb le kellene győznöd a főellenséget.</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>alkudozó</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>A boltosok 50%-kal olcsóbban adják a tárgyakat, a vándorok pedig 50%-kal kevesebb aranyért azonosítják be őket.</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>ínyenc</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>Az étel a szokásosnál kétszer több ÉP-t tölt vissza.</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>guberáló</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>Több nyers húst találsz a kazamatákban.</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>zsivány</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>Több lehelyezhető csapdát találsz a kazamatákban.</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>zuhanásbiztos</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>Bármilyen magasságból leugorhatsz zuhanási sebzés nélkül. Ezenkívül gyorsabban is zuhansz.</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>támadások elhárítása</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>A pajzzsal blokkolt sebzés átterelődik egy véletlenszerű, melletted álló ellenségre, a támadót kivéve.</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>pajzsszakértő</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>A pajzsok használata 50%-kal kevesebb állóképességbe kerül.</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>aszketikus</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>Nem kell olyan sokat enned - kétszer annyi időbe telik, mire megéhezel.</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>bekerítési bónusz</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>25%-kal nagyobb sebzést okozol, amíg legalább 2 ellenség áll melletted.</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

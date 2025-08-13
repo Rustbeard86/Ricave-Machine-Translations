@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <DestroyItemInInventory.label>zerstören</DestroyItemInInventory.label> <!-- <En>destroy</En> -->
+  <DestroyItemInInventory.Destroys>{0} zerstört {1}</DestroyItemInInventory.Destroys> <!-- <En>{0} destroys {1}</En> -->
+
+  <DropItem.label>fallen lassen</DropItem.label> <!-- <En>drop</En> -->
+  <DropItem.Drops>{0} lässt {1} fallen</DropItem.Drops> <!-- <En>{0} drops {1}</En> -->
+
+  <Equip.label>ausrüsten</Equip.label> <!-- <En>equip</En> -->
+  <Equip.Equips>{0} rüstet {1} aus</Equip.Equips> <!-- <En>{0} equips {1}</En> -->
+
+  <MoveItemInInventory.label>Gegenstand im Inventar bewegen</MoveItemInInventory.label> <!-- <En>move item in inventory</En> -->
+  <MoveItemInInventory.IsMovedInSInventory>{1} wird in {0}s Inventar bewegt</MoveItemInInventory.IsMovedInSInventory> <!-- <En>{1} is moved in {0}'s inventory</En> -->
+
+  <RefundSkill.label>Fähigkeit zurückerstatten</RefundSkill.label> <!-- <En>refund skill</En> -->
+  <RefundSkill.Refunds>{0} erstattet {1} zurück</RefundSkill.Refunds> <!-- <En>{0} refunds {1}</En> -->
+
+  <SortInventory.label>Inventar sortieren</SortInventory.label> <!-- <En>sort inventory</En> -->
+  <SortInventory.SortsInventory>{0} sortiert das Inventar</SortInventory.SortsInventory> <!-- <En>{0} sorts inventory</En> -->
+
+  <Transfer.label>übergeben</Transfer.label> <!-- <En>transfer</En> -->
+  <Transfer.GivesTo>{0} übergibt {1} an {2}</Transfer.GivesTo> <!-- <En>{0} gives {1} to {2}</En> -->
+
+  <Unequip.label>ablegen</Unequip.label> <!-- <En>unequip</En> -->
+  <Unequip.Unequips>{0} legt {1} ab</Unequip.Unequips> <!-- <En>{0} unequips {1}</En> -->
+
+  <UnlockSkill.label>Fähigkeit freischalten</UnlockSkill.label> <!-- <En>unlock skill</En> -->
+  <UnlockSkill.Unlocks>{0} schaltet {1} frei</UnlockSkill.Unlocks> <!-- <En>{0} unlocks {1}</En> -->
+
+  <UseRecipe.label>Rezept verwenden</UseRecipe.label> <!-- <En>use recipe</En> -->
+  <UseRecipe.CombinesItems>{0} kombiniert Gegenstände</UseRecipe.CombinesItems> <!-- <En>{0} combines items</En> -->
+
+</SpecTranslations>

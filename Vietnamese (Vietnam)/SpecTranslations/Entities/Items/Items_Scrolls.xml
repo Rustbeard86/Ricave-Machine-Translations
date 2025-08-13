@@ -1,0 +1,50 @@
+<SpecTranslations>
+
+  <Scroll_Awareness.label>Cuộn Giấy Nhận Thức</Scroll_Awareness.label> <!-- <En>Scroll of Awareness</En> -->
+  <Scroll_Awareness.description>Tăng tầm nhìn trong một thời gian ngắn. Tấn công kẻ thù trước khi chúng có thể nhìn thấy bạn.</Scroll_Awareness.description> <!-- <En>See farther for a short time. Attack enemies before they can even see you.</En> -->
+
+  <Scroll_Berserk.label>cuồng nộ</Scroll_Berserk.label> <!-- <En>berserk</En> -->
+  <Scroll_Berserk.description>Khiến mục tiêu nổi điên tấn công đồng minh của hắn trong một thời gian ngắn.</Scroll_Berserk.description> <!-- <En>Make the target attack his allies in anger for a short time.</En> -->
+
+  <Scroll_Blindness.label>Cuộn Giấy Mù Lòa</Scroll_Blindness.label> <!-- <En>Scroll of Blindness</En> -->
+  <Scroll_Blindness.description>Làm mục tiêu bị mù trong một thời gian ngắn. Nhân vật bị mù chỉ có thể nhìn và tấn công các mục tiêu ở ô liền kề.</Scroll_Blindness.description> <!-- <En>Make the target blind for a short time. Blind characters can only see and attack adjacent targets.</En> -->
+
+  <Scroll_CurseRemoval.label>Cuộn Giấy Giải Nguyền</Scroll_CurseRemoval.label> <!-- <En>Curse Removal Scroll</En> -->
+  <Scroll_CurseRemoval.description>Loại bỏ lời nguyền khỏi vật phẩm bạn chọn.</Scroll_CurseRemoval.description> <!-- <En>Remove curse from your item of choice.</En> -->
+  <Scroll_CurseRemoval.ChooseAnItemToRemove>Chọn một vật phẩm để giải nguyền.\n\n(danh sách này cũng hiển thị tất cả các vật phẩm chưa giám định có thể bị nguyền rủa)</Scroll_CurseRemoval.ChooseAnItemToRemove> <!-- <En>Choose an item to remove curse from.\n\n(this list also shows all unidentified items that can be cursed)</En> -->
+
+  <Scroll_Damage.label>đạn phép</Scroll_Damage.label> <!-- <En>projectile</En> -->
+  <Scroll_Damage.description>Phóng một viên đạn phép vào mục tiêu.</Scroll_Damage.description> <!-- <En>Launch a magic projectile at the target.</En> -->
+
+  <Scroll_Fire.label>Cuộn Giấy Lửa</Scroll_Fire.label> <!-- <En>Fire Scroll</En> -->
+  <Scroll_Fire.description>Thiêu đốt mục tiêu.</Scroll_Fire.description> <!-- <En>Set the target on fire.</En> -->
+
+  <Scroll_Freeze.label>Cuộn Giấy Đóng Băng</Scroll_Freeze.label> <!-- <En>Freeze Scroll</En> -->
+  <Scroll_Freeze.description>Đóng băng mục tiêu, khiến chúng không thể làm gì trong một thời gian ngắn.</Scroll_Freeze.description> <!-- <En>Freeze the target, making them unable to do anything for a short time.</En> -->
+
+  <Scroll_Identification.label>Cuộn Giấy Giám Định</Scroll_Identification.label> <!-- <En>Scroll of Identification</En> -->
+  <Scroll_Identification.description>Giám định một vật phẩm bạn chọn. Dùng cuộn giấy này lên bản thân để chọn một vật phẩm từ hòm đồ.</Scroll_Identification.description> <!-- <En>Identify an item of your choice. Use this scroll on yourself to choose an item from your inventory.</En> -->
+  <Scroll_Identification.ChooseAnItemToIdentify>Chọn một vật phẩm để giám định.</Scroll_Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <Scroll_Levitation.label>Cuộn Giấy Bay Lượn</Scroll_Levitation.label> <!-- <En>Scroll of Levitation</En> -->
+  <Scroll_Levitation.description>Bay lượn trong một thời gian ngắn.</Scroll_Levitation.description> <!-- <En>Fly for a short time.</En> -->
+
+  <Scroll_MagicBunker.label>Hầm Phép Thuật</Scroll_MagicBunker.label> <!-- <En>Magic Bunker</En> -->
+  <Scroll_MagicBunker.description>Bao quanh mục tiêu hoặc bản thân bằng những bức tường phép thuật để nghỉ ngơi trong trận chiến.</Scroll_MagicBunker.description> <!-- <En>Surround the target or yourself with magic walls to take a break in a fight.</En> -->
+
+  <Scroll_MassEntanglement.label>Cuộn Giấy Trói Buộc Hàng Loạt</Scroll_MassEntanglement.label> <!-- <En>Scroll of Mass Entanglement</En> -->
+  <Scroll_MassEntanglement.description>Khiến ai đó và tất cả các mục tiêu liền kề (trừ bạn) không thể di chuyển trong một thời gian ngắn.</Scroll_MassEntanglement.description> <!-- <En>Make someone and all adjacent targets (except you) unable to move for a short time.</En> -->
+
+  <Scroll_MassPanic.label>Cuộn Giấy Hoảng Loạn Hàng Loạt</Scroll_MassPanic.label> <!-- <En>Scroll of Mass Panic</En> -->
+  <Scroll_MassPanic.description>Khiến mọi người trong bán kính 2 ô (trừ bạn) hoảng loạn bỏ chạy trong một thời gian ngắn.</Scroll_MassPanic.description> <!-- <En>Make everyone in radius 2 (except you) run away in panic for a short time.</En> -->
+
+  <Scroll_Summoning.label>Cuộn Giấy Triệu Hồi</Scroll_Summoning.label> <!-- <En>Summoning Scroll</En> -->
+  <Scroll_Summoning.description>Triệu hồi một sinh vật chết chóc.</Scroll_Summoning.description> <!-- <En>Summon a deadly creature.</En> -->
+
+  <Scroll_Teleportation.label>Cuộn Giấy Dịch Chuyển</Scroll_Teleportation.label> <!-- <En>Teleportation Scroll</En> -->
+  <Scroll_Teleportation.description>Dịch chuyển đến một vị trí ngẫu nhiên trên bản đồ.</Scroll_Teleportation.description> <!-- <En>Teleport to a random location on the map.</En> -->
+
+  <Scroll_Time.label>Cuộn Giấy Thời Gian</Scroll_Time.label> <!-- <En>Scroll of Time</En> -->
+  <Scroll_Time.description>Xóa bỏ mọi sai lầm trong quá khứ, hoặc ít nhất là những sai lầm gần đây nhất, bằng cách tua ngược thời gian.</Scroll_Time.description> <!-- <En>Erase all your past mistakes, or at least the most recent ones, by rewinding time.</En> -->
+
+</SpecTranslations>

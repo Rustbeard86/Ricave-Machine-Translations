@@ -1,0 +1,75 @@
+<SpecTranslations>
+
+  <Debug_AddCondition.label>إضافة حالة (تصحيح أخطاء)</Debug_AddCondition.label> <!-- <En>add condition (debug)</En> -->
+  <Debug_AddCondition.IsGivenToDebug>تم إعطاء {0} إلى {1} (تصحيح أخطاء)</Debug_AddCondition.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddParty.label>إضافة إلى المجموعة (تصحيح أخطاء)</Debug_AddParty.label> <!-- <En>add to party (debug)</En> -->
+  <Debug_AddParty.AddingToPlayerPartyDebug>جارٍ إضافة {0} إلى مجموعة اللاعب (تصحيح أخطاء)</Debug_AddParty.AddingToPlayerPartyDebug> <!-- <En>Adding {0} to player party (debug)</En> -->
+
+  <Debug_AddToInventory.label>إضافة إلى المخزون (تصحيح أخطاء)</Debug_AddToInventory.label> <!-- <En>add to inventory (debug)</En> -->
+  <Debug_AddToInventory.IsAddedToSInventoryDebug>تمت إضافة {0} إلى مخزون {1} (تصحيح أخطاء)</Debug_AddToInventory.IsAddedToSInventoryDebug> <!-- <En>{0} is added to {1}'s inventory (debug)</En> -->
+
+  <Debug_AddUseEffect.label>إضافة تأثير استخدام (تصحيح أخطاء)</Debug_AddUseEffect.label> <!-- <En>add use effect (debug)</En> -->
+  <Debug_AddUseEffect.IsGivenToDebug>تم إعطاء {0} إلى {1} (تصحيح أخطاء)</Debug_AddUseEffect.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddWorldSituation.label>إضافة وضع عالمي (تصحيح أخطاء)</Debug_AddWorldSituation.label> <!-- <En>add world situation (debug)</En> -->
+  <Debug_AddWorldSituation.IsAddedDebug>تمت إضافة {0} (تصحيح أخطاء)</Debug_AddWorldSituation.IsAddedDebug> <!-- <En>{0} is added (debug)</En> -->
+
+  <Debug_AttachToChainPost.label>ربط بعمود السلسلة (تصحيح أخطاء)</Debug_AttachToChainPost.label> <!-- <En>attach to chain post (debug)</En> -->
+  <Debug_AttachToChainPost.IsAttachedToDebug>تم ربط {0} بـ {1} (تصحيح أخطاء)</Debug_AttachToChainPost.IsAttachedToDebug> <!-- <En>{0} is attached to {1} (debug)</En> -->
+
+  <Debug_Control.label>التحكم في الشخصية (تصحيح أخطاء)</Debug_Control.label> <!-- <En>control actor (debug)</En> -->
+  <Debug_Control.ControllingDebug>جارٍ التحكم في {0} (تصحيح أخطاء)</Debug_Control.ControllingDebug> <!-- <En>Controlling {0} (debug)</En> -->
+
+  <Debug_DeSpawn.label>إلغاء الظهور (تصحيح أخطاء)</Debug_DeSpawn.label> <!-- <En>despawn (debug)</En> -->
+  <Debug_DeSpawn.IsDespawnedDebug>تم إلغاء ظهور {0} (تصحيح أخطاء)</Debug_DeSpawn.IsDespawnedDebug> <!-- <En>{0} is despawned (debug)</En> -->
+
+  <Debug_Destroy.label>تدمير (تصحيح أخطاء)</Debug_Destroy.label> <!-- <En>destroy (debug)</En> -->
+  <Debug_Destroy.IsDestroyedDebug>تم تدمير {0} (تصحيح أخطاء)</Debug_Destroy.IsDestroyedDebug> <!-- <En>{0} is destroyed (debug)</En> -->
+
+  <Debug_DoWorldEvent.label>تنفيذ حدث عالمي (تصحيح أخطاء)</Debug_DoWorldEvent.label> <!-- <En>do world event (debug)</En> -->
+  <Debug_DoWorldEvent.IsInvokedDebug>تم استدعاء {0} (تصحيح أخطاء)</Debug_DoWorldEvent.IsInvokedDebug> <!-- <En>{0} is invoked (debug)</En> -->
+
+  <Debug_LevelUp.label>رفع المستوى (تصحيح أخطاء)</Debug_LevelUp.label> <!-- <En>level up (debug)</En> -->
+  <Debug_LevelUp.ThePlayerLevelsUpDebug>اللاعب يرفع مستواه (تصحيح أخطاء)</Debug_LevelUp.ThePlayerLevelsUpDebug> <!-- <En>The player levels up (debug)</En> -->
+
+  <Debug_RemoveCondition.label>إزالة حالة (تصحيح أخطاء)</Debug_RemoveCondition.label> <!-- <En>remove condition (debug)</En> -->
+  <Debug_RemoveCondition.IsRemovedFromDebug>تمت إزالة {0} من {1} (تصحيح أخطاء)</Debug_RemoveCondition.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveParty.label>إزالة من المجموعة (تصحيح أخطاء)</Debug_RemoveParty.label> <!-- <En>remove from party (debug)</En> -->
+  <Debug_RemoveParty.RemovingFromPlayerParty>جارٍ إزالة {0} من مجموعة اللاعب (تصحيح أخطاء)</Debug_RemoveParty.RemovingFromPlayerParty> <!-- <En>Removing {0} from player party (debug)</En> -->
+
+  <Debug_RemoveUseEffect.label>إزالة تأثير الاستخدام (تصحيح أخطاء)</Debug_RemoveUseEffect.label> <!-- <En>remove use effect (debug)</En> -->
+  <Debug_RemoveUseEffect.IsRemovedFromDebug>تمت إزالة {0} من {1} (تصحيح أخطاء)</Debug_RemoveUseEffect.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveWorldSituation.label>إزالة وضع عالمي (تصحيح أخطاء)</Debug_RemoveWorldSituation.label> <!-- <En>remove world situation (debug)</En> -->
+  <Debug_RemoveWorldSituation.IsRemovedDebug>تمت إزالة {0} (تصحيح أخطاء)</Debug_RemoveWorldSituation.IsRemovedDebug> <!-- <En>{0} is removed (debug)</En> -->
+
+  <Debug_RewindTime.label>إرجاع الوقت (تصحيح أخطاء)</Debug_RewindTime.label> <!-- <En>rewind time (debug)</En> -->
+  <Debug_RewindTime.RewindTurnsDebug>إرجاع {0} من الأدوار (تصحيح أخطاء)</Debug_RewindTime.RewindTurnsDebug> <!-- <En>Rewind {0} turns (debug)</En> -->
+
+  <Debug_SaveBlueprint.label>حفظ المخطط (تصحيح أخطاء)</Debug_SaveBlueprint.label> <!-- <En>save blueprint (debug)</En> -->
+  <Debug_SaveBlueprint.BlueprintIsSavedDebug>تم حفظ المخطط {0} (تصحيح أخطاء)</Debug_SaveBlueprint.BlueprintIsSavedDebug> <!-- <En>Blueprint {0} is saved (debug)</En> -->
+
+  <Debug_SetGravity.label>تغيير الجاذبية (تصحيح أخطاء)</Debug_SetGravity.label> <!-- <En>change gravity (debug)</En> -->
+  <Debug_SetGravity.GravityIsChangedForDebug>تم تغيير الجاذبية لـ {0} (تصحيح أخطاء)</Debug_SetGravity.GravityIsChangedForDebug> <!-- <En>Gravity is changed for {0} (debug)</En> -->
+
+  <Debug_SetRampUp.label>تغيير التسارع (تصحيح أخطاء)</Debug_SetRampUp.label> <!-- <En>change ramp up (debug)</En> -->
+  <Debug_SetRampUp.RampUpIsChangedForDebug>تم تغيير التسارع لـ {0} (تصحيح أخطاء)</Debug_SetRampUp.RampUpIsChangedForDebug> <!-- <En>Ramp up is changed for {0} (debug)</En> -->
+
+  <Debug_SetScale.label>تغيير الحجم (تصحيح أخطاء)</Debug_SetScale.label> <!-- <En>change scale (debug)</En> -->
+  <Debug_SetScale.ScaleIsChangedForDebug>تم تغيير الحجم لـ {0} (تصحيح أخطاء)</Debug_SetScale.ScaleIsChangedForDebug> <!-- <En>Scale is changed for {0} (debug)</En> -->
+
+  <Debug_Spawn.label>ظهور (تصحيح أخطاء)</Debug_Spawn.label> <!-- <En>spawn (debug)</En> -->
+  <Debug_Spawn.IsSpawnedDebug>تم ظهور {0} (تصحيح أخطاء)</Debug_Spawn.IsSpawnedDebug> <!-- <En>{0} is spawned (debug)</En> -->
+
+  <Debug_SpawnBlueprint.label>ظهور المخطط (تصحيح أخطاء)</Debug_SpawnBlueprint.label> <!-- <En>spawn blueprint (debug)</En> -->
+  <Debug_SpawnBlueprint.BlueprintIsSpawnedDebug>تم ظهور المخطط {0} (تصحيح أخطاء)</Debug_SpawnBlueprint.BlueprintIsSpawnedDebug> <!-- <En>Blueprint {0} is spawned (debug)</En> -->
+
+  <Debug_Teleport.label>انتقال فوري (تصحيح أخطاء)</Debug_Teleport.label> <!-- <En>teleport (debug)</En> -->
+  <Debug_Teleport.TeleportsDebug>{0} ينتقل فوريًا (تصحيح أخطاء)</Debug_Teleport.TeleportsDebug> <!-- <En>{0} teleports (debug)</En> -->
+
+  <Debug_UnfogAll.label>إزالة الضباب عن كل شيء (تصحيح أخطاء)</Debug_UnfogAll.label> <!-- <En>unfog everything (debug)</En> -->
+  <Debug_UnfogAll.EveryCellIsUnfoggedDebug>تمت إزالة الضباب عن كل خلية (تصحيح أخطاء)</Debug_UnfogAll.EveryCellIsUnfoggedDebug> <!-- <En>Every cell is unfogged (debug)</En> -->
+
+</SpecTranslations>

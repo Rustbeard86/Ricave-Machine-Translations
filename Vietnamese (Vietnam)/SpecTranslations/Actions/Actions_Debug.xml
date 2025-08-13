@@ -1,0 +1,75 @@
+<SpecTranslations>
+
+  <Debug_AddCondition.label>thêm trạng thái (gỡ lỗi)</Debug_AddCondition.label> <!-- <En>add condition (debug)</En> -->
+  <Debug_AddCondition.IsGivenToDebug>{0} được trao cho {1} (gỡ lỗi)</Debug_AddCondition.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddParty.label>thêm vào tổ đội (gỡ lỗi)</Debug_AddParty.label> <!-- <En>add to party (debug)</En> -->
+  <Debug_AddParty.AddingToPlayerPartyDebug>Đang thêm {0} vào tổ đội người chơi (gỡ lỗi)</Debug_AddParty.AddingToPlayerPartyDebug> <!-- <En>Adding {0} to player party (debug)</En> -->
+
+  <Debug_AddToInventory.label>thêm vào kho đồ (gỡ lỗi)</Debug_AddToInventory.label> <!-- <En>add to inventory (debug)</En> -->
+  <Debug_AddToInventory.IsAddedToSInventoryDebug>{0} được thêm vào kho đồ của {1} (gỡ lỗi)</Debug_AddToInventory.IsAddedToSInventoryDebug> <!-- <En>{0} is added to {1}'s inventory (debug)</En> -->
+
+  <Debug_AddUseEffect.label>thêm hiệu ứng sử dụng (gỡ lỗi)</Debug_AddUseEffect.label> <!-- <En>add use effect (debug)</En> -->
+  <Debug_AddUseEffect.IsGivenToDebug>{0} được trao cho {1} (gỡ lỗi)</Debug_AddUseEffect.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddWorldSituation.label>thêm tình huống thế giới (gỡ lỗi)</Debug_AddWorldSituation.label> <!-- <En>add world situation (debug)</En> -->
+  <Debug_AddWorldSituation.IsAddedDebug>{0} được thêm (gỡ lỗi)</Debug_AddWorldSituation.IsAddedDebug> <!-- <En>{0} is added (debug)</En> -->
+
+  <Debug_AttachToChainPost.label>gắn vào cột xích (gỡ lỗi)</Debug_AttachToChainPost.label> <!-- <En>attach to chain post (debug)</En> -->
+  <Debug_AttachToChainPost.IsAttachedToDebug>{0} được gắn vào {1} (gỡ lỗi)</Debug_AttachToChainPost.IsAttachedToDebug> <!-- <En>{0} is attached to {1} (debug)</En> -->
+
+  <Debug_Control.label>điều khiển nhân vật (gỡ lỗi)</Debug_Control.label> <!-- <En>control actor (debug)</En> -->
+  <Debug_Control.ControllingDebug>Đang điều khiển {0} (gỡ lỗi)</Debug_Control.ControllingDebug> <!-- <En>Controlling {0} (debug)</En> -->
+
+  <Debug_DeSpawn.label>biến mất (gỡ lỗi)</Debug_DeSpawn.label> <!-- <En>despawn (debug)</En> -->
+  <Debug_DeSpawn.IsDespawnedDebug>{0} đã biến mất (gỡ lỗi)</Debug_DeSpawn.IsDespawnedDebug> <!-- <En>{0} is despawned (debug)</En> -->
+
+  <Debug_Destroy.label>phá hủy (gỡ lỗi)</Debug_Destroy.label> <!-- <En>destroy (debug)</En> -->
+  <Debug_Destroy.IsDestroyedDebug>{0} bị phá hủy (gỡ lỗi)</Debug_Destroy.IsDestroyedDebug> <!-- <En>{0} is destroyed (debug)</En> -->
+
+  <Debug_DoWorldEvent.label>thực hiện sự kiện thế giới (gỡ lỗi)</Debug_DoWorldEvent.label> <!-- <En>do world event (debug)</En> -->
+  <Debug_DoWorldEvent.IsInvokedDebug>{0} được kích hoạt (gỡ lỗi)</Debug_DoWorldEvent.IsInvokedDebug> <!-- <En>{0} is invoked (debug)</En> -->
+
+  <Debug_LevelUp.label>lên cấp (gỡ lỗi)</Debug_LevelUp.label> <!-- <En>level up (debug)</En> -->
+  <Debug_LevelUp.ThePlayerLevelsUpDebug>Người chơi lên cấp (gỡ lỗi)</Debug_LevelUp.ThePlayerLevelsUpDebug> <!-- <En>The player levels up (debug)</En> -->
+
+  <Debug_RemoveCondition.label>xóa trạng thái (gỡ lỗi)</Debug_RemoveCondition.label> <!-- <En>remove condition (debug)</En> -->
+  <Debug_RemoveCondition.IsRemovedFromDebug>{0} được xóa khỏi {1} (gỡ lỗi)</Debug_RemoveCondition.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveParty.label>xóa khỏi tổ đội (gỡ lỗi)</Debug_RemoveParty.label> <!-- <En>remove from party (debug)</En> -->
+  <Debug_RemoveParty.RemovingFromPlayerParty>Đang xóa {0} khỏi tổ đội người chơi (gỡ lỗi)</Debug_RemoveParty.RemovingFromPlayerParty> <!-- <En>Removing {0} from player party (debug)</En> -->
+
+  <Debug_RemoveUseEffect.label>xóa hiệu ứng sử dụng (gỡ lỗi)</Debug_RemoveUseEffect.label> <!-- <En>remove use effect (debug)</En> -->
+  <Debug_RemoveUseEffect.IsRemovedFromDebug>{0} được xóa khỏi {1} (gỡ lỗi)</Debug_RemoveUseEffect.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveWorldSituation.label>xóa tình huống thế giới (gỡ lỗi)</Debug_RemoveWorldSituation.label> <!-- <En>remove world situation (debug)</En> -->
+  <Debug_RemoveWorldSituation.IsRemovedDebug>{0} được xóa (gỡ lỗi)</Debug_RemoveWorldSituation.IsRemovedDebug> <!-- <En>{0} is removed (debug)</En> -->
+
+  <Debug_RewindTime.label>tua lại thời gian (gỡ lỗi)</Debug_RewindTime.label> <!-- <En>rewind time (debug)</En> -->
+  <Debug_RewindTime.RewindTurnsDebug>Tua lại {0} lượt (gỡ lỗi)</Debug_RewindTime.RewindTurnsDebug> <!-- <En>Rewind {0} turns (debug)</En> -->
+
+  <Debug_SaveBlueprint.label>lưu bản thiết kế (gỡ lỗi)</Debug_SaveBlueprint.label> <!-- <En>save blueprint (debug)</En> -->
+  <Debug_SaveBlueprint.BlueprintIsSavedDebug>Bản thiết kế {0} được lưu (gỡ lỗi)</Debug_SaveBlueprint.BlueprintIsSavedDebug> <!-- <En>Blueprint {0} is saved (debug)</En> -->
+
+  <Debug_SetGravity.label>thay đổi trọng lực (gỡ lỗi)</Debug_SetGravity.label> <!-- <En>change gravity (debug)</En> -->
+  <Debug_SetGravity.GravityIsChangedForDebug>Trọng lực được thay đổi cho {0} (gỡ lỗi)</Debug_SetGravity.GravityIsChangedForDebug> <!-- <En>Gravity is changed for {0} (debug)</En> -->
+
+  <Debug_SetRampUp.label>thay đổi gia tốc (gỡ lỗi)</Debug_SetRampUp.label> <!-- <En>change ramp up (debug)</En> -->
+  <Debug_SetRampUp.RampUpIsChangedForDebug>Gia tốc được thay đổi cho {0} (gỡ lỗi)</Debug_SetRampUp.RampUpIsChangedForDebug> <!-- <En>Ramp up is changed for {0} (debug)</En> -->
+
+  <Debug_SetScale.label>thay đổi tỷ lệ (gỡ lỗi)</Debug_SetScale.label> <!-- <En>change scale (debug)</En> -->
+  <Debug_SetScale.ScaleIsChangedForDebug>Tỷ lệ được thay đổi cho {0} (gỡ lỗi)</Debug_SetScale.ScaleIsChangedForDebug> <!-- <En>Scale is changed for {0} (debug)</En> -->
+
+  <Debug_Spawn.label>xuất hiện (gỡ lỗi)</Debug_Spawn.label> <!-- <En>spawn (debug)</En> -->
+  <Debug_Spawn.IsSpawnedDebug>{0} đã xuất hiện (gỡ lỗi)</Debug_Spawn.IsSpawnedDebug> <!-- <En>{0} is spawned (debug)</En> -->
+
+  <Debug_SpawnBlueprint.label>xuất hiện bản thiết kế (gỡ lỗi)</Debug_SpawnBlueprint.label> <!-- <En>spawn blueprint (debug)</En> -->
+  <Debug_SpawnBlueprint.BlueprintIsSpawnedDebug>Bản thiết kế {0} đã xuất hiện (gỡ lỗi)</Debug_SpawnBlueprint.BlueprintIsSpawnedDebug> <!-- <En>Blueprint {0} is spawned (debug)</En> -->
+
+  <Debug_Teleport.label>dịch chuyển (gỡ lỗi)</Debug_Teleport.label> <!-- <En>teleport (debug)</En> -->
+  <Debug_Teleport.TeleportsDebug>{0} dịch chuyển (gỡ lỗi)</Debug_Teleport.TeleportsDebug> <!-- <En>{0} teleports (debug)</En> -->
+
+  <Debug_UnfogAll.label>xóa sương mù tất cả (gỡ lỗi)</Debug_UnfogAll.label> <!-- <En>unfog everything (debug)</En> -->
+  <Debug_UnfogAll.EveryCellIsUnfoggedDebug>Mọi ô được xóa sương mù (gỡ lỗi)</Debug_UnfogAll.EveryCellIsUnfoggedDebug> <!-- <En>Every cell is unfogged (debug)</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,34 @@
+<SpecTranslations>
+
+  <Introduction.label>Nowy dom</Introduction.label> <!-- <En>New home</En> -->
+  <Introduction.description>Wejdź do lochu i zabij 3 szkielety.</Introduction.description> <!-- <En>Enter the dungeon and kill 3 skeletons.</En> -->
+  <Introduction.AllSeemsStrangeButYou>Wszystko wydaje się dziwne, ale masz nadzieję, że w końcu nabierze to sensu.\n\nWejdź do swojego pierwszego lochu i zabij co najmniej 3 szkielety, aby zapoznać się z tym miejscem. Spróbuj dotrzeć do końca drugiego piętra, wchodząc do portalu.</Introduction.AllSeemsStrangeButYou> <!-- <En>All seems strange, but you hope it will start making sense eventually.\n\nEnter your first dungeon and kill at least 3 skeletons to get familiar with the place. Try to reach the end of the second floor by entering into the portal.</En> -->
+  <Introduction.IntroductionKillCount>[Introduction_KillCount] / 3</Introduction.IntroductionKillCount> <!-- <En>[Introduction_KillCount] / 3</En> -->
+
+  <MemoryPiece1.label_2>Utrata Pamięci</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
+  <MemoryPiece1.description_2>Znajdź pierwszy Fragment Pamięci na 3. piętrze.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
+  <MemoryPiece1.YouveLostYourMemoryBut>Utraciłeś pamięć, ale jest coś, co może pomóc ci przypomnieć sobie, co się stało, zanim tu trafiłeś.\n\nZnajdź pierwszy Fragment Pamięci na trzecim piętrze.\n\nWszystko to może na początku wydawać się trudne, ale z każdym krokiem będziesz bliżej odblokowania zapomnianych wspomnień.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
+  <MemoryPiece1.dungeonModifiers>Fragment Pamięci na 3. piętrze</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+
+  <MemoryPiece2.label_2>Utrata Pamięci: Rozdzielenie</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
+  <MemoryPiece2.description_2>Znajdź drugi Fragment Pamięci na 4. piętrze.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
+  <MemoryPiece2.YoureMakingProgressYou>Robisz postępy. Powoli zaczynasz sobie przypominać, co się stało - poszedłeś na wycieczkę z przyjaciółmi. Ku twojemu zdziwieniu, Maya też tu jest.\n\nZnalezienie drugiego Fragmentu Pamięci pomoże ci przypomnieć sobie, co wydarzyło się potem. Powinien być w rękach mini-bossa na 4. piętrze.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
+  <MemoryPiece2.dungeonModifiers>Fragment Pamięci na 4. piętrze</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+
+  <MemoryPiece3.label_2>Utrata Pamięci: Jaskinia</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
+  <MemoryPiece3.description_2>Znajdź trzeci Fragment Pamięci na 6. piętrze.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
+  <MemoryPiece3.YoureStartingToRemember>Zaczynasz sobie przypominać, co się stało. Oddzieliwszy się od grupy, natknąłeś się na jaskinię. Niestety, poślizgnąłeś się i złamałeś nogę. Ale co stało się potem?\n\nZnajdź trzeci Fragment Pamięci. Powinien znajdować się gdzieś na 6. piętrze i upewnij się, że weźmiesz ze sobą linę.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
+  <MemoryPiece3.dungeonModifiers>Fragment Pamięci na 6. piętrze</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+
+  <MemoryPiece4.label_2>Utrata Pamięci: Uratowany</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
+  <MemoryPiece4.description_2>Znajdź ostatni Fragment Pamięci na 8. piętrze.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
+  <MemoryPiece4.YoureAlmostThereSurprisingly>Już prawie ci się udało. Co zaskakujące, to Maya znalazła cię w tej jaskini. Jednak wciąż nie rozumiesz, dlaczego tu jesteś. Potrzebujesz więcej odpowiedzi.\n\nZnajdź ostatni Fragment Pamięci. Powinien znajdować się gdzieś na 8. piętrze w trującej pułapce.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
+  <MemoryPiece4.dungeonModifiers>Fragment Pamięci na 8. piętrze</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+
+  <RescueLobbyShopkeeper.label>Ratunek</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
+  <RescueLobbyShopkeeper.description>Uratuj przyjaciela Cienia na 2. piętrze.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
+  <RescueLobbyShopkeeper.ToGetMoreInformation>Aby uzyskać więcej informacji od Cienia, musisz najpierw uratować jego przyjaciela. Jest zamknięty w klatce gdzieś na drugim piętrze tego lochu.\n\nPamiętaj, że możesz wykonywać zadania w dowolnym lochu, o ile ma on wystarczającą liczbę pięter. Im dalej zajdziesz, tym więcej pięter będą miały lochy.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers>Osoba do uratowania na 2. piętrze</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards>Odblokuj nowe pomieszczenie w lobby</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+
+</SpecTranslations>

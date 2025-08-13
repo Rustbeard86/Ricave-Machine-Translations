@@ -1,0 +1,82 @@
+<SpecTranslations>
+
+  <BigMap.label>minitérkép</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>Tartsd lenyomva a(z) [Minimap] vagy a(z) [MinimapAlt] gombot a térkép megtekintéséhez.\n\nA görgővel tudsz nagyítani.\n\nA legfontosabb szobák jelölve lesznek a térképeden.</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>Tartsd lenyomva a(z) [MinimapAlt] gombot a térkép megtekintéséhez.\n\nA legfontosabb szobák jelölve lesznek a térképeden.</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>mászás</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>Menj be a következő szobába és mássz fel a létrán.\n\nLépj a létrát tartalmazó mezőre, majd nyomd meg a(z) [MoveForward] gombot, miközben lenyomva tartod a(z) [Fly] gombot, hogy felmássz.\n\nAlternatívaként egyszerűen kattinthatsz is a létrára.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>Menj be a következő szobába és mássz fel a létrán.\n\nLépj a létrát tartalmazó mezőre, majd nyomd meg a(z) [MoveForward] gombot, miközben lenyomva tartod a(z) [Fly] gombot, hogy felmássz.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>bájital ivás</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>Vedd ki a bájitalt a ládából és idd meg.\n\nMegnyomhatod a megfelelő számgombot, hogy elérd a bájitalt a gyorssávból - ebben az esetben az "1"-est.</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>Vedd ki a bájitalt a ládából és idd meg. Nyomd meg a(z) [Accept] gombot az interakcióhoz.\n\nNyomd meg a(z) [QuickbarMenu] gombot egy menü megjelenítéséhez, amely a gyorssávodban lévő összes tárgyat mutatja.</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>harc</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>Győzd le a csontvázat. Kattints a támadáshoz. [Wait] a várakozáshoz.\n\nAz ellenségek nem mozognak, amíg te nem mozogsz vagy támadsz.\n\nTippek:\n- Mindig gondosan tervezd meg a következő lépésedet.\n- A legtöbb ellenség halálos, és minden életerőpont számít.\n- Kerüld el, hogy egyszerre több ellenség vegyen körül.</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>Győzd le a csontvázat. Nyomd meg a(z) [Accept] gombot a támadáshoz és a(z) [Wait] gombot a várakozáshoz.\n\nAz ellenségek nem mozognak, amíg te nem mozogsz vagy támadsz.\n\nTippek:\n- Mindig gondosan tervezd meg a következő lépésedet.\n- A legtöbb ellenség halálos, és minden életerőpont számít.\n- Kerüld el, hogy egyszerre több ellenség vegyen körül.</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>vizsgálódás</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>Zárd be a leltáradat a(z) [ShowInventory] gomb újbóli megnyomásával, majd tartsd lenyomva a(z) [Inspect] vagy [InspectAlt] gombot a környezet vizsgálatához.\n\nNe felejtsd el megvizsgálni az összes ellenséget, hogy tudd, mennyire veszélyesek.</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>Zárd be a leltáradat a(z) [ShowInventory] gomb újbóli megnyomásával, majd tartsd lenyomva a(z) [Inspect] gombot a környezet vizsgálatához.\n\nNe felejtsd el megvizsgálni az összes ellenséget, hogy tudd, mennyire veszélyesek.</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>Zárd be a leltáradat a(z) [ShowInventory] gomb újbóli megnyomásával, majd tartsd lenyomva a(z) [Inspect] vagy [InspectAlt] gombot a környezet vizsgálatához.\n\nNe felejtsd el megvizsgálni az összes ellenséget, hogy tudd, mennyire veszélyesek.</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>leltár</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>Szereld fel a kardot.\n\nVagy húzd át, kattints rá jobb gombbal, vagy nyomd meg az "1" gombot, hogy elérd a gyorssávból.\n\nA legtöbb tárgy azonosítatlan, és néhányuk még el is van átkozva!</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>Szereld fel a kardot.\n\nNyomd meg a(z) [QuickbarMenu] gombot egy menü megjelenítéséhez, amely a gyorssávodban lévő összes tárgyat mutatja.\n\nA legtöbb tárgy azonosítatlan, és néhányuk még el is van átkozva!</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>kar</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>Minden szinten van egy kar, amely kinyitja a kaput a kijárati szobába. Kattints rá és hagyd el a területet.\n\nDe légy óvatos! A kar meghúzása felébreszti az összes ellenséget a szinten!</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>Minden szinten van egy kar, amely kinyitja a kaput a kijárati szobába. Húzd meg a(z) [Accept] gombbal és hagyd el a területet.\n\nDe légy óvatos! A kar meghúzása felébreszti az összes ellenséget a szinten!</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>mozgás</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>Nyomd meg a(z) [MoveForward], [MoveLeft], [MoveBack], [MoveRight] gombokat a mozgáshoz.\n\nA Ricave körökre osztott. Egy lépés egy körbe telik, tehát mindenki más is veled együtt fog lépni.\n\nKattintással is mozoghatsz.</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>Nyomd meg a(z) [MoveForward], [MoveLeft], [MoveBack], [MoveRight] gombokat a mozgáshoz.\n\nA Ricave körökre osztott. Egy lépés egy körbe telik, tehát mindenki más is veled együtt fog lépni.</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>ajtónyitás</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>Egy ajtó kinyitásához sétálj neki vagy kattints rá.</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>Egy ajtó kinyitásához sétálj neki.</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>leltár</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>Nyomd meg a(z) [ShowInventory] gombot a leltárad megnyitásához.</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>tárgyak felvétele</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>Hasonlóképpen, egy tárgy felvételéhez sétálj rá vagy kattints rá.</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>Hasonlóképpen, egy tárgy felvételéhez sétálj rá.</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>gyorstámadás</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>Menj be a következő szobába és nyomd meg a(z) [AttackNearest] gombot a ládák közelében, hogy automatikusan megtámadd az egeredhez legközelebbi célpontot.\n\nA(z) [AttackNearest] gomb megnyomása kényelmesebb lehet, mint az egér használata. Lehetővé teszi, hogy gyorsan elpusztíts több célpontot magad körül.</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>Menj be a következő szobába és nyomd meg a(z) [Accept] gombot a ládák elpusztításához. Fordulj a(z) [RotateLeft] és [RotateRight] gombokkal, hogy szembenézz velük.</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>forgás</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>Használd az egered a körülnézéshez, vagy nyomd meg a(z) [RotateLeft] vagy [RotateRight] gombot a forgáshoz.\n\nA mozgással ellentétben a forgás nem kerül körbe.</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>Nyomd meg a(z) [RotateLeft] vagy [RotateRight] gombot a forgáshoz.\n\nA mozgással ellentétben a forgás nem kerül körbe.</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>oldalazás</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>Nyomd meg a(z) [MoveLeft] vagy [MoveRight] gombot az oldalazáshoz.</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>testrészek</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Tartsd lenyomva a(z) [Fly] gombot és kattints a csontváz karjára, hogy elpusztítsd, majd végezz vele a szokásos módon.\n\nMinden testrésznek saját életerőpontja van.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Tartsd lenyomva a(z) [Fly] gombot és nyomd meg a(z) [Accept] vagy a Jobb Ravasz gombot a csontváz karján, hogy elpusztítsd, majd végezz vele a szokásos módon.\n\nMinden testrésznek saját életerőpontja van.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>súgók</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>A súgók fontosak! Vigyed az egeret bármi fölé a leltár képernyőn, hogy többet tudj meg róla.\n\nNe felejts el minden talált tárgyat megvizsgálni.</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>A súgók fontosak! Próbáld ki őket, amíg a leltár képernyőd nyitva van.\n\nNe felejts el minden talált tárgyat megvizsgálni.</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>várakozás</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>Nyomd meg a(z) [Wait] gombot, hogy egy kört várj.\n\nA várakozás lehetővé teszi, hogy te sebezhess először, és feltölti a következő támadásodat is.</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

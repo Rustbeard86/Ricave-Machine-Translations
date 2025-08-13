@@ -1,0 +1,15 @@
+<SpecTranslations>
+
+  <Trap_Damage.label>กับดักความเสียหาย</Trap_Damage.label> <!-- <En>damage trap</En> -->
+  <Trap_Damage.description>กับดักแบบใช้ครั้งเดียวที่จะสร้างความเสียหายให้กับใครก็ตามที่เดินผ่าน ยกเว้นคุณ</Trap_Damage.description> <!-- <En>A single-use trap which will deal damage to anyone passing, except you.</En> -->
+
+  <Trap_Drunkenness.label>กับดักมึนเมา</Trap_Drunkenness.label> <!-- <En>drunkenness trap</En> -->
+  <Trap_Drunkenness.description>กับดักแบบใช้ครั้งเดียวที่จะทำให้ใครก็ตามที่เดินผ่านมึนเมา ยกเว้นคุณ</Trap_Drunkenness.description> <!-- <En>A single-use trap which will make anyone passing drunk, except you.</En> -->
+
+  <Trap_Freeze.label>กับดักแช่แข็ง</Trap_Freeze.label> <!-- <En>freeze trap</En> -->
+  <Trap_Freeze.description>กับดักแบบใช้ครั้งเดียวที่จะแช่แข็งใครก็ตามที่เดินผ่าน ยกเว้นคุณ</Trap_Freeze.description> <!-- <En>A single-use trap which will freeze anyone passing, except you.</En> -->
+
+  <Trap_Poison.label>กับดักพิษ</Trap_Poison.label> <!-- <En>poison trap</En> -->
+  <Trap_Poison.description>กับดักแบบใช้ครั้งเดียวที่จะวางยาพิษใครก็ตามที่เดินผ่าน ยกเว้นคุณ</Trap_Poison.description> <!-- <En>A single-use trap which will poison anyone passing, except you.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>プレイ</Play> <!-- <En>Play</En> -->
+  <Quit>終了</Quit> <!-- <En>Quit</En> -->
+  <Loading>ロード中</Loading> <!-- <En>Loading</En> -->
+  <Resume>再開</Resume> <!-- <En>Resume</En> -->
+  <Options>設定</Options> <!-- <En>Options</En> -->
+  <Mods>MOD</Mods> <!-- <En>Mods</En> -->
+  <Credits>クレジット</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>言語を選択</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>死亡してリスタート</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>死亡してロビーに戻る</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>保存してゲームを終了</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>閉じる</Close> <!-- <En>Close</En> -->
+  <Back>戻る</Back> <!-- <En>Back</En> -->
+  <Days>{0}日間</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0}時間</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0}分</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1日</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1時間</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1分</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>エラーが発生しています。\n詳細はログファイルをご確認ください。</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Steamにログイン中</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>MODが選択されていません</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>早期アクセス</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricaveは現在開発中です。\n\n開発チームは常にコンテンツの追加、バランス調整、面白くないシステムの削除、そしてフィードバックの収集に努めていますが、まだ見落としがあるかもしれません。ゲームが難しすぎる、または簡単すぎると感じた場合、バグに遭遇した場合、あるいは改善や新機能に関する素晴らしいアイデアをお持ちの場合は、ぜひ開発プロセスにご参加いただき、DiscordチャンネルやTwitterでご意見をお聞かせください。\n\nご協力に感謝します。どうぞお楽しみください！\n～Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>ゲームがアップデートされました</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricaveがバージョン{0}にアップデートされました！\n\n現在のプレイデータは新しいバージョンと互換性がない可能性があります。現在のプレイを中断してロビーに戻りますか？</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Steamにアップロード</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>アップロード中</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Steamへのアップロードに失敗しました: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Steamへのアップロードに成功しました。</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>メッセージ</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>解像度</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>フルスクリーン</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>UIスケール</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>視野角(FOV)</FOV> <!-- <En>FOV</En> -->
+  <VSync>垂直同期(VSync)</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>目標フレームレート</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>FPSを表示</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Y軸反転</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>キー割り当て</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>音量</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>BGM音量</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>マウス感度</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>ポインター感度</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>SSAO品質</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>影の品質</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>ダウンサンプリング</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>アウトライン</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>最大ライト数</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>オフ</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>低</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>中</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>高</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>低</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>中</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>高</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>なし (最高品質)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5x (低品質)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (最低品質)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>マルチパス (丸みあり)</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>マルチパス</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>シングルパス (推奨)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>OK</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>初期設定に戻す</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>ゲームの状態をリセット</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>ロビーに戻る</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>全進行状況をリセット</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>本当にロビーに戻りますか？\n\nゲーム内でロビーに戻るのとは異なり、このオプションを使用すると現在のプレイの進行状況が失われます。ただし、ロビーの全体的な進行状況（以前のクエストやスターダスト）は失われません。\n\n互換性のないアップデートをインストールした後など、セーブファイルが破損している場合にこのオプションを使用してください。</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>本当にすべての進行状況をリセットしますか？\n\nすべてのデータが消去され、最初からやり直すことになります。\n\nゲームを最初から体験したい場合、または進行状況データが破損している場合にのみ、このオプションを使用してください。</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>割り当てるキーを押してください:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>なし</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>ビデオ</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>インターフェース</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>オーディオ</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>その他</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>品質</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>いいえ</No> <!-- <En>No</En> -->
+  <Yes>はい</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>ダンジョンに入る</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>シードを使用してダンジョンに入る</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>トレーニングルームに入る</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>シードを入力</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>進行状況は無効</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>ハイスコア</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>到達階層</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>平均到達階層</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>挑戦回数</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>総キル数</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>クエスト</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>統計</Stats> <!-- <En>Stats</En> -->
+  <Cancel>キャンセル</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>承諾</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>クエストを受注</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>受け取る</Claim> <!-- <En>Claim</En> -->
+  <Postpone>後回しにする</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>ロック中</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>お買い得品ばかりだよ！</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>アップグレードはいるかい？</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>スターダストは持ってるかい？</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>クリックして続きを読む</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>選択して続きを読む</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>受注時のダンジョン補正</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>報酬</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>パズルピース {0} / {1}</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>レベル{0}でアンロック</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>クエスト完了でアンロック</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>設置</Place> <!-- <En>Place</En> -->
+  <PickUp>拾う</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>[ShowInventory] を押してショップメニューを開く</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>なし</None> <!-- <En>None</En> -->
+  <CompletedQuests>完了したクエスト</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>完了済み</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>デイリーチャレンジ</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>挑戦は一度きり - 全力を尽くせ！</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>毎日、世界中のプレイヤーが同じダンジョンシードをプレイします。挑戦できるのは1日1回だけです。\n\nルール:\n  - 難易度ノーマル\n  - ブースト無効\n  - クラスと特性はランダム\n  - クエスト無効\n  - 進行状況は無効\n  - 階層制限なしのエンドレスダンジョン\n\nこのダンジョンではスターダストを収集できず、統計にもカウントされませんが、参加報酬として{0}を受け取れます。</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>次のチャレンジまで: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>自己ベストスコア (全期間): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>デイリーチャレンジを開始</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>本日のチャレンジはすでにプレイ済みです\nあなたのスコア: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>先にMODを無効にしてください</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>レベル{0}でアンロック</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>本日のリーダーボードを表示</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>グローバル</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>フレンド</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>あなたの順位: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>リーダーボードをロード中...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>リーダーボードのロードに失敗しました。</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>利用可能なリーダーボードがありません。</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>このチャレンジをプレイしたフレンドはまだいません。</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>進行中のクエスト</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>進行中</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>受注可能なクエスト</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>受注可能</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>完了済みのクエスト</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>完了済み</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>[Wait] を押して続行</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>クエスト</Quest> <!-- <En>Quest</En> -->
+  <Runs>プレイ回数</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>受注可能なクエストが1件あります</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>受注可能なクエストが{0}件あります</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>クエストログからクエストを受注してください。</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>プレイヤー名</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>難易度</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>敵</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>ボス</Bosses> <!-- <En>Bosses</En> -->
+  <Train>訓練</Train> <!-- <En>Train</En> -->
+  <EnterNewName>新しい名前を入力</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>敵のHP</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>初期HP</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>スコア</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>追加の敵</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>階層ごとのパン</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>階層ごとの体力ポーション</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>敵のレベル</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>階層ごとのゴールド</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>スターダスト</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>回復クリスタル</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>小さな回復クリスタル</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>マナクリスタル</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>小さなマナクリスタル</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>敵の数</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>初期体力ポーション</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>おめでとうございます！</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>おめでとうございます！\n\n最終スコアは{0}でした。\n\nメインクエストは終了しましたが、まだ発見すべき多くのことが残っているかもしれません。\n\nゲームを楽しんでいただけたなら、{1}のDiscordサーバーへの参加をご検討ください。</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>次の特性の価格</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>まずこの特性をアンロックする必要があります。\n\nスターダストでランダムな特性を購入できます。すでに所有している特性が多いほど、次の特性の購入価格は高くなります。</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>この特性での最高到達階層: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>特性は2つまでしか選択できません。</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>スターダストが不足しています。</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>クリックしてこの特性を選択または選択解除します。</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>この特性を選択または選択解除します。</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>クリックして選択または選択解除します。</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>選択または選択解除します。</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>{0}個のランダムな特性を購入</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>選択中の特性</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>本当に{0}で{1}個のランダムな特性を購入しますか？</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>{0}を持って開始</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>{0}多くゴールドを発見</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>{0}少なくゴールドを発見</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>最大HP</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>最大マナ</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>最大スタミナ</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>{0}に非敵対</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>{0}に敵対</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>毒耐性 {0}</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>毒脆弱性 {0}</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>毒無効</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>落下ダメージ無効</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>落下ダメージ {0}</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>火炎耐性 {0}</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>火炎脆弱性 {0}</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>魔法耐性 {0}</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>魔法脆弱性 {0}</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{1}へのダメージ {0}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>スタミナ回復速度が{0}倍遅くなる</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>スタミナ回復速度が2倍遅くなる</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>HPが{1}未満の時、与えるダメージが{0}増加</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>レベル毎の最大HP上昇量 {0}減少</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>レベル毎の最大HP上昇量 {0}増加</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>歩行音 {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>相応の敵を倒すごとにマナを{0}回復</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>相応の敵を倒すごとにHPを{0}回復</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>相応の敵を倒すごとにHPを{0}失う</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>インベントリスロット {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>最大HP x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>ボスへのダメージ {0}</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>自然回復率 {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>{0}無効</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>ノックバック無効</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>空腹率 {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>店の価格 {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>飛行可能</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>獲得経験値 {0}増加</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>獲得経験値 {0}減少</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>前回のランからの持ち越しXP</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>前回のランからの持ち越しゴールド</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>残り1ラン</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>残り{0}ラン</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>開始</StartNewRun> <!-- <En>Start</En> -->
+  <Character>キャラクター</Character> <!-- <En>Character</En> -->
+  <Traits>特性</Traits> <!-- <En>Traits</En> -->
+  <Boosts>ブースト</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>階層</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0}階</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>階層ごとの部屋数</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>{0}でアンロック</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>クリア済み難易度</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>ミニボス</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>シェルター</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>救出した魂</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>勝利数</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>敗北数</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>{0}ボス</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>干渉部位</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>特に明記されていない限り、コスメティックは純粋に外見上のアイテムであり、ゲームプレイへの影響はありません。</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>{1}で{0}を購入しますか？</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>このコスメティックを購入できません。</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>価格</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>警告: このコスメティックを装備すると{0}が敵対します</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>追加ダンジョン効果</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>お前の時間は借り物だ。\n私はただ借りを回収しているだけだ。\nせいぜい、逃げ続けるがいい。\nいずれ出口は見つかるだろう。\n私はそのすぐ先にいる。</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>未発見の敵</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>HP {0}</HP> <!-- <En>{0} HP</En> -->
+  <Mana>マナ {0}</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>スタミナ {0}</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0}～{1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>奇襲された</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>高所ボーナス</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>弾き返しによる</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>ダメージ拡散</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>未識別</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>呪われた</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>呪われた</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1ターン</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0}ターン</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1回使用</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0}回使用</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1チャージ</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0}チャージ</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1ダイヤモンド</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0}ダイヤモンド</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1スターダスト</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0}スターダスト</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1セル</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0}セル</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1ゴールド</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0}ゴールド</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}G</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>[Accept]で続行</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>[Accept]でロビーに戻る</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>[Wait]でリスタート</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>選択肢なし</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>警告：このアイテムは{0}の可能性があります。</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>警告：このアイテムは{0}です。</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>{0}アイテムは（呪い解除の巻物なしでは）装備を外せません。</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>ゴールド</Gold> <!-- <En>Gold</En> -->
+  <Leave>立ち去る</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>ターン毎に2回行動</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>ターン毎に{0}回行動</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>2ターン毎に行動</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>{0}ターン毎に1回行動</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>空腹にならない</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>空腹になる速度が2倍</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>空腹になる速度が{0}倍</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>空腹になる速度が半分</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>空腹率倍率: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>{0}ゴールドを投げる</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>確率 {0}</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>{0}ターン分</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>範囲 {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>マップ全体</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>壁貫通</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>ターゲット周辺</AroundTarget> <!-- <En>around target</En> -->
+  <Used>使用済み</Used> <!-- <En>Used</En> -->
+  <Waiting>待機中</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>中断</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>場所</Location> <!-- <En>spot</En> -->
+  <StopTargeting>ターゲット中止</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>クエスト完了</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>ロビーに戻って報酬を受け取りましょう</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>静止</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>一歩</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>{0}を{1}で購入しますか？</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>これは一回限りのボーナスで、次のランにのみ適用されます。</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>購入</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>{0}後に使用可能</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>このキャラクターの固有武器です。</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>新しい呪文を選んでください。\n\nレベルアップするたびに新しい呪文を選択できます。</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0}を討伐</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>ヒント: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>[MoveForward][MoveLeft][MoveBack][MoveRight]で移動。[ShowInventory]でインベントリを開く。[Interact]でオブジェクトとインタラクト。[RotateLeft]と[RotateRight]で回転。[Inspect]長押しで調査。[Wait]でターンを待機。</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>待機</Waits> <!-- <En>Waits</En> -->
+  <Wait>待機</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>待機（酩酊）</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>待機（パニック）</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>待機（{0}）</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>目を覚ます</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>どこだ？！</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>腕なし</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>脚なし</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>敵対的</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>欠損部位あり</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>誰かに見られている</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>ボスはまだ生きている</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>マナ不足（{0}）</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>スタミナ不足（{0}）</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>クールダウン（{0}）</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>もっと近くへ</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>無効なターゲット</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>範囲外</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>射線なし</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>{0}が必要</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>届かない</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>インベントリが満杯</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>同じクリスタルが2つ必要</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>スピリットが必要</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>シャベルが必要</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>シャベルを使う</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>ツルハシが必要</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>ツルハシを使う</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>一部のパーティメンバーが遠すぎる</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>ドアが塞がれている</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>{0}のフォロワーは既に存在します</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>あなたに{0}ダメージ</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0}ダメージ</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>あなたを{0}回復</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>毎ターン{0}ダメージ</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{1}ターン毎に{0}ダメージ</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>毎ターン{0}</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{1}ターン毎に{0}</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>すべて</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>あなたを{0}回復</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>または</Or> <!-- <En>or</En> -->
+  <And>と</And> <!-- <En>and</En> -->
+  <Score>スコア</Score> <!-- <En>Score</En> -->
+  <FloorReached>到達階層</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>討伐数</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>プレイ時間</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>討伐数</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>戦闘評価</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>討伐ボス数</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>収集済みロビーアイテム</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>次の報酬はレベル{0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}日</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}時間</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}分</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>なし</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>新記録！</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>など</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>シード: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1つの補正</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0}個の補正</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>{0}ゴールドを賭ける</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>チュートリアル</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>討伐ボス数</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>完了したクエスト</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>見つけたメモ</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>開けた宝箱</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>クラフトしたアイテム</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>コモン</Common> <!-- <En>Common</En> -->
+  <Uncommon>アンコモン</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>レア</Rare> <!-- <En>Rare</En> -->
+  <Epic>エピック</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>未鑑定</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>ロビー（永続）アイテム</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>ロビー</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>負傷</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>近くの火事</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>大きな音</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>味方が近くで目覚めた</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>敵の足音</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>警戒中の味方が通過</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>ドアを蹴った</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>ミス</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} ミス</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} クリティカル</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>クリティカル</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>クリティカルヒット</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>チャージ</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>利用可能なレシピ</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>{0}ターン待機</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>{0}ターン巻き戻す</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>所持数: {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>ベビー{0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>{0}ボス</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>どうやらどこかのダンジョンにいるようだ…</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>ここがどこなのか、どうしてたどり着いたのかも分からない。</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>周りのすべてがどこか夢のようであり、同時に、ただの夢にしてはリアルすぎる感覚がある。</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>ゆっくりと何かが思い出されてくる。少なくとも、自分の名前はわかる。</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>あなたの名前は：</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>遠くに誰かの姿を認めたが、見えたのは影だけだった。確かめに行くべきだろう。</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>ゆっくりと目を開ける…</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>病院で目を覚ます。</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"起きたわ！"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"何が起きたんだ？"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"友達とハイキングに行って、頭に大怪我を負ったのよ。"</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"救助隊が間一髪であなたを見つけたの。今は休んで体力を回復させないと。"</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"マヤはどこだ？"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"マヤって誰？"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"彼女が最初に俺を見つけてくれたんだ。彼女は無事なのか？"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"少し混乱しているようだけど、すぐに回復するわ。"</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>…</Ending11> <!-- <En>...</En> -->
+  <Ending12>戸惑いながらも、奇妙な達成感がある。まるで自分が何か変わったかのように。</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>目を閉じ、深く息を吸い込むと、顔に当たる太陽の暖かさが思い浮かぶ。新鮮な空気が肺を満たし、思わず笑みがこぼれる。</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>デモをプレイしていただき、ありがとうございます！</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>制作者</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>メインメニュー背景アート</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>音楽</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>ロゴ</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>キャラクターモデル</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>効果音提供</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>プレイしていただき、ありがとうございます！</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>森… ビンゴだ！ここに来る前に何があったか思い出し始めた。暖かい夏の日、鳥のさえずり、地平線に広がる美しい山々――友達とハイキングに行ったんだ。しかし、その時、何かが君の注意を引いた。グループから離れたことは覚えている。でも、なぜ？</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>洞窟だ！助けを求める誰かの叫び声を聞いて、君はグループを離れた。困っている他のハイカーだと思い、声のする方へ向かい洞窟に入った。中で滑って転び、足を骨折してしまった。助けを呼んだが、誰も答えない。一人きりで負傷し、希望は薄れていった…</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>何時間も洞窟で一人座っていた。夜になり雨が降り始めると、ほとんどすべての希望を失いかけた。永遠に続くかと思われた後、洞窟の入り口に光が見えた。それは…マヤだった！心から安堵した！</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>マヤに会えて大喜びだった。彼女が君を引き上げようと手を差し伸べ、一瞬、助かるかと思われた。しかし、絶え間ない雨で彼女は足を滑らせ、二人とも転がり落ち、岩に激しく体を打ち付けた。その後、すべてが静寂に包まれた。</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>装備</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>クラフト</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>鑑定</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>名前</Name> <!-- <En>Name</En> -->
+  <Level>レベル</Level> <!-- <En>Level</En> -->
+  <Experience>経験値</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>XP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>攻撃力</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>現在装備しているすべてのアイテムを確認できます。</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>新しいアイテムをクラフトするために使用できるすべてのレシピを確認できます。呪いを解いたり、欠損した手足を治療したりする必要がある場合に役立つかもしれません。</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>インベントリ内にあるすべての未鑑定アイテムを確認できます。\n\n各アイテムは時間経過とともに徐々に鑑定されます（空腹時を除く）。リストの一番上にあるアイテムが最初に鑑定されます。\n\nドラッグ＆ドロップで順番を入れ替えられます。</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>未鑑定のアイテムはありません</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>これは鑑定キューです。ドラッグ＆ドロップで、時間経過とともに次に鑑定するアイテムを決定します。放浪者のところでアイテムを鑑定することもできます。</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>クラフト</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>隣接</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>購入したブーストは失われます</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>ナイトメア・ロード</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>ヒプノラック</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>ファンタズモス</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>利用可能なスキルポイント</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>アンロック済みのスキル</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>アンロック済みの実績</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Cancel]でキャンセル</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESCでキャンセル</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>敵</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>既知のメンバー</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>現在地</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>この道を選ぶと、以下を受け取ります</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>どこへ進む？</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>より多くの敵</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>より少ない敵</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>通常の敵</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>より多くのゴールド</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>より少ないゴールド</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>通常のゴールド</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>敵の数</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>ゴールドの戦利品</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>クリスタル</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>{0}のクリスタル</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>HPを{0}回復</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>この移動で穴に落ちます。本当によろしいですか？\n\n下の階のランダムな場所に落ち、体力がいくらか減少します。戻ることはできません。</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>この移動で今回の挑戦は終了します。本当によろしいですか？</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Rewind]で巻き戻し</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>[Inspect]で周囲を調べるのを忘れずに。</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>脱出！</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>報酬</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>ここは一体…？出口を見つけなくては…</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>ここに来るたびに、このダンジョンは姿を変える。一体なぜ…？</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>一歩一歩が不気味なほど馴染み深い。まるで以前にもここに来たことがあるかのようだ。</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>この先に何かがある…感じるぞ。</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>今のは戦いに勝ったのか、それとも何かを理解したのか？</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>すべてが、この先にあるものへと繋がっている気がする。</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>まるで…心の重荷が取り除かれたようだ。奇妙な感覚だ。</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>何をぐずぐずしている？</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>今のは何だ？</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>力尽きた</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>脱出した</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>挑戦完了</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>レバーを見つけて\n開ける</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>チュートリアルに\n従って開ける</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>助けて</Help> <!-- <En>Help</En> -->
+  <HelpMe>助けてくれ</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>こっちだ</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>[Inspect]長押しで読む</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>メインクエスト</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>サイドクエスト</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>エクストラ</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>ロビーでクエストの受注や延期ができます。</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>一部のクエストは、十分な階層を持つダンジョンでしか完了できない点にご注意ください。</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>次のダンジョンをアンロック</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>このダンジョンの{0}階の最後に到達して、次のダンジョンをアンロックする。</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>パズルのピースを見つける</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>{0}階で次のパズルのピースを見つける。現在{1}/{2}個所持。</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>スピリット救出</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>このダンジョンには1体のスピリットがいます。シェルターに連れて行き、解放してあげましょう。</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>このダンジョンには{0}体のスピリットがいます。シェルターに連れて行き、解放してあげましょう。</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>警告：これらの仲間はここに残されます</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>呪文を選択</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>呪文を選択 ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>新しい呪文</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>ホットバーと呪文</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>レベル{0}でアンロック</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>貴重な通貨、スターダストを集めました！\n\nスターダストはロビーで消費することで、次の挑戦のためのブーストを購入したり、特別な部屋をアンロックしたりできます。\n\n「ロビーアイテム」と表示されているアイテムはすべてロビーに持ち帰れます。それ以外のアイテムは挑戦が終了すると失われます。</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>パズルのピースは、スターダストと同様に、恒久的なロビーアイテムです。\n\n異なる挑戦で{0}個すべて集めると、ロビーの秘密の部屋がアンロックされます。</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>仲間ができました。\n\nあなたが移動するたびに、ロコは隣接するマスのゴールドコインを自動的に集めてくれます。\n\nチーズ1個で、ロコは1回の挑戦の間だけあなたについてきます。</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>パーティーメンバーが加わりました。\n\nメンバーを切り替えて、それぞれのインベントリを個別に管理できます。各パーティーメンバーは独立して自分のターン行動します。</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>最大HP +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>クリティカル率 +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>ミス率 -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% 火炎</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>キック</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>このキャラクターは物を蹴ることができます。</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>この階には記憶の欠片があります</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>探してみましょう</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>検索</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>発見したアイテム</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>発見したクリーチャー</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>コーデックスには、アイテムやクリーチャーが呪われていない通常状態で表示されます。実際のアイテムやクリーチャーは異なる場合があります。</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>デイリーチャレンジ</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>クラス</Class> <!-- <En>Class</En> -->
+  <NoClass>クラスなし\n\n効果：\n- 名声と栄光</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>レベル{0}でアンロック</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>効果</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>アビリティ：{0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>最大HP</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>最大マナ</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>最大スタミナ</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>アンデッド（スケルトン、マミーなど）に{0}ダメージ</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} 火炎耐性</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} 火炎脆弱性</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>空腹率 {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>感圧板を作動させない</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>毒無効</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>ノックバック無効</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>犬が敵対的になる</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>歩行音 {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>このクラスでの最大到達階層：{0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>クラスなしでの最大到達階層：{0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0}は{1}の{2}ダメージを受けた</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0}は{1}の{2}ダメージを受けて倒された</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} XP</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0}は{1}の{2}ダメージを受けなかった</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0}は{1}を回復した</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0}は{1}の{2}ダメージを受けた</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0}は{1}の{2}ダメージを受けて破壊された</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0}は{1}の{2}ダメージを受けなかった</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0}は{1}を回復した</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{0}の{1}が破壊された</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0}は{1}の{2}ダメージをブロックした</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0}は{1}の{2}ダメージを{3}に跳ね返した</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0}は押し出された</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0}は引き寄せられた</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0}は新しい状態異常にかかった：{1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0}は新しい効果を得た：{1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{0}の{1}が回復した</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{0}のマナが{1}回復した</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{0}のスタミナが{1}回復した</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0}が鑑定された</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0}の効果が切れた</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0}の効果が切れた</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0}は{1}を拾った</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>それは{0}だった</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>それは{0}だ</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0}は{1}だった！ (解呪の巻物を見つけるかクラフトする必要があります)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>あなたの{0}は{1}になった！</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>{0}から呪いが解かれた</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0}はランダムな場所にテレポートした</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0}はテレポートした</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0}が開いた。さあ、出口を見つけよう。</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0}が開いた</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>背後でゲートが閉まった</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0}はシューッと音を立てたが、何の効果もないようだ</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>あなたは飢えている</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>あなたは空腹だ</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>{0}を購入した</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>レベルアップ！</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>新しい呪文を選択できます。</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>レベルアップ</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>{0}に危害を加えたため、シールド効果が解除されました</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0}が目を覚ました</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>合計{0}個</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>あなたは自らを犠牲にした</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>あなたの勝ち</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>あなたの負けです</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>試練を完了し、{0}を受け取りました</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>グリフのパズルを解き、{0}を受け取りました</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>{0}によって救われました</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0}は{1}によって救われました</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>試練に失敗しました</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0}が複製されました</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0}が破壊されました</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>ここにはもう何もありません</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>{0}を釣りました</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0}は{1}で起動します</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>{0}を受け取りました</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>悪魔の像はあなたの{0}を受け入れ、{1}を授けました</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0}は{1}を受け取りました</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0}の攻撃は外れた</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>{0}が近くに出現しました</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0}は{1}を{2}に渡しました</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>{0}派閥が敵対的になりました</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>材料が足りません</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>このアイテムはこのスロットには入りません</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0}は{2}から{1}を盗みました</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>{0} x{1}を集めました</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>スキルポイントを獲得しました！インベントリを開いて使用してください。</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>{0}を解放し、{1}を受け取りました</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>{0}のレベルがアップグレードされました</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>呪われたアイテムは装備解除できません</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0}は{1}をクラフトした</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>自分に使う</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>対象に使う...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>飲む</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>投げる...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>食べる</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>投げる...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>罠を設置...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>投げる...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>植える...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>自分に使う</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>攻撃...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>自分に唱える</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>対象に唱える...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>満たす...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>ドアを塞ぐ...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>自分を鎖で繋ぐ</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>鎖で繋ぐ...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>設置...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>拾う...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>魚を釣る...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>採掘...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>話す...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>エンチャント</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>掘る...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>自分を蹴る</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>蹴る...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0}は{1}で自分を攻撃した</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0}は{1}で{2}を攻撃した</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0}は{1}を使った</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0}は{2}に{1}を使った</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0}は{1}を飲んだ</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0}は{2}に{1}を投げた</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0}は自分に{1}を使った</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0}は{2}に{1}を使った</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0}は{2}に{1}を投げた</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0}は{1}を開けた</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0}は{1}を閉めた</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0}は{1}を掘り起こした</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0}は{1}から水を飲んだ</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0}は{1}で装備をエンチャントした</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0}は階段を降りた</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0}は階段を上った</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0}は{1}を引いた</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0}は{1}で祝福を受けた</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0}は{1}を食べた</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0}は{1}を設置した</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0}は{1}で泳いだ</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0}は{1}で燃えた</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0}は{1}を踏んだ</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0}はテレポートした</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0}は{2}に{1}を投げた</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0}は{1}を植えた</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0}は自分に{1}を唱えた</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0}は{2}に{1}を唱えた</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0}は{1}を水で満たした</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0}は{2}を塞いだ</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0}は自分を柱に鎖で繋いだ</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0}は{2}を柱に鎖で繋いだ</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0}は{1}を設置した</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0}は{2}を拾った</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0}は自身の傷に包帯を巻いた</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0}は{2}の傷に包帯を巻いた</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0}は手術を行った</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0}は{2}に手術を行った</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0}は{1}を捜索した</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0}は{1}でギャンブルをした</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0}は{1}を押した</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0}は{1}でチャレンジを開始した</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0}は{1}でアイテムを複製した</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0}は{2}で魚を釣った</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0}は自身の火を消した</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0}は{2}の火を消した</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0}は{1}を研究した</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0}は{1}を捜索した</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0}は{1}で眠った</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0}は{1}で{2}を採掘した</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0}は{2}と話した</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0}は{1}でアイテムをエンチャントした</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0}は{1}で{2}を掘った</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0}は{1}で四肢を捧げた</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0}は{1}でファントムを召喚した</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0}は{1}で魂を解放した</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0}は{1}を掃除した</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0}は{1}でスキルポイントを獲得した</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0}は自分を蹴った</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0}は{2}を蹴った</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0}は{1}で装備をアップグレードした</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0}は{1}に呪われたアイテムを捧げた</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>上</Up> <!-- <En>up</En> -->
+  <Down>下</Down> <!-- <En>down</En> -->
+  <North>北</North> <!-- <En>north</En> -->
+  <South>南</South> <!-- <En>south</En> -->
+  <West>西</West> <!-- <En>west</En> -->
+  <East>東</East> <!-- <En>east</En> -->
+  <NorthWest>北西</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>北東</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>南西</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>南東</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>上-北</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>上-南</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>上-西</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>上-東</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>上-北西</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>上-北東</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>上-南西</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>上-南東</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>下-北</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>下-南</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>下-西</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>下-東</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>下-北西</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>下-北東</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>下-南西</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>下-南東</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>スタート</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>エンド</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>レバー</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>はしご</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>ボス</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>奇襲のチャンス</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>このキャラクターは前のターンであなたに気づいていませんでした。今攻撃すると、{0}の追加ダメージを与えます。</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>あなたの真上</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>このキャラクターは現在あなたの真上にいます。この位置から攻撃を受けると、{0}の追加ダメージを受けます。</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>下方にいる</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>このキャラクターはあなたの下にいます。この位置から攻撃すると、{0}の追加ダメージを与えます。</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>視認不能</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>このキャラクターはあなたを認識していません（あなたほど遠くは見えません）。ただし、最後にあなたを見かけた場所を覚えていて、確認しに来るかもしれないので注意してください！</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>落下中</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>このキャラクターは落下中です。次のターンは行動を起こす代わりに、落下することになります。</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>未鑑定の効果</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>未知の効果。未鑑定のアイテムから発生しています。</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>あなたは2体以上の敵に囲まれています。この位置からこのキャラクターを攻撃すると、{0}の追加ダメージを与えます。</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>未鑑定の効果</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>未知の効果。未鑑定のアイテムから発生しています。</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nこれは現在のゲーム内時間です。1分が1ターンに相当します。\n\nゲーム全体がターン制です。歩く、ポーションを飲む、攻撃する、物とインタラクトするなど、ほとんどの行動は1ターンを消費します。\n\n経過ターン数: {2}\nこの階層で: {3}</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>これはあなたのキャラクターのヒットポイントです。\n\n特定のアイテムは最大ヒットポイントを増加させることがあります。レベルが1上がるごとに、最大ヒットポイントが{0}増加します。</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>空腹または飢餓状態でなければ、{1}ごとに{0}回復します。</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>次のヒットポイント回復まで: {0}</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>体力が最大値を超えているため、減少しています。</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>マナが最大値を超えているため、減少しています。</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>スタミナが最大値を超えているため、減少しています。</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>このアイテムは{0}後に鑑定されます。ドラッグ＆ドロップで順番を変更できます。</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>このアイテムは{0}です。しかし、あなたの優れた知覚力のおかげで、これが以下のいずれかであることがわかります:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>この種のアイテムは一度使用すると、恒久的に鑑定済みになります。</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>このアイテムは{0}です。未知の効果を持ち、「{1}」である可能性があります（「{1}」アイテムは装備解除できません）。放浪者は鑑定を手伝ってくれます。</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>このアイテムは{0}です。{0}アイテムは装備解除できません（呪い解除の巻物なしでは）。</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>おめでとう！;君ならできる！;ずっと信じてたよ！;あと少し！;君みたいにすごかったらな！;素晴らしい！;その調子！;君は最高だ！;やったね！;いいね！;君はすごい！</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>1階へようこそ。\n\nあなたの旅はここから始まります。この看板を読むのは初めてではないかもしれませんが。\n\n最初は難しく感じることもあるかもしれませんが、それでいいのです。何よりも忘れてはならないのは、負けることは楽しいということ！</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>{0}階へようこそ。</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>ここで、全ての魂は己が道を見つけるために足を止める。</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>{0}にて討伐。</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>インベントリ内の金貨の数です。このダンジョンには取引を望む者もいるかもしれません。</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>次の{0}が出現するまで</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>これ以上出現しない</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>{0}で消滅します。</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>{0}で拡散します。</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>次の行動まで{0}。</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>{0}で発動します。</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>発生源</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>発生源: 難易度</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>発生時期</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>[Fly]+[MoveForward]で上昇、[Fly]+[MoveBack]で下降します。</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>[Fly]を長押しでドアを蹴ります。</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>[Rewind]で時間を巻き戻します。</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>このアイテムの使用はターンを消費しません。</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>このアイテムの使用は{0}ターンを消費します。</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>このアイテムの使用は{0}ターンを消費します。</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>この呪文の使用はターンを消費しません。</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>この呪文の使用は{0}ターンを消費します。</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>この呪文の使用は{0}ターンを消費します。</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>この行動はターンを消費しません。</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>この行動は{0}ターンを消費します。</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>この行動は{0}ターンを消費します。</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>このオブジェクトとのインタラクトはターンを消費しません。</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>このオブジェクトとのインタラクトは{0}ターンを消費します。</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>このオブジェクトとのインタラクトは{0}ターンを消費します。</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>このオブジェクトは可燃性です。</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>誰にも見られていない時のみ使用できます。</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>このオブジェクトは壊れやすいです（爆発で破壊されます）。</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>空腹のため、鑑定が停止しました。</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>クリックして拾う</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>クリックしてインタラクト</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>クリックして購入</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>インタラクトして拾う</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>このオブジェクトとインタラクト</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>インタラクトして購入</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>このアイテムは下の階層へ行くと消滅します。</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>次のレベルまでの進行状況です。敵を倒すことで経験値を獲得できます。\n\n次のレベルまで: {0} XP\n現在のレベル: {1}\n合計経験値: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>現在のレベルです。敵を倒すことでレベルアップできます。\n\nレベルが1上がるごとに、最大ヒットポイントが{0}増加します。さらに、レベルアップするたびに新しい呪文を選択できます。\n\n次のレベルまで: {2} XP\n合計経験値: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>すべてのプレイの合計スコアに基づく現在のレベルです。敵を倒したり、ゲームを進行させたりすることでスコアを獲得できます。\n\n次のレベルまで: {0} スコア\n合計スコア: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>現在の満腹度: {0}/{1}\n\n空腹を満たし、悪影響を避けるためには定期的に食事をする必要があります。\n\n満腹度が{2}に達すると空腹状態になり、体力回復やアイテム鑑定ができなくなります。\n\n満腹度が{3}に達すると飢餓状態になり、スタミナが回復せず、時間と共に体力がゆっくりと減少します。</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>現在のダンジョンの階層です。深く潜るほど生き残るのは難しくなりますが、その分楽しみも増します！</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>{0}の経験値を与える</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>警告: 倒した場合、この派閥の全メンバーが敵対的になります。</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>戦術: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>このキャラクターは次の階層まであなたについてきます。</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>状態</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>武器</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>呪文</Spells> <!-- <En>Spells</En> -->
+  <Talk>話す</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>死亡時</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>装備中</Worn> <!-- <En>Worn</En> -->
+  <Inventory>インベントリ</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>情報</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>{0} 消費</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>{0} 消費</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>キャラクターのマナです。\n\n呪文を唱えたり、魔法のアイテムを使用したりするとマナを消費します。マナは時間経過で自動回復せず、マナポーションを飲むか、特別なオブジェクトとインタラクトすることでのみ補充できます。呪文を覚えていない場合、マナバーは表示されません。\n\nレベルアップするたびに新しい呪文を選択できます。</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>キャラクターのスタミナです。\n\n特定のアイテムを使用する際にスタミナが必要になることがあります。インベントリにスタミナを必要とするアイテムがない場合、スタミナバーは表示されません。</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>飢餓状態でなければ、{1}ごとに{0}回復します。</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>次のスタミナ回復まで: {0}</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>新しい呪文を選択します。レベルアップするたびに新しい呪文を選択できます。</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>HP低下時に逃走</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>この時計で意のままに時間を巻き戻せます！ [Rewind]を押して直前のターンを巻き戻しましょう。\n\n直前の行動の結果が気に入らない時や、単純にクリックを間違えた時に使いましょう。\n\n時計には一度に巻き戻せるターン数に制限がありますが、{0}ターンごとに再チャージされます。巻き戻しの巻物のような他の時間操作アイテムとは異なり、未鑑定のポーションや巻物を使ったり、呪われたアイテムを装備したり、罠を踏んだり、銀の鍵を使ったりすると、時計の残りのチャージはすべて失われます。\n\nRicaveの全ての行動は決定論的です。つまり、巻き戻した後に同じ行動をすると、与えるダメージや敵の行動決定を含め、すべてが以前と全く同じように再生されます。より高いダメージを出すために時間を巻き戻しても意味はありません。</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>補充まで: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>星くずはダンジョン内の様々な場所で見つかるほか、クエスト完了の報酬として得られます。星くずはロビーで使用できます。</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>{0}個すべてのパズルのピースを集めると、ロビーの特別な部屋がアンロックされます。ダンジョンの各階層に1つずつパズルのピースがあり、1回のプレイで見つけられるのは1つだけです。</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>次のパズルのピースがある階層: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>射程: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>近接</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>射程内</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>射程外</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>プライベートルームに設置したオブジェクトを回収します。</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>現在 {0} を向いています。\n\n「[MoveForward][RotateLeft][MoveBack][RotateRight]」で移動します。\n「[MoveLeft]」と「[MoveRight]」で平行移動します。\nキャラクターが飛行できる場合、「[Fly]+[MoveForward]」で上昇、「[Fly]+[MoveBack]」で下降します。</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>{0}後にダメージを受けます。</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>{0}後にHPを回復します。</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>{0}後にスタミナを回復します。</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>{0}後にマナを回復します。</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>このキャラクターは地面に接していないため、スタミナ回復が無効化されています。</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>地面に接していないため、スタミナ回復が無効化されています。</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>クールダウン: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>残り {0}</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>最初に{0}をアンロックしてください</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>スキルポイントがありません</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>クリックしてアンロック</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>インタラクトしてアンロック</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>効果</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>すべてのゲートが開き、全員が目を覚ましました。今すぐ脱出してください！\n\nさらに、ネズミが2倍の数出現します。</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>ロコはあなたが移動するたびに、隣接するタイルにある金貨を拾ってくれます。</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>ヒント: コーデックスで一般的なステータスを確認できます</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>インベントリのアイテムを並べ替える</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>装備を外す</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>装備する</Equip> <!-- <En>Equip</En> -->
+  <Unwear>脱ぐ</Unwear> <!-- <En>Take off</En> -->
+  <Wear>着る</Wear> <!-- <En>Wear</En> -->
+  <Drop>捨てる</Drop> <!-- <En>Drop</En> -->
+  <Destroy>破壊する</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>{0}と混ぜる</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>見る</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>移動する</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>{0}を使用</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>インタラクトする</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>無効</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>{0}を渡す</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>死</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>空きがない</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>現在装備中のアイテムは呪われています</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>豪華な, 強力な, 全能の, 力強い, 怖い, 楽しい, 印象的な, 活発な, 魅力的な, 美しい, 愛らしい, スリリングな, 愛くるしい, 賢い, 魅惑的な, 不器用な, 無敵の, 小さな, 大きな, 恐ろしい, 幸せな, 悲しい, 不安定な, 奇妙な, クレイジーな, エキサイティングな, きれいな, 魅力的な</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>バンブル, ハンブル, ビーニー, レモン, ガーブル, クラッター, グーバー, ブルーム, バンバー, ロリー, ポップル, ポーク, ランブル, ドンダー, ドンドル, ドップル, ブロブル, チキン, パープル, ウィグル, プラットル, トゥイドル, ディングル, プロンク, ウォブル, ジングル, ドゥードゥル</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>クラッチ, ワース, ヤード, ソン, バーブル, マーク, トン, ボン, ゴン, フーフ, スタイン, ビーン, スナッパー, ブロブ, プーフ, ラフ, バッハ, ドリー, スナーフ, フロップ, プロップ, ブーフ, ブラット, スナーク, ボーク</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>{0}の精霊</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>笑い, 変化, 希望, 孤独, 調和, 決意, 喜び, 恐怖, 怒り, 悲しみ, 愛, 驚き, 嫌悪, 好奇心, 希望, 絶望, 信頼, 懐疑, 勇気, 罪悪感, 羞恥心, 感謝, 嫉妬, 安堵, 退屈, 平穏, 郷愁, 回復力, 共感, 期待, 後悔, 畏怖, 謙遜, 欲求不満, 軽蔑</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>なし</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>エンター</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>エスケープ</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>スペース</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>マウスの左ボタン</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>マウスの右ボタン</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>マウスの中ボタン</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Windowsキー</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>左トリガー</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>右トリガー</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>左バンパー</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>右バンパー</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>バックボタン</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>スタートボタン</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>左スティック押し込み</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>右スティック押し込み</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>キル</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>ダブルキル</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>トリプルキル</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>{0}キルコンボ</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>新フロア</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>試練完了</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>{0}キル</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>朝</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>昼</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>夕方</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>夜</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>ディフェンダー</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>ウォリアー</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>アドベンチャラー</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>赤</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>緑</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>青</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>レオ</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>イヴ</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>ユーティリティ</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>ポーション</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>スクロール</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>武器と装備</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

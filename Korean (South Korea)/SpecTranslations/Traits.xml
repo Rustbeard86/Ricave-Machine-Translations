@@ -1,0 +1,64 @@
+<SpecTranslations>
+
+  <AllIn.label>올인</AllIn.label> <!-- <En>all in</En> -->
+  <AllIn.description>추가 스킬 포인트로 시작하지만, 다시는 스킬 포인트를 획득할 수 없습니다.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
+  <AllIn.goodEffects>스킬 포인트 3개로 시작</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects>스킬 포인트를 더 얻을 수 없음</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+
+  <Angel.label>천사</Angel.label> <!-- <En>angel</En> -->
+  <Angel.description>비행이 가능하고 악마에게 더 큰 피해를 주지만, 화염, 독, 마법 피해에 취약해집니다.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
+
+  <Berserker.label_2>광전사</Berserker.label_2> <!-- <En>berserker</En> -->
+  <Berserker.description_2>가치 있는 처치 후 일시적으로 더 큰 피해를 주지만, 동시에 더 취약해집니다.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
+  <Berserker.goodEffects>가치 있는 처치 후 6턴 동안 물리 피해량 25% 증가</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects>가치 있는 처치 후 6턴 동안 받는 물리 피해량 25% 증가</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+
+  <BossHunter.label>보스 사냥꾼</BossHunter.label> <!-- <En>boss hunter</En> -->
+  <BossHunter.description>모든 보스에게 더 큰 피해를 주지만, 보스들이 깨어난 상태로 시작합니다.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
+  <BossHunter.badEffects>모든 보스가 깨어난 상태로 시작</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+
+  <Bulky.label>육중함</Bulky.label> <!-- <En>bulky</En> -->
+  <Bulky.description>레벨당 최대 HP를 더 많이 얻지만, 이동 소음이 커집니다.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
+
+  <Explorer.label>탐험가</Explorer.label> <!-- <En>explorer</En> -->
+  <Explorer.description>추가 장비로 시작하고 더 많은 골드를 발견하지만, 최대 스태미나와 마나가 감소합니다.</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
+
+  <Giant.label>거인</Giant.label> <!-- <En>giant</En> -->
+  <Giant.description>밀치기 및 당기기에 면역이 되고 최대 HP가 소폭 증가하지만, 허기 증가율, 낙하 피해, 상점 가격이 높아집니다.</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
+
+  <Insectoid.label>벌레 인간</Insectoid.label> <!-- <En>insectoid</En> -->
+  <Insectoid.description>거미와 친구가 되고 독 저항력을 얻지만, 방랑자가 적대적으로 변하고 화염에 취약해집니다.</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
+
+  <LastStand.label>최후의 저항</LastStand.label> <!-- <En>last stand</En> -->
+  <LastStand.description>HP가 낮을 때 더 큰 피해를 주지만, 스태미나 회복 속도가 느려집니다.</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
+
+  <LizardSkin.label>도마뱀 피부</LizardSkin.label> <!-- <En>lizard skin</En> -->
+  <LizardSkin.description>독, 출혈, 골절에 면역이 되고 더 빨리 치유되지만, 최대 HP가 절반으로 감소합니다.</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
+
+  <MoleRat.label>두더지쥐</MoleRat.label> <!-- <En>mole-rat</En> -->
+  <MoleRat.description>땅을 팔 수 있고 원소 저항력을 얻지만, 레벨당 최대 HP 증가량이 감소합니다.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
+  <MoleRat.goodEffects>삽 없이 땅 파기 가능</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+
+  <NightOwl.label>야행성</NightOwl.label> <!-- <En>night owl</En> -->
+  <NightOwl.description>밤에는 더 잘 보지만, 낮에는 시야가 좁아집니다.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
+  <NightOwl.goodEffects>19:00부터 7:00까지 시야 +1</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects>7:00부터 19:00까지 시야 -1</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+
+  <Pacifist.label_2>평화주의자</Pacifist.label_2> <!-- <En>pacifist</En> -->
+  <Pacifist.description>모든 상점 아이템이 무료이고 레벨업 속도가 두 배가 되지만, 가치 있는 처치마다 HP 1이 소모됩니다.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
+
+  <Scary.label>무시무시함</Scary.label> <!-- <En>scary</En> -->
+  <Scary.description>당신에게 깨어난 모든 적은 공황 상태에 빠지지만, 상점 가격이 높아지고, 이교도들이 적대적으로 변하며, 최대 스태미나가 감소합니다. 또한, 모든 유령이 당신을 따라다니며 전리품을 떨어뜨리지 않습니다.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
+  <Scary.goodEffects>당신에게 깨어난 적은 3턴 동안 공황 상태</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects>유령이 따라다니며 전리품을 주지 않음</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+
+  <Shaman.label>주술사</Shaman.label> <!-- <En>shaman</En> -->
+  <Shaman.description>가치 있는 처치마다 마나 포인트를 얻지만, 소지품 칸이 줄어듭니다.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
+
+  <Vampire.label>흡혈귀</Vampire.label> <!-- <En>vampire</En> -->
+  <Vampire.description>가치 있는 처치마다 HP 1을 회복하지만, 낮 동안에는 체력 재생이 비활성화되고, 화염에 취약해지며, 개들이 적대적으로 변합니다.</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
+  <Vampire.badEffects><li>7:00부터 19:00까지 체력 재생 없음</li><li>7:00부터 19:00까지 시야 -1</li><li>개에게 적대적</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <li>-1 vision range from 7:00 to 19:00</li>
+  <li>Hostile to dogs</li></En> -->
+
+</SpecTranslations>

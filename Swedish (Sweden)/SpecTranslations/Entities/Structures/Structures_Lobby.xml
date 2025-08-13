@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>pusselbanderoll</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>En färggrann banderoll.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>trofé</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Varje bosstrofé genererar stjärnstoft motsvarande våningen där bossen besegrades. Stjärnstoftet fylls på när du når minst andra våningen i grottan.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>garderob</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Ändra ditt utseende här.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>daglig utmaningstavla</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Delta i dagliga utmaningar. Alla andra runt om i världen får samma utmaning varje dag!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>monter</Display.label> <!-- <En>display</En> -->
+  <Display.description>En plats för ett föremål.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>portal</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Är det här slutet?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>slutlig dialogutlösare</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>korridorskylt</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>Det finns en korridor bakom den här dörren.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>dörr</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Den här dörren verkar vara låst.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>dörr</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Den här dörren verkar vara låst.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Vill du låsa upp korridoren för 60 stjärnstoft?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Lås upp</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>dörr</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Den här dörren verkar vara låst.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Vill du låsa upp träningsrummet för 20 stjärnstoft?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Lås upp</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Minnesdörr</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>En dörr som bara kan låsas upp genom att samla alla 4 minnesbitar.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>pusseldörr</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>En dörr som kan låsas upp genom att samla alla 10 pusselbitar. Det finns en pusselbit på varje grottvåning, och du kan bara hitta en bit per runda. Det betyder att den sista kommer att finnas på 10:e våningen.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>magisk spegel</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Ändra dina egenskaper här.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Minnesdörr</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>En dörr som bara kan låsas upp genom att samla alla 4 minnesbitar.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Minnesbit</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>En okänd minnesbit.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Minnesbit</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>En okänd minnesbit.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Minnesbit</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>En okänd minnesbit.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Minnesbit</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>En okänd minnesbit.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>trappa</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>En trappa som leder till grottan.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>trappa</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>En trappa som leder till grottan och låter dig använda ett specifikt världsfrö. Alla lobbyframsteg och uppdrag är inaktiverade i denna grotta.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>privat rum-skylt</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>Ditt privata rum. När du väl har köpt det, vill säga.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>pusseldörr</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>En dörr som har låsts upp genom att samla alla pusselbitar.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>pusselrumsskylt</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Ett mystiskt rum.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>uppdragstavla</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Se alla tillgängliga och slutförda uppdrag.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>butiksskylt</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Det finns en butik här. Du kan spendera stjärnstoft för att köpa förstärkningar till dina nästa rundor.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>himmel</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>En fin utsikt.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>himmel</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>En fin utsikt.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>trappa</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>En trappa som leder till grottan.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>statistiktavla</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Se all din statistik.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>träningsrumsskylt</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Det finns ett träningsrum här. Du kan träna mot olika sorters fiender.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>trappa</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>En trappa som leder till träningsrummet. Träna mot fiender och bossar.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>skräphög</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>En skräphög som blockerar denna cell. Använd stjärnstoft för att ta bort den permanent.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>Vill du städa undan den här skräphögen för 40 stjärnstoft?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Städa undan</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>vägglampa</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>En snygg vägglampa.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

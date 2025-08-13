@@ -1,0 +1,82 @@
+<SpecTranslations>
+
+  <BigMap.label>minikaart</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>Houd [Minimap] of [MinimapAlt] ingedrukt om de kaart te zien.\n\nJe kunt inzoomen met het scrollwiel.\n\nDe belangrijkste kamers worden op je kaart gemarkeerd.</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>Houd [MinimapAlt] ingedrukt om de kaart te zien.\n\nDe belangrijkste kamers worden op je kaart gemarkeerd.</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>klimmen</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>Ga naar de volgende kamer en beklim de ladder.\n\nLoop naar de tegel met de ladder en druk dan op [MoveForward] terwijl je [Fly] ingedrukt houdt om omhoog te gaan.\n\nJe kunt ook gewoon op de ladder klikken.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>Ga naar de volgende kamer en beklim de ladder.\n\nLoop naar de tegel met de ladder en druk dan op [MoveForward] terwijl je [Fly] ingedrukt houdt om omhoog te gaan.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>drankjes drinken</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>Pak het drankje uit de kist en drink het op.\n\nJe kunt de overeenkomstige cijfertoets indrukken om het drankje uit de snelbalk te gebruiken - in dit geval "1".</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>Pak het drankje uit de kist en drink het op. Druk op [Accept] om te interageren.\n\nJe kunt op [QuickbarMenu] drukken om een menu te tonen met alle voorwerpen in je snelbalk.</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>vechten</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>Versla het skelet. Klik om aan te vallen. [Wait] om te wachten.\n\nVijanden bewegen niet tenzij jij beweegt of aanvalt.\n\nTips:\n- Plan je volgende zet altijd zorgvuldig.\n- De meeste vijanden zijn dodelijk en elk levenspunt telt.\n- Voorkom dat je door meerdere vijanden tegelijk wordt omringd.</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>Versla het skelet. Druk op [Accept] om aan te vallen en [Wait] om te wachten.\n\nVijanden bewegen niet tenzij jij beweegt of aanvalt.\n\nTips:\n- Plan je volgende zet altijd zorgvuldig.\n- De meeste vijanden zijn dodelijk en elk levenspunt telt.\n- Voorkom dat je door meerdere vijanden tegelijk wordt omringd.</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>inspecteren</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>Sluit je inventaris door nogmaals op [ShowInventory] te drukken en houd [Inspect] of [InspectAlt] ingedrukt om de omgeving te inspecteren.\n\nVergeet niet alle vijanden te inspecteren om te weten hoe gevaarlijk ze zijn.</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>Sluit je inventaris door nogmaals op [ShowInventory] te drukken en houd [Inspect] ingedrukt om de omgeving te inspecteren.\n\nVergeet niet alle vijanden te inspecteren om te weten hoe gevaarlijk ze zijn.</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>Sluit je inventaris door nogmaals op [ShowInventory] te drukken en houd [Inspect] of [InspectAlt] ingedrukt om de omgeving te inspecteren.\n\nVergeet niet alle vijanden te inspecteren om te weten hoe gevaarlijk ze zijn.</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>inventaris</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>Rust het zwaard uit.\n\nSleep het, klik erop met de rechtermuisknop, of druk op "1" om het via de snelbalk te gebruiken.\n\nDe meeste voorwerpen zijn niet-geïdentificeerd en sommige zijn zelfs vervloekt!</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>Rust het zwaard uit.\n\nJe kunt op [QuickbarMenu] drukken om een menu te tonen met alle voorwerpen in je snelbalk.\n\nDe meeste voorwerpen zijn niet-geïdentificeerd en sommige zijn zelfs vervloekt!</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>hendel</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>Elke verdieping heeft een hendel die de poort naar de uitgang opent. Klik erop en verlaat het gebied.\n\nMaar wees voorzichtig! Het overhalen van de hendel maakt alle vijanden op de verdieping wakker!</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>Elke verdieping heeft een hendel die de poort naar de uitgang opent. Haal hem over door op [Accept] te drukken en verlaat het gebied.\n\nMaar wees voorzichtig! Het overhalen van de hendel maakt alle vijanden op de verdieping wakker!</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>bewegen</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>Druk op [MoveForward], [MoveLeft], [MoveBack], [MoveRight] om te bewegen.\n\nRicave is turn-based. Eén zet kost één beurt, dus iedereen zal met je meebewegen.\n\nJe kunt ook klikken om te bewegen.</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>Druk op [MoveForward], [MoveLeft], [MoveBack], [MoveRight] om te bewegen.\n\nRicave is turn-based. Eén zet kost één beurt, dus iedereen zal met je meebewegen.</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>deuren openen</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>Loop tegen een deur aan of klik erop om hem te openen.</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>Loop tegen een deur aan om hem te openen.</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>inventaris</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>Druk op [ShowInventory] om je inventaris te openen.</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>voorwerpen oprapen</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>Op dezelfde manier: loop tegen een voorwerp aan of klik erop om het op te rapen.</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>Op dezelfde manier: loop tegen een voorwerp aan om het op te rapen.</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>snelle aanval</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>Ga naar de volgende kamer en druk op [AttackNearest] bij de kisten om automatisch het doelwit het dichtst bij je muis aan te vallen.\n\nDrukken op [AttackNearest] kan comfortabeler zijn dan de muis gebruiken. Hiermee kun je snel meerdere doelwitten om je heen vernietigen.</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>Ga naar de volgende kamer en druk op [Accept] om de kisten te vernietigen. Draai met [RotateLeft] en [RotateRight] om ze aan te kijken.</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>draaien</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>Gebruik je muis om rond te kijken of druk op [RotateLeft] of [RotateRight] om te draaien.\n\nIn tegenstelling tot bewegen, kost draaien geen beurt.</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>Druk op [RotateLeft] of [RotateRight] om te draaien.\n\nIn tegenstelling tot bewegen, kost draaien geen beurt.</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>zijwaarts bewegen</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>Druk op [MoveLeft] of [MoveRight] om zijwaarts te bewegen.</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>lichaamsdelen</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Houd [Fly] ingedrukt en klik op de arm van het skelet om die te vernietigen, maak hem daarna normaal af.\n\nElk lichaamsdeel heeft zijn eigen levenspunten.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Houd [Fly] ingedrukt en druk op [Accept] of de Rechter Trigger op de arm van het skelet om die te vernietigen, maak hem daarna normaal af.\n\nElk lichaamsdeel heeft zijn eigen levenspunten.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>tooltips</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>Tooltips zijn belangrijk! Ga met je muis over iets in het inventarisscherm om erover te leren.\n\nVergeet niet elk voorwerp dat je vindt te inspecteren.</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>Tooltips zijn belangrijk! Probeer ze uit terwijl je inventarisscherm open is.\n\nVergeet niet elk voorwerp dat je vindt te inspecteren.</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>wachten</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>Druk op [Wait] om een beurt te wachten.\n\nWachten laat je als eerste schade toebrengen en laadt ook je volgende aanval op.</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

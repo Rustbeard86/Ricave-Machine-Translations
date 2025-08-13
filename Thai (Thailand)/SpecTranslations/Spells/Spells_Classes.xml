@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>แสงสาดตา</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>ทำให้ทุกคนที่มองเห็นคุณอยู่ตาบอดเป็นเวลาสั้นๆ ไม่เสียเทิร์นในการใช้</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>ล่อลวง</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>ทำให้เป้าหมายเป็นศัตรูกับคนอื่นๆ ทั้งหมดเป็นเวลาสั้นๆ ไม่เสียเทิร์นในการใช้</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>พันธนาการรอบตัว</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>พันธนาการทุกคนที่อยู่ติดกับคุณเป็นเวลาสั้นๆ ไม่เสียเทิร์นในการใช้</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>เร่งความเร็ว</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>กระทำได้สองครั้งต่อเทิร์นเป็นเวลาสั้นๆ ไม่เสียเทิร์นในการใช้</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>กระโดด</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>กระโดดไปยังช่องที่อยู่ติดกันได้ทันที แม้จะเป็นในแนวตั้ง ไม่เสียเทิร์นในการใช้</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>ผลัก</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>ผลักใครก็ได้ให้ออกไป 1 ช่อง ไม่เสียเทิร์นในการใช้</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>หนีแบบสุ่ม</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>เทเลพอร์ตไปยังตำแหน่งสุ่มบนแผนที่ ไม่เสียเทิร์นในการใช้</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>สร้างเถาวัลย์</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>สร้างเถาวัลย์ ณ ตำแหน่งที่กำหนดและปีนขึ้นไป</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>เมฆพิษ</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>สร้างเมฆพิษ ณ ตำแหน่งที่กำหนด ไม่เสียเทิร์นในการใช้</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>อัญเชิญภูต</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>อัญเชิญภูตที่เป็นมิตรมาช่วยคุณในการต่อสู้ สามารถมีภูตที่ยังมีชีวิตอยู่ได้เพียงหนึ่งตนในแต่ละครั้ง</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

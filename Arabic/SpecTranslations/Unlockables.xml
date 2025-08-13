@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>تميمة يردون</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>ابدأ بتميمة يردون. سيتم شفاء حاملها بالكامل مرة واحدة في اللحظة التي كان سيموت فيها. بالإضافة إلى ذلك، سيموت كل عدو قريب. هذه مكافأة للاستخدام مرة واحدة وتنطبق فقط على محاولتك التالية.</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>جرعة صحة</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>ابدأ بجرعة صحة إضافية في مخزونك. هذه مكافأة للاستخدام مرة واحدة وتنطبق فقط على محاولتك التالية.</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>لفيفة</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>ابدأ بلفيفة عشوائية في مخزونك. هذه مكافأة للاستخدام مرة واحدة وتنطبق فقط على محاولتك التالية.</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>درع</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>ابدأ بدرع في مخزونك. سيسمح لك بصد هجمات الأعداء.</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>لقد فتحت درعًا لمحاولاتك القادمة! يمكنك استخدامه لصد هجمات الأعداء.\n\nهذا مفيد بشكل خاص عند التعامل مع الأعداء الذين يهاجمون عن بعد، حيث يمكنك الاقتراب منهم بأمان دون التعرض للضرب.\n\nلا يمكنك صد هجمات عدو ومهاجمته في نفس الوقت - سيتم إلغاء التأثير حينها.\n\nاستخدام الدرع مرهق، لذا فهو يستهلك القدرة على التحمل.</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>رمح</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>ابدأ برمح إضافي في مخزونك. ارمه على الأعداء أو استخدمه لتفعيل الأفخاخ.</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>لقد فتحت رمحًا لمحاولاتك القادمة! يمكنك استخدامه لمهاجمة الأعداء أو تفعيل الأفخاخ عن بعد.\n\nانتظر حتى يسير عدو تحت الأشواك أو بجوار مدفع مثبت على الحائط، وارمِ الرمح على الفخ لتفعيله.\n\nرمي الرمح مرهق، لذا فهو يستهلك القدرة على التحمل. تتجدد القدرة على التحمل تلقائيًا ما لم تكن تتضور جوعًا.</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>سيف</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>ابدأ بسيف في مخزونك. هذه مكافأة للاستخدام مرة واحدة وتنطبق فقط على محاولتك التالية.</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>ساعة</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>ابدأ بساعة في مخزونك. ستسمح لك بإرجاع الزمن.</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>لقد فتحت الساعة السحرية لمحاولاتك القادمة! تسمح لك بإرجاع الزمن كما تشاء.\n\nأرجع الدور الأخير بالضغط على [Rewind].\n\nللساعة حد أقصى لعدد الأدوار التي يمكنك إرجاعها دفعة واحدة، لكنها تشحن كلما تحركت.</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>ذهب ×1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>اعثر على ذهب أكثر بنسبة 25% مما تجده عادة في الزنزانة. هذه مكافأة للاستخدام مرة واحدة وتنطبق فقط على محاولتك التالية.</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>ردهة</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>احصل على إمكانية الوصول إلى الردهة في البهو.</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>تمثال المستوى 100</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>احصل على تمثال لتخليد ذكرى الوصول إلى المستوى 100. يمكنك وضعه في غرفتك الخاصة في البهو.</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>تهانينا على وصولك إلى المستوى 100!\n\nلقد تلقيت تمثالًا خاصًا يمكنك وضعه في غرفتك الخاصة لتخليد هذا الإنجاز العظيم.</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>تمثال المستوى 25</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>احصل على تمثال لتخليد ذكرى الوصول إلى المستوى 25. يمكنك وضعه في غرفتك الخاصة في البهو.</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>تهانينا على وصولك إلى المستوى 25!\n\nلقد تلقيت تمثالًا خاصًا يمكنك وضعه في غرفتك الخاصة لتخليد هذا الإنجاز العظيم.</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>تمثال المستوى 50</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>احصل على تمثال لتخليد ذكرى الوصول إلى المستوى 50. يمكنك وضعه في غرفتك الخاصة في البهو.</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>تهانينا على وصولك إلى المستوى 50!\n\nلقد تلقيت تمثالًا خاصًا يمكنك وضعه في غرفتك الخاصة لتخليد هذا الإنجاز العظيم.</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>مفتاح الغرفة الخاصة</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>احصل على إمكانية الوصول إلى غرفتك الخاصة التي يمكنك تزيينها بعد ذلك.</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>لقد فتحت غرفتك الخاصة!\n\nيمكنك تزيينها بالضغط على [ShowInventory] عندما تكون بالداخل.\n\nقد يكون من الصعب الحصول على بعض الجوائز والزينات النادرة - على سبيل المثال، قد تكون مخبأة في مكان ما في أعماق الزنزانة.</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>نقاط ×2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>احصل على نقاط أكثر بنسبة 100% مما تحصل عليه عادة في الزنزانة. هذه مكافأة للاستخدام مرة واحدة وتنطبق فقط على محاولتك التالية.</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>غبار النجوم ×1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>اعثر على غبار نجوم أكثر بنسبة 50% مما تجده عادة في الزنزانة. هذه مكافأة للاستخدام مرة واحدة وتنطبق فقط على محاولتك التالية.</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>غرفة التدريب</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>احصل على إمكانية الوصول إلى غرفة التدريب في البهو.</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>كومة قمامة</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>نظف كومة القمامة للحصول على مساحة أكبر.</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>كومة قمامة</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>نظف كومة القمامة للحصول على مساحة أكبر.</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>كومة قمامة</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>نظف كومة القمامة للحصول على مساحة أكبر.</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

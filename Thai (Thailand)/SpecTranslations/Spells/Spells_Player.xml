@@ -1,0 +1,46 @@
+<SpecTranslations>
+
+  <Entangle.label>พันธนาการ</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>ทำให้เป้าหมายไม่สามารถเคลื่อนที่ได้ชั่วขณะ โปรดทราบว่าศัตรูที่ถูกพันธนาการยังสามารถโจมตีจากตำแหน่งเดิมได้</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>บำรุง</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>มันเหมือนกับการกินอะไรบางอย่าง แต่ไม่ได้กินอะไรเข้าไปจริงๆ เวทมนตร์ล่ะ</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>ลูกไฟ</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>ร่ายลูกไฟซึ่งจะทำให้เกิดการระเบิดและจุดไฟในช่องที่อยู่ติดกันทั้งหมด</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>แช่แข็ง</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>แช่แข็งเป้าหมายชั่วขณะ ศัตรูที่ถูกแช่แข็งจะไม่สามารถเคลื่อนที่หรือโจมตีได้</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>แอ่งของเหลวหนืด</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>สร้างแอ่งของเหลวหนืดซึ่งจะทำให้ตัวละครใดๆ ที่เดินผ่านเคลื่อนที่ช้าลง</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>พฤกษา</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>สร้างหย่อมพงหญ้าและเถาวัลย์ขนาด 3x3 เหมาะสำหรับใช้ขวางทางศัตรู</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>ฟื้นฟู</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>ฟื้นฟูพลังชีวิตและรักษาอาการเลือดออก</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>พิสูจน์ทราบ</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>พิสูจน์ทราบไอเทมที่คุณเลือก ใช้เวทมนตร์นี้กับตัวเองเพื่อพิสูจน์ทราบไอเทมจากช่องเก็บของ</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>เลือกไอเทมที่จะพิสูจน์ทราบ</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>กำแพงเวทมนตร์</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>สร้างกำแพงเวทมนตร์ชั่วคราว</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>ผลักวงกว้าง</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>ผลักทุกคนให้ออกห่างจากตัวคุณ</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>ผลัก</Push.label> <!-- <En>push</En> -->
+  <Push.description>ผลักเป้าหมายให้ออกห่างจากตัวคุณ</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>โจมตี</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>สร้างความเสียหายแก่เป้าหมาย</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>เทเลพอร์ต</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>เทเลพอร์ตไปยังตำแหน่งที่กำหนด เหมาะสำหรับการหลบหนีอย่างรวดเร็ว เนื่องจากการใช้เวทมนตร์นี้ไม่เสียเทิร์น</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>เทเลพอร์ตสุ่ม</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>เทเลพอร์ตเป้าหมายไปยังตำแหน่งสุ่มบนแผนที่</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>

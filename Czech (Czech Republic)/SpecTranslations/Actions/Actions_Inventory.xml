@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <DestroyItemInInventory.label>zničit</DestroyItemInInventory.label> <!-- <En>destroy</En> -->
+  <DestroyItemInInventory.Destroys>{0} ničí {1}</DestroyItemInInventory.Destroys> <!-- <En>{0} destroys {1}</En> -->
+
+  <DropItem.label>odhodit</DropItem.label> <!-- <En>drop</En> -->
+  <DropItem.Drops>{0} odhazuje {1}</DropItem.Drops> <!-- <En>{0} drops {1}</En> -->
+
+  <Equip.label>vybavit</Equip.label> <!-- <En>equip</En> -->
+  <Equip.Equips>{0} si vybavuje {1}</Equip.Equips> <!-- <En>{0} equips {1}</En> -->
+
+  <MoveItemInInventory.label>přesunout předmět v inventáři</MoveItemInInventory.label> <!-- <En>move item in inventory</En> -->
+  <MoveItemInInventory.IsMovedInSInventory>{1} je přesunut v inventáři {0}</MoveItemInInventory.IsMovedInSInventory> <!-- <En>{1} is moved in {0}'s inventory</En> -->
+
+  <RefundSkill.label>vrátit dovednost</RefundSkill.label> <!-- <En>refund skill</En> -->
+  <RefundSkill.Refunds>{0} vrací {1}</RefundSkill.Refunds> <!-- <En>{0} refunds {1}</En> -->
+
+  <SortInventory.label>seřadit inventář</SortInventory.label> <!-- <En>sort inventory</En> -->
+  <SortInventory.SortsInventory>{0} řadí inventář</SortInventory.SortsInventory> <!-- <En>{0} sorts inventory</En> -->
+
+  <Transfer.label>předat</Transfer.label> <!-- <En>transfer</En> -->
+  <Transfer.GivesTo>{0} dává {1} hráči {2}</Transfer.GivesTo> <!-- <En>{0} gives {1} to {2}</En> -->
+
+  <Unequip.label>sundat vybavení</Unequip.label> <!-- <En>unequip</En> -->
+  <Unequip.Unequips>{0} si sundavá {1}</Unequip.Unequips> <!-- <En>{0} unequips {1}</En> -->
+
+  <UnlockSkill.label>odemknout dovednost</UnlockSkill.label> <!-- <En>unlock skill</En> -->
+  <UnlockSkill.Unlocks>{0} odemyká {1}</UnlockSkill.Unlocks> <!-- <En>{0} unlocks {1}</En> -->
+
+  <UseRecipe.label>použít recept</UseRecipe.label> <!-- <En>use recipe</En> -->
+  <UseRecipe.CombinesItems>{0} kombinuje předměty</UseRecipe.CombinesItems> <!-- <En>{0} combines items</En> -->
+
+</SpecTranslations>

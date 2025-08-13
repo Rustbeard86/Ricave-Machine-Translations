@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>Játék</Play> <!-- <En>Play</En> -->
+  <Quit>Kilépés</Quit> <!-- <En>Quit</En> -->
+  <Loading>Töltés</Loading> <!-- <En>Loading</En> -->
+  <Resume>Folytatás</Resume> <!-- <En>Resume</En> -->
+  <Options>Beállítások</Options> <!-- <En>Options</En> -->
+  <Mods>Modok</Mods> <!-- <En>Mods</En> -->
+  <Credits>Készítők</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>Nyelvválasztás</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>Meghalás és újraindítás</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>Meghalás és vissza a lobbyba</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>Mentés és kilépés</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>Bezárás</Close> <!-- <En>Close</En> -->
+  <Back>Vissza</Back> <!-- <En>Back</En> -->
+  <Days>{0} nap</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} óra</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} perc</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 nap</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 óra</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 perc</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>Valami hibát okoz.\nTovábbi információért nézd meg a naplófájlt.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Bejelentkezve a Steamen</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>nincs mod kiválasztva</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>Korai Hozzáférés</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>A Ricave jelenleg fejlesztés alatt áll.\n\nFolyamatosan próbálok új tartalmakat hozzáadni, kiegyensúlyozni a dolgokat, eltávolítani a nem élvezetes mechanikákat és visszajelzéseket gyűjteni, de valószínűleg még mindig kihagytam valamit. Ha a játékot túl nehéznek vagy túl könnyűnek találod, hibával találkozol, vagy van egy fantasztikus ötleted egy fejlesztésre vagy új funkcióra, kérlek, vegyél részt a fejlesztési folyamatban, és oszd meg gondolataidat a Discord csatornánkon vagy a Twitteren.\n\nKöszönöm és jó szórakozást!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>A játék frissült</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>A Ricave frissült a {0} verzióra!\n\nA jelenlegi nekifutásod lehet, hogy nem kompatibilis az új verzióval. Szeretnéd megszakítani a jelenlegi játékot és visszatérni a lobbyba?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Feltöltés a Steamre</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>feltöltés</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Nem sikerült feltölteni a Steamre: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Sikeresen feltöltve a Steamre.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>Üzenet</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>Felbontás</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>Teljes képernyő</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>UI méretezés</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>Látószög (FOV)</FOV> <!-- <En>FOV</En> -->
+  <VSync>VSync</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>Cél képkockasebesség</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>FPS számláló</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Y-tengely invertálása</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>Billentyűkiosztás</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>Hangerő</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>Zene hangerő</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>Egér érzékenység</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>Kurzor érzékenység</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>SSAO minőség</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>Árnyék minőség</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>Lemintavételezés</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>Körvonal</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>Max fények</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>Kikapcsolva</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>Alacsony</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>Normál</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>Magas</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>Alacsony</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>Normál</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>Magas</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>Nincs (legjobb minőség)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5x (gyengébb minőség)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (leggyengébb minőség)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>Többmenetes, kerekített</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>Többmenetes</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>Egymenes (ajánlott)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>OK</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>Alapértelmezett beállítások</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>Játékállapot visszaállítása</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>Visszatérés a lobbyba</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>Minden haladás törlése</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>Biztosan visszatérsz a lobbyba?\n\nA játékon belüli visszatéréssel ellentétben, ha ezt a lehetőséget választod, elveszíted a jelenlegi nekifutásodban elért haladásodat. Azonban a lobbyban elért összesített haladásod nem veszik el (a korábbi küldetéseid és csillagporod megmarad).\n\nHasználd ezt a lehetőséget, ha a mentésfájlod megsérült, pl. egy inkompatibilis frissítés telepítése után.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>Biztosan törölni akarod az ÖSSZES haladásodat?\n\nEz minden adatodat törli, és a legelejéről kell kezdened.\n\nCsak akkor használd ezt a lehetőséget, ha teljesen elölről szeretnéd kezdeni a játékot, vagy ha a haladási adataid megsérültek.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>Nyomj meg egy gombot a hozzárendeléshez:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>Nincs</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>Videó</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>Kezelőfelület</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>Hang</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>Egyéb</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>Minőség</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>Nem</No> <!-- <En>No</En> -->
+  <Yes>Igen</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>Belépés a kazamatába</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>Belépés a kazamatába seeddel</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>Belépés a gyakorlóterembe</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>Seed megadása</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>Haladás letiltva</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>Legmagasabb pontszám</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>Elért szint</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>Átlagos szint</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>Próbálkozások</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>Összes ölés</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>Küldetések</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>Statisztikák</Stats> <!-- <En>Stats</En> -->
+  <Cancel>Mégse</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>Elfogadás</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>Küldetés elfogadása</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>Átvétel</Claim> <!-- <En>Claim</En> -->
+  <Postpone>Elhalasztás</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>Zárolva</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>Csak a legjobb árak!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>Fejlesztésekre vágysz?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>Van csillagporod?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>Kattints a részletekért</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>Válaszd ki a részletekért</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>Kazamatamódosítók elfogadáskor</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>Jutalmak</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} puzzle darab</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>Feloldás a(z) {0}. szinten</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>Feloldás egy küldetés teljesítésével</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>Lerakás</Place> <!-- <En>Place</En> -->
+  <PickUp>Felvétel</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>Nyomd meg a(z) [ShowInventory] gombot a bolt menü megnyitásához.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>Nincs</None> <!-- <En>None</En> -->
+  <CompletedQuests>Teljesített küldetések</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>Teljesítve</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>Napi kihívás</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>Egy próbálkozásod van - hozd ki belőle a legtöbbet!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>Minden nap a játékosok világszerte ugyanazt a kazamata seedet kapják. Naponta csak egy esélyed van.\n\nSzabályok:\n  - Normál nehézség\n  - Erősítések letiltva\n  - Véletlenszerű kaszt és tulajdonságok\n  - Küldetések letiltva\n  - Haladás letiltva\n  - Végtelen komplex kazamata (nincs szintkorlát)\n\nEbben a kazamatában nem gyűjthetsz csillagport, és nem számít bele a statisztikáidba, de a részvételért {0} jutalomban részesülsz.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>Következő kihívás: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>Legjobb pontszámod (összes nap): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>Napi kihívás indítása</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>A mai kihívást már teljesítetted\nA pontszámod: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>Először tiltsd le a modokat</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>Feloldás a(z) {0}. szinten</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>Mai ranglista megtekintése</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>Globális</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>Barátok</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>Helyezésed: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>Ranglista betöltése...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>Nem sikerült betölteni a ranglistát.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>Nincs elérhető ranglista.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>Egyik barátod sem játszotta még ezt a kihívást.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>Aktív küldetések</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>Aktív</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>Elérhető küldetések</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>Elérhető</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>Korábbi küldetések</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>Korábbi</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>Nyomd meg a(z) [Wait] gombot a folytatáshoz</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>Küldetés</Quest> <!-- <En>Quest</En> -->
+  <Runs>Nekifutások</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 elérhető küldetés</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} elérhető küldetés</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>Használd a küldetésnaplót a küldetések elfogadásához.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>Játékosnév</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>Nehézség</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>Ellenségek</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>Főnökök</Bosses> <!-- <En>Bosses</En> -->
+  <Train>Gyakorlás</Train> <!-- <En>Train</En> -->
+  <EnterNewName>Új név megadása</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>Ellenség ÉP</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>Kezdő ÉP</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>Pontszám</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>Extra ellenfelek</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>Kenyér szintenként</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>Életerő italok szintenként</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>Ellenség szint</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>Arany zsákmány szintenként</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>Csillagpor</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>Gyógyító kristályok</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>Kis gyógyító kristályok</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>Mana kristályok</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>Kis mana kristályok</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>Ellenfelek száma</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>Kezdő életerő italok</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>Gratulálunk!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>Gratulálunk!\n\nA végső pontszámod: {0}\n\nBár a fő küldetéssorozat véget ért, még sok felfedeznivaló maradhatott számodra.\n\nHa tetszett a játék, csatlakozz a Discord szerverünkhöz itt: {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>Következő tulajdonságok ára</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>Először fel kell oldanod ezt a tulajdonságot.\n\nCsillagporért vásárolhatsz egy véletlenszerű tulajdonságot. Minél több tulajdonságod van már, annál drágább a következő megvásárlása.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>Ezzel a tulajdonsággal elért legmagasabb szint: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>Legfeljebb 2 tulajdonságot választhatsz.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>Nincs elég csillagporod.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>Kattints a tulajdonság kiválasztásához vagy a kiválasztás törléséhez.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>Válaszd ki vagy töröld a tulajdonságot.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>Kattints a kiválasztáshoz vagy a kiválasztás törléséhez.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>Válaszd ki vagy töröld.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>{0} véletlenszerű tulajdonság vásárlása</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>Kiválasztott tulajdonságok</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>Biztosan meg akarsz venni {1} véletlenszerű tulajdonságot {0} áron?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>Kezdés {0} tárggyal</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>{0} több aranyat találsz</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>{0} kevesebb aranyat találsz</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>Max ÉP</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>Max mana</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>Max állóképesség</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>Nem ellenséges: {0}</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>Ellenséges: {0}</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>{0} méreg ellenállás</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>{0} méreg sebezhetőség</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>Immunis a méregre</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>Nincs esésből származó sebzés</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>{0} esésből származó sebzés</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>{0} tűz ellenállás</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>{0} tűz sebezhetőség</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>{0} mágia ellenállás</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>{0} mágia sebezhetőség</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{0} sebzés {1} ellen</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>Az állóképesség {0}x lassabban regenerálódik</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Az állóképesség kétszer lassabban regenerálódik</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>Deal {0} more damage when below {1} HP</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>{0} kevesebb max ÉP szintenként</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>{0} több max ÉP szintenként</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>Járás zaja {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>{0} mana minden méltó leölésért</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>{0} ÉP minden méltó leölésért</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>{0} ÉP veszteség minden méltó leölésért</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>Táskahelyek {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>Max ÉP x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>{0} sebzés főellenfelek ellen</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>Gyógyulási ráta {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>Immunis a következőre: {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>Immunis a lökésre</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>Éhség mértéke {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>Bolti árak {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>Tud repülni</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>{0} több tapasztalati pont</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>{0} kevesebb tapasztalati pont</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>Megtartott TP az előző menetből</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>Megtartott arany az előző menetből</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>1 menet van hátra</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>{0} menet van hátra</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>Indítás</StartNewRun> <!-- <En>Start</En> -->
+  <Character>Karakter</Character> <!-- <En>Character</En> -->
+  <Traits>Tulajdonságok</Traits> <!-- <En>Traits</En> -->
+  <Boosts>Erősítők</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>Szintek</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} szint</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>Szobák szintenként</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>Feloldás {0} áron</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>Teljesítve ezen a nehézségen</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>Mini-főellenfelek</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>Menedékek</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>Megmentett szellemek</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>Győzelmek</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>Vereségek</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>{0} főellenfél</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>Ütközik a következővel</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>A kozmetikumok tisztán vizuálisak és nincs játékmenetbeli hatásuk, hacsak nincs másképp jelezve.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>Meg akarod venni a(z) {0} tárgyat {1} áron?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>Nem engedheted meg magadnak ezt a kozmetikumot.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>Ár</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>Figyelem: Ez a kozmetikum a(z) {0} frakciót ellenségessé teszi veled szemben</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>Extra kazamata módosítók</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>Az időd csak kölcsönben van.\nÉn csupán a tartozásomat hajtom be.\nNyugodtan fuss tovább.\nVégül megtalálod a kijáratot.\nÉn pont mögötte várok.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>Felfedezetlen ellenség</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} ÉP</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} mana</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} állóképesség</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} -&gt; {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>rajtaütés</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>fentről</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>hárításból</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>szétterjedő sebzés</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>azonosítatlan</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>Elátkozott</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>elátkozott</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 kör</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} kör</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1 használat</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} használat</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 töltet</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} töltet</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 gyémánt</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} gyémánt</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 csillagpor</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} csillagpor</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 cella</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} cella</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 arany</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} arany</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}a</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>Nyomd meg a(z) [Accept] gombot a folytatáshoz</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>Nyomd meg a(z) [Accept] gombot a lobbyba lépéshez</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>Nyomd meg a(z) [Wait] gombot az újraindításhoz</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>nincs lehetőség</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>Figyelem: Ez a tárgy lehet, hogy {0}.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>Figyelem: Ez a tárgy {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>Nem veheted le a(z) {0} tárgyakat (átoktörő tekercs nélkül).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>Arany</Gold> <!-- <En>Gold</En> -->
+  <Leave>Elhagyás</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>Körönként kétszer cselekszik</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>Körönként {0}-szor cselekszik</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>Minden második körben cselekszik</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>{0} körönként egyszer cselekszik</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>Nem éhezik meg</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>Kétszer gyorsabban éhezik meg</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>{0}-szor gyorsabban éhezik meg</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>Kétszer lassabban éhezik meg</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>Éhség mértékének szorzója: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>{0} arany dobása</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>{0} esély</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>{0} környi értékű</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>{0} sugarú kör</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>teljes térkép</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>falakon keresztül</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>célpont körül</AroundTarget> <!-- <En>around target</En> -->
+  <Used>Használt</Used> <!-- <En>Used</En> -->
+  <Waiting>Várakozás</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>Megszakítva</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>hely</Location> <!-- <En>spot</En> -->
+  <StopTargeting>Célzás leállítása</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>Küldetés teljesítve</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>Vedd át a jutalmad, amikor visszaértél a lobbyba</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>Helyben álló</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>Egy lépés</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>Biztosan megveszed a(z) {0} tárgyat {1} áron?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>Ez egy egyszer használatos bónusz, és csak a következő nekifutásodra érvényes.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>Vásárlás</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>Elérhető {0} múlva</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>Ez a karakter alapfegyvere.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>Válassz egy új varázslatot.\n\nMinden szintlépéskor választhatsz egy új varázslatot.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} legyőzve</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>Tipp: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>Használd a(z) [MoveForward][MoveLeft][MoveBack][MoveRight] gombokat a mozgáshoz. Nyomd meg a(z) [ShowInventory] gombot a leltár megnyitásához. Használd a(z) [Interact] gombot a tárgyakkal való interakcióhoz. Forgás a(z) [RotateLeft] és [RotateRight] gombokkal. Tartsd lenyomva a(z) [Inspect] gombot a vizsgálathoz. Nyomd meg a(z) [Wait] gombot a várakozáshoz.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>Várakozik</Waits> <!-- <En>Waits</En> -->
+  <Wait>Várakozás</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>Várakozik (részegen)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>Várakozik (pánikban)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>Várakozik ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>Felébred</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>Hol?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>Nincsenek karjai</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>Nincsenek lábai</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>Ellenséges</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>Hiányzó testrészek</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>Valaki lát téged</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>A főellenség még él</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>Nincs elég mana ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>Nincs elég állóképesség ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>Töltődés ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>Menj közelebb</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>Érvénytelen célpont</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>Hatótávon kívül</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>Nincs rálátás</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>Szükséges: {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>Nem érhető el</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>A leltár tele</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>2 egyforma kristály szükséges</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>Lélek szükséges</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>Lapát szükséges</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>Lapát használata</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>Csákány szükséges</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>Csákány használata</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>Néhány csapattag túl messze van</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>Az ajtó el van torlaszolva</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>Már létezik {0} követő</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} sebzés neked, most</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} most</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} gyógyítás neked, most</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>{0} sebzés körönként</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{0} sebzés {1} körönként</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} körönként</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} darab {1} körönként</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>mindet</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} neked</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>vagy</Or> <!-- <En>or</En> -->
+  <And>és</And> <!-- <En>and</En> -->
+  <Score>Pontszám</Score> <!-- <En>Score</En> -->
+  <FloorReached>Elért szint</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>Ölések</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>Játékidő</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>Ölések</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>Harci értékelés</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>Legyőzött főellenségek</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>Előtérben gyűjtött tárgyak</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>Következő jutalom a(z) {0}. szinten</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}n</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}ó</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}p</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>nincs</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>Új rekord!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>és még több</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>Mag: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 módosító</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} módosító</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>Tét: {0} arany</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>Oktató</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>Megölt főellenségek</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>Teljesített küldetések</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>Megtalált jegyzetek</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>Kinyitott ládák</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>Elkészített tárgyak</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>Gyakori</Common> <!-- <En>Common</En> -->
+  <Uncommon>Nem gyakori</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>Ritka</Rare> <!-- <En>Rare</En> -->
+  <Epic>Epikus</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>Azonosítatlan</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>Előtér (végleges) tárgy</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>Előtér</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>sérülés</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>tűz a közelben</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>hangos zaj</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>szövetséges ébredt fel a közelben</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>ellenséges léptek</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>riasztott szövetséges halad el</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>berúgott ajtó</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>Hibázás</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} hibázás</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} kritikus</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>kritikus</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>Kritikus találat</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>feltöltött</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>Elérhető receptek</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>Várakozás ({0})</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>Visszatekerés ({0})</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>Nálad van: {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>kicsi {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>{0} főellenség</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>Úgy tűnik, valamilyen kazamatában vagy...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>Nem tudod pontosan, hol vagy, sem azt, hogyan kerültél ide.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>Minden álomszerűnek tűnik körülötted. Ugyanakkor túl valóságosnak is érződik ahhoz, hogy csak egy álom legyen.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>Lassan elkezdesz emlékezni valamire. Legalább a nevedet tudod.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>A neved:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>Észrevettél valakit a távolban, de csak egy pillanatra láttad meg az árnyékát. Jobb lenne, ha megnéznéd.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>Lassan kinyitod a szemed...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>Egy kórházban ébredsz.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"Felébredt!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Mi történt?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"A barátaiddal túrázni mentél, és súlyos fejsérülést szenvedtél."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"A mentők épp időben találtak rád. Pihenned kell, és visszanyerned az erődet."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Hol van Maya?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Ki az a Maya?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Ő talált meg először. Jól van?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Lehet, hogy kissé zavart vagy, de hamarosan felépülsz."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>Zavarodott vagy, mégis furcsa elégedettségérzés tölt el. Mintha valamilyen módon megváltoztál volna.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>Lehunyod a szemed, és mély levegőt veszel, elképzelve a nap melegét az arcodon. A friss levegő megtölti a tüdődet, és nem tudsz mást tenni, csak mosolyogni.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>Köszönjük, hogy játszottál a demóval!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>Készítette</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>Főmenü háttérképét készítette</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>Zene</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>Logót készítette</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>Karaktermodelleket készítette</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>Hangeffekteket biztosította</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>Köszönjük a játékot!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>Az erdő... megvan! Elkezdesz emlékezni, mi történt, mielőtt idekerültél. Egy meleg nyári nap, madárcsicsergés és gyönyörű hegyek a láthatáron - a barátaiddal túrázni mentél. De aztán valami megragadta a figyelmedet. Emlékszel, hogy elváltál a csoporttól. De miért?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>A barlang! Elhagytad a csoportodat, miután meghallottad, hogy valaki segítségért kiált. Azt hitted, egy másik bajba jutott túrázó az, ezért követted a hangot egy barlanghoz. Odabent megcsúsztál, elestél, és eltört a lábad. Kiabáltál, de senki sem válaszolt. Egyedül és sérülten a reményed kezdett elhalványulni...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>Órákig ültél egyedül abban a barlangban. Amikor leszállt az éj és elkezdett zuhogni az eső, már majdnem minden reményedet elvesztetted. Egy örökkévalóságnak tűnő idő után fényt láttál a barlang bejáratánál. Ő volt... Maya! Annyira megkönnyebbültél!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>Örömmámorban úsztál, hogy megláttad Mayát. Kinyújtotta a kezét, hogy felhúzzon, és egy pillanatra úgy tűnt, sikerülni fog. De a szakadatlan esőtől megcsúszott, és mindketten lezuhantatok, fájdalmas erővel a szikláknak csapódva. Azután minden elcsendesedett.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>Felszerelés</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>Készítés</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>Azonosítás</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>Név</Name> <!-- <En>Name</En> -->
+  <Level>Szint</Level> <!-- <En>Level</En> -->
+  <Experience>Tapasztalat</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>TP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>Támadás</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>Itt láthatod az összes jelenleg felszerelt tárgyadat.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>Itt láthatod az összes receptet, amivel új tárgyakat készíthetsz. Hasznos lehet, ha el kell távolítanod egy átkot, vagy meg kell gyógyítanod egy hiányzó végtagot.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>Itt láthatod a leltáradban lévő összes azonosítatlan tárgyat.\n\nMinden tárgy lassan azonosításra kerül az idő múlásával (kivéve, ha éhes vagy). A lista tetején lévő tárgy kerül először azonosításra.\n\nHúzd át a tárgyakat az átrendezéshez.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>Nincsenek azonosítatlan tárgyaid</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>Ez az azonosítási sorod. Húzd át a tárgyakat, hogy eldöntsd, melyik kerüljön sorra az idő múlásával. A vándoroknál is azonosíthatsz tárgyakat.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>Készítés</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>szomszédos</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>el fogod veszíteni a megvásárolt erősítéseket</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>Rémálom úr</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>Hypnorak</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>Phantasmos</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>Elérhető képességpontok</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>Feloldott képességek</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>Feloldott teljesítmények</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Cancel] a megszakításhoz</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC a megszakításhoz</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>Ellenségek</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>Ismert tagok</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>Itt vagy</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>Ha ezt az utat választod, a következőket kapod</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>Merre tovább?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>Több ellenség</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>Kevesebb ellenség</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>Normál ellenségek</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>Több arany</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>Kevesebb arany</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>Normál arany</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>Ellenségek száma</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>Arany zsákmány</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>Kristály</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>{0} kristály</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>{0} ÉP gyógyítása</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>Ezzel a lépéssel a verembe zuhansz. Biztosan ezt akarod tenni?\n\nAz alattad lévő szint egy véletlenszerű pontjára esel és veszítesz némi életerőt. Nem jöhetsz vissza.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>Ez a lépés véget vet a nekifutásodnak. Biztosan ezt akarod tenni?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Rewind] a visszatekeréshez</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Ne felejtsd el megvizsgálni a környezetedet a(z) [Inspect] gombbal.</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>Menekülés!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>Jutalom</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>Mi ez a hely? Meg kell találnom a kiutat...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>Valahányszor idejövök, ez a kazamata megváltozik. De miért?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>Minden lépés kísértetiesen ismerős, mintha már jártam volna itt.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>Valami van előttem, érzem.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>Most nyertem egy csatát, vagy megértettem valamit?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>Úgy érzem, minden ide vezetett, ami előttem áll.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>Úgy érzem... mintha egy súlyt emeltek volna le a lelkemről. Különös.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>Mi tart ilyen sokáig?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>Mi volt ez?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>Meghaltál</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>Megszöktél</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>Nekifutás teljesítve</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>Keresd meg a kart\na nyitáshoz</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>Kövesd az oktatót\na nyitáshoz</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>Segítség</Help> <!-- <En>Help</En> -->
+  <HelpMe>Segíts</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>Itt vagyok</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>Tartsd lenyomva a(z) [Inspect] gombot az olvasáshoz</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>Fő küldetések</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>Mellék küldetések</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>Extrák</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>A lobbiban tudsz küldetéseket elfogadni és elhalasztani.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>Vedd figyelembe, hogy egyes küldetéseket csak olyan kazamatákban lehet teljesíteni, amelyek elég szinttel rendelkeznek.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>Következő kazamata feloldása</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>Juss el a(z) {0}. szint végére ebben a kazamatában, hogy feloldd a következőt.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>Találd meg a puzzle-darabot</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>Találd meg a következő puzzle-darabot a(z) {0}. szinten. Jelenleg {1}/{2} darabod van.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>Lélekmentés</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>1 lélek van ebben a kazamatában. Szabadítsd ki azzal, hogy a menedékhelyre viszed.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>{0} lélek van ebben a kazamatában. Szabadítsd ki őket azzal, hogy a menedékhelyre viszed.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>Figyelem: Ezek a követők hátra fognak maradni</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>Válaszd ki a varázslatodat</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>Válaszd ki a varázslatodat ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>Új varázslat</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>Gyorssávod és varázslataid</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>A(z) {0}. szinten oldható fel</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>Csillagport gyűjtöttél - egy értékes fizetőeszközt!\n\nA csillagport a lobbiban költheted el, hogy erősítéseket vásárolj a következő nekifutásaidhoz és különleges szobákat oldj fel.\n\nMinden "Lobbi tárgy" megjelölésű tárgyat átviszel a lobbiba. Minden más tárgy elvész a nekifutás végén.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>A puzzle-darabok, akárcsak a csillagpor, állandó lobbi tárgyak.\n\nGyűjtsd össze mind a(z) {0} darabot a különböző nekifutások során, hogy feloldj egy titkos szobát a lobbiban.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>Van egy társad.\n\nAmikor mozogsz, Roko automatikusan összeszedi neked az aranyérméket a szomszédos mezőkről.\n\n1 sajtért Roko csak 1 nekifutás erejéig követ téged.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>Most már vannak csapattársaid.\n\nVálthatsz közöttük és külön kezelheted a felszerelésüket. Minden csapattárs önállóan cselekszik a körében.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>Max ÉP +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>Krit. +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>Hibázás -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% tűz</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>Rúgás</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>Ez a karakter képes dolgokat megrúgni.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>Ezen a szinten van egy Emlékdarab</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>Keresd meg</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>Keresés</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>Felfedezett tárgyak</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>Felfedezett lények</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>A kódex a tárgyakat és lényeket a tipikus, nem átkozott állapotukban mutatja. A tényleges tárgyak/lények eltérhetnek.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>Napi kihívás</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>Kaszt</Class> <!-- <En>Class</En> -->
+  <NoClass>Nincs kaszt\n\nHatások:\n- Hírnév és dicsőség</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>A(z) {0}. szinten oldható fel</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>Hatások</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>Képességek: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>Max ÉP</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>Max mana</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>Max állóképesség</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>{0} sebzés élholtakra (csontváz, múmia, stb.)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} tűzellenállás</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} sebezhetőség tűzzel szemben</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>Éhség mértéke {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>Nem aktiválja a nyomólapokat</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>Immunis a méregre</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>Immunis a lökésre</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>A kutyák ellenségesek</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>Járás zaja {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>Ezzel a kaszttal elért max. szint: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>Kaszt nélkül elért max. szint: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} {1} {2} sebzést kap</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} {1} {2} sebzést kap és meghal</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} TP</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0} nem kap {1} sebzést</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} {1} életerőt kap</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} {1} {2} sebzést kap</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} {1} {2} sebzést kap és megsemmisül</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0} nem kap {1} sebzést</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} {1} életerőt kap</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{0} {1}-je megsemmisül</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} blokkol {1} {2} sebzést</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} visszaver {1} {2} sebzést erre: {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} ellökődik</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} odahúzódik</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} új állapotot kap: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} új hatást kap: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{0} {1}-je helyreáll</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{1} helyreállt {0} számára</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{1} helyreállt {0} számára</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} azonosítva</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} hatása elmúlik</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} hatása elmúlik</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} felveszi: {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>Ez egy {0} volt</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>Ez egy {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} egy {1}! (találnod vagy készítened kell egy átoktörő tekercset)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>A(z) {0} tárgyad {1} lett!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>Az átok el lett távolítva erről: {0}</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} egy véletlenszerű helyre teleportál</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} teleportál</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} kinyílik. Most keresd meg a kijáratot.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} kinyílik</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>Egy kapu bezárul mögötted</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} sistereg, de úgy tűnik, nincs hatása</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>Éhezel</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>Éhes vagy</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>Megvetted: {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>Szintlépés!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>Választhatsz egy új varázslatot.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>Szintlépés</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>A pajzshatás megszűnt, mert megsebezted: {0}</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} felébred</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>Összesen {0}</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>Feláldoztad magad</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>Nyertél</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>Vesztettél</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>Teljesítetted a próbát, és megkaptad: {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>Megfejtetted a glifarejtvényt, és megkaptad: {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>Megmentett: {0}</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{1} megmentette {0} játékost</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>Elbuktad a próbát</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>A(z) {0} megduplázódott</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>A(z) {0} megsemmisült</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>Már nincs itt semmi</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>Kifogtál: {0}</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0} aktiválódik {1} múlva</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>Megkaptad: {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>Az ördögszobor elfogadja a(z) {0} felajánlásodat, és {1} tárgyat ad cserébe</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} kapott: {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} elvéti</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>{0} jelent meg a közelben</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} átadja a(z) {1} tárgyat {2} játékosnak</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>A(z) {0} frakció ellenségessé vált</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>Nincsenek meg a szükséges hozzávalók</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>Ez a tárgy nem illik ide</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} ellopta a(z) {1} tárgyat {2} játékostól</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>Összegyűjtöttél {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>Kaptál egy képességpontot! A leltárban tudod elkölteni.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>Felszabadítottad {0} lelkét, és megkaptad: {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>A(z) {0} szintje megnövekedett</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>Elátkozott tárgyat nem vehetsz le</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} elkészíti: {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>Használat magadon</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>Használat...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>Ivás</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>Dobás...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>Evés</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>Dobás...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>Csapda állítása...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>Dobás...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>Ültetés...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>Használat magadon</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>Támadás...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>Varázslás magadra</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>Varázslás...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>Feltöltés...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>Eltorlaszolás...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>Magad leláncolása</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>Leláncolás...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>Lerakás...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>Felvétel...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>Horgászat...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>Bányászat...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>Beszélgetés...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>Bűvölés</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>Ásás...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>Magad megrúgása</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>Rúgás...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} megtámadja magát ezzel: {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0} megtámadja {2} játékost ezzel: {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0} használja: {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0} használja {2} játékoson: {1}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0} megissza: {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0} hozzávágja {2} játékoshoz: {1}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0} használja magán: {1}</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0} használja {2} játékoson: {1}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} hozzávágja {2} játékoshoz: {1}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0} kinyitja: {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0} bezárja: {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0} kiássa: {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0} iszik a(z) {1} forrásból</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0} tárgyat bűvöl ennél: {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} lemegy a lépcsőn</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} felmegy a lépcsőn</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0} meghúzza: {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0} áldásban részesül ennél: {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0} megeszi: {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0} csapdát állít: {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0} úszik ebben: {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0} megég ebben: {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0} rálép erre: {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} teleportál</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0} hozzávágja {2} játékoshoz: {1}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0} elülteti: {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0} varázsol magára: {1}</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0} varázsol {2} játékosra: {1}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0} vízzel tölti meg: {1}</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0} eltorlaszolja: {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} egy oszlophoz láncolja magát</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0} egy oszlophoz láncolja {2} játékost</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0} lerakja: {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0} felveszi: {2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} bekötözi a sebeit</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0} bekötözi {2} sebeit</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} megműti magát</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0} megműti {2} játékost</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0} átkutatja: {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0} szerencsejátékozik ennél: {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0} megnyomja: {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0} kihívást indít ennél: {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0} tárgyat másol a(z) {1} segítségével</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0} halat fog itt: {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} eloltja magát</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0} eloltja {2} játékost</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0} kutatást végez ennél: {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} átkutatja: {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} alszik ebben: {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} bányászik itt: {2}, ezzel: {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} beszélget vele: {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} tárgyat bűvöl ezzel: {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} ás itt: {2}, ezzel: {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} végtagot áldoz fel ennél: {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} Fantomot idéz ennél: {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} lelket szabadít fel ennél: {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} feltakarít: {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} képességpontot szerez ennél: {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} megrúgja magát</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} megrúgja {2} játékost</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} felszerelést fejleszt ennél: {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} elátkozott tárgyat ajánl fel ennek: {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>fel</Up> <!-- <En>up</En> -->
+  <Down>le</Down> <!-- <En>down</En> -->
+  <North>észak</North> <!-- <En>north</En> -->
+  <South>dél</South> <!-- <En>south</En> -->
+  <West>nyugat</West> <!-- <En>west</En> -->
+  <East>kelet</East> <!-- <En>east</En> -->
+  <NorthWest>északnyugat</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>északkelet</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>délnyugat</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>délkelet</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>fel-észak</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>fel-dél</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>fel-nyugat</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>fel-kelet</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>fel-északnyugat</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>fel-északkelet</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>fel-délnyugat</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>fel-délkelet</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>le-észak</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>le-dél</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>le-nyugat</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>le-kelet</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>le-északnyugat</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>le-északkelet</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>le-délnyugat</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>le-délkelet</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>Kezdő</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>Cél</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>Kar</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>Létra</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>Főellenség</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Rajtaütés</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>Ez a karakter nem látott téged az előző körben, így meglepetésszerű támadást indíthatsz, amely {0} többletsebzést okoz.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>Magaslati előny</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>Ez a karakter feletted van, ami magaslati előnyt biztosít neki. {0} többletsebzést okoz, ha ebből a pozícióból talál el.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>Alattad</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>Ez a karakter jelenleg alattad van, ami azt jelenti, hogy {0} többletsebzést okozol neki, ha ebből a pozícióból találod el.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>Nem lát téged</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>Ez a karakter nem lát téged (nem lát olyan messzire, mint te). De vigyázz – még emlékezhet az utolsó pozíciódra, és ellenőrizni akarja!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>Zuhanás</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>Ez a karakter zuhan, ami azt jelenti, hogy a következő körét zuhanással kell töltenie ahelyett, hogy cselekedne.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>Azonosítatlan hatás</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>Ismeretlen hatás. Egy azonosítatlan tárgyból származik.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>Legalább 2 ellenség vesz körül, ami azt jelenti, hogy {0} többletsebzést okozol ennek a karakternek, ha ebből a pozícióból találod el.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Azonosítatlan hatás</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>Ismeretlen hatás. Egy azonosítatlan tárgyból származik.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nEz a jelenlegi játékbeli idő. Egy perc egy kört jelent.\n\nA teljes játék körökre osztott. A legtöbb cselekvés, mint a séta, egy bájital megivása, a támadás vagy a dolgokkal való interakció, egy kört vesz igénybe.\n\nÖsszesen eltelt körök: {2}.\nEzen a szinten: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>Ez a karaktered életereje.\n\nBizonyos tárgyak növelhetik a maximális életerődet. Minden szint {0} maximális életerőt ad.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>Ha nem vagy éhes vagy éhező, {0} életerő gyógyul minden {1} alatt.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>Következő életerőpont gyógyulása: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>Életerőt veszítesz, mert a maximális szint felett van.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>Manát veszítesz, mert a maximális szint felett van.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>Állóképességet veszítesz, mert a maximális szint felett van.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>Ez a tárgy {0} múlva lesz azonosítva. Húzd át a sorrend megváltoztatásához.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>Ez a tárgy {0}. Azonban kifogástalan észlelésednek köszönhetően meg tudod mondani, hogy a következők egyike:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>Az ehhez hasonló tárgyak használat után véglegesen azonosításra kerülnek.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>Ez a tárgy {0}. Ismeretlen hatásai lehetnek és lehet {1} (a(z) {1} tárgyakat nem tudod levenni). A vándorok segíthetnek az azonosításban.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>Ez a tárgy {0}. A(z) {0} tárgyakat nem tudod levenni (átoktörő tekercs nélkül).</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>Gratulálok!;Meg tudod csinálni!;Mindig is hittem benned!;Már majdnem ott vagy!;Bárcsak én is ilyen király lennék!;Lenyűgöző!;Csak így tovább!;Te vagy a legjobb!;Sikerült!;Szép volt!;Király vagy!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>Üdvözlünk az 1. szinten.\n\nAz utad itt kezdődik, még ha nem is ez az első alkalom, hogy ezt a táblát olvasod.\n\nNéhány dolog elsőre nehéznek tűnhet, de ez rendben van. Mindenekelőtt emlékeznünk kell – veszíteni szórakoztató!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>Üdvözlünk a(z) {0}. szinten.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>Itt minden lélek megpihen, hogy megtalálja útját.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>Legyőzve itt: {0}.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>A leltáradban lévő aranyérmék száma. Lehetnek a kazamatában olyanok, akik hajlandóak kereskedni.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>Következő {0} ennyi idő múlva</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>Nem születik több</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>Eltűnik {0} múlva.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>Elterjed {0} múlva.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>Következő cselekvés {0} múlva.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>Aktiválódik {0} múlva.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>Forrás</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>Forrás: Nehézség</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>Jelen van ekkortól</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>Nyomd meg a(z) [Fly]+[MoveForward] gombot a felemelkedéshez és a(z) [Fly]+[MoveBack] gombot a süllyedéshez.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>Tartsd lenyomva a(z) [Fly] gombot az ajtó berúgásához.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>Nyomd meg a(z) [Rewind] gombot az idő visszatekeréséhez.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>Ennek a tárgynak a használata nem kerül körbe.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>Ennek a tárgynak a használata a kör {0} részébe kerül.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>Ennek a tárgynak a használata {0} körbe kerül.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>Ennek a varázslatnak a használata nem kerül körbe.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>Ennek a varázslatnak a használata a kör {0} részébe kerül.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>Ennek a varázslatnak a használata {0} körbe kerül.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>Ez a cselekvés nem kerül körbe.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>Ez a cselekvés a kör {0} részébe kerül.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>Ez a cselekvés {0} körbe kerül.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>Ezzel az objektummal való interakció nem kerül körbe.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>Ezzel az objektummal való interakció a kör {0} részébe kerül.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>Ezzel az objektummal való interakció {0} körbe kerül.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>Ez az objektum gyúlékony.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>Csak akkor használhatod, ha senki sem lát.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>Ez az objektum törékeny (a robbanások elpusztítják).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>Az azonosítás leállt, mert éhes vagy.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>Kattints a felvételhez.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>Kattints az interakcióhoz.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>Kattints a vásárláshoz.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>Használd a felvételhez.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>Használd ezt az objektumot.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>Használd a vásárláshoz.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>Ez a tárgy eltűnik süllyedés után.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>Ez a fejlődésed a következő szint felé. Tapasztalatot ellenségek legyőzésével szerezhetsz.\n\nTP a következő szintig: {0}\nJelenlegi szint: {1}\nÖsszes tapasztalat: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>Ez a jelenlegi szinted. Ellenségek legyőzésével léphetsz szintet.\n\nMinden szint {0} maximális életerőt ad. Továbbá minden szintlépéskor választhatsz egy új varázslatot.\n\nTP a következő szintig: {2}\nÖsszes tapasztalat: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>Ez a jelenlegi szinted az összes nekifutásodból származó összpontszám alapján. Pontot szerezhetsz ellenségek legyőzésével és a játékban való előrehaladással.\n\nPont a következő szintig: {0}\nÖsszpontszám: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>Ez a jelenlegi jóllakottsági szinted: {0}/{1}\n\nIdőnként enned kell, hogy csillapítsd az éhségedet és elkerüld a következményeket.\n\nAmint a jóllakottsági szint eléri a(z) {2} értéket, éhessé válsz – nem fogsz életerőt regenerálni és tárgyakat azonosítani.\n\nAmint a jóllakottsági szint eléri a(z) {3} értéket, éhezni kezdesz – nem fogsz állóképességet regenerálni, és idővel lassan veszíteni fogsz az életerődből.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>Ez a kazamata jelenlegi szintje. Minél mélyebbre mész, annál nehezebb túlélni, de annál szórakoztatóbb is lesz!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>Ad {0} tapasztalatot</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>Figyelem: Ha megölöd, e frakció minden tagja ellenségessé válik.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>Taktika: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>Ez a karakter követni fog a következő szintre.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>Állapotok</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>Fegyver</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>Varázslatok</Spells> <!-- <En>Spells</En> -->
+  <Talk>Beszélgetés</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>Halálakor</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>Viselt</Worn> <!-- <En>Worn</En> -->
+  <Inventory>Leltár</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>Infó</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>{0} manába kerül</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>{0} állóképességbe kerül</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>Ez a karaktered manája.\n\nA varázslás és a mágikus tárgyak használata manába kerül. A mana nem regenerálódik automatikusan az idővel, csak manitalok ivásával vagy különleges tárgyakkal való interakcióval tölthető fel. A manasáv rejtve van, ha nincsenek varázslataid.\n\nMinden szintlépéskor választhatsz egy új varázslatot.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>Ez a karaktered állóképessége.\n\nBizonyos tárgyak használata állóképességet igényelhet. Az állóképesség-sáv rejtve van, ha a leltáradban nincsenek állóképességet igénylő tárgyak.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>Ha nem éhezel, {0} állóképesség regenerálódik minden {1} alatt.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>Következő állóképesség regenerálódása: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>Válassz egy új varázslatot. Minden szintlépéskor választhatsz egy új varázslatot.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>menekül alacsony életerőn</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>Az óra segítségével tetszés szerint visszatekerheted az időt! Tekerd vissza az utolsó kört a(z) [Rewind] gomb megnyomásával.\n\nHasználd, amikor nem tetszik a legutóbbi cselekedeteid kimenetele, vagy egyszerűen félrekattintottál.\n\nAz órának van egy határa, hogy hány kört tekerhetsz vissza egyszerre, de {0} körönként újratöltődik. Más időmanipulációs tárgyakkal, mint például a visszatekerő tekercsekkel ellentétben, az óra elveszíti az összes megmaradt töltetét, ha azonosítatlan bájitalt vagy tekercset használsz, elátkozott tárgyat veszel fel, csapdába lépsz, vagy ezüst kulcsot használsz.\n\nA Ricave-ben minden cselekvés determinisztikus, ami azt jelenti, hogy a visszatekerés után minden pontosan ugyanúgy fog lejátszódni, mint korábban, ha ugyanazt a lépést teszed meg újra, beleértve az ugyanannyi sebzés kiosztását és az ellenségek azonos döntéseit. Az idő visszatekerése csak azért, hogy nagyobb sebzést érj el, nem fog működni.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>Újratöltődés: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>Csillagpor a kazamata különböző helyein található, vagy küldetések teljesítéséért jutalomként kapható. A csillagport az előcsarnokban költheted el.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>Gyűjtsd össze mind a(z) {0} puzzle-darabot, hogy megnyiss egy különleges szobát az előcsarnokban. A kazamata minden szintjén van egy puzzle-darab, és futásonként csak egy darabot találhatsz.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>Következő puzzle-darab a(z) {0}. szinten.</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>Hatótáv: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>Közelharc</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>hatótávon belül vagy</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>hatótávon kívül vagy</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>Szedd fel az elhelyezett tárgyakat a privát szobádban.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>Jelenleg {0} felé nézel.\n\nMozgás: „[MoveForward][RotateLeft][MoveBack][RotateRight]”.\nOldalazás: „[MoveLeft]” és „[MoveRight]”.\nEmelkedés és süllyedés: „[Fly]+[MoveForward]” és „[Fly]+[MoveBack]”, ha a karaktered tud repülni.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>Sebződni fog {0} múlva.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>Életerőt kap {0} múlva.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>Állóképességet kap {0} múlva.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>Manát kap {0} múlva.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>Az állóképesség-regeneráció le van tiltva, mert ez a karakter nem érinti a földet.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>Az állóképesség-regeneráció le van tiltva, mert nem érinted a földet.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>Töltési idő: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>{0} van hátra</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>Először oldd fel: {0}</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>Nincsenek képességpontjaid</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>Kattints a feloldáshoz</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>Használd a feloldáshoz</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>Hatások</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>Minden kapu nyitva van, és mindenki ébren van. Most menekülnöd kell!\n\nTovábbá kétszer annyi patkány fog megjelenni.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>Roko összeszedi neked az aranyérméket a szomszédos mezőkről, amikor mozogsz.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>Tipp: A kódexben megnézheted a jellemző statisztikákat</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>Leltári tárgyak rendezése</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>Levesz</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>Felszerel</Equip> <!-- <En>Equip</En> -->
+  <Unwear>Levesz</Unwear> <!-- <En>Take off</En> -->
+  <Wear>Felvesz</Wear> <!-- <En>Wear</En> -->
+  <Drop>Eldob</Drop> <!-- <En>Drop</En> -->
+  <Destroy>Megsemmisít</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>Összekeverés ezzel: {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>Megnéz</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>Mozgás ide</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>{0} használata ezen</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>Interakció ezzel</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>Letiltva</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>{0} átadása</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>halál</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>Nincs hely</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>A jelenleg felszerelt tárgy el van átkozva</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>flancos, hatalmas, mindenható, erős, ijesztő, elragadó, lenyűgöző, életerős, csábító, gyönyörű, bájos, izgalmas, imádnivaló, okos, lenyűgöző, kínos, legyőzhetetlen, kicsi, nagy, rémisztő, boldog, szomorú, nyekergő, furcsa, őrült, izgató, csinos, vonzó</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>bambi, hambi, bini, lemoni, garbli, klutter, guber, blumi, bumber, lolli, popli, porki, rambli, donder, dondli, dopli, brobli, csiki, purpli, vigli, pratli, tvidli, dingli, plonk, vobli, dzsingli, dudli</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>karm, vért, jard, fi, barbl, márk, ton, bon, gon, huf, stejn, bin, sznepper, blob, puff, laf, bach, dori, sznarf, flop, plopp, buff, blatt, sznark, bork</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>{0} szelleme</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>Nevetés, Változás, Remény, Magány, Harmónia, Eltökéltség, Öröm, Félelem, Harag, Szomorúság, Szeretet, Meglepetés, Undor, Kíváncsiság, Remény, Kétségbeesés, Bizalom, Szkepticizmus, Bátorság, Bűntudat, Szégyen, Hála, Irigység, Megkönnyebbülés, Unalom, Nyugalom, Nosztalgia, Rugalmasság, Empátia, Várakozás, Megbánás, Csodálat, Alázat, Frusztráció, Megvetés</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>Nincs</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Enter</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Szóköz</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>Bal egérgomb</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>Jobb egérgomb</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>Középső egérgomb</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Windows-gomb</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>Bal ravasz</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>Jobb ravasz</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>Bal vállgomb</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>Jobb vállgomb</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>Vissza gomb</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>Start gomb</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>Bal kar lenyomása</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>Jobb kar lenyomása</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Ölés</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>Dupla ölés</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>Tripla ölés</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>{0} öléses kombó</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>Új szint</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>Próba teljesítve</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>{0} ölés</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>reggel</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>nappal</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>este</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>éjjel</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>VÉDŐ</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>HARCOS</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>KALANDOZÓ</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>piros</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>zöld</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>kék</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>Leó</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>Éva</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Segédeszközök</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>Bájitalok</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>Tekercsek</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>Fegyverek és felszerelés</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

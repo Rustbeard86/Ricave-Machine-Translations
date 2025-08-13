@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <EveryoneStartsAwake.label>mindenki ébren kezd</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>Mindenki ébren fog kezdeni.</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>extra mini-főnök szintenként</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>Minden szinten egy extra mini-főnök fog megjelenni (csak akkor érvényes, ha a kazamatában vannak mini-főnökök).</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>20%-kal kevesebb ellenség</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>Minden szinten 20%-kal kevesebb ellenség lesz.</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>minden tárgy azonosítva kezd</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>Minden tárgy, amit a kazamatában találsz, már azonosítva lesz.</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>20%-kal több ellenség</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>Minden szinten 20%-kal több ellenség lesz.</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>több csapda</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>Több tüske és közelségi bomba fog megjelenni a kazamatában.</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>nincs éhség</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>Soha nem leszel éhes.</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>nincsenek mini-főnökök</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>Nem fognak mini-főnökök megjelenni (csak akkor érvényes, ha a kazamatában vannak mini-főnökök).</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>nincsenek véletlenszerű események</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>Nem történnek véletlenszerű események, függetlenül attól, mennyi ideig maradsz a kazamatában (csak akkor érvényes, ha a kazamatában vannak véletlenszerű események).</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>nincsenek menedékek</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>Nem generálódnak menedékek (csak akkor érvényes, ha a kazamatában vannak menedékek).</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

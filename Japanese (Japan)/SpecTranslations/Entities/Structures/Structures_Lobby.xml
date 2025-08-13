@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>パズルの旗</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>カラフルな旗。</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>トロフィー</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>各ボストロフィーは、ボスが倒された階層と同じ量のスターダストを生成します。スターダストは、ダンジョンの2階以上に到達するたびに補充されます。</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>ワードローブ</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>ここで見た目を変更できます。</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>デイリーチャレンジボード</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>デイリーチャレンジに参加しましょう。世界中の誰もが毎日同じチャレンジに挑戦します！</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>ディスプレイ</Display.label> <!-- <En>display</En> -->
+  <Display.description>アイテムを置く場所。</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>ポータル</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>これが終わりなのだろうか？</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>最終会話トリガー</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>廊下の標識</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>このドアの向こうは廊下だ。</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>ドア</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>このドアは鍵がかかっているようだ。</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>ドア</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>このドアは鍵がかかっているようだ。</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>60スターダストで廊下をアンロックしますか？</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>アンロック</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>ドア</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>このドアは鍵がかかっているようだ。</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>20スターダストでトレーニングルームをアンロックしますか？</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>アンロック</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>記憶の扉</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>4つの記憶の欠片をすべて集めることでしか開かない扉。</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>パズルの扉</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>10個のパズルのピースをすべて集めることで開く扉。パズルのピースはダンジョンの各階層に1つずつあり、1回の挑戦で見つけられるのは1つだけです。つまり、最後のピースは10階にあるということです。</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>魔法の鏡</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>ここで特性を変更できます。</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>記憶の扉</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>4つの記憶の欠片をすべて集めることでしか開かない扉。</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>記憶の欠片</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>未知の記憶の欠片。</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>記憶の欠片</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>未知の記憶の欠片。</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>記憶の欠片</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>未知の記憶の欠片。</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>記憶の欠片</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>未知の記憶の欠片。</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>階段</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>ダンジョンへ続く階段。</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>階段</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>特定のワールドシードを使ってダンジョンに挑戦できる階段。このダンジョンでは、すべてのロビーの進行状況とクエストが無効になります。</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>プライベートルームの標識</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>あなたのプライベートルーム。まあ、購入すればの話ですが。</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>パズルの扉</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>すべてのパズルのピースを集めてアンロックされた扉。</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>パズルルームの標識</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>謎の部屋。</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>クエストボード</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>受注可能なクエストと完了したクエストをすべて確認できます。</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>ショップの看板</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>ここにはショップがあります。スターダストを消費して、次の挑戦のためのブーストを購入できます。</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>空</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>良い眺めだ。</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>空</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>良い眺めだ。</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>階段</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>ダンジョンへ続く階段。</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>ステータスボード</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>あなたの全ステータスを確認できます。</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>トレーニングルームの標識</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>ここにはトレーニングルームがあります。様々な種類の敵を相手に訓練できます。</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>階段</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>トレーニングルームへ続く階段。敵やボスを相手に訓練できます。</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>ゴミの山</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>この区画を塞いでいるゴミの山。スターダストを使って永久に除去できます。</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>40スターダストでこのゴミの山を片付けますか？</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>片付ける</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>壁のランプ</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>スタイリッシュな壁のランプ。</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>Spela</Play> <!-- <En>Play</En> -->
+  <Quit>Avsluta</Quit> <!-- <En>Quit</En> -->
+  <Loading>Laddar</Loading> <!-- <En>Loading</En> -->
+  <Resume>Återuppta</Resume> <!-- <En>Resume</En> -->
+  <Options>Alternativ</Options> <!-- <En>Options</En> -->
+  <Mods>Moddar</Mods> <!-- <En>Mods</En> -->
+  <Credits>Tack till</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>Välj språk</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>Dö och starta om</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>Dö och återgå till lobbyn</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>Spara och avsluta spelet</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>Stäng</Close> <!-- <En>Close</En> -->
+  <Back>Tillbaka</Back> <!-- <En>Back</En> -->
+  <Days>{0} dagar</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} timmar</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} minuter</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 dag</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 timme</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 minut</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>Något orsakar fel.\nSe loggfilen för mer information.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Inloggad på Steam</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>ingen modd vald</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>Early Access</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave är för närvarande under utveckling.\n\nJag försöker ständigt lägga till mer innehåll, balansera om saker, ta bort mekaniker som inte är roliga och samla in feedback, men jag har förmodligen fortfarande missat något. Om du tycker att spelet är för svårt eller för lätt, stöter på en bugg, eller har en fantastisk idé för en förbättring eller en ny funktion, vänligen delta i utvecklingsprocessen och dela dina tankar på vår Discord-kanal eller Twitter.\n\nTack och ha det så kul!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>Spelet har uppdaterats</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricave har uppdaterats till version {0}!\n\nDin nuvarande omgång kanske inte är kompatibel med den nya versionen. Vill du avbryta din nuvarande omgång och återgå till lobbyn?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Ladda upp till Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>laddar upp</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Kunde inte ladda upp till Steam: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Uppladdningen till Steam lyckades.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>Meddelande</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>Upplösning</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>Helskärm</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>UI-skala</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>Synfält (FOV)</FOV> <!-- <En>FOV</En> -->
+  <VSync>VSync</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>Mål-bilduppdatering</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>Visa FPS</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Invertera Y-axeln</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>Tangentbordsinställningar</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>Volym</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>Musikvolym</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>Muskänslighet</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>Pekarkänslighet</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>SSAO-kvalitet</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>Skuggkvalitet</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>Nedsampling</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>Kontur</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>Max antal ljus</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>Av</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>Låg</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>Normal</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>Hög</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>Låg</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>Normal</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>Hög</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>Ingen (bäst kvalitet)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1,5x (sämre kvalitet)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (sämst kvalitet)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>Flerpass rundad</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>Flerpass</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>Enkelpass (rekommenderas)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>OK</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>Återställ standardinställningar</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>Återställ spelläge</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>Återgå till lobbyn</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>Återställ alla framsteg</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>Är du säker på att du vill återgå till lobbyn?\n\nTill skillnad från att återgå till lobbyn i spelet, innebär det här alternativet att du förlorar dina framsteg för den nuvarande omgången. Du kommer dock inte att förlora dina övergripande framsteg i lobbyn (dina tidigare uppdrag och stjärnstoft förblir intakta).\n\nAnvänd det här alternativet om din sparfil är korrupt, t.ex. efter att ha installerat en inkompatibel uppdatering.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>Är du säker på att du vill återställa ALLA framsteg?\n\nDetta kommer att radera all din data och du kommer att börja om från början.\n\nAnvänd endast det här alternativet om du vill uppleva spelet från grunden, eller om din framstegsdata är korrupt.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>Tryck på en tangent för att tilldela till:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>Ingen</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>Video</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>Gränssnitt</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>Ljud</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>Övrigt</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>Kvalitet</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>Nej</No> <!-- <En>No</En> -->
+  <Yes>Ja</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>Gå in i grottan</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>Gå in i grottan med seed</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>Gå in i träningsrummet</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>Ange seed</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>Framsteg inaktiverade</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>Högsta poäng</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>Nådd våning</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>Genomsnittlig våning</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>Försök</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>Totalt antal dödade</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>Uppdrag</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>Statistik</Stats> <!-- <En>Stats</En> -->
+  <Cancel>Avbryt</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>Acceptera</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>Acceptera uppdrag</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>Hämta</Claim> <!-- <En>Claim</En> -->
+  <Postpone>Skjut upp</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>Låst</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>Endast de bästa priserna!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>Behöver du uppgraderingar?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>Har du stjärnstoft?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>Klicka för att läsa mer</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>Välj för att läsa mer</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>Grottmodifierare vid acceptans</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>Belöningar</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} pusselbitar</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>Låses upp på nivå {0}</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>Låses upp genom att slutföra uppdrag</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>Placera</Place> <!-- <En>Place</En> -->
+  <PickUp>Plocka upp</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>Tryck på [ShowInventory] för att öppna butiksmenyn.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>Ingen</None> <!-- <En>None</En> -->
+  <CompletedQuests>Slutförda uppdrag</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>Slutförda</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>Daglig utmaning</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>Du har ett försök - se till att det räknas!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>Varje dag får spelare runt om i världen spela samma grott-seed. Du får bara en chans per dag.\n\nRegler:\n  - Normal svårighetsgrad\n  - Boostar inaktiverade\n  - Slumpmässig klass och egenskaper\n  - Uppdrag inaktiverade\n  - Framsteg inaktiverade\n  - Oändlig komplex grotta (ingen våningsgräns)\n\nDu kan inte samla stjärnstoft i denna grotta och det kommer inte att räknas mot din statistik, men du kommer att få {0} för deltagande.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>Nästa utmaning om: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>Ditt bästa resultat (alla dagar): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>Starta daglig utmaning</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>Du har redan spelat dagens utmaning\nDin poäng var: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>Inaktivera moddar först</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>Låses upp på nivå {0}</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>Visa dagens topplista</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>Global</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>Vänner</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>Din rankning: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>Laddar topplista...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>Kunde inte ladda topplistan.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>Ingen topplista tillgänglig.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>Inga av dina vänner har spelat denna utmaning än.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>Aktiva uppdrag</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>Aktiva</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>Tillgängliga uppdrag</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>Tillgängliga</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>Historiska uppdrag</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>Historiska</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>Tryck på [Wait] för att fortsätta</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>Uppdrag</Quest> <!-- <En>Quest</En> -->
+  <Runs>Omgångar</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 uppdrag tillgängligt</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} uppdrag tillgängliga</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>Använd uppdragsloggen för att acceptera uppdrag.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>Spelarnamn</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>Svårighetsgrad</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>Fiender</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>Bossar</Bosses> <!-- <En>Bosses</En> -->
+  <Train>Träna</Train> <!-- <En>Train</En> -->
+  <EnterNewName>Ange nytt namn</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>Fiende-HP</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>Start-HP</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>Poängfaktor</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>Extra fiender</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>Bröd per våning</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>Hälsodrycker per våning</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>Fiendenivå</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>Guldbyte per våning</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>Stjärnstoft</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>Hälsokristaller</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>Små hälsokristaller</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>Manakristaller</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>Små manakristaller</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>Antal fiender</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>Start-hälsodrycker</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>Grattis!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>Grattis!\n\nDin slutpoäng var: {0}\n\nÄven om huvuduppdraget är över, kan det fortfarande finnas mycket kvar för dig att upptäcka.\n\nOm du gillade spelet, överväg att gå med i vår Discord-server på {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>Pris för nästa egenskaper</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>Du måste låsa upp denna egenskap först.\n\nDu kan köpa en slumpmässig egenskap för stjärnstoft. Ju fler egenskaper du redan har, desto dyrare är det att köpa nästa.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>Högsta våning du har nått med denna egenskap: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>Du kan bara välja upp till 2 egenskaper.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>Du har inte tillräckligt med stjärnstoft.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>Klicka för att välja eller avvälja denna egenskap.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>Välj eller avvälj denna egenskap.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>Klicka för att välja eller avvälja.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>Välj eller avvälj.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>Köp {0} slumpmässiga egenskaper</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>Valda egenskaper</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>Vill du verkligen köpa {1} slumpmässiga egenskaper för {0}?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>Börja med {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>Hitta {0} mer guld</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>Hitta {0} mindre guld</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>Max HP</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>Max mana</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>Max stamina</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>Inte fientlig mot {0}</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>Fientlig mot {0}</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>{0} giftresistans</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>{0} giftsårbarhet</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>Immun mot gift</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>Ingen fallskada</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>{0} fallskada</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>{0} eldresistans</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>{0} eldsårbarhet</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>{0} magiresistans</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>{0} magisårbarhet</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{0} skada mot {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>Stamina regenereras {0}x långsammare</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Stamina regenereras dubbelt så långsamt</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>Gör {0} mer skada när HP är under {1}</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>Få {0} mindre max HP per nivå</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>Få {0} mer max HP per nivå</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>Gångljud {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>Få {0} mana per betydande dråp</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>Få {0} HP per betydande dråp</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>Förlora {0} HP per betydande dråp</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>Inventarieplatser {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>Max HP x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>{0} skada mot bossar</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>Läkningshastighet {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>Immun mot {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>Immun mot knuffar</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>Hungerhastighet {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>Butikspriser {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>Kan flyga</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>Få {0} mer erfarenhet</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>Få {0} mindre erfarenhet</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>Behållen XP från förra rundan</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>Behållet guld från förra rundan</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>1 runda kvar</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>{0} rundor kvar</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>Starta</StartNewRun> <!-- <En>Start</En> -->
+  <Character>Karaktär</Character> <!-- <En>Character</En> -->
+  <Traits>Egenskaper</Traits> <!-- <En>Traits</En> -->
+  <Boosts>Förstärkningar</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>Våningar</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} våningar</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>Rum per våning</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>Lås upp för {0}</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>Klarad på svårighetsgrad</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>Minibossar</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>Skyddsrum</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>Räddade andar</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>Vinster</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>Förluster</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>{0}-boss</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>Kolliderar med</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>Kosmetika är rent visuella och har inga speleffekter, om inte annat anges.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>Vill du köpa {0} för {1}?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>Du har inte råd med denna kosmetika.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>Pris</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>Varning: Denna kosmetika kommer att göra {0} fientlig mot dig</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>Extra grottmodifierare</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>Din tid är lånad.\nJag samlar bara in min skuld.\nFortsätt springa, för all del.\nTill slut kommer du att hitta utgången.\nJag är precis bortom den.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>Oupptäckt fiende</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} HP</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} mana</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} uthållighet</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} till {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>överfallen</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>från ovan</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>från parering</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>spridd skada</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>oidentifierad</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>Förbannad</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>förbannad</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 tur</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} turer</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1 användning</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} användningar</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 laddning</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} laddningar</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 diamant</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} diamanter</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 stjärnstoft</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} stjärnstoft</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 cell</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} celler</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 guld</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} guld</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}g</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>Tryck på [Accept] för att fortsätta</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>Tryck på [Accept] för att fortsätta till lobbyn</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>Tryck på [Wait] för att starta om</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>inga alternativ</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>Varning: Detta föremål kan vara {0}.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>Varning: Detta föremål är {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>Du kan inte avrusta {0} föremål (utan en skriftrulle som tar bort förbannelser).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>Guld</Gold> <!-- <En>Gold</En> -->
+  <Leave>Lämna</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>Agerar två gånger per tur</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>Agerar {0} gånger per tur</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>Agerar varannan tur</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>Agerar en gång var {0}:e tur</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>Blir inte hungrig</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>Blir hungrig dubbelt så snabbt</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>Blir hungrig {0} gånger snabbare</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>Blir hungrig dubbelt så långsamt</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>Hungerhastighetsmultiplikator: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>Kasta {0} guld</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>{0} chans</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>värt {0} turer</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>radie {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>hela kartan</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>genom väggar</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>runt målet</AroundTarget> <!-- <En>around target</En> -->
+  <Used>Använd</Used> <!-- <En>Used</En> -->
+  <Waiting>Väntar</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>Avbruten</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>plats</Location> <!-- <En>spot</En> -->
+  <StopTargeting>Sluta sikta</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>Uppdrag slutfört</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>Hämta din belöning när du är tillbaka i lobbyn</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>Stationär</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>Ett steg</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>Vill du köpa {0} för {1}?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>Detta är en engångsbonus och gäller endast för din nästa omgång.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>Köp</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>Tillgänglig om {0}</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>Detta är karaktärens ursprungliga vapen.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>Välj en ny trollformel.\n\nDu kan välja en ny trollformel varje gång du går upp i nivå.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} besegrad</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>Tips: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>Använd [MoveForward][MoveLeft][MoveBack][MoveRight] för att röra dig. Tryck på [ShowInventory] för att öppna inventariet. Använd [Interact] för att interagera med objekt. Rotera med [RotateLeft] och [RotateRight]. Håll [Inspect] för att inspektera. Tryck på [Wait] för att vänta en tur.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>Väntar</Waits> <!-- <En>Waits</En> -->
+  <Wait>Vänta</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>Väntar (berusad)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>Väntar (panik)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>Väntar ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>Vaknar</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>Var?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>Inga armar</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>Inga ben</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>Fientlig</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>Saknade kroppsdelar</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>Någon ser dig</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>Bossen lever fortfarande</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>Inte tillräckligt med mana ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>Inte tillräckligt med uthållighet ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>Nedkylning ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>Gå närmare</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>Ogiltigt mål</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>Utom räckhåll</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>Ingen siktlinje</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>Behöver {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>Kan inte nå</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>Inventariet fullt</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>Behöver 2 likadana kristaller</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>Behöver ande</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>Behöver spade</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>Använd spade</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>Behöver hacka</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>Använd hacka</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>Några gruppmedlemmar är för långt borta</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>Dörren är blockerad</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>{0}-följeslagare finns redan</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} nu till dig</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} nu</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} nu för dig</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>{0} skada per tur</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{0} skada per {1} turer</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} per tur</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} per {1} turer</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>allt</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} för dig</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>eller</Or> <!-- <En>or</En> -->
+  <And>och</And> <!-- <En>and</En> -->
+  <Score>Poäng</Score> <!-- <En>Score</En> -->
+  <FloorReached>Våning nådd</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>Dräpta</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>Speltid</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>Dräpta</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>Stridsklassificering</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>Besegrade bossar</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>Lobbyföremål insamlade</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>Nästa belöning vid nivå {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}d</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}h</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}m</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>inga</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>Nytt rekord!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>och mer</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>Frö: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 modifierare</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} modifierare</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>Satsa {0} guld</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>Handledning</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>Bossar dräpta</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>Uppdrag slutförda</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>Anteckningar funna</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>Kistor öppnade</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>Föremål tillverkade</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>Vanlig</Common> <!-- <En>Common</En> -->
+  <Uncommon>Ovanlig</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>Sällsynt</Rare> <!-- <En>Rare</En> -->
+  <Epic>Episk</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>Oidentifierad</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>Lobbyföremål (permanent)</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>Lobby</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>skadad</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>eld i närheten</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>högt ljud</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>allierad vaknade i närheten</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>fientliga fotsteg</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>vaksam allierad passerar</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>sparkad dörr</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>Miss</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} miss</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} krit</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>kritisk</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>Kritisk träff</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>laddad</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>Tillgängliga recept</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>Vänta {0}</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>Spola tillbaka {0}</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>du har {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>baby {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>{0}-boss</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>Du verkar befinna dig i någon sorts fängelsehåla...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>Du vet inte exakt var du är, eller ens hur du hamnade här.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>Allt runt omkring känns lite drömlikt. Samtidigt känns det lite för verkligt för att bara vara en dröm.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>Du börjar sakta minnas något. Du vet åtminstone ditt namn.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>Ditt namn är:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>Du har precis lagt märke till någon på avstånd, men du såg bara en skymt av hans skugga. Du borde nog undersöka det.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>Du öppnar sakta dina ögon...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>Du vaknar på ett sjukhus.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"Han är vaken!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Vad hände?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Du var ute på en vandring med dina vänner och fick en allvarlig huvudskada."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"Räddningspersonalen hittade dig precis i tid. Du behöver vila och återfå din styrka."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Var är Maya?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Vem är Maya?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Hon hittade mig först. Mår hon bra?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Du kanske känner dig lite förvirrad, men du kommer att återhämta dig snart."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>Du är förbryllad, men ändå har du denna konstiga känsla av att ha åstadkommit något. Nästan som om du har förändrats på något sätt.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>Du sluter ögonen och tar ett djupt andetag, och föreställer dig solens värme i ansiktet. Den friska luften fyller dina lungor och du kan inte låta bli att le.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>Tack för att du spelade demon!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>Skapat av</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>Bakgrundsbild i huvudmenyn av</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>Musik av</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>Logotyp av</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>Karaktärsmodeller av</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>Ljudeffekter från</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>Tack för att du spelade!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>Skogen... bingo! Du börjar minnas vad som hände innan du kom hit. En varm sommardag, fågelsång och vackra berg vid horisonten – du var ute på en vandring med dina vänner. Men sedan fångade något din uppmärksamhet. Du minns att du separerade från gruppen. Men varför?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>Grottan! Du lämnade din grupp efter att ha hört någon ropa på hjälp. I tron att det var en annan vandrare i nöd följde du rösten till en grotta. Väl inne halkade du och föll, och bröt benet. Du ropade, men ingen svarade. Ensam och skadad började ditt hopp att sina...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>Du satt ensam i den där grottan i timmar. När natten kom och regnet började ösa ner förlorade du nästan allt hopp. Efter vad som kändes som en evighet såg du ett ljus vid grottans ingång. Det var... Maya! Du var så lättad!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>Du blev överlycklig över att se Maya. Hon sträckte ut handen för att dra upp dig, och för ett ögonblick verkade det som om du skulle klara det. Men det obevekliga regnet fick henne att halka och ni båda föll ner och slog i klipporna med smärtsam kraft. Efter det blev allt tyst.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>Utrusta</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>Tillverka</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>Identifiera</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>Namn</Name> <!-- <En>Name</En> -->
+  <Level>Nivå</Level> <!-- <En>Level</En> -->
+  <Experience>Erfarenhet</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>XP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>Attack</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>Se alla föremål du för närvarande har utrustade.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>Se alla recept du kan använda för att tillverka nya föremål. Det kan vara användbart om du behöver ta bort en förbannelse eller läka en saknad kroppsdel.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>Se alla oidentifierade föremål du har i ditt inventarium.\n\nVarje föremål identifieras långsamt över tid (om du inte är hungrig). Föremålet överst i listan kommer att identifieras först.\n\nDra och släpp för att ändra ordning.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>Du har inga oidentifierade föremål</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>Detta är din identifieringskö. Dra och släpp för att bestämma vilket föremål som ska identifieras härnäst allteftersom tiden går. Du kan också identifiera föremål hos vandrare.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>Tillverka</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>närliggande</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>du kommer att förlora köpta förstärkningar</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>Mardrömsherre</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>Hypnorak</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>Phantasmos</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>Tillgängliga färdighetspoäng</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>Upplåsta färdigheter</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>Upplåsta bedrifter</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Cancel] för att avbryta</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC för att avbryta</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>Fiender</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>Kända medlemmar</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>Du är här</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>Om du väljer att gå den här vägen kommer du att få följande</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>Vart ska du gå?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>Fler fiender</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>Färre fiender</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>Normala fiender</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>Mer guld</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>Mindre guld</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>Normalt med guld</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>Antal fiender</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>Guldbyte</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>Kristall</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>{0} kristall</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>Läk {0} HP</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>Detta drag kommer att få dig att falla ner i gropen. Vill du verkligen göra det?\n\nDu kommer att landa på en slumpmässig plats på våningen under och förlora lite hälsa. Du kan inte komma tillbaka.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>Detta drag kommer att avsluta din omgång. Vill du verkligen göra det?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Rewind] för att spola tillbaka</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Kom ihåg att inspektera din omgivning med [Inspect].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>Fly!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>Belöning</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>Vad är det här för ställe? Jag måste hitta vägen ut...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>Varje gång jag kommer hit förändras den här grottan. Men varför?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>Varje steg känns kusligt bekant, nästan som om jag har varit här förut.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>Det är något längre fram, jag kan känna det.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>Vann jag just en strid eller förstod jag något?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>Det känns som att allt har lett till det som ligger framför.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>Det känns som... en tyngd har lyfts från mitt sinne. Konstigt.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>Varför tar det så lång tid?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>Vad var det där?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>Du dog</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>Du flydde</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>Omgång slutförd</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>Hitta spak\nför att öppna</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>Följ handledningen\nför att öppna</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>Hjälp</Help> <!-- <En>Help</En> -->
+  <HelpMe>Hjälp mig</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>Här borta</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>Håll [Inspect] för att läsa</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>Huvuduppdrag</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>Sidouppdrag</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>Extrauppdrag</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>Du kan acceptera och skjuta upp uppdrag i lobbyn.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>Notera att vissa uppdrag bara kan slutföras i grottor som har tillräckligt många våningar.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>Lås upp nästa grotta</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>Nå slutet av våning {0} i den här grottan för att låsa upp nästa.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>Hitta pusselbit</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>Hitta nästa pusselbit på våning {0}. Du har för närvarande {1}/{2} av dem.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>Andräddning</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>Det finns 1 ande i denna grotta. Befria den genom att ta den till skyddsrummet.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>Det finns {0} andar i denna grotta. Befria dem genom att ta dem till skyddsrummet.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>Varning: Dessa följeslagare kommer att lämnas kvar</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>Välj din besvärjelse</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>Välj din besvärjelse ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>Ny besvärjelse</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>Ditt snabbfält och dina besvärjelser</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>Upplåst på nivå {0}</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>Du har samlat stjärnstoft - en värdefull valuta!\n\nStjärnstoft kan spenderas i lobbyn för att köpa förstärkningar till dina nästa omgångar och låsa upp speciella rum.\n\nAlla föremål märkta med "Lobbyföremål" förs över till lobbyn. Alla andra föremål förloras när omgången avslutas.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>Pusselbitar, precis som stjärnstoft, är permanenta lobbyföremål.\n\nSamla alla {0} av dem under olika omgångar för att låsa upp ett hemligt rum i lobbyn.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>Du har en följeslagare.\n\nNärhelst du rör dig kommer Roko automatiskt att samla guldmynt åt dig från de närliggande rutorna.\n\n1 ost får Roko att följa dig under endast 1 omgång.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>Du har nu gruppmedlemmar.\n\nDu kan växla mellan dem och hantera deras inventarier separat. Varje gruppmedlem agerar på sin egen tur.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>Max HP +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>Krit. +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>Miss -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% eld</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>Sparka</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>Denna karaktär kan sparka saker.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>Det finns en minnesbit på den här våningen</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>Leta efter den</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>Sök</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>Upptäckta föremål</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>Upptäckta varelser</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>Kodexen visar föremål och varelser i deras typiska, oförbannade tillstånd. Faktiska föremål/varelser kan skilja sig.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>Daglig utmaning</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>Klass</Class> <!-- <En>Class</En> -->
+  <NoClass>Ingen klass\n\nEffekter:\n- Ära och berömmelse</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>Upplåst på nivå {0}</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>Effekter</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>Förmågor: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>Max HP</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>Max mana</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>Max uthållighet</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>{0} skada mot odöda (skelett, mumie, etc.)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} eldresistens</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} eldkänslighet</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>Hungertakt {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>Aktiverar inte tryckplattor</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>Immun mot gift</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>Immun mot att knuffas</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>Hundar är fientliga</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>Gångljud {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>Högsta våning du nått med denna klass: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>Högsta våning du nått utan en klass: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} tar {1} {2} skada</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} tar {1} {2} skada och dör</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} XP</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0} tar ingen {1} skada</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} får {1}</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} tar {1} {2} skada</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} tar {1} {2} skada och förstörs</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0} tar ingen {1} skada</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} får {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{0}s {1} förstörs</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} blockerar {1} {2} skada</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} avleder {1} {2} skada mot {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} knuffas</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} dras</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} får ett nytt tillstånd: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} får en ny effekt: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{1} återställs för {0}</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{1} återställs för {0}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{1} återställs för {0}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} identifieras</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} avtar</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} avtar</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} plockar upp {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>Det var {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>Det är {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} är {1}! (du måste hitta eller tillverka en skriftrulle för att ta bort förbannelser)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>Din {0} har blivit {1}!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>Förbannelsen har tagits bort från {0}</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} teleporterar till en slumpmässig plats</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} teleporterar</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} öppnas. Hitta nu utgången.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} öppnas</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>En port stängs bakom dig</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} pyser men verkar inte ha någon effekt</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>Du svälter</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>Du är hungrig</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>Du köpte {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>Ny nivå!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>Du kan välja en ny besvärjelse.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>Ny nivå</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>Sköldeffekten har avbrutits eftersom du skadade {0}</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} vaknar</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>{0} totalt</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>Du offrade dig själv</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>Du vinner</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>Du förlorar</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>Du har klarat prövningen och fått {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>Du har löst glyfpusslet och fått {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>Du räddas av {0}</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0} räddas av {1}</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>Du har misslyckats med prövningen</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0} har duplicerats</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0} har förstörts</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>Det finns inget mer här</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>Du fångade {0}</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0} aktiveras om {1}</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>Du fick {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>Djävulsstatyn accepterar din {0} och ger dig {1}</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} får {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} missar</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>{0} dök upp i närheten</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} ger {1} till {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>Faktionen {0} blev fientlig</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>Du har inte alla ingredienser</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>Detta föremål passar inte i den här platsen</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} stal {1} från {2}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>Du har samlat {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>Du har fått en färdighetspoäng! Öppna inventariet för att använda den.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>Du har befriat {0} och fått {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>Nivån på {0} har uppgraderats</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>Du kan inte ta av ett förhäxat föremål</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} tillverkar {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>Använd på dig själv</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>Använd på...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>Drick</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>Kasta...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>Ät</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>Kasta...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>Placera fälla...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>Kasta...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>Plantera...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>Använd på dig själv</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>Attackera...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>Kasta på dig själv</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>Kasta på...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>Fyll med...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>Barrikadera dörr...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>Kedja fast dig själv</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>Kedja fast...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>Placera...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>Plocka upp...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>Fiska...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>Hacka...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>Prata...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>Förtrolla</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>Gräv...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>Sparka dig själv</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>Sparka...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} attackerar sig själv med {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0} attackerar {2} med {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0} använder {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0} använder {1} på {2}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0} dricker {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0} kastar {1} på {2}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0} använder {1} på sig själv</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0} använder {1} på {2}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} kastar {1} på {2}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0} öppnar {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0} stänger {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0} gräver upp {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0} dricker från {1}</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0} förtrollar utrustning vid {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} går nerför trappan</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} går uppför trappan</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0} drar i {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0} får en välsignelse vid {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0} äter {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0} placerar {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0} simmar i {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0} brinner upp i {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0} kliver på {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} teleporterar</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0} kastar {1} på {2}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0} planterar {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0} kastar {1} på sig själv</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0} kastar {1} på {2}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0} fyller {1} med vatten</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0} barrikaderar {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} kedjar fast sig själv vid en påle</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0} kedjar fast {2} vid en påle</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0} placerar {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0} plockar upp {2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} bandagerar sina egna sår</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0} bandagerar {2}s sår</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} utför kirurgi</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0} utför kirurgi på {2}</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0} söker igenom {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0} spelar vid {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0} trycker på {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0} startar en utmaning vid {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0} duplicerar föremål vid {1}</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0} fångar fisk vid {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} släcker sig själv</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0} släcker {2}</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0} forskar på {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} söker igenom {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} sover i {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} hackar {2} med {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} pratar med {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} förtrollar ett föremål med {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} gräver {2} med {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} offrar en lem vid {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} frammanar Fantom vid {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} befriar en ande vid {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} städar upp {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} får en färdighetspoäng vid {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} sparkar sig själv</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} sparkar {2}</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} uppgraderar utrustning vid {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} offrar förhäxat föremål till {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>upp</Up> <!-- <En>up</En> -->
+  <Down>ner</Down> <!-- <En>down</En> -->
+  <North>norr</North> <!-- <En>north</En> -->
+  <South>söder</South> <!-- <En>south</En> -->
+  <West>väster</West> <!-- <En>west</En> -->
+  <East>öster</East> <!-- <En>east</En> -->
+  <NorthWest>nordväst</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>nordost</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>sydväst</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>sydost</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>upp-norr</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>upp-söder</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>upp-väster</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>upp-öster</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>upp-nordväst</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>upp-nordost</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>upp-sydväst</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>upp-sydost</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>ner-norr</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>ner-söder</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>ner-väster</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>ner-öster</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>ner-nordväst</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>ner-nordost</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>ner-sydväst</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>ner-sydost</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>Start</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>Slut</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>Spak</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>Stege</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>Boss</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Möjlighet till bakhåll</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>Denna karaktär såg dig inte under föregående tur, så du kommer att göra {0} mer skada på den om du attackerar nu.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>Ovanför dig</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>Denna karaktär är just nu ovanför dig, vilket betyder att den kommer att göra {0} mer skada om den träffar dig från denna position.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>Nedanför dig</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>Denna karaktär är för närvarande nedanför dig, vilket innebär att du kommer att göra {0} mer skada om du träffar dem från den här positionen.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>Kan inte se dig</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>Denna karaktär ser dig inte (de kan inte se lika långt som du). Men se upp - de kan fortfarande komma ihåg din senaste position och vilja undersöka den!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>Faller</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>Denna karaktär faller, vilket innebär att deras nästa tur kommer att spenderas på att falla ner istället för att utföra en handling.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>Oidentifierad effekt</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>En okänd effekt. Den kommer från ett oidentifierat föremål.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>Du är omringad av minst 2 fiender, vilket innebär att du kommer att göra {0} mer skada på denna karaktär om du träffar dem från den här positionen.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Oidentifierad effekt</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>En okänd effekt. Den kommer från ett oidentifierat föremål.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nDetta är den nuvarande speltiden. En minut representerar en tur.\n\nHela spelet är turbaserat. De flesta handlingar tar en tur att slutföra, som att gå, dricka en dryck, attackera eller interagera med saker.\n\nTotalt antal turer som passerat: {2}.\nPå denna våning: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>Detta är din karaktärs träffpoäng.\n\nVissa föremål kan öka dina maximala träffpoäng. Varje nivå ger dig {0} till max träffpoäng.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>Om du inte är hungrig eller svältande, kommer {0} att helas var {1}.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>Nästa träffpoäng helas om: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>Du förlorar hälsa eftersom den är över maxnivån.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>Du förlorar mana eftersom den är över maxnivån.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>Du förlorar uthållighet eftersom den är över maxnivån.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>Detta föremål kommer att identifieras efter {0}. Dra och släpp för att ändra ordning.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>Detta föremål är {0}. Men tack vare din oklanderliga perception kan du se att det är ett av följande:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>Föremål som detta blir permanent identifierade när de väl har använts.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>Detta föremål är {0}. Det kan ha okända effekter och vara {1} (du kan inte ta av dig {1} föremål). Vandrare kan hjälpa dig med identifiering.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>Detta föremål är {0}. Du kan inte ta av dig {0} föremål (utan en skriftrulle för borttagning av förbannelse).</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>Grattis!;Du klarar det!;Jag har alltid trott på dig!;Nästan där!;Jag önskar att jag var lika grym som du!;Imponerande!;Fortsätt så!;Du är bäst!;Du klarade det!;Snyggt!;Du är grym!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>Välkommen till våning 1.\n\nDin resa börjar här, även om det kanske inte är första gången du läser denna skylt.\n\nVissa saker kan verka svåra i början, men det är okej. Framför allt måste vi komma ihåg - att förlora är kul!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>Välkommen till våning {0}.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>Här pausar varje själ för att finna sin väg.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>Besegrad på {0}.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>Antalet guldmynt du har i ditt förråd. Det kan finnas vissa personer villiga att handla i denna grotta.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>Skapar nästa {0} om</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>Skapar inte fler</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>Försvinner om {0}.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>Sprider sig om {0}.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>Nästa handling om {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>Aktiveras om {0}.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>Källa</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>Källa: Svårighetsgrad</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>Närvarande sedan</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>Tryck på [Fly]+[MoveForward] för att gå upp och [Fly]+[MoveBack] för att gå ner.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>Håll in [Fly] för att sparka in dörren.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>Tryck på [Rewind] för att spola tillbaka tiden.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>Att använda detta föremål tar ingen tur.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>Att använda detta föremål tar {0} av en tur.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>Att använda detta föremål tar {0} turer.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>Att använda denna besvärjelse tar ingen tur.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>Att använda denna besvärjelse tar {0} av en tur.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>Att använda denna besvärjelse tar {0} turer.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>Att göra detta tar ingen tur.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>Att göra detta tar {0} av en tur.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>Att göra detta tar {0} turer.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>Att interagera med detta objekt tar ingen tur.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>Att interagera med detta objekt tar {0} av en tur.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>Att interagera med detta objekt tar {0} turer.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>Detta objekt är brandfarligt.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>Du kan bara använda det om ingen ser dig.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>Detta objekt är ömtåligt (explosioner kommer att förstöra det).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>Identifieringen har stoppats eftersom du är hungrig.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>Klicka för att plocka upp.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>Klicka för att interagera.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>Klicka för att köpa.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>Interagera för att plocka upp.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>Interagera med detta objekt.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>Interagera för att köpa.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>Detta föremål kommer att försvinna när du går ner.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>Detta är din framgång mot nästa nivå. Du kan få erfarenhet genom att besegra fiender.\n\nXP till nästa nivå: {0}\nNuvarande nivå: {1}\nTotal erfarenhet: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>Detta är din nuvarande nivå. Du kan gå upp i nivå genom att besegra fiender.\n\nVarje nivå ger dig {0} till max träffpoäng. Dessutom kan du välja en ny besvärjelse varje gång du går upp i nivå.\n\nXP till nästa nivå: {2}\nTotal erfarenhet: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>Detta är din nuvarande nivå baserad på den totala poängen från alla dina omgångar. Du kan få poäng genom att besegra fiender och göra framsteg i spelet.\n\nPoäng till nästa nivå: {0}\nTotal poäng: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>Detta är din nuvarande mättnadsnivå: {0}/{1}\n\nDu måste äta periodvis för att stilla din hunger och undvika konsekvenser.\n\nNär mättnadsnivån når {2} blir du hungrig - du kommer inte att återhämta hälsa eller identifiera föremål.\n\nNär mättnadsnivån når {3} blir du svältande - du kommer inte att återhämta uthållighet och du kommer långsamt att förlora hälsa över tid.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>Detta är den nuvarande grottvåningen. Ju djupare du går, desto svårare blir det att överleva, men också roligare!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>Ger {0} erfarenhet</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>Varning: Om den dödas kommer alla medlemmar av denna fraktion att bli fientliga.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>Taktik: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>Denna karaktär kommer att följa dig till nästa våning.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>Tillstånd</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>Vapen</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>Besvärjelser</Spells> <!-- <En>Spells</En> -->
+  <Talk>Prata</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>När dör</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>Buren</Worn> <!-- <En>Worn</En> -->
+  <Inventory>Förråd</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>Info</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>Kostar {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>Kostar {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>Detta är din karaktärs mana.\n\nAtt kasta besvärjelser och använda magiska föremål kostar mana. Mana återhämtas inte automatiskt över tid, den kan bara fyllas på genom att dricka manadrycker eller genom att interagera med vissa speciella objekt. Manamätaren är dold när du inte har några besvärjelser.\n\nDu kan välja en ny besvärjelse varje gång du går upp i nivå.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>Detta är din karaktärs uthållighet.\n\nAtt använda vissa föremål kan kräva uthållighet. Uthållighetsmätaren är dold när du inte har några föremål som kräver uthållighet i ditt förråd.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>Om du inte svälter, kommer {0} att återhämtas var {1}.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>Nästa uthållighet återhämtas om: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>Välj en ny besvärjelse. Du kan välja en ny besvärjelse varje gång du går upp i nivå.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>flyr vid låg HP</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>Klockan låter dig spola tillbaka tiden när du vill! Spola tillbaka den senaste turen genom att trycka på [Rewind].\n\nAnvänd den när du inte gillar resultatet av dina senaste handlingar eller om du helt enkelt klickade fel.\n\nKlockan har en gräns för hur många turer du kan spola tillbaka på en gång, men den laddas om var {0} tur. Till skillnad från andra tidsmanipulerande föremål som tillbakaspolningsrullar, förlorar klockan alla sina återstående laddningar när du använder en oidentifierad dryck eller skriftrulle, utrustar ett förbannat föremål, trampar på en fälla, eller använder en silvernyckel.\n\nAlla handlingar i Ricave är deterministiska, vilket innebär att efter tillbakaspolning kommer allt att spelas upp exakt likadant som tidigare om du gör samma drag igen, inklusive att göra samma skada och att fiender fattar samma beslut. Att spola tillbaka tiden bara för att få högre skada kommer inte att fungera.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>Laddas om: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>Stjärnstoft kan hittas på olika platser i grottan eller erbjudas som belöning för att slutföra ett uppdrag. Du kan spendera stjärnstoft i lobbyn.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>Samla alla {0} pusselbitar för att låsa upp ett speciellt rum i lobbyn. Det finns en pusselbit på varje våning i grottan, och du kan bara hitta en bit per omgång.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>Nästa pusselbit på våning: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>Räckvidd: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>Närstrid</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>du är inom räckvidd</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>du är utom räckvidd</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>Plocka upp placerade objekt i ditt privata rum.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>Du är för närvarande vänd mot {0}.\n\nRör dig med "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nSidleds med "[MoveLeft]" och "[MoveRight]".\nGå upp och ner med "[Fly]+[MoveForward]" och "[Fly]+[MoveBack]" om din karaktär kan flyga.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>Kommer att ta skada om {0}.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>Kommer att få HP om {0}.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>Kommer att få uthållighet om {0}.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>Kommer att få mana om {0}.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>Återhämtning av uthållighet är inaktiverad eftersom denna karaktär inte rör vid marken.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>Återhämtning av uthållighet är inaktiverad eftersom du inte rör vid marken.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>Nedkylning: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>{0} kvar</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>Lås upp {0} först</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>Du har inga färdighetspoäng</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>Klicka för att låsa upp</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>Interagera för att låsa upp</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>Effekter</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>Alla portar är öppna och alla är vakna. Du måste fly nu!\n\nDessutom kommer dubbelt så många råttor att dyka upp.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>Roko kommer att samla guldmynt åt dig från de angränsande rutorna varje gång du rör dig.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>Tips: Du kan kolla i kodexen för typisk statistik</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>Sortera föremål i förrådet</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>Ta av</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>Utrusta</Equip> <!-- <En>Equip</En> -->
+  <Unwear>Ta av</Unwear> <!-- <En>Take off</En> -->
+  <Wear>Ta på</Wear> <!-- <En>Wear</En> -->
+  <Drop>Släpp</Drop> <!-- <En>Drop</En> -->
+  <Destroy>Förstör</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>Blanda med {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>Titta på</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>Flytta till</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>Använd {0} på</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>Interagera med</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>Inaktiverad</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>Ge {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>död</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>Inget utrymme</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>Nuvarande utrustade föremål är förbannat</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>fin, mäktig, allsmäktig, kraftfull, läskig, förtjusande, imponerande, energisk, lockande, vacker, ljuvlig, spännande, bedårande, smart, fascinerande, klumpig, oövervinnerlig, liten, stor, fasansfull, glad, ledsen, vinglig, konstig, galen, spännande, söt, lockande</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>bummel, humle, bini, limon, gargel, klytter, guber, blom, bumber, lolly, poppel, pork, rummel, donder, dondel, doppel, brobbel, kyckling, purpel, viggel, prattel, tviddel, dingel, plonk, vobbel, jingel, doodle</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>klatsch, vört, gård, son, barbel, mark, ton, bon, gon, hov, sten, ben, snapper, blobb, puff, skratt, back, dory, snarf, flopp, plopp, båff, blatt, snark, bork</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>Ande av {0}</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>Skratt, Förändring, Hopp, Ensamhet, Harmoni, Beslutsamhet, Glädje, Rädsla, Ilska, Sorg, Kärlek, Överraskning, Avsky, Nyfikenhet, Hopp, Förtvivlan, Tillit, Skepticism, Mod, Skuld, Skam, Tacksamhet, Avund, Lättnad, Uttråkning, Lugn, Nostalgi, Motståndskraft, Empati, Förväntan, Ånger, Vördnad, Ödmjukhet, Frustration, Förakt</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>Ingen</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Retur</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Mellanslag</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>Vänster musknapp</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>Höger musknapp</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>Mellersta musknappen</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Windows-tangent</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>Vänster trigger</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>Höger trigger</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>Vänster bumper</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>Höger bumper</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>Bakåtknapp</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>Startknapp</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>Vänster styrspaksklick</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>Höger styrspaksklick</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Dråp</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>Dubbeldråp</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>Trippeldråp</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>{0} dråpserie</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>Ny våning</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>Prövning avklarad</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>{0} dråp</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>morgon</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>dag</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>kväll</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>natt</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>FÖRSVARARE</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>KRIGARE</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>ÄVENTYRARE</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>röd</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>grön</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>blå</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>Leo</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>Eve</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Hjälpmedel</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>Brygder</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>Skriftrullar</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>Vapen och utrustning</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

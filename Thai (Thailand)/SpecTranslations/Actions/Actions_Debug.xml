@@ -1,0 +1,75 @@
+<SpecTranslations>
+
+  <Debug_AddCondition.label>เพิ่มสถานะ (ดีบัก)</Debug_AddCondition.label> <!-- <En>add condition (debug)</En> -->
+  <Debug_AddCondition.IsGivenToDebug>{0} ถูกมอบให้กับ {1} (ดีบัก)</Debug_AddCondition.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddParty.label>เพิ่มเข้าปาร์ตี้ (ดีบัก)</Debug_AddParty.label> <!-- <En>add to party (debug)</En> -->
+  <Debug_AddParty.AddingToPlayerPartyDebug>กำลังเพิ่ม {0} เข้าปาร์ตี้ผู้เล่น (ดีบัก)</Debug_AddParty.AddingToPlayerPartyDebug> <!-- <En>Adding {0} to player party (debug)</En> -->
+
+  <Debug_AddToInventory.label>เพิ่มเข้าช่องเก็บของ (ดีบัก)</Debug_AddToInventory.label> <!-- <En>add to inventory (debug)</En> -->
+  <Debug_AddToInventory.IsAddedToSInventoryDebug>{0} ถูกเพิ่มเข้าช่องเก็บของของ {1} (ดีบัก)</Debug_AddToInventory.IsAddedToSInventoryDebug> <!-- <En>{0} is added to {1}'s inventory (debug)</En> -->
+
+  <Debug_AddUseEffect.label>เพิ่มเอฟเฟกต์การใช้งาน (ดีบัก)</Debug_AddUseEffect.label> <!-- <En>add use effect (debug)</En> -->
+  <Debug_AddUseEffect.IsGivenToDebug>{0} ถูกมอบให้กับ {1} (ดีบัก)</Debug_AddUseEffect.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddWorldSituation.label>เพิ่มสถานการณ์โลก (ดีบัก)</Debug_AddWorldSituation.label> <!-- <En>add world situation (debug)</En> -->
+  <Debug_AddWorldSituation.IsAddedDebug>{0} ถูกเพิ่ม (ดีบัก)</Debug_AddWorldSituation.IsAddedDebug> <!-- <En>{0} is added (debug)</En> -->
+
+  <Debug_AttachToChainPost.label>ผูกติดกับเสาโซ่ (ดีบัก)</Debug_AttachToChainPost.label> <!-- <En>attach to chain post (debug)</En> -->
+  <Debug_AttachToChainPost.IsAttachedToDebug>{0} ถูกผูกติดกับ {1} (ดีบัก)</Debug_AttachToChainPost.IsAttachedToDebug> <!-- <En>{0} is attached to {1} (debug)</En> -->
+
+  <Debug_Control.label>ควบคุมตัวละคร (ดีบัก)</Debug_Control.label> <!-- <En>control actor (debug)</En> -->
+  <Debug_Control.ControllingDebug>กำลังควบคุม {0} (ดีบัก)</Debug_Control.ControllingDebug> <!-- <En>Controlling {0} (debug)</En> -->
+
+  <Debug_DeSpawn.label>ลบการเกิด (ดีบัก)</Debug_DeSpawn.label> <!-- <En>despawn (debug)</En> -->
+  <Debug_DeSpawn.IsDespawnedDebug>{0} ถูกลบการเกิด (ดีบัก)</Debug_DeSpawn.IsDespawnedDebug> <!-- <En>{0} is despawned (debug)</En> -->
+
+  <Debug_Destroy.label>ทำลาย (ดีบัก)</Debug_Destroy.label> <!-- <En>destroy (debug)</En> -->
+  <Debug_Destroy.IsDestroyedDebug>{0} ถูกทำลาย (ดีบัก)</Debug_Destroy.IsDestroyedDebug> <!-- <En>{0} is destroyed (debug)</En> -->
+
+  <Debug_DoWorldEvent.label>เริ่มเหตุการณ์โลก (ดีบัก)</Debug_DoWorldEvent.label> <!-- <En>do world event (debug)</En> -->
+  <Debug_DoWorldEvent.IsInvokedDebug>{0} ถูกเรียกใช้ (ดีบัก)</Debug_DoWorldEvent.IsInvokedDebug> <!-- <En>{0} is invoked (debug)</En> -->
+
+  <Debug_LevelUp.label>เพิ่มเลเวล (ดีบัก)</Debug_LevelUp.label> <!-- <En>level up (debug)</En> -->
+  <Debug_LevelUp.ThePlayerLevelsUpDebug>ผู้เล่นเลเวลอัพ (ดีบัก)</Debug_LevelUp.ThePlayerLevelsUpDebug> <!-- <En>The player levels up (debug)</En> -->
+
+  <Debug_RemoveCondition.label>ลบสถานะ (ดีบัก)</Debug_RemoveCondition.label> <!-- <En>remove condition (debug)</En> -->
+  <Debug_RemoveCondition.IsRemovedFromDebug>{0} ถูกลบออกจาก {1} (ดีบัก)</Debug_RemoveCondition.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveParty.label>นำออกจากปาร์ตี้ (ดีบัก)</Debug_RemoveParty.label> <!-- <En>remove from party (debug)</En> -->
+  <Debug_RemoveParty.RemovingFromPlayerParty>กำลังนำ {0} ออกจากปาร์ตี้ผู้เล่น (ดีบัก)</Debug_RemoveParty.RemovingFromPlayerParty> <!-- <En>Removing {0} from player party (debug)</En> -->
+
+  <Debug_RemoveUseEffect.label>ลบเอฟเฟกต์การใช้งาน (ดีบัก)</Debug_RemoveUseEffect.label> <!-- <En>remove use effect (debug)</En> -->
+  <Debug_RemoveUseEffect.IsRemovedFromDebug>{0} ถูกลบออกจาก {1} (ดีบัก)</Debug_RemoveUseEffect.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveWorldSituation.label>ลบสถานการณ์โลก (ดีบัก)</Debug_RemoveWorldSituation.label> <!-- <En>remove world situation (debug)</En> -->
+  <Debug_RemoveWorldSituation.IsRemovedDebug>{0} ถูกลบ (ดีบัก)</Debug_RemoveWorldSituation.IsRemovedDebug> <!-- <En>{0} is removed (debug)</En> -->
+
+  <Debug_RewindTime.label>ย้อนเวลา (ดีบัก)</Debug_RewindTime.label> <!-- <En>rewind time (debug)</En> -->
+  <Debug_RewindTime.RewindTurnsDebug>ย้อนกลับ {0} เทิร์น (ดีบัก)</Debug_RewindTime.RewindTurnsDebug> <!-- <En>Rewind {0} turns (debug)</En> -->
+
+  <Debug_SaveBlueprint.label>บันทึกพิมพ์เขียว (ดีบัก)</Debug_SaveBlueprint.label> <!-- <En>save blueprint (debug)</En> -->
+  <Debug_SaveBlueprint.BlueprintIsSavedDebug>พิมพ์เขียว {0} ถูกบันทึก (ดีบัก)</Debug_SaveBlueprint.BlueprintIsSavedDebug> <!-- <En>Blueprint {0} is saved (debug)</En> -->
+
+  <Debug_SetGravity.label>เปลี่ยนแรงโน้มถ่วง (ดีบัก)</Debug_SetGravity.label> <!-- <En>change gravity (debug)</En> -->
+  <Debug_SetGravity.GravityIsChangedForDebug>แรงโน้มถ่วงถูกเปลี่ยนสำหรับ {0} (ดีบัก)</Debug_SetGravity.GravityIsChangedForDebug> <!-- <En>Gravity is changed for {0} (debug)</En> -->
+
+  <Debug_SetRampUp.label>เปลี่ยนการไต่ระดับ (ดีบัก)</Debug_SetRampUp.label> <!-- <En>change ramp up (debug)</En> -->
+  <Debug_SetRampUp.RampUpIsChangedForDebug>การไต่ระดับถูกเปลี่ยนสำหรับ {0} (ดีบัก)</Debug_SetRampUp.RampUpIsChangedForDebug> <!-- <En>Ramp up is changed for {0} (debug)</En> -->
+
+  <Debug_SetScale.label>เปลี่ยนขนาด (ดีบัก)</Debug_SetScale.label> <!-- <En>change scale (debug)</En> -->
+  <Debug_SetScale.ScaleIsChangedForDebug>ขนาดถูกเปลี่ยนสำหรับ {0} (ดีบัก)</Debug_SetScale.ScaleIsChangedForDebug> <!-- <En>Scale is changed for {0} (debug)</En> -->
+
+  <Debug_Spawn.label>เกิด (ดีบัก)</Debug_Spawn.label> <!-- <En>spawn (debug)</En> -->
+  <Debug_Spawn.IsSpawnedDebug>{0} เกิดขึ้น (ดีบัก)</Debug_Spawn.IsSpawnedDebug> <!-- <En>{0} is spawned (debug)</En> -->
+
+  <Debug_SpawnBlueprint.label>สร้างจากพิมพ์เขียว (ดีบัก)</Debug_SpawnBlueprint.label> <!-- <En>spawn blueprint (debug)</En> -->
+  <Debug_SpawnBlueprint.BlueprintIsSpawnedDebug>พิมพ์เขียว {0} ถูกสร้าง (ดีบัก)</Debug_SpawnBlueprint.BlueprintIsSpawnedDebug> <!-- <En>Blueprint {0} is spawned (debug)</En> -->
+
+  <Debug_Teleport.label>เทเลพอร์ต (ดีบัก)</Debug_Teleport.label> <!-- <En>teleport (debug)</En> -->
+  <Debug_Teleport.TeleportsDebug>{0} เทเลพอร์ต (ดีบัก)</Debug_Teleport.TeleportsDebug> <!-- <En>{0} teleports (debug)</En> -->
+
+  <Debug_UnfogAll.label>เปิดหมอกทั้งหมด (ดีบัก)</Debug_UnfogAll.label> <!-- <En>unfog everything (debug)</En> -->
+  <Debug_UnfogAll.EveryCellIsUnfoggedDebug>ทุกช่องถูกเปิดหมอก (ดีบัก)</Debug_UnfogAll.EveryCellIsUnfoggedDebug> <!-- <En>Every cell is unfogged (debug)</En> -->
+
+</SpecTranslations>

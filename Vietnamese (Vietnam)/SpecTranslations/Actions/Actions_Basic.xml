@@ -1,0 +1,24 @@
+<SpecTranslations>
+
+  <ChooseSpell.label>chọn phép</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>Một phép mới {0} đã được chọn</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>tự di chuyển</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0} di chuyển {1}</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>nhặt vật phẩm</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>{0} nhặt được {1}</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>sắp xếp lại phép</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>{1} đã được sắp xếp lại</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>ngủ</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>{0} ngủ</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>sử dụng</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>{0} sử dụng {1} lên {2}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>chờ</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>{0} chờ</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

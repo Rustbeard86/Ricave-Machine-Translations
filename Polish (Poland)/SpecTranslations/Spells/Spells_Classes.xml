@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>oślepiający błysk</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>Oślep na krótki czas wszystkich, którzy cię widzą. Użycie nie kosztuje tury.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>omamienie</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>Spraw, by cel stał się wrogi dla wszystkich innych na krótki czas. Użycie nie kosztuje tury.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>oplącz sąsiadów</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>Oplącz na krótki czas wszystkich sąsiadujących z tobą. Użycie nie kosztuje tury.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>pośpiech</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>Działaj dwa razy na turę przez krótki czas. Użycie nie kosztuje tury.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>skok</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Natychmiast skocz na dowolne sąsiednie pole, nawet w pionie. Użycie nie kosztuje tury.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>pchnięcie</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Odepchnij dowolną postać o 1 pole. Użycie nie kosztuje tury.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>losowa ucieczka</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Teleportuj się w losowe miejsce na mapie. Użycie nie kosztuje tury.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>przywołaj lianę</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Przywołaj liany w wyznaczonym miejscu i wspinaj się po nich.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>chmura trucizny</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Stwórz chmurę trucizny w wyznaczonym miejscu. Użycie nie kosztuje tury.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>przyzwij zjawę</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Przyzwij przyjazną zjawę, aby pomogła ci w bitwach. Tylko jedna zjawa może być żywa w danym momencie.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

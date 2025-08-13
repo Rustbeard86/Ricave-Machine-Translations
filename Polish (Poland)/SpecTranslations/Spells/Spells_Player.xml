@@ -1,0 +1,46 @@
+<SpecTranslations>
+
+  <Entangle.label>splątanie</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>Sprawia, że cel nie może się poruszyć przez krótki czas. Pamiętaj, że splątani wrogowie nadal mogą atakować ze swojej pozycji.</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>pożywienie</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>To tak, jakbyś coś zjadł, ale tak naprawdę nic nie jesz. Magia.</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>kula ognia</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>Rzuca kulę ognia, która powoduje eksplozję i wznieca pożary na wszystkich sąsiednich polach.</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>zamrożenie</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>Zamraża cel na krótki czas. Zamrożeni wrogowie nie mogą się poruszać ani atakować.</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>kałuża mazi</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>Tworzy kałużę mazi, która spowalnia każdą przechodzącą przez nią postać.</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>wzrost</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>Tworzy pole trawy i pnączy o wymiarach 3x3. Dobre do blokowania wrogów.</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>uleczenie</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>Przywraca część zdrowia i leczy krwawienie.</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>identyfikacja</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>Identyfikuje wybrany przedmiot. Użyj tego zaklęcia na sobie, aby zidentyfikować przedmiot ze swojego ekwipunku.</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>Wybierz przedmiot do zidentyfikowania.</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>magiczny mur</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>Tworzy tymczasowy magiczny mur.</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>masowe odepchnięcie</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>Odpycha wszystkich od ciebie.</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>odepchnięcie</Push.label> <!-- <En>push</En> -->
+  <Push.description>Odpycha kogoś od ciebie.</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>uderzenie</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>Zadaje obrażenia celowi.</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>teleportacja</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>Teleportuje do wyznaczonego miejsca. Dobre do szybkiej ucieczki, ponieważ użycie tego zaklęcia nie kosztuje tury.</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>losowa teleportacja</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>Teleportuje cel w losowe miejsce na mapie.</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>

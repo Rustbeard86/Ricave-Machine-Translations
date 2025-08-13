@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>si avvicina e attacca, poi si allontana per evitare di essere colpito</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>attacca, poi fugge per 8 turni a meno che non sia messo all'angolo</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>non si avvicina per primo ma rimane fermo se viene avvicinato</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>sempre in fuga</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>mantiene la distanza a meno che non sia messo all'angolo</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>mantiene la distanza a meno che non sia messo all'angolo o non abbia un'arma</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>segue il giocatore e attacca (membro del gruppo)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>segue il giocatore e attacca opportunisticamente</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>si avvicina e attacca</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>sta fermo o fugge se attaccato</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>sta fermo</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>sta fermo e cura gli alleati</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>sta fermo o fugge se attaccato</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>ruba e poi scappa</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>Amuleto de Yerdon</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>Comece com um Amuleto de Yerdon. O portador será totalmente curado uma vez no momento em que normalmente morreria. Além disso, todos os inimigos próximos morrerão. Este é um bônus de uso único e se aplica apenas à sua próxima partida.</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>poção de vida</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>Comece com uma poção de vida extra em seu inventário. Este é um bônus de uso único e se aplica apenas à sua próxima partida.</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>pergaminho</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>Comece com um pergaminho aleatório em seu inventário. Este é um bônus de uso único e se aplica apenas à sua próxima partida.</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>escudo</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>Comece com um escudo em seu inventário. Ele permitirá que você bloqueie ataques inimigos.</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>Você desbloqueou um escudo para suas próximas partidas! Você pode usá-lo para bloquear ataques inimigos.\n\nIsso é particularmente útil ao lidar com inimigos de longo alcance, pois você pode se aproximar deles com segurança sem ser atingido.\n\nVocê não pode bloquear ataques de um inimigo e atacá-lo ao mesmo tempo - o efeito será cancelado.\n\nUsar um escudo é cansativo, então consome estamina.</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>lança</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>Comece com uma lança extra em seu inventário. Arremesse-a em inimigos ou use-a para acionar armadilhas.</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>Você desbloqueou uma lança para suas próximas partidas! Você pode usá-la para atacar inimigos ou acionar armadilhas à distância.\n\nEspere um inimigo passar por baixo de espinhos ou ao lado de um canhão de parede e arremesse a lança na armadilha para acioná-la.\n\nArremessar uma lança é cansativo, então consome estamina. A estamina se regenera automaticamente, a menos que você esteja faminto.</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>espada</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>Comece com uma espada em seu inventário. Este é um bônus de uso único e se aplica apenas à sua próxima partida.</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>relógio</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>Comece com um relógio em seu inventário. Ele permitirá que você volte no tempo.</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>Você desbloqueou o relógio mágico para suas próximas partidas! Ele permite que você volte no tempo quando quiser.\n\nVolte o último turno pressionando [Rewind].\n\nO relógio tem um limite de quantos turnos você pode voltar de uma vez, mas ele recarrega sempre que você se move.</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>ouro x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>Encontre 25% a mais de ouro do que o normal na masmorra. Este é um bônus de uso único e se aplica apenas à sua próxima partida.</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>corredor</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>Ganhe acesso ao corredor no lobby.</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>escultura do nível 100</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>Receba uma escultura para comemorar ter alcançado o nível 100. Você pode colocá-la em seu quarto privado no lobby.</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>Parabéns por alcançar o nível 100!\n\nVocê recebeu uma escultura especial que pode colocar em seu quarto privado para comemorar esta grande conquista.</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>escultura do nível 25</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>Receba uma escultura para comemorar ter alcançado o nível 25. Você pode colocá-la em seu quarto privado no lobby.</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>Parabéns por alcançar o nível 25!\n\nVocê recebeu uma escultura especial que pode colocar em seu quarto privado para comemorar esta grande conquista.</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>escultura do nível 50</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>Receba uma escultura para comemorar ter alcançado o nível 50. Você pode colocá-la em seu quarto privado no lobby.</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>Parabéns por alcançar o nível 50!\n\nVocê recebeu uma escultura especial que pode colocar em seu quarto privado para comemorar esta grande conquista.</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>chave do quarto privado</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>Ganhe acesso ao seu próprio quarto privado, que você pode então decorar.</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>Você desbloqueou seu próprio quarto privado!\n\nVocê pode decorá-lo pressionando [ShowInventory] quando estiver dentro.\n\nAlguns troféus e decorações mais raros podem ser difíceis de obter - por exemplo, podem estar escondidos em algum lugar profundo na masmorra.</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>pontuação x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>Obtenha 100% a mais de pontuação do que o normal na masmorra. Este é um bônus de uso único e se aplica apenas à sua próxima partida.</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>pó estelar x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>Encontre 50% a mais de pó estelar do que o normal na masmorra. Este é um bônus de uso único e se aplica apenas à sua próxima partida.</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>sala de treinamento</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>Ganhe acesso à sala de treinamento no lobby.</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>pilha de lixo</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>Limpe uma pilha de lixo para ter mais espaço.</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>pilha de lixo</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>Limpe uma pilha de lixo para ter mais espaço.</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>pilha de lixo</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>Limpe uma pilha de lixo para ter mais espaço.</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

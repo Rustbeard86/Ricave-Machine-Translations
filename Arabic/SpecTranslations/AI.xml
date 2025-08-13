@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>يقترب ويهاجم، ثم يتراجع لتجنب الإصابة</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>يهاجم، ثم يهرب لمدة 8 أدوار ما لم يُحاصر</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>لا يبادر بالاقتراب ولكنه يبقى في مكانه إذا تم الاقتراب منه</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>دائمًا في حالة هرب</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>يحافظ على مسافة آمنة ما لم يُحاصر</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>يحافظ على مسافة آمنة ما لم يُحاصر أو لا يملك سلاحًا</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>يتبع اللاعب ويهاجم (عضو في الفريق)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>يتبع اللاعب ويهاجم عندما تسنح الفرصة</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>يقترب ويهاجم</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>يقف ثابتًا أو يهرب إذا هوجم</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>يقف ثابتًا</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>يقف ثابتًا ويشفي الحلفاء</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>يقف ثابتًا أو يهرب إذا هوجم</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>يسرق ثم يهرب</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

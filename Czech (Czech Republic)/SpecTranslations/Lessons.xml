@@ -1,0 +1,82 @@
+<SpecTranslations>
+
+  <BigMap.label>minimapa</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>Podržením [Minimap] nebo [MinimapAlt] zobrazíte mapu.\n\nMapu si můžete přiblížit kolečkem myši.\n\nNejdůležitější místnosti budou na mapě vyznačeny.</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>Podržením [MinimapAlt] zobrazíte mapu.\n\nNejdůležitější místnosti budou na mapě vyznačeny.</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>lezení</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>Jděte do další místnosti a vylezte po žebříku.\n\nVstupte na pole se žebříkem a poté stiskněte [MoveForward] a podržte [Fly] pro pohyb nahoru.\n\nAlternativně můžete na žebřík prostě kliknout.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>Jděte do další místnosti a vylezte po žebříku.\n\nVstupte na pole se žebříkem a poté stiskněte [MoveForward] a podržte [Fly] pro pohyb nahoru.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>pití lektvarů</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>Vezměte lektvar z truhly a vypijte ho.\n\nLektvar můžete použít stisknutím odpovídající číselné klávesy na liště rychlého přístupu – v tomto případě „1“.</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>Vezměte lektvar z truhly a vypijte ho. Stiskněte [Accept] pro interakci.\n\nStisknutím [QuickbarMenu] zobrazíte nabídku se všemi předměty na liště rychlého přístupu.</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>boj</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>Porazte kostlivce. Kliknutím zaútočíte. Stiskněte [Wait] pro čekání.\n\nNepřátelé se nepohnou, dokud se nepohnete nebo nezaútočíte vy.\n\nTipy:\n- Vždy si pečlivě naplánujte další tah.\n- Většina nepřátel je smrtící a každý bod zdraví se počítá.\n- Vyhněte se obklíčení několika nepřáteli najednou.</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>Porazte kostlivce. Stiskněte [Accept] pro útok a [Wait] pro čekání.\n\nNepřátelé se nepohnou, dokud se nepohnete nebo nezaútočíte vy.\n\nTipy:\n- Vždy si pečlivě naplánujte další tah.\n- Většina nepřátel je smrtící a každý bod zdraví se počítá.\n- Vyhněte se obklíčení několika nepřáteli najednou.</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>prozkoumávání</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>Zavřete inventář opětovným stisknutím [ShowInventory] a podržením [Inspect] nebo [InspectAlt] prozkoumejte okolí.\n\nNezapomeňte si prohlédnout všechny nepřátele, abyste věděli, jak jsou nebezpeční.</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>Zavřete inventář opětovným stisknutím [ShowInventory] a podržením [Inspect] prozkoumejte okolí.\n\nNezapomeňte si prohlédnout všechny nepřátele, abyste věděli, jak jsou nebezpeční.</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>Zavřete inventář opětovným stisknutím [ShowInventory] a podržením [Inspect] nebo [InspectAlt] prozkoumejte okolí.\n\nNezapomeňte si prohlédnout všechny nepřátele, abyste věděli, jak jsou nebezpeční.</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>inventář</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>Vybavte se mečem.\n\nPřetáhněte ho, klikněte na něj pravým tlačítkem, nebo stiskněte „1“ pro přístup z lišty rychlého přístupu.\n\nVětšina předmětů je neidentifikovaných a některé jsou dokonce prokleté!</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>Vybavte se mečem.\n\nStisknutím [QuickbarMenu] zobrazíte nabídku se všemi předměty na liště rychlého přístupu.\n\nVětšina předmětů je neidentifikovaných a některé jsou dokonce prokleté!</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>páka</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>Na každém patře je páka, která otevírá bránu do východové místnosti. Klikněte na ni a opusťte oblast.\n\nAle pozor! Zatažením za páku probudíte všechny nepřátele na patře!</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>Na každém patře je páka, která otevírá bránu do východové místnosti. Zatáhněte za ni stisknutím [Accept] a opusťte oblast.\n\nAle pozor! Zatažením za páku probudíte všechny nepřátele na patře!</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>pohyb</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>Stiskněte [MoveForward], [MoveLeft], [MoveBack], [MoveRight] pro pohyb.\n\nRicave je tahová hra. Jeden pohyb trvá jeden tah, takže všichni ostatní se pohnou s vámi.\n\nPohybovat se můžete také kliknutím.</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>Stiskněte [MoveForward], [MoveLeft], [MoveBack], [MoveRight] pro pohyb.\n\nRicave je tahová hra. Jeden pohyb trvá jeden tah, takže všichni ostatní se pohnou s vámi.</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>otevírání dveří</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>Chcete-li otevřít dveře, vejděte do nich nebo na ně klikněte.</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>Chcete-li otevřít dveře, vejděte do nich.</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>inventář</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>Stiskněte [ShowInventory] pro otevření inventáře.</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>sbírání předmětů</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>Podobně, chcete-li sebrat předmět, vejděte do něj nebo na něj klikněte.</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>Podobně, chcete-li sebrat předmět, vejděte do něj.</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>rychlý útok</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>Jděte do další místnosti a stiskněte [AttackNearest] poblíž beden, abyste automaticky zaútočili na nejbližší cíl u vaší myši.\n\nStisknutí [AttackNearest] může být pohodlnější než používání myši. Umožňuje vám rychle zničit více cílů kolem vás.</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>Jděte do další místnosti a stiskněte [Accept] pro zničení beden. Otočte se pomocí [RotateLeft] a [RotateRight], abyste k nim byli čelem.</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>otáčení</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>Rozhlédněte se myší nebo se otáčejte stisknutím [RotateLeft] nebo [RotateRight].\n\nNa rozdíl od pohybu, otáčení nestojí žádný tah.</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>Stiskněte [RotateLeft] nebo [RotateRight] pro otáčení.\n\nNa rozdíl od pohybu, otáčení nestojí žádný tah.</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>úkroky do stran</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>Stiskněte [MoveLeft] nebo [MoveRight] pro úkrok do strany.</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>části těla</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Podržte [Fly] a klikněte na ruku kostlivce, abyste ji zničili, a pak ho normálně doražte.\n\nKaždá část těla má své vlastní body zdraví.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Podržte [Fly] a stiskněte [Accept] nebo pravou spoušť na ruce kostlivce, abyste ji zničili, a pak ho normálně doražte.\n\nKaždá část těla má své vlastní body zdraví.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>popisky</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>Popisky jsou důležité! Najeďte myší na cokoliv v inventáři, abyste se o tom dozvěděli více.\n\nNezapomeňte si prohlédnout každý předmět, který najdete.</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>Popisky jsou důležité! Vyzkoušejte je, když máte otevřený inventář.\n\nNezapomeňte si prohlédnout každý předmět, který najdete.</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>čekání</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>Stiskněte [Wait] pro čekání na jeden tah.\n\nČekání vám umožní jako prvnímu udělit poškození a také nabije váš další útok.</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

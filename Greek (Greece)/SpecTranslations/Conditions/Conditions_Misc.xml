@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>μαινόμενος</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>Μόλις σκότωσες κάποιον. Προκαλείς και δέχεσαι 25% περισσότερη φυσική ζημιά για μικρό χρονικό διάστημα.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>αιμορραγία</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>Αυτός ο χαρακτήρας αιμορραγεί και θα συνεχίσει να χάνει υγεία μέχρι να δεθεί με επίδεσμο.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>αιμορραγία ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>τυφλός</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>Αυτός ο χαρακτήρας μπορεί να αντιληφθεί μόνο γειτονικά αντικείμενα και θα αστοχεί το 30% των επιθέσεων.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>σπασμένο κόκκαλο</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>Αυτός ο χαρακτήρας έχει ένα σπασμένο κόκκαλο, το οποίο τον κάνει να προκαλεί λιγότερη φυσική ζημιά.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>Αυτός ο χαρακτήρας έχει ένα σπασμένο κόκκαλο, το οποίο τον κάνει να προκαλεί {0} λιγότερη φυσική ζημιά.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>καίγεται</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>Αυτός ο χαρακτήρας καίγεται, που σημαίνει ότι θα χάνει έναν συγκεκριμένο αριθμό πόντων ζωής σε κάθε γύρο.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>καίγεται ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>αλλαγή πιθανότητας κρίσιμου χτυπήματος</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>Επηρεάζει την πιθανότητα ενός κρίσιμου χτυπήματος που προκαλείται από αυτόν τον χαρακτήρα.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>πιθανότητα κρίσιμου χτυπήματος: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>χάνει υγεία</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>Αυτός ο χαρακτήρας χάνει υγεία.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>χάνει υγεία ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>παράγοντας προκαλούμενης ζημιάς</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>Η ζημιά που προκαλείται από αυτόν τον χαρακτήρα αλλάζει από αυτόν τον παράγοντα.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>προκληθείσα ζημιά {1}: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>πρόσθετη προκαλούμενη ζημιά</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>Αυτή η τιμή προστίθεται (ή αφαιρείται) στη ζημιά που προκαλείται από αυτόν τον χαρακτήρα. Αν αυτή η τιμή είναι εύρος, τότε χρησιμοποιείται μια τυχαία τιμή από το εύρος.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>προκληθείσα ζημιά {1}: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>ασθένεια</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>Αυτός ο χαρακτήρας έχει μια ασθένεια, η οποία εμποδίζει τη φυσική θεραπεία και τον καθιστά ανίκανο να πετάξει.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>μεθυσμένος</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>Αυτός ο χαρακτήρας είναι μεθυσμένος, που σημαίνει ότι θα κινείται σε τυχαία κατεύθυνση κάθε γύρο. Δεν μπορεί να κάνει τίποτα άλλο σε αυτήν την κατάσταση.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>μπλεγμένος</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>Αυτός ο χαρακτήρας είναι μπλεγμένος, που σημαίνει ότι δεν μπορεί να κινηθεί. Ωστόσο, μπορεί ακόμα να επιτεθεί από την τρέχουσα θέση του.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>παγωμένος</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>Αυτός ο χαρακτήρας είναι παγωμένος, που σημαίνει ότι δεν μπορεί να κάνει τίποτα άλλο από το να περιμένει όσο βρίσκεται σε αυτή την κατάσταση.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>αναγέννηση υγείας</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>Η υγεία αυτού του χαρακτήρα αναγεννάται αυτόματα με την πάροδο του χρόνου.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>αναγέννηση υγείας ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>ρυθμός πείνας</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>Επηρεάζει το πόσο γρήγορα πεινάει αυτός ο χαρακτήρας.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>πεινασμένος</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>Πεινάς και πρέπει να φας κάτι. Αυτό σταματά την αναγέννηση υγείας και την αναγνώριση αντικειμένων.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>ρυθμός αναγνώρισης</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>Επηρεάζει το πόσο γρήγορα αυτός ο χαρακτήρας αναγνωρίζει αντικείμενα.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>ρυθμός αναγνώρισης: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>ανοσία σε ασθένειες</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>Αυτός ο χαρακτήρας έχει ανοσία στις ασθένειες.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>ανοσία στη φωτιά</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>Αυτός ο χαρακτήρας έχει ανοσία στη φωτιά.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>ανοσία σε δηλητήριο</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>Αυτός ο χαρακτήρας έχει ανοσία στο δηλητήριο.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>πανοπλία</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>Παράγοντας για τη ζημιά που δέχεται αυτός ο χαρακτήρας. Εάν η τιμή είναι μεγαλύτερη από 1, τότε είναι ευπάθεια. Εάν η τιμή είναι 0, τότε είναι ανοσία.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>εισερχόμενη ζημιά {1}: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>πανοπλία</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>Αυτή η τιμή προστίθεται (ή αφαιρείται) στη ζημιά που δέχεται αυτός ο χαρακτήρας. Αν αυτή η τιμή είναι εύρος, τότε χρησιμοποιείται μια τυχαία τιμή από το εύρος.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>εισερχόμενη ζημιά {1}: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>εχθρικός προς συμμάχους</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>Αυτός ο χαρακτήρας βρίσκεται σε κατάσταση μανίας και θα επιτεθεί στους συνήθεις συμμάχους του.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>μπορεί να πετάξει</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>Αυτός ο χαρακτήρας μπορεί να πετάξει. Οι ιπτάμενοι χαρακτήρες μπορούν να κινηθούν απευθείας πάνω και κάτω.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>αναγέννηση μάνα</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>Το μάνα αυτού του χαρακτήρα αναγεννάται αυτόματα με την πάροδο του χρόνου.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>αναγέννηση μάνα ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>αλλαγή μέγ. HP</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>Επηρεάζει τον μέγιστο αριθμό πόντων ζωής που μπορεί να έχει αυτός ο χαρακτήρας.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>μέγ. HP: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>αλλαγή μέγ. HP</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>Επηρεάζει τον μέγιστο αριθμό πόντων ζωής που μπορεί να έχει αυτός ο χαρακτήρας.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>μέγ. HP: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>αλλαγή μέγ. μάνα</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>Επηρεάζει τον μέγιστο αριθμό πόντων μάνα που μπορεί να έχει αυτός ο χαρακτήρας.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>μέγ. μάνα: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>αλλαγή μέγ. αντοχής</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>Επηρεάζει τον μέγιστο αριθμό πόντων αντοχής που μπορεί να έχει αυτός ο χαρακτήρας.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>μέγ. αντοχή: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>αλλαγή πιθανότητας αστοχίας</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>Επηρεάζει την πιθανότητα αστοχίας όταν επιτίθεται αυτός ο χαρακτήρας.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>πιθανότητα αστοχίας: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>πανικός</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>Αυτός ο χαρακτήρας βρίσκεται σε πανικό και θα απομακρύνεται από τον πλησιέστερο εχθρό κάθε γύρο. Δεν μπορεί να κάνει τίποτα άλλο σε αυτήν την κατάσταση.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>δηλητηριασμένος</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>Αυτός ο χαρακτήρας είναι δηλητηριασμένος, που σημαίνει ότι θα χάνει έναν συγκεκριμένο αριθμό πόντων ζωής κάθε γύρο ή κάθε δύο γύρους.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>δηλητηριασμένος ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>εμβέλεια όρασης</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>Επηρεάζει τη μέγιστη απόσταση στην οποία αυτός ο χαρακτήρας μπορεί να δει άλλα αντικείμενα και χαρακτήρες.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>εμβέλεια όρασης: Μέγ. {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>εμβέλεια όρασης</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>Επηρεάζει τη μέγιστη απόσταση στην οποία αυτός ο χαρακτήρας μπορεί να δει άλλα αντικείμενα και χαρακτήρες.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>εμβέλεια όρασης: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>αλλαγή συχνότητας ενεργειών χαρακτήρα</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>Επηρεάζει τον αριθμό των επιτρεπόμενων κινήσεων ανά γύρο για αυτόν τον χαρακτήρα.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>δεν μπορεί να σου προκαλέσει ζημιά</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>Είσαι προστατευμένος από τις επιθέσεις αυτού του χαρακτήρα μέχρι τον επόμενο γύρο. Ωστόσο, αν προκαλέσεις οποιαδήποτε ζημιά σε αυτόν τον χαρακτήρα, το αποτέλεσμα θα αφαιρεθεί. Σημείωσε ότι η χρήση αβλαβών ξορκιών επιτρέπεται.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>κοιμάται</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>Αυτός ο χαρακτήρας κοιμάται. Θα ξυπνήσει όταν τον πλησιάσουν ή τον ενοχλήσουν.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>αφήνει ίχνη</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>Αυτός ο χαρακτήρας αφήνει ίχνη κάθε φορά που κινείται.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>αφήνει ίχνη από {0}</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>αναγέννηση αντοχής</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>Η αντοχή αυτού του χαρακτήρα αναγεννάται αυτόματα με την πάροδο του χρόνου.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>αναγέννηση αντοχής ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>λιμοκτονεί</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>Λιμοκτονείς και πρέπει να φας κάτι. Εκτός από το ότι δεν αναγεννάς υγεία και δεν αναγνωρίζεις αντικείμενα, η αναγέννηση της αντοχής σου σταματά και χάνεις αργά την υγεία σου με την πάροδο του χρόνου. Οι ποινές από την πείνα δεν θα προχωρήσουν περαιτέρω.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>λιμοκτονεί ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>Δοκιμασία Ακρωτηριασμού</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>Η Δοκιμασία Ακρωτηριασμού είναι σε εξέλιξη για αυτόν τον χαρακτήρα. Πρέπει να καταστρέψει έναν ορισμένο αριθμό μελών του σώματος σε σύντομο χρονικό διάστημα για να ολοκληρώσει την πρόκληση και να λάβει μια ανταμοιβή.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>Δοκιμασία Ακρωτηριασμού ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>Η Δοκιμασία Ακρωτηριασμού είναι σε εξέλιξη για αυτόν τον χαρακτήρα. Πρέπει να καταστρέψει {0} μέλη του σώματος εντός {1} γύρων για να ολοκληρώσει την πρόκληση και να λάβει μια ανταμοιβή.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>Δοκιμασία του Γρήγορου Δολοφόνου</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>Η Δοκιμασία του Γρήγορου Δολοφόνου είναι σε εξέλιξη για αυτόν τον χαρακτήρα. Πρέπει να σκοτώσει έναν ορισμένο αριθμό άξιων εχθρών σε σύντομο χρονικό διάστημα για να ολοκληρώσει την πρόκληση και να λάβει μια ανταμοιβή.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>Δοκιμασία του Γρήγορου Δολοφόνου ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>Η Δοκιμασία του Γρήγορου Δολοφόνου είναι σε εξέλιξη για αυτόν τον χαρακτήρα. Πρέπει να σκοτώσει {0} άξιους εχθρούς εντός {1} γύρων για να ολοκληρώσει την πρόκληση και να λάβει μια ανταμοιβή.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>Δοκιμασία του Άσπιλου</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>Η Δοκιμασία του Άσπιλου είναι σε εξέλιξη για αυτόν τον χαρακτήρα. Πρέπει να σκοτώσει έναν ορισμένο αριθμό άξιων εχθρών χωρίς να χάσει πόντους ζωής για να ολοκληρώσει την πρόκληση και να λάβει μια ανταμοιβή.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>Δοκιμασία του Άσπιλου ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>Η Δοκιμασία του Άσπιλου είναι σε εξέλιξη για αυτόν τον χαρακτήρα. Πρέπει να σκοτώσει {0} άξιους εχθρούς χωρίς να χάσει πόντους ζωής για να ολοκληρώσει την πρόκληση και να λάβει μια ανταμοιβή.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>βρεγμένος</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>Αυτός ο χαρακτήρας είναι βρεγμένος, γεγονός που του δίνει 50% αντοχή σε ζημιά φωτιάς, αλλά επίσης κάνει την αντοχή να αναγεννάται φυσικά δύο φορές πιο αργά.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

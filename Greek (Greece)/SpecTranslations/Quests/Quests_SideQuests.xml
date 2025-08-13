@@ -1,0 +1,53 @@
+<SpecTranslations>
+
+  <FindRelic.label>Εύρεση Κειμηλίου</FindRelic.label> <!-- <En>Find Relic</En> -->
+  <FindRelic.description>Βρες το αρχαίο Κειμήλιο στον 4ο όροφο.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
+  <FindRelic.ThereAppearsToBeAnAgeold>Φαίνεται πως υπάρχει ένα πανάρχαιο κειμήλιο καλυμμένο από μυστήριο κάπου στον 4ο όροφο. Πήγαινε και βρες το.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
+  <FindRelic.dungeonModifiers>Κειμήλιο στον 4ο όροφο</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+
+  <KillHypnorak.label>Εξόντωσε τον Hypnorak</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
+  <KillHypnorak.description>Εξόντωσε τον Hypnorak - το μίνι-αφεντικό δράκο στον 3ο όροφο.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
+  <KillHypnorak.YourNextChallengeAwaits>Η επόμενη πρόκλησή σου σε περιμένει στον 3ο όροφο, όπου κατοικεί ο Hypnorak. Σύναξε το θάρρος σου και νίκησέ τον.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
+  <KillHypnorak.dungeonModifiers>Hypnorak στον 3ο όροφο</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+
+  <KillMimics.label>Κυνηγός Mimic</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
+  <KillMimics.description>Εξόντωσε 10 mimics.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
+  <KillMimics.NotAllTreasuresAreWhat>Δεν είναι όλοι οι θησαυροί αυτό που φαίνονται. Ορισμένα σεντούκια έχουν κοφτερά δόντια και όρεξη για τους απρόσεκτους. Ο στόχος σου είναι να εξοντώσεις 10 mimics.</KillMimics.NotAllTreasuresAreWhat> <!-- <En>Not all treasures are what they seem. Some chests bear sharp teeth and an appetite for the unwary. Your goal is to eliminate 10 mimics.</En> -->
+  <KillMimics.KillMimicsKillCount10>[KillMimics_KillCount] / 10</KillMimics.KillMimicsKillCount10> <!-- <En>[KillMimics_KillCount] / 10</En> -->
+
+  <KillNightmareLord.label>Εξόντωσε τον Άρχοντα των Εφιαλτών</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
+  <KillNightmareLord.description>Εξόντωσε τον Άρχοντα των Εφιαλτών - το σκελετικό μίνι-αφεντικό στον 1ο όροφο.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
+  <KillNightmareLord.YourMissionIsToConfront>Η αποστολή σου είναι να αντιμετωπίσεις τον μοχθηρό Άρχοντα των Εφιαλτών - ένα σκελετικό τερατούργημα. Ευτυχώς, δεν χρειάζεται να ψάξεις μακριά, καθώς μπορείς να βρεις το κρησφύγετό του στον πρώτο κιόλας όροφο.\n\nΣημείωση: Μπορείς να ολοκληρώσεις αυτήν την αποστολή μόνο σε μπουντρούμια που έχουν μίνι-αφεντικά.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
+  <KillNightmareLord.dungeonModifiers>Άρχοντας των Εφιαλτών στον 1ο όροφο</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+
+  <KillPhantasmos.label>Εξόντωσε τον Phantasmos</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
+  <KillPhantasmos.description>Εξόντωσε τον Phantasmos - το μίνι-αφεντικό μούμια στον 4ο όροφο.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
+  <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>Στον 4ο όροφο περιμένει ο Phantasmos, μια μούμια τυλιγμένη σε πανάρχαια μυστήρια. Ο στόχος σου είναι να τον νικήσεις.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
+  <KillPhantasmos.dungeonModifiers>Phantasmos στον 4ο όροφο</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+
+  <KillSkeletons.label>Προθέρμανση</KillSkeletons.label> <!-- <En>Warmup</En> -->
+  <KillSkeletons.description>Εξόντωσε 10 σκελετούς.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
+  <KillSkeletons.ItLooksLikeYoureGoing>Φαίνεται πως θα μείνεις εδώ για λίγο, οπότε καλό θα ήταν να κάνεις λίγη εξάσκηση. Εξόντωσε 10 σκελετούς.</KillSkeletons.ItLooksLikeYoureGoing> <!-- <En>It looks like you're going to stay here for a while, so you should practice a bit. Kill 10 skeletons.</En> -->
+  <KillSkeletons.KillSkeletonsKillCount>[KillSkeletons_KillCount] / 10</KillSkeletons.KillSkeletonsKillCount> <!-- <En>[KillSkeletons_KillCount] / 10</En> -->
+
+  <KillSlimes.label>Προχωρημένη Προθέρμανση</KillSlimes.label> <!-- <En>Advanced Warmup</En> -->
+  <KillSlimes.description>Εξόντωσε 10 γλίτσες.</KillSlimes.description> <!-- <En>Kill 10 slimes.</En> -->
+  <KillSlimes.NowThatYouveGottenSome>Τώρα που έκανες λίγη εξάσκηση, ήρθε η ώρα για μια πραγματική πρόκληση. Οι γλίτσες έχουν εισβάλει στο μπουντρούμι και είναι στο χέρι σου να το σταματήσεις αυτό. Εξόντωσε 10 γλίτσες.</KillSlimes.NowThatYouveGottenSome> <!-- <En>Now that you've gotten some practice, it's time for a real challenge. Slimes have invaded the dungeon and it's up to you to put a stop to this. Kill 10 slimes.</En> -->
+  <KillSlimes.KillSlimesKillCount10>[KillSlimes_KillCount] / 10</KillSlimes.KillSlimesKillCount10> <!-- <En>[KillSlimes_KillCount] / 10</En> -->
+
+  <MoonlightMedallions.label>Μετάλλια του Σεληνόφωτος</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
+  <MoonlightMedallions.description>Συλλέξτε 4 Μετάλλια του Σεληνόφωτος στον 2ο όροφο.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
+  <MoonlightMedallions.ThereAre4MoonlightMedallions>Υπάρχουν 4 Μετάλλια του Σεληνόφωτος διάσπαρτα στον δεύτερο όροφο αυτού του μπουντρουμιού. Συλλέξτε τα όλα για να αποκαλύψετε το νόημά τους.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
+  <MoonlightMedallions.dungeonModifiers>4 Μετάλλια του Σεληνόφωτος στον 2ο όροφο</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+
+  <PhantomSwarm.label>Σμήνος Φαντασμάτων</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
+  <PhantomSwarm.description>Κατάπνιξε την αναταραχή των φαντασμάτων στον 3ο όροφο.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
+  <PhantomSwarm.PhantomsHaveOverrunThe>Φαντάσματα έχουν κατακλύσει τον τρίτο όροφο. Βάλε ένα τέλος σε αυτό σκοτώνοντας τουλάχιστον 3 από αυτά.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
+  <PhantomSwarm.dungeonModifiers>Επιπλέον 3 φαντάσματα στον 3ο όροφο</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+
+  <RatInfestation.label>Μόλυνση από Αρουραίους</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
+  <RatInfestation.description>Αντιμετώπισε τη μόλυνση από αρουραίους στον 2ο όροφο.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
+  <RatInfestation.RatsEverywhereYouHave>Αρουραίοι παντού! Πρέπει να λύσεις αυτό το ενοχλητικό πρόβλημα και να αντιμετωπίσεις τη μόλυνση από αρουραίους στον δεύτερο όροφο. Για να ολοκληρώσεις αυτήν την αποστολή, θα πρέπει να σκοτώσεις τουλάχιστον 5 αρουραίους εκεί. Προσοχή: Η αποδοχή αυτής της αποστολής σημαίνει ότι περισσότεροι αρουραίοι θα εμφανιστούν στον δεύτερο όροφο.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
+  <RatInfestation.dungeonModifiers>Επιπλέον 5 αρουραίοι στον 2ο όροφο</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+
+</SpecTranslations>

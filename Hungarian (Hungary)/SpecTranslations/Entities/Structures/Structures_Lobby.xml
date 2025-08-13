@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>rejtvényzászló</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>Színes zászló.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>trófea</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Minden főellenség trófea annyi csillagport termel, amennyi a szint, ahol a főellenséget legyőzték. A csillagpor újratöltődik, valahányszor eléred legalább a kazamata második szintjét.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>ruhásszekrény</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Itt változtathatod meg a kinézetedet.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>napi kihívás tábla</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Vegyél részt napi kihívásokban. A világon mindenki ugyanazt a kihívást kapja minden nap!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>kiállítóhely</Display.label> <!-- <En>display</En> -->
+  <Display.description>Egy hely egy tárgynak.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>portál</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Ez lenne a vég?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>végső párbeszéd indító</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>folyosó tábla</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>Ezen ajtó mögött egy folyosó van.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>ajtó</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Ez az ajtó zárva van.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>ajtó</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Ez az ajtó zárva van.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Ki akarod nyitni a folyosót 60 csillagporért?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Kinyit</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>ajtó</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Ez az ajtó zárva van.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Ki akarod nyitni a gyakorlótermet 20 csillagporért?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Kinyit</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Emlék Ajtó</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>Egy ajtó, amelyet csak mind a 4 Emlékdarab összegyűjtésével lehet kinyitni.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>rejtvényajtó</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>Egy ajtó, amelyet mind a 10 rejtvénydarab összegyűjtésével lehet kinyitni. Minden kazamataszinten van egy rejtvénydarab, és játékonként csak egy darabot találhatsz. Ez azt jelenti, hogy az utolsó a 10. szinten lesz.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>varázstükör</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Itt változtathatod meg a tulajdonságaidat.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Emlék Ajtó</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>Egy ajtó, amelyet csak mind a 4 Emlékdarab összegyűjtésével lehet kinyitni.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Emlékdarab</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>Ismeretlen Emlékdarab.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Emlékdarab</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>Ismeretlen Emlékdarab.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Emlékdarab</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>Ismeretlen Emlékdarab.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Emlékdarab</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>Ismeretlen Emlékdarab.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>lépcső</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>Egy lépcső, amely a kazamatába vezet.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>lépcső</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>Egy lépcső, amely a kazamatába vezet, és lehetővé teszi egy adott világmag használatát. Ebben a kazamatában minden előcsarnoki haladás és küldetés le van tiltva.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>privát szoba tábla</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>A privát szobád. Miután megvetted, persze.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>rejtvényajtó</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>Egy ajtó, amelyet az összes rejtvénydarab összegyűjtésével nyitottak ki.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>rejtvény szoba tábla</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Egy rejtélyes szoba.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>küldetés tábla</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Itt láthatod az összes elérhető és teljesített küldetést.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>bolt tábla</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Itt egy bolt található. Csillagport költhetsz, hogy erősítéseket vásárolj a következő játékaidhoz.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>ég</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>Szép kilátás.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>ég</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>Szép kilátás.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>lépcső</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>Egy lépcső, amely a kazamatába vezet.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>statisztika tábla</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Itt láthatod az összes statisztikádat.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>gyakorlóterem tábla</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Itt egy gyakorlóterem található. Különböző típusú ellenségek ellen gyakorolhatsz.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>lépcső</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>Egy lépcső, amely a gyakorlóterembe vezet. Gyakorolj ellenségek és főellenségek ellen.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>szemétdomb</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>Egy halom szemét, ami elzárja ezt a cellát. Használj csillagport a végleges eltávolításához.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>El akarod takarítani ezt a szemétdombot 40 csillagporért?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Takarítás</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>fali lámpa</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>Stílusos fali lámpa.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

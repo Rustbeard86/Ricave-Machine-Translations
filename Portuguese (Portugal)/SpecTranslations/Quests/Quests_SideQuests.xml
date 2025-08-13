@@ -1,0 +1,53 @@
+<SpecTranslations>
+
+  <FindRelic.label>Encontrar Relíquia</FindRelic.label> <!-- <En>Find Relic</En> -->
+  <FindRelic.description>Encontra a Relíquia antiga no 4.º piso.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
+  <FindRelic.ThereAppearsToBeAnAgeold>Parece haver uma relíquia milenar envolta em mistério algures no 4.º piso. Vai encontrá-la.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
+  <FindRelic.dungeonModifiers>Relíquia no 4.º piso</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+
+  <KillHypnorak.label>Matar Hypnorak</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
+  <KillHypnorak.description>Mata Hypnorak - o mini-boss dragão no 3.º piso.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
+  <KillHypnorak.YourNextChallengeAwaits>O teu próximo desafio aguarda-te no 3.º piso, onde reside Hypnorak. Reúne a tua coragem e derrota-o.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
+  <KillHypnorak.dungeonModifiers>Hypnorak no 3.º piso</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+
+  <KillMimics.label>Caçador de Mímicos</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
+  <KillMimics.description>Mata 10 mímicos.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
+  <KillMimics.NotAllTreasuresAreWhat>Nem todos os tesouros são o que parecem. Alguns baús têm dentes afiados e um apetite pelos incautos. O teu objetivo é eliminar 10 mímicos.</KillMimics.NotAllTreasuresAreWhat> <!-- <En>Not all treasures are what they seem. Some chests bear sharp teeth and an appetite for the unwary. Your goal is to eliminate 10 mimics.</En> -->
+  <KillMimics.KillMimicsKillCount10>[KillMimics_KillCount] / 10</KillMimics.KillMimicsKillCount10> <!-- <En>[KillMimics_KillCount] / 10</En> -->
+
+  <KillNightmareLord.label>Matar o Lorde do Pesadelo</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
+  <KillNightmareLord.description>Mata o Lorde do Pesadelo - o mini-boss esqueleto no 1.º piso.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
+  <KillNightmareLord.YourMissionIsToConfront>A tua missão é confrontar o sinistro Lorde do Pesadelo - uma monstruosidade esquelética. Felizmente, não tens de procurar muito, pois podes encontrar o seu covil logo no primeiro piso.\n\nNota que só podes completar esta missão em masmorras que tenham mini-bosses.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
+  <KillNightmareLord.dungeonModifiers>Lorde do Pesadelo no 1.º piso</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+
+  <KillPhantasmos.label>Matar Phantasmos</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
+  <KillPhantasmos.description>Mata Phantasmos - o mini-boss múmia no 4.º piso.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
+  <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>No 4.º piso aguarda Phantasmos, uma múmia envolta em mistérios milenares. O teu objetivo é derrotá-lo.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
+  <KillPhantasmos.dungeonModifiers>Phantasmos no 4.º piso</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+
+  <KillSkeletons.label>Aquecimento</KillSkeletons.label> <!-- <En>Warmup</En> -->
+  <KillSkeletons.description>Mata 10 esqueletos.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
+  <KillSkeletons.ItLooksLikeYoureGoing>Parece que vais ficar por aqui durante algum tempo, por isso deves praticar um pouco. Mata 10 esqueletos.</KillSkeletons.ItLooksLikeYoureGoing> <!-- <En>It looks like you're going to stay here for a while, so you should practice a bit. Kill 10 skeletons.</En> -->
+  <KillSkeletons.KillSkeletonsKillCount>[KillSkeletons_KillCount] / 10</KillSkeletons.KillSkeletonsKillCount> <!-- <En>[KillSkeletons_KillCount] / 10</En> -->
+
+  <KillSlimes.label>Aquecimento Avançado</KillSlimes.label> <!-- <En>Advanced Warmup</En> -->
+  <KillSlimes.description>Mata 10 slimes.</KillSlimes.description> <!-- <En>Kill 10 slimes.</En> -->
+  <KillSlimes.NowThatYouveGottenSome>Agora que já praticaste um pouco, é hora de um verdadeiro desafio. Os slimes invadiram a masmorra e cabe-te a ti pôr um fim a isto. Mata 10 slimes.</KillSlimes.NowThatYouveGottenSome> <!-- <En>Now that you've gotten some practice, it's time for a real challenge. Slimes have invaded the dungeon and it's up to you to put a stop to this. Kill 10 slimes.</En> -->
+  <KillSlimes.KillSlimesKillCount10>[KillSlimes_KillCount] / 10</KillSlimes.KillSlimesKillCount10> <!-- <En>[KillSlimes_KillCount] / 10</En> -->
+
+  <MoonlightMedallions.label>Medalhões do Luar</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
+  <MoonlightMedallions.description>Recolhe 4 Medalhões do Luar no 2.º piso.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
+  <MoonlightMedallions.ThereAre4MoonlightMedallions>Existem 4 Medalhões do Luar espalhados pelo segundo piso desta masmorra. Recolhe-os todos para revelares o seu significado.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
+  <MoonlightMedallions.dungeonModifiers>4 Medalhões do Luar no 2.º piso</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+
+  <PhantomSwarm.label>Enxame de Fantasmas</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
+  <PhantomSwarm.description>Reprime a agitação dos fantasmas no 3.º piso.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
+  <PhantomSwarm.PhantomsHaveOverrunThe>Os fantasmas tomaram conta do terceiro piso. Põe um fim a isto matando pelo menos 3 deles.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
+  <PhantomSwarm.dungeonModifiers>3 fantasmas extra no 3.º piso</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+
+  <RatInfestation.label>Infestação de Ratos</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
+  <RatInfestation.description>Lida com a infestação de ratos no 2.º piso.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
+  <RatInfestation.RatsEverywhereYouHave>Ratos por todo o lado! Tens de resolver este problema irritante e lidar com a infestação de ratos no segundo piso. Para completares esta missão, terás de matar pelo menos 5 ratos lá. Aviso: Aceitar esta missão significa que mais ratos aparecerão no segundo piso.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
+  <RatInfestation.dungeonModifiers>5 ratos extra no 2.º piso</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+
+</SpecTranslations>

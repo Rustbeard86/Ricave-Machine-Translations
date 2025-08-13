@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>berserker</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>Je hebt recentelijk iemand gedood. Je deelt en ontvangt tijdelijk 25% meer fysieke schade.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>bloedend</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>Dit personage bloedt en zal levenspunten blijven verliezen totdat het wordt verbonden.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>bloedend ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>blind</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>Dit personage kan alleen aangrenzende objecten waarnemen en zal 30% van de tijd missen.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>gebroken bot</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>Dit personage heeft een gebroken bot, waardoor het minder fysieke schade toebrengt.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>Dit personage heeft een gebroken bot, waardoor het {0} minder fysieke schade toebrengt.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>brandend</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>Dit personage staat in brand, wat betekent dat het elke beurt een bepaald aantal levenspunten verliest.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>brandend ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>kans op kritieke treffer gewijzigd</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>Beïnvloedt de kans op een kritieke treffer uitgedeeld door dit personage.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>kans op kritieke treffer: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>verliest levenspunten</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>Dit personage verliest levenspunten.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>verliest levenspunten ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>factor uitgedeelde schade</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>De schade die door dit personage wordt uitgedeeld, wordt door deze factor gewijzigd.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>uitgedeelde {1} schade: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>offset uitgedeelde schade</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>Deze waarde wordt opgeteld bij (of afgetrokken van) de schade die door dit personage wordt uitgedeeld. Als deze waarde een bereik is, wordt een willekeurige waarde uit dat bereik gebruikt.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>uitgedeelde {1} schade: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>ziekte</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>Dit personage heeft een ziekte, die natuurlijke genezing voorkomt en het onmogelijk maakt om te vliegen.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>dronken</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>Dit personage is dronken, wat betekent dat het elke beurt in een willekeurige richting beweegt. Het kan niets anders doen in deze toestand.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>verstrikt</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>Dit personage is verstrikt, wat betekent dat het niet kan bewegen. Het kan echter nog steeds aanvallen vanaf zijn huidige positie.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>bevroren</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>Dit personage is bevroren, wat betekent dat het niets anders kan doen dan wachten terwijl het in deze toestand is.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>levenspuntenregeneratie</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>De levenspunten van dit personage regenereren automatisch na verloop van tijd.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>levenspuntenregeneratie ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>hongersnelheid</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>Beïnvloedt hoe snel dit personage honger krijgt.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>hongerig</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>Je hebt honger en moet iets eten. Dit stopt levenspuntenregeneratie en itemidentificatie.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>identificatiesnelheid</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>Beïnvloedt hoe snel dit personage items identificeert.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>identificatiesnelheid: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>immuun voor ziekte</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>Dit personage is immuun voor ziekte.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>immuun voor vuur</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>Dit personage is immuun voor vuur.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>immuun voor vergif</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>Dit personage is immuun voor vergif.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>bepantsering</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>Factor voor de schade die dit personage oploopt. Als de waarde groter is dan 1, is het een kwetsbaarheid. Als de waarde 0 is, is het een immuniteit.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>{1} schade ontvangen: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>bepantsering</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>Deze waarde wordt opgeteld bij (of afgetrokken van) de schade die dit personage oploopt. Als deze waarde een bereik is, wordt een willekeurige waarde uit dat bereik gebruikt.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>{1} schade ontvangen: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>vijandig tegenover bondgenoten</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>Dit personage is in een berserker-toestand en zal zijn gebruikelijke bondgenoten aanvallen.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>kan vliegen</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>Dit personage kan vliegen. Vliegende personages kunnen direct omhoog en omlaag bewegen.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>manaregeneratie</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>De mana van dit personage regenereert automatisch na verloop van tijd.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>manaregeneratie ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>max HP gewijzigd</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>Beïnvloedt het maximale aantal levenspunten dat dit personage kan hebben.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>max HP: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>max HP gewijzigd</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>Beïnvloedt het maximale aantal levenspunten dat dit personage kan hebben.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>max HP: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>max mana gewijzigd</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>Beïnvloedt het maximale aantal manapunten dat dit personage kan hebben.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>max mana: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>max uithoudingsvermogen gewijzigd</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>Beïnvloedt het maximale aantal uithoudingsvermogenpunten dat dit personage kan hebben.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>max uithoudingsvermogen: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>miskans gewijzigd</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>Beïnvloedt de kans om te missen wanneer dit personage aanvalt.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>miskans: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>paniek</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>Dit personage is in paniek en zal elke beurt wegbewegen van de dichtstbijzijnde vijand. Het kan niets anders doen in deze toestand.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>vergiftigd</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>Dit personage is vergiftigd, wat betekent dat het elke beurt of om de paar beurten een bepaald aantal levenspunten verliest.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>vergiftigd ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>zichtbereik</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>Beïnvloedt de maximale afstand waarop dit personage andere objecten en personages kan zien.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>zichtbereik: max {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>zichtbereik</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>Beïnvloedt de maximale afstand waarop dit personage andere objecten en personages kan zien.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>zichtbereik: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>wijzig hoe vaak dit personage handelt</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>Beïnvloedt het aantal toegestane acties per beurt voor dit personage.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>kan je geen schade toebrengen</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>Je bent tot de volgende beurt beschermd tegen de aanvallen van dit personage. Als je dit personage echter schade toebrengt, wordt het effect verwijderd. Let op: het gebruiken van onschadelijke spreuken is wel toegestaan.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>slapend</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>Dit personage slaapt. Het wordt wakker wanneer het benaderd of gestoord wordt.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>laat een spoor achter</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>Dit personage laat een spoor achter wanneer het beweegt.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>laat een spoor van {0} achter</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>uithoudingsvermogenregeneratie</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>Het uithoudingsvermogen van dit personage regenereert automatisch na verloop van tijd.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>uithoudingsvermogenregeneratie ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>verhongerend</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>Je bent aan het verhongeren en moet iets eten. Naast het niet regenereren van levenspunten en het niet identificeren van items, stopt je uithoudingsvermogenregeneratie en verlies je langzaam levenspunten. De nadelen van honger worden niet erger dan dit.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>verhongerend ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>Beproeving van Verminking</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>De Beproeving van Verminking is gaande voor dit personage. Het moet binnen korte tijd een bepaald aantal lichaamsdelen vernietigen om de uitdaging te voltooien en een beloning te ontvangen.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>Beproeving van Verminking ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>De Beproeving van Verminking is gaande voor dit personage. Het moet {0} lichaamsdelen vernietigen binnen {1} beurten om de uitdaging te voltooien en een beloning te ontvangen.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>Beproeving van de Vlotte Doder</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>De Beproeving van de Vlotte Doder is gaande voor dit personage. Het moet binnen korte tijd een bepaald aantal waardige vijanden doden om de uitdaging te voltooien en een beloning te ontvangen.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>Beproeving van de Vlotte Doder ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>De Beproeving van de Vlotte Doder is gaande voor dit personage. Het moet {0} waardige vijanden doden binnen {1} beurten om de uitdaging te voltooien en een beloning te ontvangen.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>Beproeving van de Onbevlekte</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>De Beproeving van de Onbevlekte is gaande voor dit personage. Het moet een bepaald aantal waardige vijanden doden zonder levenspunten te verliezen om de uitdaging te voltooien en een beloning te ontvangen.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>Beproeving van de Onbevlekte ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>De Beproeving van de Onbevlekte is gaande voor dit personage. Het moet {0} waardige vijanden doden zonder levenspunten te verliezen om de uitdaging te voltooien en een beloning te ontvangen.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>nat</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>Dit personage is nat, wat het 50% weerstand tegen vuurschade geeft, maar ook het uithoudingsvermogen twee keer zo langzaam laat regenereren.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

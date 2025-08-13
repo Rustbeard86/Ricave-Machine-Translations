@@ -1,0 +1,30 @@
+<SpecTranslations>
+
+  <AllArmsMissing.label>sem braços</AllArmsMissing.label> <!-- <En>armless</En> -->
+  <AllArmsMissing.description>Este personagem não tem braços, o que o faz causar menos dano físico. Além disso, este personagem não pode usar itens e certos ataques nativos (ex: arco do arqueiro). Membros perdidos podem ser restaurados com um kit cirúrgico.</AllArmsMissing.description> <!-- <En>This character has no arms which makes them deal less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+  <AllArmsMissing.ThisCharacterHasNoArms>Este personagem não tem braços, o que o faz causar {0} a menos de dano físico. Além disso, este personagem não pode usar itens e certos ataques nativos (ex: arco do arqueiro). Membros perdidos podem ser restaurados com um kit cirúrgico.</AllArmsMissing.ThisCharacterHasNoArms> <!-- <En>This character has no arms which makes them deal {0} less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllEyesMissing.label>cego</AllEyesMissing.label> <!-- <En>blind</En> -->
+  <AllEyesMissing.description>Este personagem não tem olhos, o que o torna cego e faz com que erre 30% das vezes. No entanto, ele ainda pode sentir personagens adjacentes e lembrar de qual direção foi atacado recentemente. Membros perdidos podem ser restaurados com um kit cirúrgico.</AllEyesMissing.description> <!-- <En>This character has all of their eyes missing which makes them blind and they will miss 30% of the time. However, they can still sense adjacent characters and remember from which direction they've recently been attacked. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllLegsMissing.label>imobilizado</AllLegsMissing.label> <!-- <En>immobilized</En> -->
+  <AllLegsMissing.description>Este personagem não tem pernas, o que o torna imóvel. Membros perdidos podem ser restaurados com um kit cirúrgico.</AllLegsMissing.description> <!-- <En>This character has all of their legs missing which makes them immobile. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllWingsMissing.label>sem asas</AllWingsMissing.label> <!-- <En>wingless</En> -->
+  <AllWingsMissing.description>Este personagem não tem asas, o que o impede de voar.</AllWingsMissing.description> <!-- <En>This character has all of their wings missing which makes them unable to fly.</En> -->
+
+  <ArmMissing.label>braço faltando</ArmMissing.label> <!-- <En>arm missing</En> -->
+  <ArmMissing.description>Este personagem tem um de seus braços faltando, o que o faz causar menos dano físico. Membros perdidos podem ser restaurados com um kit cirúrgico.</ArmMissing.description> <!-- <En>This character has one of their arms missing which makes them deal less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+  <ArmMissing.ThisCharacterHasOneOf>Este personagem tem um de seus braços faltando, o que o faz causar {0} a menos de dano físico. Membros perdidos podem ser restaurados com um kit cirúrgico.</ArmMissing.ThisCharacterHasOneOf> <!-- <En>This character has one of their arms missing which makes them deal {0} less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <HatMissing.label>sem chapéu</HatMissing.label> <!-- <En>hatless</En> -->
+  <HatMissing.description>Era o seu chapéu favorito.</HatMissing.description> <!-- <En>It was his favorite hat.</En> -->
+
+  <LegMissing.label>perna faltando</LegMissing.label> <!-- <En>leg missing</En> -->
+  <LegMissing.description>Este personagem tem uma de suas pernas faltando, o que o faz se mover duas vezes mais devagar. Membros perdidos podem ser restaurados com um kit cirúrgico.</LegMissing.description> <!-- <En>This character has one of their legs missing which makes them move twice as slow. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <StingMissing.label>ferrão faltando</StingMissing.label> <!-- <En>sting missing</En> -->
+  <StingMissing.description>Este personagem está sem seu ferrão, o que o faz causar menos dano físico.</StingMissing.description> <!-- <En>This character has their sting missing which makes them deal less physical damage.</En> -->
+  <StingMissing.ThisCharacterHasTheir>Este personagem está sem seu ferrão, o que o faz causar {0} a menos de dano físico.</StingMissing.ThisCharacterHasTheir> <!-- <En>This character has their sting missing which makes them deal {0} less physical damage.</En> -->
+
+</SpecTranslations>

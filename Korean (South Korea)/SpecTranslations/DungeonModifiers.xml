@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <EveryoneStartsAwake.label>모두 깨어난 상태로 시작</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>모두가 깨어난 상태로 시작합니다.</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>층마다 추가 미니 보스</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>각 층에 추가 미니 보스가 생성됩니다 (던전에 미니 보스가 있는 경우에만 적용).</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>적 20% 감소</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>모든 층의 적이 20% 감소합니다.</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>모든 아이템 식별된 상태로 시작</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>던전에서 발견하는 모든 아이템이 이미 식별된 상태입니다.</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>적 20% 증가</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>모든 층의 적이 20% 증가합니다.</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>함정 증가</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>던전에 더 많은 가시 함정과 근접 폭탄이 생성됩니다.</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>허기 없음</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>절대 배고파지지 않습니다.</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>미니 보스 없음</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>미니 보스가 생성되지 않습니다 (던전에 미니 보스가 있는 경우에만 적용).</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>무작위 이벤트 없음</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>던전에 아무리 오래 머물러도 무작위 이벤트가 발생하지 않습니다 (던전에 무작위 이벤트가 있는 경우에만 적용).</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>안식처 없음</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>안식처가 생성되지 않습니다 (던전에 안식처가 있는 경우에만 적용).</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

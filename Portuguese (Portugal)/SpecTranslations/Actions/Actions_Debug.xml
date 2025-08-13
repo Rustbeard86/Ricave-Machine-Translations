@@ -1,0 +1,75 @@
+<SpecTranslations>
+
+  <Debug_AddCondition.label>adicionar condição (depuração)</Debug_AddCondition.label> <!-- <En>add condition (debug)</En> -->
+  <Debug_AddCondition.IsGivenToDebug>{0} foi dado a {1} (depuração)</Debug_AddCondition.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddParty.label>adicionar ao grupo (depuração)</Debug_AddParty.label> <!-- <En>add to party (debug)</En> -->
+  <Debug_AddParty.AddingToPlayerPartyDebug>A adicionar {0} ao grupo do jogador (depuração)</Debug_AddParty.AddingToPlayerPartyDebug> <!-- <En>Adding {0} to player party (debug)</En> -->
+
+  <Debug_AddToInventory.label>adicionar ao inventário (depuração)</Debug_AddToInventory.label> <!-- <En>add to inventory (debug)</En> -->
+  <Debug_AddToInventory.IsAddedToSInventoryDebug>{0} foi adicionado ao inventário de {1} (depuração)</Debug_AddToInventory.IsAddedToSInventoryDebug> <!-- <En>{0} is added to {1}'s inventory (debug)</En> -->
+
+  <Debug_AddUseEffect.label>adicionar efeito de uso (depuração)</Debug_AddUseEffect.label> <!-- <En>add use effect (debug)</En> -->
+  <Debug_AddUseEffect.IsGivenToDebug>{0} foi dado a {1} (depuração)</Debug_AddUseEffect.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddWorldSituation.label>adicionar situação mundial (depuração)</Debug_AddWorldSituation.label> <!-- <En>add world situation (debug)</En> -->
+  <Debug_AddWorldSituation.IsAddedDebug>{0} foi adicionado (depuração)</Debug_AddWorldSituation.IsAddedDebug> <!-- <En>{0} is added (debug)</En> -->
+
+  <Debug_AttachToChainPost.label>prender a poste de corrente (depuração)</Debug_AttachToChainPost.label> <!-- <En>attach to chain post (debug)</En> -->
+  <Debug_AttachToChainPost.IsAttachedToDebug>{0} foi preso a {1} (depuração)</Debug_AttachToChainPost.IsAttachedToDebug> <!-- <En>{0} is attached to {1} (debug)</En> -->
+
+  <Debug_Control.label>controlar ator (depuração)</Debug_Control.label> <!-- <En>control actor (debug)</En> -->
+  <Debug_Control.ControllingDebug>A controlar {0} (depuração)</Debug_Control.ControllingDebug> <!-- <En>Controlling {0} (debug)</En> -->
+
+  <Debug_DeSpawn.label>desaparecer (depuração)</Debug_DeSpawn.label> <!-- <En>despawn (debug)</En> -->
+  <Debug_DeSpawn.IsDespawnedDebug>{0} desapareceu (depuração)</Debug_DeSpawn.IsDespawnedDebug> <!-- <En>{0} is despawned (debug)</En> -->
+
+  <Debug_Destroy.label>destruir (depuração)</Debug_Destroy.label> <!-- <En>destroy (debug)</En> -->
+  <Debug_Destroy.IsDestroyedDebug>{0} foi destruído (depuração)</Debug_Destroy.IsDestroyedDebug> <!-- <En>{0} is destroyed (debug)</En> -->
+
+  <Debug_DoWorldEvent.label>executar evento mundial (depuração)</Debug_DoWorldEvent.label> <!-- <En>do world event (debug)</En> -->
+  <Debug_DoWorldEvent.IsInvokedDebug>{0} foi invocado (depuração)</Debug_DoWorldEvent.IsInvokedDebug> <!-- <En>{0} is invoked (debug)</En> -->
+
+  <Debug_LevelUp.label>subir de nível (depuração)</Debug_LevelUp.label> <!-- <En>level up (debug)</En> -->
+  <Debug_LevelUp.ThePlayerLevelsUpDebug>O jogador sobe de nível (depuração)</Debug_LevelUp.ThePlayerLevelsUpDebug> <!-- <En>The player levels up (debug)</En> -->
+
+  <Debug_RemoveCondition.label>remover condição (depuração)</Debug_RemoveCondition.label> <!-- <En>remove condition (debug)</En> -->
+  <Debug_RemoveCondition.IsRemovedFromDebug>{0} foi removido de {1} (depuração)</Debug_RemoveCondition.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveParty.label>remover do grupo (depuração)</Debug_RemoveParty.label> <!-- <En>remove from party (debug)</En> -->
+  <Debug_RemoveParty.RemovingFromPlayerParty>A remover {0} do grupo do jogador (depuração)</Debug_RemoveParty.RemovingFromPlayerParty> <!-- <En>Removing {0} from player party (debug)</En> -->
+
+  <Debug_RemoveUseEffect.label>remover efeito de uso (depuração)</Debug_RemoveUseEffect.label> <!-- <En>remove use effect (debug)</En> -->
+  <Debug_RemoveUseEffect.IsRemovedFromDebug>{0} foi removido de {1} (depuração)</Debug_RemoveUseEffect.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveWorldSituation.label>remover situação mundial (depuração)</Debug_RemoveWorldSituation.label> <!-- <En>remove world situation (debug)</En> -->
+  <Debug_RemoveWorldSituation.IsRemovedDebug>{0} foi removido (depuração)</Debug_RemoveWorldSituation.IsRemovedDebug> <!-- <En>{0} is removed (debug)</En> -->
+
+  <Debug_RewindTime.label>rebobinar tempo (depuração)</Debug_RewindTime.label> <!-- <En>rewind time (debug)</En> -->
+  <Debug_RewindTime.RewindTurnsDebug>Rebobinar {0} turnos (depuração)</Debug_RewindTime.RewindTurnsDebug> <!-- <En>Rewind {0} turns (debug)</En> -->
+
+  <Debug_SaveBlueprint.label>guardar blueprint (depuração)</Debug_SaveBlueprint.label> <!-- <En>save blueprint (debug)</En> -->
+  <Debug_SaveBlueprint.BlueprintIsSavedDebug>Blueprint {0} foi guardado (depuração)</Debug_SaveBlueprint.BlueprintIsSavedDebug> <!-- <En>Blueprint {0} is saved (debug)</En> -->
+
+  <Debug_SetGravity.label>alterar gravidade (depuração)</Debug_SetGravity.label> <!-- <En>change gravity (debug)</En> -->
+  <Debug_SetGravity.GravityIsChangedForDebug>A gravidade foi alterada para {0} (depuração)</Debug_SetGravity.GravityIsChangedForDebug> <!-- <En>Gravity is changed for {0} (debug)</En> -->
+
+  <Debug_SetRampUp.label>alterar aceleração (depuração)</Debug_SetRampUp.label> <!-- <En>change ramp up (debug)</En> -->
+  <Debug_SetRampUp.RampUpIsChangedForDebug>A aceleração foi alterada para {0} (depuração)</Debug_SetRampUp.RampUpIsChangedForDebug> <!-- <En>Ramp up is changed for {0} (debug)</En> -->
+
+  <Debug_SetScale.label>alterar escala (depuração)</Debug_SetScale.label> <!-- <En>change scale (debug)</En> -->
+  <Debug_SetScale.ScaleIsChangedForDebug>A escala foi alterada para {0} (depuração)</Debug_SetScale.ScaleIsChangedForDebug> <!-- <En>Scale is changed for {0} (debug)</En> -->
+
+  <Debug_Spawn.label>aparecer (depuração)</Debug_Spawn.label> <!-- <En>spawn (debug)</En> -->
+  <Debug_Spawn.IsSpawnedDebug>{0} apareceu (depuração)</Debug_Spawn.IsSpawnedDebug> <!-- <En>{0} is spawned (debug)</En> -->
+
+  <Debug_SpawnBlueprint.label>fazer aparecer blueprint (depuração)</Debug_SpawnBlueprint.label> <!-- <En>spawn blueprint (debug)</En> -->
+  <Debug_SpawnBlueprint.BlueprintIsSpawnedDebug>O blueprint {0} apareceu (depuração)</Debug_SpawnBlueprint.BlueprintIsSpawnedDebug> <!-- <En>Blueprint {0} is spawned (debug)</En> -->
+
+  <Debug_Teleport.label>teletransportar (depuração)</Debug_Teleport.label> <!-- <En>teleport (debug)</En> -->
+  <Debug_Teleport.TeleportsDebug>{0} teletransporta-se (depuração)</Debug_Teleport.TeleportsDebug> <!-- <En>{0} teleports (debug)</En> -->
+
+  <Debug_UnfogAll.label>revelar tudo (depuração)</Debug_UnfogAll.label> <!-- <En>unfog everything (debug)</En> -->
+  <Debug_UnfogAll.EveryCellIsUnfoggedDebug>Todas as células foram reveladas (depuração)</Debug_UnfogAll.EveryCellIsUnfoggedDebug> <!-- <En>Every cell is unfogged (debug)</En> -->
+
+</SpecTranslations>

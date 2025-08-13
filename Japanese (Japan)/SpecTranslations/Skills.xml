@@ -1,0 +1,57 @@
+<SpecTranslations>
+
+  <BodyPartsDamage.label>解剖学者</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>部位を直接狙った際の与ダメージが30%増加する。</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>粘着質</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>攻撃してきた相手を50%の確率で自動的に1ターン拘束する。</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>耐爆</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>爆発によるダメージを80%軽減する。</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>高速回復</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>HPの自然回復速度が2倍になる。</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>強壮</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>スタミナの自然回復速度が2倍になる。</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>生命力</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>最大HPが+1増加する。</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>魔術師</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>最大マナが+1増加し、魔法ダメージを50%軽減する。</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>アスリート</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>最大スタミナが+2増加する。</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>鍵開け師</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>鍵を見つけることなく、緑の宝箱、古代のコンテナ、王家の扉を開けられる。また、ボスを倒さなくても檻を開けられる。</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>交渉人</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>店主が50%引きでアイテムを販売し、放浪者が50%引きのゴールドでアイテムを鑑定してくれる。</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>食通</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>食料によるHP回復量が通常の2倍になる。</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>スカベンジャー</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>ダンジョンでより多くの生肉を見つける。</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>ローグ</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>ダンジョンでより多くの設置可能な罠を見つける。</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>耐落下</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>どんな高さから飛び降りても落下ダメージを受けない。さらに、落下速度が上昇する。</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>攻撃偏向</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>盾で防いだダメージを、攻撃者を除く隣接するランダムな敵に偏向させる。</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>盾の達人</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>盾の使用に必要なスタミナが50%減少する。</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>苦行者</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>食事の頻度が減る - 空腹になるまでの時間が2倍になる。</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>包囲ボーナス</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>2体以上の敵に隣接されている間、与ダメージが25%増加する。</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

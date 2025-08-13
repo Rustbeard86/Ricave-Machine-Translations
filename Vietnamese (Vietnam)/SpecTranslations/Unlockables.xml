@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>Bùa Hộ Mệnh của Yerdon</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>Bắt đầu với một Bùa Hộ Mệnh của Yerdon. Người đeo sẽ được hồi đầy máu một lần vào thời điểm đáng lẽ họ sẽ chết. Ngoài ra, mọi kẻ địch gần đó cũng sẽ chết. Đây là phần thưởng dùng một lần và chỉ áp dụng cho lượt chơi tiếp theo của bạn.</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>bình máu</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>Bắt đầu với một bình máu cộng thêm trong túi đồ. Đây là phần thưởng dùng một lần và chỉ áp dụng cho lượt chơi tiếp theo của bạn.</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>cuộn giấy</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>Bắt đầu với một cuộn giấy ngẫu nhiên trong túi đồ. Đây là phần thưởng dùng một lần và chỉ áp dụng cho lượt chơi tiếp theo của bạn.</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>khiên</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>Bắt đầu với một chiếc khiên trong túi đồ. Nó sẽ cho phép bạn chặn các đòn tấn công của kẻ địch.</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>Bạn đã mở khóa khiên cho các lượt chơi tiếp theo! Bạn có thể dùng nó để chặn các đòn tấn công của kẻ địch.\n\nĐiều này đặc biệt hữu ích khi đối phó với kẻ địch đánh xa, vì bạn có thể tiếp cận chúng an toàn mà không bị trúng đòn.\n\nBạn không thể vừa chặn đòn tấn công của kẻ địch vừa tấn công hắn cùng một lúc - hiệu ứng sẽ bị hủy.\n\nDùng khiên rất mệt, vì vậy nó sẽ tiêu tốn thể lực.</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>giáo</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>Bắt đầu với một cây giáo cộng thêm trong túi đồ. Ném nó vào kẻ địch hoặc dùng để kích hoạt bẫy.</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>Bạn đã mở khóa giáo cho các lượt chơi tiếp theo! Bạn có thể dùng nó để tấn công kẻ địch hoặc kích hoạt bẫy từ xa.\n\nChờ kẻ địch đi xuống dưới gai hoặc bên cạnh khẩu pháo gắn tường, và ném giáo vào bẫy để kích hoạt nó.\n\nNém giáo rất mệt, vì vậy nó sẽ tiêu tốn thể lực. Thể lực sẽ tự động hồi phục trừ khi bạn đang đói lả.</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>kiếm</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>Bắt đầu với một thanh kiếm trong túi đồ. Đây là phần thưởng dùng một lần và chỉ áp dụng cho lượt chơi tiếp theo của bạn.</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>đồng hồ</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>Bắt đầu với một chiếc đồng hồ trong túi đồ. Nó sẽ cho phép bạn tua ngược thời gian.</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>Bạn đã mở khóa đồng hồ ma thuật cho các lượt chơi tiếp theo! Nó cho phép bạn tua ngược thời gian theo ý muốn.\n\nTua lại lượt cuối bằng cách nhấn [Rewind].\n\nĐồng hồ có giới hạn số lượt bạn có thể tua lại cùng lúc, nhưng nó sẽ sạc lại mỗi khi bạn di chuyển.</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>vàng x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>Tìm thấy nhiều hơn 25% vàng so với bình thường trong hầm ngục. Đây là phần thưởng dùng một lần và chỉ áp dụng cho lượt chơi tiếp theo của bạn.</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>hành lang</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>Mở khóa hành lang trong sảnh chờ.</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>tượng cấp 100</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>Nhận một bức tượng để kỷ niệm việc đạt cấp 100. Bạn có thể đặt nó trong phòng riêng của mình ở sảnh chờ.</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>Chúc mừng bạn đã đạt cấp 100!\n\nBạn đã nhận được một bức tượng đặc biệt mà bạn có thể đặt trong phòng riêng của mình để kỷ niệm thành tựu to lớn này.</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>tượng cấp 25</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>Nhận một bức tượng để kỷ niệm việc đạt cấp 25. Bạn có thể đặt nó trong phòng riêng của mình ở sảnh chờ.</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>Chúc mừng bạn đã đạt cấp 25!\n\nBạn đã nhận được một bức tượng đặc biệt mà bạn có thể đặt trong phòng riêng của mình để kỷ niệm thành tựu to lớn này.</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>tượng cấp 50</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>Nhận một bức tượng để kỷ niệm việc đạt cấp 50. Bạn có thể đặt nó trong phòng riêng của mình ở sảnh chờ.</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>Chúc mừng bạn đã đạt cấp 50!\n\nBạn đã nhận được một bức tượng đặc biệt mà bạn có thể đặt trong phòng riêng của mình để kỷ niệm thành tựu to lớn này.</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>chìa khóa phòng riêng</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>Mở khóa phòng riêng của bạn để có thể trang trí.</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>Bạn đã mở khóa phòng riêng của mình!\n\nBạn có thể trang trí nó bằng cách nhấn [ShowInventory] khi bạn ở bên trong.\n\nMột số chiến tích và đồ trang trí hiếm hơn có thể khó kiếm - ví dụ, chúng có thể được giấu ở đâu đó sâu trong hầm ngục.</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>điểm x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>Nhận thêm 100% điểm so với bình thường trong hầm ngục. Đây là phần thưởng dùng một lần và chỉ áp dụng cho lượt chơi tiếp theo của bạn.</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>bụi sao x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>Tìm thấy nhiều hơn 50% bụi sao so với bình thường trong hầm ngục. Đây là phần thưởng dùng một lần và chỉ áp dụng cho lượt chơi tiếp theo của bạn.</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>phòng tập</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>Mở khóa phòng tập trong sảnh chờ.</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>đống rác</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>Dọn dẹp một đống rác để có thêm không gian.</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>đống rác</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>Dọn dẹp một đống rác để có thêm không gian.</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>đống rác</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>Dọn dẹp một đống rác để có thêm không gian.</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>Amulet van Yerdon</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>Begin met een Amulet van Yerdon. De drager wordt eenmalig volledig genezen op het moment dat hij normaal gesproken zou sterven. Daarnaast zal elke vijand in de buurt sterven. Dit is een eenmalige bonus en is alleen van toepassing op je volgende spel.</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>gezondheidsdrankje</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>Begin met een extra gezondheidsdrankje in je inventaris. Dit is een eenmalige bonus en is alleen van toepassing op je volgende spel.</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>perkamentrol</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>Begin met een willekeurige perkamentrol in je inventaris. Dit is een eenmalige bonus en is alleen van toepassing op je volgende spel.</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>schild</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>Begin met een schild in je inventaris. Hiermee kun je vijandelijke aanvallen blokkeren.</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>Je hebt een schild vrijgespeeld voor je volgende spellen! Je kunt het gebruiken om vijandelijke aanvallen te blokkeren.\n\nDit is vooral handig bij vijanden die op afstand aanvallen, omdat je ze dan veilig kunt benaderen zonder geraakt te worden.\n\nJe kunt niet tegelijkertijd aanvallen van een vijand blokkeren en hem aanvallen - het effect wordt dan opgeheven.\n\nHet gebruik van een schild is vermoeiend, dus het verbruikt uithoudingsvermogen.</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>speer</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>Begin met een extra speer in je inventaris. Gooi hem naar vijanden of gebruik hem om vallen te activeren.</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>Je hebt een speer vrijgespeeld voor je volgende spellen! Je kunt hem gebruiken om vijanden aan te vallen of vallen op afstand te activeren.\n\nWacht tot een vijand onder spiesen doorloopt of naast een aan de muur gemonteerd kanon, en gooi de speer naar de val om hem te activeren.\n\nHet gooien van een speer is vermoeiend, dus het verbruikt uithoudingsvermogen. Uithoudingsvermogen herstelt automatisch, tenzij je verhongert.</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>zwaard</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>Begin met een zwaard in je inventaris. Dit is een eenmalige bonus en is alleen van toepassing op je volgende spel.</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>horloge</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>Begin met een horloge in je inventaris. Hiermee kun je de tijd terugspoelen.</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>Je hebt het magische horloge vrijgespeeld voor je volgende spellen! Hiermee kun je de tijd naar believen terugspoelen.\n\nSpoel de laatste beurt terug door op [Rewind] te drukken.\n\nHet horloge heeft een limiet voor hoeveel beurten je in één keer kunt terugspoelen, maar het laadt weer op telkens als je beweegt.</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>goud x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>Vind 25% meer goud dan normaal in de kerker. Dit is een eenmalige bonus en is alleen van toepassing op je volgende spel.</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>gang</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>Krijg toegang tot de gang in de lobby.</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>sculptuur level 100</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>Ontvang een sculptuur ter herdenking van het bereiken van level 100. Je kunt het in je privékamer in de lobby plaatsen.</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>Gefeliciteerd met het bereiken van level 100!\n\nJe hebt een speciaal sculptuur ontvangen dat je in je privékamer kunt plaatsen om deze geweldige prestatie te herdenken.</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>sculptuur level 25</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>Ontvang een sculptuur ter herdenking van het bereiken van level 25. Je kunt het in je privékamer in de lobby plaatsen.</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>Gefeliciteerd met het bereiken van level 25!\n\nJe hebt een speciaal sculptuur ontvangen dat je in je privékamer kunt plaatsen om deze geweldige prestatie te herdenken.</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>sculptuur level 50</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>Ontvang een sculptuur ter herdenking van het bereiken van level 50. Je kunt het in je privékamer in de lobby plaatsen.</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>Gefeliciteerd met het bereiken van level 50!\n\nJe hebt een speciaal sculptuur ontvangen dat je in je privékamer kunt plaatsen om deze geweldige prestatie te herdenken.</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>sleutel privékamer</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>Krijg toegang tot je eigen privékamer die je vervolgens kunt inrichten.</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>Je hebt je eigen privékamer vrijgespeeld!\n\nJe kunt het inrichten door op [ShowInventory] te drukken als je binnen bent.\n\nSommige zeldzamere trofeeën en decoraties kunnen moeilijk te verkrijgen zijn - ze kunnen bijvoorbeeld ergens diep in de kerker verborgen zijn.</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>score x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>Krijg 100% meer score dan normaal in de kerker. Dit is een eenmalige bonus en is alleen van toepassing op je volgende spel.</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>sterrenstof x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>Vind 50% meer sterrenstof dan normaal in de kerker. Dit is een eenmalige bonus en is alleen van toepassing op je volgende spel.</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>trainingsruimte</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>Krijg toegang tot de trainingsruimte in de lobby.</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>hoop afval</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>Ruim een hoop afval op om meer ruimte te hebben.</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>hoop afval</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>Ruim een hoop afval op om meer ruimte te hebben.</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>hoop afval</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>Ruim een hoop afval op om meer ruimte te hebben.</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

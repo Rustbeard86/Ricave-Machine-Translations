@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>광전사</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>최근에 누군가를 처치했습니다. 짧은 시간 동안 25%의 추가 물리 피해를 주고 받습니다.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>출혈</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>이 캐릭터는 출혈 중이며, 붕대를 감을 때까지 계속해서 체력을 잃습니다.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>출혈 ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>실명</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>이 캐릭터는 인접한 물체만 감지할 수 있으며, 30% 확률로 공격이 빗나갑니다.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>골절</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>이 캐릭터는 뼈가 부러져 물리 피해량이 감소합니다.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>이 캐릭터는 뼈가 부러져 물리 피해량이 {0}만큼 감소합니다.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>화상</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>이 캐릭터는 화상 상태이며, 매 턴마다 일정량의 체력을 잃습니다.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>화상 ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>치명타 확률 변경됨</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>이 캐릭터가 가하는 치명타 공격의 확률에 영향을 줍니다.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>치명타 확률: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>체력 감소 중</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>이 캐릭터는 체력을 잃고 있습니다.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>체력 감소 중 ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>가하는 피해 계수</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>이 캐릭터가 가하는 피해가 이 계수에 의해 변경됩니다.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>가하는 {1} 피해: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>가하는 피해 오프셋</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>이 값이 캐릭터가 가하는 피해에 더해지거나 빼집니다. 이 값이 범위인 경우, 해당 범위 내에서 무작위 값이 사용됩니다.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>가하는 {1} 피해: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>질병</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>이 캐릭터는 질병에 걸려 자연 치유가 불가능하며 날 수 없습니다.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>취함</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>이 캐릭터는 취한 상태이며, 매 턴마다 무작위 방향으로 이동합니다. 이 상태에서는 다른 어떤 행동도 할 수 없습니다.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>속박됨</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>이 캐릭터는 속박되어 움직일 수 없습니다. 하지만 현재 위치에서 공격은 가능합니다.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>빙결</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>이 캐릭터는 빙결 상태이며, 이 상태에서는 기다리는 것 외에 아무것도 할 수 없습니다.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>체력 재생</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>이 캐릭터의 체력은 시간이 지남에 따라 자동으로 재생됩니다.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>체력 재생 ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>허기 비율</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>이 캐릭터가 얼마나 빨리 배고파지는지에 영향을 줍니다.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>허기짐</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>배고픈 상태이므로 무언가를 먹어야 합니다. 이 상태에서는 체력 재생과 아이템 식별이 중단됩니다.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>식별 비율</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>이 캐릭터가 아이템을 얼마나 빨리 식별하는지에 영향을 줍니다.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>식별 비율: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>질병 면역</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>이 캐릭터는 질병에 면역입니다.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>화염 면역</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>이 캐릭터는 화염에 면역입니다.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>독 면역</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>이 캐릭터는 독에 면역입니다.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>방어력</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>이 캐릭터가 받는 피해에 대한 계수입니다. 값이 1보다 크면 취약점이며, 값이 0이면 면역입니다.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>받는 {1} 피해: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>방어력</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>이 값이 캐릭터가 받는 피해에 더해지거나 빼집니다. 이 값이 범위인 경우, 해당 범위 내에서 무작위 값이 사용됩니다.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>받는 {1} 피해: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>아군에게 적대적</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>이 캐릭터는 광폭 상태에 빠져 평소의 아군을 공격합니다.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>비행 가능</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>이 캐릭터는 날 수 있습니다. 비행하는 캐릭터는 위아래로 직접 이동할 수 있습니다.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>마나 재생</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>이 캐릭터의 마나는 시간이 지남에 따라 자동으로 재생됩니다.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>마나 재생 ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>최대 체력 변경됨</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>이 캐릭터가 가질 수 있는 최대 체력에 영향을 줍니다.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>최대 체력: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>최대 체력 변경됨</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>이 캐릭터가 가질 수 있는 최대 체력에 영향을 줍니다.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>최대 체력: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>최대 마나 변경됨</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>이 캐릭터가 가질 수 있는 최대 마나에 영향을 줍니다.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>최대 마나: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>최대 스태미나 변경됨</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>이 캐릭터가 가질 수 있는 최대 스태미나에 영향을 줍니다.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>최대 스태미나: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>빗나감 확률 변경됨</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>이 캐릭터가 공격할 때 빗나갈 확률에 영향을 줍니다.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>빗나감 확률: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>공황</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>이 캐릭터는 공황 상태에 빠져 매 턴마다 가장 가까운 적에게서 멀어집니다. 이 상태에서는 다른 어떤 행동도 할 수 없습니다.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>중독됨</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>이 캐릭터는 중독 상태이며, 매 턴 또는 몇 턴마다 일정량의 체력을 잃습니다.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>중독됨 ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>시야 범위</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>이 캐릭터가 다른 물체나 캐릭터를 볼 수 있는 최대 거리에 영향을 줍니다.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>시야 범위: 최대 {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>시야 범위</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>이 캐릭터가 다른 물체나 캐릭터를 볼 수 있는 최대 거리에 영향을 줍니다.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>시야 범위: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>캐릭터 행동 빈도 변경</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>이 캐릭터의 턴당 허용되는 행동 횟수에 영향을 줍니다.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>당신에게 피해를 줄 수 없음</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>다음 턴까지 이 캐릭터의 공격으로부터 보호받습니다. 하지만 이 캐릭터에게 피해를 주면 효과가 사라집니다. 해가 없는 주문을 시전하는 것은 괜찮습니다.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>수면 중</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>이 캐릭터는 수면 중입니다. 접근하거나 방해하면 깨어납니다.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>흔적 남김</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>이 캐릭터는 움직일 때마다 흔적을 남깁니다.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>{0}의 흔적을 남김</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>스태미나 재생</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>이 캐릭터의 스태미나는 시간이 지남에 따라 자동으로 재생됩니다.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>스태미나 재생 ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>굶주림</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>굶주리고 있으므로 무언가를 먹어야 합니다. 체력 재생과 아이템 식별이 중단될 뿐만 아니라, 스태미나 재생도 멈추고 시간이 지남에 따라 천천히 체력을 잃습니다. 허기로 인한 불이익은 이 이상 진행되지 않습니다.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>굶주림 ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>불구의 시험</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>이 캐릭터는 불구의 시험을 진행 중입니다. 도전을 완료하고 보상을 받으려면 짧은 시간 안에 일정 수의 신체 부위를 파괴해야 합니다.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>불구의 시험 ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>이 캐릭터는 불구의 시험을 진행 중입니다. 도전을 완료하고 보상을 받으려면 {1} 턴 내에 {0}개의 신체 부위를 파괴해야 합니다.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>신속한 암살자의 시험</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>이 캐릭터는 신속한 암살자의 시험을 진행 중입니다. 도전을 완료하고 보상을 받으려면 짧은 시간 안에 일정 수의 가치 있는 적을 처치해야 합니다.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>신속한 암살자의 시험 ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>이 캐릭터는 신속한 암살자의 시험을 진행 중입니다. 도전을 완료하고 보상을 받으려면 {1} 턴 내에 {0}명의 가치 있는 적을 처치해야 합니다.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>무결점의 시험</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>이 캐릭터는 무결점의 시험을 진행 중입니다. 도전을 완료하고 보상을 받으려면 체력을 전혀 잃지 않고 일정 수의 가치 있는 적을 처치해야 합니다.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>무결점의 시험 ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>이 캐릭터는 무결점의 시험을 진행 중입니다. 도전을 완료하고 보상을 받으려면 체력을 전혀 잃지 않고 {0}명의 가치 있는 적을 처치해야 합니다.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>젖음</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>이 캐릭터는 젖어 있어 화염 피해 저항이 50% 증가하지만, 스태미나 자연 재생 속도가 두 배 느려집니다.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

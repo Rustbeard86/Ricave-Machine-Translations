@@ -1,0 +1,53 @@
+<SpecTranslations>
+
+  <FindRelic.label>Ereklyekeresés</FindRelic.label> <!-- <En>Find Relic</En> -->
+  <FindRelic.description>Találd meg az ősi ereklyét a 4. szinten.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
+  <FindRelic.ThereAppearsToBeAnAgeold>Úgy tűnik, egy ősi, rejtélyekkel övezett ereklye van valahol a 4. szinten. Menj és találd meg.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
+  <FindRelic.dungeonModifiers>Ereklye a 4. szinten</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+
+  <KillHypnorak.label>Hypnorak megölése</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
+  <KillHypnorak.description>Öld meg Hypnorakot - a sárkány mini-főellenséget a 3. szinten.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
+  <KillHypnorak.YourNextChallengeAwaits>A következő kihívás a 3. szinten vár rád, ahol Hypnorak lakozik. Szedd össze a bátorságodat és győzd le őt.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
+  <KillHypnorak.dungeonModifiers>Hypnorak a 3. szinten</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+
+  <KillMimics.label>Mimikvadász</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
+  <KillMimics.description>Ölj meg 10 mimiket.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
+  <KillMimics.NotAllTreasuresAreWhat>Nem minden kincs az, aminek látszik. Néhány ládának éles fogai vannak és éhesek a gyanútlan kalandorokra. A célod 10 mimik kiiktatása.</KillMimics.NotAllTreasuresAreWhat> <!-- <En>Not all treasures are what they seem. Some chests bear sharp teeth and an appetite for the unwary. Your goal is to eliminate 10 mimics.</En> -->
+  <KillMimics.KillMimicsKillCount10>[KillMimics_KillCount] / 10</KillMimics.KillMimicsKillCount10> <!-- <En>[KillMimics_KillCount] / 10</En> -->
+
+  <KillNightmareLord.label>A Rémálomúr megölése</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
+  <KillNightmareLord.description>Öld meg a Rémálomurat - a csontváz mini-főellenséget az 1. szinten.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
+  <KillNightmareLord.YourMissionIsToConfront>A küldetésed, hogy szembeszállj a baljós Rémálomúrral - egy csontváz szörnyeteggel. Szerencsére nem kell messzire menned, mivel a búvóhelyét már az első szinten megtalálod.\n\nFigyelem: ezt a küldetést csak olyan kazamatákban teljesítheted, ahol vannak mini-főellenségek.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
+  <KillNightmareLord.dungeonModifiers>Rémálomúr az 1. szinten</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+
+  <KillPhantasmos.label>Phantasmos megölése</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
+  <KillPhantasmos.description>Öld meg Phantasmost - a múmia mini-főellenséget a 4. szinten.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
+  <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>A 4. szinten vár Phantasmos, egy ősi rejtélyekbe burkolózó múmia. A célod, hogy legyőzd őt.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
+  <KillPhantasmos.dungeonModifiers>Phantasmos a 4. szinten</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+
+  <KillSkeletons.label>Bemelegítés</KillSkeletons.label> <!-- <En>Warmup</En> -->
+  <KillSkeletons.description>Ölj meg 10 csontvázat.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
+  <KillSkeletons.ItLooksLikeYoureGoing>Úgy tűnik, egy ideig itt maradsz, szóval gyakorolnod kellene egy kicsit. Ölj meg 10 csontvázat.</KillSkeletons.ItLooksLikeYoureGoing> <!-- <En>It looks like you're going to stay here for a while, so you should practice a bit. Kill 10 skeletons.</En> -->
+  <KillSkeletons.KillSkeletonsKillCount>[KillSkeletons_KillCount] / 10</KillSkeletons.KillSkeletonsKillCount> <!-- <En>[KillSkeletons_KillCount] / 10</En> -->
+
+  <KillSlimes.label>Haladó bemelegítés</KillSlimes.label> <!-- <En>Advanced Warmup</En> -->
+  <KillSlimes.description>Ölj meg 10 nyálkát.</KillSlimes.description> <!-- <En>Kill 10 slimes.</En> -->
+  <KillSlimes.NowThatYouveGottenSome>Most, hogy szereztél némi gyakorlatot, itt az ideje egy igazi kihívásnak. Nyálkák lepték el a kazamatát, és rajtad áll, hogy véget vess ennek. Ölj meg 10 nyálkát.</KillSlimes.NowThatYouveGottenSome> <!-- <En>Now that you've gotten some practice, it's time for a real challenge. Slimes have invaded the dungeon and it's up to you to put a stop to this. Kill 10 slimes.</En> -->
+  <KillSlimes.KillSlimesKillCount10>[KillSlimes_KillCount] / 10</KillSlimes.KillSlimesKillCount10> <!-- <En>[KillSlimes_KillCount] / 10</En> -->
+
+  <MoonlightMedallions.label>Holdfény Medálok</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
+  <MoonlightMedallions.description>Gyűjts össze 4 Holdfény Medált a 2. szinten.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
+  <MoonlightMedallions.ThereAre4MoonlightMedallions>4 Holdfény Medál van szétszórva a kazamata második szintjén. Gyűjtsd össze mindet, hogy felfedd a jelentésüket.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
+  <MoonlightMedallions.dungeonModifiers>4 Holdfény Medál a 2. szinten</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+
+  <PhantomSwarm.label>Fantomraj</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
+  <PhantomSwarm.description>Csillapítsd le a fantomok okozta zűrzavart a 3. szinten.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
+  <PhantomSwarm.PhantomsHaveOverrunThe>Fantomok lepték el a harmadik szintet. Vess ennek véget azzal, hogy megölsz legalább 3-at közülük.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
+  <PhantomSwarm.dungeonModifiers>Extra 3 fantom a 3. szinten</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+
+  <RatInfestation.label>Patkányfertőzés</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
+  <RatInfestation.description>Számolj le a patkányfertőzéssel a 2. szinten.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
+  <RatInfestation.RatsEverywhereYouHave>Mindenhol patkányok! Meg kell oldanod ezt a kellemetlen problémát, és le kell számolnod a patkányfertőzéssel a második szinten. A küldetés teljesítéséhez legalább 5 patkányt kell megölnöd ott. Figyelem: A küldetés elfogadása azt jelenti, hogy több patkány fog megjelenni a második szinten.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
+  <RatInfestation.dungeonModifiers>Extra 5 patkány a 2. szinten</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+
+</SpecTranslations>

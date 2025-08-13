@@ -1,0 +1,24 @@
+<SpecTranslations>
+
+  <ChooseSpell.label>주문 선택</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>새로운 주문 {0}이(가) 선택되었습니다</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>이동</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0}이(가) {1}(으)로 이동합니다</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>아이템 줍기</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>{0}이(가) {1}을(를) 줍습니다</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>주문 순서 변경</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>{1}의 순서가 변경되었습니다</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>잠자기</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>{0}이(가) 잠을 잡니다</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>사용</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>{0}이(가) {2}에게 {1}을(를) 사용합니다</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>대기</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>{0}이(가) 대기합니다</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

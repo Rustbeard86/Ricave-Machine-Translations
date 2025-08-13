@@ -1,0 +1,32 @@
+<SpecTranslations>
+
+  <Cult.label>ลัทธิ</Cult.label> <!-- <En>cult</En> -->
+  <Cult.description>ลัทธิปริศนา เป็นกลางเว้นแต่จะถูกรบกวน</Cult.description> <!-- <En>A mysterious cult. Neutral unless disturbed.</En> -->
+  <Cult.possibleNames><li>ลัทธิมันฝรั่ง</li><li>ลัทธิสปาเก็ตตี้</li><li>ลัทธิชีส</li><li>ลัทธิไม้กวาด</li><li>ลัทธิคลิปหนีบกระดาษ</li><li>ลัทธิไข่</li><li>ลัทธิคุกกี้</li><li>ลัทธิวิกผม</li><li>ลัทธิผ้าเช็ดปาก</li><li>ลัทธิกลิตเตอร์</li><li>ลัทธิหัวหอม</li></Cult.possibleNames> <!-- <En><li>Potato Cult</li>
+  <li>Spaghetti Cult</li>
+  <li>Cheese Cult</li>
+  <li>Broomstick Cult</li>
+  <li>Paperclip Cult</li>
+  <li>Egg Cult</li>
+  <li>Cookie Cult</li>
+  <li>Wig Cult</li>
+  <li>Napkin Cult</li>
+  <li>Glitter Cult</li>
+  <li>Onion Cult</li></En> -->
+
+  <Guardians.label>ผู้พิทักษ์</Guardians.label> <!-- <En>guardians</En> -->
+  <Guardians.description>กลุ่มคนที่เป็นมิตรและมีอาวุธครบมือ</Guardians.description> <!-- <En>A group of friendly, well-armed people.</En> -->
+
+  <Inhabitants.label>ผู้อยู่อาศัย</Inhabitants.label> <!-- <En>inhabitants</En> -->
+  <Inhabitants.description>ผู้อยู่อาศัยที่คุ้นเคยกับการใช้ชีวิตในดันเจี้ยนนี้เป็นอย่างดี เป็นกลางกับเกือบทุกคน บางครั้งพวกเขาอาจต้องการช่วยคุณด้วยซ้ำ</Inhabitants.description> <!-- <En>The inhabitants well accustomed to living in this dungeon. Neutral to almost everyone. They may sometimes even want to help you.</En> -->
+
+  <Monsters.label>มอนสเตอร์</Monsters.label> <!-- <En>monsters</En> -->
+  <Monsters.description>มอนสเตอร์ที่เกรี้ยวกราดทั้งหมดที่ซุ่มซ่อนอยู่ทุกซอกทุกมุม</Monsters.description> <!-- <En>All the angry monsters lurking around every corner.</En> -->
+
+  <Player.label_2>คุณ</Player.label_2> <!-- <En>you</En> -->
+  <Player.description_2>นี่คือฝ่ายของคุณ โดยปกติแล้วจะมีแค่คุณและพันธมิตรที่ใกล้ชิดบางคนเท่านั้น</Player.description_2> <!-- <En>This is your faction. Usually, it's just you and some close allies.</En> -->
+
+  <Spiders.label>แมงมุม</Spiders.label> <!-- <En>spiders</En> -->
+  <Spiders.description>แมงมุมสนใจแค่การปกป้องตัวเองเท่านั้น พวกมันจึงเป็นศัตรูกับเกือบทุกคน</Spiders.description> <!-- <En>Spiders only care about protecting themselves - they're hostile to almost everyone.</En> -->
+
+</SpecTranslations>

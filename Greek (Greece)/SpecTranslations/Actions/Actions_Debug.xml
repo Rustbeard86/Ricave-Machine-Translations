@@ -1,0 +1,75 @@
+<SpecTranslations>
+
+  <Debug_AddCondition.label>προσθήκη κατάστασης (αποσφαλμάτωση)</Debug_AddCondition.label> <!-- <En>add condition (debug)</En> -->
+  <Debug_AddCondition.IsGivenToDebug>Το {0} δίνεται στον/στην {1} (αποσφαλμάτωση)</Debug_AddCondition.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddParty.label>προσθήκη στην ομάδα (αποσφαλμάτωση)</Debug_AddParty.label> <!-- <En>add to party (debug)</En> -->
+  <Debug_AddParty.AddingToPlayerPartyDebug>Προσθήκη του/της {0} στην ομάδα του παίκτη (αποσφαλμάτωση)</Debug_AddParty.AddingToPlayerPartyDebug> <!-- <En>Adding {0} to player party (debug)</En> -->
+
+  <Debug_AddToInventory.label>προσθήκη στο απόθεμα (αποσφαλμάτωση)</Debug_AddToInventory.label> <!-- <En>add to inventory (debug)</En> -->
+  <Debug_AddToInventory.IsAddedToSInventoryDebug>Το {0} προστίθεται στο απόθεμα του/της {1} (αποσφαλμάτωση)</Debug_AddToInventory.IsAddedToSInventoryDebug> <!-- <En>{0} is added to {1}'s inventory (debug)</En> -->
+
+  <Debug_AddUseEffect.label>προσθήκη εφέ χρήσης (αποσφαλμάτωση)</Debug_AddUseEffect.label> <!-- <En>add use effect (debug)</En> -->
+  <Debug_AddUseEffect.IsGivenToDebug>Το {0} δίνεται στον/στην {1} (αποσφαλμάτωση)</Debug_AddUseEffect.IsGivenToDebug> <!-- <En>{0} is given to {1} (debug)</En> -->
+
+  <Debug_AddWorldSituation.label>προσθήκη κατάστασης κόσμου (αποσφαλμάτωση)</Debug_AddWorldSituation.label> <!-- <En>add world situation (debug)</En> -->
+  <Debug_AddWorldSituation.IsAddedDebug>Το {0} προστέθηκε (αποσφαλμάτωση)</Debug_AddWorldSituation.IsAddedDebug> <!-- <En>{0} is added (debug)</En> -->
+
+  <Debug_AttachToChainPost.label>προσάρτηση σε στύλο αλυσίδας (αποσφαλμάτωση)</Debug_AttachToChainPost.label> <!-- <En>attach to chain post (debug)</En> -->
+  <Debug_AttachToChainPost.IsAttachedToDebug>Ο/Η {0} προσαρτάται στο/στη {1} (αποσφαλμάτωση)</Debug_AttachToChainPost.IsAttachedToDebug> <!-- <En>{0} is attached to {1} (debug)</En> -->
+
+  <Debug_Control.label>έλεγχος χαρακτήρα (αποσφαλμάτωση)</Debug_Control.label> <!-- <En>control actor (debug)</En> -->
+  <Debug_Control.ControllingDebug>Έλεγχος του/της {0} (αποσφαλμάτωση)</Debug_Control.ControllingDebug> <!-- <En>Controlling {0} (debug)</En> -->
+
+  <Debug_DeSpawn.label>εξαφάνιση (αποσφαλμάτωση)</Debug_DeSpawn.label> <!-- <En>despawn (debug)</En> -->
+  <Debug_DeSpawn.IsDespawnedDebug>Ο/Η {0} εξαφανίστηκε (αποσφαλμάτωση)</Debug_DeSpawn.IsDespawnedDebug> <!-- <En>{0} is despawned (debug)</En> -->
+
+  <Debug_Destroy.label>καταστροφή (αποσφαλμάτωση)</Debug_Destroy.label> <!-- <En>destroy (debug)</En> -->
+  <Debug_Destroy.IsDestroyedDebug>Το {0} καταστράφηκε (αποσφαλμάτωση)</Debug_Destroy.IsDestroyedDebug> <!-- <En>{0} is destroyed (debug)</En> -->
+
+  <Debug_DoWorldEvent.label>εκτέλεση παγκόσμιου γεγονότος (αποσφαλμάτωση)</Debug_DoWorldEvent.label> <!-- <En>do world event (debug)</En> -->
+  <Debug_DoWorldEvent.IsInvokedDebug>Το {0} ενεργοποιήθηκε (αποσφαλμάτωση)</Debug_DoWorldEvent.IsInvokedDebug> <!-- <En>{0} is invoked (debug)</En> -->
+
+  <Debug_LevelUp.label>άνοδος επιπέδου (αποσφαλμάτωση)</Debug_LevelUp.label> <!-- <En>level up (debug)</En> -->
+  <Debug_LevelUp.ThePlayerLevelsUpDebug>Ο παίκτης ανεβαίνει επίπεδο (αποσφαλμάτωση)</Debug_LevelUp.ThePlayerLevelsUpDebug> <!-- <En>The player levels up (debug)</En> -->
+
+  <Debug_RemoveCondition.label>αφαίρεση κατάστασης (αποσφαλμάτωση)</Debug_RemoveCondition.label> <!-- <En>remove condition (debug)</En> -->
+  <Debug_RemoveCondition.IsRemovedFromDebug>Το {0} αφαιρείται από τον/την {1} (αποσφαλμάτωση)</Debug_RemoveCondition.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveParty.label>αφαίρεση από την ομάδα (αποσφαλμάτωση)</Debug_RemoveParty.label> <!-- <En>remove from party (debug)</En> -->
+  <Debug_RemoveParty.RemovingFromPlayerParty>Αφαίρεση του/της {0} από την ομάδα του παίκτη (αποσφαλμάτωση)</Debug_RemoveParty.RemovingFromPlayerParty> <!-- <En>Removing {0} from player party (debug)</En> -->
+
+  <Debug_RemoveUseEffect.label>αφαίρεση εφέ χρήσης (αποσφαλμάτωση)</Debug_RemoveUseEffect.label> <!-- <En>remove use effect (debug)</En> -->
+  <Debug_RemoveUseEffect.IsRemovedFromDebug>Το {0} αφαιρείται από τον/την {1} (αποσφαλμάτωση)</Debug_RemoveUseEffect.IsRemovedFromDebug> <!-- <En>{0} is removed from {1} (debug)</En> -->
+
+  <Debug_RemoveWorldSituation.label>αφαίρεση κατάστασης κόσμου (αποσφαλμάτωση)</Debug_RemoveWorldSituation.label> <!-- <En>remove world situation (debug)</En> -->
+  <Debug_RemoveWorldSituation.IsRemovedDebug>Το {0} αφαιρέθηκε (αποσφαλμάτωση)</Debug_RemoveWorldSituation.IsRemovedDebug> <!-- <En>{0} is removed (debug)</En> -->
+
+  <Debug_RewindTime.label>γύρισμα του χρόνου πίσω (αποσφαλμάτωση)</Debug_RewindTime.label> <!-- <En>rewind time (debug)</En> -->
+  <Debug_RewindTime.RewindTurnsDebug>Γύρισμα {0} γύρων πίσω (αποσφαλμάτωση)</Debug_RewindTime.RewindTurnsDebug> <!-- <En>Rewind {0} turns (debug)</En> -->
+
+  <Debug_SaveBlueprint.label>αποθήκευση σχεδίου (αποσφαλμάτωση)</Debug_SaveBlueprint.label> <!-- <En>save blueprint (debug)</En> -->
+  <Debug_SaveBlueprint.BlueprintIsSavedDebug>Το σχέδιο {0} αποθηκεύτηκε (αποσφαλμάτωση)</Debug_SaveBlueprint.BlueprintIsSavedDebug> <!-- <En>Blueprint {0} is saved (debug)</En> -->
+
+  <Debug_SetGravity.label>αλλαγή βαρύτητας (αποσφαλμάτωση)</Debug_SetGravity.label> <!-- <En>change gravity (debug)</En> -->
+  <Debug_SetGravity.GravityIsChangedForDebug>Η βαρύτητα αλλάζει για τον/την {0} (αποσφαλμάτωση)</Debug_SetGravity.GravityIsChangedForDebug> <!-- <En>Gravity is changed for {0} (debug)</En> -->
+
+  <Debug_SetRampUp.label>αλλαγή κλιμάκωσης (αποσφαλμάτωση)</Debug_SetRampUp.label> <!-- <En>change ramp up (debug)</En> -->
+  <Debug_SetRampUp.RampUpIsChangedForDebug>Η κλιμάκωση αλλάζει για τον/την {0} (αποσφαλμάτωση)</Debug_SetRampUp.RampUpIsChangedForDebug> <!-- <En>Ramp up is changed for {0} (debug)</En> -->
+
+  <Debug_SetScale.label>αλλαγή κλίμακας (αποσφαλμάτωση)</Debug_SetScale.label> <!-- <En>change scale (debug)</En> -->
+  <Debug_SetScale.ScaleIsChangedForDebug>Η κλίμακα αλλάζει για τον/την {0} (αποσφαλμάτωση)</Debug_SetScale.ScaleIsChangedForDebug> <!-- <En>Scale is changed for {0} (debug)</En> -->
+
+  <Debug_Spawn.label>εμφάνιση (αποσφαλμάτωση)</Debug_Spawn.label> <!-- <En>spawn (debug)</En> -->
+  <Debug_Spawn.IsSpawnedDebug>Ο/Η {0} εμφανίστηκε (αποσφαλμάτωση)</Debug_Spawn.IsSpawnedDebug> <!-- <En>{0} is spawned (debug)</En> -->
+
+  <Debug_SpawnBlueprint.label>εμφάνιση σχεδίου (αποσφαλμάτωση)</Debug_SpawnBlueprint.label> <!-- <En>spawn blueprint (debug)</En> -->
+  <Debug_SpawnBlueprint.BlueprintIsSpawnedDebug>Το σχέδιο {0} εμφανίστηκε (αποσφαλμάτωση)</Debug_SpawnBlueprint.BlueprintIsSpawnedDebug> <!-- <En>Blueprint {0} is spawned (debug)</En> -->
+
+  <Debug_Teleport.label>τηλεμεταφορά (αποσφαλμάτωση)</Debug_Teleport.label> <!-- <En>teleport (debug)</En> -->
+  <Debug_Teleport.TeleportsDebug>Ο/Η {0} τηλεμεταφέρεται (αποσφαλμάτωση)</Debug_Teleport.TeleportsDebug> <!-- <En>{0} teleports (debug)</En> -->
+
+  <Debug_UnfogAll.label>αποκάλυψη όλων (αποσφαλμάτωση)</Debug_UnfogAll.label> <!-- <En>unfog everything (debug)</En> -->
+  <Debug_UnfogAll.EveryCellIsUnfoggedDebug>Όλα τα κελιά αποκαλύφθηκαν (αποσφαλμάτωση)</Debug_UnfogAll.EveryCellIsUnfoggedDebug> <!-- <En>Every cell is unfogged (debug)</En> -->
+
+</SpecTranslations>

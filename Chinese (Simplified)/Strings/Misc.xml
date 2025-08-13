@@ -1,4 +1,4 @@
-﻿<Strings>
+<Strings>
 
   <!-- Main menu -->
   <Play>开始游戏</Play> <!-- <En>Play</En> -->
@@ -190,7 +190,7 @@
   <ClickToSelectController>选择或取消选择。</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
   <BuyRandomTraits>购买 {0} 个随机特性</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
   <SelectedTraits>已选特性</SelectedTraits> <!-- <En>Selected traits</En> -->
-  <ConfirmBuyRandomTraits>你真的要花费 {0} 购买 {1} 个随机特性吗？</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <ConfirmBuyRandomTraits>您确定要花费{0}购买{1}个随机特性吗？</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
   <TraitExtraStartingItem>开局携带 {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
   <TraitGoldPerFloorFactor_More>金币获取量增加 {0}</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
   <TraitGoldPerFloorFactor_Less>金币获取量减少 {0}</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
@@ -208,10 +208,10 @@
   <TraitFireIncomingDamageFactor_More>{0} 火焰脆弱</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
   <TraitMagicIncomingDamageFactor_Less>{0} 魔法抗性</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
   <TraitMagicIncomingDamageFactor_More>{0} 魔法脆弱</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
-  <TraitDamageFactorAgainstActor>对 {1} 造成 {0} 伤害</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitDamageFactorAgainstActor>对{1}造成{0}伤害</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
   <TraitNativeStaminaRegenIntervalFactor>耐力恢复速度变为 {0} 分之一</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
   <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>耐力恢复速度减半</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
-  <TraitLastStand>生命值低于 {1} 时，造成的伤害增加 {0}</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitLastStand>生命值低于{1}时，造成{0}额外伤害</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
   <TraitMaxHPOffsetPerLevel_Less>每级获得的最高生命值减少 {0}</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
   <TraitMaxHPOffsetPerLevel_More>每级获得的最高生命值增加 {0}</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
   <TraitWalkingNoiseOffset>行走噪音 {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
@@ -250,7 +250,7 @@
   <NewRunScreenBossLabel>{0} 首领</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
   <CosmeticCollidesWith>与...冲突</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
   <CosmeticsInfo>除非另有说明，否则外观物品仅有视觉效果，不影响游戏玩法。</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
-  <ConfirmBuyCosmetic>您要花费 {1} 购买 {0} 吗？</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <ConfirmBuyCosmetic>您想花费{1}购买{0}吗？</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
   <CantAffordCosmetic>您买不起此外观物品。</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
   <Price>价格</Price> <!-- <En>Price</En> -->
   <CosmeticWillMakeFactionHostile>警告：此外观物品会使 {0} 对你产生敌意</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
@@ -319,7 +319,7 @@
   <QuestCompletedTip>回到大厅后领取你的奖励</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
   <Stationary>静止</Stationary> <!-- <En>Stationary</En> -->
   <OneStep>一步</OneStep> <!-- <En>One step</En> -->
-  <BuyConfirmation>您确定要以{1}的价格购买{0}吗？</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation>您想花费{1}购买{0}吗？</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
   <BuyConfirmation_SingleUseUnlockable>这是一次性奖励，仅在你的下一次游戏中生效。</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
   <Buy>购买</Buy> <!-- <En>Buy</En> -->
   <CanRewindTimeAgainIn>{0}后可用</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
@@ -365,9 +365,9 @@
   <PostProcessedDamageRange>造成{0}点伤害</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
   <PostProcessedPlayerHealAmount>为你恢复{0}点生命</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
   <DamagePerTurn>每回合{0}点伤害</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
-  <DamagePerTurns>每{1}回合{0}点伤害</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <DamagePerTurns>每{1}回合造成{0}伤害</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
   <NumberPerTurn>每回合{0}</NumberPerTurn> <!-- <En>{0} per turn</En> -->
-  <NumberPerTurns>每 {1} 回合 {0}</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <NumberPerTurns>每{1}回合{0}</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
   <RestoreAll>全部</RestoreAll> <!-- <En>all</En> -->
   <RestoredAmountForPlayer>为你恢复 {0}</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
   <Or>或</Or> <!-- <En>or</En> -->
@@ -431,14 +431,14 @@
   <Intro6>你刚注意到远处有个人，但只瞥见了他的影子。你最好去查看一下。</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
   <Ending1>你慢慢地睁开眼睛……</Ending1> <!-- <En>You slowly open your eyes...</En> -->
   <Ending2>你在一家医院里醒来。</Ending2> <!-- <En>You wake up in a hospital.</En> -->
-  <Ending3>"他醒了！"</Ending3> <!-- <En><i>"He's awake!"</i></En> -->
-  <Ending4>"发生了什么事？"</Ending4> <!-- <En><i>"What happened?"</i></En> -->
-  <Ending5>"你和朋友们去远足时，头部受了重伤。"</Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
-  <Ending6>"救援人员及时找到了你。你需要休息，恢复体力。"</Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
-  <Ending7>"玛雅在哪儿？"</Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
-  <Ending8>"谁是玛雅？"</Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
-  <Ending9>"是她先找到我的。她还好吗？"</Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
-  <Ending10>"你可能有些意识模糊，但很快就会恢复的。"</Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending3><i>"他醒了！"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"发生什么事了？"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"你和朋友们去远足时，头部受了重伤。"</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"救援人员及时找到了你。你需要休息并恢复体力。"</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"玛雅在哪？"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"谁是玛雅？"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"是她先找到我的。她还好吗？"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"你可能有些意识模糊，但很快就会恢复的。"</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
   <Ending11>……</Ending11> <!-- <En>...</En> -->
   <Ending12>你感到困惑，但又有一种奇特的成就感。仿佛你在某种程度上改变了。</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
   <Ending13>你闭上眼睛，深吸一口气，想象着阳光洒在脸上的温暖。新鲜的空气充满了你的肺部，你不禁露出了微笑。</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
@@ -592,9 +592,9 @@
   <EntityIsPulled>{0} 被拉近</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
   <EntityGainsCondition>{0} 获得新状态：{1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
   <EntityGainsUseEffect>{0} 获得新效果：{1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
-  <BodyPartIsRestored>{0} 的 {1} 已恢复</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
-  <ActorGainsMana>{0} 恢复了 {1}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
-  <ActorGainsStamina>{0} 恢复了 {1}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <BodyPartIsRestored>{0}的{1}已恢复</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{0}恢复了{1}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{0}恢复了{1}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
   <ItemIdentified>{0} 已被鉴定</ItemIdentified> <!-- <En>{0} is identified</En> -->
   <ConditionWearsOff>{0} 效果消失</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
   <UseEffectWearsOff>{0} 效果消失</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
@@ -679,14 +679,14 @@
 
   <!-- Use description -->
   <AttackDescription_Self>{0} 用 {1} 攻击自己</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
-  <AttackDescription_Other>{0} 用 {1} 攻击 {2}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <AttackDescription_Other>{0}用{1}攻击了{2}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
   <UseDescription_Self>{0} 使用了 {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
-  <UseDescription_Other>{0} 对 {2} 使用了 {1}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <UseDescription_Other>{0}对{2}使用了{1}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
   <PotionUseDescription_Self>{0} 喝下了 {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
-  <PotionUseDescription_Other>{0} 向 {2} 投掷了 {1}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <PotionUseDescription_Other>{0}向{2}投掷了{1}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
   <ScrollUseDescription_Self>{0} 对自己使用了 {1}</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
-  <ScrollUseDescription_Other>{0} 对 {2} 使用了 {1}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
-  <BombUseDescription_Other>{0} 向 {2} 投掷了 {1}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Other>{0}对{2}使用了{1}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0}向{2}投掷了{1}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
   <OpenUseDescription_Self>{0} 打开了 {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
   <CloseUseDescription_Self>{0} 关闭了 {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
   <GraveUseDescription_Self>{0} 挖开了 {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
@@ -702,10 +702,10 @@
   <LavaUseDescription_Self>{0} 在 {1} 中燃烧</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
   <PressurePlateUseDescription_Self>{0} 踩上了 {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
   <PortalUseDescription_Self>{0} 传送了</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
-  <ThrownWeaponUseDescription_Other>{0} 向 {2} 投掷了 {1}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ThrownWeaponUseDescription_Other>{0}向{2}投掷了{1}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
   <SeedUseDescription_Other>{0} 种植了 {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
   <SpellUseDescription_Self>{0} 对自己施放了 {1}</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
-  <SpellUseDescription_Other>{0} 对 {2} 施放了 {1}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <SpellUseDescription_Other>{0}对{2}施放了{1}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
   <EmptyVialUseDescription_Other>{0} 用水装满了 {1}</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
   <PlanksUseDescription_Other>{0} 封锁了 {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
   <ChainUseDescription_Self>{0} 用链条把自己锁在了柱子上</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
@@ -727,10 +727,10 @@
   <AncientDeviceUseDescription_Self>{0} 研究了 {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
   <WallWithCompartmentUseDescription_Self>{0} 搜索 {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
   <BedUseDescription_Self>{0} 在 {1} 中睡觉</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
-  <PickaxeUseDescription_Other>{0} 用 {1} 挖掘 {2}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <PickaxeUseDescription_Other>{0}用{1}开采了{2}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
   <TalkUseDescription_Other>{0} 与 {2} 交谈</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
   <CrystalUseDescription_Self>{0} 用 {1} 附魔一件物品</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
-  <ShovelUseDescription_Other>{0} 用 {1} 挖掘 {2}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <ShovelUseDescription_Other>{0}用{1}挖掘了{2}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
   <LimbOfferingAltarUseDescription_Self>{0} 在 {1} 献上一个肢体</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
   <PhantomsAltarUseDescription_Self>{0} 在 {1} 召唤幻影</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
   <AltarOfRedemptionUseDescription_Self>{0} 在 {1} 解放一个灵魂</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
@@ -807,7 +807,7 @@
 
   <TimeTip>{0}\n{1}\n\n这是当前的游戏内时间。一分钟代表一个回合。\n\n整个游戏是回合制的。大多数行动需要一个回合来完成，比如行走、喝药水、攻击或与事物互动。\n\n总计已过回合数：{2}。\n在本层：{3}。</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
   <PlayerHealthTip>这是你角色的生命值。\n\n某些物品可能会增加你的最大生命值。每升一级会为你的最大生命值增加 {0} 点。</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
-  <PlayerHealthRegenTip>在不饥饿或不挨饿的情况下，每 {1} 会恢复 {0} 点生命值。</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenTip>若未处于饥饿或挨饿状态，则每{1}会恢复{0}。</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
   <PlayerHealthRegenHealHPInTip>下一点生命值恢复于：{0}。</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
   <LosingHPBecauseAboveMaxTip>你正在失去生命值，因为它超过了最大上限。</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
   <LosingManaBecauseAboveMaxTip>你正在失去法力值，因为它超过了最大上限。</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
@@ -879,7 +879,7 @@
   <CostsStamina>消耗{0}</CostsStamina> <!-- <En>Costs {0}</En> -->
   <PlayerManaTip>这是你角色的法力值。\n\n施放法术和使用魔法物品会消耗法力。法力不会随时间自动恢复，只能通过饮用法力药水或与某些特殊物体互动来补充。当你没有任何法术时，法力条会隐藏。\n\n每次升级你都可以选择一个新法术。</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
   <PlayerStaminaTip>这是你角色的体力值。\n\n使用某些物品可能需要消耗体力。当你的物品栏中没有任何需要消耗体力的物品时，体力条会隐藏。</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
-  <PlayerStaminaRegenTip>如果不处于饥荒状态，每{1}会恢复{0}点体力。</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenTip>若未处于挨饿状态，则每{1}会恢复{0}。</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
   <PlayerStaminaRegenNextRegenInTip>下次体力恢复还需：{0}。</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
   <AddSpellButtonTip>选择一个新法术。每次升级你都可以选择一个新法术。</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
   <FleesOnLowHP>低生命值时会逃跑</FleesOnLowHP> <!-- <En>flees on low HP</En> -->

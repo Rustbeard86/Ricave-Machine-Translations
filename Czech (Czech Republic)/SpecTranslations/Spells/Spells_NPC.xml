@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <Blindness.label>slepota</Blindness.label> <!-- <En>blindness</En> -->
+  <Blindness.description>Na krátkou dobu někoho oslepí.</Blindness.description> <!-- <En>Make someone blind for a short time.</En> -->
+
+  <Drunkenness.label>opilost</Drunkenness.label> <!-- <En>drunkenness</En> -->
+  <Drunkenness.description>Na krátkou dobu někoho opije.</Drunkenness.description> <!-- <En>Make someone drunk for a short time.</En> -->
+
+  <Entangle_NPC.label>spoutání</Entangle_NPC.label> <!-- <En>entangle</En> -->
+  <Entangle_NPC.description>Na krátkou dobu znehybní cíl. Pozor, spoutaní nepřátelé stále mohou útočit ze své pozice.</Entangle_NPC.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <FireBreath.label>ohnivý dech</FireBreath.label> <!-- <En>fire breath</En> -->
+  <FireBreath.description>Zapálí cíl.</FireBreath.description> <!-- <En>Set the target on fire.</En> -->
+
+  <Heal_NPC.label>léčení</Heal_NPC.label> <!-- <En>heal</En> -->
+  <Heal_NPC.description>Obnoví část zdraví.</Heal_NPC.description> <!-- <En>Restore some health.</En> -->
+
+  <Pull.label>přitažení</Pull.label> <!-- <En>pull</En> -->
+  <Pull.description>Přitáhne cíl k tobě.</Pull.description> <!-- <En>Pull someone towards you.</En> -->
+
+  <Push_NPC.label>odstrčení</Push_NPC.label> <!-- <En>push</En> -->
+  <Push_NPC.description>Odstrčí cíl od tebe.</Push_NPC.description> <!-- <En>Push someone away from you.</En> -->
+
+  <RandomMagicWall.label>magická zeď</RandomMagicWall.label> <!-- <En>magic wall</En> -->
+  <RandomMagicWall.description>Vyvolá magickou zeď poblíž cíle.</RandomMagicWall.description> <!-- <En>Spawn a magic wall near the target.</En> -->
+
+  <Strike_NPC.label>úder</Strike_NPC.label> <!-- <En>strike</En> -->
+  <Strike_NPC.description>Způsobí poškození cíli.</Strike_NPC.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <SummonPhantom.label>vyvolání fantoma</SummonPhantom.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantom.description>Vyvolá smrtícího fantoma.</SummonPhantom.description> <!-- <En>Summon a deadly phantom.</En> -->
+
+</SpecTranslations>

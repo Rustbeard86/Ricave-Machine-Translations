@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>لعب</Play> <!-- <En>Play</En> -->
+  <Quit>خروج</Quit> <!-- <En>Quit</En> -->
+  <Loading>جاري التحميل</Loading> <!-- <En>Loading</En> -->
+  <Resume>استئناف</Resume> <!-- <En>Resume</En> -->
+  <Options>خيارات</Options> <!-- <En>Options</En> -->
+  <Mods>تعديلات</Mods> <!-- <En>Mods</En> -->
+  <Credits>شكر وتقدير</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>اختر اللغة</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>الموت وإعادة البدء</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>الموت والعودة إلى الردهة</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>حفظ والخروج من اللعبة</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>إغلاق</Close> <!-- <En>Close</En> -->
+  <Back>رجوع</Back> <!-- <En>Back</En> -->
+  <Days>{0} أيام</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} ساعات</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} دقائق</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>يوم واحد</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>ساعة واحدة</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>دقيقة واحدة</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>هناك شيء ما يسبب أخطاء.\nراجع ملف السجل لمزيد من المعلومات.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>تم تسجيل الدخول إلى Steam</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>لم يتم تحديد أي تعديل</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>الوصول المبكر</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>لعبة Ricave قيد التطوير حاليًا.\n\nأحاول باستمرار إضافة المزيد من المحتوى، وإعادة موازنة الأمور، وإزالة الآليات غير الممتعة، وجمع الملاحظات، لكن ربما لا يزال هناك شيء فاتني. إذا وجدت اللعبة صعبة جدًا أو سهلة جدًا، أو واجهت خطأ، أو كانت لديك فكرة رائعة لتحسين أو إضافة ميزة جديدة، فيرجى المشاركة في عملية التطوير ومشاركة أفكارك على قناتنا في Discord أو Twitter.\n\nشكرًا واستمتعوا!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>تم تحديث اللعبة</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>تم تحديث Ricave إلى الإصدار {0}!\n\nقد يكون تقدمك الحالي متوافقًا أو غير متوافق مع الإصدار الجديد. هل تريد التخلي عن تقدمك الحالي والعودة إلى الردهة؟</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>رفع إلى Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>جاري الرفع</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>تعذر الرفع إلى Steam: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>تم الرفع بنجاح إلى Steam.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>رسالة</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>الدقة</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>ملء الشاشة</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>مقياس واجهة المستخدم</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>مجال الرؤية</FOV> <!-- <En>FOV</En> -->
+  <VSync>مزامنة رأسية</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>معدل الإطارات المستهدف</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>إظهار الإطارات في الثانية</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>عكس المحور Y</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>ربط المفاتيح</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>مستوى الصوت</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>مستوى صوت الموسيقى</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>حساسية الفأرة</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>حساسية المؤشر</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>جودة SSAO</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>جودة الظلال</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>تقليل الدقة</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>المخطط التفصيلي</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>الحد الأقصى للأضواء</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>إيقاف</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>منخفض</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>عادي</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>مرتفع</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>منخفض</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>عادي</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>مرتفع</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>بدون (أفضل جودة)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5x (جودة أسوأ)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (أسوأ جودة)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>متعدد المسارات دائري</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>متعدد المسارات</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>مسار واحد (موصى به)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>موافق</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>استعادة الإعدادات الافتراضية</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>إعادة تعيين حالة اللعبة</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>العودة إلى الردهة</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>إعادة تعيين كل التقدم</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>هل أنت متأكد من أنك تريد العودة إلى الردهة؟\n\nعلى عكس العودة إلى الردهة أثناء اللعب، فإن استخدام هذا الخيار هنا يعني أنك ستفقد تقدمك في جولتك الحالية. لن تفقد التقدم العام في الردهة (ستبقى مهامك السابقة والغبار النجمي كما هي).\n\nاستخدم هذا الخيار إذا كان ملف الحفظ الخاص بك تالفًا، على سبيل المثال بعد تثبيت تحديث غير متوافق.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>هل أنت متأكد من أنك تريد إعادة تعيين كل التقدم؟\n\nسيؤدي هذا إلى مسح جميع بياناتك وستبدأ من البداية.\n\nاستخدم هذا الخيار فقط إذا كنت ترغب في تجربة اللعبة من الصفر، أو إذا كانت بيانات تقدمك تالفة.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>اضغط على مفتاح لتعيينه إلى:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>لا شيء</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>الفيديو</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>الواجهة</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>الصوت</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>متفرقات</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>الجودة</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>لا</No> <!-- <En>No</En> -->
+  <Yes>نعم</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>ادخل الزنزانة</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>ادخل الزنزانة ببذرة</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>ادخل غرفة التدريب</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>أدخل البذرة</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>التقدم معطل</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>أعلى نتيجة</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>الطابق الذي تم الوصول إليه</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>متوسط الطوابق</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>محاولات</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>إجمالي القتلى</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>المهام</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>الإحصائيات</Stats> <!-- <En>Stats</En> -->
+  <Cancel>إلغاء</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>قبول</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>اقبل المهمة</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>مطالبة</Claim> <!-- <En>Claim</En> -->
+  <Postpone>تأجيل</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>مغلق</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>أفضل الأسعار فقط!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>هل تحتاج إلى ترقيات؟</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>هل لديك غبار نجمي؟</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>انقر لقراءة المزيد</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>اختر لقراءة المزيد</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>مُعدِّلات الزنزانة عند القبول</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>المكافآت</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} قطعة أحجية</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>يُفتح عند المستوى {0}</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>يُفتح بإنهاء المهمة</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>ضع</Place> <!-- <En>Place</En> -->
+  <PickUp>التقط</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>اضغط [ShowInventory] لفتح قائمة المتجر.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>لا شيء</None> <!-- <En>None</En> -->
+  <CompletedQuests>المهام المكتملة</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>مكتمل</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>التحدي اليومي</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>لديك محاولة واحدة - استغلها جيدًا!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>كل يوم، يلعب اللاعبون حول العالم بنفس بذرة الزنزانة. لديك فرصة واحدة فقط في اليوم.\n\nالقواعد:\n  - صعوبة عادية\n  - التعزيزات معطلة\n  - فئة وسمات عشوائية\n  - المهام معطلة\n  - التقدم معطل\n  - زنزانة معقدة لا نهائية (بلا حد للطوابق)\n\nلا يمكنك جمع الغبار النجمي في هذه الزنزانة ولن يتم احتسابه ضمن إحصائياتك، لكنك ستحصل على {0} مقابل المشاركة.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>التحدي التالي خلال: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>أفضل نتيجة لك (كل الأيام): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>ابدأ التحدي اليومي</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>لقد لعبت تحدي اليوم بالفعل\nكانت نتيجتك: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>عطّل التعديلات أولاً</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>يُفتح عند المستوى {0}</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>عرض لوحة الصدارة لليوم</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>عالمي</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>الأصدقاء</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>ترتيبك: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>جاري تحميل لوحة الصدارة...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>فشل تحميل لوحة الصدارة.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>لا توجد بيانات للوحة الصدارة.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>لم يلعب أي من أصدقائك هذا التحدي بعد.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>المهام النشطة</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>نشطة</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>المهام المتاحة</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>متاحة</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>المهام التاريخية</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>تاريخية</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>اضغط [Wait] للمتابعة</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>مهمة</Quest> <!-- <En>Quest</En> -->
+  <Runs>جولات</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>مهمة واحدة متاحة</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} مهام متاحة</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>استخدم سجل المهام لقبول المهام.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>اسم اللاعب</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>الصعوبة</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>الأعداء</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>الزعماء</Bosses> <!-- <En>Bosses</En> -->
+  <Train>تدريب</Train> <!-- <En>Train</En> -->
+  <EnterNewName>أدخل اسمًا جديدًا</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>صحة العدو</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>الصحة المبدئية</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>النتيجة</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>أعداء إضافيون</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>خبز لكل طابق</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>جرعات صحة لكل طابق</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>مستوى العدو</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>غنيمة الذهب لكل طابق</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>غبار النجوم</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>بلورات الشفاء</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>بلورات شفاء صغيرة</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>بلورات المانا</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>بلورات مانا صغيرة</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>عدد الأعداء</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>جرعات صحة ابتدائية</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>تهانينا!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>تهانينا!\n\nكانت نتيجتك النهائية: {0}\n\nعلى الرغم من أن سلسلة المهام الرئيسية قد انتهت، قد لا يزال هناك الكثير من الأشياء التي يمكنك اكتشافها.\n\nإذا استمتعت باللعبة، فكر في الانضمام إلى خادم الديسكورد الخاص بنا على {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>سعر السمات التالية</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>عليك فتح هذه السمة أولاً.\n\nيمكنك شراء سمة عشوائية بغبار النجوم. كلما زاد عدد السمات التي لديك، زادت تكلفة شراء السمة التالية.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>أعلى طابق وصلت إليه بهذه السمة: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>يمكنك اختيار سمتين فقط كحد أقصى.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>ليس لديك ما يكفي من غبار النجوم.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>انقر لتحديد أو إلغاء تحديد هذه السمة.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>حدد أو ألغِ تحديد هذه السمة.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>انقر للتحديد أو إلغاء التحديد.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>حدد أو ألغِ التحديد.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>شراء {0} سمات عشوائية</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>السمات المختارة</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>هل تريد حقًا شراء {1} سمات عشوائية مقابل {0}؟</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>ابدأ بـ {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>اعثر على {0} ذهب إضافي</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>اعثر على {0} ذهب أقل</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>أقصى نقاط صحة</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>أقصى مانا</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>أقصى قدرة تحمل</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>{0} ليس عدائياً</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>{0} عدائي</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>مقاومة للسم بنسبة {0}</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>ضعف ضد السم بنسبة {0}</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>حصانة ضد السم</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>لا يوجد ضرر من السقوط</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>ضرر السقوط {0}</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>مقاومة للنار بنسبة {0}</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>ضعف ضد النار بنسبة {0}</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>مقاومة للسحر بنسبة {0}</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>ضعف ضد السحر بنسبة {0}</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{0} ضرر لـ {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>تتجدد القدرة على التحمل أبطأ بـ {0} مرة</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>تتجدد القدرة على التحمل أبطأ بمرتين</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>ألحق {0} ضرر إضافي عندما تكون نقاط الصحة أقل من {1}</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>اكسب {0} نقاط صحة قصوى أقل لكل مستوى</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>اكسب {0} نقاط صحة قصوى إضافية لكل مستوى</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>ضوضاء المشي {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>اكسب {0} مانا لكل قتيل يستحق</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>اكسب {0} نقاط صحة لكل قتيل يستحق</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>اخسر {0} نقاط صحة لكل قتيل يستحق</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>خانات المخزون {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>أقصى نقاط صحة ×{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>{0} ضرر للزعماء</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>معدل الشفاء {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>حصانة ضد {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>حصانة ضد الدفع</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>معدل الجوع {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>أسعار المتاجر {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>يمكنه الطيران</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>اكسب {0} خبرة إضافية</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>اكسب {0} خبرة أقل</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>نقاط الخبرة المحتفظ بها من الجولة الأخيرة</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>الذهب المحتفظ به من الجولة الأخيرة</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>جولة واحدة متبقية</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>{0} جولات متبقية</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>ابدأ</StartNewRun> <!-- <En>Start</En> -->
+  <Character>الشخصية</Character> <!-- <En>Character</En> -->
+  <Traits>السمات</Traits> <!-- <En>Traits</En> -->
+  <Boosts>التعزيزات</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>الطوابق</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} طوابق</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>غرف لكل طابق</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>افتح مقابل {0}</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>اكتمل على صعوبة</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>زعماء صغار</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>ملاجئ</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>الأرواح المنقذة</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>انتصارات</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>هزائم</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>زعيم {0}</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>تتصادم مع</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>المظاهر تجميلية بحتة وليس لها أي تأثير على اللعب، ما لم يُذكر خلاف ذلك.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>هل تريد شراء {0} مقابل {1}؟</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>لا يمكنك شراء هذا المظهر.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>السعر</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>تحذير: هذا المظهر سيجعل {0} معاديًا لك</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>معدلات زنزانة إضافية</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>وقتك مستعار.\nأنا فقط أحصّل ديني.\nبكل تأكيد، استمر في الركض.\nفي النهاية، ستجد المخرج.\nأنا فقط خلفه مباشرة.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>عدو غير مكتشف</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} نقاط صحة</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} مانا</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} قدرة تحمل</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} إلى {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>نُصِب له كمين</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>من الأعلى</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>من الصد</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>انتشار الضرر</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>غير محدد</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>ملعون</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>ملعون</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>دور واحد</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} أدوار</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>استخدام واحد</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} استخدامات</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>شحنة واحدة</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} شحنات</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>ماسة واحدة</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} ماسات</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 غبار النجوم</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} غبار النجوم</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>خلية واحدة</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} خلايا</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 ذهب</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} ذهب</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}ذ</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>اضغط [Accept] للمتابعة</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>اضغط [Accept] للمتابعة إلى الردهة</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>اضغط [Wait] لإعادة التشغيل</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>لا توجد خيارات</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>تحذير: قد يكون هذا العنصر {0}.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>تحذير: هذا العنصر {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>لا يمكنك خلع العناصر {0} (بدون لفافة إزالة اللعنة).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>ذهب</Gold> <!-- <En>Gold</En> -->
+  <Leave>مغادرة</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>يتحرك مرتين في كل دور</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>يتحرك {0} مرات في كل دور</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>يتحرك كل دورين</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>يتحرك مرة كل {0} أدوار</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>لا يجوع</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>يجوع أسرع بمرتين</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>يجوع أسرع بـ {0} مرات</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>يجوع أبطأ بمرتين</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>مضاعف معدل الجوع: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>ارمي {0} ذهب</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>فرصة {0}</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>بقيمة {0} أدوار</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>نصف القطر {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>الخريطة بأكملها</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>عبر الجدران</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>حول الهدف</AroundTarget> <!-- <En>around target</En> -->
+  <Used>مستخدم</Used> <!-- <En>Used</En> -->
+  <Waiting>انتظار</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>تمت المقاطعة</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>موقع</Location> <!-- <En>spot</En> -->
+  <StopTargeting>إيقاف الاستهداف</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>اكتملت المهمة</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>اطلب مكافأتك عند عودتك إلى الردهة</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>ثابت</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>خطوة واحدة</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>هل تريد شراء {0} مقابل {1}؟</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>هذه مكافأة تستخدم لمرة واحدة وتنطبق فقط على محاولتك التالية.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>شراء</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>متاح خلال {0}</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>هذا هو السلاح الأصلي لهذه الشخصية.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>اختر تعويذة جديدة.\n\nيمكنك اختيار تعويذة جديدة في كل مرة ترتقي فيها بمستواك.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>تم قتل {0}</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>نصيحة: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>استخدم [MoveForward][MoveLeft][MoveBack][MoveRight] للتحرك. اضغط على [ShowInventory] لفتح المخزون. استخدم [Interact] للتفاعل مع الأشياء. قم بالدوران باستخدام [RotateLeft] و [RotateRight]. اضغط باستمرار على [Inspect] للتفحص. اضغط على [Wait] لانتظار دور.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>ينتظر</Waits> <!-- <En>Waits</En> -->
+  <Wait>انتظر</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>ينتظر (سكران)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>ينتظر (مذعور)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>ينتظر ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>يستيقظ</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>أين؟!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>بلا أذرع</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>بلا أرجل</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>عدائي</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>أجزاء جسد مفقودة</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>شخص ما يراك</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>الزعيم لا يزال حيًا</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>لا توجد مانا كافية ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>لا توجد قدرة تحمل كافية ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>فترة تهدئة ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>اقترب أكثر</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>هدف غير صالح</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>خارج النطاق</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>لا يوجد خط رؤية</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>تحتاج إلى {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>لا يمكن الوصول</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>المخزون ممتلئ</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>تحتاج إلى بلورتين متماثلتين</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>تحتاج إلى روح</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>تحتاج إلى مجرفة</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>استخدم المجرفة</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>تحتاج إلى معول</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>استخدم المعول</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>بعض أعضاء الفريق بعيدون جدًا</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>الباب مسدود</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>التابع {0} موجود بالفعل</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} الآن لك</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} الآن</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} الآن لك</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>{0} ضرر لكل دور</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{0} ضرر لكل {1} دور</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} لكل دور</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} لكل {1} دور</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>الكل</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} لك</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>أو</Or> <!-- <En>or</En> -->
+  <And>و</And> <!-- <En>and</En> -->
+  <Score>النقاط</Score> <!-- <En>Score</En> -->
+  <FloorReached>الطابق الذي تم الوصول إليه</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>القتلى</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>وقت اللعب</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>القتلى</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>تقييم القتال</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>الزعماء المقتولون</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>عناصر الردهة المجمعة</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>المكافأة التالية عند المستوى {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}ي</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}س</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}د</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>لا شيء</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>رقم قياسي جديد!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>والمزيد</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>البذرة: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>مُعدِّل واحد</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} مُعدِّلات</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>راهن بـ {0} ذهب</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>تعليمات</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>الزعماء المقتولون</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>المهام المكتملة</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>الملاحظات التي تم العثور عليها</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>الصناديق المفتوحة</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>العناصر المصنوعة</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>شائع</Common> <!-- <En>Common</En> -->
+  <Uncommon>غير شائع</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>نادر</Rare> <!-- <En>Rare</En> -->
+  <Epic>ملحمي</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>غير معروف</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>عنصر ردهة (دائم)</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>ردهة</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>تعرض للأذى</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>نار قريبة</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>ضوضاء عالية</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>استيقظ حليف قريب</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>خطوات عدائية</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>مرور حليف متيقظ</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>باب مركل</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>إخفاق</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} إخفاق</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} ضربة حرجة</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>حرجة</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>ضربة حرجة</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>مشحونة</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>الوصفات المتاحة</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>انتظر {0}</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>إرجاع {0}</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>لديك {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>صغير {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>زعيم {0}</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>يبدو أنك في نوع من الزنزانات...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>أنت لا تعرف أين أنت بالضبط، أو حتى كيف انتهى بك المطاف هنا.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>كل شيء من حولك يبدو حالمًا بعض الشيء. في نفس الوقت، يبدو واقعيًا جدًا ليكون مجرد حلم.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>تبدأ ببطء في تذكر شيء ما. على الأقل أنت تعرف اسمك.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>اسمك هو:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>لقد لاحظت للتو شخصًا على مسافة، لكنك لمحت ظله فقط. من الأفضل أن تذهب لتتحقق من الأمر.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>تفتح عينيك ببطء...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>تستيقظ في مستشفى.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"لقد استيقظ!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"ماذا حدث؟"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"ذهبت في نزهة مع أصدقائك وتعرضت لإصابة خطيرة في الرأس."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"لقد وجدك المنقذون في الوقت المناسب. تحتاج إلى الراحة واستعادة قوتك."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"أين مايا؟"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"من هي مايا؟"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"لقد وجدتني أولاً. هل هي بخير؟"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"قد تعاني من بعض الارتباك، لكنك ستتعافى قريبًا."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>أنت في حيرة، لكن لديك هذا الشعور الغريب بالإنجاز. كما لو أنك تغيرت بطريقة ما.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>تغمض عينيك وتأخذ نفسًا عميقًا، متخيلًا دفء الشمس على وجهك. يملأ الهواء النقي رئتيك ولا يمكنك إلا أن تبتسم.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>شكرًا للعب النسخة التجريبية!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>تم إنشاؤها بواسطة</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>فن خلفية القائمة الرئيسية بواسطة</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>الموسيقى بواسطة</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>الشعار بواسطة</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>نماذج الشخصيات بواسطة</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>المؤثرات الصوتية مقدمة من</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>شكرًا للعب!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>الغابة... أصبت! بدأت تتذكر ما حدث قبل وصولك إلى هنا. يوم صيفي دافئ، والطيور تغني، وجبال جميلة في الأفق - ذهبت في نزهة مع أصدقائك. ولكن بعد ذلك، لفت شيء ما انتباهك. تتذكر أنك انفصلت عن المجموعة. ولكن لماذا؟</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>الكهف! تركت مجموعتك بعد سماع شخص يصرخ طلبًا للمساعدة. معتقدًا أنه كان متنزهًا آخر في ورطة، تتبعت الصوت إلى كهف. في الداخل، انزلقت وسقطت، وكسرت ساقك. ناديت، لكن لم يجب أحد. وحيدًا ومصابًا، بدأ أملك في التلاشي...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>جلست وحيدًا في ذلك الكهف لساعات. عندما حل الليل وبدأ المطر يهطل، كدت تفقد كل أملك. بعد ما بدا وكأنه دهر، رأيت ضوءًا عند مدخل الكهف. كانت... مايا! لقد شعرت بارتياح كبير!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>كنت سعيدًا جدًا برؤية مايا. مدت يدها لسحبك، وللحظة، بدا وكأنك ستنجو. لكن المطر المتواصل جعلها تنزلق وسقطتما معًا، واصطدمتما بالصخور بقوة مؤلمة. بعد ذلك، ساد الصمت كل شيء.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>تجهيز</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>صناعة</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>تحديد الهوية</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>الاسم</Name> <!-- <En>Name</En> -->
+  <Level>المستوى</Level> <!-- <En>Level</En> -->
+  <Experience>الخبرة</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>XP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>هجوم</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>شاهد كل العناصر التي جهزتها حاليًا.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>شاهد كل الوصفات التي يمكنك استخدامها لصناعة عناصر جديدة. قد يكون ذلك مفيدًا إذا كنت بحاجة إلى إزالة لعنة أو شفاء طرف مفقود.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>شاهد كل العناصر مجهولة الهوية في مخزونك.\n\nيتم تحديد هوية كل عنصر ببطء مع مرور الوقت (إلا إذا كنت جائعًا). سيتم تحديد هوية العنصر الموجود في أعلى القائمة أولاً.\n\nاسحب وأفلت لإعادة الترتيب.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>ليس لديك أي عناصر مجهولة الهوية</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>هذه هي قائمة انتظار تحديد الهوية الخاصة بك. اسحب وأفلت لتحديد العنصر الذي سيتم تحديد هويته تاليًا مع مرور الوقت. يمكنك أيضًا تحديد هوية العناصر عند المتجولين.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>صناعة</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>مجاور</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>ستخسر التعزيزات التي اشتريتها</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>سيد الكوابيس</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>هيبنوراك</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>فانتاسموس</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>نقاط المهارة المتاحة</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>المهارات المفتوحة</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>الإنجازات المفتوحة</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Cancel] للإلغاء</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC للإلغاء</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>الأعداء</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>الأعضاء المعروفون</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>أنت هنا</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>إذا اخترت هذا الطريق، ستحصل على ما يلي</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>إلى أين تذهب؟</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>المزيد من الأعداء</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>أعداء أقل</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>أعداء عاديون</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>المزيد من الذهب</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>ذهب أقل</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>ذهب عادي</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>عدد الأعداء</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>غنائم الذهب</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>بلورة</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>بلورة {0}</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>شفاء {0} نقطة صحة</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>هذه الحركة ستجعلك تسقط في الحفرة. هل تريد فعل ذلك حقًا؟\n\nستسقط في مكان عشوائي في الطابق السفلي وستفقد بعض نقاط الصحة. لا يمكنك العودة.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>هذه الحركة ستنهي جولتك. هل تريد فعل ذلك حقًا؟</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Rewind] للترجيع</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>تذكر أن تفحص محيطك باستخدام [Inspect].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>اهرب!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>مكافأة</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>ما هذا المكان؟ يجب أن أجد طريق الخروج...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>في كل مرة آتي إلى هنا، يتغير هذا السرداب. ولكن لماذا؟</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>كل خطوة تبدو مألوفة بشكل غريب، وكأنني كنت هنا من قبل.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>هناك شيء ما في الأمام، يمكنني الشعور به.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>هل فزت للتو في معركة أم فهمت شيئًا ما؟</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>أشعر أن كل شيء قاد إلى ما هو آت.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>أشعر... كأن عبئًا قد أُزيل عن عقلي. غريب.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>ما الذي يستغرقك كل هذا الوقت؟</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>ماذا كان ذلك؟</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>لقد مت</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>لقد هربت</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>اكتملت الجولة</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>ابحث عن الرافعة\nلفتحها</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>اتبع التعليمات\nلفتحها</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>مساعدة</Help> <!-- <En>Help</En> -->
+  <HelpMe>ساعدني</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>إلى هنا</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>استمر بالضغط على [Inspect] للقراءة</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>المهام الرئيسية</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>المهام الجانبية</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>مهام إضافية</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>يمكنك قبول وتأجيل المهام في الردهة.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>لاحظ أن بعض المهام لا يمكن إكمالها إلا في السراديب التي تحتوي على عدد كافٍ من الطوابق.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>افتح السرداب التالي</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>صل إلى نهاية الطابق {0} من هذا السرداب لفتح السرداب التالي.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>اعثر على قطعة الأحجية</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>اعثر على قطعة الأحجية التالية في الطابق {0}. لديك حاليًا {1}/{2} منها.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>إنقاذ الأرواح</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>هناك روح واحدة في هذا السرداب. حررها بإحضارها إلى الملجأ.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>هناك {0} أرواح في هذا السرداب. حررهم بإحضارهم إلى الملجأ.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>تحذير: سيتم ترك هؤلاء الأتباع خلفك</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>اختر تعويذتك</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>اختر تعويذتك ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>تعويذة جديدة</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>شريط الاختصارات والتعاويذ</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>تُفتح في المستوى {0}</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>لقد جمعت غبار النجوم - عملة ثمينة!\n\nيمكن إنفاق غبار النجوم في الردهة لشراء تعزيزات لجولاتك القادمة وفتح غرف خاصة.\n\nكل العناصر التي تحمل علامة \"عنصر ردهة\" يتم نقلها إلى الردهة. يتم فقدان جميع العناصر الأخرى عند انتهاء الجولة.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>قطع الأحجية، تمامًا مثل غبار النجوم، هي عناصر ردهة دائمة.\n\nاجمع كل القطع الـ{0} عبر جولات مختلفة لفتح غرفة سرية في الردهة.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>لديك رفيق.\n\nكلما تحركت، سيقوم روكو بجمع العملات الذهبية تلقائيًا من المربعات المجاورة لك.\n\nقطعة جبن واحدة تجعل روكو يتبعك لجولة واحدة فقط.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>لديك الآن أعضاء في الفريق.\n\nيمكنك التبديل بينهم وإدارة مخزونهم بشكل منفصل. يأخذ كل عضو في الفريق دوره بشكل مستقل.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>الحد الأقصى لنقاط الصحة +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>الضربة الحاسمة +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>الإخفاق -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% نار</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>ركلة</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>يمكن لهذه الشخصية ركل الأشياء.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>هناك قطعة ذاكرة في هذا الطابق</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>ابحث عنها</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>بحث</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>العناصر المكتشفة</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>المخلوقات المكتشفة</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>يُظهر السجل العناصر والمخلوقات في حالتها النموذجية غير الملعونة. قد تختلف العناصر/المخلوقات الفعلية.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>تحدي يومي</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>الفئة</Class> <!-- <En>Class</En> -->
+  <NoClass>بلا فئة\n\nالتأثيرات:\n- شهرة ومجد</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>تُفتح في المستوى {0}</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>التأثيرات</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>القدرات: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>الحد الأقصى لنقاط الصحة</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>الحد الأقصى للمانا</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>الحد الأقصى للقدرة على التحمل</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>ضرر {0} للموتى الأحياء (هيكل عظمي، مومياء، إلخ.)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>مقاومة للنار بنسبة {0}</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>ضعف ضد النار بنسبة {0}</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>معدل الجوع {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>لا تفعل ألواح الضغط</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>محصن ضد السم</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>محصن ضد الدفع</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>الكلاب معادية</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>ضوضاء المشي {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>أعلى طابق وصلت إليه بهذه الفئة: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>أعلى طابق وصلت إليه بدون فئة: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} يتلقى {1} ضررًا من نوع {2}</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} يتلقى {1} ضررًا من نوع {2} ويموت</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} نقطة خبرة</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>لا يتلقى {0} أي ضرر من نوع {1}</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} يستعيد {1} نقطة صحة</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} يتلقى {1} ضررًا من نوع {2}</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} يتلقى {1} ضررًا من نوع {2} ويتم تدميره</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>لا يتلقى {0} أي ضرر من نوع {1}</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} يستعيد {1} نقطة صحة</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>تم تدمير {1} الخاص بـ{0}</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} يصد {1} ضررًا من نوع {2}</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} يعكس {1} ضررًا من نوع {2} على {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>تم دفع {0}</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>تم سحب {0}</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} يكتسب حالة جديدة: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} يكتسب تأثيرًا جديدًا: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>تم استعادة {1} لـ{0}</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>تم استعادة {1} لـ{0}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>تم استعادة {1} لـ{0}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>تم تحديد هوية {0}</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>تأثير {0} يتلاشى</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>تأثير {0} يتلاشى</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} يلتقط {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>لقد كان {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>إنه {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} هو {1}! (تحتاج إلى العثور على لفافة إزالة اللعنة أو صناعتها)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>لقد أصبح {0} الخاص بك {1}!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>تمت إزالة اللعنة من {0}</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} ينتقل إلى موقع عشوائي</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} ينتقل فوريًا</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} تفتح. الآن ابحث عن المخرج.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} تفتح</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>بوابة تغلق خلفك</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} يصدر أزيزًا ولكن لا يبدو أن له أي تأثير</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>أنت تتضور جوعًا</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>أنت جائع</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>لقد اشتريت {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>ارتقاء المستوى!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>يمكنك اختيار تعويذة جديدة.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>ارتقاء المستوى</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>تم إلغاء تأثير الدرع لأنك أذيت {0}</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} يستيقظ</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>{0} في المجموع</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>لقد ضحيت بنفسك</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>لقد فزت</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>لقد خسرت</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>لقد أكملت التجربة وحصلت على {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>لقد حللت لغز الرموز وحصلت على {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>لقد أنقذك {0}</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{1} أنقذ {0}</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>لقد فشلت في التجربة</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>تم استنساخ {0}</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>تم تدمير {0}</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>لم يعد هناك شيء هنا</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>لقد اصطدت {0}</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>سيتم تفعيل {0} خلال {1}</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>لقد حصلت على {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>تمثال الشيطان يقبل {0} خاصتك ويمنحك {1}</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} يحصل على {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} يخطئ</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>ظهر {0} في مكان قريب</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} يعطي {1} إلى {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>أصبح فصيل {0} عدائيًا</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>ليس لديك كل المكونات</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>هذا العنصر لا يناسب هذه الخانة</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} سرق {1} من {2}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>لقد جمعت {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>لقد اكتسبت نقطة مهارة! افتح المخزون لإنفاقها.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>لقد حررت {0} وحصلت على {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>تمت ترقية مستوى {0}</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>لا يمكنك خلع عنصر ملعون</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} يصنع {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>استخدام على النفس</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>استخدام على...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>شُرب</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>رمي...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>أكل</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>رمي...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>نصب فخ...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>رمي...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>زراعة...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>استخدام على النفس</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>هجوم...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>إلقاء على النفس</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>إلقاء على...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>ملء بـ...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>إغلاق الباب...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>تقييد نفسك</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>تقييد...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>وضع...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>التقاط...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>صيد سمك...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>تعدين...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>تحدث...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>سحر</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>حفر...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>ركل نفسك</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>ركل...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} يهاجم نفسه بـ {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0} يهاجم {2} بـ {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0} يستخدم {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0} يستخدم {1} على {2}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0} يشرب {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0} يرمي {1} على {2}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0} يستخدم {1} على نفسه</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0} يستخدم {1} على {2}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} يرمي {1} على {2}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0} يفتح {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0} يغلق {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0} ينبش {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0} يشرب من {1}</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0} يسحر العتاد عند {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} ينزل الدرج</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} يصعد الدرج</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0} يسحب {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0} يتلقى مباركة عند {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0} يأكل {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0} ينصب {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0} يسبح في {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0} يحترق في {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0} يخطو على {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} ينتقل آنيًا</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0} يرمي {1} على {2}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0} يزرع {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0} يلقي {1} على نفسه</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0} يلقي {1} على {2}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0} يملأ {1} بالماء</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0} يغلق {2} بالألواح</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} يقيد نفسه في عمود</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0} يقيد {2} في عمود</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0} يضع {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0} يلتقط {2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} يضمد جراحه</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0} يضمد جراح {2}</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} يجري عملية جراحية</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0} يجري عملية جراحية على {2}</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0} يفتش {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0} يقامر عند {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0} يضغط على {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0} يبدأ تحديًا عند {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0} يستنسخ عنصرًا عند {1}</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0} يصطاد سمكة عند {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} يطفئ نفسه</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0} يطفئ {2}</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0} يبحث في {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} يفتش {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} ينام في {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} يعدن {2} بـ {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} يتحدث مع {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} يسحر عنصرًا بـ {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} يحفر {2} بـ {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} يقدم طرفًا عند {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} يستدعي شبحًا عند {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} يحرر روحًا عند {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} ينظف {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} يكتسب نقطة مهارة عند {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} يركل نفسه</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} يركل {2}</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} يرقي العتاد عند {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} يقدم عنصرًا ملعونًا إلى {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>أعلى</Up> <!-- <En>up</En> -->
+  <Down>أسفل</Down> <!-- <En>down</En> -->
+  <North>شمال</North> <!-- <En>north</En> -->
+  <South>جنوب</South> <!-- <En>south</En> -->
+  <West>غرب</West> <!-- <En>west</En> -->
+  <East>شرق</East> <!-- <En>east</En> -->
+  <NorthWest>شمال غرب</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>شمال شرق</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>جنوب غرب</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>جنوب شرق</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>أعلى-شمال</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>أعلى-جنوب</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>أعلى-غرب</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>أعلى-شرق</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>أعلى-شمال غرب</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>أعلى-شمال شرق</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>أعلى-جنوب غرب</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>أعلى-جنوب شرق</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>أسفل-شمال</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>أسفل-جنوب</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>أسفل-غرب</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>أسفل-شرق</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>أسفل-شمال غرب</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>أسفل-شمال شرق</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>أسفل-جنوب غرب</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>أسفل-جنوب شرق</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>بداية</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>نهاية</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>رافعة</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>سلم</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>زعيم</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>فرصة كمين</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>لم تراك هذه الشخصية في الدور السابق، لذا ستلحق بها ضررًا إضافيًا بنسبة {0} إذا هاجمتها الآن.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>فوقك</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>هذه الشخصية فوقك حاليًا، مما يعني أنها ستلحق بك ضررًا إضافيًا بنسبة {0} إذا أصابتك من هذا الموضع.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>أدناك</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>هذه الشخصية أدناك حاليًا، مما يعني أنك ستلحق ضررًا أكبر بنسبة {0} إذا ضربتها من هذا الموضع.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>لا يمكنه رؤيتك</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>هذه الشخصية لا تراك (لا يمكنها الرؤية لمسافة بعيدة مثلك). لكن احذر - قد تتذكر موقعك الأخير وتريد التحقق منه!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>ساقط</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>هذه الشخصية في حالة سقوط، ما يعني أنها ستقضي دورها التالي في السقوط بدلاً من القيام بأي فعل.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>تأثير غير محدد</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>تأثير غير معروف. يأتي من عنصر غير محدد.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>أنت محاط بعدوين على الأقل، مما يعني أنك ستلحق ضررًا أكبر بنسبة {0} بهذه الشخصية إذا ضربتها من هذا الموضع.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>تأثير غير محدد</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>تأثير غير معروف. يأتي من عنصر غير محدد.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nهذا هو الوقت الحالي داخل اللعبة. الدقيقة الواحدة تمثل دورًا واحدًا.\n\nاللعبة بأكملها قائمة على نظام الأدوار. معظم الإجراءات تستغرق دورًا واحدًا لإكمالها مثل المشي أو شرب جرعة أو الهجوم أو التفاعل مع الأشياء.\n\nإجمالي الأدوار المنقضية: {2}.\nفي هذا الطابق: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>هذه هي نقاط صحة شخصيتك.\n\nقد تزيد بعض العناصر من الحد الأقصى لنقاط صحتك. كل مستوى يمنحك {0} إلى الحد الأقصى لنقاط الصحة.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>إذا لم تكن جائعًا أو تتضور جوعًا، فسيتم استعادة {0} من الصحة كل {1}.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>استعادة نقطة الصحة التالية في: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>أنت تفقد الصحة لأنها أعلى من الحد الأقصى.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>أنت تفقد المانا لأنها أعلى من الحد الأقصى.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>أنت تفقد القدرة على التحمل لأنها أعلى من الحد الأقصى.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>سيتم تحديد هذا العنصر بعد {0}. اسحب وأفلت لإعادة الترتيب.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>هذا العنصر {0}. ولكن، بفضل إدراكك الذي لا تشوبه شائبة، يمكنك معرفة أنه واحد مما يلي:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>العناصر مثل هذا تصبح محددة بشكل دائم بمجرد استخدامها.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>هذا العنصر {0}. يمكن أن يكون له تأثيرات غير معروفة وأن يكون {1} (لا يمكنك نزع العناصر الـ {1}). يمكن للجوالين مساعدتك في تحديده.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>هذا العنصر {0}. لا يمكنك نزع العناصر الـ {0} (بدون لفافة إزالة اللعنة).</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>تهانينا!;يمكنك فعلها!;لطالما آمنت بك!;أوشكت على الوصول!;أتمنى لو كنت بروعتك!;مثير للإعجاب!;استمر!;أنت الأفضل!;لقد فعلتها!;عمل رائع!;أنت رائع!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>مرحبًا بك في الطابق 1.\n\nتبدأ رحلتك من هنا، حتى لو لم تكن هذه المرة الأولى التي تقرأ فيها هذه اللافتة.\n\nقد تبدو بعض الأشياء صعبة في البداية، ولكن لا بأس بذلك. قبل كل شيء، يجب أن نتذكر - الخسارة ممتعة!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>مرحبًا بك في الطابق {0}.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>هنا، تتوقف كل روح لتجد طريقها.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>قُتل في {0}.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>عدد القطع الذهبية التي لديك في مخزونك. قد يكون هناك بعض الأشخاص المستعدين للمقايضة في هذه الزنزانة.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>سيظهر {0} التالي في</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>لن يظهر المزيد</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>يختفي في {0}.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>ينتشر في {0}.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>الإجراء التالي في {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>سيتم التفعيل في {0}.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>المصدر</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>المصدر: الصعوبة</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>موجود منذ</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>اضغط على [Fly]+[MoveForward] للصعود و[Fly]+[MoveBack] للنزول.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>اضغط باستمرار على [Fly] لركل الباب.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>اضغط على [Rewind] لإرجاع الزمن.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>استخدام هذا العنصر لا يستغرق دورًا.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>استخدام هذا العنصر يستغرق {0} من الدور.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>استخدام هذا العنصر يستغرق {0} أدوار.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>استخدام هذه التعويذة لا يستغرق دورًا.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>استخدام هذه التعويذة يستغرق {0} من الدور.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>استخدام هذه التعويذة يستغرق {0} أدوار.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>فعل هذا لا يستغرق دورًا.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>فعل هذا يستغرق {0} من الدور.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>فعل هذا يستغرق {0} أدوار.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>التفاعل مع هذا الكائن لا يستغرق دورًا.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>التفاعل مع هذا الكائن يستغرق {0} من الدور.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>التفاعل مع هذا الكائن يستغرق {0} أدوار.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>هذا الكائن قابل للاشتعال.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>يمكنك استخدامه فقط إذا لم يرك أحد.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>هذا الكائن هش (الانفجارات ستدمره).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>توقف تحديد الهوية لأنك جائع.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>انقر للالتقاط.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>انقر للتفاعل.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>انقر للشراء.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>تفاعل للالتقاط.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>تفاعل مع هذا الكائن.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>تفاعل للشراء.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>سيختفي هذا العنصر بعد النزول.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>هذا هو تقدمك نحو المستوى التالي. يمكنك اكتساب الخبرة بهزيمة الأعداء.\n\nالخبرة للمستوى التالي: {0}\nالمستوى الحالي: {1}\nإجمالي الخبرة: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>هذا هو مستواك الحالي. يمكنك رفع مستواك بهزيمة الأعداء.\n\nكل مستوى يمنحك {0} إلى الحد الأقصى لنقاط الصحة. بالإضافة إلى ذلك، في كل مرة ترفع فيها مستواك يمكنك اختيار تعويذة جديدة.\n\nالخبرة للمستوى التالي: {2}\nإجمالي الخبرة: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>هذا هو مستواك الحالي بناءً على إجمالي النقاط من جميع جولاتك. يمكنك اكتساب النقاط بهزيمة الأعداء والتقدم في اللعبة.\n\nالنقاط للمستوى التالي: {0}\nإجمالي النقاط: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>هذا هو مستوى الشبع الحالي لديك: {0}/{1}\n\nتحتاج إلى تناول الطعام بشكل دوري لإشباع جوعك وتجنب العواقب.\n\nبمجرد وصول مستوى الشبع إلى {2}، تصبح جائعًا - لن تستعيد صحتك أو تحدد هوية العناصر.\n\nبمجرد وصول مستوى الشبع إلى {3}، تصبح متضورًا جوعًا - لن تستعيد قدرتك على التحمل وستفقد صحتك ببطء مع مرور الوقت.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>هذا هو طابق الزنزانة الحالي. كلما نزلت إلى الأسفل، زادت صعوبة البقاء على قيد الحياة، ولكن زادت المتعة أيضًا!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>يمنح {0} خبرة</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>تحذير: إذا قُتل، سيصبح جميع أعضاء هذا الفصيل معادين.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>تكتيكات: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>ستتبعك هذه الشخصية إلى الطابق التالي.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>الحالات</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>سلاح</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>التعاويذ</Spells> <!-- <En>Spells</En> -->
+  <Talk>تحدث</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>عند الموت</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>ملبوس</Worn> <!-- <En>Worn</En> -->
+  <Inventory>المخزون</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>معلومات</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>تكلف {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>تكلف {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>هذه هي مانا شخصيتك.\n\nإلقاء التعاويذ واستخدام العناصر السحرية يكلف مانا. لا تتجدد المانا تلقائيًا بمرور الوقت، يمكن فقط إعادة تعبئتها عن طريق شرب جرعات المانا أو التفاعل مع بعض الكائنات الخاصة. شريط المانا يكون مخفيًا عندما لا يكون لديك أي تعاويذ.\n\nيمكنك اختيار تعويذة جديدة في كل مرة ترفع فيها مستواك.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>هذه هي قدرة تحمل شخصيتك.\n\nقد يتطلب استخدام بعض العناصر قدرة على التحمل. شريط القدرة على التحمل يكون مخفيًا عندما لا يكون لديك أي عناصر تتطلب قدرة على التحمل في مخزونك.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>إذا لم تكن متضورًا جوعًا، فستتجدد {0} من القدرة على التحمل كل {1}.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>ستتجدد القدرة على التحمل التالية في: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>اختر تعويذة جديدة. يمكنك اختيار تعويذة جديدة في كل مرة ترفع فيها مستواك.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>يهرب عند انخفاض الصحة</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>تتيح لك الساعة إرجاع الزمن بإرادتك! أرجع الدور الأخير بالضغط على [Rewind].\n\nاستخدمها كلما لم تعجبك نتيجة أفعالك الأخيرة أو إذا أخطأت في النقر ببساطة.\n\nللساعة حد لعدد الأدوار التي يمكنك إرجاعها دفعة واحدة، لكنها تشحن كل {0} أدوار. على عكس عناصر التلاعب بالزمن الأخرى مثل لفائف الإرجاع، تفقد الساعة جميع شحناتها المتبقية كلما استخدمت جرعة أو لفافة غير محددة، أو جهزت عنصرًا ملعونًا، أو دست على فخ، أو استخدمت مفتاحًا فضيًا.\n\nجميع الإجراءات في Ricave حتمية، مما يعني أنه بعد الإرجاع، سيتكرر كل شيء تمامًا كما كان من قبل إذا قمت بنفس الحركة مرة أخرى، بما في ذلك إلحاق نفس الضرر واتخاذ الأعداء نفس القرارات. إرجاع الزمن فقط للحصول على ضرر أعلى لن ينجح.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>يُعاد شحنها في: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>يمكن العثور على غبار النجوم في أماكن مختلفة في الزنزانة أو يمكن تقديمه كمكافأة لإكمال مهمة. يمكنك إنفاق غبار النجوم في الردهة.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>اجمع كل قطع الألغاز الـ {0} لفتح غرفة خاصة في الردهة. توجد قطعة لغز واحدة في كل طابق من الزنزانة، ويمكنك العثور على قطعة واحدة فقط في كل جولة.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>قطعة اللغز التالية في الطابق: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>المدى: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>اشتباك</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>أنت في المدى</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>أنت خارج المدى</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>التقط الأشياء الموضوعة في غرفتك الخاصة.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>أنت تواجه حاليًا {0}.\n\nتحرك باستخدام "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nتحرك جانبيًا باستخدام "[MoveLeft]" و "[MoveRight]".\nاصعد وانزل باستخدام "[Fly]+[MoveForward]" و "[Fly]+[MoveBack]" إذا كانت شخصيتك تستطيع الطيران.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>سيتلقى ضررًا في {0}.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>سيكتسب صحة في {0}.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>سيكتسب قدرة على التحمل في {0}.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>سيكتسب مانا في {0}.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>تم تعطيل تجدد القدرة على التحمل لأن هذه الشخصية لا تلمس الأرض.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>تم تعطيل تجدد القدرة على التحمل لأنك لا تلمس الأرض.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>فترة التهدئة: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>{0} متبقية</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>افتح {0} أولاً</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>ليس لديك أي نقاط مهارة</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>انقر للفتح</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>تفاعل للفتح</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>التأثيرات</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>جميع البوابات مفتوحة والجميع مستيقظ. عليك الهروب الآن!\n\nبالإضافة إلى ذلك، سيظهر ضعف عدد الفئران.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>سيقوم روكو بجمع العملات الذهبية في المربعات المجاورة لك كلما تحركت.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>نصيحة: يمكنك مراجعة المخطوطة لمعرفة الإحصائيات النموذجية</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>ترتيب عناصر المخزون</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>إلغاء التجهيز</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>تجهيز</Equip> <!-- <En>Equip</En> -->
+  <Unwear>خلع</Unwear> <!-- <En>Take off</En> -->
+  <Wear>ارتداء</Wear> <!-- <En>Wear</En> -->
+  <Drop>إسقاط</Drop> <!-- <En>Drop</En> -->
+  <Destroy>تدمير</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>اخلط مع {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>انظر إلى</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>انتقل إلى</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>استخدم {0} على</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>تفاعل مع</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>معطل</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>أعطِ {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>الموت</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>لا توجد مساحة</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>العنصر المجهز حاليًا ملعون</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>فاخر, جبار, قدير, قوي, مخيف, مبهج, مثير للإعجاب, نشيط, جذاب, جميل, محبب, مثير, فاتن, ذكي, ساحر, أخرق, لا يقهر, صغير, كبير, مرعب, سعيد, حزين, متزعزع, غريب, مجنون, مشوق, جميل, مغرٍ</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>بمبل, همبل, بيني, ليمون, غاربل, كلوتر, غوبر, بلوم, بمبر, لولي, بوبل, بورك, رمبل, دوندر, دوندل, دوبل, بروبل, دجاجة, بنفسج, ويغل, براتل, تويدل, دينغل, بلونك, ووبل, جينغل, دودل</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>كلاتش, وورث, يارد, سون, باربل, مارك, تون, بون, غون, حافر, ستاين, بين, سنابر, بلوب, بوف, لاف, باخ, دوري, سنارف, فلوب, بلوب, بوف, بلات, سنارك, بورك</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>روح الـ{0}</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>ضحك, تغيير, أمل, عزلة, انسجام, عزم, فرح, خوف, غضب, حزن, حب, مفاجأة, اشمئزاز, فضول, أمل, يأس, ثقة, شك, شجاعة, ذنب, خزي, امتنان, حسد, راحة, ملل, هدوء, حنين, صمود, تعاطف, ترقب, ندم, رهبة, تواضع, إحباط, ازدراء</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>لا شيء</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Enter</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>مسافة</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>زر الفأرة الأيسر</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>زر الفأرة الأيمن</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>زر الفأرة الأوسط</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>مفتاح ويندوز</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>الزناد الأيسر</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>الزناد الأيمن</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>المصد الأيسر</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>المصد الأيمن</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>زر الرجوع</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>زر البدء</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>ضغط العصا اليسرى</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>ضغط العصا اليمنى</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>قتل</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>قتل مزدوج</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>قتل ثلاثي</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>سلسلة قتل {0}</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>طابق جديد</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>اكتمل الاختبار</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>قتل {0}</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>صباح</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>نهار</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>مساء</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>ليل</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>المدافع</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>المحارب</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>المغامر</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>أحمر</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>أخضر</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>أزرق</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>ليو</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>إيف</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>أدوات مساعدة</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>جرعات</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>لفائف</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>أسلحة ومعدات</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

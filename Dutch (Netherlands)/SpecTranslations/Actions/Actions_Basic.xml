@@ -1,0 +1,24 @@
+<SpecTranslations>
+
+  <ChooseSpell.label>kies spreuk</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>Een nieuwe spreuk {0} is gekozen</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>verplaats jezelf</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0} verplaatst zich {1}</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>pak voorwerp op</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>{0} pakt {1} op</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>herorden spreuk</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>{1} is opnieuw gerangschikt</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>slaap</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>{0} slaapt</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>gebruik</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>{0} gebruikt {1} op {2}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>wacht</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>{0} wacht</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

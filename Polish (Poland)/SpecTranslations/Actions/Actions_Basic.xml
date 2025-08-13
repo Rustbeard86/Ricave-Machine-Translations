@@ -1,0 +1,24 @@
+<SpecTranslations>
+
+  <ChooseSpell.label>wybierz czar</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>Nowy czar {0} został wybrany</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>porusz się</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0} porusza się {1}</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>podnieś przedmiot</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>{0} podnosi {1}</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>zmień kolejność czaru</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>Kolejność {1} została zmieniona</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>śpij</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>{0} śpi</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>użyj</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>{0} używa {1} na {2}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>czekaj</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>{0} czeka</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

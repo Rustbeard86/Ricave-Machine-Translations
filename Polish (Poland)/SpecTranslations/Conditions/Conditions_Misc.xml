@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>szał berserkera</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>Niedawno kogoś zabiłeś. Przez krótki czas zadajesz i otrzymujesz o 25% więcej obrażeń fizycznych.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>krwawienie</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>Ta postać krwawi i będzie tracić zdrowie, dopóki nie zostanie opatrzona.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>krwawienie ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>oślepienie</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>Ta postać wyczuwa tylko sąsiednie obiekty i chybia w 30% przypadków.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>złamana kość</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>Ta postać ma złamaną kość, przez co zadaje mniejsze obrażenia fizyczne.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>Ta postać ma złamaną kość, przez co zadaje o {0} mniej obrażeń fizycznych.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>płonięcie</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>Ta postać płonie, co oznacza, że w każdej turze będzie tracić określoną liczbę punktów życia.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>płonięcie ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>zmieniona szansa na trafienie krytyczne</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>Wpływa na szansę na zadanie ciosu krytycznego przez tę postać.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>szansa na trafienie krytyczne: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>utrata zdrowia</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>Ta postać traci zdrowie.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>utrata zdrowia ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>mnożnik zadawanych obrażeń</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>Obrażenia zadawane przez tę postać są zmieniane przez ten mnożnik.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>zadane obrażenia {1}: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>modyfikator zadawanych obrażeń</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>Ta wartość jest dodawana (lub odejmowana) do obrażeń zadawanych przez tę postać. Jeśli jest to przedział, losowana jest wartość z tego przedziału.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>zadane obrażenia {1}: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>choroba</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>Ta postać jest chora, co uniemożliwia naturalne leczenie i latanie.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>upojenie</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>Ta postać jest pijana, co oznacza, że w każdej turze będzie poruszać się w losowym kierunku. W tym stanie nie może nic więcej zrobić.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>unieruchomienie</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>Ta postać jest unieruchomiona, co oznacza, że nie może się poruszyć. Może jednak nadal atakować z obecnej pozycji.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>zamrożenie</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>Ta postać jest zamrożona, co oznacza, że w tym stanie nie może zrobić nic poza czekaniem.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>regeneracja zdrowia</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>Zdrowie tej postaci regeneruje się automatycznie z czasem.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>regeneracja zdrowia ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>tempo głodu</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>Wpływa na to, jak szybko ta postać staje się głodna.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>głód</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>Jesteś głodny i musisz coś zjeść. Powstrzymuje to regenerację zdrowia i identyfikację przedmiotów.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>tempo identyfikacji</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>Wpływa na to, jak szybko ta postać identyfikuje przedmioty.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>tempo identyfikacji: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>odporność na choroby</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>Ta postać jest odporna na choroby.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>odporność na ogień</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>Ta postać jest odporna na ogień.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>odporność na truciznę</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>Ta postać jest odporna na truciznę.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>pancerz</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>Mnożnik obrażeń otrzymywanych przez tę postać. Jeśli wartość jest większa niż 1, jest to podatność. Jeśli wartość wynosi 0, jest to odporność.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>otrzymane obrażenia {1}: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>pancerz</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>Ta wartość jest dodawana (lub odejmowana) od obrażeń otrzymywanych przez tę postać. Jeśli jest to przedział, losowana jest wartość z tego przedziału.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>otrzymane obrażenia {1}: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>wrogość wobec sojuszników</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>Ta postać jest w stanie szału i będzie atakować swoich zwykłych sojuszników.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>latanie</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>Ta postać potrafi latać. Latające postacie mogą poruszać się bezpośrednio w górę i w dół.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>regeneracja many</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>Mana tej postaci regeneruje się automatycznie z czasem.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>regeneracja many ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>zmienione maks. PŻ</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>Wpływa na maksymalną liczbę punktów życia, jaką może mieć ta postać.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>maks. PŻ: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>zmienione maks. PŻ</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>Wpływa na maksymalną liczbę punktów życia, jaką może mieć ta postać.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>maks. PŻ: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>zmieniona maks. mana</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>Wpływa na maksymalną liczbę punktów many, jaką może mieć ta postać.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>maks. mana: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>zmieniona maks. wytrzymałość</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>Wpływa na maksymalną liczbę punktów wytrzymałości, jaką może mieć ta postać.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>maks. wytrzymałość: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>zmieniona szansa na chybienie</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>Wpływa na szansę na chybienie, gdy ta postać atakuje.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>szansa na chybienie: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>panika</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>Ta postać jest w stanie paniki i w każdej turze będzie oddalać się od najbliższego wroga. W tym stanie nie może nic więcej zrobić.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>zatrucie</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>Ta postać jest zatruta, co oznacza, że będzie tracić określoną liczbę punktów życia w każdej turze lub co kilka tur.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>zatrucie ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>zasięg widzenia</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>Wpływa na maksymalną odległość, z jakiej ta postać może widzieć inne obiekty i postacie.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>zasięg widzenia: maks. {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>zasięg widzenia</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>Wpływa na maksymalną odległość, z jakiej ta postać może widzieć inne obiekty i postacie.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>zasięg widzenia: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>zmieniona częstotliwość akcji</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>Wpływa na liczbę dozwolonych ruchów na turę dla tej postaci.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>nie może zadać ci żadnych obrażeń</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>Jesteś chroniony przed atakami tej postaci do następnej tury. Jeśli jednak zadasz jej jakiekolwiek obrażenia, efekt zniknie. Rzucanie nieszkodliwych zaklęć jest dozwolone.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>sen</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>Ta postać śpi. Obudzi się, gdy ktoś się do niej zbliży lub ją zaniepokoi.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>zostawia ślad</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>Ta postać zostawia ślad za każdym razem, gdy się poruszy.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>zostawia ślad w postaci {0}</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>regeneracja wytrzymałości</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>Wytrzymałość tej postaci regeneruje się automatycznie z czasem.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>regeneracja wytrzymałości ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>głodowanie</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>Głodujesz i musisz coś zjeść. Oprócz braku regeneracji zdrowia i identyfikacji przedmiotów, twoja regeneracja wytrzymałości jest zatrzymana i powoli tracisz zdrowie. Kary za głód nie będą już postępować.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>głodowanie ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>Próba Okaleczenia</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>Dla tej postaci trwa Próba Okaleczenia. Musi zniszczyć określoną liczbę części ciała w krótkim czasie, aby ukończyć wyzwanie i otrzymać nagrodę.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>Próba Okaleczenia ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>Dla tej postaci trwa Próba Okaleczenia. Musi zniszczyć {0} części ciała w ciągu {1} tur, aby ukończyć wyzwanie i otrzymać nagrodę.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>Próba Szybkiego Zabójcy</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>Dla tej postaci trwa Próba Szybkiego Zabójcy. Musi zabić określoną liczbę godnych wrogów w krótkim czasie, aby ukończyć wyzwanie i otrzymać nagrodę.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>Próba Szybkiego Zabójcy ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>Dla tej postaci trwa Próba Szybkiego Zabójcy. Musi zabić {0} godnych wrogów w ciągu {1} tur, aby ukończyć wyzwanie i otrzymać nagrodę.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>Próba Nieskazitelności</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>Dla tej postaci trwa Próba Nieskazitelności. Musi zabić określoną liczbę godnych wrogów bez utraty punktów życia, aby ukończyć wyzwanie i otrzymać nagrodę.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>Próba Nieskazitelności ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>Dla tej postaci trwa Próba Nieskazitelności. Musi zabić {0} godnych wrogów bez utraty punktów życia, aby ukończyć wyzwanie i otrzymać nagrodę.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>zmoczenie</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>Ta postać jest mokra, co daje jej 50% odporności na obrażenia od ognia, ale sprawia też, że wytrzymałość regeneruje się dwa razy wolniej.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

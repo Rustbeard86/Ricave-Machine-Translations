@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>고대 보관함</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>이 보관함은 3개의 고대 장치로만 열 수 있습니다. 장치들은 모두 이 층 어딘가에 있을 것입니다.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>눈앞에 고대 보관함이 있습니다.\n\n이 보관함은 3개의 고대 장치로만 열 수 있습니다.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>열기</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>고대 장치</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>연구할 수 있는 종류의 고대 장치입니다. 세 개를 모두 연구하면 잠금을 해제하고 보상을 받을 수 있습니다.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>해독제가 든 대야</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>독에 대한 해독제로 채워진 작은 대야입니다. 약간의 마나를 소모하여 중독 상태를 해제할 수 있습니다.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>눈앞에 해독제가 든 대야가 있습니다.\n\n약간의 마나를 소모하여 중독 상태를 해제할 수 있습니다.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>마시기</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>모루</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>여기에서 장비 레벨을 업그레이드할 수 있습니다.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>눈앞에 모루가 있습니다.\n\n철을 소모하여 장비 레벨을 업그레이드할 수 있습니다.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>침대</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>아늑한 침대입니다. 체력을 일부 회복할 수 있지만, 50% 확률로 적에게 발각될 수 있습니다.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>눈앞에 침대가 있습니다.\n\n체력을 일부 회복할 수 있지만, 50% 확률로 적에게 발각될 수 있습니다.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>잠자기</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>거대 자석</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>두 턴마다 주변의 모든 것을 자신 쪽으로 끌어당깁니다.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>책장</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>스킬 포인트를 부여하는 책들이 있는 책장입니다.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>우리</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>무언가 또는 누군가가 안에 들어있는 금속 우리입니다. 이 던전 층에 살아있는 보스가 없을 때만 열 수 있습니다.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>눈앞에 크고 녹슨 금속 우리가 있습니다.\n\n여시겠습니까?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>열기</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>대포</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>사선에 서 있는 모든 이에게 해를 입히는 치명적인 함정입니다. 공격하여 작동시킬 수 있습니다.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>가마솥</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>아무 물약이나 무작위 두루마리로 교환합니다.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>눈앞에 가마솥이 있습니다.\n\n여기서 아무 물약이나 무작위 두루마리로 교환할 수 있습니다.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>천장 가시</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>아래에 서 있는 모든 이에게 해를 입히는 치명적인 함정입니다. 공격하여 작동시킬 수 있습니다.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>상자</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>이 상자에는 당신이 평생 바랄 수 있는 모든 것이 들어 있습니다. 그게 아니면 썩어가는 천 조각과 돌멩이 몇 개가 들어있을 수도 있습니다.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>악마 석상</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>사악한 석상입니다. 저주받은 아이템을 받고 보상을 줍니다.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>악마 석상이 당신을 쳐다봅니다.\n\n저주받은 아이템이 있다면, 석상에게 주고 보상을 받을 수 있습니다.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>용의 유해</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>용의 뼈 무더기입니다. 여기에 무언가 숨겨져 있을 수 있습니다.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>눈앞에 용의 유해가 있습니다.\n\n원한다면 여기서 숨겨진 보물을 찾아볼 수 있습니다.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>수색하기</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>복제기</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>어떤 아이템이든 복제하거나... 파괴할 수 있는 장치입니다.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>눈앞에 복제기가 있습니다.\n\n금화 30개로 아이템 복제를 시도할 수 있습니다.\n\n하지만 40% 확률로 아이템이 대신 파괴될 수 있습니다.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>전자 금고</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>이 금고는 다른 곳에 있는 버튼을 눌러야만 열 수 있습니다.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>버튼</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>이 버튼은 어딘가에 있는 전자 금고를 엽니다.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>마법 부여대</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>약간의 기부금을 내고 장비에 마법을 부여하세요.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>눈앞에 마법 부여대가 있습니다.\n\n탁자 아래에 동전 투입구가 있고, 진행하려면 금화 170개를 기부해야 한다는 표지판이 있습니다.\n\n선택한 무기나 방어구에 무작위 마법이 부여됩니다.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>분수</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>이 분수에서 물을 마시면 약하지만 오래 지속되는 효과(긍정적이거나 부정적인)를 얻을 수 있습니다.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>눈앞에 분수가 있습니다.\n\n물을 마시면 약하지만 오래 지속되는 마법 효과가 나타납니다.\n\n행운을 빌며 금화를 던져 넣을 수 있습니다.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>마시기</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>생명의 샘</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>이 샘물을 마시면 체력이 완전히 회복되고, 모든 마나, 스태미나, 포만감이 회복되며, 짧은 시간 동안 독에 면역이 됩니다.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>눈앞에 생명의 샘이 있습니다.\n\n이 샘물을 마시면 체력이 완전히 회복되고, 모든 마나, 스태미나, 포만감이 회복되며, 짧은 시간 동안 독에 면역이 됩니다.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>마시기</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>도박 테이블</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>운이 좋다고 생각되면 돈을 좀 걸어보세요.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>눈앞에 도박 테이블이 있습니다.\n\n운이 좋다고 생각되면 돈을 걸 수 있으며, 50/50 확률로 두 배를 따거나 잃을 수 있습니다.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>도금된 자물쇠 상자</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>이 자물쇠 상자에는 동전 투입구가 있습니다. 금화 50개를 넣으면 열 수 있습니다.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>눈앞에 도금된 자물쇠 상자가 있습니다.\n\n금화 50개를 넣으면 열 수 있습니다.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>열기</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>무덤</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>파서 숨겨진 보물을 찾으세요.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>눈앞에 무덤이 있습니다.\n\n분명히 여기에 무언가 묻혀 있습니다.\n\n무덤을 파헤치거나 그대로 둘 수 있습니다. 무엇을 찾게 될지는 아무도 모릅니다.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>파기</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>녹색 상자</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>이 상자는 3개의 녹색 열쇠 조각으로만 열 수 있습니다. 보통 적들이 가지고 있습니다.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>눈앞에 녹색 상자가 있습니다.\n\n3개의 녹색 열쇠 조각으로만 열 수 있습니다.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>열기</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>매달린 우리</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>무언가 또는 누군가가 안에 들어있는 금속 우리입니다. 이 던전 층에 살아있는 보스가 없을 때만 열 수 있습니다.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>눈앞에 크고 녹슨 금속 우리가 있습니다.\n\n여시겠습니까?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>열기</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>치유 수정</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>모든 체력을 회복시킵니다.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>치유초</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>특이한 치유 속성을 가진 식물입니다. 체력 물약을 만드는 데 사용할 수 있습니다.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>레버</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>모든 문을 열고 층에 있는 모든 이에게 경고합니다. 탈출할 준비가 되었을 때만 당기세요!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>레버를 당기시겠습니까?\n\n모든 문이 열리지만, 모든 적들이 깨어날 것입니다.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>당기기</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>사지 공양 제단</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>여기서 사지를 희생하여 무작위 보상을 받을 수 있습니다.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>눈앞에 사지 공양 제단이 있습니다.\n\n여기서 사지를 희생하여 무작위 보상을 받을 수 있습니다.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>사지 바치기</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>마나 수정</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>모든 마나를 회복시켜 주문을 다시 사용할 수 있게 합니다.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>마나초</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>특이한 마법 속성을 가진 식물입니다. 마나 물약을 만드는 데 사용할 수 있습니다.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>금속 상자</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>금속 상자입니다. 유용한 것이 들어있을 수 있습니다.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>팬텀의 제단</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>치명적인 팬텀을 소환합니다. 시야가 손상되는 대신 물리 피해량에 보너스를 받습니다.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>눈앞에 팬텀의 제단이 있습니다.\n\n여기서 치명적인 팬텀을 소환하여 물리 피해량이 +25% 증가합니다.\n\n또한, 25턴 동안 시야 범위가 1로 설정됩니다.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>소환하기</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>포털</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>지도상의 무작위 위치로 순간이동시킵니다. 하지만 다시 사용하면 항상 같은 위치로 이동합니다.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>근접 폭탄</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>이 폭탄은 근접 신관이 있어 접근하면 몇 턴 후에 폭발합니다.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>근접 화염 폭탄</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>이 화염 폭탄은 근접 신관이 있어 접근하면 몇 턴 후에 폭발합니다.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>근접 연막탄</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>이 연막탄은 근접 신관이 있어 접근하면 몇 턴 후에 폭발합니다.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>쥐 소굴</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>쥐로 가득 찬 소굴입니다. 건드리지 않으면 쥐들이 나오지 않습니다. 숨겨진 보물을 찾아볼 수 있습니다.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>눈앞에 쥐 소굴이 있습니다.\n\n원한다면 여기서 숨겨진 보물을 찾아볼 수 있습니다.\n\n하지만 그렇게 하면 이 소굴에서 쥐들이 나오기 시작할 것입니다.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>수색하기</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>도적의 성소</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>약간의 기부금을 내고 일정 시간 동안 더 많은 스태미나, 더 넓은 시야, 화염 피해 저항을 얻으세요.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>눈앞에 도적의 성소가 있습니다.\n\n약간의 기부금을 내고 더 많은 스태미나, 더 넓은 시야, 화염 피해 저항을 얻으세요.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>진행하기</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>종료 포털</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>밝은 포털입니다. 이것이 끝입니다.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>희생 제단</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>이 제단에 가치 있는 상대 두 명을 희생하여 보상을 받으세요.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>금고</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>귀중한 것이 들어있을 수 있지만, 파괴하기는 까다로울 수 있습니다. 폭발물이라도 써야 할까요?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>상점</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>갓 짜낸 오렌지 주... 아니 힘의 물약만 한 게 없죠.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>성소</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>축복을 받으세요, 무료입니다!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>눈앞에 성소가 있습니다.\n\n여기서 축복을 받을 수 있습니다.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>진행하기</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>은 상자</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>귀중한 것이 들어있는 것 같습니다. 열려면 은 열쇠가 필요합니다.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>눈앞에 은 상자가 있습니다.\n\n은 열쇠로만 열 수 있습니다.\n\n사용 가능한 열쇠보다 잠긴 상자가 더 많을 수 있으니 열쇠를 현명하게 사용하세요.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>열기</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>해골 유해</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>뼈 무더기입니다. 여기에 무언가 숨겨져 있을 수 있습니다.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>눈앞에 해골 유해가 있습니다.\n\n원한다면 여기서 숨겨진 보물을 찾아볼 수 있습니다.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>수색하기</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>작은 치유 수정</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>최대 체력의 50%를 회복시킵니다.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>작은 마나 수정</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>최대 마나의 50%를 회복시킵니다.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>계단</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>이 던전의 아래층으로 이어지는 계단입니다.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>계단을 내려가 던전의 아래층으로 가시겠습니까?\n\n다시는 돌아올 수 없습니다.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>진행하기</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>로비로 가는 계단</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>로비로 돌아가는 계단입니다. 현재 진행이 종료되지만, 다음 진행을 위해 일부 경험치와 금화를 유지하게 됩니다. 또한, 로비에서 구매한 일회용 보너스도 잃지 않습니다.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>로비로 돌아가시겠습니까?\n\n현재 진행이 종료되지만, 다음 진행을 위해 경험치의 25%와 금화의 50%를 유지하게 됩니다.\n또한, 로비에서 구매한 일회용 보너스도 잃지 않습니다.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>진행하기</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>수술대</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>소액의 비용으로 모든 잃어버린 신체 부위를 복원할 수 있는 자동 수술 기계입니다.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>눈앞에 자동 수술 기계가 보입니다.\n\n아래에는 동전 투입구가 있고, 150 골드로 잃어버린 모든 신체 부위를 복원할 수 있다는 안내문이 있습니다.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>150 골드 지불하기</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>타임머신</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>과거로 시간 여행을 합니다.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>눈앞에 타임머신이 보입니다.\n\n이것을 사용하면 과거로 시간 여행을 하게 됩니다.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>사용하기</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>불구의 시험</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>120턴 안에 신체 부위 6개를 파괴하여 보상을 받으세요.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>눈앞에 불구의 시험이 보입니다.\n\n약간의 골드를 지불하고 120턴 안에 신체 부위 6개를 파괴하는 도전을 시작할 수 있습니다.\n\n도전을 완료하면 보상을 받게 됩니다.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>20 골드 지불하기</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>신속한 살인자의 시험</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>100턴 안에 가치 있는(경험치를 주는) 적 4명을 처치하여 보상을 받으세요.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>눈앞에 신속한 살인자의 시험이 보입니다.\n\n약간의 골드를 지불하고 100턴 안에 가치 있는 적 4명을 처치하는 도전을 시작할 수 있습니다.\n\n도전을 완료하면 보상을 받게 됩니다.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>20 골드 지불하기</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>무결점의 시험</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>체력을 전혀 잃지 않고 가치 있는(경험치를 주는) 적 2명을 처치하여 보상을 받으세요.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>눈앞에 무결점의 시험이 보입니다.\n\n약간의 골드를 지불하고 체력을 전혀 잃지 않고 가치 있는 적 2명을 처치하는 도전을 시작할 수 있습니다.\n\n도전을 완료하면 보상을 받게 됩니다.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>20 골드 지불하기</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>업그레이드 보주</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>영구적인 효과를 선택할 수 있게 해주는 보주입니다. 추가 체력, 추가 치명타 확률, 빗나감 확률 감소, 화염 저항 중에서 선택할 수 있습니다.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>이번 플레이 동안 영구적인 효과를 부여하는 업그레이드 보주입니다.\n\n추가 체력, 추가 치명타 확률, 빗나감 확률 감소, 화염 저항 중에서 선택할 수 있습니다.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>전사의 제단</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>내면의 전사를 해방하고 당신이 자격이 있음을 증명하세요. 일정 시간 동안 물리 피해량이 25% 증가하는 대신 최대 체력이 절반이 됩니다.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>눈앞에 전사의 제단이 보입니다.\n\n400턴 동안 피해량이 25% 증가하는 대신 최대 체력이 절반이 됩니다.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>진행하기</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>말벌집</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>비정상적으로 큰 말벌들의 집입니다.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>마법사의 제단</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>소액을 기부하고 일정 시간 동안 최대 마나를 늘리고 마법 피해 저항을 얻으세요.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>눈앞에 마법사의 제단이 보입니다.\n\n80 골드를 지불하면 400턴 동안 최대 마나 +2 및 100턴 동안 마법 피해 저항을 부여하는 축복을 받을 수 있습니다.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>80 골드 지불하기</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

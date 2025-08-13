@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>Közeledik és támad, majd meghátrál, hogy elkerülje a találatot</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>Támad, majd 8 körig menekül, hacsak sarokba nem szorítják</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>Nem közeledik elsőként, de ott marad, ha megközelítik</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>Mindig menekül</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>Távolságot tart, hacsak sarokba nem szorítják</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>Távolságot tart, hacsak sarokba nem szorítják, vagy nincs fegyvere</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>Követi a játékost és támad (csapattag)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>Követi a játékost és támad, ha alkalma nyílik</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>Közeledik és támad</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>Mozdulatlan marad, vagy elmenekül, ha megtámadják</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>Mozdulatlan marad</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>Mozdulatlan marad és szövetségeseket gyógyít</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>Mozdulatlan marad, vagy elmenekül, ha megtámadják</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>Lop, majd elszalad</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

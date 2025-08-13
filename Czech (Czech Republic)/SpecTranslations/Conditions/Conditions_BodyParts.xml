@@ -1,0 +1,30 @@
+<SpecTranslations>
+
+  <AllArmsMissing.label>bezruký</AllArmsMissing.label> <!-- <En>armless</En> -->
+  <AllArmsMissing.description>Tato postava nemá žádné ruce, proto uděluje menší fyzické poškození. Navíc nemůže používat předměty a některé přirozené útoky (např. lukostřelcův luk). Chybějící končetiny lze obnovit pomocí chirurgické soupravy.</AllArmsMissing.description> <!-- <En>This character has no arms which makes them deal less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+  <AllArmsMissing.ThisCharacterHasNoArms>Tato postava nemá žádné ruce, proto uděluje o {0} menší fyzické poškození. Navíc nemůže používat předměty a některé přirozené útoky (např. lukostřelcův luk). Chybějící končetiny lze obnovit pomocí chirurgické soupravy.</AllArmsMissing.ThisCharacterHasNoArms> <!-- <En>This character has no arms which makes them deal {0} less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllEyesMissing.label>slepý</AllEyesMissing.label> <!-- <En>blind</En> -->
+  <AllEyesMissing.description>Této postavě chybí všechny oči, proto je slepá a v 30 % případů mine cíl. Stále však dokáže vnímat sousední postavy a pamatovat si, ze kterého směru byla nedávno napadena. Chybějící končetiny lze obnovit pomocí chirurgické soupravy.</AllEyesMissing.description> <!-- <En>This character has all of their eyes missing which makes them blind and they will miss 30% of the time. However, they can still sense adjacent characters and remember from which direction they've recently been attacked. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllLegsMissing.label>znehybněný</AllLegsMissing.label> <!-- <En>immobilized</En> -->
+  <AllLegsMissing.description>Této postavě chybí všechny nohy, proto je nepohyblivá. Chybějící končetiny lze obnovit pomocí chirurgické soupravy.</AllLegsMissing.description> <!-- <En>This character has all of their legs missing which makes them immobile. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllWingsMissing.label>bezkřídlý</AllWingsMissing.label> <!-- <En>wingless</En> -->
+  <AllWingsMissing.description>Této postavě chybí všechna křídla, proto nemůže létat.</AllWingsMissing.description> <!-- <En>This character has all of their wings missing which makes them unable to fly.</En> -->
+
+  <ArmMissing.label>chybějící ruka</ArmMissing.label> <!-- <En>arm missing</En> -->
+  <ArmMissing.description>Této postavě chybí jedna ruka, proto uděluje menší fyzické poškození. Chybějící končetiny lze obnovit pomocí chirurgické soupravy.</ArmMissing.description> <!-- <En>This character has one of their arms missing which makes them deal less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+  <ArmMissing.ThisCharacterHasOneOf>Této postavě chybí jedna ruka, proto uděluje o {0} menší fyzické poškození. Chybějící končetiny lze obnovit pomocí chirurgické soupravy.</ArmMissing.ThisCharacterHasOneOf> <!-- <En>This character has one of their arms missing which makes them deal {0} less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <HatMissing.label>bez klobouku</HatMissing.label> <!-- <En>hatless</En> -->
+  <HatMissing.description>Byl to jeho oblíbený klobouk.</HatMissing.description> <!-- <En>It was his favorite hat.</En> -->
+
+  <LegMissing.label>chybějící noha</LegMissing.label> <!-- <En>leg missing</En> -->
+  <LegMissing.description>Této postavě chybí jedna noha, proto se pohybuje dvakrát pomaleji. Chybějící končetiny lze obnovit pomocí chirurgické soupravy.</LegMissing.description> <!-- <En>This character has one of their legs missing which makes them move twice as slow. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <StingMissing.label>chybějící žihadlo</StingMissing.label> <!-- <En>sting missing</En> -->
+  <StingMissing.description>Této postavě chybí žihadlo, proto uděluje menší fyzické poškození.</StingMissing.description> <!-- <En>This character has their sting missing which makes them deal less physical damage.</En> -->
+  <StingMissing.ThisCharacterHasTheir>Této postavě chybí žihadlo, proto uděluje o {0} menší fyzické poškození.</StingMissing.ThisCharacterHasTheir> <!-- <En>This character has their sting missing which makes them deal {0} less physical damage.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,39 @@
+<SpecTranslations>
+
+  <BuyItem.label>아이템 구매</BuyItem.label> <!-- <En>buy item</En> -->
+  <BuyItem.Buys>{0}이(가) {1}을(를) 구매합니다</BuyItem.Buys> <!-- <En>{0} buys {1}</En> -->
+
+  <BuyPrivateRoomStructure.label>개인실 가구 구매</BuyPrivateRoomStructure.label> <!-- <En>buy private room furniture</En> -->
+  <BuyPrivateRoomStructure.Buys>{0}이(가) {1}을(를) 구매합니다</BuyPrivateRoomStructure.Buys> <!-- <En>{0} buys {1}</En> -->
+
+  <ErrorRecoveryAddSequence.label>시퀀스 오류 복구</ErrorRecoveryAddSequence.label> <!-- <En>sequence error recovery</En> -->
+  <ErrorRecoveryAddSequence.SequenceErrorRecovery>{0}에 대한 시퀀스 오류 복구</ErrorRecoveryAddSequence.SequenceErrorRecovery> <!-- <En>Sequence error recovery for {0}</En> -->
+
+  <MoveDownByGravity.label>낙하</MoveDownByGravity.label> <!-- <En>fall</En> -->
+  <MoveDownByGravity.Falls>{0}이(가) 낙하합니다</MoveDownByGravity.Falls> <!-- <En>{0} falls</En> -->
+
+  <PulledByChain.label>사슬에 끌림</PulledByChain.label> <!-- <En>pull by chain</En> -->
+  <PulledByChain.IsPulledByAChain>{0}이(가) 사슬에 끌려갑니다</PulledByChain.IsPulledByAChain> <!-- <En>{0} is pulled by a chain</En> -->
+
+  <ResolveCondition.label>상태 해결</ResolveCondition.label> <!-- <En>resolve condition</En> -->
+  <ResolveCondition.TakesTurn>{0}이(가) 처리됩니다</ResolveCondition.TakesTurn> <!-- <En>{0} takes turn</En> -->
+
+  <ResolveStructure.label>구조물 해결</ResolveStructure.label> <!-- <En>resolve structure</En> -->
+  <ResolveStructure.TakesTurn>{0}이(가) 작동합니다</ResolveStructure.TakesTurn> <!-- <En>{0} takes turn</En> -->
+
+  <ResolveVelocity.label>낙하 중지</ResolveVelocity.label> <!-- <En>no longer falling</En> -->
+  <ResolveVelocity.IsNoLongerFalling>{0}이(가) 더는 낙하하지 않습니다</ResolveVelocity.IsNoLongerFalling> <!-- <En>{0} is no longer falling</En> -->
+
+  <ResolveWorld.label>세계 해결</ResolveWorld.label> <!-- <En>resolve world</En> -->
+  <ResolveWorld.TheWorldIsResolved>세계가 해결되었습니다</ResolveWorld.TheWorldIsResolved> <!-- <En>The world is resolved</En> -->
+
+  <RewindTime.label>시간 되감기</RewindTime.label> <!-- <En>rewind time</En> -->
+  <RewindTime.TimeRewind>시간 되감기</RewindTime.TimeRewind> <!-- <En>Time rewind</En> -->
+
+  <SwitchCurrentPartyMember.label>현재 파티원 교체</SwitchCurrentPartyMember.label> <!-- <En>switch current party member</En> -->
+  <SwitchCurrentPartyMember.PlayerSwitchesCurrent>플레이어가 현재 파티원을 {0}(으)로 교체합니다</SwitchCurrentPartyMember.PlayerSwitchesCurrent> <!-- <En>Player switches current party member to {0}</En> -->
+
+  <Think.label>생각하기</Think.label> <!-- <En>think</En> -->
+  <Think.Thinks>{0}이(가) 생각합니다</Think.Thinks> <!-- <En>{0} thinks</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <DestroyItemInInventory.label>破棄</DestroyItemInInventory.label> <!-- <En>destroy</En> -->
+  <DestroyItemInInventory.Destroys>{0}は{1}を破棄する</DestroyItemInInventory.Destroys> <!-- <En>{0} destroys {1}</En> -->
+
+  <DropItem.label>落とす</DropItem.label> <!-- <En>drop</En> -->
+  <DropItem.Drops>{0}は{1}を落とす</DropItem.Drops> <!-- <En>{0} drops {1}</En> -->
+
+  <Equip.label>装備</Equip.label> <!-- <En>equip</En> -->
+  <Equip.Equips>{0}は{1}を装備する</Equip.Equips> <!-- <En>{0} equips {1}</En> -->
+
+  <MoveItemInInventory.label>インベントリ内でアイテムを移動</MoveItemInInventory.label> <!-- <En>move item in inventory</En> -->
+  <MoveItemInInventory.IsMovedInSInventory>{1}が{0}のインベントリ内で移動された</MoveItemInInventory.IsMovedInSInventory> <!-- <En>{1} is moved in {0}'s inventory</En> -->
+
+  <RefundSkill.label>スキル払い戻し</RefundSkill.label> <!-- <En>refund skill</En> -->
+  <RefundSkill.Refunds>{0}は{1}を払い戻す</RefundSkill.Refunds> <!-- <En>{0} refunds {1}</En> -->
+
+  <SortInventory.label>インベントリを整理</SortInventory.label> <!-- <En>sort inventory</En> -->
+  <SortInventory.SortsInventory>{0}はインベントリを整理する</SortInventory.SortsInventory> <!-- <En>{0} sorts inventory</En> -->
+
+  <Transfer.label>渡す</Transfer.label> <!-- <En>transfer</En> -->
+  <Transfer.GivesTo>{0}は{2}に{1}を渡す</Transfer.GivesTo> <!-- <En>{0} gives {1} to {2}</En> -->
+
+  <Unequip.label>装備を外す</Unequip.label> <!-- <En>unequip</En> -->
+  <Unequip.Unequips>{0}は{1}の装備を外す</Unequip.Unequips> <!-- <En>{0} unequips {1}</En> -->
+
+  <UnlockSkill.label>スキル解放</UnlockSkill.label> <!-- <En>unlock skill</En> -->
+  <UnlockSkill.Unlocks>{0}は{1}を解放する</UnlockSkill.Unlocks> <!-- <En>{0} unlocks {1}</En> -->
+
+  <UseRecipe.label>レシピを使う</UseRecipe.label> <!-- <En>use recipe</En> -->
+  <UseRecipe.CombinesItems>{0}はアイテムを組み合わせる</UseRecipe.CombinesItems> <!-- <En>{0} combines items</En> -->
+
+</SpecTranslations>

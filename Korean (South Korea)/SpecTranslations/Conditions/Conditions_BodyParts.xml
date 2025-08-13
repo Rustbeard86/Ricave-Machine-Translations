@@ -1,0 +1,30 @@
+<SpecTranslations>
+
+  <AllArmsMissing.label>팔 없음</AllArmsMissing.label> <!-- <En>armless</En> -->
+  <AllArmsMissing.description>이 캐릭터는 팔이 없어 물리 피해량이 감소합니다. 또한, 아이템을 사용하거나 특정 고유 공격(예: 궁수의 활)을 할 수 없습니다. 잃어버린 신체 부위는 수술 도구로 복원할 수 있습니다.</AllArmsMissing.description> <!-- <En>This character has no arms which makes them deal less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+  <AllArmsMissing.ThisCharacterHasNoArms>이 캐릭터는 팔이 없어 물리 피해량이 {0} 감소합니다. 또한, 아이템을 사용하거나 특정 고유 공격(예: 궁수의 활)을 할 수 없습니다. 잃어버린 신체 부위는 수술 도구로 복원할 수 있습니다.</AllArmsMissing.ThisCharacterHasNoArms> <!-- <En>This character has no arms which makes them deal {0} less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllEyesMissing.label>실명</AllEyesMissing.label> <!-- <En>blind</En> -->
+  <AllEyesMissing.description>이 캐릭터는 모든 눈을 잃어 실명 상태가 되었으며, 30% 확률로 공격이 빗나갑니다. 하지만, 인접한 캐릭터를 감지할 수 있으며 최근에 어느 방향에서 공격받았는지 기억할 수 있습니다. 잃어버린 신체 부위는 수술 도구로 복원할 수 있습니다.</AllEyesMissing.description> <!-- <En>This character has all of their eyes missing which makes them blind and they will miss 30% of the time. However, they can still sense adjacent characters and remember from which direction they've recently been attacked. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllLegsMissing.label>이동 불가</AllLegsMissing.label> <!-- <En>immobilized</En> -->
+  <AllLegsMissing.description>이 캐릭터는 모든 다리를 잃어 이동할 수 없습니다. 잃어버린 신체 부위는 수술 도구로 복원할 수 있습니다.</AllLegsMissing.description> <!-- <En>This character has all of their legs missing which makes them immobile. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllWingsMissing.label>날개 없음</AllWingsMissing.label> <!-- <En>wingless</En> -->
+  <AllWingsMissing.description>이 캐릭터는 모든 날개를 잃어 날 수 없습니다.</AllWingsMissing.description> <!-- <En>This character has all of their wings missing which makes them unable to fly.</En> -->
+
+  <ArmMissing.label>팔 한쪽 없음</ArmMissing.label> <!-- <En>arm missing</En> -->
+  <ArmMissing.description>이 캐릭터는 팔 한쪽을 잃어 물리 피해량이 감소합니다. 잃어버린 신체 부위는 수술 도구로 복원할 수 있습니다.</ArmMissing.description> <!-- <En>This character has one of their arms missing which makes them deal less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+  <ArmMissing.ThisCharacterHasOneOf>이 캐릭터는 팔 한쪽을 잃어 물리 피해량이 {0} 감소합니다. 잃어버린 신체 부위는 수술 도구로 복원할 수 있습니다.</ArmMissing.ThisCharacterHasOneOf> <!-- <En>This character has one of their arms missing which makes them deal {0} less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <HatMissing.label>모자 없음</HatMissing.label> <!-- <En>hatless</En> -->
+  <HatMissing.description>그가 가장 아끼던 모자였습니다.</HatMissing.description> <!-- <En>It was his favorite hat.</En> -->
+
+  <LegMissing.label>다리 한쪽 없음</LegMissing.label> <!-- <En>leg missing</En> -->
+  <LegMissing.description>이 캐릭터는 다리 한쪽을 잃어 이동 속도가 절반으로 감소합니다. 잃어버린 신체 부위는 수술 도구로 복원할 수 있습니다.</LegMissing.description> <!-- <En>This character has one of their legs missing which makes them move twice as slow. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <StingMissing.label>침 없음</StingMissing.label> <!-- <En>sting missing</En> -->
+  <StingMissing.description>이 캐릭터는 침을 잃어 물리 피해량이 감소합니다.</StingMissing.description> <!-- <En>This character has their sting missing which makes them deal less physical damage.</En> -->
+  <StingMissing.ThisCharacterHasTheir>이 캐릭터는 침을 잃어 물리 피해량이 {0} 감소합니다.</StingMissing.ThisCharacterHasTheir> <!-- <En>This character has their sting missing which makes them deal {0} less physical damage.</En> -->
+
+</SpecTranslations>

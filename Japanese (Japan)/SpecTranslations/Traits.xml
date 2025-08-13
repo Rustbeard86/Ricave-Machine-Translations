@@ -1,0 +1,64 @@
+<SpecTranslations>
+
+  <AllIn.label>オールイン</AllIn.label> <!-- <En>all in</En> -->
+  <AllIn.description>追加のスキルポイントを持って開始するが、それ以降はスキルポイントを一切獲得できなくなる。</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
+  <AllIn.goodEffects>スキルポイント3で開始</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects>追加のスキルポイントを獲得できない</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+
+  <Angel.label>天使</Angel.label> <!-- <En>angel</En> -->
+  <Angel.description>飛行能力を得て、悪魔に対してより多くのダメージを与えることができるようになる。その代償として、火、毒、魔法ダメージに対して脆弱になる。</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
+
+  <Berserker.label_2>バーサーカー</Berserker.label_2> <!-- <En>berserker</En> -->
+  <Berserker.description_2>価値あるキルを達成するたびに一時的に与えるダメージが増加するが、同時に自身もより脆弱になる。</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
+  <Berserker.goodEffects>価値あるキル後、6ターンの間、物理ダメージが25%増加</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects>価値あるキル後、6ターンの間、受ける物理ダメージが25%増加</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+
+  <BossHunter.label>ボスハンター</BossHunter.label> <!-- <En>boss hunter</En> -->
+  <BossHunter.description>すべてのボスに対して与えるダメージが増加するが、ボスは最初から覚醒状態で出現する。</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
+  <BossHunter.badEffects>すべてのボスが最初から覚醒状態で出現</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+
+  <Bulky.label>大柄</Bulky.label> <!-- <En>bulky</En> -->
+  <Bulky.description>レベルアップごとにより多くの最大HPを得るが、その代償として移動音が大きくなる。</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
+
+  <Explorer.label>探検家</Explorer.label> <!-- <En>explorer</En> -->
+  <Explorer.description>追加の装備を持って開始し、より多くのゴールドを見つけることができるが、その代償として最大スタミナと最大マナが減少する。</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
+
+  <Giant.label>巨人</Giant.label> <!-- <En>giant</En> -->
+  <Giant.description>押し引きを無効化し、最大HPがわずかに増加する。その代償として、空腹率の上昇、落下ダメージの増加、物価の上昇を伴う。</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
+
+  <Insectoid.label>虫人</Insectoid.label> <!-- <En>insectoid</En> -->
+  <Insectoid.description>クモと友好関係になり、ある程度の毒耐性を得る。その代償として、放浪者が敵対的になり、火に対して脆弱になる。</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
+
+  <LastStand.label>背水の陣</LastStand.label> <!-- <En>last stand</En> -->
+  <LastStand.description>HPが低いときに与えるダメージが増加するが、その代償としてスタミナの回復が遅くなる。</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
+
+  <LizardSkin.label>トカゲの皮</LizardSkin.label> <!-- <En>lizard skin</En> -->
+  <LizardSkin.description>毒、出血、骨折を無効化し、回復速度が速くなる。その代償として最大HPが半分になる。</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
+
+  <MoleRat.label>モグラネズミ</MoleRat.label> <!-- <En>mole-rat</En> -->
+  <MoleRat.description>掘ることが可能になり、ある程度の属性耐性を得る。その代償として、レベルアップごとに得られる最大HPが少なくなる。</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
+  <MoleRat.goodEffects>シャベルなしで掘れる</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+
+  <NightOwl.label>夜型</NightOwl.label> <!-- <En>night owl</En> -->
+  <NightOwl.description>夜間の視界が良くなるが、日中の視界が悪くなる。</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
+  <NightOwl.goodEffects>19:00から7:00まで視界範囲+1</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects>7:00から19:00まで視界範囲-1</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+
+  <Pacifist.label_2>平和主義者</Pacifist.label_2> <!-- <En>pacifist</En> -->
+  <Pacifist.description>すべてのショップアイテムが無料になり、レベルアップ速度が2倍になるが、価値あるキルを達成するたびにHPを1失う。</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
+
+  <Scary.label>恐ろしげ</Scary.label> <!-- <En>scary</En> -->
+  <Scary.description>あなたによって目覚めたすべての敵はパニック状態になる。その代償として、物価の上昇、カルト教団からの敵対、最大スタミナの減少を伴う。さらに、すべてのゴーストがあなたを追跡し、戦利品をドロップしなくなる。</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
+  <Scary.goodEffects>あなたによって目覚めた敵は3ターンの間パニック状態になる</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects>ゴーストがあなたを追跡し、戦利品をドロップしない</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+
+  <Shaman.label>シャーマン</Shaman.label> <!-- <En>shaman</En> -->
+  <Shaman.description>価値あるキルを達成するたびにマナポイントを1得るが、その代償としてインベントリのスロット数が少なくなる。</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
+
+  <Vampire.label>ヴァンパイア</Vampire.label> <!-- <En>vampire</En> -->
+  <Vampire.description>価値あるキルを達成するたびにHPを1回復する。その代償として、日中の体力回復が無効になり、火に脆弱になり、犬から敵対される。</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
+  <Vampire.badEffects><li>7:00から19:00まで体力回復なし</li><li>7:00から19:00まで視界範囲-1</li><li>犬に対して敵対的</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <li>-1 vision range from 7:00 to 19:00</li>
+  <li>Hostile to dogs</li></En> -->
+
+</SpecTranslations>

@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>แบนเนอร์ปริศนา</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>แบนเนอร์สีสันสดใส</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>ถ้วยรางวัล</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>ถ้วยรางวัลบอสแต่ละถ้วยจะสร้างละอองดาวเท่ากับชั้นที่บอสถูกสังหาร ละอองดาวจะถูกเติมใหม่ทุกครั้งที่คุณไปถึงอย่างน้อยชั้นที่สองของดันเจี้ยน</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>ตู้เสื้อผ้า</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>เปลี่ยนรูปลักษณ์ของคุณได้ที่นี่</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>กระดานท้าทายรายวัน</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>เข้าร่วมการท้าทายรายวัน ทุกคนทั่วโลกจะได้รับการท้าทายเดียวกันในแต่ละวัน!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>ที่จัดแสดง</Display.label> <!-- <En>display</En> -->
+  <Display.description>สถานที่สำหรับวางไอเทม</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>ประตูมิติ</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>นี่คือจุดสิ้นสุดใช่หรือไม่?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>ตัวกระตุ้นบทสนทนาสุดท้าย</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>ป้ายทางเดิน</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>มีทางเดินอยู่หลังประตูนี้</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>ประตู</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>ประตูนี้ดูเหมือนจะล็อกอยู่</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>ประตู</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>ประตูนี้ดูเหมือนจะล็อกอยู่</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>คุณต้องการปลดล็อกทางเดินด้วยละอองดาว 60 หน่วยหรือไม่?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>ปลดล็อก</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>ประตู</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>ประตูนี้ดูเหมือนจะล็อกอยู่</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>คุณต้องการปลดล็อกห้องฝึกซ้อมด้วยละอองดาว 20 หน่วยหรือไม่?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>ปลดล็อก</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>ประตูแห่งความทรงจำ</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>ประตูที่สามารถปลดล็อกได้โดยการรวบรวมชิ้นส่วนความทรงจำทั้ง 4 ชิ้นเท่านั้น</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>ประตูปริศนา</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>ประตูที่สามารถปลดล็อกได้โดยการรวบรวมชิ้นส่วนปริศนาทั้ง 10 ชิ้น มีชิ้นส่วนปริศนาหนึ่งชิ้นในทุกชั้นของดันเจี้ยน และคุณสามารถหาได้เพียงชิ้นเดียวต่อการเล่นหนึ่งครั้ง ซึ่งหมายความว่าชิ้นสุดท้ายจะอยู่ที่ชั้น 10</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>กระจกวิเศษ</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>เปลี่ยนคุณสมบัติของคุณได้ที่นี่</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>ประตูแห่งความทรงจำ</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>ประตูที่สามารถปลดล็อกได้โดยการรวบรวมชิ้นส่วนความทรงจำทั้ง 4 ชิ้นเท่านั้น</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>ชิ้นส่วนความทรงจำ</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>ชิ้นส่วนความทรงจำที่ไม่รู้จัก</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>ชิ้นส่วนความทรงจำ</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>ชิ้นส่วนความทรงจำที่ไม่รู้จัก</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>ชิ้นส่วนความทรงจำ</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>ชิ้นส่วนความทรงจำที่ไม่รู้จัก</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>ชิ้นส่วนความทรงจำ</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>ชิ้นส่วนความทรงจำที่ไม่รู้จัก</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>บันได</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>บันไดที่นำไปสู่ดันเจี้ยน</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>บันได</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>บันไดที่นำไปสู่ดันเจี้ยนซึ่งให้คุณใช้ซีดเวิลด์ที่ระบุได้ ความคืบหน้าในล็อบบี้และเควสทั้งหมดจะถูกปิดใช้งานในดันเจี้ยนนี้</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>ป้ายห้องส่วนตัว</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>ห้องส่วนตัวของคุณ... ก็ต่อเมื่อคุณซื้อมันแล้วนะ</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>ประตูปริศนา</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>ประตูที่ถูกปลดล็อกโดยการรวบรวมชิ้นส่วนปริศนาทั้งหมด</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>ป้ายห้องปริศนา</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>ห้องลึกลับ</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>กระดานเควส</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>ดูเควสทั้งหมดที่มีและที่ทำสำเร็จแล้ว</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>ป้ายร้านค้า</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>มีร้านค้าอยู่ที่นี่ คุณสามารถใช้ละอองดาวเพื่อซื้อบูสต์สำหรับการเล่นครั้งต่อไปของคุณได้</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>ท้องฟ้า</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>วิวสวยงาม</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>ท้องฟ้า</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>วิวสวยงาม</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>บันได</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>บันไดที่นำไปสู่ดันเจี้ยน</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>กระดานสถิติ</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>ดูสถิติทั้งหมดของคุณ</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>ป้ายห้องฝึกซ้อม</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>มีห้องฝึกซ้อมอยู่ที่นี่ คุณสามารถฝึกซ้อมต่อสู้กับศัตรูประเภทต่าง ๆ ได้</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>บันได</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>บันไดที่นำไปสู่ห้องฝึกซ้อม ฝึกซ้อมต่อสู้กับศัตรูและบอส</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>กองขยะ</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>กองขยะที่ขวางห้องนี้อยู่ ใช้ละอองดาวเพื่อกำจัดมันอย่างถาวร</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>คุณต้องการเก็บกวาดกองขยะนี้ด้วยละอองดาว 40 หน่วยหรือไม่?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>เก็บกวาด</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>โคมไฟติดผนัง</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>โคมไฟติดผนังมีสไตล์</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

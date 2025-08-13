@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>ősi tároló</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Ezt a tárolót csak 3 ősi mechanizmussal lehet kinyitni. Valahol ezen a szinten kell lenniük.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Egy ősi tárolót látsz magad előtt.\n\nCsak 3 ősi mechanizmussal lehet kinyitni.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Kinyitás</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>ősi szerkezet</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>Valamiféle ősi szerkezet, amit kutathatsz. Ha mind a hármat kikutatod, feloldhatod és jutalmat kapsz.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>medence ellenszerrel</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>Egy kis medence, méreg ellenszerével töltve. Itt némi manáért cserébe eltávolíthatod a mérgezett állapotot.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Egy medencét látsz magad előtt, tele ellenszerrel.\n\nItt némi manáért cserébe eltávolíthatod a mérgezett állapotot.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>Ivás</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>üllő</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Itt fejlesztheted a felszerelésed szintjét.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Egy üllőt látsz magad előtt.\n\nItt vasért cserébe fejlesztheted a felszerelésed szintjét.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>ágy</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>Egy kényelmes ágy. Regenerálhatsz némi életerőt, de 50% esély van rá, hogy egy ellenség észrevesz.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Egy ágyat látsz magad előtt.\n\nRegenerálhatsz némi életerőt, de 50% esély van rá, hogy egy ellenség észrevesz.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Alvás</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>nagy mágnes</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>Minden második körben magához vonz mindenkit a közelben.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>könyvespolc</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>Egy könyvespolc, ami egy képességpontot ad neked.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>ketrec</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>Egy fémketrec, benne valamivel vagy valakivel. Csak akkor nyithatod ki, ha nincs élő főellenség ezen a kazamataszinten.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Egy nagy, fém, rozsdás ketrecet látsz magad előtt.\n\nKi akarod nyitni?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Kinyitás</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>ágyú</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>Egy halálos csapda, amely mindenkit megsebez, aki a tűzvonalában áll. Támadással aktiválható.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>üst</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Cserélj el bármilyen italt egy véletlenszerű tekercsre.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Egy üstöt látsz magad előtt.\n\nItt bármilyen italt elcserélhetsz egy véletlenszerű tekercsre.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>mennyezeti tüskék</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>Egy halálos csapda, amely mindenkit megsebez, aki alatta áll. Támadással aktiválható.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>láda</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>Ez a láda mindent tartalmaz, amire valaha vágytál. Vagy csak egy rothadó rongydarabot és néhány követ.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>ördögszobor</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>Egy baljós szobor. Elátkozott tárgyakat fogad el jutalmakért cserébe.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>Az ördögszobor téged bámul.\n\nHa van nálad elátkozott tárgy, odaadhatod a szobornak jutalomért cserébe.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>sárkánymaradványok</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>Egy halom sárkánycsont. Lehet, hogy rejtőzik itt valami.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Sárkánymaradványokat látsz magad előtt.\n\nHa akarod, kereshetsz itt rejtett kincset.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Kutatás</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>duplikátor</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>Egy szerkezet, ami bármilyen tárgyat képes megduplázni... vagy elpusztítani.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Egy duplikátort látsz magad előtt.\n\n30 aranyért megpróbálhatsz megduplázni egy tárgyat.\n\nAzonban 40% esély van rá, hogy a tárgy helyette megsemmisül.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>elektronikus széf</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Ezt a széfet csak egy máshol található gomb megnyomásával lehet kinyitni.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>gomb</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Ez a gomb kinyit egy elektronikus széfet valahol.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>bűvölőasztal</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Bűvöld el a felszerelésed egy kis adományért cserébe.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Egy bűvölőasztalt látsz magad előtt.\n\nAz asztal alatt egy érmenyílás található, és egy tábla, amely szerint a folytatáshoz 170 aranyérme adomány szükséges.\n\nEgy véletlenszerű bűbáj kerül a választott fegyveredre vagy páncélodra.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>szökőkút</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Igyál ebből a szökőkútból egy enyhe, de hosszan tartó hatásért – pozitív vagy negatív.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Egy szökőkutat látsz magad előtt.\n\nHa iszol belőle, enyhe, de hosszan tartó mágikus hatást vált ki.\n\nDobhatsz bele néhány aranyérmét a szerencséért.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>Ivás</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Az Élet Kútja</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Ha iszol ebből a kútból, teljesen meggyógyulsz, visszatöltődik az összes manád, állóképességed, jóllakottságod, és rövid ideig tartó immunitást kapsz a méreg ellen.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Az Élet Kútját látod magad előtt.\n\nHa iszol ebből a kútból, teljesen meggyógyulsz, visszatöltődik az összes manád, állóképességed, jóllakottságod, és rövid ideig tartó immunitást kapsz a méreg ellen.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>Ivás</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>szerencsejáték-asztal</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Tégy fel némi pénzt, ha szerencsésnek érzed magad.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Egy szerencsejáték-asztalt látsz magad előtt.\n\nFeltehetsz némi pénzt, ha szerencsésnek érzed magad, és 50/50 esélyed van a duplázásra vagy a vesztésre.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>aranyozott ládika</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>Ezen a ládikán van egy érmenyílás. 50 arany bedobásával nyithatod ki.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Egy aranyozott ládikát látsz magad előtt.\n\n50 arany bedobásával nyithatod ki.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Kinyitás</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>sír</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Áss, hogy rejtett kincset keress.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Egy sírt látsz magad előtt.\n\nBiztosan el van itt temetve valami.\n\nKiáshatod a sírt, vagy békén hagyhatod. Ki tudja, mit találsz itt.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Ásás</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>zöld láda</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Ezt a ládát csak 3 zöld kulcstöredékkel lehet kinyitni. Általában az ellenségeknél vannak.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Egy zöld ládát látsz magad előtt.\n\nCsak 3 zöld kulcstöredékkel lehet kinyitni.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Kinyitás</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>függő ketrec</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>Egy fémketrec, benne valamivel vagy valakivel. Csak akkor nyithatod ki, ha nincs élő főellenség ezen a kazamataszinten.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Egy nagy, fém, rozsdás ketrecet látsz magad előtt.\n\nKi akarod nyitni?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Kinyitás</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>gyógyító kristály</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Meggyógyítja az összes életerőpontodat.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>gyógynövény</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>Egy növény szokatlan gyógyító tulajdonságokkal. Készíthetsz belőle életerő italt.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>kar</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Kinyitja az összes kaput és riaszt mindenkit a szinten. Csak akkor húzd meg, ha készen állsz a menekülésre!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Meg akarod húzni a kart?\n\nKinyitja az összes kaput, de minden ellenség felébred.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Meghúzás</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>végtagfelajánló oltár</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Itt feláldozhatod egy végtagodat egy véletlenszerű jutalomért cserébe.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Egy végtagfelajánló oltárt látsz magad előtt.\n\nItt feláldozhatod egy végtagodat egy véletlenszerű jutalomért cserébe.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Végtag felajánlása</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>manakristály</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Visszatölti az összes manádat, így újra használhatod a varázslataidat.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>mananövény</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>Egy növény szokatlan mágikus tulajdonságokkal. Készíthetsz belőle mana italt.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>fém láda</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>Egy fém láda. Talán tartalmaz valami hasznosat.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>Fantom oltára</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Idézz egy halálos Fantomot. Bónuszt kapsz a fizikai sebzésedre cserébe a csökkent látásért.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>A Fantom oltárát látod magad előtt.\n\nItt megidézhetsz egy halálos Fantomot, amiért +25% fizikai sebzést kapsz.\n\nTovábbá, 25 körön keresztül a látótávolságod 1-re csökken.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Idézés</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>portál</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>A térkép egy véletlenszerű pontjára teleportál. Azonban, ha újra használod, mindig ugyanoda visz vissza.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>közelítő bomba</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Ez a bomba közelítésre aktiválódik, és néhány kör múlva felrobban, ha megközelítik.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>közelítő tűzbomba</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Ez a tűzbomba közelítésre aktiválódik, és néhány kör múlva felrobban, ha megközelítik.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>közelítő füstbomba</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Ez a füstbomba közelítésre aktiválódik, és néhány kör múlva felrobban, ha megközelítik.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>patkányfészek</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Egy fészek tele patkányokkal. A patkányok nem jönnek elő, hacsak nem zavarják meg őket. Átkutathatod rejtett kincsért.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Egy patkányfészket látsz magad előtt.\n\nHa akarod, kereshetsz itt rejtett kincset.\n\nAzonban, ha megteszed, patkányok kezdenek előjönni a fészekből.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Kutatás</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>zsivány szentélye</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Szerezz több állóképességet, jobb látótávolságot és tűzsebzés-ellenállást egy kis időre, egy kis adományért cserébe.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Egy zsivány szentélyét látod magad előtt.\n\nSzerezz több állóképességet, jobb látótávolságot és tűzsebzés-ellenállást egy kis adományért cserébe.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Tovább</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>végportál</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>Egy fényes portál. Itt a vége.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>áldozati oltár</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Áldozz fel két méltó ellenfelet ezen az oltáron jutalomért.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>széf</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>Talán valami értékeset rejt, de a megsemmisítése trükkös lehet. Talán robbanószerekkel?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>bolt</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Semmi sem jobb egy frissen facsart narancsle... akarom mondani erő italtól.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>szentély</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Kapj egy áldást, ingyen!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Egy szentélyt látsz magad előtt.\n\nItt áldásban részesülhetsz.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Tovább</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>ezüst láda</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Úgy tűnik, valami értékeset rejt. Egy ezüst kulcsra van szükséged a kinyitásához.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Egy ezüst ládát látsz magad előtt.\n\nCsak ezüst kulccsal nyitható.\n\nNe feledd, több lezárt láda lehet, mint ahány kulcs elérhető, ezért használd a kulcsaidat bölcsen.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Kinyitás</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>csontvázmaradványok</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>Egy halom csont. Lehet, hogy rejtőzik itt valami.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Csontvázmaradványokat látsz magad előtt.\n\nHa akarod, kereshetsz itt rejtett kincset.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Kutatás</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>kis gyógyító kristály</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>A maximális életerőpontjaid 50%-át gyógyítja.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>kis manakristály</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>A maximális manád 50%-át tölti vissza.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>lépcső</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>Egy lépcső, amely a kazamata alsóbb szintjére vezet.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Le akarsz menni a lépcsőn a kazamata alsóbb szintjére?\n\nNem fogsz tudni visszajönni.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Tovább</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>lépcső az előcsarnokba</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>Egy lépcső, ami visszavezet az előcsarnokba. Ez befejezi a jelenlegi nekifutásodat, de megtartasz némi tapasztalatot és aranyat a következőre. Emellett nem veszted el az előcsarnokban vásárolt egyszer használatos bónuszokat sem.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Vissza akarsz menni az előcsarnokba?\n\nEz befejezi a jelenlegi nekifutásodat, de megtartod a tapasztalatod 25%-át és az aranyad 50%-át a következőre.\nEmellett nem veszted el az előcsarnokban vásárolt egyszer használatos bónuszokat sem.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Tovább</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>sebészeti ágy</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>Egy autonóm sebészeti gép, amely egy kisebb összegért cserébe visszaállítja az összes hiányzó testrészt.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Egy autonóm sebészeti gépet látsz magad előtt.\n\nAlatta egy érmenyílás található, és egy tábla, amely szerint 150 aranyért a gép képes visszaállítani az összes hiányzó testrészedet.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>Fizess 150 aranyat</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>időgép</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Utazz vissza az időben.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Egy időgépet látsz magad előtt.\n\nHasználatával visszautazhatsz az időben.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Használat</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>A Megnyomorítás Próbája</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Pusztíts el 6 testrészt 120 körön belül a jutalomért.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>A Megnyomorítás Próbáját látod magad előtt.\n\nNémi aranyért cserébe elindíthatsz egy kihívást, amelyben 6 testrészt kell elpusztítanod 120 körön belül.\n\nA kihívás teljesítéséért jutalmat kapsz.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>Fizess 20 aranyat</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>A Gyors Gyilkos Próbája</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Ölj meg 4 méltó (tapasztalatot adó) ellenséget 100 körön belül a jutalomért.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>A Gyors Gyilkos Próbáját látod magad előtt.\n\nNémi aranyért cserébe elindíthatsz egy kihívást, amelyben 4 méltó ellenséget kell megölnöd 100 körön belül.\n\nA kihívás teljesítéséért jutalmat kapsz.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>Fizess 20 aranyat</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>A Szeplőtelen Próbája</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Ölj meg 2 méltó (tapasztalatot adó) ellenséget életerőpont-veszteség nélkül a jutalomért.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>A Szeplőtelen Próbáját látod magad előtt.\n\nNémi aranyért cserébe elindíthatsz egy kihívást, amelyben 2 méltó ellenséget kell megölnöd életerőpont-veszteség nélkül.\n\nA kihívás teljesítéséért jutalmat kapsz.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>Fizess 20 aranyat</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>fejlesztő gömb</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Egy gömb, amellyel választhatsz egy maradandó hatást. Választhatsz extra életerő, extra kritikus találati esély, alacsonyabb elvétési esély és tűzállóság közül.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Ez egy fejlesztő gömb, amely maradandó hatásokat biztosít erre a menetre.\n\nVálaszthatsz extra életerő, extra kritikus találati esély, alacsonyabb elvétési esély és tűzállóság közül.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>harcos szentélye</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>Engedd szabadjára a benned rejlő harcost, és bizonyítsd, hogy méltó vagy. Felezd meg a maximális életerődet cserébe 25%-kal magasabb fizikai sebzésért egy ideig.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Egy harcos szentélyét látod magad előtt.\n\nFelezd meg a maximális életerődet cserébe 25%-kal magasabb sebzésért 400 körön át.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Folytatás</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>darázsfészek</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Rendkívül nagy darazsak fészke.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>varázsló szentélye</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Növeld a maximális manádat és szerezz némi mágikus sebzés elleni ellenállást egy ideig egy kis adományért cserébe.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Egy varázsló szentélyét látod magad előtt.\n\n80 aranyért cserébe áldásban részesülhetsz, amely +2 maximális manát ad 400 körre, és mágikus sebzés elleni ellenállást 100 körre.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>Fizess 80 aranyat</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

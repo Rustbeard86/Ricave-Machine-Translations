@@ -1,4 +1,4 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <Introduction.label>Новий дім</Introduction.label> <!-- <En>New home</En> -->
   <Introduction.description>Увійдіть у підземелля та вбийте 3 скелетів.</Introduction.description> <!-- <En>Enter the dungeon and kill 3 skeletons.</En> -->
@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>Втрата пам'яті</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>Знайдіть перший Уламок спогадів на 3-му поверсі.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>Ви втратили пам'ять, але є щось, що може допомогти вам згадати, що сталося до того, як ви сюди потрапили.\n\nЗнайдіть перший Уламок спогадів на третьому поверсі.\n\nСпочатку все це може здатися складним, але з кожним кроком ви будете наближатися до розблокування своїх забутих спогадів.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>Уламок спогадів на 3-му поверсі</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>Фрагмент спогаду на 3 поверсі</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>Втрата пам'яті: Розділення</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>Знайдіть другий Уламок спогадів на 4-му поверсі.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>Ви робите успіхи. Ви потроху починаєте згадувати, що сталося — ви пішли в похід з друзями. На ваш подив, Майя також тут.\n\nЗнайшовши другий Уламок спогадів, ви згадаєте, що було далі. Він має бути в руках міні-боса на 4-му поверсі.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>Уламок спогадів на 4-му поверсі</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>Фрагмент спогаду на 4 поверсі</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>Втрата пам'яті: Печера</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>Знайдіть третій Уламок спогадів на 6-му поверсі.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>Ви починаєте згадувати, що сталося. Відділившись від своєї групи, ви натрапили на печеру. На жаль, ви послизнулися і зламали ногу. Але що сталося далі?\n\nЗнайдіть третій Уламок спогадів. Він має бути десь на 6-му поверсі, і не забудьте взяти з собою мотузку.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>Уламок спогадів на 6-му поверсі</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>Фрагмент спогаду на 6 поверсі</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>Втрата пам'яті: Порятунок</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>Знайдіть останній Уламок спогадів на 8-му поверсі.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>Ви майже у цілі. Дивно, але саме Майя знайшла вас у тій печері. Проте ви досі не розумієте, чому ви тут. Вам потрібно більше відповідей.\n\nЗнайдіть останній Уламок спогадів. Він має бути десь на 8-му поверсі в отруйній пастці.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>Уламок спогадів на 8-му поверсі</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>Фрагмент спогаду на 8 поверсі</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>Порятунок</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>Врятуйте друга Тіні на 2-му поверсі.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>Щоб отримати більше інформації від Тіні, ви повинні спершу врятувати його друга. Він замкнений у клітці десь на другому поверсі цього підземелля.\n\nЗауважте, що ви можете виконувати завдання в будь-якому підземеллі, якщо в ньому достатньо поверхів. Чим далі ви просуваєтесь, тим більше поверхів матимуть підземелля.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>Персонаж для порятунку на 2-му поверсі</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>Розблокувати нову кімнату в лобі</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>Особа для порятунку на 2 поверсі</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>Відкрити нову кімнату у вестибюлі</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

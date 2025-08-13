@@ -1,0 +1,53 @@
+<SpecTranslations>
+
+  <FindRelic.label>Najít relikvii</FindRelic.label> <!-- <En>Find Relic</En> -->
+  <FindRelic.description>Najdi prastarou relikvii na 4. patře.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
+  <FindRelic.ThereAppearsToBeAnAgeold>Zdá se, že na 4. patře je prastará relikvie zahalená tajemstvím. Jdi a najdi ji.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
+  <FindRelic.dungeonModifiers>Relikvie na 4. patře</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+
+  <KillHypnorak.label>Zabít Hypnoraka</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
+  <KillHypnorak.description>Zabij Hypnoraka – dračího mini-bosse na 3. patře.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
+  <KillHypnorak.YourNextChallengeAwaits>Tvá další výzva na tebe čeká na 3. patře, kde sídlí Hypnorak. Seber odvahu a poraz ho.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
+  <KillHypnorak.dungeonModifiers>Hypnorak na 3. patře</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+
+  <KillMimics.label>Lovec mimiků</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
+  <KillMimics.description>Zabij 10 mimiků.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
+  <KillMimics.NotAllTreasuresAreWhat>Ne všechny poklady jsou tím, čím se zdají být. Některé truhly mají ostré zuby a chuť na neopatrné. Tvým úkolem je zlikvidovat 10 mimiků.</KillMimics.NotAllTreasuresAreWhat> <!-- <En>Not all treasures are what they seem. Some chests bear sharp teeth and an appetite for the unwary. Your goal is to eliminate 10 mimics.</En> -->
+  <KillMimics.KillMimicsKillCount10>[KillMimics_KillCount] / 10</KillMimics.KillMimicsKillCount10> <!-- <En>[KillMimics_KillCount] / 10</En> -->
+
+  <KillNightmareLord.label>Zabít Pána nočních můr</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
+  <KillNightmareLord.description>Zabij Pána nočních můr – kostlivého mini-bosse na 1. patře.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
+  <KillNightmareLord.YourMissionIsToConfront>Tvým úkolem je postavit se zlověstnému Pánu nočních můr – kostlivé zrůdě. Naštěstí nemusíš hledat daleko, protože jeho doupě najdeš hned na prvním patře.\n\nUpozornění: Tento úkol můžeš splnit pouze v dungeonech, které mají mini-bosse.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
+  <KillNightmareLord.dungeonModifiers>Pán nočních můr na 1. patře</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+
+  <KillPhantasmos.label>Zabít Phantasma</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
+  <KillPhantasmos.description>Zabij Phantasma – mumiového mini-bosse na 4. patře.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
+  <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>Na 4. patře čeká Phantasmos, mumie zahalená prastarými tajemstvími. Tvým úkolem je ho porazit.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
+  <KillPhantasmos.dungeonModifiers>Phantasmos na 4. patře</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+
+  <KillSkeletons.label>Zahřívačka</KillSkeletons.label> <!-- <En>Warmup</En> -->
+  <KillSkeletons.description>Zabij 10 kostlivců.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
+  <KillSkeletons.ItLooksLikeYoureGoing>Vypadá to, že tu chvíli zůstaneš, takže by sis měl trochu zacvičit. Zabij 10 kostlivců.</KillSkeletons.ItLooksLikeYoureGoing> <!-- <En>It looks like you're going to stay here for a while, so you should practice a bit. Kill 10 skeletons.</En> -->
+  <KillSkeletons.KillSkeletonsKillCount>[KillSkeletons_KillCount] / 10</KillSkeletons.KillSkeletonsKillCount> <!-- <En>[KillSkeletons_KillCount] / 10</En> -->
+
+  <KillSlimes.label>Pokročilá zahřívačka</KillSlimes.label> <!-- <En>Advanced Warmup</En> -->
+  <KillSlimes.description>Zabij 10 slizů.</KillSlimes.description> <!-- <En>Kill 10 slimes.</En> -->
+  <KillSlimes.NowThatYouveGottenSome>Teď, když sis trochu zacvičil, je čas na opravdovou výzvu. Slizové napadli dungeon a je na tobě, abys to zastavil. Zabij 10 slizů.</KillSlimes.NowThatYouveGottenSome> <!-- <En>Now that you've gotten some practice, it's time for a real challenge. Slimes have invaded the dungeon and it's up to you to put a stop to this. Kill 10 slimes.</En> -->
+  <KillSlimes.KillSlimesKillCount10>[KillSlimes_KillCount] / 10</KillSlimes.KillSlimesKillCount10> <!-- <En>[KillSlimes_KillCount] / 10</En> -->
+
+  <MoonlightMedallions.label>Měsíční medailony</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
+  <MoonlightMedallions.description>Nasbírej 4 měsíční medailony na 2. patře.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
+  <MoonlightMedallions.ThereAre4MoonlightMedallions>Na druhém patře tohoto dungeonu jsou roztroušeny 4 měsíční medailony. Všechny je posbírej, abys odhalil jejich význam.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
+  <MoonlightMedallions.dungeonModifiers>4 měsíční medailony na 2. patře</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+
+  <PhantomSwarm.label>Roj fantomů</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
+  <PhantomSwarm.description>Potlač nepokoje fantomů na 3. patře.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
+  <PhantomSwarm.PhantomsHaveOverrunThe>Fantómové zaplavili třetí patro. Ukonči to tím, že zabiješ alespoň 3 z nich.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
+  <PhantomSwarm.dungeonModifiers>3 fantómové navíc na 3. patře</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+
+  <RatInfestation.label>Zamoření krysami</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
+  <RatInfestation.description>Vypořádej se se zamořením krysami na 2. patře.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
+  <RatInfestation.RatsEverywhereYouHave>Všude samé krysy! Musíš vyřešit tento otravný problém a vypořádat se se zamořením krysami na druhém patře. Pro dokončení tohoto úkolu tam budeš muset zabít alespoň 5 krys. Varování: Přijetí tohoto úkolu znamená, že se na druhém patře objeví více krys.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
+  <RatInfestation.dungeonModifiers>5 krys navíc na 2. patře</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+
+</SpecTranslations>

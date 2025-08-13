@@ -1,0 +1,46 @@
+<SpecTranslations>
+
+  <Entangle.label>휘감기</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>대상을 잠시 동안 움직이지 못하게 만듭니다. 휘감긴 적은 그 자리에서 공격할 수 있다는 점에 유의하세요.</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>허기 채우기</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>실제로 아무것도 먹지 않고 무언가를 먹는 것과 같습니다. 마법이죠.</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>화염구</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>화염구를 시전하여 폭발을 일으키고 모든 인접한 칸에 불을 붙입니다.</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>빙결</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>대상을 잠시 동안 얼립니다. 얼어붙은 적은 움직이거나 공격할 수 없습니다.</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>끈적이 웅덩이</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>지나가는 모든 캐릭터의 속도를 늦추는 끈적이 웅덩이를 생성합니다.</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>성장</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>3x3 크기의 풀과 덩굴을 생성합니다. 적을 막는 데 좋습니다.</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>치유</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>체력을 일부 회복하고 출혈을 치료합니다.</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>감정</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>선택한 아이템을 감정합니다. 자신에게 이 주문을 사용하면 소지품에 있는 아이템을 감정할 수 있습니다.</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>감정할 아이템을 선택하세요.</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>마법 장벽</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>일시적인 마법 장벽을 생성합니다.</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>광역 밀치기</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>자신으로부터 모든 대상을 밀어냅니다.</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>밀치기</Push.label> <!-- <En>push</En> -->
+  <Push.description>대상을 자신으로부터 밀어냅니다.</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>강타</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>대상에게 피해를 줍니다.</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>순간이동</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>지정한 위치로 순간이동합니다. 이 주문은 턴을 소모하지 않으므로 재빨리 탈출하기에 좋습니다.</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>무작위 순간이동</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>대상을 지도상의 무작위 위치로 순간이동시킵니다.</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>เข้าใกล้และโจมตี จากนั้นถอยเพื่อหลบเลี่ยงการถูกโจมตี</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>โจมตี จากนั้นหนีเป็นเวลา 8 เทิร์น เว้นแต่จะจนมุม</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>จะไม่เข้าใกล้ก่อน แต่จะอยู่สู้เมื่อถูกเข้าใกล้</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>หนีตลอดเวลา</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>รักษาระยะห่าง เว้นแต่จะจนมุม</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>รักษาระยะห่าง เว้นแต่จะจนมุมหรือไม่มีอาวุธ</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>ติดตามผู้เล่นและโจมตี (สมาชิกปาร์ตี้)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>ติดตามผู้เล่นและโจมตีเมื่อมีโอกาส</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>เข้าใกล้และโจมตี</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>ยืนนิ่งหรือหนีหากถูกโจมตี</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>ยืนนิ่ง</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>ยืนนิ่งและฟื้นฟูพลังชีวิตให้พันธมิตร</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>ยืนนิ่งหรือหนีหากถูกโจมตี</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>ขโมยแล้ววิ่งหนี</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,21 @@
+<SpecTranslations>
+
+  <Bomb_Damage.label>爆発弾</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
+  <Bomb_Damage.description>ターゲットと隣接する全員がダメージを受ける。</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
+
+  <Bomb_Drunkenness.label>酩酊爆弾</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
+  <Bomb_Drunkenness.description>ターゲットと隣接する全員が酩酊状態になる。</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
+
+  <Bomb_Fire.label>火炎爆弾</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
+  <Bomb_Fire.description>爆発により、隣接する全てのマスで火災が発生する。</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
+
+  <Bomb_Freeze.label>氷結爆弾</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
+  <Bomb_Freeze.description>ターゲットと隣接する全員が氷結状態になる。</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
+
+  <Bomb_Poison.label>毒爆弾</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
+  <Bomb_Poison.description>隣接する全てのマスに毒雲が発生する。</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
+
+  <Bomb_Smoke.label>煙幕弾</Bomb_Smoke.label> <!-- <En>smoke bomb</En> -->
+  <Bomb_Smoke.description>隣接する全てのマスに煙幕が発生する。</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
+
+</SpecTranslations>

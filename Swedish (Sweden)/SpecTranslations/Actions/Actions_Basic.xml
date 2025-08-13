@@ -1,0 +1,24 @@
+<SpecTranslations>
+
+  <ChooseSpell.label>välj besvärjelse</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>En ny besvärjelse {0} väljs</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>flytta sig</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0} flyttar sig {1}</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>plocka upp föremål</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>{0} plockar upp {1}</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>ändra ordning på besvärjelse</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>{1} omordnas</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>sov</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>{0} sover</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>använd</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>{0} använder {1} på {2}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>vänta</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>{0} väntar</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

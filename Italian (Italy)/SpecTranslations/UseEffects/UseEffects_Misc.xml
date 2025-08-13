@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>aggiungi condizione</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>Il bersaglio otterrà una nuova condizione.</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>su bersaglio: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>aggiungi effetto</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>Il bersaglio otterrà un nuovo effetto.</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>aggiungi effetto: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>lega al palo</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>Lega il bersaglio a un palo.</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>sbarra la porta</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>Sbarra una porta. L'unico modo per superare le porte sbarrate è distruggerle.</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>lampo accecante</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>Acceca chiunque possa vederti in questo momento.</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>lampo accecante {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>nasconditi sottoterra</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>Nasconditi sottoterra.</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>scambia pozione per pergamena</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>Riceverai una pergamena casuale in cambio di una pozione qualsiasi.</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>fai crollare il soffitto</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>Il soffitto crollerà se non c'è altro supporto.</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>crolla il soffitto ({0} {1} danni)</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>fai crollare il soffitto (una cella)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>Il soffitto qui crollerà e ferirà chiunque si trovi sotto.</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>crolla il soffitto (una cella) ({0} {1} danni)</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>raccogli polvere di stelle</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>Raccogli la polvere di stelle dal trofeo.</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>raccogli polvere di stelle x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>cucina</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>Cucina del cibo.</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>incanta equipaggiamento (cristallo)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>Applica un incantamento all'equipaggiamento che preferisci.</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>offri oggetto maledetto</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>Offri un oggetto maledetto alla statua del diavolo in cambio di una ricompensa.</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>infliggi danni</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>Il bersaglio perderà il numero specificato di punti vita meno la sua armatura.</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1} danni</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>distruggi</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>Il bersaglio verrà distrutto.</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>scava</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>Scava per rimuovere cose come la terra.</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>distruggi oggetti fragili</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>Distruggi oggetti fragili come muri di mattoni e cancelli.</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>distruggi vetro</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>Distruggi oggetti di vetro come finestre e pavimenti di vetro.</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>estrai</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>Estrai oggetti che possono essere estratti, come i cristalli.</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>distruggi parte del corpo</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>Distruggi una parte del corpo casuale.</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>ottieni ricompensa</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>Ottieni una ricompensa casuale.</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>duplica</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>Un oggetto a tua scelta verrà duplicato o distrutto.</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>duplica ({0} probabilità)</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>incanta equipaggiamento</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>Applica un incantamento casuale all'equipaggiamento che preferisci.</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>estingui</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>Estingui qualsiasi fuoco.</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>nutriti</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>Sazia la tua fame.</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>sazietà {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>termina la partita</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>Termina questa partita e torna alla lobby.</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>pesca un pesce</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>Pesca un pesce.</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>ottieni punto abilità</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>Ottieni un punto abilità.</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>scommetti</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>Scommetti i tuoi soldi e vedi se vinci.</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>cura</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>Al bersaglio verrà ripristinato il numero specificato di punti vita.</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>cura {0} PV</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>identifica un oggetto</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>Identifica un oggetto.</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>identifica oggetti</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>Identifica oggetti (per il numero specificato di turni di identificazione).</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>identifica oggetti {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>fai rumore</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>Sveglia le creature addormentate nel raggio specificato.</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>apri cassaforte elettronica</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>Apri una cassaforte elettronica da qualche parte.</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>paga</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>Dovrai cedere alcuni oggetti.</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>paga {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>tira</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>Il bersaglio verrà tirato verso l'incantatore.</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>tira {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>spingi</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>Il bersaglio verrà spinto indietro di qualche cella.</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>spingi {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>spinta casuale</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>Il bersaglio verrà spinto in una direzione casuale.</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>spinta casuale {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>effetto casuale</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>Applica un effetto casuale.</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>ricevi oggetto</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>Un oggetto verrà dato all'utente.</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>ricevi {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>rimuovi condizione</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>Una determinata condizione verrà rimossa dal bersaglio.</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>rimuovi {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>rimuovi maledizione</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>Rimuovi la maledizione da un oggetto nell'inventario del bersaglio. Verrà data priorità alla rimozione della maledizione dagli oggetti equipaggiati.</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>rimuovi condizione</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>Una determinata condizione verrà rimossa dal bersaglio.</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>rimuovi {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>ricerca</Research.label> <!-- <En>research</En> -->
+  <Research.description>Fai una ricerca su un oggetto.</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>azzera cariche orologio</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>Le cariche del tuo orologio saranno azzerate, quindi non potrai riavvolgere il tempo per un po'.</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>ripristina mana</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>Il mana del bersaglio verrà ripristinato.</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>ripristina {0} mana</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>ripristina parti del corpo mancanti</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>Tutte le parti del corpo mancanti del bersaglio verranno ripristinate.</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>ripristina vigore</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>Il vigore del bersaglio verrà ripristinato.</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>ripristina {0} vigore</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>torna alla lobby</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>Torna alla lobby. La tua partita attuale finirà, ma conserverai alcuni oggetti.</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>riavvolgi il tempo</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>Torna indietro nel tempo.</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>riavvolgi {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>dai fuoco</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>Dai fuoco a un oggetto infiammabile.</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>dai fuoco ({0} PV)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>libera lo spirito</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>Libera uno spirito.</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>genera un oggetto</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>Un nuovo oggetto apparirà nelle vicinanze.</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>genera {0}</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>genera nemico casuale</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>Un nemico casuale apparirà nelle vicinanze.</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>genera un oggetto</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>Un nuovo oggetto apparirà nelle vicinanze.</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>genera {0}</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>ruba</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>Ruba un oggetto dal bersaglio.</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>ripristina parti del corpo mancanti</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>Tutte le parti del corpo mancanti del bersaglio verranno ripristinate.</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>teletrasporto</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>Il bersaglio verrà teletrasportato nella posizione designata.</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>teletrasporto casuale</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>Il bersaglio verrà teletrasportato in una posizione casuale.</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>sblocca</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>Sblocca un nuovo oggetto, luogo o bonus.</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>sblocca {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>aumenta livello</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>Aumenta il livello di un oggetto.</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>potenzia effetto sfera</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>Applica un potenziamento permanente.</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

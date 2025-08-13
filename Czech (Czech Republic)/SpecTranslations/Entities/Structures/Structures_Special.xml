@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>starodávná schránka</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Tuto schránku lze otevřít pouze 3 starodávnými mechanismy. Všechny by měly být někde na tomto patře.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Před sebou vidíš starodávnou schránku.\n\nLze ji otevřít pouze 3 starodávnými mechanismy.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Otevřít</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>starodávné zařízení</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>Nějaké starodávné zařízení, které můžeš prozkoumat. Pokud prozkoumáš všechny tři, můžeš jej odemknout a získat odměnu.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>nádoba s protijedem</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>Malá nádoba naplněná protijedem. Zde si můžeš odstranit stav otravy výměnou za trochu many.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Před sebou vidíš nádobu s protijedem.\n\nZde si můžeš odstranit stav otravy výměnou za trochu many.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>Napít se</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>kovadlina</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Zde si můžeš vylepšit úroveň svého vybavení.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Před sebou vidíš kovadlinu.\n\nZde si můžeš vylepšit úroveň svého vybavení výměnou za železo.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>postel</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>Útulná postel. Můžeš si zde doplnit zdraví, ale je zde 50% šance, že si tě všimne nepřítel.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Před sebou vidíš postel.\n\nMůžeš si zde doplnit zdraví, ale je zde 50% šance, že si tě všimne nepřítel.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Spát</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>velký magnet</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>Každé druhé kolo k sobě přitahuje všechny v okolí.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>knihovna</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>Polička s knihami, která ti přidá dovednostní bod.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>klec</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>Kovová klec s něčím nebo někým uvnitř. Otevřít ji můžeš, pouze pokud na tomto patře dungeonu není naživu žádný boss.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Před sebou vidíš velkou, kovovou, rezavou klec.\n\nChceš ji otevřít?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Otevřít</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>kanón</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>Smrtící past, která zraní každého, kdo stojí v její palebné linii. Spustí se útokem.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>kotel</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Vyměň jakýkoli lektvar za náhodný svitek.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Před sebou vidíš kotel.\n\nZde můžeš vyměnit jakýkoli lektvar za náhodný svitek.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>stropní bodáky</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>Smrtící past, která zraní každého, kdo pod ní stojí. Spustí se útokem.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>truhla</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>Tato truhla obsahuje vše, co si v životě můžeš přát. Buď to, nebo tlející kus látky a pár kamenů.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>ďáblova socha</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>Zlověstná socha. Přijímá prokleté předměty výměnou za odměny.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>Ďáblova socha na tebe zírá.\n\nPokud máš nějaký prokletý předmět, můžeš ho dát soše za odměnu.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>dračí ostatky</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>Hromada dračích kostí. Mohlo by tu být něco ukryto.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Před sebou vidíš dračí ostatky.\n\nPokud chceš, můžeš zde hledat skrytý poklad.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Hledat</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>duplikátor</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>Zařízení, které dokáže zduplikovat jakýkoli předmět... nebo ho zničit.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Před sebou vidíš duplikátor.\n\nZa 30 zlaťáků se můžeš pokusit zduplikovat předmět.\n\nJe zde však 40% šance, že předmět bude místo toho zničen.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>elektronický trezor</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Tento trezor lze otevřít pouze stisknutím tlačítka někde jinde.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>tlačítko</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Toto tlačítko otevře elektronický trezor, který je někde jinde.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>stůl pro očarování</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Očaruj si vybavení výměnou za malý dar.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Před sebou vidíš stůl pro očarování.\n\nPod stolem je otvor na mince a cedule, která říká, že k pokračování je zapotřebí malý dar ve výši 170 zlaťáků.\n\nNa zbraň nebo brnění dle tvého výběru bude aplikováno náhodné očarování.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>fontána</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Napij se z této fontány a získáš mírný, ale dlouhotrvající účinek - pozitivní nebo negativní.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Před sebou vidíš fontánu.\n\nNapití z ní bude mít mírný, ale dlouhotrvající magický účinek.\n\nMůžeš do ní hodit pár zlaťáků pro štěstí.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>Napít se</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Fontána života</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Napití z této fontány tě plně vyléčí, obnoví veškerou manu, výdrž a stav nasycení a poskytne krátkodobou imunitu vůči jedu.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Před sebou vidíš Fontánu života.\n\nNapití z této fontány tě plně vyléčí, obnoví veškerou manu, výdrž a stav nasycení a poskytne krátkodobou imunitu vůči jedu.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>Napít se</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>hrací stůl</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Vsaď si nějaké peníze, pokud se cítíš šťastný.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Před sebou vidíš hrací stůl.\n\nMůžeš si vsadit nějaké peníze, pokud se cítíš šťastný, a máš 50/50 šanci na výhru dvojnásobku nebo prohru.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>pozlacená schránka</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>Tato schránka má otvor na mince. Můžeš ji otevřít vložením 50 zlaťáků.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Před sebou vidíš pozlacenou schránku.\n\nMůžeš ji otevřít vložením 50 zlaťáků.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Otevřít</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>hrob</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Kopej a hledej skrytý poklad.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Před sebou vidíš hrob.\n\nUrčitě je tu něco pohřbeno.\n\nMůžeš buď hrob vykopat, nebo ho nechat v klidu. Kdo ví, co zde můžeš najít.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Kopat</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>zelená truhla</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Tuto truhlu lze otevřít pouze 3 fragmenty zeleného klíče. Obvykle je nosí nepřátelé.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Před sebou vidíš zelenou truhlu.\n\nLze ji otevřít pouze 3 fragmenty zeleného klíče.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Otevřít</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>zavěšená klec</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>Kovová klec s něčím nebo někým uvnitř. Otevřít ji můžeš, pouze pokud na tomto patře dungeonu není naživu žádný boss.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Před sebou vidíš velkou, kovovou, rezavou klec.\n\nChceš ji otevřít?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Otevřít</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>léčivý krystal</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Vyléčí všechny tvé životy.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>léčivka</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>Rostlina s neobvyklými léčivými vlastnostmi. Můžeš z ní vyrobit lektvar zdraví.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>páka</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Otevře všechny brány a upozorní všechny na patře. Zatáhni za ni, jen když jsi připraven k útěku!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Chceš zatáhnout za páku?\n\nOtevře to všechny brány, ale všichni nepřátelé se probudí.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Zatáhnout</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>oltář pro obětování končetin</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Můžeš zde obětovat svou končetinu výměnou za náhodnou odměnu.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Před sebou vidíš oltář pro obětování končetin.\n\nZde můžeš obětovat svou končetinu výměnou za náhodnou odměnu.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Obětovat končetinu</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>krystal many</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Obnoví všechnu tvou manu, takže můžeš znovu používat svá kouzla.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>manovka</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>Rostlina s neobvyklými magickými vlastnostmi. Můžeš z ní vyrobit lektvar many.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>kovová bedna</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>Kovová bedna. Může obsahovat něco užitečného.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>Oltář fantoma</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Vyvolej smrtícího fantoma. Získej bonus k udělenému fyzickému poškození výměnou za zhoršený zrak.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>Před sebou vidíš Oltář fantoma.\n\nZde můžeš vyvolat smrtícího fantoma, za což získáš +25 % k udělenému fyzickému poškození.\n\nNavíc po dobu 25 kol bude tvůj dosah vidění nastaven na 1.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Vyvolat</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>portál</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>Teleportuje tě na náhodné místo na mapě. Při dalším použití tě však vždy přenese na stejné místo.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>přibližovací bomba</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Tato bomba má přibližovací spoušť a po přiblížení exploduje po několika kolech.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>přibližovací ohnivá bomba</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Tato ohnivá bomba má přibližovací spoušť a po přiblížení exploduje po několika kolech.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>přibližovací dýmová bomba</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Tato dýmová bomba má přibližovací spoušť a po přiblížení exploduje po několika kolech.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>krysí hnízdo</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Hnízdo plné krys. Krysy nevylezou, pokud nebudou vyrušeny. Můžeš ho prohledat a najít skrytý poklad.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Před sebou vidíš krysí hnízdo.\n\nPokud chceš, můžeš zde hledat skrytý poklad.\n\nPokud to však uděláš, z hnízda začnou vylézat krysy.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Hledat</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>svatyně tuláka</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Získej na chvíli více výdrže, lepší dosah vidění a odolnost proti ohnivému poškození za malý dar.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Před sebou vidíš svatyni tuláka.\n\nZískej více výdrže, lepší dosah vidění a odolnost proti ohnivému poškození za malý dar.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Pokračovat</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>konečný portál</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>Zářivý portál. Toto je konec.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>obětní oltář</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Obětuj na tomto oltáři dva hodné protivníky a získej odměnu.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>trezor</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>Může obsahovat něco cenného, ale zničit ho může být obtížné. Možná nějakými výbušninami?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>obchod</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Nic se nevyrovná čerstvě vymačkanému pomerančovému dž... Chci říct lektvaru síly.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>svatyně</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Získej požehnání, zdarma!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Před sebou vidíš svatyni.\n\nZde můžeš získat požehnání.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Pokračovat</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>stříbrná truhla</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Vypadá to, že by mohla obsahovat něco cenného. K jejímu otevření potřebuješ stříbrný klíč.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Před sebou vidíš stříbrnou truhlu.\n\nLze ji otevřít pouze stříbrným klíčem.\n\nPamatuj, že zamčených truhel může být více než dostupných klíčů, takže své klíče používej moudře.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Otevřít</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>kosterní ostatky</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>Hromada kostí. Mohlo by tu být něco ukryto.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Před sebou vidíš kosterní ostatky.\n\nPokud chceš, můžeš zde hledat skrytý poklad.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Hledat</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>malý léčivý krystal</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>Vyléčí 50 % tvých maximálních životů.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>malý krystal many</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>Obnoví 50 % tvé maximální many.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>schodiště</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>Schodiště vedoucí do nižšího patra tohoto dungeonu.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Chceš sejít po schodech do nižšího patra dungeonu?\n\nNebudeš se moci vrátit.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Pokračovat</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>schodiště do lobby</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>Schodiště vedoucí zpět do lobby. Tím ukončíš svůj aktuální průchod, ale ponecháš si část zkušeností a zlaťáků pro ten příští. Také nepřijdeš o jednorázové bonusy, které sis koupil v lobby.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Chceš se vrátit do lobby?\n\nTím ukončíš svůj aktuální průchod, ale ponecháš si 25 % zkušeností a 50 % zlaťáků pro ten příští.\nTaké nepřijdeš o jednorázové bonusy, které sis koupil v lobby.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Pokračovat</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>chirurgické lůžko</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>Autonomní chirurgický stroj, který dokáže za malý poplatek obnovit všechny chybějící části těla.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Před sebou vidíš autonomní chirurgický stroj.\n\nPod ním je otvor na mince a cedule, která říká, že za 150 zlaťáků stroj dokáže obnovit všechny tvé chybějící části těla.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>Zaplatit 150 zlaťáků</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>stroj času</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Cestuj zpět v čase.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Před sebou vidíš stroj času.\n\nJeho použití tě přenese zpět v čase.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Použít</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>Zkouška zmrzačení</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Znič 6 částí těla během 120 tahů a získej odměnu.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>Před sebou vidíš Zkoušku zmrzačení.\n\nZa trochu zlata můžeš zahájit výzvu, ve které musíš zničit 6 částí těla během 120 tahů.\n\nPo dokončení výzvy obdržíš odměnu.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>Zaplatit 20 zlaťáků</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>Zkouška rychlého zabijáka</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Zabij 4 hodnotné nepřátele (přinášející zkušenosti) během 100 tahů a získej odměnu.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>Před sebou vidíš Zkoušku rychlého zabijáka.\n\nZa trochu zlata můžeš zahájit výzvu, ve které musíš zabít 4 hodnotné nepřátele během 100 tahů.\n\nPo dokončení výzvy obdržíš odměnu.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>Zaplatit 20 zlaťáků</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>Zkouška neposkvrněného</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Zabij 2 hodnotné nepřátele (přinášející zkušenosti), aniž bys ztratil jakékoliv životy, a získej odměnu.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>Před sebou vidíš Zkoušku neposkvrněného.\n\nZa trochu zlata můžeš zahájit výzvu, ve které musíš zabít 2 libovolné hodnotné nepřátele, aniž bys ztratil jakékoliv životy.\n\nPo dokončení výzvy obdržíš odměnu.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>Zaplatit 20 zlaťáků</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>koule vylepšení</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Koule, která ti umožní vybrat si permanentní efekt. Můžeš si vybrat mezi zdravím navíc, vyšší šancí na kritický zásah, nižší šancí na minutí a odolností vůči ohni.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Toto je koule vylepšení, která pro tento průchod hrou poskytuje permanentní efekty.\n\nMůžeš si vybrat mezi zdravím navíc, vyšší šancí na kritický zásah, nižší šancí na minutí a odolností vůči ohni.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>svatyně válečníka</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>Probuď v sobě válečníka a dokaž, že jsi hoden. Výměnou za 25% vyšší fyzické poškození na nějakou dobu si sniž maximální životy na polovinu.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Před sebou vidíš svatyni válečníka.\n\nSniž si maximální životy na polovinu výměnou za 25% vyšší poškození na 400 tahů.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Pokračovat</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>vosí hnízdo</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Hnízdo neobvykle velkých vos.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>svatyně čaroděje</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Za malý dar si na nějakou dobu zvyšte maximální manu a získejte odolnost vůči magickému poškození.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Před sebou vidíš svatyni čaroděje.\n\nZa 80 zlaťáků můžeš obdržet požehnání, které ti na 400 tahů přidá +2 k maximální maně a na 100 tahů ti poskytne odolnost vůči magickému poškození.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>Zaplatit 80 zlaťáků</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>플레이</Play> <!-- <En>Play</En> -->
+  <Quit>종료</Quit> <!-- <En>Quit</En> -->
+  <Loading>로딩 중</Loading> <!-- <En>Loading</En> -->
+  <Resume>계속하기</Resume> <!-- <En>Resume</En> -->
+  <Options>설정</Options> <!-- <En>Options</En> -->
+  <Mods>모드</Mods> <!-- <En>Mods</En> -->
+  <Credits>크레딧</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>언어 선택</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>죽고 다시 시작</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>죽고 로비로 가기</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>저장하고 게임 종료</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>닫기</Close> <!-- <En>Close</En> -->
+  <Back>뒤로</Back> <!-- <En>Back</En> -->
+  <Days>{0}일</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0}시간</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0}분</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1일</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1시간</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1분</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>오류가 발생했습니다.\n자세한 내용은 로그 파일을 참조하세요.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Steam에 로그인됨</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>선택된 모드 없음</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>앞서 해보기</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave는 현재 개발 중입니다.\n\n저는 지속적으로 더 많은 콘텐츠를 추가하고, 밸런스를 조정하며, 재미없는 메카닉을 제거하고, 피드백을 수집하려고 노력하고 있지만, 여전히 놓친 부분이 있을 수 있습니다. 게임이 너무 어렵거나 쉽다고 느끼시거나, 버그를 발견하시거나, 개선이나 새로운 기능에 대한 멋진 아이디어가 있으시다면, 개발 과정에 참여하여 저희 Discord 채널이나 Twitter에 여러분의 생각을 공유해 주세요.\n\n감사합니다. 즐겁게 플레이하세요!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>게임 업데이트됨</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricave가 {0} 버전으로 업데이트되었습니다!\n\n현재 진행 중인 게임이 새 버전과 호환되지 않을 수 있습니다. 현재 게임을 포기하고 로비로 돌아가시겠습니까?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Steam에 업로드</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>업로드 중</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Steam에 업로드할 수 없습니다: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Steam에 성공적으로 업로드되었습니다.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>메시지</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>해상도</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>전체 화면</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>UI 크기</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>시야각(FOV)</FOV> <!-- <En>FOV</En> -->
+  <VSync>수직 동기화</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>목표 프레임레이트</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>FPS 표시</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Y축 반전</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>키 설정</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>음량</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>음악 음량</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>마우스 감도</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>포인터 감도</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>SSAO 품질</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>그림자 품질</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>다운샘플링</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>외곽선</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>최대 광원</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>끄기</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>낮음</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>보통</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>높음</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>낮음</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>보통</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>높음</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>없음 (최고 품질)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5배 (낮은 품질)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2배 (최저 품질)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>멀티패스 라운드</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>멀티패스</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>싱글패스 (권장)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>확인</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>기본값 복원</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>게임 상태 초기화</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>로비로 돌아가기</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>모든 진행 상황 초기화</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>정말로 로비로 돌아가시겠습니까?\n\n게임 내에서 로비로 돌아가는 것과 달리, 이 옵션을 사용하면 현재 진행 중인 게임의 진행 상황을 잃게 됩니다. 하지만 전체 로비 진행 상황은 잃지 않습니다 (이전 퀘스트와 별가루는 그대로 유지됩니다).\n\n호환되지 않는 업데이트를 설치한 후 저장 파일이 손상된 경우 이 옵션을 사용하세요.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>정말로 모든 진행 상황을 초기화하시겠습니까?\n\n모든 데이터가 삭제되고 처음부터 다시 시작하게 됩니다.\n\n게임을 처음부터 다시 경험하고 싶거나, 진행 데이터가 손상된 경우에만 이 옵션을 사용하세요.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>할당할 키를 누르세요:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>없음</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>비디오</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>인터페이스</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>오디오</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>기타</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>품질</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>아니요</No> <!-- <En>No</En> -->
+  <Yes>예</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>던전 입장</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>시드로 던전 입장</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>훈련장 입장</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>시드 입력</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>진행 비활성화됨</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>최고 점수</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>도달한 층</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>평균 층</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>시도 횟수</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>총 처치 수</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>퀘스트</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>통계</Stats> <!-- <En>Stats</En> -->
+  <Cancel>취소</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>수락</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>퀘스트 수락</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>보상 받기</Claim> <!-- <En>Claim</En> -->
+  <Postpone>나중에</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>잠김</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>최고의 가격!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>업그레이드 필요하신가요?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>별가루 있으신가요?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>클릭하여 더 보기</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>선택하여 더 보기</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>수락 시 던전 변경 사항</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>보상</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>퍼즐 조각 {0} / {1}개</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>레벨 {0}에 잠금 해제</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>퀘스트 완료 시 잠금 해제</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>놓기</Place> <!-- <En>Place</En> -->
+  <PickUp>줍기</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>[ShowInventory] 키를 눌러 상점 메뉴를 여세요.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>없음</None> <!-- <En>None</En> -->
+  <CompletedQuests>완료된 퀘스트</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>완료</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>일일 도전</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>단 한 번의 기회입니다. 소중히 사용하세요!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>매일 전 세계 플레이어들이 동일한 던전 시드로 플레이합니다. 하루에 단 한 번의 기회만 주어집니다.\n\n규칙:\n  - 보통 난이도\n  - 부스트 비활성화\n  - 무작위 클래스 및 특성\n  - 퀘스트 비활성화\n  - 진행 비활성화\n  - 끝없는 복합 던전 (층 제한 없음)\n\n이 던전에서는 별가루를 수집할 수 없으며 통계에 포함되지 않지만, 참여 보상으로 {0}을(를) 받게 됩니다.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>다음 도전까지: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>최고 점수 (모든 날짜): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>일일 도전 시작</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>오늘의 도전을 이미 플레이했습니다\n점수: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>먼저 모드를 비활성화하세요</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>레벨 {0}에 잠금 해제</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>오늘의 순위표 보기</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>전체</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>친구</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>내 순위: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>순위표 로딩 중...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>순위표를 불러오는 데 실패했습니다.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>이용 가능한 순위표가 없습니다.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>아직 이 도전을 플레이한 친구가 없습니다.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>진행 중인 퀘스트</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>진행 중</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>수락 가능한 퀘스트</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>수락 가능</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>지난 퀘스트</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>지난 퀘스트</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>[Wait] 키를 눌러 계속</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>퀘스트</Quest> <!-- <En>Quest</En> -->
+  <Runs>도전</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>수락 가능한 퀘스트 1개</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>수락 가능한 퀘스트 {0}개</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>퀘스트 목록에서 퀘스트를 수락하세요.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>플레이어 이름</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>난이도</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>적</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>보스</Bosses> <!-- <En>Bosses</En> -->
+  <Train>훈련</Train> <!-- <En>Train</En> -->
+  <EnterNewName>새 이름 입력</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>적 체력</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>시작 체력</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>점수</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>추가 적</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>층당 빵</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>층당 체력 물약</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>적 레벨</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>층당 골드 전리품</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>별가루</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>치유 수정</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>작은 치유 수정</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>마나 수정</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>작은 마나 수정</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>적의 수</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>시작 체력 물약</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>축하합니다!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>축하합니다!\n\n최종 점수는 {0}점입니다.\n\n주요 퀘스트 라인은 끝났지만, 아직 발견할 것들이 많이 남아있을 수 있습니다.\n\n게임이 마음에 드셨다면 {1}에서 저희 Discord 서버에 참여하는 것을 고려해 보세요.</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>다음 특성 가격</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>이 특성을 먼저 잠금 해제해야 합니다.\n\n별가루로 무작위 특성을 구매할 수 있습니다. 이미 가지고 있는 특성이 많을수록 다음 특성을 구매하는 데 더 많은 비용이 듭니다.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>이 특성으로 도달한 최고 층: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>최대 2개의 특성만 선택할 수 있습니다.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>별가루가 부족합니다.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>클릭하여 이 특성을 선택하거나 선택 해제하세요.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>이 특성을 선택하거나 선택 해제하세요.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>클릭하여 선택하거나 선택 해제하세요.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>선택하거나 선택 해제하세요.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>{0}개의 무작위 특성 구매</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>선택된 특성</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>{0}으로 {1}개의 무작위 특성을 정말 구매하시겠습니까?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>{0}으로 시작</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>{0} 더 많은 골드 발견</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>{0} 더 적은 골드 발견</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>최대 HP</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>최대 마나</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>최대 스태미나</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>{0}에게 비적대적</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>{0}에게 적대적</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>{0} 독 저항</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>{0} 독 취약성</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>독 면역</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>낙하 피해 없음</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>{0} 낙하 피해</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>{0} 화염 저항</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>{0} 화염 취약성</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>{0} 마법 저항</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>{0} 마법 취약성</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{1}에게 {0} 피해</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>스태미나 재생 속도 {0}배 느려짐</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>스태미나 재생 속도 2배 느려짐</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>HP가 {1} 미만일 때 {0} 추가 피해</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>레벨당 최대 HP 획득량 {0} 감소</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>레벨당 최대 HP 획득량 {0} 증가</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>걷는 소음 {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>가치 있는 처치 시 마나 {0} 획득</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>가치 있는 처치 시 HP {0} 획득</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>가치 있는 처치 시 HP {0} 잃음</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>인벤토리 슬롯 {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>최대 HP x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>보스에게 {0} 피해</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>치유율 {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>{0} 면역</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>밀치기 면역</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>허기율 {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>상점 가격 {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>비행 가능</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>{0} 더 많은 경험치 획득</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>{0} 더 적은 경험치 획득</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>지난 플레이에서 유지된 경험치</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>지난 플레이에서 유지된 골드</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>플레이 1회 남음</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>플레이 {0}회 남음</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>시작</StartNewRun> <!-- <En>Start</En> -->
+  <Character>캐릭터</Character> <!-- <En>Character</En> -->
+  <Traits>특성</Traits> <!-- <En>Traits</En> -->
+  <Boosts>부스트</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>층</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0}층</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>층당 방 수</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>{0}으로 잠금 해제</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>완료한 난이도</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>미니 보스</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>안식처</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>구출된 영혼</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>승리</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>패배</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>{0} 보스</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>충돌 대상</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>꾸미기 아이템은 별도의 명시가 없는 한 순수하게 시각적인 효과만 있으며, 게임 플레이에 영향을 주지 않습니다.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>{1}으로 {0}을(를) 구매하시겠습니까?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>이 꾸미기 아이템을 구매할 수 없습니다.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>가격</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>경고: 이 꾸미기 아이템은 {0} 진영을 당신에게 적대적으로 만듭니다</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>추가 던전 변경 사항</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>너의 시간은 빌린 것이다.\n나는 단지 내 빚을 회수할 뿐.\n계속해서 달려라.\n결국, 출구를 찾게 되겠지.\n나는 바로 그 너머에 있다.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>미발견 적</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} HP</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} 마나</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} 스태미나</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0}에서 {1}로</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>기습당함</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>위에서</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>튕겨내기</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>피해 확산</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>미확인</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>저주받은</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>저주받은</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1턴</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0}턴</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>사용 1회</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>사용 {0}회</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>충전 1회</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>충전 {0}회</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>다이아몬드 1개</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>다이아몬드 {0}개</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>별가루 1개</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>별가루 {0}개</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>셀 1개</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>셀 {0}개</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>골드 1개</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>골드 {0}개</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}g</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>[Accept] 키를 눌러 계속하기</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>[Accept] 키를 눌러 로비로 계속하기</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>[Wait] 키를 눌러 다시 시작하기</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>옵션 없음</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>경고: 이 아이템은 {0}일 수 있습니다.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>경고: 이 아이템은 {0}입니다.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>{0} 아이템은 장착 해제할 수 없습니다 (저주 해제 주문서 없이).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>골드</Gold> <!-- <En>Gold</En> -->
+  <Leave>떠나기</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>턴당 2회 행동</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>턴당 {0}회 행동</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>두 턴마다 행동</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>{0}턴마다 한 번 행동</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>허기를 느끼지 않음</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>허기지는 속도 2배 빨라짐</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>허기지는 속도 {0}배 빨라짐</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>허기지는 속도 2배 느려짐</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>허기율 배수: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>{0} 골드 던지기</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>{0} 확률</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>{0}턴 분량</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>반경 {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>전체 맵</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>벽 통과</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>대상 주변</AroundTarget> <!-- <En>around target</En> -->
+  <Used>사용됨</Used> <!-- <En>Used</En> -->
+  <Waiting>대기 중</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>중단됨</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>지점</Location> <!-- <En>spot</En> -->
+  <StopTargeting>조준 중지</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>퀘스트 완료</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>로비로 돌아가 보상을 받으세요</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>정지</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>한 걸음</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>{0}을(를) {1}에 구매하시겠습니까?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>이 보너스는 일회용이며 다음 게임에만 적용됩니다.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>구매</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>{0} 후에 사용 가능</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>이 캐릭터의 고유 무기입니다.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>새로운 주문을 선택하세요.\n\n레벨업할 때마다 새로운 주문을 선택할 수 있습니다.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} 처치</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>팁: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>[MoveForward][MoveLeft][MoveBack][MoveRight] 키로 이동하세요. [ShowInventory] 키를 눌러 인벤토리를 여세요. [Interact] 키로 사물과 상호작용하세요. [RotateLeft] 및 [RotateRight] 키로 회전하세요. [Inspect] 키를 길게 눌러 조사하세요. [Wait] 키를 눌러 턴을 넘기세요.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>대기 중</Waits> <!-- <En>Waits</En> -->
+  <Wait>대기</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>대기 중 (취함)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>대기 중 (공황)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>대기 중 ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>깨어남</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>어디지?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>팔 없음</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>다리 없음</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>적대적</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>신체 부위 없음</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>적에게 발각됨</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>보스가 아직 살아있습니다</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>마나 부족 ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>스태미나 부족 ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>재사용 대기 ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>더 가까이 가세요</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>잘못된 대상</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>사거리 밖</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>시야 없음</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>{0} 필요</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>닿을 수 없음</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>인벤토리 가득 참</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>같은 수정 2개 필요</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>영혼 필요</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>삽 필요</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>삽 사용</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>곡괭이 필요</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>곡괭이 사용</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>일부 파티원이 너무 멀리 있습니다</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>문이 막혀 있습니다</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>{0} 추종자가 이미 존재합니다</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>현재 당신에게 피해 {0}</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>현재 피해 {0}</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>현재 당신에게 회복 {0}</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>턴당 피해 {0}</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{1}턴마다 피해 {0}</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>턴당 {0}</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{1}턴마다 {0}</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>모두</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>당신에게 {0}</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>또는</Or> <!-- <En>or</En> -->
+  <And>그리고</And> <!-- <En>and</En> -->
+  <Score>점수</Score> <!-- <En>Score</En> -->
+  <FloorReached>도달한 층</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>처치 수</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>플레이 시간</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>처치 수</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>전투 등급</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>처치한 보스</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>수집한 로비 아이템</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>다음 보상: 레벨 {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}일</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}시간</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}분</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>없음</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>신기록!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>등등</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>시드: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>수식어 1개</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>수식어 {0}개</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>골드 {0} 베팅</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>튜토리얼</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>처치한 보스 수</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>완료한 퀘스트</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>발견한 쪽지</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>연 상자</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>제작한 아이템</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>일반</Common> <!-- <En>Common</En> -->
+  <Uncommon>고급</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>희귀</Rare> <!-- <En>Rare</En> -->
+  <Epic>영웅</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>미확인</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>로비 (영구) 아이템</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>로비</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>피해 받음</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>근처 화재</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>시끄러운 소리</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>근처 아군이 깨어남</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>적의 발소리</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>경계 중인 아군 통과</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>문을 발로 참</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>빗나감</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} 빗나감</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} 치명타</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>치명타</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>치명타!</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>충전</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>사용 가능한 제작법</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>{0} 턴 대기</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>{0} 턴 되감기</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>보유: {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>새끼 {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>보스 {0}</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>당신은 어떤 던전 안에 있는 것 같습니다...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>정확히 어디에 있는지, 어떻게 이곳에 오게 되었는지도 모릅니다.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>주변의 모든 것이 꿈만 같습니다. 동시에, 단순한 꿈이라고 하기에는 너무나도 현실적입니다.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>천천히 무언가 기억나기 시작합니다. 적어도 당신의 이름은 알고 있습니다.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>당신의 이름은:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>방금 멀리서 누군가를 발견했지만, 그의 그림자만 언뜻 보았습니다. 확인해 보는 것이 좋겠습니다.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>천천히 눈을 뜹니다...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>병원에서 깨어납니다.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"깨어났어요!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"무슨 일이죠?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"친구들과 하이킹을 갔다가 머리를 심하게 다쳤어요."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"구조대가 제때 당신을 발견했어요. 휴식을 취하며 기력을 회복해야 해요."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"마야는 어디에 있죠?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"마야가 누구죠?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"그녀가 저를 먼저 찾았어요. 괜찮은가요?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"약간의 혼란을 겪고 계실 수 있지만, 곧 회복될 거예요."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>당신은 어리둥절하지만, 이상한 성취감을 느낍니다. 마치 어떤 식으로든 당신이 변한 것 같습니다.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>눈을 감고 깊은 숨을 들이마시며 얼굴에 비치는 따스한 햇살을 상상합니다. 신선한 공기가 폐를 가득 채우고, 당신은 미소 짓지 않을 수 없습니다.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>데모를 플레이해주셔서 감사합니다!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>제작</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>메인 메뉴 배경 아트</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>음악</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>로고</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>캐릭터 모델</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>사운드 효과 제공</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>플레이해주셔서 감사합니다!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>숲... 바로 그거야! 이곳에 오기 전에 무슨 일이 있었는지 기억나기 시작합니다. 따뜻한 여름날, 새들이 노래하고, 지평선에는 아름다운 산들이 펼쳐져 있었죠. 친구들과 하이킹을 갔습니다. 그런데 그때, 무언가 당신의 주의를 끌었습니다. 일행과 떨어졌던 것이 기억납니다. 하지만 왜 그랬을까요?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>동굴! 누군가 도와달라고 외치는 소리를 듣고 일행을 떠났습니다. 곤경에 처한 다른 등산객이라고 믿고, 목소리를 따라 동굴로 향했습니다. 안에서 미끄러져 넘어져 다리가 부러졌습니다. 소리쳐 불렀지만, 아무도 대답하지 않았습니다. 혼자 다친 채, 희망은 점차 사라져 갔습니다...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>당신은 그 동굴에 몇 시간 동안 홀로 앉아 있었습니다. 밤이 오고 비가 쏟아지기 시작했을 때, 거의 모든 희망을 잃었습니다. 영원처럼 느껴지는 시간이 흐른 후, 동굴 입구에서 빛을 보았습니다. 그건... 마야였습니다! 정말 안심했습니다!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>마야를 보고 너무나 기뻤습니다. 그녀가 당신을 끌어올리려고 손을 뻗었고, 잠시 동안은 해낼 수 있을 것 같았습니다. 하지만 끊임없이 내리는 비 때문에 그녀가 미끄러졌고, 두 사람 모두 굴러떨어져 고통스러운 힘으로 바위에 부딪혔습니다. 그 후, 모든 것이 조용해졌습니다.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>장비</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>제작</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>감정</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>이름</Name> <!-- <En>Name</En> -->
+  <Level>레벨</Level> <!-- <En>Level</En> -->
+  <Experience>경험치</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>XP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>공격력</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>현재 장착 중인 모든 아이템을 확인합니다.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>새로운 아이템을 제작하는 데 사용할 수 있는 모든 제작법을 확인합니다. 저주를 제거하거나 잃어버린 신체 부위를 치료해야 할 때 유용할 수 있습니다.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>인벤토리에 있는 모든 미확인 아이템을 확인합니다.\n\n모든 아이템은 시간이 지남에 따라 천천히 감정됩니다(배고픈 상태가 아니라면). 목록 맨 위에 있는 아이템이 먼저 감정됩니다.\n\n드래그 앤 드롭으로 순서를 변경하세요.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>미확인 아이템이 없습니다</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>이것은 감정 대기열입니다. 드래그 앤 드롭으로 시간이 지남에 따라 다음에 감정할 아이템을 결정하세요. 방랑자에게서 아이템을 감정할 수도 있습니다.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>제작</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>인접한</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>구매한 부스트를 잃게 됩니다</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>악몽의 군주</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>히프노락</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>판타스모스</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>사용 가능한 스킬 포인트</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>잠금 해제된 스킬</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>달성한 업적</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Cancel] 눌러 취소</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC 눌러 취소</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>적</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>알려진 구성원</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>현재 위치</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>이 길로 가면 다음 보상을 받게 됩니다</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>어디로 갈까요?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>더 많은 적</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>더 적은 적</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>보통의 적</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>더 많은 골드</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>더 적은 골드</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>보통의 골드</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>적의 수</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>골드 전리품</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>수정</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>{0} 수정</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>HP {0} 회복</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>이동하면 구덩이로 떨어지게 됩니다. 정말 이동하시겠습니까?\n\n아래층의 무작위 장소로 떨어지며 체력을 약간 잃게 됩니다. 다시 돌아올 수 없습니다.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>이동하면 이번 플레이가 종료됩니다. 정말 이동하시겠습니까?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Rewind] 눌러 되감기</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>[Inspect]으로 주변을 살펴보는 것을 잊지 마세요.</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>탈출!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>보상</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>여긴 어디지? 출구를 찾아야 해...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>이곳에 올 때마다 던전이 바뀐다. 대체 왜?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>한 걸음 한 걸음이 섬뜩할 정도로 익숙하다, 마치 전에 와본 것처럼.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>저 앞에 무언가 있어. 느껴져.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>방금 전투에서 이긴 건가, 아니면 무언가 깨달은 건가?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>모든 것이 저 앞에 놓인 것을 향해 이끌려 온 기분이야.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>마치... 마음의 짐을 덜어낸 기분이야. 이상하군.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>왜 이렇게 오래 걸리는 거야?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>방금 그건 뭐였지?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>사망했습니다</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>탈출했습니다</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>플레이 완료</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>레버를 찾아\n여세요</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>튜토리얼을 따라\n여세요</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>도움말</Help> <!-- <En>Help</En> -->
+  <HelpMe>도와줘</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>여기야</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>[Inspect] 길게 눌러 읽기</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>메인 퀘스트</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>사이드 퀘스트</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>추가 퀘스트</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>로비에서 퀘스트를 수락하거나 보류할 수 있습니다.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>일부 퀘스트는 충분한 층이 있는 던전에서만 완료할 수 있습니다.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>다음 던전 잠금 해제</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>이 던전의 {0}층 끝에 도달하여 다음 던전을 잠금 해제하세요.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>퍼즐 조각 찾기</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>{0}층에서 다음 퍼즐 조각을 찾으세요. 현재 {1}/{2}개를 보유하고 있습니다.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>영혼 구출</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>이 던전에는 1명의 영혼이 있습니다. 안식처로 데려와 해방시켜 주세요.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>이 던전에는 {0}명의 영혼이 있습니다. 안식처로 데려와 해방시켜 주세요.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>경고: 이 추종자들은 뒤에 남게 됩니다</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>주문 선택</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>주문 선택 ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>새로운 주문</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>퀵슬롯과 주문</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>레벨 {0}에서 잠금 해제</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>귀중한 화폐인 별가루를 수집했습니다!\n\n별가루는 로비에서 다음 플레이를 위한 부스트를 구매하고 특별한 방을 잠금 해제하는 데 사용할 수 있습니다.\n\n"로비 아이템"으로 표시된 모든 아이템은 로비로 이전됩니다. 다른 모든 아이템은 플레이가 끝나면 사라집니다.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>퍼즐 조각은 별가루와 마찬가지로 영구적인 로비 아이템입니다.\n\n여러 플레이에 걸쳐 {0}개를 모두 모아 로비의 비밀의 방을 잠금 해제하세요.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>동료가 생겼습니다.\n\n이동할 때마다 로코가 자동으로 인접한 타일의 금화를 수집해 줍니다.\n\n치즈 1개로 로코가 한 번의 플레이 동안만 당신을 따라다니게 할 수 있습니다.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>이제 파티원이 생겼습니다.\n\n파티원 간에 전환하고 인벤토리를 개별적으로 관리할 수 있습니다. 각 파티원은 독립적으로 자신의 턴을 가집니다.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>최대 HP +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>치명타 +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>빗나감 -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% 화염</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>발차기</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>이 캐릭터는 물건을 찰 수 있습니다.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>이 층에 기억의 조각이 있습니다</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>찾아보세요</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>검색</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>발견한 아이템</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>발견한 생명체</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>도감에는 아이템과 생명체가 저주받지 않은 일반적인 상태로 표시됩니다. 실제 아이템/생명체는 다를 수 있습니다.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>일일 도전</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>클래스</Class> <!-- <En>Class</En> -->
+  <NoClass>클래스 없음\n\n효과:\n- 명성과 영광</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>레벨 {0}에서 잠금 해제</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>효과</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>능력: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>최대 HP</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>최대 마나</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>최대 스태미나</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>언데드(스켈레톤, 미라 등)에게 {0} 피해</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} 화염 저항</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} 화염 취약성</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>허기 비율 {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>압력판을 활성화하지 않음</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>독 면역</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>밀치기 면역</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>개가 적대적으로 변함</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>걷는 소음 {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>이 클래스로 도달한 최고 층: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>클래스 없이 도달한 최고 층: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0}이(가) {1}의 {2} 피해를 받습니다</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0}이(가) {1}의 {2} 피해를 받고 죽습니다</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>경험치 {0}</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0}이(가) {1} 피해를 받지 않습니다</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0}이(가) {1}을(를) 얻습니다</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0}이(가) {1}의 {2} 피해를 받습니다</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0}이(가) {1}의 {2} 피해를 받고 파괴됩니다</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0}이(가) {1} 피해를 받지 않습니다</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0}이(가) {1}을(를) 회복합니다</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{0}의 {1}이(가) 파괴됩니다</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0}이(가) {1}의 {2} 피해를 막습니다</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0}이(가) {1}의 {2} 피해를 {3}에게 반사합니다</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0}이(가) 밀려납니다</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0}이(가) 당겨집니다</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0}이(가) 새로운 상태 효과를 얻습니다: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0}이(가) 새로운 효과를 얻습니다: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{0}의 {1}이(가) 복원됩니다</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{0}의 {1}이(가) 회복됩니다</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{0}의 {1}이(가) 회복됩니다</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0}이(가) 식별되었습니다</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} 효과가 사라집니다</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} 효과가 사라집니다</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0}이(가) {1}을(를) 줍습니다</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>그것은 {0}이었습니다</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>그것은 {0}입니다</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0}은(는) {1}입니다! (저주 해제 주문서를 찾거나 제작해야 합니다)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>당신의 {0}에 {1} 저주가 걸렸습니다!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>{0}에서 저주가 해제되었습니다</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0}이(가) 무작위 위치로 순간이동합니다</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0}이(가) 순간이동합니다</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0}이(가) 열립니다. 이제 출구를 찾으세요.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0}이(가) 열립니다</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>등 뒤에서 문이 닫힙니다</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0}이(가) 쉬익 소리를 내지만 아무 효과가 없는 것 같습니다</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>굶주리고 있습니다</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>배가 고픕니다</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>{0}을(를) 구매했습니다</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>레벨 업!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>새로운 주문을 선택할 수 있습니다.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>레벨 업</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>{0}에게 피해를 입혀 보호막 효과가 취소되었습니다</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0}이(가) 깨어납니다</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>총 {0}개</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>스스로를 희생했습니다</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>승리했습니다</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>패배했습니다</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>시련을 완료하고 {0}을(를) 받았습니다</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>글리프 퍼즐을 풀고 {0}을(를) 받았습니다</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>{0} 덕분에 목숨을 구했습니다</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0}이(가) {1} 덕분에 목숨을 구했습니다</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>시련에 실패했습니다</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0}이(가) 복제되었습니다</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0}이(가) 파괴되었습니다</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>이곳에는 더 이상 아무것도 없습니다</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>{0}을(를) 낚았습니다</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0}이(가) {1} 후에 활성화됩니다</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>{0}을(를) 받았습니다</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>악마의 석상이 당신의 {0}을(를) 받고 {1}을(를) 줍니다</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0}이(가) {1}을(를) 받습니다</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0}의 공격이 빗나갔습니다</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>{0}이(가) 근처에 생성되었습니다</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0}이(가) {2}에게 {1}을(를) 줍니다</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>{0} 진영이 적대적으로 변했습니다</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>재료가 전부 모이지 않았습니다</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>이 아이템은 이 슬롯에 맞지 않습니다</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0}이(가) {2}에게서 {1}을(를) 훔쳤습니다</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>{0} x{1}을(를) 수집했습니다</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>기술 포인트를 획득했습니다! 소지품 창을 열어 사용하세요.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>{0}을(를) 해방시키고 {1}을(를) 받았습니다</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>{0}의 레벨이 업그레이드되었습니다</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>저주받은 아이템은 장착 해제할 수 없습니다</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0}이(가) {1}을(를) 제작합니다</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>자신에게 사용</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>대상에게 사용...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>마시기</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>던지기...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>먹기</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>던지기...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>덫 설치...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>던지기...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>심기...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>자신에게 사용</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>공격...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>자신에게 시전</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>대상에게 시전...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>채우기...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>문에 빗장 걸기...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>스스로를 묶기</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>묶기...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>설치...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>줍기...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>낚시...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>채광...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>대화...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>마법 부여</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>파기...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>스스로를 차기</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>차기...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0}이(가) {1}(으)로 자신을 공격합니다</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0}이(가) {1}(으)로 {2}을(를) 공격합니다</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0}이(가) {1}을(를) 사용합니다</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0}이(가) {2}에게 {1}을(를) 사용합니다</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0}이(가) {1}을(를) 마십니다</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0}이(가) {2}에게 {1}을(를) 던집니다</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0}이(가) 자신에게 {1}을(를) 사용합니다</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0}이(가) {2}에게 {1}을(를) 사용합니다</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0}이(가) {2}에게 {1}을(를) 던집니다</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0}이(가) {1}을(를) 엽니다</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0}이(가) {1}을(를) 닫습니다</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0}이(가) {1}을(를) 파냅니다</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0}이(가) {1}에서 물을 마십니다</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0}이(가) {1}에서 장비에 마법을 부여합니다</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0}이(가) 계단을 내려갑니다</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0}이(가) 계단을 올라갑니다</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0}이(가) {1}을(를) 당깁니다</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0}이(가) {1}에서 축복을 받습니다</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0}이(가) {1}을(를) 먹습니다</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0}이(가) {1}을(를) 설치합니다</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0}이(가) {1}에서 수영합니다</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0}이(가) {1}에서 불탑니다</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0}이(가) {1}을(를) 밟습니다</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0}이(가) 순간이동합니다</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0}이(가) {2}에게 {1}을(를) 던집니다</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0}이(가) {1}을(를) 심습니다</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0}이(가) 자신에게 {1}을(를) 시전합니다</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0}이(가) {2}에게 {1}을(를) 시전합니다</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0}이(가) {1}에 물을 채웁니다</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0}이(가) {2}에 빗장을 겁니다</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0}이(가) 기둥에 자신을 묶습니다</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0}이(가) {2}을(를) 기둥에 묶습니다</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0}이(가) {1}을(를) 설치합니다</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0}이(가) {2}을(를) 줍습니다</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0}이(가) 자신의 상처에 붕대를 감습니다</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0}이(가) {2}의 상처에 붕대를 감습니다</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0}이(가) 수술을 합니다</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0}이(가) {2}에게 수술을 합니다</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0}이(가) {1}을(를) 수색합니다</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0}이(가) {1}에서 도박을 합니다</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0}이(가) {1}을(를) 누릅니다</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0}이(가) {1}에서 도전을 시작합니다</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0}이(가) {1}에서 아이템을 복제합니다</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0}이(가) {2}에서 물고기를 낚습니다</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0}이(가) 자신의 몸에 붙은 불을 끕니다</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0}이(가) {2}의 불을 끕니다</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0}이(가) {1}을(를) 연구합니다</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0}이(가) {1}을(를) 수색합니다</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0}이(가) {1}에서 잠을 잡니다</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0}이(가) {1}(으)로 {2}을(를) 채광합니다</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0}이(가) {2}와(과) 대화합니다</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0}이(가) {1}(으)로 아이템에 마법을 부여합니다</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0}이(가) {1}(으)로 {2}을(를) 팝니다</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0}이(가) {1}에 팔다리를 바칩니다</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0}이(가) {1}에서 팬텀을 소환합니다</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0}이(가) {1}에서 영혼을 해방시킵니다</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0}이(가) {1}을(를) 청소합니다</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0}이(가) {1}에서 기술 포인트를 얻습니다</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0}이(가) 자신을 찹니다</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0}이(가) {2}을(를) 찹니다</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0}이(가) {1}에서 장비를 업그레이드합니다</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0}이(가) {1}에 저주받은 아이템을 바칩니다</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>위</Up> <!-- <En>up</En> -->
+  <Down>아래</Down> <!-- <En>down</En> -->
+  <North>북쪽</North> <!-- <En>north</En> -->
+  <South>남쪽</South> <!-- <En>south</En> -->
+  <West>서쪽</West> <!-- <En>west</En> -->
+  <East>동쪽</East> <!-- <En>east</En> -->
+  <NorthWest>북서쪽</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>북동쪽</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>남서쪽</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>남동쪽</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>위-북쪽</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>위-남쪽</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>위-서쪽</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>위-동쪽</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>위-북서쪽</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>위-북동쪽</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>위-남서쪽</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>위-남동쪽</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>아래-북쪽</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>아래-남쪽</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>아래-서쪽</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>아래-동쪽</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>아래-북서쪽</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>아래-북동쪽</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>아래-남서쪽</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>아래-남동쪽</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>시작</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>끝</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>레버</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>사다리</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>보스</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>기습 기회</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>이 캐릭터는 이전 턴에 당신을 보지 못했으므로, 지금 공격하면 {0}의 추가 피해를 입힙니다.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>당신 위에 있음</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>이 캐릭터는 현재 당신 위에 있으므로, 이 위치에서 공격이 명중하면 {0}의 추가 피해를 입힙니다.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>아래에 있음</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>이 캐릭터는 현재 당신의 아래에 있습니다. 이 위치에서 공격하면 {0}의 추가 피해를 입힙니다.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>당신을 볼 수 없음</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>이 캐릭터는 당신을 보지 못합니다 (시야가 당신보다 짧습니다). 하지만 당신의 마지막 위치를 기억하고 확인하러 갈 수 있으니 조심하세요!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>낙하 중</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>이 캐릭터는 낙하 중이므로, 다음 턴에는 행동을 하는 대신 아래로 떨어져야 합니다.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>미확인 효과</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>알 수 없는 효과입니다. 미확인 아이템에서 비롯되었습니다.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>최소 2명의 적에게 둘러싸여 있습니다. 이 위치에서 이 캐릭터를 공격하면 {0}의 추가 피해를 입힙니다.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>미확인 효과</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>알 수 없는 효과입니다. 미확인 아이템에서 비롯되었습니다.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\n현재 게임 내 시간입니다. 1분은 1턴을 의미합니다.\n\n이 게임은 전체가 턴 기반입니다. 걷기, 물약 마시기, 공격, 사물과 상호작용 등 대부분의 행동은 1턴이 소요됩니다.\n\n총 경과 턴: {2}.\n이 층에서: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>캐릭터의 체력입니다.\n\n특정 아이템은 최대 체력을 증가시킬 수 있습니다. 레벨이 오를 때마다 최대 체력이 {0}만큼 증가합니다.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>배고픔 또는 굶주림 상태가 아닐 경우, {1}마다 {0}의 체력이 회복됩니다.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>다음 체력 회복까지: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>체력이 최대치를 초과하여 감소하고 있습니다.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>마나가 최대치를 초과하여 감소하고 있습니다.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>기력이 최대치를 초과하여 감소하고 있습니다.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>이 아이템은 {0} 후에 감정됩니다. 드래그 앤 드롭으로 순서를 변경할 수 있습니다.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>이 아이템은 {0}입니다. 하지만 당신의 뛰어난 감각 덕분에 다음 중 하나라는 것을 알 수 있습니다:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>이와 같은 아이템은 한 번 사용하면 영구적으로 감정됩니다.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>이 아이템은 {0}입니다. 알 수 없는 효과를 가질 수 있으며 {1}일 수 있습니다({1} 아이템은 장착 해제할 수 없습니다). 방랑자들이 감정을 도와줄 수 있습니다.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>이 아이템은 {0}입니다. {0} 아이템은 (저주 해제 주문서 없이는) 장착 해제할 수 없습니다.</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>축하해요!;할 수 있어요!;항상 당신을 믿었어요!;거의 다 왔어요!;나도 당신처럼 멋졌으면!;인상적이네요!;계속하세요!;당신이 최고예요!;해냈군요!;잘했어요!;당신은 최고예요!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>1층에 오신 것을 환영합니다.\n\n이 표지판을 처음 읽는 것이 아닐 수도 있지만, 당신의 여정은 여기서 시작됩니다.\n\n처음에는 몇 가지가 어려워 보일 수 있지만 괜찮습니다. 무엇보다도, 우리는 기억해야 합니다 - 지는 것도 재미있다는 것을!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>{0}층에 오신 것을 환영합니다.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>이곳에서 모든 영혼은 자신의 길을 찾기 위해 잠시 멈춥니다.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>{0}에서 처치됨.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>인벤토리에 있는 금화의 수입니다. 이 던전에는 거래를 원하는 사람들이 있을 수 있습니다.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>다음 {0} 생성까지</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>더 이상 생성되지 않음</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>{0} 후에 사라짐.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>{0} 후에 퍼짐.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>다음 행동까지 {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>{0} 후에 활성화됩니다.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>출처</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>출처: 난이도</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>발생 시점</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>[Fly]+[MoveForward] 키를 눌러 위로, [Fly]+[MoveBack] 키를 눌러 아래로 이동하세요.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>[Fly] 키를 길게 눌러 문을 걷어차세요.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>[Rewind] 키를 눌러 시간을 되돌리세요.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>이 아이템을 사용해도 턴이 소모되지 않습니다.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>이 아이템을 사용하면 {0}턴이 소모됩니다.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>이 아이템을 사용하면 {0}턴이 소모됩니다.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>이 주문을 사용해도 턴이 소모되지 않습니다.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>이 주문을 사용하면 {0}턴이 소모됩니다.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>이 주문을 사용하면 {0}턴이 소모됩니다.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>이 행동은 턴을 소모하지 않습니다.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>이 행동은 {0}턴을 소모합니다.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>이 행동은 {0}턴을 소모합니다.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>이 물체와 상호작용해도 턴이 소모되지 않습니다.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>이 물체와 상호작용하면 {0}턴이 소모됩니다.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>이 물체와 상호작용하면 {0}턴이 소모됩니다.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>이 물체는 불에 탑니다.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>아무도 당신을 보지 않을 때만 사용할 수 있습니다.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>이 물체는 부서지기 쉽습니다(폭발에 의해 파괴됩니다).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>배고픔 상태가 되어 감정이 중단되었습니다.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>클릭하여 줍기</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>클릭하여 상호작용</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>클릭하여 구매</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>상호작용하여 줍기</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>이 물체와 상호작용</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>상호작용하여 구매</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>이 아이템은 아래층으로 내려가면 사라집니다.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>다음 레벨까지의 진행도입니다. 적을 물리쳐 경험치를 얻을 수 있습니다.\n\n다음 레벨까지 필요한 경험치: {0}\n현재 레벨: {1}\n총 경험치: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>현재 레벨입니다. 적을 물리쳐 레벨을 올릴 수 있습니다.\n\n레벨이 오를 때마다 최대 체력이 {0}만큼 증가합니다. 또한, 레벨이 오를 때마다 새로운 주문을 선택할 수 있습니다.\n\n다음 레벨까지 필요한 경험치: {2}\n총 경험치: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>모든 플레이의 총 점수를 기반으로 한 현재 레벨입니다. 적을 물리치고 게임을 진행하여 점수를 얻을 수 있습니다.\n\n다음 레벨까지 필요한 점수: {0}\n총 점수: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>현재 포만감 수치: {0}/{1}\n\n주기적으로 음식을 섭취하여 허기를 채우고 불이익을 피해야 합니다.\n\n포만감 수치가 {2}에 도달하면 배고픔 상태가 되어 체력이 재생되거나 아이템 감정이 이루어지지 않습니다.\n\n포만감 수치가 {3}에 도달하면 굶주림 상태가 되어 기력이 재생되지 않고 시간이 지남에 따라 체력이 서서히 감소합니다.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>현재 던전 층입니다. 더 깊이 내려갈수록 생존하기 어려워지지만, 그만큼 더 재미있어집니다!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>경험치 {0} 제공</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>경고: 이 대상을 처치하면 해당 진영의 모든 구성원이 적대적으로 변합니다.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>전술: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>이 캐릭터는 당신을 따라 다음 층으로 이동합니다.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>상태</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>무기</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>주문</Spells> <!-- <En>Spells</En> -->
+  <Talk>대화</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>사망 시</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>착용 중</Worn> <!-- <En>Worn</En> -->
+  <Inventory>소지품</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>정보</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>{0} 소모</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>{0} 소모</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>캐릭터의 마나입니다.\n\n주문을 시전하거나 마법 아이템을 사용하면 마나가 소모됩니다. 마나는 시간이 지나도 자동으로 회복되지 않으며, 마나 물약을 마시거나 특별한 물체와 상호작용해야만 채울 수 있습니다. 배운 주문이 없으면 마나 바는 숨겨집니다.\n\n레벨이 오를 때마다 새로운 주문을 선택할 수 있습니다.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>캐릭터의 기력입니다.\n\n특정 아이템을 사용하려면 기력이 필요할 수 있습니다. 소지품에 기력을 소모하는 아이템이 없으면 기력 바는 숨겨집니다.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>굶주림 상태가 아닐 경우, {1}마다 {0}의 기력이 회복됩니다.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>다음 기력 회복까지: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>새로운 주문을 선택하세요. 레벨이 오를 때마다 새로운 주문을 선택할 수 있습니다.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>체력이 낮으면 도망감</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>시계를 사용하면 마음대로 시간을 되돌릴 수 있습니다! [Rewind] 키를 눌러 마지막 턴을 되돌리세요.\n\n최근 행동의 결과가 마음에 들지 않거나 단순히 실수로 클릭했을 때 사용하세요.\n\n시계는 한 번에 되돌릴 수 있는 턴 수에 제한이 있지만, {0}턴마다 재충전됩니다. 시간 되돌리기 주문서와 같은 다른 시간 조작 아이템과 달리, 미확인 물약이나 주문서를 사용하거나, 저주받은 아이템을 장착하거나, 함정을 밟거나, 은 열쇠를 사용하면 시계의 남은 충전량이 모두 사라집니다.\n\nRicave의 모든 행동은 결정론적이므로, 시간을 되돌린 후 같은 행동을 다시 하면 입히는 피해량이나 적의 결정까지 이전과 똑같이 진행됩니다. 더 높은 피해량을 위해 시간을 되돌리는 것은 효과가 없습니다.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>재충전까지: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>별가루는 던전의 여러 장소에서 찾거나 퀘스트 완료 보상으로 받을 수 있습니다. 로비에서 별가루를 사용할 수 있습니다.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>{0}개의 퍼즐 조각을 모두 모아 로비의 특별한 방을 잠금 해제하세요. 던전의 각 층마다 퍼즐 조각이 하나씩 있으며, 한 번의 플레이에서 한 조각만 찾을 수 있습니다.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>다음 퍼즐 조각 위치: {0}층</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>사거리: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>근접</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>사거리 내에 있음</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>사거리 밖에 있음</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>개인실에 배치된 물건을 회수하세요.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>현재 {0} 방향을 보고 있습니다.\n\n이동: "[MoveForward][RotateLeft][MoveBack][RotateRight]"\n좌우 이동: "[MoveLeft]" 와 "[MoveRight]"\n캐릭터가 날 수 있다면 "[Fly]+[MoveForward]"로 상승하고 "[Fly]+[MoveBack]"로 하강하세요.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>{0} 후에 피해를 받습니다.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>{0} 후에 체력을 얻습니다.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>{0} 후에 기력을 얻습니다.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>{0} 후에 마나를 얻습니다.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>이 캐릭터가 땅에 닿아 있지 않아 기력 회복이 비활성화되었습니다.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>땅에 닿아 있지 않아 기력 회복이 비활성화되었습니다.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>재사용 대기시간: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>{0} 남음</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>{0}을(를) 먼저 잠금 해제하세요</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>스킬 포인트가 없습니다</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>클릭하여 잠금 해제</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>상호작용하여 잠금 해제</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>효과</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>모든 문이 열리고 모두가 깨어났습니다. 지금 당장 탈출해야 합니다!\n\n또한, 쥐가 두 배로 생성됩니다.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>로코는 당신이 움직일 때마다 인접한 타일의 금화를 대신 수집해 줍니다.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>팁: 도감에서 일반적인 능력치를 확인할 수 있습니다</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>소지품 정렬</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>장착 해제</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>장착</Equip> <!-- <En>Equip</En> -->
+  <Unwear>벗기</Unwear> <!-- <En>Take off</En> -->
+  <Wear>입기</Wear> <!-- <En>Wear</En> -->
+  <Drop>버리기</Drop> <!-- <En>Drop</En> -->
+  <Destroy>파괴</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>{0}와(과) 섞기</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>보기</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>이동</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>{0} 사용하기</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>상호작용</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>비활성화됨</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>{0} 주기</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>죽음</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>공간 없음</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>현재 장착한 아이템이 저주받았습니다</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>화려한, 강력한, 전능한, 힘센, 무서운, 즐거운, 인상적인, 활발한, 매혹적인, 아름다운, 사랑스러운, 짜릿한, 귀여운, 영리한, 매력적인, 어색한, 무적의, 작은, 큰, 끔찍한, 행복한, 슬픈, 불안정한, 이상한, 미친, 신나는, 예쁜, 유혹적인</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>붕붕, 겸손, 비니, 레몬, 와글, 뒤죽, 구버, 활짝, 범버, 롤리, 보글, 포크, 우르르, 돈더, 돈들, 도플, 브로블, 치킨, 보라, 꿈틀, 재잘, 빙빙, 딩글, 퐁, 흔들, 징글, 두들</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>클러치, 워스, 야드, 선, 바블, 마크, 톤, 본, 곤, 후프, 스타인, 빈, 스내퍼, 블롭, 푸프, 래프, 바흐, 도리, 스나프, 펄럭, 퐁당, 부프, 블랫, 스나크, 보크</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>{0}의 영혼</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>웃음, 변화, 희망, 고독, 조화, 결의, 기쁨, 공포, 분노, 슬픔, 사랑, 놀라움, 혐오, 호기심, 희망, 절망, 신뢰, 회의, 용기, 죄책감, 수치심, 감사, 질투, 안도, 지루함, 평온, 향수, 회복, 공감, 기대, 후회, 경외, 겸손, 좌절, 경멸</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>없음</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>엔터</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>이스케이프</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>스페이스</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>마우스 왼쪽 버튼</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>마우스 오른쪽 버튼</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>마우스 가운데 버튼</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>알트</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>시프트</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>컨트롤</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>커맨드</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>윈도우 키</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>왼쪽 트리거</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>오른쪽 트리거</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>왼쪽 범퍼</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>오른쪽 범퍼</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>뒤로가기 버튼</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>시작 버튼</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>왼쪽 스틱 클릭</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>오른쪽 스틱 클릭</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>처치</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>더블 킬</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>트리플 킬</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>{0} 킬 콤보</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>새로운 층</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>시험 완료</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>{0} 처치</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>아침</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>낮</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>저녁</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>밤</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>수호자</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>전사</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>모험가</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>빨간색</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>초록색</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>파란색</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>레오</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>이브</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>유틸리티</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>물약</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>두루마리</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>무기 및 장비</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

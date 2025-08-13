@@ -1,0 +1,30 @@
+<SpecTranslations>
+
+  <AllArmsMissing.label>مبتور الذراعين</AllArmsMissing.label> <!-- <En>armless</En> -->
+  <AllArmsMissing.description>هذه الشخصية بلا أذرع مما يجعلها تلحق ضررًا جسديًا أقل. إضافة إلى ذلك، لا يمكن لهذه الشخصية استخدام العناصر وبعض الهجمات الأساسية (مثل قوس رامي السهام). يمكن استعادة الأطراف المفقودة باستخدام عدة جراحية.</AllArmsMissing.description> <!-- <En>This character has no arms which makes them deal less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+  <AllArmsMissing.ThisCharacterHasNoArms>هذه الشخصية بلا أذرع مما يجعلها تلحق ضررًا جسديًا أقل بمقدار {0}. إضافة إلى ذلك، لا يمكن لهذه الشخصية استخدام العناصر وبعض الهجمات الأساسية (مثل قوس رامي السهام). يمكن استعادة الأطراف المفقودة باستخدام عدة جراحية.</AllArmsMissing.ThisCharacterHasNoArms> <!-- <En>This character has no arms which makes them deal {0} less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllEyesMissing.label>أعمى</AllEyesMissing.label> <!-- <En>blind</En> -->
+  <AllEyesMissing.description>هذه الشخصية فاقدة لجميع عيونها مما يجعلها عمياء وستخطئ هدفها بنسبة 30% من الوقت. لكنها لا تزال تستطيع الإحساس بالشخصيات المجاورة وتذكر الاتجاه الذي هوجمت منه مؤخرًا. يمكن استعادة الأطراف المفقودة باستخدام عدة جراحية.</AllEyesMissing.description> <!-- <En>This character has all of their eyes missing which makes them blind and they will miss 30% of the time. However, they can still sense adjacent characters and remember from which direction they've recently been attacked. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllLegsMissing.label>مشلول الحركة</AllLegsMissing.label> <!-- <En>immobilized</En> -->
+  <AllLegsMissing.description>هذه الشخصية فاقدة لجميع أرجلها مما يجعلها غير قادرة على الحركة. يمكن استعادة الأطراف المفقودة باستخدام عدة جراحية.</AllLegsMissing.description> <!-- <En>This character has all of their legs missing which makes them immobile. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllWingsMissing.label>بلا أجنحة</AllWingsMissing.label> <!-- <En>wingless</En> -->
+  <AllWingsMissing.description>هذه الشخصية فاقدة لجميع أجنحتها مما يجعلها غير قادرة على الطيران.</AllWingsMissing.description> <!-- <En>This character has all of their wings missing which makes them unable to fly.</En> -->
+
+  <ArmMissing.label>ذراع مفقودة</ArmMissing.label> <!-- <En>arm missing</En> -->
+  <ArmMissing.description>هذه الشخصية فاقدة لأحد ذراعيها مما يجعلها تلحق ضررًا جسديًا أقل. يمكن استعادة الأطراف المفقودة باستخدام عدة جراحية.</ArmMissing.description> <!-- <En>This character has one of their arms missing which makes them deal less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+  <ArmMissing.ThisCharacterHasOneOf>هذه الشخصية فاقدة لأحد ذراعيها مما يجعلها تلحق ضررًا جسديًا أقل بمقدار {0}. يمكن استعادة الأطراف المفقودة باستخدام عدة جراحية.</ArmMissing.ThisCharacterHasOneOf> <!-- <En>This character has one of their arms missing which makes them deal {0} less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <HatMissing.label>بلا قبعة</HatMissing.label> <!-- <En>hatless</En> -->
+  <HatMissing.description>لقد كانت قبعته المفضلة.</HatMissing.description> <!-- <En>It was his favorite hat.</En> -->
+
+  <LegMissing.label>ساق مفقودة</LegMissing.label> <!-- <En>leg missing</En> -->
+  <LegMissing.description>هذه الشخصية فاقدة لأحد ساقيها مما يجعل حركتها أبطأ بمرتين. يمكن استعادة الأطراف المفقودة باستخدام عدة جراحية.</LegMissing.description> <!-- <En>This character has one of their legs missing which makes them move twice as slow. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <StingMissing.label>إبرة مفقودة</StingMissing.label> <!-- <En>sting missing</En> -->
+  <StingMissing.description>هذه الشخصية فاقدة لإبرتها مما يجعلها تلحق ضررًا جسديًا أقل.</StingMissing.description> <!-- <En>This character has their sting missing which makes them deal less physical damage.</En> -->
+  <StingMissing.ThisCharacterHasTheir>هذه الشخصية فاقدة لإبرتها مما يجعلها تلحق ضررًا جسديًا أقل بمقدار {0}.</StingMissing.ThisCharacterHasTheir> <!-- <En>This character has their sting missing which makes them deal {0} less physical damage.</En> -->
+
+</SpecTranslations>

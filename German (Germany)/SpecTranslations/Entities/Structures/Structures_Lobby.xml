@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>Rätsel-Banner</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>Ein farbenfrohes Banner.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>Trophäe</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Jede Boss-Trophäe erzeugt Sternenstaub in Höhe der Ebene, auf der der Boss getötet wurde. Der Sternenstaub füllt sich wieder auf, wann immer du mindestens die zweite Ebene des Dungeons erreichst.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>Kleiderschrank</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Ändere hier dein Aussehen.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>Tafel der täglichen Herausforderung</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Nimm an täglichen Herausforderungen teil. Alle anderen auf der Welt erhalten jeden Tag die gleiche Herausforderung!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>Auslage</Display.label> <!-- <En>display</En> -->
+  <Display.description>Ein Platz für einen Gegenstand.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>Portal</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Ist das das Ende?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>Auslöser für Enddialog</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>Flurschild</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>Hinter dieser Tür ist ein Flur.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>Tür</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Diese Tür scheint verschlossen zu sein.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>Tür</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Diese Tür scheint verschlossen zu sein.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Möchtest du den Flur für 60 Sternenstaub freischalten?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Freischalten</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>Tür</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Diese Tür scheint verschlossen zu sein.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Möchtest du den Trainingsraum für 20 Sternenstaub freischalten?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Freischalten</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Erinnerungstür</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>Eine Tür, die nur durch das Sammeln aller 4 Erinnerungsstücke aufgeschlossen werden kann.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>Rätseltür</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>Eine Tür, die durch das Sammeln aller 10 Puzzleteile aufgeschlossen werden kann. Auf jeder Ebene des Dungeons gibt es ein Puzzleteil, und du kannst nur ein Teil pro Durchlauf finden. Das bedeutet, dass das letzte auf der 10. Ebene sein wird.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>Magischer Spiegel</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Ändere hier deine Eigenschaften.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Erinnerungstür</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>Eine Tür, die nur durch das Sammeln aller 4 Erinnerungsstücke aufgeschlossen werden kann.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Erinnerungsstück</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>Ein unbekanntes Erinnerungsstück.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Erinnerungsstück</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>Ein unbekanntes Erinnerungsstück.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Erinnerungsstück</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>Ein unbekanntes Erinnerungsstück.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Erinnerungsstück</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>Ein unbekanntes Erinnerungsstück.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>Treppe</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>Eine Treppe, die zum Dungeon führt.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>Treppe</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>Eine Treppe, die zum Dungeon führt und dich einen bestimmten Welt-Seed verwenden lässt. Aller Lobby-Fortschritt und Quests sind in diesem Dungeon deaktiviert.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>Schild zum Privatzimmer</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>Dein Privatzimmer. Sobald du es gekauft hast, jedenfalls.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>Rätseltür</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>Eine Tür, die durch das Sammeln aller Puzzleteile aufgeschlossen wurde.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>Schild zum Rätselraum</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Ein mysteriöser Raum.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>Quest-Tafel</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Sieh dir alle verfügbaren und abgeschlossenen Quests an.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>Ladenschild</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Hier ist ein Laden. Du kannst Sternenstaub ausgeben, um Boosts für deine nächsten Durchläufe zu kaufen.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>Himmel</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>Eine schöne Aussicht.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>Himmel</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>Eine schöne Aussicht.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>Treppe</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>Eine Treppe, die zum Dungeon führt.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>Statistik-Tafel</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Sieh dir all deine Statistiken an.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>Schild zum Trainingsraum</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Hier ist ein Trainingsraum. Du kannst gegen verschiedene Arten von Gegnern trainieren.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>Treppe</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>Eine Treppe, die zum Trainingsraum führt. Trainiere gegen Gegner und Bosse.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>Müllhaufen</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>Ein Müllhaufen blockiert diese Zelle. Benutze Sternenstaub, um ihn dauerhaft zu entfernen.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>Möchtest du diesen Müllhaufen für 40 Sternenstaub beseitigen?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Beseitigen</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>Wandlampe</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>Eine stilvolle Wandlampe.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

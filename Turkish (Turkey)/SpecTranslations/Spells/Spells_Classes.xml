@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>kör edici parlama</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>Seni o anda görebilen herkesi kısa bir süreliğine kör et. Kullanmak tur harcamaz.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>aldat</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>Hedefi kısa bir süreliğine herkese düşman yap. Kullanmak tur harcamaz.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>bitişiği dola</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>Bitişiğindeki herkesi kısa bir süreliğine dola. Kullanmak tur harcamaz.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>acele</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>Kısa bir süreliğine her tur iki kez hareket et. Kullanmak tur harcamaz.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>zıpla</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Dikey olarak bile olsa bitişiğindeki herhangi bir karoya anında zıpla. Kullanmak tur harcamaz.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>it</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Herhangi birini 1 kare uzağa it. Kullanmak tur harcamaz.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>rastgele kaçış</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Haritadaki rastgele bir konuma ışınlan. Kullanmak tur harcamaz.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>sarmaşık oluştur</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Belirtilen konumda sarmaşıklar oluştur ve onlara tırman.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>zehir bulutu</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Belirtilen konumda bir zehir bulutu oluştur. Kullanmak tur harcamaz.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>hayalet çağır</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Savaşlarda sana yardım etmesi için dost bir hayalet çağır. Aynı anda sadece bir hayalet hayatta olabilir.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

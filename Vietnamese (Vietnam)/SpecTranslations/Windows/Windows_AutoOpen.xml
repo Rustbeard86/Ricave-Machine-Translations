@@ -1,0 +1,27 @@
+<SpecTranslations>
+
+  <Character.label>nhân vật</Character.label> <!-- <En>character</En> -->
+  <Character.description>Hiển thị thông tin về nhân vật của bạn.</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>sách yếu lược</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>Hiển thị tất cả các vật phẩm và sinh vật bạn đã từng thấy.</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>bản đồ hầm ngục</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>Hiển thị bản đồ của hầm ngục này.</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>phe phái</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>Hiển thị tất cả các phe phái trong hầm ngục này.</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>hành trang</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>Hiển thị các vật phẩm bạn có trong hành trang.\n\nKéo và thả để sắp xếp lại. Việc sắp xếp lại vật phẩm không tốn lượt, vì vậy bạn có thể thực hiện an toàn trong chiến đấu.\n\nTrang bị và tháo vật phẩm là tức thời, nhưng các hành động khác như uống hoặc ném thuốc sẽ tốn một lượt.</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>nhiệm vụ</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>Hiển thị tất cả các nhiệm vụ của bạn.</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>thanh truy cập nhanh</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>Các vật phẩm trên thanh truy cập nhanh có thể được sử dụng bằng cách nhấn các phím số trên bàn phím.</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>kỹ năng</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>Dùng điểm kỹ năng để học các kỹ năng mới.</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,45 @@
+<SpecTranslations>
+
+  <Achievements.label>ความสำเร็จ</Achievements.label> <!-- <En>achievements</En> -->
+  <Achievements.description>ดูความสำเร็จทั้งหมดของคุณ</Achievements.description> <!-- <En>See all your achievements.</En> -->
+
+  <ChangePlayerName.label>เปลี่ยนชื่อ</ChangePlayerName.label> <!-- <En>change name</En> -->
+  <ChangePlayerName.description>เปลี่ยนชื่อของคุณ</ChangePlayerName.description> <!-- <En>Change your name.</En> -->
+
+  <Cosmetics.label>ของตกแต่ง</Cosmetics.label> <!-- <En>cosmetics</En> -->
+  <Cosmetics.description>เปลี่ยนรูปลักษณ์ของคุณ</Cosmetics.description> <!-- <En>Change your appearance.</En> -->
+
+  <DailyChallenge.label>ชาเลนจ์ประจำวัน</DailyChallenge.label> <!-- <En>daily challenge</En> -->
+  <DailyChallenge.description>เข้าร่วมชาเลนจ์ประจำวัน ผู้เล่นคนอื่น ๆ ทั่วโลกก็จะได้รับชาเลนจ์เดียวกันในแต่ละวัน!</DailyChallenge.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <DailyChallengeLeaderboard.label>กระดานผู้นำชาเลนจ์ประจำวัน</DailyChallengeLeaderboard.label> <!-- <En>daily challenge leaderboard</En> -->
+  <DailyChallengeLeaderboard.description>ดูกระดานผู้นำสำหรับชาเลนจ์ประจำวันของวันนี้</DailyChallengeLeaderboard.description> <!-- <En>View the leaderboard for today's daily challenge.</En> -->
+
+  <NewRun.label>เริ่มรอบใหม่</NewRun.label> <!-- <En>start new run</En> -->
+  <NewRun.description>กำหนดค่าการเล่นรอบถัดไปของคุณ</NewRun.description> <!-- <En>Configure your next run.</En> -->
+
+  <NewRunWithSeed.label>รอบใหม่พร้อมซีด</NewRunWithSeed.label> <!-- <En>new run with seed</En> -->
+  <NewRunWithSeed.description>เริ่มรอบใหม่โดยใช้เวิลด์ซีดที่ระบุ ความคืบหน้าในล็อบบี้ทั้งหมดจะถูกปิดใช้งานในดันเจี้ยนนี้</NewRunWithSeed.description> <!-- <En>Start a new run by using a specific world seed. All lobby progress will be disabled in this dungeon.</En> -->
+
+  <PrivateRoomInventory.label>ช่องเก็บของ</PrivateRoomInventory.label> <!-- <En>inventory</En> -->
+  <PrivateRoomInventory.description>แสดงสิ่งของที่คุณมีอยู่และสามารถนำไปวางในห้องส่วนตัวของคุณได้</PrivateRoomInventory.description> <!-- <En>Shows things you currently own and can place in your private room.</En> -->
+
+  <PrivateRoomShop.label>ร้านค้า</PrivateRoomShop.label> <!-- <En>shop</En> -->
+  <PrivateRoomShop.description>แสดงทุกสิ่งที่คุณสามารถซื้อได้ วัตถุประสงค์เดียวของของเหล่านี้คือการนำไปวางในห้องส่วนตัวของคุณ</PrivateRoomShop.description> <!-- <En>Shows everything you can buy. The only purpose for these objects is to be placed in your private room.</En> -->
+
+  <QuestLog.label_2>บันทึกเควส</QuestLog.label_2> <!-- <En>quest log</En> -->
+  <QuestLog.description_2>แสดงเควสทั้งหมดที่มีและที่ทำสำเร็จแล้ว คุณสามารถรับเควสได้ที่ล็อบบี้เท่านั้น</QuestLog.description_2> <!-- <En>Shows all available and completed quests. You can accept quests only in the lobby.</En> -->
+
+  <SingleDialogue.label>บทสนทนา</SingleDialogue.label> <!-- <En>dialogue</En> -->
+  <SingleDialogue.description>บทสนทนา</SingleDialogue.description> <!-- <En>A dialogue.</En> -->
+
+  <Stats.label>สถิติ</Stats.label> <!-- <En>stats</En> -->
+  <Stats.description>แสดงสถิติทั้งหมดที่เกี่ยวข้องกับการเล่นรอบก่อนหน้าของคุณ</Stats.description> <!-- <En>Shows all stats related to your previous runs.</En> -->
+
+  <TrainingRoom.label_2>ห้องฝึกฝน</TrainingRoom.label_2> <!-- <En>training room</En> -->
+  <TrainingRoom.description_2>ฝึกฝนต่อสู้กับศัตรูและบอส</TrainingRoom.description_2> <!-- <En>Train against enemies and bosses.</En> -->
+
+  <Traits.label>คุณสมบัติ</Traits.label> <!-- <En>traits</En> -->
+  <Traits.description>เลือกคุณสมบัติของคุณ คุณสามารถเลือกได้สูงสุด 2 คุณสมบัติ</Traits.description> <!-- <En>Choose your traits. You can choose up to 2 traits.</En> -->
+
+</SpecTranslations>

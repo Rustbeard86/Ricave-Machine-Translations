@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>τυφλωτική λάμψη</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>Τυφλώνει για λίγο όλους όσους μπορούν να σε δουν αυτήν τη στιγμή. Δεν κοστίζει γύρους για να χρησιμοποιηθεί.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>εξαπάτηση</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>Κάνε τον στόχο εχθρικό προς όλους τους άλλους για λίγο. Δεν κοστίζει γύρους για να χρησιμοποιηθεί.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>παγίδευση διπλανών</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>Παγιδεύει για λίγο όλους όσους βρίσκονται δίπλα σου. Δεν κοστίζει γύρους για να χρησιμοποιηθεί.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>επιτάχυνση</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>Παίξε δύο φορές ανά γύρο για λίγο. Δεν κοστίζει γύρους για να χρησιμοποιηθεί.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>άλμα</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Κάνε αμέσως άλμα σε οποιοδήποτε διπλανό πλακίδιο, ακόμα και κάθετα. Δεν κοστίζει γύρους για να χρησιμοποιηθεί.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>σπρώξιμο</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Σπρώχνει οποιονδήποτε 1 κελί μακριά. Δεν κοστίζει γύρους για να χρησιμοποιηθεί.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>τυχαία απόδραση</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Σε τηλεμεταφέρει σε μια τυχαία τοποθεσία στον χάρτη. Δεν κοστίζει γύρους για να χρησιμοποιηθεί.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>δημιουργία λιάνας</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Δημιούργησε λιανές στην καθορισμένη τοποθεσία και σκαρφάλωσέ τες.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>σύννεφο δηλητηρίου</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Δημιούργησε ένα σύννεφο δηλητηρίου στην καθορισμένη τοποθεσία. Δεν κοστίζει γύρους για να χρησιμοποιηθεί.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>κλήση φαντάσματος</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Κάλεσε ένα φιλικό φάντασμα για να σε βοηθήσει στις μάχες. Μόνο ένα φάντασμα μπορεί να είναι ζωντανό κάθε φορά.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

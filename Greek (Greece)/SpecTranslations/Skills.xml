@@ -1,0 +1,57 @@
+<SpecTranslations>
+
+  <BodyPartsDamage.label>ανατόμος</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>Προκαλείς 30% περισσότερη ζημιά όταν στοχεύεις απευθείας ένα μέρος του σώματος.</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>κολλώδης</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>50% πιθανότητα να παγιδεύσεις αυτόματα για 1 γύρο όποιον σου επιτίθεται.</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>αντιεκρηκτικός</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>Δέχεσαι 80% λιγότερη ζημιά από εκρήξεις.</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>γρήγορη ανάρρωση</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>Η φυσική αναγέννηση υγείας είναι δύο φορές πιο γρήγορη.</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>σφριγηλός</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>Η φυσική αναγέννηση αντοχής είναι δύο φορές πιο γρήγορη.</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>ζωτικότητα</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>Αποκτάς +1 μέγιστη Υγεία.</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>μάγος</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>Αποκτάς +1 μέγιστο μάνα και δέχεσαι 50% λιγότερη μαγική ζημιά.</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>αθλητής</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>Αποκτάς +2 μέγιστη αντοχή.</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>κλειδαράς</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>Ανοίγεις πράσινα σεντούκια, αρχαία δοχεία και βασιλικές πόρτες χωρίς να χρειάζεται να βρεις κλειδιά. Επίσης, ανοίγεις κλουβιά χωρίς να χρειάζεται να νικήσεις πρώτα το αφεντικό.</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>παζαρευτής</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>Οι καταστηματάρχες πωλούν αντικείμενα σε 50% χαμηλότερες τιμές και οι περιπλανώμενοι αναγνωρίζουν αντικείμενα για 50% λιγότερο χρυσό.</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>καλοφαγάς</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>Το φαγητό αναπληρώνει διπλάσια Υγεία από το συνηθισμένο.</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>πλιατσικολόγος</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>Βρίσκεις περισσότερο ωμό κρέας στο μπουντρούμι.</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>απατεώνας</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>Βρίσκεις περισσότερες τοποθετήσιμες παγίδες στο μπουντρούμι.</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>ανθεκτικός στην πτώση</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>Πήδα από οποιοδήποτε ύψος χωρίς ζημιά πτώσης. Επιπλέον, πέφτεις πιο γρήγορα.</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>εκτροπή επιθέσεων</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>Η ζημιά που εμποδίζεται με μια ασπίδα εκτρέπεται σε έναν τυχαίο εχθρό δίπλα σου, εξαιρουμένου του επιτιθέμενου.</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>ειδικός ασπίδας</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>Η χρήση ασπίδων κοστίζει 50% λιγότερη αντοχή.</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>ασκητής</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>Δεν χρειάζεται να τρως τόσο πολύ - χρειάζεσαι διπλάσιο χρόνο για να πεινάσεις.</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>μπόνους περικύκλωσης</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>Προκαλείς 25% περισσότερη ζημιά εφόσον υπάρχουν τουλάχιστον 2 εχθροί δίπλα σου.</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

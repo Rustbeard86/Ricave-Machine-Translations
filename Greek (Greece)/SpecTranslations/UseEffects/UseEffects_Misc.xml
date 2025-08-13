@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>προσθήκη κατάστασης</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>Ο στόχος θα αποκτήσει μια νέα κατάσταση.</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>στον στόχο: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>προσθήκη επίδρασης</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>Ο στόχος θα αποκτήσει μια νέα επίδραση.</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>προσθήκη επίδρασης: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>πρόσδεση σε πάσσαλο αλυσίδας</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>Πρόσδεσε τον στόχο σε έναν πάσσαλο αλυσίδας.</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>σφράγιση πόρτας</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>Σφράγισε μια πόρτα. Ο μόνος τρόπος για να περάσεις τις σφραγισμένες πόρτες είναι να τις καταστρέψεις.</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>τυφλωτική λάμψη</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>Τύφλωσε όλους όσους μπορούν να σε δουν αυτήν τη στιγμή.</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>τυφλωτική λάμψη {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>σκάψιμο</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>Κρύψου στο έδαφος.</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>ανταλλαγή φίλτρου με πάπυρο</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>Θα λάβεις έναν τυχαίο πάπυρο σε αντάλλαγμα για οποιοδήποτε φίλτρο.</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>κατάρρευση οροφής</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>Η οροφή θα καταρρεύσει αν δεν υπάρχει άλλη υποστήριξη.</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>κατάρρευση οροφής (ζημιά {0} {1})</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>κατάρρευση οροφής (ένα κελί)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>Η οροφή εδώ θα καταρρεύσει και θα βλάψει όλους όσους βρίσκονται από κάτω.</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>κατάρρευση οροφής (ένα κελί) (ζημιά {0} {1})</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>συλλογή αστρόσκονης</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>Σύλλεξε αστρόσκονη από το τρόπαιο.</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>συλλογή αστρόσκονης x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>μαγείρεμα</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>Μαγείρεψε λίγο φαγητό.</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>μάγεμα εξοπλισμού (κρύσταλλος)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>Εφάρμοσε ένα μάγεμα στον εξοπλισμό της επιλογής σου.</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>προσφορά καταραμένου αντικειμένου</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>Πρόσφερε ένα καταραμένο αντικείμενο στο άγαλμα του διαβόλου σε αντάλλαγμα για μια ανταμοιβή.</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>πρόκληση ζημιάς</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>Ο στόχος θα χάσει τον καθορισμένο αριθμό πόντων ζωής μείον την πανοπλία του.</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>ζημιά {0} {1}</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>καταστροφή</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>Ο στόχος θα καταστραφεί.</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>σκάψιμο</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>Σκάψε αντικείμενα όπως το χώμα.</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>καταστροφή εύθραυστων αντικειμένων</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>Κατέστρεψε εύθραυστα αντικείμενα όπως τούβλινους τοίχους και πύλες.</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>καταστροφή γυαλιού</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>Κατέστρεψε αντικείμενα από γυαλί όπως παράθυρα και γυάλινα πατώματα.</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>εξόρυξη</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>Κάνε εξόρυξη σε αντικείμενα που μπορούν να εξορυχθούν, όπως κρύσταλλοι.</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>καταστροφή μέλους σώματος</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>Κατέστρεψε ένα τυχαίο μέλος του σώματος.</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>λήψη ανταμοιβής</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>Λάβε μια τυχαία ανταμοιβή.</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>αντιγραφή</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>Ένα αντικείμενο της επιλογής σου θα αντιγραφεί ή θα καταστραφεί.</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>αντιγραφή (πιθανότητα {0})</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>μάγεμα εξοπλισμού</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>Εφάρμοσε ένα τυχαίο μάγεμα στον εξοπλισμό της επιλογής σου.</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>σβήσιμο</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>Σβήσε οποιαδήποτε φωτιά.</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>τάισμα</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>Ικανοποίησε την πείνα σου.</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>κορεσμός {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>ολοκλήρωση πίστας</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>Ολοκλήρωσε αυτήν την πίστα και επέστρεψε στο λόμπι.</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>ψάρεμα</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>Πιάσε ένα ψάρι.</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>απόκτηση πόντου ικανότητας</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>Απόκτησε έναν πόντο ικανότητας.</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>τζόγος</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>Πόνταρε τα χρήματά σου και δες αν θα κερδίσεις.</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>θεραπεία</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>Ο στόχος θα ανακτήσει τον καθορισμένο αριθμό πόντων ζωής.</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>θεραπεία {0} HP</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>αναγνώριση αντικειμένου</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>Αναγνώρισε ένα αντικείμενο.</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>αναγνώριση αντικειμένων</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>Αναγνώρισε αντικείμενα (αναγνώριση που αντιστοιχεί στον καθορισμένο αριθμό γύρων).</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>αναγνώριση αντικειμένων {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>πρόκληση θορύβου</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>Ξύπνα τα πλάσματα που κοιμούνται στην καθορισμένη ακτίνα.</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>άνοιγμα ηλεκτρονικού χρηματοκιβωτίου</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>Άνοιξε ένα ηλεκτρονικό χρηματοκιβώτιο κάπου.</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>πληρωμή</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>Θα πρέπει να δώσεις ορισμένα αντικείμενα.</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>πληρωμή {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>τράβηγμα</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>Ο στόχος θα τραβηχτεί προς τον χρήστη της ικανότητας.</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>τράβηγμα {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>σπρώξιμο</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>Ο στόχος θα σπρωχτεί μερικά κελιά πίσω.</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>σπρώξιμο {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>τυχαίο σπρώξιμο</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>Ο στόχος θα σπρωχτεί προς μια τυχαία κατεύθυνση.</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>τυχαίο σπρώξιμο {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>τυχαία επίδραση</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>Εφάρμοσε μια τυχαία επίδραση.</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>λήψη αντικειμένου</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>Ένα αντικείμενο θα δοθεί στον χρήστη.</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>λήψη {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>αφαίρεση κατάστασης</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>Μια συγκεκριμένη κατάσταση θα αφαιρεθεί από τον στόχο.</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>αφαίρεση {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>αφαίρεση κατάρας</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>Αφαίρεσε την κατάρα από ένα αντικείμενο στο απόθεμα του στόχου. Θα δοθεί προτεραιότητα στην αφαίρεση της κατάρας από τα εξοπλισμένα αντικείμενα.</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>αφαίρεση κατάστασης</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>Μια συγκεκριμένη κατάσταση θα αφαιρεθεί από τον στόχο.</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>αφαίρεση {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>έρευνα</Research.label> <!-- <En>research</En> -->
+  <Research.description>Ερεύνησε ένα αντικείμενο.</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>επαναφορά φορτίσεων ρολογιού</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>Οι φορτίσεις του ρολογιού σου θα μηδενιστούν, οπότε δεν θα μπορείς να γυρίσεις πίσω τον χρόνο για κάποιο διάστημα.</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>αποκατάσταση μάνα</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>Το μάνα του στόχου θα αποκατασταθεί.</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>αποκατάσταση {0} μάνα</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>αποκατάσταση χαμένων μελών σώματος</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>Όλα τα χαμένα μέλη του σώματος του στόχου θα αποκατασταθούν.</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>αποκατάσταση αντοχής</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>Η αντοχή του στόχου θα αποκατασταθεί.</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>αποκατάσταση {0} αντοχής</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>επιστροφή στο λόμπι</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>Επέστρεψε στο λόμπι. Η τρέχουσα πίστα σου θα τελειώσει, αλλά θα κρατήσεις κάποια πράγματα.</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>γύρισμα του χρόνου πίσω</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>Γύρνα πίσω στον χρόνο.</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>γύρισμα πίσω {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>ανάφλεξη</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>Βάλε φωτιά σε ένα εύφλεκτο αντικείμενο.</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>ανάφλεξη ({0} HP)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>απελευθέρωση πνεύματος</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>Απελευθέρωσε ένα πνεύμα.</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>εμφάνιση αντικειμένου</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>Ένα νέο αντικείμενο θα εμφανιστεί κοντά.</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>εμφάνιση {0}</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>εμφάνιση τυχαίου εχθρού</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>Ένας τυχαίος εχθρός θα εμφανιστεί κοντά.</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>εμφάνιση αντικειμένου</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>Ένα νέο αντικείμενο θα εμφανιστεί κοντά.</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>εμφάνιση {0}</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>κλοπή</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>Κλέψε ένα αντικείμενο από τον στόχο.</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>αποκατάσταση χαμένων μελών σώματος</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>Όλα τα χαμένα μέλη του σώματος του στόχου θα αποκατασταθούν.</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>τηλεμεταφορά</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>Ο στόχος θα τηλεμεταφερθεί στην καθορισμένη τοποθεσία.</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>τηλεμεταφορά σε τυχαία τοποθεσία</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>Ο στόχος θα τηλεμεταφερθεί σε μια τυχαία τοποθεσία.</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>ξεκλείδωμα</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>Ξεκλείδωσε ένα νέο αντικείμενο, μέρος ή μπόνους.</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>ξεκλείδωμα {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>αναβάθμιση επιπέδου</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>Αναβάθμισε το επίπεδο ενός αντικειμένου.</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>αναβάθμιση επίδρασης σφαίρας</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>Εφάρμοσε μια μόνιμη ενίσχυση.</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

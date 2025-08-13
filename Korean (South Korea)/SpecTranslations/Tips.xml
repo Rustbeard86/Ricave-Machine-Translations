@@ -1,0 +1,43 @@
+<SpecTranslations>
+
+  <Combat.tips><li>어떻게든 한 번에 여러 명의 적에게 피해를 입지 않도록 하세요. 가능하다면 한 명씩 유인하세요.</li><li>절대 적에게 먼저 접근하지 마세요. 대신 [Wait] 키를 눌러 적이 다가오기를 기다리면 항상 먼저 피해를 줄 수 있습니다.</li><li>목표물보다 높은 곳에 있으면 추가 피해를 줍니다. 즉, 비행하는 캐릭터는 더욱 치명적입니다.</li><li>적이 이전 턴에 당신을 보지 못했다면, 공격 시 추가 피해를 줍니다. 벽 뒤에 숨어 적이 다가오기를 기다렸다가 기습 공격을 하세요.</li><li>대포는 한 번에 여러 대상에게 피해를 줄 수 있습니다. 창을 던져 원거리에서 함정을 발동시키세요.</li><li>[Fly] 키를 길게 누르면 신체 부위를 조준할 수 있습니다. 신체 부위는 파괴되면 각기 다른 효과를 가집니다. 일부 적을 움직이지 못하게 하거나 눈을 멀게 할 수 있습니다.</li><li>누군가의 팔을 파괴하면 아이템을 사용할 수 없게 됩니다.</li><li>[Fly] 키를 길게 눌러 문을 걷어찰 수 있습니다. 문을 걷어차면 반대편에 서 있는 적을 밀어냅니다.</li><li>대기하면 다음 공격이 강화됩니다. 이것은 강력한 기능이므로 가능할 때마다 사용하세요.</li></Combat.tips> <!-- <En><li>Avoid taking damage from multiple enemies at once at all costs. Lure them one by one whenever possible.</li>
+  <li>Never approach an enemy first. Instead, press [Wait] to wait for them to come to you so that you're always the first one to deal damage.</li>
+  <li>Being above your target makes you deal extra damage. This means that flying characters are even more deadly.</li>
+  <li>If your enemy didn't see you on their last turn, attacking them will make you deal extra damage. Hide behind a wall and wait for them to approach you for a surprise attack.</li>
+  <li>Cannons can deal damage to multiple targets at once. Throw a spear to trigger the trap from a distance.</li>
+  <li>Hold [Fly] to target body parts. Different body parts have different effects when destroyed. You can immobilize some enemies or make them blind.</li>
+  <li>Destroying someone's arms makes them unable to use items.</li>
+  <li>You can hold [Fly] to kick doors. Kicking doors pushes enemies standing on the other side.</li>
+  <li>Waiting charges your next attack. This is a powerful mechanic, so use it whenever you can.</li></En> -->
+
+  <General.tips><li>이곳의 모든 것은 턴제이므로 항상 시간을 갖고 다음 행동을 계획하세요.</li><li>문이나 바닥 창살과 같은 일부 물체는 폭탄이나 특수 장비로만 파괴할 수 있습니다.</li><li>바닥 창살을 파괴하면 다음 층으로 바로 뛰어내릴 수 있습니다. 하지만 약간의 체력이 소모될 수 있습니다.</li><li>불은 인접한 가연성 물체에는 빠르게 번지지만, 캐릭터에게는 번지지 않습니다. 화상을 입으려면 불 속으로 직접 들어가야 합니다.</li><li>마나는 소중합니다. 자동으로 재생되지 않으며 마나 물약은 매우 드뭅니다. 주문을 현명하게 사용하세요.</li><li>판자를 사용해 문을 막을 수 있습니다. 막힌 문을 통과하는 유일한 방법은 문을 파괴하는 것입니다.</li></General.tips> <!-- <En><li>Everything is turn-based here, so always take your time to plan your next move.</li>
+  <li>Some things like gates and floor bars can only be destroyed with bombs or special equipment.</li>
+  <li>Destroying floor bars will let you jump straight into the next floor. However, this may cost you some hit points.</li>
+  <li>Fires spread quickly onto adjacent, flammable objects, but not characters. You need to step directly into the fire to get burned.</li>
+  <li>Mana is precious - it doesn't regenerate automatically and mana potions are quite rare. Use your spells wisely.</li>
+  <li>Planks can be used to bar doors. The only way to get through barred doors is to destroy them.</li></En> -->
+
+  <Identification.tips><li>무기와 방어구에는 무작위로 강력한 마법이 부여될 수 있습니다. 저주에 걸릴 수도 있으며, 저주 해제 주문서를 사용해야만 벗을 수 있습니다.</li><li>배고프지 않은 상태라면 모든 미확인 아이템은 시간이 지남에 따라 결국 식별됩니다. 소지품 창에서 아이템을 드래그 앤 드롭하여 다음에 식별할 아이템을 결정할 수 있습니다.</li><li>물약, 주문서, 마법봉, 폭탄과 같은 일부 미확인 아이템은 툴팁에 어떤 아이템인지에 대한 힌트를 제공합니다. 그럼에도 사용하기로 결정하면, 해당 게임이 끝날 때까지 식별된 상태가 됩니다.</li></Identification.tips> <!-- <En><li>Weapons and armor can have random, powerful enchantments. They can also be cursed and you'll have to use a curse removal scroll to take them off.</li>
+  <li>Every unidentified item eventually becomes identified over time if you're not hungry. You can drag and drop items in your inventory screen to decide which one should be identified next.</li>
+  <li>Some unidentified items like potions, scrolls, wands, and bombs give a hint on what they could be in their tooltip. If you decide to use them anyway, they will become identified for the rest of the run.</li></En> -->
+
+  <Interface.tips><li>거의 모든 인터페이스 요소에는 툴팁이 있습니다. 한번 사용해 보세요!</li><li>[MoveLeft] 키와 [MoveRight] 키를 눌러 옆걸음질을 할 수 있습니다.</li><li>[Minimap] 키를 길게 누르면 더 큰 지도를 볼 수 있습니다. 지도에 몇몇 유용한 장소가 표시됩니다.</li><li>[AttackNearest] 키를 누르면 마우스에서 가장 가까운 대상을 빠르게 공격합니다. 폭발하는 통과 같은 위험한 물체는 자동 공격이 불가능합니다.</li><li>[StationaryActionsOnly] 키를 길게 누르면 현재 위치를 유지하며 현재 위치에서만 물체와 상호작용할 수 있습니다. 이렇게 하면 실수로 클릭하는 것을 방지할 수 있습니다.</li><li>[OneStep] 키를 길게 누르면 목적지를 향해 한 칸만 이동합니다. 이렇게 하면 다음 행동을 더 잘 계획할 수 있습니다.</li><li>[LeanLeft] 키와 [LeanRight] 키를 눌러 몸을 기울일 수 있습니다 (또는 [StationaryActionsOnly] 키를 누른 상태에서 [MoveForward], [RotateLeft], [MoveBack], [RotateRight] 키를 누르세요).</li><li>[RotateToNearestTarget] 키를 누르면 가장 가까운 대상을 향해 자동으로 회전할 수 있습니다.</li><li>[SnapToCurrentRotation] 키를 누르면 현재 회전 상태를 초기화할 수 있습니다.</li></Interface.tips> <!-- <En><li>Almost every interface element has a tooltip. Try it!</li>
+  <li>You can strafe by pressing [MoveLeft] and [MoveRight].</li>
+  <li>Hold [Minimap] to see a bigger map. Some useful locations will be marked there.</li>
+  <li>Press [AttackNearest] to quickly attack the closest target to your mouse. Dangerous objects like exploding barrels aren't auto-attackable.</li>
+  <li>Hold [StationaryActionsOnly] to hold position and allow interacting with objects only from your current position. This can help you avoid missclicks.</li>
+  <li>Hold [OneStep] to make only one move towards your destination. This can help you plan your next moves better.</li>
+  <li>You can lean by pressing [LeanLeft] and [LeanRight] (or holding [StationaryActionsOnly] and pressing [MoveForward], [RotateLeft], [MoveBack], [RotateRight]).</li>
+  <li>You can automatically rotate towards the nearest target by pressing [RotateToNearestTarget].</li>
+  <li>You can reset your current rotation by pressing [SnapToCurrentRotation].</li></En> -->
+
+  <RewindingTime.tips><li>실수로 클릭해도 걱정하지 마세요. 언제든지 [Rewind] 키를 눌러 시간을 되돌릴 수 있습니다 (소지품에 시계가 있는 경우).</li><li>이곳의 모든 행동은 결정론적이므로, 시간을 되돌린 후 다시 같은 행동을 하면 이전과 똑같은 결과가 나옵니다.</li></RewindingTime.tips> <!-- <En><li>Don't worry if you missclick - you can always rewind time by pressing [Rewind] (if you have a watch in your inventory).</li>
+  <li>All actions here are deterministic, which means that everything will play out exactly the same as before if you rewind time and then make the same move again.</li></En> -->
+
+  <Specific.tips><li>최고급 물약과 주문서는 중간 보스전을 위해 아껴두도록 하세요.</li><li>가끔 고유 장비가 든 은 상자와 비밀의 방으로 이어지는 은색 문을 발견할 수 있습니다. 하지만 현명하게 선택하세요. 보통 근처에는 은 열쇠가 하나뿐입니다.</li><li>물약을 제조하려면 먼저 빈 약병을 찾아 물을 채운 다음, 원하는 재료와 섞어야 합니다.</li><li>은 상자에는 비행을 가능하게 하는 날개가 들어 있을 수 있습니다. [Fly] 키를 누른 상태에서 [MoveForward] 또는 [MoveBack] 키를 눌러 비행할 수 있습니다.</li><li>가끔 금으로 물약과 주문서를 살 수 있는 상점을 발견할 수 있습니다. 용감하다면, 상점 주인을 죽이고 물건을 훔쳐볼 수도 있습니다. 하지만 조심하세요, 어려운 싸움이 될 겁니다!</li></Specific.tips> <!-- <En><li>Try to save your best potions and scrolls for the mini-boss fights.</li>
+  <li>You can sometimes find a silver chest with unique gear and a silver door leading to a secret room. But choose wisely - there's usually only one silver key nearby.</li>
+  <li>To brew a potion you need to first find an empty vial, fill it with water, and then mix with your ingredient of choice.</li>
+  <li>A silver chest can contain wings which will let you fly. You can fly by holding [Fly] and pressing [MoveForward] or [MoveBack].</li>
+  <li>You can sometimes find a shop where you can buy potions and scrolls for gold. If you're brave, you can try to kill the shopkeeper and steal his items. But be careful, it's a difficult fight!</li></En> -->
+
+</SpecTranslations>

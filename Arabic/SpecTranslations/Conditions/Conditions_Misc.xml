@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>هائج</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>لقد قتلت شخصًا مؤخرًا. أنت تُلحق وتتلقى ضررًا جسديًا أكثر بنسبة 25% لفترة قصيرة.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>نزيف</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>هذه الشخصية تنزف وستستمر في فقدان نقاط الصحة حتى يتم تضميدها.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>نزيف ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>أعمى</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>يمكن لهذه الشخصية استشعار الأشياء المجاورة فقط وستخطئ بنسبة 30% من الوقت.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>عظم مكسور</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>هذه الشخصية لديها عظم مكسور، مما يجعلها تُلحق ضررًا جسديًا أقل.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>هذه الشخصية لديها عظم مكسور، مما يجعلها تُلحق ضررًا جسديًا أقل بمقدار {0}.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>احتراق</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>هذه الشخصية تحترق، مما يعني أنها ستفقد عددًا معينًا من نقاط الإصابة في كل دور.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>احتراق ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>تغيرت فرصة الضربة الحرجة</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>يؤثر على فرصة توجيه ضربة حرجة من قبل هذه الشخصية.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>فرصة الضربة الحرجة: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>فقدان الصحة</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>هذه الشخصية تفقد صحتها.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>فقدان الصحة ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>عامل الضرر المُلحَق</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>الضرر الذي تُلحقه هذه الشخصية يتغير بهذا العامل.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>ضرر {1} المُلحَق: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>إزاحة الضرر المُلحَق</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>تُضاف هذه القيمة (أو تُطرح) من الضرر الذي تُلحقه هذه الشخصية. إذا كانت هذه القيمة نطاقًا، فسيتم استخدام قيمة عشوائية من النطاق.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>ضرر {1} المُلحَق: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>مرض</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>هذه الشخصية مصابة بمرض، مما يمنع الشفاء الطبيعي ويجعلها غير قادرة على الطيران.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>ثمل</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>هذه الشخصية ثملة، مما يعني أنها ستتحرك في اتجاه عشوائي في كل دور. لا يمكنها فعل أي شيء آخر في هذه الحالة.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>متشابك</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>هذه الشخصية متشابكة، مما يعني أنها لا تستطيع الحركة. ومع ذلك، لا يزال بإمكانها الهجوم من موقعها الحالي.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>متجمد</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>هذه الشخصية متجمدة، مما يعني أنها لا تستطيع فعل أي شيء سوى الانتظار أثناء وجودها في هذه الحالة.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>تجدد الصحة</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>صحة هذه الشخصية تتجدد تلقائيًا بمرور الوقت.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>تجدد الصحة ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>معدل الجوع</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>يؤثر على مدى سرعة شعور هذه الشخصية بالجوع.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>جائع</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>أنت جائع وتحتاج إلى أكل شيء ما. هذا يوقف تجدد الصحة والتعرف على العناصر.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>معدل التعرف</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>يؤثر على مدى سرعة تعرف هذه الشخصية على العناصر.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>معدل التعرف: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>حصانة ضد المرض</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>هذه الشخصية محصنة ضد المرض.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>حصانة ضد النار</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>هذه الشخصية محصنة ضد النار.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>حصانة ضد السم</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>هذه الشخصية محصنة ضد السم.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>درع</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>عامل الضرر الذي تتلقاه هذه الشخصية. إذا كانت القيمة أكبر من 1، فهذه نقطة ضعف. وإذا كانت القيمة 0، فهي حصانة.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>ضرر {1} المُتلقَى: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>درع</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>تُضاف هذه القيمة (أو تُطرح) من الضرر الذي تتلقاه هذه الشخصية. إذا كانت هذه القيمة نطاقًا، فسيتم استخدام قيمة عشوائية من النطاق.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>ضرر {1} المُتلقَى: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>عدائي تجاه الحلفاء</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>هذه الشخصية في حالة هيجان وستهاجم حلفاءها المعتادين.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>يمكنه الطيران</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>هذه الشخصية يمكنها الطيران. يمكن للشخصيات الطائرة التحرك لأعلى ولأسفل مباشرة.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>تجدد المانا</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>مانا هذه الشخصية تتجدد تلقائيًا بمرور الوقت.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>تجدد المانا ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>تغير الحد الأقصى لنقاط الصحة</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>يؤثر على الحد الأقصى لعدد نقاط الإصابة التي يمكن أن تمتلكها هذه الشخصية.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>الحد الأقصى لنقاط الصحة: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>تغير الحد الأقصى لنقاط الصحة</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>يؤثر على الحد الأقصى لعدد نقاط الإصابة التي يمكن أن تمتلكها هذه الشخصية.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>الحد الأقصى لنقاط الصحة: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>تغير الحد الأقصى للمانا</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>يؤثر على الحد الأقصى لعدد نقاط المانا التي يمكن أن تمتلكها هذه الشخصية.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>الحد الأقصى للمانا: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>تغير الحد الأقصى للقدرة على التحمل</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>يؤثر على الحد الأقصى لعدد نقاط القدرة على التحمل التي يمكن أن تمتلكها هذه الشخصية.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>الحد الأقصى للقدرة على التحمل: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>تغيرت فرصة الإخطاء</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>يؤثر على فرصة الإخطاء عند هجوم هذه الشخصية.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>فرصة الإخطاء: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>ذعر</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>هذه الشخصية في حالة ذعر وستتحرك بعيدًا عن أقرب عدو في كل دور. لا يمكنها فعل أي شيء آخر في هذه الحالة.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>مسموم</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>هذه الشخصية مسمومة، مما يعني أنها ستفقد عددًا معينًا من نقاط الإصابة في كل دور أو كل بضعة أدوار.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>مسموم ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>مدى الرؤية</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>يؤثر على المسافة القصوى التي يمكن لهذه الشخصية رؤية الأشياء والشخصيات الأخرى من خلالها.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>مدى الرؤية: الأقصى {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>مدى الرؤية</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>يؤثر على المسافة القصوى التي يمكن لهذه الشخصية رؤية الأشياء والشخصيات الأخرى من خلالها.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>مدى الرؤية: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>تغيير وتيرة تصرف هذه الشخصية</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>يؤثر على عدد الحركات المسموح بها في كل دور لهذه الشخصية.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>لا يمكنه إلحاق أي ضرر بك</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>أنت محمي من هجمات هذه الشخصية حتى الدور التالي. ومع ذلك، إذا ألحقت أي ضرر بهذه الشخصية، فسيتم إزالة التأثير. لاحظ أن إلقاء التعويذات غير الضارة لا بأس به.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>نائم</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>هذه الشخصية نائمة. ستستيقظ عند الاقتراب منها أو إزعاجها.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>يترك أثرًا</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>تترك هذه الشخصية أثرًا كلما تحركت.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>يترك أثرًا من {0}</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>تجدد القدرة على التحمل</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>القدرة على التحمل لدى هذه الشخصية تتجدد تلقائيًا بمرور الوقت.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>تجدد القدرة على التحمل ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>تضور جوعًا</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>أنت تتضور جوعًا وتحتاج إلى أكل شيء ما. بالإضافة إلى عدم تجدد الصحة وعدم التعرف على العناصر، يتوقف تجدد قدرتك على التحمل وتفقد صحتك ببطء مع مرور الوقت. لن تتفاقم عقوبات الجوع أكثر من هذا.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>تضور جوعًا ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>محاكمة الإعاقة</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>محاكمة الإعاقة جارية لهذه الشخصية. يجب عليها تدمير عدد معين من أجزاء الجسم في وقت قصير لإكمال التحدي والحصول على مكافأة.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>محاكمة الإعاقة ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>محاكمة الإعاقة جارية لهذه الشخصية. يجب عليها تدمير {0} من أجزاء الجسم خلال {1} دور لإكمال التحدي والحصول على مكافأة.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>محاكمة القاتل السريع</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>محاكمة القاتل السريع جارية لهذه الشخصية. يجب عليها قتل عدد معين من الأعداء الجديرين في وقت قصير لإكمال التحدي والحصول على مكافأة.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>محاكمة القاتل السريع ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>محاكمة القاتل السريع جارية لهذه الشخصية. يجب عليها قتل {0} من الأعداء الجديرين خلال {1} دور لإكمال التحدي والحصول على مكافأة.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>محاكمة النقاء</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>محاكمة النقاء جارية لهذه الشخصية. يجب عليها قتل عدد معين من الأعداء الجديرين دون فقدان أي نقاط إصابة لإكمال التحدي والحصول على مكافأة.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>محاكمة النقاء ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>محاكمة النقاء جارية لهذه الشخصية. يجب عليها قتل {0} من الأعداء الجديرين دون فقدان أي نقاط إصابة لإكمال التحدي والحصول على مكافأة.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>مبلل</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>هذه الشخصية مبللة، مما يمنحها مقاومة بنسبة 50% لضرر النار، ولكنه يجعل أيضًا تجدد القدرة على التحمل أبطأ بمرتين.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

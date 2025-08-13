@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <EveryoneStartsAwake.label>全員が覚醒状態で開始</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>全員が覚醒状態でダンジョンを開始します。</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>各フロアにミニボスが追加</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>各フロアに追加のミニボスが1体出現します（ダンジョンにミニボスが出現する場合のみ適用）。</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>敵が20%減少</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>すべてのフロアで敵の数が20%減少します。</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>すべてのアイテムが鑑定済み</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>ダンジョン内で見つかるすべてのアイテムが鑑定済みの状態になります。</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>敵が20%増加</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>すべてのフロアで敵の数が20%増加します。</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>罠が増加</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>ダンジョン内により多くのトゲと近接地雷が出現します。</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>空腹なし</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>空腹になることがありません。</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>ミニボスなし</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>ミニボスが出現しなくなります（ダンジョンにミニボスが出現する場合のみ適用）。</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>ランダムイベントなし</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>ダンジョンにどれだけ長く滞在してもランダムイベントが発生しなくなります（ダンジョンにランダムイベントがある場合のみ適用）。</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>シェルターなし</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>シェルターが生成されなくなります（ダンジョンにシェルターがある場合のみ適用）。</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

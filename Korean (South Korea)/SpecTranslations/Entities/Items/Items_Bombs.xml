@@ -1,0 +1,21 @@
+<SpecTranslations>
+
+  <Bomb_Damage.label>폭발 폭탄</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
+  <Bomb_Damage.description>대상과 인접한 모든 대상이 피해를 입습니다.</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
+
+  <Bomb_Drunkenness.label>취기 폭탄</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
+  <Bomb_Drunkenness.description>대상과 인접한 모든 대상이 취하게 됩니다.</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
+
+  <Bomb_Fire.label>화염 폭탄</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
+  <Bomb_Fire.description>폭발로 인해 모든 인접한 칸에 불이 붙습니다.</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
+
+  <Bomb_Freeze.label>빙결 폭탄</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
+  <Bomb_Freeze.description>대상과 인접한 모든 대상이 빙결됩니다.</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
+
+  <Bomb_Poison.label>독 폭탄</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
+  <Bomb_Poison.description>모든 인접한 칸에 독구름이 나타납니다.</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
+
+  <Bomb_Smoke.label>연막탄</Bomb_Smoke.label> <!-- <En>smoke bomb</En> -->
+  <Bomb_Smoke.description>모든 인접한 칸에 연막이 나타납니다.</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
+
+</SpecTranslations>

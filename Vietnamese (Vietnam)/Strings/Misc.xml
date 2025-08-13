@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>Chơi</Play> <!-- <En>Play</En> -->
+  <Quit>Thoát</Quit> <!-- <En>Quit</En> -->
+  <Loading>Đang tải</Loading> <!-- <En>Loading</En> -->
+  <Resume>Tiếp tục</Resume> <!-- <En>Resume</En> -->
+  <Options>Tùy chọn</Options> <!-- <En>Options</En> -->
+  <Mods>Bản vá</Mods> <!-- <En>Mods</En> -->
+  <Credits>Giới thiệu</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>Chọn ngôn ngữ</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>Chết và chơi lại</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>Chết và về sảnh chờ</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>Lưu và thoát trò chơi</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>Đóng</Close> <!-- <En>Close</En> -->
+  <Back>Quay lại</Back> <!-- <En>Back</En> -->
+  <Days>{0} ngày</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} giờ</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} phút</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 ngày</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 giờ</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 phút</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>Có gì đó đang gây ra lỗi.\nXem tệp nhật ký để biết thêm thông tin.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Đã đăng nhập vào Steam</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>chưa chọn mod</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>Truy cập sớm</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave hiện đang trong quá trình phát triển.\n\nTôi liên tục cố gắng thêm nội dung mới, tái cân bằng, loại bỏ các cơ chế không thú vị và thu thập phản hồi, nhưng chắc chắn vẫn còn thiếu sót. Nếu bạn thấy trò chơi quá khó hoặc quá dễ, gặp lỗi, hoặc có một ý tưởng tuyệt vời để cải thiện hoặc thêm tính năng mới, xin hãy tham gia vào quá trình phát triển và chia sẻ suy nghĩ của bạn trên kênh Discord hoặc Twitter của chúng tôi.\n\nCảm ơn và chúc bạn chơi vui vẻ!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>Trò chơi đã được cập nhật</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricave đã được cập nhật lên phiên bản {0}!\n\nLượt chơi hiện tại của bạn có thể không tương thích với phiên bản mới. Bạn có muốn hủy lượt chơi hiện tại và quay về sảnh chờ không?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Tải lên Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>đang tải lên</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Không thể tải lên Steam: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Tải lên Steam thành công.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>Tin nhắn</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>Độ phân giải</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>Toàn màn hình</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>Tỷ lệ giao diện</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>Tầm nhìn</FOV> <!-- <En>FOV</En> -->
+  <VSync>Đồng bộ dọc</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>Tốc độ khung hình mục tiêu</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>Hiển thị FPS</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Đảo ngược trục Y</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>Gán phím</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>Âm lượng</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>Âm lượng nhạc</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>Độ nhạy chuột</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>Độ nhạy con trỏ</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>Chất lượng SSAO</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>Chất lượng đổ bóng</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>Giảm mẫu</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>Đường viền</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>Ánh sáng tối đa</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>Tắt</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>Thấp</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>Thường</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>Cao</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>Thấp</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>Thường</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>Cao</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>Không (chất lượng tốt nhất)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5x (chất lượng kém hơn)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (chất lượng kém nhất)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>Đa lượt bo tròn</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>Đa lượt</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>Một lượt (khuyến nghị)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>OK</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>Khôi phục mặc định</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>Đặt lại trạng thái trò chơi</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>Về sảnh chờ</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>Đặt lại toàn bộ tiến trình</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>Bạn có chắc muốn về sảnh chờ không?\n\nKhông giống như việc về sảnh chờ trong game, sử dụng tùy chọn này sẽ khiến bạn mất tiến trình của lượt chơi hiện tại. Tuy nhiên, bạn sẽ không mất tiến trình chung ở sảnh chờ (các nhiệm vụ trước đó và bụi sao của bạn vẫn còn nguyên).\n\nHãy sử dụng tùy chọn này nếu tệp lưu của bạn bị hỏng, ví dụ như sau khi cài đặt một bản cập nhật không tương thích.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>Bạn có chắc muốn đặt lại TOÀN BỘ tiến trình không?\n\nThao tác này sẽ xóa tất cả dữ liệu của bạn và bạn sẽ bắt đầu lại từ đầu.\n\nChỉ sử dụng tùy chọn này nếu bạn muốn trải nghiệm lại trò chơi từ đầu, hoặc nếu dữ liệu tiến trình của bạn bị hỏng.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>Nhấn một phím để gán cho:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>Trống</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>Hình ảnh</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>Giao diện</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>Âm thanh</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>Khác</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>Chất lượng</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>Không</No> <!-- <En>No</En> -->
+  <Yes>Có</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>Vào hầm ngục</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>Vào hầm ngục với hạt giống</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>Vào phòng tập</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>Nhập hạt giống</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>Tiến trình bị vô hiệu hóa</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>Điểm cao</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>Tầng đã đến</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>Tầng trung bình</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>Số lần thử</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>Tổng số lần hạ gục</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>Nhiệm vụ</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>Thống kê</Stats> <!-- <En>Stats</En> -->
+  <Cancel>Hủy</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>Chấp nhận</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>Nhận nhiệm vụ</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>Nhận thưởng</Claim> <!-- <En>Claim</En> -->
+  <Postpone>Trì hoãn</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>Đã khóa</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>Chỉ có giá tốt nhất!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>Cần nâng cấp à?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>Có bụi sao không?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>Nhấn để đọc thêm</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>Chọn để đọc thêm</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>Hiệu ứng hầm ngục khi chấp nhận</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>Phần thưởng</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} mảnh ghép</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>Mở khóa ở cấp {0}</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>Mở khóa bằng cách hoàn thành nhiệm vụ</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>Đặt</Place> <!-- <En>Place</En> -->
+  <PickUp>Nhặt lên</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>Nhấn [ShowInventory] để mở menu cửa hàng.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>Không có</None> <!-- <En>None</En> -->
+  <CompletedQuests>Nhiệm vụ đã hoàn thành</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>Đã hoàn thành</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>Thử thách hàng ngày</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>Bạn chỉ có một lần thử - hãy tận dụng nó!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>Mỗi ngày, người chơi trên toàn thế giới sẽ chơi cùng một hạt giống hầm ngục. Bạn chỉ có một cơ hội mỗi ngày.\n\nLuật chơi:\n  - Độ khó Thường\n  - Vô hiệu hóa vật phẩm hỗ trợ\n  - Lớp nhân vật và đặc tính ngẫu nhiên\n  - Vô hiệu hóa nhiệm vụ\n  - Vô hiệu hóa tiến trình\n  - Hầm ngục phức tạp vô tận (không giới hạn tầng)\n\nBạn không thể thu thập bụi sao trong hầm ngục này và nó sẽ không được tính vào thống kê của bạn, nhưng bạn sẽ nhận được {0} khi tham gia.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>Thử thách tiếp theo sau: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>Điểm cao nhất của bạn (tất cả các ngày): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>Bắt đầu thử thách hàng ngày</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>Bạn đã chơi thử thách hôm nay rồi\nĐiểm của bạn là: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>Vui lòng tắt mod trước</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>Mở khóa ở cấp {0}</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>Xem bảng xếp hạng hôm nay</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>Toàn cầu</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>Bạn bè</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>Hạng của bạn: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>Đang tải bảng xếp hạng...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>Không thể tải bảng xếp hạng.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>Không có bảng xếp hạng.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>Chưa có bạn bè nào của bạn chơi thử thách này.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>Nhiệm vụ đang làm</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>Đang làm</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>Nhiệm vụ có sẵn</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>Có sẵn</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>Nhiệm vụ lịch sử</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>Lịch sử</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>Nhấn [Wait] để tiếp tục</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>Nhiệm vụ</Quest> <!-- <En>Quest</En> -->
+  <Runs>Lượt chơi</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 nhiệm vụ có sẵn</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} nhiệm vụ có sẵn</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>Sử dụng sổ nhiệm vụ để nhận nhiệm vụ.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>Tên người chơi</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>Độ khó</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>Kẻ địch</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>Trùm</Bosses> <!-- <En>Bosses</En> -->
+  <Train>Tập luyện</Train> <!-- <En>Train</En> -->
+  <EnterNewName>Nhập tên mới</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>Máu kẻ địch</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>Máu khởi đầu</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>Điểm số</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>Thêm kẻ địch</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>Bánh mì mỗi tầng</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>Bình máu mỗi tầng</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>Cấp độ kẻ địch</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>Vàng nhặt được mỗi tầng</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>Bụi sao</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>Pha lê hồi máu</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>Pha lê hồi máu nhỏ</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>Pha lê năng lượng</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>Pha lê năng lượng nhỏ</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>Số lượng kẻ địch</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>Bình máu khởi đầu</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>Chúc mừng!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>Chúc mừng!\n\nĐiểm số cuối cùng của bạn là: {0}\n\nDù mạch nhiệm vụ chính đã kết thúc, vẫn còn nhiều điều đang chờ bạn khám phá.\n\nNếu bạn thích trò chơi, hãy cân nhắc tham gia máy chủ Discord của chúng tôi tại {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>Giá đặc tính tiếp theo</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>Bạn cần mở khóa đặc tính này trước.\n\nBạn có thể mua một đặc tính ngẫu nhiên bằng bụi sao. Bạn càng có nhiều đặc tính, giá mua đặc tính tiếp theo sẽ càng đắt.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>Tầng cao nhất bạn đã đạt được với đặc tính này: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>Bạn chỉ có thể chọn tối đa 2 đặc tính.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>Bạn không có đủ bụi sao.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>Nhấp để chọn hoặc bỏ chọn đặc tính này.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>Chọn hoặc bỏ chọn đặc tính này.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>Nhấp để chọn hoặc bỏ chọn.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>Chọn hoặc bỏ chọn.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>Mua {0} đặc tính ngẫu nhiên</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>Đặc tính đã chọn</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>Bạn có thực sự muốn mua {1} đặc tính ngẫu nhiên với giá {0} không?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>Bắt đầu với {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>Tìm thấy thêm {0} vàng</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>Tìm thấy ít hơn {0} vàng</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>Máu tối đa</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>Năng lượng tối đa</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>Thể lực tối đa</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>Không thù địch {0}</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>Thù địch {0}</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>Kháng độc {0}</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>Yếu trước độc {0}</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>Miễn nhiễm độc</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>Không bị sát thương khi ngã</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>Sát thương khi ngã {0}</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>Kháng lửa {0}</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>Yếu trước lửa {0}</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>Kháng phép {0}</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>Yếu trước phép {0}</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{0} sát thương lên {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>Thể lực hồi phục chậm hơn {0}x</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Thể lực hồi phục chậm gấp đôi</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>Gây thêm {0} sát thương khi dưới {1} Máu</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>Nhận ít hơn {0} Máu tối đa mỗi cấp</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>Nhận thêm {0} Máu tối đa mỗi cấp</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>Tiếng bước chân {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>Nhận {0} năng lượng mỗi lần hạ gục xứng đáng</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>Nhận {0} Máu mỗi lần hạ gục xứng đáng</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>Mất {0} Máu mỗi lần hạ gục xứng đáng</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>Ô túi đồ {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>Máu tối đa x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>{0} sát thương lên trùm</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>Tỷ lệ hồi máu {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>Miễn nhiễm với {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>Miễn nhiễm đẩy lùi</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>Tỷ lệ đói {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>Giá cửa hàng {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>Có thể bay</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>Nhận thêm {0} kinh nghiệm</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>Nhận ít hơn {0} kinh nghiệm</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>KN giữ lại từ lượt trước</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>Vàng giữ lại từ lượt trước</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>Còn 1 lượt chơi</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>Còn {0} lượt chơi</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>Bắt đầu</StartNewRun> <!-- <En>Start</En> -->
+  <Character>Nhân vật</Character> <!-- <En>Character</En> -->
+  <Traits>Đặc tính</Traits> <!-- <En>Traits</En> -->
+  <Boosts>Tăng cường</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>Tầng</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} tầng</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>Phòng mỗi tầng</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>Mở khóa với {0}</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>Hoàn thành ở độ khó</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>Trùm nhỏ</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>Nơi trú ẩn</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>Linh hồn được giải cứu</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>Thắng</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>Thua</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>Trùm {0}</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>Xung đột với</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>Trang phục chỉ mang tính thẩm mỹ và không ảnh hưởng đến lối chơi, trừ khi có ghi chú khác.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>Bạn có muốn mua {0} với giá {1} không?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>Bạn không đủ tiền mua trang phục này.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>Giá</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>Cảnh báo: Trang phục này sẽ khiến phe {0} thù địch với bạn</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>Hiệu ứng hầm ngục bổ sung</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>Thời gian của ngươi là vay mượn.\nTa chỉ đơn thuần thu hồi món nợ của mình.\nCứ tiếp tục chạy đi.\nRồi ngươi sẽ tìm thấy lối ra.\nTa đang ở ngay phía sau nó.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>Kẻ địch chưa khám phá</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} Máu</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} năng lượng</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} thể lực</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} đến {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>bị phục kích</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>từ trên cao</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>từ làm chệch hướng</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>sát thương lan</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>chưa xác định</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>Bị nguyền</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>bị nguyền</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 lượt</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} lượt</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1 lần dùng</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} lần dùng</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 điểm tích trữ</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} điểm tích trữ</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 kim cương</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} kim cương</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 bụi sao</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} bụi sao</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 ô</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} ô</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 vàng</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} vàng</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}v</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>Nhấn [Accept] để tiếp tục</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>Nhấn [Accept] để tiếp tục đến sảnh</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>Nhấn [Wait] để khởi động lại</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>không có lựa chọn</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>Cảnh báo: Vật phẩm này có thể {0}.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>Cảnh báo: Vật phẩm này {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>Bạn không thể tháo trang bị {0} (nếu không có cuộn giải nguyền).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>Vàng</Gold> <!-- <En>Gold</En> -->
+  <Leave>Rời đi</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>Hành động hai lần mỗi lượt</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>Hành động {0} lần mỗi lượt</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>Hành động mỗi hai lượt</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>Hành động một lần mỗi {0} lượt</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>Không bị đói</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>Đói nhanh gấp đôi</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>Đói nhanh gấp {0} lần</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>Đói chậm gấp đôi</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>Hệ số tỷ lệ đói: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>Ném {0} vàng</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>cơ hội {0}</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>giá trị {0} lượt</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>bán kính {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>toàn bản đồ</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>xuyên tường</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>quanh mục tiêu</AroundTarget> <!-- <En>around target</En> -->
+  <Used>Đã dùng</Used> <!-- <En>Used</En> -->
+  <Waiting>Đang chờ</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>Bị gián đoạn</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>vị trí</Location> <!-- <En>spot</En> -->
+  <StopTargeting>Ngừng nhắm mục tiêu</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>Nhiệm vụ hoàn thành</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>Nhận phần thưởng của bạn khi trở lại sảnh</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>Đứng yên</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>Một bước</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>Bạn có muốn mua {0} với giá {1} không?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>Đây là một phần thưởng dùng một lần và chỉ áp dụng cho lượt chơi tiếp theo của bạn.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>Mua</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>Có thể dùng sau {0}</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>Đây là vũ khí bản địa của nhân vật này.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>Chọn một phép thuật mới.\n\nBạn có thể chọn một phép thuật mới mỗi khi lên cấp.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} đã bị tiêu diệt</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>Mẹo: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>Sử dụng [MoveForward][MoveLeft][MoveBack][MoveRight] để di chuyển. Nhấn [ShowInventory] để mở hành trang. Sử dụng [Interact] để tương tác với vật thể. Xoay bằng [RotateLeft] và [RotateRight]. Giữ [Inspect] để kiểm tra. Nhấn [Wait] để chờ một lượt.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>Chờ</Waits> <!-- <En>Waits</En> -->
+  <Wait>Chờ</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>Chờ (say)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>Chờ (hoảng loạn)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>Chờ ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>Tỉnh dậy</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>Đâu?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>Không có tay</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>Không có chân</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>Thù địch</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>Thiếu bộ phận cơ thể</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>Ai đó đang nhìn bạn</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>Trùm vẫn còn sống</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>Không đủ mana ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>Không đủ thể lực ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>Hồi chiêu ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>Lại gần hơn</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>Mục tiêu không hợp lệ</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>Ngoài tầm</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>Không có tầm nhìn</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>Cần {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>Không thể với tới</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>Hành trang đã đầy</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>Cần 2 tinh thể giống nhau</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>Cần linh hồn</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>Cần xẻng</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>Dùng xẻng</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>Cần cuốc chim</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>Dùng cuốc chim</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>Một số thành viên trong đội ở quá xa</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>Cửa bị chặn</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>Đệ tử {0} đã tồn tại</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} ngay cho bạn</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} ngay</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} ngay cho bạn</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>{0} sát thương mỗi lượt</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{0} sát thương mỗi {1} lượt</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} mỗi lượt</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} mỗi {1} lượt</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>tất cả</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} cho bạn</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>hoặc</Or> <!-- <En>or</En> -->
+  <And>và</And> <!-- <En>and</En> -->
+  <Score>Điểm</Score> <!-- <En>Score</En> -->
+  <FloorReached>Tầng đã đến</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>Số mạng hạ gục</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>Thời gian chơi</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>Số mạng hạ gục</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>Xếp hạng chiến đấu</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>Trùm đã bị tiêu diệt</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>Vật phẩm sảnh đã thu thập</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>Phần thưởng tiếp theo ở cấp {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}ng</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}g</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}ph</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>không</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>Kỷ lục mới!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>và nhiều hơn nữa</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>Hạt giống: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 hiệu ứng điều chỉnh</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} hiệu ứng điều chỉnh</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>Cược {0} vàng</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>Hướng dẫn</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>Số trùm đã giết</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>Nhiệm vụ đã hoàn thành</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>Ghi chú đã tìm thấy</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>Rương đã mở</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>Vật phẩm đã chế tạo</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>Thường</Common> <!-- <En>Common</En> -->
+  <Uncommon>Không phổ biến</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>Hiếm</Rare> <!-- <En>Rare</En> -->
+  <Epic>Sử thi</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>Chưa giám định</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>Vật phẩm sảnh (vĩnh viễn)</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>Sảnh</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>bị thương</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>lửa gần đó</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>tiếng ồn lớn</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>đồng minh thức dậy gần đó</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>tiếng bước chân thù địch</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>đồng minh cảnh giác đi qua</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>cửa bị đá</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>Trượt</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} trượt</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} chí mạng</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>chí mạng</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>Đòn chí mạng</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>tích điện</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>Công thức có sẵn</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>Chờ {0} lượt</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>Tua lại {0} lượt</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>bạn có {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>{0} con</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>trùm {0}</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>Bạn dường như đang ở trong một hầm ngục nào đó...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>Bạn không biết chính xác mình đang ở đâu, hay thậm chí làm thế nào bạn lại ở đây.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>Mọi thứ xung quanh có cảm giác hơi mơ màng. Đồng thời, nó lại có cảm giác quá thật để chỉ là một giấc mơ.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>Bạn dần dần nhớ ra điều gì đó. Ít nhất bạn cũng biết tên của mình.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>Tên của bạn là:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>Bạn vừa nhận thấy ai đó ở phía xa, nhưng bạn chỉ thoáng thấy bóng của người đó. Tốt hơn hết bạn nên đi kiểm tra.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>Bạn từ từ mở mắt...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>Bạn tỉnh dậy trong một bệnh viện.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"Cậu ấy tỉnh rồi!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Chuyện gì đã xảy ra?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Cậu đã đi leo núi với bạn bè và bị chấn thương đầu nghiêm trọng."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"Đội cứu hộ đã tìm thấy cậu vừa kịp lúc. Cậu cần nghỉ ngơi và phục hồi sức khỏe."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Maya đâu?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Maya là ai?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Cô ấy đã tìm thấy tôi trước. Cô ấy có ổn không?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Cậu có thể đang cảm thấy hơi bối rối, nhưng cậu sẽ sớm hồi phục thôi."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>Bạn bối rối, nhưng lại có cảm giác thành tựu kỳ lạ này. Gần như thể bạn đã thay đổi theo một cách nào đó.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>Bạn nhắm mắt lại và hít một hơi thật sâu, tưởng tượng hơi ấm của mặt trời trên khuôn mặt mình. Không khí trong lành tràn ngập lá phổi và bạn không thể không mỉm cười.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>Cảm ơn bạn đã chơi bản demo!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>Tạo bởi</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>Nghệ thuật nền màn hình chính bởi</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>Âm nhạc bởi</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>Logo bởi</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>Mô hình nhân vật bởi</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>Hiệu ứng âm thanh được cung cấp bởi</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>Cảm ơn bạn đã chơi!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>Khu rừng... đúng rồi! Bạn bắt đầu nhớ lại những gì đã xảy ra trước khi đến đây. Một ngày hè ấm áp, chim hót, và những ngọn núi xinh đẹp ở phía chân trời - bạn đã đi leo núi với bạn bè. Nhưng rồi, có thứ gì đó đã thu hút sự chú ý của bạn. Bạn nhớ đã tách khỏi nhóm. Nhưng tại sao?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>Cái hang! Bạn đã rời nhóm sau khi nghe ai đó kêu cứu. Tin rằng đó là một người đi bộ đường dài khác gặp nạn, bạn đã lần theo giọng nói đến một cái hang. Bên trong, bạn trượt chân và ngã, gãy chân. Bạn đã gọi, nhưng không ai trả lời. Một mình và bị thương, hy vọng của bạn bắt đầu lụi tàn...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>Bạn đã ngồi một mình trong hang động đó hàng giờ. Khi đêm xuống và mưa bắt đầu trút xuống, bạn gần như đã mất hết hy vọng. Sau một khoảng thời gian tưởng như vô tận, bạn thấy một ánh sáng ở cửa hang. Đó là... Maya! Bạn đã rất nhẹ nhõm!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>Bạn đã vô cùng vui mừng khi gặp Maya. Cô ấy đã đưa tay ra để kéo bạn lên, và trong một khoảnh khắc, có vẻ như bạn sẽ làm được. Nhưng cơn mưa không ngớt đã khiến cô ấy trượt chân và cả hai bạn cùng ngã xuống, va vào những tảng đá một cách đau đớn. Sau đó, mọi thứ chìm vào im lặng.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>Trang bị</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>Chế tạo</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>Giám định</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>Tên</Name> <!-- <En>Name</En> -->
+  <Level>Cấp</Level> <!-- <En>Level</En> -->
+  <Experience>Kinh nghiệm</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>KN</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>Tấn công</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>Xem tất cả các vật phẩm bạn đang trang bị.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>Xem tất cả các công thức bạn có thể sử dụng để chế tạo vật phẩm mới. Nó có thể hữu ích nếu bạn cần giải một lời nguyền hoặc chữa lành một chi bị mất.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>Xem tất cả các vật phẩm chưa được giám định trong hành trang của bạn.\n\nMọi vật phẩm sẽ dần được giám định theo thời gian (trừ khi bạn đang đói). Vật phẩm ở đầu danh sách sẽ được giám định trước tiên.\n\nKéo và thả để sắp xếp lại.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>Bạn không có vật phẩm nào chưa được giám định</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>Đây là hàng chờ giám định của bạn. Kéo và thả để quyết định vật phẩm nào sẽ được giám định tiếp theo khi thời gian trôi qua. Bạn cũng có thể giám định vật phẩm tại chỗ những người lang thang.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>Chế tạo</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>liền kề</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>bạn sẽ mất các vật phẩm hỗ trợ đã mua</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>Chúa tể Ác mộng</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>Hypnorak</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>Phantasmos</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>Điểm kỹ năng có sẵn</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>Kỹ năng đã mở khóa</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>Thành tựu đã mở khóa</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>Nhấn [Cancel] để hủy</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC để hủy</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>Kẻ thù</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>Thành viên đã biết</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>Bạn đang ở đây</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>Nếu bạn chọn đi lối này, bạn sẽ nhận được những thứ sau</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>Đi đâu bây giờ?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>Nhiều kẻ thù hơn</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>Ít kẻ thù hơn</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>Kẻ thù bình thường</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>Nhiều vàng hơn</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>Ít vàng hơn</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>Vàng bình thường</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>Số lượng kẻ thù</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>Vàng nhặt được</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>Pha lê</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>Pha lê {0}</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>Hồi {0} máu</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>Nước đi này sẽ khiến bạn rơi xuống hố. Bạn có thật sự muốn làm vậy không?\n\nBạn sẽ rơi xuống một vị trí ngẫu nhiên ở tầng dưới và mất một ít máu. Bạn không thể quay trở lại.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>Nước đi này sẽ kết thúc lượt chơi của bạn. Bạn có thật sự muốn làm vậy không?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>Nhấn [Rewind] để tua lại</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Hãy nhớ kiểm tra xung quanh bằng [Inspect].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>Chạy thoát!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>Phần thưởng</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>Nơi này là đâu? Mình phải tìm đường ra...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>Mỗi lần đến đây, hầm ngục này lại thay đổi. Nhưng tại sao?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>Mỗi bước đi đều quen thuộc đến kỳ lạ, cứ như thể mình đã từng ở đây rồi.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>Có thứ gì đó ở phía trước, mình có thể cảm nhận được.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>Mình vừa thắng một trận chiến hay vừa hiểu ra điều gì đó?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>Mình có cảm giác mọi thứ đều dẫn đến những gì đang chờ ở phía trước.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>Mình cảm thấy... như trút được gánh nặng trong lòng. Lạ thật.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>Sao ngươi lâu thế?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>Cái gì vậy?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>Bạn đã chết</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>Bạn đã thoát</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>Hoàn thành lượt chơi</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>Tìm cần gạt\nđể mở</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>Làm theo hướng dẫn\nđể mở</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>Giúp</Help> <!-- <En>Help</En> -->
+  <HelpMe>Cứu tôi</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>Ở đây</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>Giữ [Inspect] để đọc</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>Nhiệm vụ chính</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>Nhiệm vụ phụ</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>Nhiệm vụ thêm</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>Bạn có thể nhận và hoãn nhiệm vụ tại sảnh chờ.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>Lưu ý rằng một số nhiệm vụ chỉ có thể hoàn thành trong các hầm ngục có đủ số tầng.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>Mở khóa hầm ngục tiếp theo</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>Đến cuối tầng {0} của hầm ngục này để mở khóa hầm ngục kế tiếp.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>Tìm mảnh ghép</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>Tìm mảnh ghép tiếp theo ở tầng {0}. Bạn hiện có {1}/{2} mảnh.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>Giải cứu linh hồn</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>Có 1 linh hồn trong hầm ngục này. Hãy giải thoát cho họ bằng cách đưa họ đến nơi trú ẩn.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>Có {0} linh hồn trong hầm ngục này. Hãy giải thoát cho họ bằng cách đưa họ đến nơi trú ẩn.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>Cảnh báo: Những người đồng hành này sẽ bị bỏ lại</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>Chọn phép thuật của bạn</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>Chọn phép thuật của bạn ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>Phép mới</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>Thanh phím nóng và phép thuật của bạn</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>Mở khóa ở cấp {0}</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>Bạn đã thu thập được bụi sao - một loại tiền tệ quý giá!\n\nBụi sao có thể được dùng ở sảnh chờ để mua vật phẩm hỗ trợ cho các lượt chơi tiếp theo và mở khóa các phòng đặc biệt.\n\nTất cả các vật phẩm được đánh dấu \"Vật phẩm sảnh\" sẽ được mang về sảnh chờ. Tất cả các vật phẩm khác sẽ bị mất khi lượt chơi kết thúc.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>Mảnh ghép, cũng giống như bụi sao, là vật phẩm sảnh vĩnh viễn.\n\nThu thập đủ {0} mảnh qua các lượt chơi khác nhau để mở khóa một căn phòng bí mật trong sảnh chờ.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>Bạn có một người bạn đồng hành.\n\nBất cứ khi nào bạn di chuyển, Roko sẽ tự động thu thập tiền vàng ở các ô liền kề cho bạn.\n\n1 miếng phô mai sẽ khiến Roko đi theo bạn chỉ trong 1 lượt chơi.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>Bây giờ bạn đã có thành viên trong nhóm.\n\nBạn có thể chuyển đổi giữa họ và quản lý túi đồ của họ một cách riêng biệt. Mỗi thành viên trong nhóm sẽ có lượt đi độc lập.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>Máu tối đa +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>Chí mạng +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>Hụt -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% lửa</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>Đá</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>Nhân vật này có thể đá đồ vật.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>Có một Mảnh Ký Ức ở tầng này</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>Hãy tìm nó</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>Tìm kiếm</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>Vật phẩm đã khám phá</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>Sinh vật đã khám phá</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>Bách khoa toàn thư hiển thị các vật phẩm và sinh vật ở trạng thái thông thường, không bị nguyền rủa. Các vật phẩm/sinh vật thực tế có thể khác.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>Thử thách hàng ngày</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>Lớp nhân vật</Class> <!-- <En>Class</En> -->
+  <NoClass>Không lớp nhân vật\n\nHiệu ứng:\n- Danh vọng và vinh quang</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>Mở khóa ở cấp {0}</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>Hiệu ứng</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>Khả năng: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>Máu tối đa</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>Năng lượng tối đa</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>Thể lực tối đa</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>{0} sát thương lên xác sống (bộ xương, xác ướp, v.v.)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} kháng lửa</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} yếu thế trước lửa</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>Tỷ lệ đói {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>Không kích hoạt bẫy áp suất</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>Miễn nhiễm độc</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>Miễn nhiễm đẩy lùi</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>Chó sẽ thù địch</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>Tiếng bước chân {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>Tầng cao nhất bạn đã đạt được với lớp này: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>Tầng cao nhất bạn đã đạt được khi không có lớp: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} nhận {1} sát thương {2}</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} nhận {1} sát thương {2} và chết</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} KN</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0} không nhận sát thương {1}</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} nhận được {1}</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} nhận {1} sát thương {2}</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} nhận {1} sát thương {2} và bị phá hủy</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0} không nhận sát thương {1}</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} nhận được {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{1} của {0} bị phá hủy</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} chặn {1} sát thương {2}</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} làm chệch hướng {1} sát thương {2} lên {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} bị đẩy lùi</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} bị kéo lại</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} nhận một trạng thái mới: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} nhận một hiệu ứng mới: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{1} của {0} được phục hồi</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{1} được phục hồi cho {0}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{1} được phục hồi cho {0}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} đã được giám định</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} hết tác dụng</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} hết tác dụng</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} nhặt {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>Đó là {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>Đây là {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} đã bị {1}! (bạn cần tìm hoặc chế tạo một cuộn giấy giải nguyền)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>{0} của bạn đã bị {1}!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>Lời nguyền đã được gỡ bỏ khỏi {0}</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} dịch chuyển đến một vị trí ngẫu nhiên</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} dịch chuyển</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} đã mở. Bây giờ hãy tìm lối ra.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} đã mở</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>Một cánh cổng đóng lại sau lưng bạn</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} kêu xèo xèo nhưng dường như không có tác dụng gì</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>Bạn đang chết đói</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>Bạn đang đói</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>Bạn đã mua {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>Lên cấp!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>Bạn có thể chọn một phép thuật mới.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>Lên cấp</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>Hiệu ứng khiên đã bị hủy vì bạn đã làm hại {0}</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} thức dậy</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>Tổng cộng {0}</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>Bạn đã hy sinh bản thân</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>Bạn thắng</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>Bạn đã thua</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>Bạn đã hoàn thành thử thách và nhận được {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>Bạn đã giải được câu đố cổ tự và nhận được {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>Bạn được {0} cứu</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0} được {1} cứu</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>Bạn đã thất bại thử thách</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0} đã được nhân đôi</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0} đã bị phá hủy</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>Không còn gì ở đây nữa</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>Bạn đã câu được {0}</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0} sẽ kích hoạt sau {1}</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>Bạn đã nhận được {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>Tượng quỷ nhận {0} của bạn và ban cho bạn {1}</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} nhận được {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} đánh hụt</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>{0} đã xuất hiện gần đây</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} đưa {1} cho {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>Phe {0} đã trở nên thù địch</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>Bạn không có đủ nguyên liệu</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>Vật phẩm này không vừa với ô này</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} đã trộm {1} từ {2}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>Bạn đã thu thập được {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>Bạn đã nhận được một điểm kỹ năng! Mở túi đồ để sử dụng.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>Bạn đã giải thoát cho {0} và nhận được {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>Cấp độ của {0} đã được nâng cấp</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>Bạn không thể tháo trang bị bị nguyền rủa</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} chế tạo {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>Dùng lên bản thân</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>Dùng lên...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>Uống</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>Ném...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>Ăn</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>Ném...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>Đặt bẫy...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>Ném...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>Trồng...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>Dùng lên bản thân</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>Tấn công...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>Thi triển lên bản thân</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>Thi triển lên...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>Làm đầy bằng...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>Chặn cửa...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>Tự trói mình</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>Trói...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>Đặt...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>Nhặt lên...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>Câu cá...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>Đào mỏ...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>Nói chuyện...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>Phù phép</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>Đào...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>Tự đá mình</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>Đá...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} tự tấn công mình bằng {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0} tấn công {2} bằng {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0} sử dụng {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0} sử dụng {1} lên {2}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0} uống {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0} ném {1} vào {2}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0} sử dụng {1} lên chính mình</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0} sử dụng {1} lên {2}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} ném {1} vào {2}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0} mở {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0} đóng {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0} đào {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0} uống nước từ {1}</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0} phù phép trang bị tại {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} đi xuống cầu thang</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} đi lên cầu thang</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0} kéo {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0} nhận phước lành tại {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0} ăn {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0} đặt {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0} bơi trong {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0} bị thiêu trong {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0} giẫm lên {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} dịch chuyển</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0} ném {1} vào {2}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0} trồng {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0} thi triển {1} lên chính mình</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0} thi triển {1} lên {2}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0} đổ đầy nước vào {1}</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0} chặn {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} tự trói mình vào một cái cột</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0} trói {2} vào một cái cột</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0} đặt {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0} nhặt {2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} tự băng bó vết thương</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0} băng bó vết thương cho {2}</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} thực hiện phẫu thuật</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0} thực hiện phẫu thuật cho {2}</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0} tìm kiếm {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0} đánh bạc tại {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0} nhấn {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0} bắt đầu một thử thách tại {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0} nhân đôi vật phẩm tại {1}</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0} câu cá tại {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} tự dập lửa</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0} dập lửa cho {2}</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0} nghiên cứu {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} tìm kiếm {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} ngủ trên {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} đào {2} bằng {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} nói chuyện với {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} phù phép một vật phẩm bằng {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} đào {2} bằng {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} hiến tế một chi tại {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} triệu hồi Bóng Ma tại {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} giải thoát một linh hồn tại {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} dọn dẹp {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} nhận một điểm kỹ năng tại {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} tự đá mình</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} đá {2}</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} nâng cấp trang bị tại {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} hiến tế vật phẩm bị nguyền rủa cho {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>lên</Up> <!-- <En>up</En> -->
+  <Down>xuống</Down> <!-- <En>down</En> -->
+  <North>bắc</North> <!-- <En>north</En> -->
+  <South>nam</South> <!-- <En>south</En> -->
+  <West>tây</West> <!-- <En>west</En> -->
+  <East>đông</East> <!-- <En>east</En> -->
+  <NorthWest>tây-bắc</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>đông-bắc</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>tây-nam</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>đông-nam</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>lên-bắc</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>lên-nam</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>lên-tây</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>lên-đông</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>lên-tây-bắc</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>lên-đông-bắc</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>lên-tây-nam</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>lên-đông-nam</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>xuống-bắc</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>xuống-nam</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>xuống-tây</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>xuống-đông</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>xuống-tây-bắc</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>xuống-đông-bắc</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>xuống-tây-nam</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>xuống-đông-nam</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>Bắt đầu</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>Kết thúc</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>Cần gạt</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>Thang</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>Trùm</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Cơ hội phục kích</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>Nhân vật này đã không thấy bạn ở lượt trước, vì vậy bạn sẽ gây thêm {0} sát thương cho họ nếu tấn công ngay bây giờ.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>Bên trên bạn</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>Nhân vật này hiện đang ở bên trên bạn, nghĩa là họ sẽ gây thêm {0} sát thương nếu họ tấn công bạn từ vị trí này.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>Dưới bạn</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>Nhân vật này đang ở dưới bạn, nghĩa là bạn sẽ gây thêm {0} sát thương nếu tấn công họ từ vị trí này.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>Không nhìn thấy bạn</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>Nhân vật này không nhìn thấy bạn (tầm nhìn của họ không xa bằng bạn). Nhưng hãy cẩn thận - họ có thể vẫn nhớ vị trí cuối cùng của bạn và muốn đến kiểm tra!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>Đang rơi</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>Nhân vật này đang rơi, nghĩa là lượt tiếp theo của họ sẽ phải dùng để rơi xuống thay vì thực hiện một hành động.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>Hiệu ứng chưa xác định</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>Một hiệu ứng không xác định. Nó đến từ một vật phẩm chưa được xác định.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>Bạn đang bị bao vây bởi ít nhất 2 kẻ địch, nghĩa là bạn sẽ gây thêm {0} sát thương cho nhân vật này nếu tấn công họ từ vị trí này.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Hiệu ứng chưa xác định</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>Một hiệu ứng không xác định. Nó đến từ một vật phẩm chưa được xác định.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nĐây là thời gian hiện tại trong game. Một phút tương đương với một lượt.\n\nToàn bộ trò chơi đều theo lượt. Hầu hết các hành động mất một lượt để hoàn thành như đi bộ, uống thuốc, tấn công hoặc tương tác với mọi thứ.\n\nTổng số lượt đã qua: {2}.\nTại tầng này: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>Đây là máu của nhân vật bạn.\n\nMột số vật phẩm có thể tăng máu tối đa của bạn. Mỗi cấp độ cho bạn {0} máu tối đa.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>Nếu không đói hoặc sắp chết đói, {0} máu sẽ được hồi sau mỗi {1}.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>Hồi máu tiếp theo sau: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>Bạn đang mất máu vì nó vượt quá mức tối đa.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>Bạn đang mất mana vì nó vượt quá mức tối đa.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>Bạn đang mất thể lực vì nó vượt quá mức tối đa.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>Vật phẩm này sẽ được xác định sau {0}. Kéo và thả để sắp xếp lại.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>Vật phẩm này là {0}. Tuy nhiên, nhờ vào khả năng nhận thức hoàn hảo của bạn, bạn có thể biết rằng nó là một trong những thứ sau:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>Các vật phẩm như thế này sẽ được xác định vĩnh viễn sau khi được sử dụng.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>Vật phẩm này là {0}. Nó có thể có hiệu ứng không xác định và bị {1} (bạn không thể tháo trang bị bị {1}). Những kẻ lang thang có thể giúp bạn xác định.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>Vật phẩm này bị {0}. Bạn không thể tháo trang bị bị {0} (nếu không có cuộn giải lời nguyền).</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>Chúc mừng!;Bạn làm được mà!;Tôi luôn tin ở bạn!;Sắp tới rồi!;Ước gì tôi cũng tuyệt vời như bạn!;Ấn tượng!;Tiếp tục đi!;Bạn là nhất!;Bạn làm được rồi!;Tuyệt!;Bạn thật tuyệt vời!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>Chào mừng đến tầng 1.\n\nHành trình của bạn bắt đầu tại đây, dù đây có thể không phải là lần đầu tiên bạn đọc tấm biển này.\n\nBan đầu một số thứ có vẻ khó khăn, nhưng không sao cả. Trên hết, chúng ta phải nhớ rằng - thua cũng là một niềm vui!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>Chào mừng đến tầng {0}.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>Tại đây, mọi linh hồn dừng chân để tìm lối đi.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>Bị hạ gục vào {0}.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>Số vàng bạn có trong túi đồ. Có thể có vài người sẵn sàng trao đổi trong hầm ngục này.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>Xuất hiện {0} tiếp theo sau</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>Sẽ không xuất hiện thêm</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>Biến mất sau {0}.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>Lan rộng sau {0}.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>Hành động tiếp theo sau {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>Sẽ kích hoạt sau {0}.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>Nguồn</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>Nguồn: Độ khó</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>Có mặt từ</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>Nhấn [Fly]+[MoveForward] để đi lên và [Fly]+[MoveBack] để đi xuống.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>Giữ [Fly] để đá cửa.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>Nhấn [Rewind] để tua lại thời gian.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>Sử dụng vật phẩm này không tốn lượt.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>Sử dụng vật phẩm này tốn {0} của một lượt.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>Sử dụng vật phẩm này tốn {0} lượt.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>Sử dụng phép này không tốn lượt.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>Sử dụng phép này tốn {0} của một lượt.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>Sử dụng phép này tốn {0} lượt.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>Thực hiện việc này không tốn lượt.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>Thực hiện việc này tốn {0} của một lượt.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>Thực hiện việc này tốn {0} lượt.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>Tương tác với vật thể này không tốn lượt.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>Tương tác với vật thể này tốn {0} của một lượt.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>Tương tác với vật thể này tốn {0} lượt.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>Vật thể này dễ cháy.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>Bạn chỉ có thể dùng nó khi không ai nhìn thấy bạn.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>Vật thể này dễ vỡ (các vụ nổ sẽ phá hủy nó).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>Việc xác định đã dừng lại vì bạn đang đói.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>Nhấp để nhặt.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>Nhấp để tương tác.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>Nhấp để mua.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>Tương tác để nhặt.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>Tương tác với vật thể này.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>Tương tác để mua.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>Vật phẩm này sẽ biến mất sau khi xuống tầng.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>Đây là tiến trình lên cấp tiếp theo của bạn. Bạn có thể nhận kinh nghiệm bằng cách đánh bại kẻ thù.\n\nKN đến cấp tiếp theo: {0}\nCấp hiện tại: {1}\nTổng kinh nghiệm: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>Đây là cấp độ hiện tại của bạn. Bạn có thể lên cấp bằng cách đánh bại kẻ thù.\n\nMỗi cấp độ cho bạn {0} máu tối đa. Ngoài ra, mỗi khi lên cấp bạn có thể chọn một phép thuật mới.\n\nKN đến cấp tiếp theo: {2}\nTổng kinh nghiệm: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>Đây là cấp độ hiện tại của bạn dựa trên tổng điểm từ tất cả các lần chơi. Bạn có thể nhận điểm bằng cách đánh bại kẻ thù và tiến bộ trong trò chơi.\n\nĐiểm đến cấp tiếp theo: {0}\nTổng điểm: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>Đây là mức độ no hiện tại của bạn: {0}/{1}\n\nBạn cần ăn định kỳ để thỏa mãn cơn đói và tránh các hậu quả.\n\nKhi mức độ no đạt {2}, bạn sẽ bị đói - bạn sẽ không hồi máu hoặc xác định vật phẩm.\n\nKhi mức độ no đạt {3}, bạn sẽ sắp chết đói - bạn sẽ không hồi thể lực và sẽ từ từ mất máu theo thời gian.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>Đây là tầng hầm ngục hiện tại. Càng xuống sâu, việc sinh tồn càng trở nên khó khăn hơn, nhưng cũng vui hơn!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>Cho {0} kinh nghiệm</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>Cảnh báo: Nếu bị giết, tất cả thành viên của phe này sẽ trở nên thù địch.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>Chiến thuật: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>Nhân vật này sẽ đi theo bạn xuống tầng tiếp theo.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>Trạng thái</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>Vũ khí</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>Phép thuật</Spells> <!-- <En>Spells</En> -->
+  <Talk>Nói chuyện</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>Khi chết</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>Đang mặc</Worn> <!-- <En>Worn</En> -->
+  <Inventory>Túi đồ</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>Thông tin</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>Tốn {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>Tốn {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>Đây là mana của nhân vật bạn.\n\nDùng phép và các vật phẩm ma thuật sẽ tốn mana. Mana không tự động hồi theo thời gian, nó chỉ có thể được nạp lại bằng cách uống thuốc mana hoặc tương tác với một số vật thể đặc biệt. Thanh mana sẽ bị ẩn khi bạn không có phép thuật nào.\n\nBạn có thể chọn một phép thuật mới mỗi khi lên cấp.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>Đây là thể lực của nhân vật bạn.\n\nSử dụng một số vật phẩm có thể yêu cầu thể lực. Thanh thể lực sẽ bị ẩn khi bạn không có vật phẩm nào yêu cầu thể lực trong túi đồ.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>Nếu không sắp chết đói, {0} thể lực sẽ được hồi sau mỗi {1}.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>Thể lực tiếp theo sẽ hồi sau: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>Chọn một phép thuật mới. Bạn có thể chọn một phép thuật mới mỗi khi lên cấp.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>bỏ chạy khi còn ít máu</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>Chiếc đồng hồ cho phép bạn tua lại thời gian theo ý muốn! Tua lại lượt cuối cùng bằng cách nhấn [Rewind].\n\nHãy sử dụng nó bất cứ khi nào bạn không thích kết quả hành động gần đây của mình hoặc đơn giản là nhấp chuột sai.\n\nĐồng hồ có giới hạn số lượt bạn có thể tua lại cùng một lúc, nhưng nó sẽ sạc lại sau mỗi {0} lượt. Không giống như các vật phẩm thao túng thời gian khác như cuộn giấy tua lại, đồng hồ sẽ mất tất cả các lần sạc còn lại bất cứ khi nào bạn sử dụng một loại thuốc hoặc cuộn giấy chưa xác định, trang bị một vật phẩm bị nguyền rủa, giẫm lên bẫy, hoặc sử dụng chìa khóa bạc.\n\nTất cả các hành động trong Ricave đều có tính xác định, có nghĩa là sau khi tua lại, mọi thứ sẽ diễn ra chính xác như trước nếu bạn thực hiện lại cùng một hành động, bao gồm cả việc gây ra cùng một lượng sát thương và kẻ thù đưa ra cùng một quyết định. Tua lại thời gian chỉ để tung ra sát thương cao hơn sẽ không có tác dụng.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>Hồi lại sau: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>Bụi sao có thể được tìm thấy ở nhiều nơi khác nhau trong hầm ngục hoặc có thể được dùng làm phần thưởng khi hoàn thành nhiệm vụ. Bạn có thể tiêu bụi sao ở sảnh chờ.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>Thu thập đủ {0} mảnh ghép để mở khóa một căn phòng đặc biệt trong sảnh chờ. Có một mảnh ghép ở mỗi tầng của hầm ngục, và bạn chỉ có thể tìm thấy một mảnh mỗi lần chơi.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>Mảnh ghép tiếp theo ở tầng: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>Tầm: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>Cận chiến</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>bạn đang trong tầm</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>bạn ở ngoài tầm</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>Nhặt các vật thể đã đặt trong phòng riêng của bạn.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>Bạn hiện đang quay mặt về hướng {0}.\n\nDi chuyển bằng "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nĐi ngang bằng "[MoveLeft]" và "[MoveRight]".\nĐi lên và xuống bằng "[Fly]+[MoveForward]" và "[Fly]+[MoveBack]" nếu nhân vật của bạn có thể bay.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>Sẽ nhận sát thương sau {0}.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>Sẽ nhận HP sau {0}.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>Sẽ nhận thể lực sau {0}.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>Sẽ nhận mana sau {0}.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>Hồi thể lực bị vô hiệu hóa vì nhân vật này không chạm đất.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>Hồi thể lực bị vô hiệu hóa vì bạn không chạm đất.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>Hồi chiêu: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>{0} còn lại</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>Mở khóa {0} trước</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>Bạn không có điểm kỹ năng nào</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>Nhấp để mở khóa</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>Tương tác để mở khóa</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>Hiệu ứng</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>Tất cả các cổng đã mở và mọi người đều đã thức giấc. Bạn phải trốn thoát ngay bây giờ!\n\nNgoài ra, số lượng chuột xuất hiện sẽ tăng gấp đôi.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>Roko sẽ thu thập vàng ở các ô liền kề cho bạn mỗi khi bạn di chuyển.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>Mẹo: Bạn có thể xem codex để biết các chỉ số thông thường</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>Sắp xếp vật phẩm trong túi đồ</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>Tháo trang bị</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>Trang bị</Equip> <!-- <En>Equip</En> -->
+  <Unwear>Cởi ra</Unwear> <!-- <En>Take off</En> -->
+  <Wear>Mặc vào</Wear> <!-- <En>Wear</En> -->
+  <Drop>Vứt</Drop> <!-- <En>Drop</En> -->
+  <Destroy>Phá hủy</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>Pha với {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>Nhìn vào</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>Di chuyển đến</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>Dùng {0} lên</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>Tương tác với</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>Vô hiệu hóa</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>Đưa {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>Chết</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>Không có chỗ</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>Vật phẩm đang trang bị bị nguyền rủa</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>sang chảnh, hùng mạnh, toàn năng, mạnh mẽ, đáng sợ, thú vị, ấn tượng, mãnh liệt, quyến rũ, xinh đẹp, đáng yêu, ly kỳ, dễ thương, thông minh, hấp dẫn, vụng về, bất khả chiến bại, nhỏ, lớn, kinh hoàng, vui vẻ, buồn bã, lung lay, kỳ quặc, điên rồ, hứng khởi, xinh xắn, lôi cuốn</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>vo ve, lẩm bẩm, bin ni, chanh choe, lộn xộn, lỉnh kỉnh, ngớ ngẩn, hé nụ, băm bổ, kẹo mút, bập bùng, heo con, ầm ầm, lững thững, lạch bạch, lấp lánh, gà con, tím biếc, ngoe nguẩy, luyên thuyên, xoay tít, leng keng, tũm, loạng choạng, leng keng, nguệch ngoạc</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>côn, giá, sân, sơn, bo, dấu, tấn, bon, gôn, móng, cốc, bin, càng, đốm, phụt, cười, bạch, đory, khịt, phịch, tõm, oăc, toét, cắn, sủa</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>Linh hồn của {0}</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>Tiếng cười, Sự thay đổi, Hy vọng, Sự cô độc, Sự hòa hợp, Sự quyết tâm, Niềm vui, Nỗi sợ, Cơn giận, Nỗi buồn, Tình yêu, Sự ngạc nhiên, Sự ghê tởm, Sự tò mò, Hy vọng, Sự tuyệt vọng, Niềm tin, Sự hoài nghi, Lòng can đảm, Tội lỗi, Sự xấu hổ, Lòng biết ơn, Sự ghen tị, Sự nhẹ nhõm, Sự nhàm chán, Sự bình tĩnh, Nỗi nhớ, Sự kiên cường, Sự đồng cảm, Sự mong đợi, Sự hối tiếc, Sự kinh ngạc, Sự khiêm tốn, Sự thất vọng, Sự khinh miệt</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>Không</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Enter</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Phím Cách</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>Nút Chuột Trái</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>Nút Chuột Phải</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>Nút Chuột Giữa</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Phím Windows</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>Cò Trái</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>Cò Phải</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>Nút Vai Trái</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>Nút Vai Phải</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>Nút Quay Lại</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>Nút Bắt Đầu</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>Nhấn Cần Trái</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>Nhấn Cần Phải</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Hạ gục</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>Hạ gục đôi</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>Hạ gục ba</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>Chuỗi {0} hạ gục</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>Tầng mới</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>Thử thách hoàn thành</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>{0} hạ gục</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>buổi sáng</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>ban ngày</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>buổi tối</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>ban đêm</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>PHÒNG THỦ</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>CHIẾN BINH</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>NHÀ THÁM HIỂM</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>đỏ</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>xanh lá</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>xanh dương</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>Leo</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>Eve</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Tiện ích</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>Thuốc</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>Cuộn giấy</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>Vũ khí và trang bị</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

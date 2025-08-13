@@ -1,14 +1,14 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <FindRelic.label>Trouver la relique</FindRelic.label> <!-- <En>Find Relic</En> -->
   <FindRelic.description>Trouvez l'ancienne relique à l'étage 4.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
   <FindRelic.ThereAppearsToBeAnAgeold>Il semblerait qu'une relique ancestrale nimbée de mystère se trouve quelque part au 4ème étage. Allez la trouver.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
-  <FindRelic.dungeonModifiers>Relique à l'étage 4</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+  <FindRelic.dungeonModifiers><li>Relique à l'étage 4</li></FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
 
   <KillHypnorak.label>Tuer Hypnorak</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
   <KillHypnorak.description>Tuez Hypnorak - le mini-boss dragon à l'étage 3.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
   <KillHypnorak.YourNextChallengeAwaits>Votre prochain défi vous attend au 3ème étage, où réside Hypnorak. Armez-vous de courage et terrassez-le.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
-  <KillHypnorak.dungeonModifiers>Hypnorak à l'étage 3</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+  <KillHypnorak.dungeonModifiers><li>Hypnorak à l'étage 3</li></KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
 
   <KillMimics.label>Chasseur de mimes</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
   <KillMimics.description>Tuez 10 mimes.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
@@ -18,12 +18,12 @@
   <KillNightmareLord.label>Tuer le Seigneur du Cauchemar</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
   <KillNightmareLord.description>Tuez le Seigneur du Cauchemar - le mini-boss squelette à l'étage 1.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
   <KillNightmareLord.YourMissionIsToConfront>Votre mission est de vous confronter au sinistre Seigneur du Cauchemar - une monstruosité squelettique. Heureusement, vous n'aurez pas à chercher bien loin, car son antre se trouve au tout premier étage.\n\Veuillez noter que vous ne pouvez terminer cette quête que dans les donjons disposant de mini-boss.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
-  <KillNightmareLord.dungeonModifiers>Seigneur du Cauchemar à l'étage 1</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+  <KillNightmareLord.dungeonModifiers><li>Seigneur des Cauchemars à l'étage 1</li></KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
 
   <KillPhantasmos.label>Tuer Phantasmos</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
   <KillPhantasmos.description>Tuez Phantasmos - le mini-boss momie à l'étage 4.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
   <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>Au 4ème étage vous attend Phantasmos, une momie enveloppée de mystères ancestraux. Votre but est de le vaincre.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
-  <KillPhantasmos.dungeonModifiers>Phantasmos à l'étage 4</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+  <KillPhantasmos.dungeonModifiers><li>Phantasmos à l'étage 4</li></KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
 
   <KillSkeletons.label>Échauffement</KillSkeletons.label> <!-- <En>Warmup</En> -->
   <KillSkeletons.description>Tuez 10 squelettes.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
@@ -38,16 +38,16 @@
   <MoonlightMedallions.label>Médaillons lunaires</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
   <MoonlightMedallions.description>Collectez 4 médaillons lunaires à l'étage 2.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
   <MoonlightMedallions.ThereAre4MoonlightMedallions>Il y a 4 médaillons lunaires disséminés au deuxième étage de ce donjon. Collectez-les tous pour révéler leur signification.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
-  <MoonlightMedallions.dungeonModifiers>4 médaillons lunaires à l'étage 2</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+  <MoonlightMedallions.dungeonModifiers><li>4 Médaillons lunaires à l'étage 2</li></MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
 
   <PhantomSwarm.label>Essaim de fantômes</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
   <PhantomSwarm.description>Apaisez le tumulte fantomatique à l'étage 3.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
   <PhantomSwarm.PhantomsHaveOverrunThe>Des fantômes ont envahi le troisième étage. Mettez-y fin en en tuant au moins 3.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
-  <PhantomSwarm.dungeonModifiers>3 fantômes supplémentaires à l'étage 3</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+  <PhantomSwarm.dungeonModifiers><li>3 fantômes supplémentaires à l'étage 3</li></PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
 
   <RatInfestation.label>Infestation de rats</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
   <RatInfestation.description>Gérez l'infestation de rats à l'étage 2.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
   <RatInfestation.RatsEverywhereYouHave>Des rats partout ! Vous devez résoudre ce problème embêtant et gérer l'infestation de rats au deuxième étage. Pour terminer cette quête, vous devrez y tuer au moins 5 rats. Attention : Accepter cette quête signifie que plus de rats apparaîtront au deuxième étage.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
-  <RatInfestation.dungeonModifiers>5 rats supplémentaires à l'étage 2</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+  <RatInfestation.dungeonModifiers><li>5 rats supplémentaires à l'étage 2</li></RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
 
 </SpecTranslations>

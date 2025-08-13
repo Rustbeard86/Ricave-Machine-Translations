@@ -1,4 +1,4 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <Introduction.label>Новый дом</Introduction.label> <!-- <En>New home</En> -->
   <Introduction.description>Войдите в подземелье и убейте 3 скелетов.</Introduction.description> <!-- <En>Enter the dungeon and kill 3 skeletons.</En> -->
@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>Потеря памяти</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>Найдите первый фрагмент воспоминания на 3-м этаже.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>Вы потеряли память, но есть кое-что, что поможет вам вспомнить, что случилось до того, как вы сюда попали.\n\nНайдите первый фрагмент воспоминания на третьем этаже.\n\nПоначалу всё это может показаться сложным, но с каждым шагом вы будете всё ближе к разгадке своих забытых воспоминаний.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>Фрагмент воспоминания на 3-м этаже</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>Фрагмент воспоминания на 3-м этаже</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>Потеря памяти: Разделение</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>Найдите второй фрагмент воспоминания на 4-м этаже.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>Вы делаете успехи. Вы понемногу начинаете вспоминать, что произошло: вы отправились в поход с друзьями. К вашему удивлению, Майя тоже здесь.\n\nНайдя второй фрагмент воспоминания, вы сможете вспомнить, что случилось дальше. Он должен быть у мини-босса на 4-м этаже.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>Фрагмент воспоминания на 4-м этаже</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>Фрагмент воспоминания на 4-м этаже</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>Потеря памяти: Пещера</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>Найдите третий фрагмент воспоминания на 6-м этаже.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>Вы начинаете вспоминать, что произошло. Отделившись от группы, вы наткнулись на пещеру. К несчастью, вы поскользнулись и сломали ногу. Но что случилось потом?\n\nНайдите третий фрагмент воспоминания. Он должен находиться где-то на 6-м этаже. Не забудьте взять с собой верёвку.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>Фрагмент воспоминания на 6-м этаже</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>Фрагмент воспоминания на 6-м этаже</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>Потеря памяти: Спасение</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>Найдите последний фрагмент воспоминания на 8-м этаже.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>Вы почти у цели. Удивительно, но именно Майя нашла вас в той пещере. Однако вы всё ещё не понимаете, почему вы здесь. Вам нужно больше ответов.\n\nНайдите последний фрагмент воспоминания. Он должен находиться где-то на 8-м этаже в ядовитой ловушке.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>Фрагмент воспоминания на 8-м этаже</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>Фрагмент воспоминания на 8-м этаже</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>Спасение</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>Спасите друга Тени на 2-м этаже.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>Чтобы получить больше информации от Тени, вы должны сначала спасти его друга. Он заперт в клетке где-то на втором этаже этого подземелья.\n\nОбратите внимание, что вы можете выполнять задания в любом подземелье, если в нём достаточно этажей. Чем дальше вы продвигаетесь, тем больше этажей будет в подземельях.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>Персонаж для спасения на 2-м этаже</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>Открыть новую комнату в лобби</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>Персонаж для спасения на 2-м этаже</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>Открыть новую комнату в лобби</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>Yerdon amulettje</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>Kezdj Yerdon amulettjével. Viselője egyszer teljesen meggyógyul abban a pillanatban, amikor normál esetben meghalna. Ezenkívül minden közeli ellenség is meghal. Ez egy egyszer használatos bónusz, és csak a következő nekifutásodra érvényes.</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>gyógyital</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>Kezdj egy extra gyógyitallal a felszerelésedben. Ez egy egyszer használatos bónusz, és csak a következő nekifutásodra érvényes.</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>tekercs</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>Kezdj egy véletlenszerű tekerccsel a felszerelésedben. Ez egy egyszer használatos bónusz, és csak a következő nekifutásodra érvényes.</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>pajzs</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>Kezdj egy pajzzsal a felszerelésedben. Lehetővé teszi az ellenséges támadások blokkolását.</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>Feloldottál egy pajzsot a következő nekifutásaidhoz! Használhatod az ellenséges támadások blokkolására.\n\nEz különösen hasznos a távolsági ellenségekkel szemben, mivel így biztonságosan megközelítheted őket anélkül, hogy eltalálnának.\n\nNem tudod egyszerre blokkolni egy ellenség támadását és támadni őt - a hatás ekkor megszűnik.\n\nA pajzs használata fárasztó, ezért állóképességet fogyaszt.</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>lándzsa</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>Kezdj egy extra lándzsával a felszerelésedben. Dobd ellenségekre, vagy használd csapdák aktiválására.</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>Feloldottál egy lándzsát a következő nekifutásaidhoz! Használhatod ellenségek támadására vagy csapdák távolról történő aktiválására.\n\nVárj, amíg egy ellenség tüskék alá vagy egy falra szerelt ágyú mellé sétál, és dobd a lándzsát a csapdára, hogy aktiváld.\n\nA lándzsa dobása fárasztó, ezért állóképességet fogyaszt. Az állóképesség automatikusan regenerálódik, hacsak nem éhezel.</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>kard</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>Kezdj egy karddal a felszerelésedben. Ez egy egyszer használatos bónusz, és csak a következő nekifutásodra érvényes.</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>óra</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>Kezdj egy órával a felszerelésedben. Lehetővé teszi az idő visszatekerését.</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>Feloldottad a bűvös órát a következő nekifutásaidhoz! Lehetővé teszi, hogy tetszés szerint visszatekerd az időt.\n\nTekerd vissza az utolsó kört a(z) [Rewind] megnyomásával.\n\nAz órának van egy határa, hogy egyszerre hány kört tekerhetsz vissza, de minden mozgásnál újratöltődik.</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>arany x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>Találj 25%-kal több aranyat a kazamatában, mint amennyit normál esetben találnál. Ez egy egyszer használatos bónusz, és csak a következő nekifutásodra érvényes.</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>folyosó</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>Szerezz hozzáférést a lobbyban lévő folyosóhoz.</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>100. szintű szobor</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>Kapj egy szobrot a 100. szint elérésének emlékére. Elhelyezheted a privát szobádban a lobbyban.</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>Gratulálunk a 100. szint eléréséhez!\n\nKaptál egy különleges szobrot, amelyet elhelyezhetsz a privát szobádban, hogy megemlékezz erről a nagyszerű teljesítményről.</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>25. szintű szobor</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>Kapj egy szobrot a 25. szint elérésének emlékére. Elhelyezheted a privát szobádban a lobbyban.</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>Gratulálunk a 25. szint eléréséhez!\n\nKaptál egy különleges szobrot, amelyet elhelyezhetsz a privát szobádban, hogy megemlékezz erről a nagyszerű teljesítményről.</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>50. szintű szobor</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>Kapj egy szobrot az 50. szint elérésének emlékére. Elhelyezheted a privát szobádban a lobbyban.</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>Gratulálunk az 50. szint eléréséhez!\n\nKaptál egy különleges szobrot, amelyet elhelyezhetsz a privát szobádban, hogy megemlékezz erről a nagyszerű teljesítményről.</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>privát szoba kulcsa</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>Szerezz hozzáférést a saját privát szobádhoz, amelyet aztán dekorálhatsz.</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>Feloldottad a saját privát szobádat!\n\nDekorálhatod a(z) [ShowInventory] gomb megnyomásával, amikor bent vagy.\n\nNéhány ritkább trófeát és dekorációt nehéz lehet megszerezni - például el lehetnek rejtve valahol mélyen a kazamatában.</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>pontszám x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>Szerezz 100%-kal több pontot a kazamatában, mint amennyit normál esetben kapnál. Ez egy egyszer használatos bónusz, és csak a következő nekifutásodra érvényes.</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>csillagpor x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>Találj 50%-kal több csillagport a kazamatában, mint amennyit normál esetben találnál. Ez egy egyszer használatos bónusz, és csak a következő nekifutásodra érvényes.</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>edzőterem</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>Szerezz hozzáférést a lobbyban lévő edzőteremhez.</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>szemétkupac</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>Takaríts fel egy szemétkupacot, hogy több helyed legyen.</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>szemétkupac</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>Takaríts fel egy szemétkupacot, hogy több helyed legyen.</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>szemétkupac</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>Takaríts fel egy szemétkupacot, hogy több helyed legyen.</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

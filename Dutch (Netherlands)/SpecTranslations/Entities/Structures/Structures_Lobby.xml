@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>puzzelbanier</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>Een kleurrijke banier.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>trofee</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Elke baastrofee genereert sterrenstof gelijk aan de verdieping waarop de baas is verslagen. De sterrenstof wordt aangevuld telkens als je ten minste de tweede verdieping van de kerker bereikt.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>kledingkast</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Verander hier je uiterlijk.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>dagelijkse uitdagingenbord</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Neem deel aan dagelijkse uitdagingen. Iedereen over de hele wereld krijgt elke dag dezelfde uitdaging!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>display</Display.label> <!-- <En>display</En> -->
+  <Display.description>Een plek voor een voorwerp.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>portaal</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Is dit het einde?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>einddialoog-trigger</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>gangbord</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>Er is een gang achter deze deur.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>deur</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Deze deur lijkt op slot te zijn.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>deur</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Deze deur lijkt op slot te zijn.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Wil je de gang ontgrendelen voor 60 sterrenstof?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Ontgrendelen</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>deur</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Deze deur lijkt op slot te zijn.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Wil je de trainingsruimte ontgrendelen voor 20 sterrenstof?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Ontgrendelen</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Herinneringsdeur</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>Een deur die alleen kan worden ontgrendeld door alle 4 de Herinneringsstukken te verzamelen.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>puzzeldeur</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>Een deur die kan worden ontgrendeld door alle 10 puzzelstukjes te verzamelen. Er is één puzzelstukje op elke kerkerverdieping en je kunt maar één stukje per poging vinden. Dit betekent dat de laatste zich op de 10e verdieping bevindt.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>magische spiegel</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Verander hier je eigenschappen.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Herinneringsdeur</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>Een deur die alleen kan worden ontgrendeld door alle 4 de Herinneringsstukken te verzamelen.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Herinneringsstuk</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>Een onbekend Herinneringsstuk.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Herinneringsstuk</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>Een onbekend Herinneringsstuk.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Herinneringsstuk</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>Een onbekend Herinneringsstuk.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Herinneringsstuk</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>Een onbekend Herinneringsstuk.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>trap</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>Een trap die naar de kerker leidt.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>trap</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>Een trap die naar de kerker leidt en waarmee je een specifieke wereld-seed kunt gebruiken. Alle lobbyvoortgang en missies zijn uitgeschakeld in deze kerker.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>privékamerbord</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>Jouw privékamer. Tenminste, zodra je hem gekocht hebt.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>puzzeldeur</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>Een deur die is ontgrendeld door alle puzzelstukjes te verzamelen.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>puzzelkamerbord</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Een mysterieuze kamer.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>missiebord</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Bekijk alle beschikbare en voltooide missies.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>winkelbord</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Hier is een winkel. Je kunt sterrenstof uitgeven om boosts te kopen voor je volgende pogingen.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>lucht</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>Een mooi uitzicht.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>lucht</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>Een mooi uitzicht.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>trap</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>Een trap die naar de kerker leidt.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>statistiekenbord</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Bekijk al je statistieken.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>trainingsruimtebord</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Hier is een trainingsruimte. Je kunt trainen tegen verschillende soorten vijanden.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>trap</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>Een trap die naar de trainingsruimte leidt. Train tegen vijanden en bazen.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>afvalstapel</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>Een stapel afval blokkeert deze cel. Gebruik sterrenstof om het permanent te verwijderen.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>Wil je deze afvalstapel opruimen voor 40 sterrenstof?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Opruimen</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>wandlamp</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>Een stijlvolle wandlamp.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>antik kap</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Bu kap yalnızca 3 antik mekanizmayla açılabilir. Hepsi bu katta bir yerlerde olmalı.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Önünde antik bir kap görüyorsun.\n\nBu kap yalnızca 3 antik mekanizmayla açılabilir.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Aç</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>antik cihaz</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>Araştırabileceğin türden antik bir cihaz. Üçünü de araştırırsan, kilidini açıp bir ödül alabilirsin.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>panzehirli leğen</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>Zehir için panzehirle dolu küçük bir leğen. Bir miktar mana karşılığında zehirlenmiş durumunu burada kaldırabilirsin.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Önünde bir panzehir leğeni görüyorsun.\n\nBir miktar mana karşılığında zehirlenmiş durumunu burada kaldırabilirsin.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>İç</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>örs</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Burada ekipman seviyeni yükseltebilirsin.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Önünde bir örs görüyorsun.\n\nDemir karşılığında ekipman seviyeni burada yükseltebilirsin.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>yatak</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>Rahat bir yatak. Burada biraz can yenileyebilirsin ama bir düşmanın seni fark etme ihtimali %50'dir.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Önünde bir yatak görüyorsun.\n\nBurada biraz can yenileyebilirsin ama bir düşmanın seni fark etme ihtimali %50'dir.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Uyu</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>büyük mıknatıs</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>Her ikinci turda, etrafındaki herkesi kendine doğru çeker.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>kitaplık</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>Sana bir yetenek puanı kazandıracak kitapların olduğu bir raf.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>kafes</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>İçinde bir şey veya biri olan metal bir kafes. Sadece bu zindan katında hayatta boss yoksa açabilirsin.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Önünde büyük, metal, paslı bir kafes görüyorsun.\n\nAçmak ister misin?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Aç</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>top</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>Ateş hattında duran herkese zarar verecek ölümcül bir tuzak. Saldırarak tetikle.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>kazan</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Herhangi bir iksiri rastgele bir parşömenle takas et.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Önünde bir kazan görüyorsun.\n\nBurada herhangi bir iksiri rastgele bir parşömenle takas edebilirsin.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>tavan kazıkları</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>Altında duran herkese zarar verecek ölümcül bir tuzak. Saldırarak tetikle.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>sandık</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>Bu sandık, hayatında isteyebileceğin her şeyi içeriyor. Ya da çürüyen bir bez parçası ve birkaç kaya.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>şeytan heykeli</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>Uğursuz bir heykel. Ödüller karşılığında lanetli eşyaları kabul eder.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>Şeytan heykeli sana bakıyor.\n\nEğer lanetli bir eşyan varsa, ödül karşılığında heykele verebilirsin.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>ejderha kalıntıları</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>Bir yığın ejderha kemiği. Burada gizli bir şeyler olabilir.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Önünde ejderha kalıntıları görüyorsun.\n\nİstersen, burada gizli bir hazine arayabilirsin.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Ara</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>çoğaltıcı</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>Herhangi bir eşyayı kopyalayabilen... veya kırabilen bir cihaz.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Önünde bir çoğaltıcı görüyorsun.\n\n30 altın karşılığında bir eşyayı kopyalamayı deneyebilirsin.\n\nAncak, bunun yerine eşyanın yok olma ihtimali %40'tır.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>elektronik kasa</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Bu kasa sadece başka bir yerdeki bir düğmeye basılarak açılabilir.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>düğme</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Bu düğme bir yerlerdeki elektronik bir kasayı açar.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>büyü masası</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Küçük bir bağış karşılığında ekipmanını büyüle.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Önünde bir büyü masası görüyorsun.\n\nMasanın altında bir jeton yuvası ve devam etmek için 170 altınlık küçük bir bağış gerektiğini söyleyen bir tabela var.\n\nSeçtiğin silaha veya zırha rastgele bir büyü uygulanacak.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>çeşme</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Hafif ama uzun süreli bir etki (olumlu ya da olumsuz) elde etmek için bu çeşmeden iç.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Önünde bir çeşme görüyorsun.\n\nBundan içmek hafif ama uzun süreli sihirli bir etkiye sahip olacak.\n\nİyi şans için biraz altın atabilirsin.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>İç</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Hayat Çeşmesi</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Bu çeşmeden içmek seni tamamen iyileştirir, tüm mana, dayanıklılık ve tokluk durumunu yeniler ve zehre karşı kısa süreli bir bağışıklık sağlar.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Önünde bir Hayat Çeşmesi görüyorsun.\n\nBu çeşmeden içmek seni tamamen iyileştirir, tüm mana, dayanıklılık ve tokluk durumunu yeniler ve zehre karşı kısa süreli bir bağışıklık sağlar.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>İç</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>kumar masası</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Şanslı hissediyorsan biraz para yatır.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Önünde bir kumar masası görüyorsun.\n\nŞanslı hissediyorsan biraz para yatırabilir ve iki katını kazanma ya da kaybetme konusunda %50 şansa sahip olabilirsin.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>yaldızlı kilitli kutu</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>Bu kilitli kutunun bir jeton yuvası var. 50 altın atarak açabilirsin.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Önünde yaldızlı bir kilitli kutu görüyorsun.\n\n50 altın atarak açabilirsin.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Aç</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>mezar</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Gizli bir hazine aramak için kaz.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Önünde bir mezar görüyorsun.\n\nBurada kesinlikle gömülü bir şey var.\n\nMezarı kazabilir veya rahat bırakabilirsin. Burada ne bulacağını kim bilebilir.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Kaz</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>yeşil sandık</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Bu sandık yalnızca 3 yeşil anahtar parçasıyla açılabilir. Genellikle düşmanlar onları taşır.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Önünde yeşil bir sandık görüyorsun.\n\nBu sandık yalnızca 3 yeşil anahtar parçasıyla açılabilir.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Aç</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>asılı kafes</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>İçinde bir şey veya biri olan metal bir kafes. Sadece bu zindan katında hayatta boss yoksa açabilirsin.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Önünde büyük, metal, paslı bir kafes görüyorsun.\n\nAçmak ister misin?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Aç</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>şifa kristali</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Tüm can puanlarını iyileştirir.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>şifa bitkisi</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>Sıra dışı iyileştirme özelliklerine sahip bir bitki. Can iksiri yapmak için kullanabilirsin.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>kaldıraç</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Tüm kapıları açar ve kattaki herkesi uyarır. Sadece kaçmaya hazır olduğunda çek!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Kaldıracı çekmek istiyor musun?\n\nTüm kapıları açacak, ama tüm düşmanlar uyanacak.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Çek</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>uzuv sunma sunağı</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Rastgele bir ödül karşılığında uzvunu burada feda edebilirsin.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Önünde bir uzuv sunma sunağı görüyorsun.\n\nBurada rastgele bir ödül karşılığında uzvunu feda edebilirsin.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Uzuv sun</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>mana kristali</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Tüm mananı yeniler, böylece büyülerini tekrar kullanabilirsin.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>mana bitkisi</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>Sıra dışı sihirli özelliklere sahip bir bitki. Mana iksiri yapmak için kullanabilirsin.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>metal sandık</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>Metal bir sandık. İşe yarar bir şeyler içerebilir.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>Hayalet'in sunağı</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Ölümcül bir Hayalet çağır. Kısıtlı görüş karşılığında verilen fiziksel hasara bonus kazan.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>Önünde bir Hayalet'in sunağı görüyorsun.\n\nBurada, karşılığında verilen fiziksel hasara +%25 kazanacağın ölümcül bir Hayalet çağırabilirsin.\n\nAyrıca, 25 tur boyunca görüş menzilin 1'e ayarlanacak.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Çağır</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>portal</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>Seni haritadaki rastgele bir konuma ışınlar. Ancak tekrar kullanıldığında, seni her zaman aynı konuma getirir.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>yakınlık bombası</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Bu bombanın bir yakınlık tetikleyicisi var ve yaklaşıldığında birkaç tur sonra patlayacak.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>yakınlık ateş bombası</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Bu ateş bombasının bir yakınlık tetikleyicisi var ve yaklaşıldığında birkaç tur sonra patlayacak.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>yakınlık duman bombası</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Bu duman bombasının bir yakınlık tetikleyicisi var ve yaklaşıldığında birkaç tur sonra patlayacak.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>sıçan yuvası</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Sıçanlarla dolu bir yuva. Rahatsız edilmedikçe sıçanlar dışarı çıkmaz. Gizli bir hazine için arayabilirsin.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Önünde bir sıçan yuvası görüyorsun.\n\nİstersen, burada gizli bir hazine arayabilirsin.\n\nAncak bunu yaparsan, bu yuvadan sıçanlar çıkmaya başlayacak.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Ara</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>haydut tapınağı</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Küçük bir bağış karşılığında bir süreliğine daha fazla dayanıklılık, daha iyi görüş menzili ve ateş hasarı direnci kazan.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Önünde bir haydut tapınağı görüyorsun.\n\nKüçük bir bağış karşılığında daha fazla dayanıklılık, daha iyi görüş menzili ve ateş hasarı direnci kazan.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Devam et</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>bitiş portalı</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>Parlak bir portal. Bu son.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>kurban sunağı</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Bir ödül almak için bu sunakta iki değerli rakibi kurban et.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>kasa</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>Değerli bir şey içerebilir, ama onu yok etmek zor olabilir. Belki biraz patlayıcıyla?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>dükkan</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Taze sıkılmış portakal su... yani güç iksirinden daha iyisi yoktur.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>tapınak</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Bedavaya bir kutsama al!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Önünde bir tapınak görüyorsun.\n\nBurada bir kutsama alabilirsin.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Devam et</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>gümüş sandık</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Değerli bir şey içeriyor gibi görünüyor. Açmak için gümüş bir anahtara ihtiyacın var.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Önünde gümüş bir sandık görüyorsun.\n\nSadece gümüş bir anahtarla açılabilir.\n\nUnutma ki mevcut anahtarlardan daha fazla kilitli sandık olabilir, bu yüzden anahtarlarını akıllıca harca.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Aç</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>iskelet kalıntıları</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>Bir kemik yığını. Burada gizli bir şeyler olabilir.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Önünde iskelet kalıntıları görüyorsun.\n\nİstersen, burada gizli bir hazine arayabilirsin.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Ara</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>küçük şifa kristali</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>Maksimum can puanının %50'sini iyileştirir.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>küçük mana kristali</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>Maksimum mananın %50'sini yeniler.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>merdiven</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>Bu zindanın alt katına inen bir merdiven.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Merdivenlerden zindanın alt katına inmek istiyor musun?\n\nGeri dönemeyeceksin.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Devam et</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>lobiye giden merdiven</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>Lobiye geri dönen bir merdiven. Bu, mevcut oyununu sonlandıracak, ancak bir sonraki için biraz tecrübe ve altın saklayacaksın. Ayrıca, lobide satın aldığın tek kullanımlık bonusları kaybetmeyeceksin.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Lobiye geri dönmek istiyor musun?\n\nBu, mevcut oyununu sonlandıracak, ancak bir sonraki için %25 tecrübe ve %50 altın saklayacaksın.\nAyrıca, lobide satın aldığın tek kullanımlık bonusları kaybetmeyeceksin.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Devam et</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>ameliyat yatağı</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>Küçük bir ödeme karşılığında eksik tüm vücut parçalarını onarabilen otonom bir ameliyat makinesi.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Önünde otonom bir cerrahi makine görüyorsun.\n\nAltında bir jeton yuvası ve 150 altın karşılığında makinenin tüm eksik vücut parçalarını onarabileceğini söyleyen bir tabela var.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>150 altın öde</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>zaman makinesi</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Zamanda geriye git.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Önünde bir zaman makinesi görüyorsun.\n\nOnu kullanmak zamanda geriye gitmeni sağlayacak.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Kullan</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>Sakatlama Sınavı</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Bir ödül almak için 120 tur içinde 6 vücut parçasını yok et.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>Önünde bir Sakatlama Sınavı görüyorsun.\n\nBir miktar altın karşılığında, 120 tur içinde 6 vücut parçasını yok etme mücadelesine başlayabilirsin.\n\nMücadeleyi tamamladığında bir ödül alacaksın.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>20 altın öde</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>Çevik Katil Sınavı</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Bir ödül almak için 100 tur içinde 4 değerli (tecrübe puanı kazandıran) düşmanı öldür.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>Önünde bir Çevik Katil Sınavı görüyorsun.\n\nBir miktar altın karşılığında, 100 tur içinde 4 değerli düşmanı öldürme mücadelesine başlayabilirsin.\n\nMücadeleyi tamamladığında bir ödül alacaksın.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>20 altın öde</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>Kusursuzluk Sınavı</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Bir ödül almak için hiç can puanı kaybetmeden 2 değerli (tecrübe puanı kazandıran) düşmanı öldür.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>Önünde bir Kusursuzluk Sınavı görüyorsun.\n\nBir miktar altın karşılığında, hiç can puanı kaybetmeden 2 değerli düşmanı öldürme mücadelesine başlayabilirsin.\n\nMücadeleyi tamamladığında bir ödül alacaksın.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>20 altın öde</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>yükseltme küresi</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Kalıcı bir etki seçmeni sağlayan bir küre. Ekstra can, ekstra kritik vuruş şansı, daha düşük ıskalama şansı ve ateş direnci arasında seçim yapabilirsin.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Bu, mevcut oyunun için kalıcı etkiler sağlayan bir yükseltme küresidir.\n\nEkstra can, ekstra kritik vuruş şansı, daha düşük ıskalama şansı ve ateş direnci arasında seçim yapabilirsin.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>savaşçı tapınağı</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>İçindeki savaşçıyı serbest bırak ve layık olduğunu kanıtla. Bir süreliğine %25 daha yüksek fiziksel hasar karşılığında maksimum canını yarıla.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Önünde bir savaşçı tapınağı görüyorsun.\n\n400 tur boyunca %25 daha yüksek hasar karşılığında maksimum canını yarıla.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Devam et</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>eşek arısı kovanı</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Alışılmadık derecede büyük eşek arılarının yuvası.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>büyücü tapınağı</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Küçük bir bağış karşılığında bir süreliğine maksimum mananı artır ve büyü hasarı direnci kazan.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Önünde bir büyücü tapınağı görüyorsun.\n\n80 altın karşılığında, sana 400 tur boyunca +2 maksimum mana ve 100 tur boyunca büyü hasarı direnci verecek bir kutsama alabilirsin.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>80 altın öde</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <DestroyItemInInventory.label>καταστροφή</DestroyItemInInventory.label> <!-- <En>destroy</En> -->
+  <DestroyItemInInventory.Destroys>Ο/Η {0} καταστρέφει {1}</DestroyItemInInventory.Destroys> <!-- <En>{0} destroys {1}</En> -->
+
+  <DropItem.label>απόρριψη</DropItem.label> <!-- <En>drop</En> -->
+  <DropItem.Drops>Ο/Η {0} πετάει {1}</DropItem.Drops> <!-- <En>{0} drops {1}</En> -->
+
+  <Equip.label>εξοπλισμός</Equip.label> <!-- <En>equip</En> -->
+  <Equip.Equips>Ο/Η {0} εξοπλίζεται με {1}</Equip.Equips> <!-- <En>{0} equips {1}</En> -->
+
+  <MoveItemInInventory.label>μετακίνηση αντικειμένου στο απόθεμα</MoveItemInInventory.label> <!-- <En>move item in inventory</En> -->
+  <MoveItemInInventory.IsMovedInSInventory>Το {1} μετακινείται στο απόθεμα του/της {0}</MoveItemInInventory.IsMovedInSInventory> <!-- <En>{1} is moved in {0}'s inventory</En> -->
+
+  <RefundSkill.label>επιστροφή δεξιότητας</RefundSkill.label> <!-- <En>refund skill</En> -->
+  <RefundSkill.Refunds>Ο/Η {0} λαμβάνει επιστροφή για {1}</RefundSkill.Refunds> <!-- <En>{0} refunds {1}</En> -->
+
+  <SortInventory.label>ταξινόμηση αποθέματος</SortInventory.label> <!-- <En>sort inventory</En> -->
+  <SortInventory.SortsInventory>Ο/Η {0} ταξινομεί το απόθεμα</SortInventory.SortsInventory> <!-- <En>{0} sorts inventory</En> -->
+
+  <Transfer.label>μεταφορά</Transfer.label> <!-- <En>transfer</En> -->
+  <Transfer.GivesTo>Ο/Η {0} δίνει {1} στον/στην {2}</Transfer.GivesTo> <!-- <En>{0} gives {1} to {2}</En> -->
+
+  <Unequip.label>απο-εξοπλισμός</Unequip.label> <!-- <En>unequip</En> -->
+  <Unequip.Unequips>Ο/Η {0} απο-εξοπλίζει {1}</Unequip.Unequips> <!-- <En>{0} unequips {1}</En> -->
+
+  <UnlockSkill.label>ξεκλείδωμα δεξιότητας</UnlockSkill.label> <!-- <En>unlock skill</En> -->
+  <UnlockSkill.Unlocks>Ο/Η {0} ξεκλειδώνει {1}</UnlockSkill.Unlocks> <!-- <En>{0} unlocks {1}</En> -->
+
+  <UseRecipe.label>χρήση συνταγής</UseRecipe.label> <!-- <En>use recipe</En> -->
+  <UseRecipe.CombinesItems>Ο/Η {0} συνδυάζει αντικείμενα</UseRecipe.CombinesItems> <!-- <En>{0} combines items</En> -->
+
+</SpecTranslations>

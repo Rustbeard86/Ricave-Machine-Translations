@@ -1,0 +1,39 @@
+<SpecTranslations>
+
+  <BuyItem.label>comprar item</BuyItem.label> <!-- <En>buy item</En> -->
+  <BuyItem.Buys>{0} compra {1}</BuyItem.Buys> <!-- <En>{0} buys {1}</En> -->
+
+  <BuyPrivateRoomStructure.label>comprar mobília de quarto privado</BuyPrivateRoomStructure.label> <!-- <En>buy private room furniture</En> -->
+  <BuyPrivateRoomStructure.Buys>{0} compra {1}</BuyPrivateRoomStructure.Buys> <!-- <En>{0} buys {1}</En> -->
+
+  <ErrorRecoveryAddSequence.label>recuperação de erro de sequência</ErrorRecoveryAddSequence.label> <!-- <En>sequence error recovery</En> -->
+  <ErrorRecoveryAddSequence.SequenceErrorRecovery>Recuperação de erro de sequência para {0}</ErrorRecoveryAddSequence.SequenceErrorRecovery> <!-- <En>Sequence error recovery for {0}</En> -->
+
+  <MoveDownByGravity.label>cair</MoveDownByGravity.label> <!-- <En>fall</En> -->
+  <MoveDownByGravity.Falls>{0} cai</MoveDownByGravity.Falls> <!-- <En>{0} falls</En> -->
+
+  <PulledByChain.label>puxar por corrente</PulledByChain.label> <!-- <En>pull by chain</En> -->
+  <PulledByChain.IsPulledByAChain>{0} é puxado por uma corrente</PulledByChain.IsPulledByAChain> <!-- <En>{0} is pulled by a chain</En> -->
+
+  <ResolveCondition.label>resolver condição</ResolveCondition.label> <!-- <En>resolve condition</En> -->
+  <ResolveCondition.TakesTurn>{0} joga o turno</ResolveCondition.TakesTurn> <!-- <En>{0} takes turn</En> -->
+
+  <ResolveStructure.label>resolver estrutura</ResolveStructure.label> <!-- <En>resolve structure</En> -->
+  <ResolveStructure.TakesTurn>{0} joga o turno</ResolveStructure.TakesTurn> <!-- <En>{0} takes turn</En> -->
+
+  <ResolveVelocity.label>não está mais caindo</ResolveVelocity.label> <!-- <En>no longer falling</En> -->
+  <ResolveVelocity.IsNoLongerFalling>{0} não está mais caindo</ResolveVelocity.IsNoLongerFalling> <!-- <En>{0} is no longer falling</En> -->
+
+  <ResolveWorld.label>resolver mundo</ResolveWorld.label> <!-- <En>resolve world</En> -->
+  <ResolveWorld.TheWorldIsResolved>O mundo é resolvido</ResolveWorld.TheWorldIsResolved> <!-- <En>The world is resolved</En> -->
+
+  <RewindTime.label>retroceder o tempo</RewindTime.label> <!-- <En>rewind time</En> -->
+  <RewindTime.TimeRewind>Retrocesso no tempo</RewindTime.TimeRewind> <!-- <En>Time rewind</En> -->
+
+  <SwitchCurrentPartyMember.label>trocar membro atual do grupo</SwitchCurrentPartyMember.label> <!-- <En>switch current party member</En> -->
+  <SwitchCurrentPartyMember.PlayerSwitchesCurrent>Jogador troca o membro atual do grupo para {0}</SwitchCurrentPartyMember.PlayerSwitchesCurrent> <!-- <En>Player switches current party member to {0}</En> -->
+
+  <Think.label>pensar</Think.label> <!-- <En>think</En> -->
+  <Think.Thinks>{0} pensa</Think.Thinks> <!-- <En>{0} thinks</En> -->
+
+</SpecTranslations>

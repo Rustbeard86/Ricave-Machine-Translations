@@ -1,0 +1,34 @@
+<SpecTranslations>
+
+  <Introduction.label>Yeni ev</Introduction.label> <!-- <En>New home</En> -->
+  <Introduction.description>Zindana gir ve 3 iskelet öldür.</Introduction.description> <!-- <En>Enter the dungeon and kill 3 skeletons.</En> -->
+  <Introduction.AllSeemsStrangeButYou>Her şey tuhaf görünüyor, ama zamanla bir anlam kazanacağını umuyorsun.\n\nİlk zindanına gir ve mekana alışmak için en az 3 iskelet öldür. Portala girerek ikinci katın sonuna ulaşmaya çalış.</Introduction.AllSeemsStrangeButYou> <!-- <En>All seems strange, but you hope it will start making sense eventually.\n\nEnter your first dungeon and kill at least 3 skeletons to get familiar with the place. Try to reach the end of the second floor by entering into the portal.</En> -->
+  <Introduction.IntroductionKillCount>[Introduction_KillCount] / 3</Introduction.IntroductionKillCount> <!-- <En>[Introduction_KillCount] / 3</En> -->
+
+  <MemoryPiece1.label_2>Hafıza Kaybı</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
+  <MemoryPiece1.description_2>3. katta ilk Hafıza Parçasını bul.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
+  <MemoryPiece1.YouveLostYourMemoryBut>Hafızanı kaybettin, ama buraya gelmeden önce ne olduğunu hatırlamana yardımcı olabilecek bir şey var.\n\nÜçüncü katta ilk Hafıza Parçasını bul.\n\nBütün bunlar ilk başta zorlayıcı görünebilir, ama her adımda unutulmuş anılarının kilidini açmaya daha da yaklaşacaksın.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
+  <MemoryPiece1.dungeonModifiers>3. katta Hafıza Parçası</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+
+  <MemoryPiece2.label_2>Hafıza Kaybı: Ayrılık</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
+  <MemoryPiece2.description_2>4. katta ikinci Hafıza Parçasını bul.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
+  <MemoryPiece2.YoureMakingProgressYou>İlerleme kaydediyorsun. Ne olduğunu yavaş yavaş hatırlamaya başlıyorsun - arkadaşlarınla bir doğa yürüyüşüne çıkmıştın. Şaşırtıcı bir şekilde, Maya da burada.\n\nİkinci Hafıza Parçasını bulmak, sonrasında ne olduğunu hatırlamana yardımcı olacak. 4. kattaki mini-patronun elinde olmalı.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
+  <MemoryPiece2.dungeonModifiers>4. katta Hafıza Parçası</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+
+  <MemoryPiece3.label_2>Hafıza Kaybı: Mağara</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
+  <MemoryPiece3.description_2>6. katta üçüncü Hafıza Parçasını bul.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
+  <MemoryPiece3.YoureStartingToRemember>Ne olduğunu hatırlamaya başlıyorsun. Grubundan ayrıldıktan sonra bir mağaraya rastladın. Ne yazık ki, kayıp bacağını kırdın. Ama sonra ne oldu?\n\nÜçüncü Hafıza Parçasını bul. 6. katta bir yerlerde olmalı ve yanına bir ip aldığından emin ol.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
+  <MemoryPiece3.dungeonModifiers>6. katta Hafıza Parçası</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+
+  <MemoryPiece4.label_2>Hafıza Kaybı: Kurtarılma</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
+  <MemoryPiece4.description_2>8. katta son Hafıza Parçasını bul.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
+  <MemoryPiece4.YoureAlmostThereSurprisingly>Neredeyse başardın. Şaşırtıcı bir şekilde, seni o mağarada bulan Maya'ymış. Ancak, neden burada olduğunu hala anlamıyorsun. Daha fazla cevaba ihtiyacın var.\n\nSon Hafıza Parçasını bul. 8. katta bir yerlerde, bir zehir tuzağının içinde olmalı.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
+  <MemoryPiece4.dungeonModifiers>8. katta Hafıza Parçası</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+
+  <RescueLobbyShopkeeper.label>Kurtarma</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
+  <RescueLobbyShopkeeper.description>Gölge'nin arkadaşını 2. katta kurtar.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
+  <RescueLobbyShopkeeper.ToGetMoreInformation>Gölge'den daha fazla bilgi almak için önce arkadaşını kurtarmalısın. Bu zindanın ikinci katında bir yerlerde bir kafese kilitlenmiş durumda.\n\nUnutma ki görevleri, yeterli kata sahip olduğu sürece herhangi bir zindanda tamamlayabilirsin. Ne kadar ileri gidersen, zindanların o kadar çok katı olur.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers>2. katta kurtarılacak bir kişi</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards>Lobide yeni bir odanın kilidini aç</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+
+</SpecTranslations>

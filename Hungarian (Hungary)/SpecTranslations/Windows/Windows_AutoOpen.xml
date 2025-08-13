@@ -1,0 +1,27 @@
+<SpecTranslations>
+
+  <Character.label>karakter</Character.label> <!-- <En>character</En> -->
+  <Character.description>Információkat jelenít meg a karakteredről.</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>kódex</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>Megjeleníti az összes tárgyat és lényt, amit valaha láttál.</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>kazamata térkép</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>Megjeleníti ennek a kazamatának a térképét.</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>frakciók</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>Megjeleníti az összes frakciót ebben a kazamatában.</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>leltár</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>Megjeleníti a leltáradban lévő tárgyakat.\n\nHúzd és ejtsd a tárgyakat az átrendezésükhöz. A tárgyak átrendezése nem kerül körbe, így harc közben is biztonságosan megteheted.\n\nA felszerelés felvétele és levétele azonnali, de más cselekvések, mint például egy bájital elfogyasztása vagy eldobása, egy körbe kerülnek.</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>küldetések</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>Megjeleníti az összes küldetésedet.</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>gyorselérési sáv</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>A gyorselérési sávon lévő tárgyak a billentyűzet számbillentyűivel érhetők el.</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>képességek</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>Képességpontok elköltésével új képességeket tanulhatsz.</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

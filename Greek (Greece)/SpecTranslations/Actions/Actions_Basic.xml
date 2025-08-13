@@ -1,0 +1,24 @@
+<SpecTranslations>
+
+  <ChooseSpell.label>επιλογή ξορκιού</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>Επιλέχθηκε ένα νέο ξόρκι {0}</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>μετακίνηση</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>Ο/Η {0} κινείται {1}</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>συλλογή αντικειμένου</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>Ο/Η {0} μαζεύει {1}</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>αναδιάταξη ξορκιού</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>Έγινε αναδιάταξη στο {1}</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>ύπνος</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>Ο/Η {0} κοιμάται</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>χρήση</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>Ο/Η {0} χρησιμοποιεί {1} σε {2}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>αναμονή</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>Ο/Η {0} περιμένει</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

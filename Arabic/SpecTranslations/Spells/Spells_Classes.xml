@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>وميض معمي</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>أعمِ كل من يستطيع رؤيتك حاليًا لفترة قصيرة. لا يكلف أي دور لاستخدامه.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>خداع</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>اجعل الهدف معاديًا لكل من سواه لفترة قصيرة. لا يكلف أي دور لاستخدامه.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>تشبيك المجاورين</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>شبّك كل من يجاورك لفترة قصيرة. لا يكلف أي دور لاستخدامه.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>إسراع</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>تحرك مرتين في كل دور لفترة قصيرة. لا يكلف أي دور لاستخدامه.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>قفز</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>اقفز فورًا إلى أي خانة مجاورة، حتى لو كانت عمودية. لا يكلف أي دور لاستخدامه.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>دفع</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>ادفع أي شخص بعيدًا لمسافة خانة واحدة. لا يكلف أي دور لاستخدامه.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>هروب عشوائي</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>انتقل آنيًا إلى موقع عشوائي على الخريطة. لا يكلف أي دور لاستخدامه.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>استدعاء كرمة متسلقة</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>استدعِ كرمات متسلقة في الموقع المحدد وتسلقها.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>سحابة سامة</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>استدعِ سحابة من السم في الموقع المحدد. لا يكلف أي دور لاستخدامه.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>استدعاء شبح</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>استدعِ شبحًا صديقًا لمساعدتك في المعارك. يمكن لشبح واحد فقط أن يكون على قيد الحياة في المرة الواحدة.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,24 @@
+<SpecTranslations>
+
+  <ChooseSpell.label>büyü seç</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>Yeni büyü {0} seçildi</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>hareket et</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0}, {1} yönüne hareket eder</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>eşya al</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>{0}, {1} adlı eşyayı alır</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>büyüleri yeniden sırala</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>{1} yeniden sıralandı</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>uyu</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>{0} uyur</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>kullan</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>{0}, {2} üzerinde {1} kullanır</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>bekle</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>{0} bekler</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

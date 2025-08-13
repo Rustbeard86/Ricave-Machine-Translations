@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>เพิ่มสภาวะ</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>เป้าหมายจะได้รับสภาวะใหม่</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>ที่เป้าหมาย: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>เพิ่มเอฟเฟกต์</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>เป้าหมายจะได้รับเอฟเฟกต์ใหม่</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>เพิ่มเอฟเฟกต์: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>ล่ามโซ่กับเสา</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>ล่ามเป้าหมายไว้กับเสาโซ่</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>ขวางประตู</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>ขวางประตู วิธีเดียวที่จะผ่านประตูที่ถูกขวางได้คือการทำลายมัน</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>แสงสว่างจ้า</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>ทำให้ทุกคนที่มองเห็นคุณอยู่ในขณะนี้ตาบอด</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>แสงสว่างจ้า {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>มุดดิน</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>ซ่อนตัวในพื้นดิน</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>แลกน้ำยาเป็นม้วนคัมภีร์</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>คุณจะได้รับม้วนคัมภีร์แบบสุ่มเพื่อแลกกับน้ำยาใดก็ได้</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>เพดานถล่ม</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>เพดานจะถล่มลงมาหากไม่มีสิ่งค้ำยันอื่น</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>เพดานถล่ม (ความเสียหาย {0} {1})</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>เพดานถล่ม (หนึ่งช่อง)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>เพดานที่นี่จะถล่มลงมาและทำร้ายทุกคนที่อยู่ข้างใต้</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>เพดานถล่ม (หนึ่งช่อง) (ความเสียหาย {0} {1})</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>เก็บละอองดาว</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>เก็บละอองดาวจากถ้วยรางวัล</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>เก็บละอองดาว x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>ทำอาหาร</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>ทำอาหารบางอย่าง</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>เสริมพลังอุปกรณ์ (คริสตัล)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>ใช้การเสริมพลังกับอุปกรณ์ที่คุณเลือก</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>เสนอไอเทมต้องคำสาป</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>เสนอไอเทมต้องคำสาปให้กับรูปปั้นปีศาจเพื่อแลกกับรางวัล</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>สร้างความเสียหาย</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>เป้าหมายจะสูญเสียพลังชีวิตตามจำนวนที่กำหนดลบด้วยค่าเกราะ</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>ความเสียหาย {0} {1}</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>ทำลาย</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>เป้าหมายจะถูกทำลาย</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>ขุด</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>ขุดสิ่งของต่างๆ เช่น ดิน</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>ทำลายวัตถุเปราะบาง</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>ทำลายวัตถุเปราะบาง เช่น กำแพงอิฐและประตู</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>ทำลายแก้ว</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>ทำลายวัตถุที่ทำจากแก้ว เช่น หน้าต่างและพื้นแก้ว</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>ขุดแร่</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>ขุดวัตถุที่สามารถขุดได้ เช่น คริสตัล</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>ทำลายส่วนของร่างกาย</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>ทำลายส่วนของร่างกายแบบสุ่ม</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>รับรางวัล</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>รับรางวัลแบบสุ่ม</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>ทำซ้ำ</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>ไอเทมที่คุณเลือกจะถูกทำซ้ำหรือถูกทำลาย</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>ทำซ้ำ (โอกาส {0})</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>เสริมพลังอุปกรณ์</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>ใช้การเสริมพลังแบบสุ่มกับอุปกรณ์ที่คุณเลือก</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>ดับไฟ</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>ดับไฟทุกชนิด</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>ให้อาหาร</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>บรรเทาความหิวของคุณ</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>ความอิ่ม {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>จบการเล่น</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>จบการเล่นรอบนี้และกลับไปที่ล็อบบี้</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>จับปลา</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>จับปลาหนึ่งตัว</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>ได้รับแต้มทักษะ</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>ได้รับหนึ่งแต้มทักษะ</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>พนัน</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>เดิมพันเงินของคุณและดูว่าคุณจะชนะหรือไม่</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>ฟื้นฟู</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>เป้าหมายจะได้รับการฟื้นฟูพลังชีวิตตามจำนวนที่กำหนด</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>ฟื้นฟู {0} HP</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>ระบุไอเทม</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>ระบุไอเทม</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>ระบุไอเทม</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>ระบุไอเทม (ตามจำนวนเทิร์นที่กำหนดสำหรับการระบุ)</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>ระบุไอเทม {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>ส่งเสียง</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>ปลุกสิ่งมีชีวิตที่หลับใหลอยู่ในรัศมีที่กำหนด</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>เปิดตู้นิรภัยอิเล็กทรอนิกส์</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>เปิดตู้นิรภัยอิเล็กทรอนิกส์ที่ไหนสักแห่ง</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>จ่าย</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>คุณจะต้องมอบไอเทมบางอย่างให้</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>จ่าย {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>ดึง</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>เป้าหมายจะถูกดึงเข้าหาผู้ร่าย</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>ดึง {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>ผลัก</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>เป้าหมายจะถูกผลักถอยหลังไปสองสามช่อง</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>ผลัก {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>ผลักแบบสุ่ม</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>เป้าหมายจะถูกผลักไปในทิศทางแบบสุ่ม</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>ผลักแบบสุ่ม {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>เอฟเฟกต์สุ่ม</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>ใช้เอฟเฟกต์แบบสุ่ม</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>รับไอเทม</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>ผู้ใช้จะได้รับไอเทม</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>รับ {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>ลบสภาวะ</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>สภาวะบางอย่างจะถูกลบออกจากเป้าหมาย</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>ลบ {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>ลบคำสาป</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>ลบคำสาปจากไอเทมในช่องเก็บของของเป้าหมาย โดยจะให้ความสำคัญกับการลบคำสาปจากไอเทมที่สวมใส่อยู่ก่อน</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>ลบสภาวะ</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>สภาวะบางอย่างจะถูกลบออกจากเป้าหมาย</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>ลบ {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>วิจัย</Research.label> <!-- <En>research</En> -->
+  <Research.description>วิจัยวัตถุ</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>รีเซ็ตชาร์จนาฬิกา</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>ชาร์จนาฬิกาของคุณจะถูกตั้งค่าเป็นศูนย์ ดังนั้นคุณจะไม่สามารถย้อนเวลาได้ชั่วขณะ</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>ฟื้นฟูมานา</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>มานาของเป้าหมายจะได้รับการฟื้นฟู</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>ฟื้นฟู {0} มานา</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>ฟื้นฟูส่วนของร่างกายที่ขาดหาย</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>ส่วนของร่างกายที่ขาดหายไปทั้งหมดของเป้าหมายจะได้รับการฟื้นฟู</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>ฟื้นฟูสตามินา</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>สตามินาของเป้าหมายจะได้รับการฟื้นฟู</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>ฟื้นฟู {0} สตามินา</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>กลับไปที่ล็อบบี้</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>กลับไปที่ล็อบบี้ การเล่นปัจจุบันของคุณจะสิ้นสุดลง แต่คุณจะเก็บของบางอย่างไว้ได้</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>ย้อนเวลา</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>ย้อนเวลากลับไป</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>ย้อน {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>จุดไฟ</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>จุดไฟเผาวัตถุที่ติดไฟได้</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>จุดไฟ ({0} HP)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>ปลดปล่อยวิญญาณ</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>ปลดปล่อยวิญญาณ</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>สร้างวัตถุ</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>วัตถุใหม่จะปรากฏขึ้นใกล้ๆ</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>สร้าง {0}</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>สร้างศัตรูแบบสุ่ม</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>ศัตรูแบบสุ่มจะปรากฏขึ้นใกล้ๆ</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>สร้างวัตถุ</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>วัตถุใหม่จะปรากฏขึ้นใกล้ๆ</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>สร้าง {0}</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>ขโมย</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>ขโมยไอเทมจากเป้าหมาย</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>ฟื้นฟูส่วนของร่างกายที่ขาดหาย</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>ส่วนของร่างกายที่ขาดหายไปทั้งหมดของเป้าหมายจะได้รับการฟื้นฟู</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>เทเลพอร์ต</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>เป้าหมายจะถูกเทเลพอร์ตไปยังตำแหน่งที่กำหนด</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>เทเลพอร์ตไปยังตำแหน่งสุ่ม</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>เป้าหมายจะถูกเทเลพอร์ตไปยังตำแหน่งสุ่ม</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>ปลดล็อก</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>ปลดล็อกไอเทม สถานที่ หรือโบนัสใหม่</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>ปลดล็อก {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>อัปเกรดระดับ</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>อัปเกรดระดับของไอเทม</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>อัปเกรดเอฟเฟกต์ลูกแก้ว</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>ใช้การเพิ่มพลังอย่างถาวร</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>接近して攻撃し、被弾を避けるため後退する</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>攻撃後、追い詰められない限り8ターン逃走する</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>自分からは接近しないが、接近されるとその場に留まる</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>常に逃走する</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>追い詰められない限り距離を保つ</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>追い詰められるか、武器がない場合を除き、距離を保つ</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>プレイヤーに追従して攻撃する (パーティメンバー)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>プレイヤーに追従し、機を見て攻撃する</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>接近して攻撃する</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>その場に留まるが、攻撃されると逃走する</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>その場に留まる</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>その場に留まり、味方を回復する</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>その場に留まるが、攻撃されると逃走する</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>盗んだ後、逃走する</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>눈부신 섬광</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>현재 당신을 볼 수 있는 모든 대상을 잠시 동안 실명시킵니다. 사용 시 턴을 소모하지 않습니다.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>기만</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>대상을 잠시 동안 다른 모든 존재에게 적대적으로 만듭니다. 사용 시 턴을 소모하지 않습니다.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>인접 속박</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>자신에게 인접한 모든 대상을 잠시 동안 옭아맵니다. 사용 시 턴을 소모하지 않습니다.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>가속</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>잠시 동안 턴마다 두 번 행동합니다. 사용 시 턴을 소모하지 않습니다.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>도약</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>수직으로도 인접한 타일로 즉시 도약합니다. 사용 시 턴을 소모하지 않습니다.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>밀치기</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>대상을 1칸 밀쳐냅니다. 사용 시 턴을 소모하지 않습니다.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>무작위 탈출</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>지도 상의 무작위 위치로 순간이동합니다. 사용 시 턴을 소모하지 않습니다.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>덩굴 생성</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>지정한 위치에 덩굴을 생성하고 올라탑니다.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>독구름</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>지정한 위치에 독구름을 생성합니다. 사용 시 턴을 소모하지 않습니다.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>환영 소환</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>전투를 도와줄 우호적인 환영을 소환합니다. 한 번에 하나의 환영만 존재할 수 있습니다.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

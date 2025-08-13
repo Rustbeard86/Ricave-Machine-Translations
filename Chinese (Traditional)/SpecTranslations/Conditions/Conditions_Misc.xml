@@ -1,4 +1,4 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <Berserker.label>狂戰士</Berserker.label> <!-- <En>berserker</En> -->
   <Berserker.description>你最近殺了人。在短時間內，你造成和受到的物理傷害都會增加 25%。</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
@@ -151,7 +151,7 @@
   <TrialOfSwiftKiller.label>迅捷殺手試煉</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
   <TrialOfSwiftKiller.description>此角色正在進行迅捷殺手試煉。他必須在短時間內擊殺一定數量的強大敵人，才能完成挑戰並獲得獎勵。</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
   <TrialOfSwiftKiller.TrialOfSwiftKiller>迅捷殺手試煉 ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
-  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>此角色正在進行迅捷殺手試煉。他必須在 {1} 回合內擊殺 {0} 名強大敵人，才能完成挑戰並獲得獎勵。</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>此角色正在進行迅捷殺手試煉。他必須在 {1} 回合內擊殺 {0} 名夠格的敵人，才能完成挑戰並獲得獎勵。</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
 
   <TrialOfUnblemished.label>無瑕試煉</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
   <TrialOfUnblemished.description>此角色正在進行無瑕試煉。他必須在不損失任何生命值的情況下，擊殺一定數量的強大敵人，才能完成挑戰並獲得獎勵。</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->

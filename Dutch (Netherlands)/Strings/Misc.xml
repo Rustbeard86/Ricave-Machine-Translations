@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>Spelen</Play> <!-- <En>Play</En> -->
+  <Quit>Afsluiten</Quit> <!-- <En>Quit</En> -->
+  <Loading>Laden</Loading> <!-- <En>Loading</En> -->
+  <Resume>Hervatten</Resume> <!-- <En>Resume</En> -->
+  <Options>Opties</Options> <!-- <En>Options</En> -->
+  <Mods>Mods</Mods> <!-- <En>Mods</En> -->
+  <Credits>Credits</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>Kies taal</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>Sterf en herstart</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>Sterf en ga naar de lobby</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>Opslaan en afsluiten</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>Sluiten</Close> <!-- <En>Close</En> -->
+  <Back>Terug</Back> <!-- <En>Back</En> -->
+  <Days>{0} dagen</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} uur</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} minuten</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 dag</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 uur</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 minuut</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>Iets veroorzaakt fouten.\nZie het logbestand voor meer informatie.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Aangemeld bij Steam</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>geen mod geselecteerd</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>Early Access</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave is momenteel in ontwikkeling.\n\nIk probeer constant meer content toe te voegen, de balans aan te passen, spelmechanieken die niet leuk zijn te verwijderen en feedback te verzamelen, maar ik heb vast nog iets gemist. Als je het spel te moeilijk of te makkelijk vindt, een bug tegenkomt, of een geweldig idee hebt voor een verbetering of een nieuwe functie, neem dan deel aan het ontwikkelingsproces en deel je gedachten op ons Discord-kanaal of Twitter.\n\nBedankt en veel plezier!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>Game bijgewerkt</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricave is bijgewerkt naar versie {0}!\n\nJe huidige sessie is mogelijk niet compatibel met de nieuwe versie. Wil je je huidige sessie verlaten en terugkeren naar de lobby?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Uploaden naar Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>uploaden</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Kon niet uploaden naar Steam: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Succesvol geüpload naar Steam.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>Bericht</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>Resolutie</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>Volledig scherm</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>UI-schaal</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>FOV</FOV> <!-- <En>FOV</En> -->
+  <VSync>VSync</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>Doel-framerate</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>FPS weergeven</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Y-as omkeren</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>Toetsen</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>Volume</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>Muziekvolume</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>Muisgevoeligheid</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>Aanwijzergevoeligheid</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>SSAO-kwaliteit</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>Schaduwkwaliteit</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>Downsampling</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>Omtrek</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>Max. aantal lichten</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>Uit</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>Laag</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>Normaal</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>Hoog</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>Laag</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>Normaal</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>Hoog</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>Geen (beste kwaliteit)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1,5x (mindere kwaliteit)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (slechtste kwaliteit)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>Multi-pass afgerond</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>Multi-pass</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>Single-pass (aanbevolen)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>OK</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>Standaardinstellingen herstellen</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>Spelstatus resetten</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>Terug naar de lobby</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>Alle voortgang resetten</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>Weet je zeker dat je wilt terugkeren naar de lobby?\n\nIn tegenstelling tot terugkeren naar de lobby in het spel, betekent het gebruik van deze optie dat je de voortgang van je huidige sessie verliest. Je verliest echter niet de algemene lobbyvoortgang (je vorige missies en sterrenstof blijven intact).\n\nGebruik deze optie als je opslagbestand beschadigd is, bijv. na het installeren van een incompatibele update.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>Weet je zeker dat je ALLE voortgang wilt resetten?\n\nDit wist al je gegevens en je begint weer van voren af aan.\n\nGebruik deze optie alleen als je het spel opnieuw vanaf het begin wilt ervaren, of als je voortgangsgegevens beschadigd zijn.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>Druk op een toets om toe te wijzen aan:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>Geen</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>Video</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>Interface</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>Audio</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>Overig</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>Kwaliteit</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>Nee</No> <!-- <En>No</En> -->
+  <Yes>Ja</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>Kerker betreden</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>Kerker betreden met seed</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>Trainingsruimte betreden</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>Voer seed in</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>Voortgang uitgeschakeld</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>Hoogste score</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>Verdieping bereikt</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>Gemiddelde verdieping</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>Pogingen</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>Totaal gedood</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>Missies</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>Statistieken</Stats> <!-- <En>Stats</En> -->
+  <Cancel>Annuleren</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>Accepteren</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>Missie accepteren</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>Claimen</Claim> <!-- <En>Claim</En> -->
+  <Postpone>Uitstellen</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>Vergrendeld</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>Alleen de beste prijzen!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>Upgrades nodig?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>Heb je sterrenstof?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>Klik om meer te lezen</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>Selecteer om meer te lezen</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>Kerkermodificaties na acceptatie</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>Beloningen</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} puzzelstukjes</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>Ontgrendel op level {0}</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>Ontgrendel door missie te voltooien</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>Plaatsen</Place> <!-- <En>Place</En> -->
+  <PickUp>Oppakken</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>Druk op [ShowInventory] om het winkelmenu te openen.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>Geen</None> <!-- <En>None</En> -->
+  <CompletedQuests>Voltooide missies</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>Voltooid</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>Dagelijkse uitdaging</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>Je hebt één poging - laat hem tellen!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>Elke dag spelen spelers over de hele wereld dezelfde kerker-seed. Je krijgt maar één kans per dag.\n\nRegels:\n  - Normale moeilijkheidsgraad\n  - Boosts uitgeschakeld\n  - Willekeurige klasse en eigenschappen\n  - Missies uitgeschakeld\n  - Voortgang uitgeschakeld\n  - Eindeloze complexe kerker (geen verdiepingslimiet)\n\nJe kunt geen sterrenstof verzamelen in deze kerker en het telt niet mee voor je statistieken, maar je ontvangt {0} voor deelname.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>Volgende uitdaging over: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>Jouw beste score (alle dagen): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>Start dagelijkse uitdaging</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>Je hebt de uitdaging van vandaag al gespeeld\nJe score was: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>Schakel eerst mods uit</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>Ontgrendeld op level {0}</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>Bekijk klassement van vandaag</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>Globaal</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>Vrienden</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>Jouw rang: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>Klassement laden...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>Laden van klassement mislukt.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>Geen klassement beschikbaar.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>Nog geen van je vrienden heeft deze uitdaging gespeeld.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>Actieve missies</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>Actief</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>Beschikbare missies</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>Beschikbaar</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>Historische missies</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>Historisch</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>Druk op [Wait] om door te gaan</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>Missie</Quest> <!-- <En>Quest</En> -->
+  <Runs>Sessies</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 missie beschikbaar</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} missies beschikbaar</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>Gebruik het missielogboek om missies te accepteren.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>Spelersnaam</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>Moeilijkheidsgraad</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>Vijanden</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>Eindbazen</Bosses> <!-- <En>Bosses</En> -->
+  <Train>Trainen</Train> <!-- <En>Train</En> -->
+  <EnterNewName>Voer nieuwe naam in</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>HP vijand</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>Start-HP</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>Score</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>Extra vijanden</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>Brood per verdieping</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>Levensdrankjes per verdieping</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>Vijandniveau</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>Goudbuit per verdieping</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>Sterrenstof</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>Genezende kristallen</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>Kleine genezende kristallen</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>Manakristallen</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>Kleine manakristallen</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>Aantal vijanden</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>Startlevensdrankjes</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>Gefeliciteerd!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>Gefeliciteerd!\n\nJe eindscore was: {0}\n\nHoewel de hoofdmissie is voltooid, zijn er misschien nog veel dingen die je kunt ontdekken.\n\nAls je het spel leuk vond, overweeg dan om lid te worden van onze Discord-server op {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>Prijs volgende eigenschappen</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>Je moet deze eigenschap eerst ontgrendelen.\n\nJe kunt een willekeurige eigenschap kopen voor sterrenstof. Hoe meer eigenschappen je al hebt, hoe duurder het is om de volgende te kopen.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>Max. verdieping bereikt met deze eigenschap: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>Je kunt maximaal 2 eigenschappen kiezen.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>Je hebt niet genoeg sterrenstof.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>Klik om deze eigenschap te selecteren of deselecteren.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>Selecteer of deselecteer deze eigenschap.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>Klik om te selecteren of deselecteren.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>Selecteer of deselecteer.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>Koop {0} willekeurige eigenschappen</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>Geselecteerde eigenschappen</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>Wil je echt {1} willekeurige eigenschappen kopen voor {0}?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>Begin met {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>Vind {0} meer goud</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>Vind {0} minder goud</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>Max HP</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>Max mana</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>Max uithoudingsvermogen</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>Niet vijandig {0}</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>Vijandig {0}</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>{0} gifweerstand</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>{0} gifkwetsbaarheid</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>Immuun voor gif</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>Geen valschade</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>{0} valschade</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>{0} vuurweerstand</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>{0} vuurkwetsbaarheid</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>{0} magieweerstand</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>{0} magiekwetsbaarheid</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{0} schade aan {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>Uithoudingsvermogen regenereert {0}x zo traag</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Uithoudingsvermogen regenereert twee keer zo traag</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>Veroorzaak {0} meer schade onder {1} HP</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>Krijg {0} minder max HP per level</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>Krijg {0} meer max HP per level</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>Loopgeluid {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>Krijg {0} mana per waardige doodslag</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>Krijg {0} HP per waardige doodslag</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>Verlies {0} HP per waardige doodslag</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>Inventarisplekken {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>Max HP x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>{0} schade aan eindbazen</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>Genezingssnelheid {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>Immuun voor {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>Immuun voor wegduwen</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>Hongersnelheid {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>Winkelprijzen {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>Kan vliegen</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>Krijg {0} meer ervaring</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>Krijg {0} minder ervaring</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>Behouden XP van vorige run</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>Behouden goud van vorige run</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>Nog 1 run</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>{0} runs over</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>Start</StartNewRun> <!-- <En>Start</En> -->
+  <Character>Personage</Character> <!-- <En>Character</En> -->
+  <Traits>Eigenschappen</Traits> <!-- <En>Traits</En> -->
+  <Boosts>Boosts</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>Verdiepingen</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} verdiepingen</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>Kamers per verdieping</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>Ontgrendel voor {0}</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>Voltooid op moeilijkheidsgraad</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>Mini-eindbazen</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>Schuilplaatsen</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>Geredde geesten</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>Overwinningen</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>Nederlagen</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>{0} eindbaas</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>Conflicteert met</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>Cosmetische items zijn puur visueel en hebben geen invloed op de gameplay, tenzij anders vermeld.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>Wil je {0} kopen voor {1}?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>Je kunt dit cosmetische item niet betalen.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>Prijs</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>Waarschuwing: Dit cosmetische item maakt {0} vijandig tegenover jou</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>Extra kerker-modificaties</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>Je tijd is geleend.\nIk kom slechts mijn schuld innen.\nBlijf vooral rennen.\nUiteindelijk zul je de uitgang vinden.\nIk ben er net voorbij.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>Onontdekte vijand</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} HP</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} mana</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} uithoudingsvermogen</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} tot {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>in een hinderlaag gelokt</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>van bovenaf</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>door afweren</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>schade verspreid</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>ongeïdentificeerd</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>Vervloekt</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>vervloekt</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 beurt</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} beurten</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1 keer te gebruiken</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} keer te gebruiken</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 lading</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} ladingen</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 diamant</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} diamanten</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 sterrenstof</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} sterrenstof</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 cel</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} cellen</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 goud</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} goud</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}g</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>Druk op [Accept] om door te gaan</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>Druk op [Accept] om door te gaan naar de lobby</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>Druk op [Wait] om opnieuw te starten</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>geen opties</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>Waarschuwing: Dit voorwerp is mogelijk {0}.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>Waarschuwing: Dit voorwerp is {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>Je kunt {0} voorwerpen niet uitdoen (zonder een vloekverwijderingsperkament).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>Goud</Gold> <!-- <En>Gold</En> -->
+  <Leave>Verlaten</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>Handelt twee keer per beurt</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>Handelt {0} keer per beurt</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>Handelt elke tweede beurt</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>Handelt eens per {0} beurten</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>Krijgt geen honger</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>Krijgt twee keer zo snel honger</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>Krijgt {0} keer zo snel honger</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>Krijgt twee keer zo traag honger</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>Hongersnelheid-vermenigvuldiger: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>Gooi {0} goud</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>{0} kans</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>{0} beurten waard</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>straal {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>hele kaart</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>door muren</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>rond doelwit</AroundTarget> <!-- <En>around target</En> -->
+  <Used>Gebruikt</Used> <!-- <En>Used</En> -->
+  <Waiting>Wachten</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>Onderbroken</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>plek</Location> <!-- <En>spot</En> -->
+  <StopTargeting>Stop met richten</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>Missie voltooid</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>Claim je beloning wanneer je terug bent in de lobby</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>Stationair</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>Eén stap</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>Wil je {0} kopen voor {1}?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>Dit is een eenmalige bonus en is alleen van toepassing op je volgende poging.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>Kopen</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>Beschikbaar in {0}</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>Dit is het oorspronkelijke wapen van dit personage.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>Kies een nieuwe spreuk.\n\nJe kunt elke keer dat je een level stijgt een nieuwe spreuk kiezen.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} verslagen</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>Tip: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>Gebruik [MoveForward][MoveLeft][MoveBack][MoveRight] om te bewegen. Druk op [ShowInventory] om je inventaris te openen. Gebruik [Interact] om met objecten te interageren. Roteer met [RotateLeft] en [RotateRight]. Houd [Inspect] ingedrukt om te inspecteren. Druk op [Wait] om een beurt te wachten.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>Wacht</Waits> <!-- <En>Waits</En> -->
+  <Wait>Wacht</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>Wacht (dronken)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>Wacht (paniek)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>Wacht ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>Wordt wakker</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>Waar?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>Geen armen</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>Geen benen</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>Vijandig</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>Ontbrekende lichaamsdelen</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>Iemand ziet je</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>Baas leeft nog</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>Niet genoeg mana ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>Niet genoeg uithoudingsvermogen ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>Afkoeltijd ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>Kom dichterbij</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>Ongeldig doelwit</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>Buiten bereik</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>Geen zichtlijn</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>{0} nodig</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>Onbereikbaar</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>Inventaris vol</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>2 dezelfde kristallen nodig</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>Geest nodig</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>Schep nodig</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>Gebruik schep</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>Pikhouweel nodig</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>Gebruik pikhouweel</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>Sommige groepsleden zijn te ver weg</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>Deur is geblokkeerd</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>{0}-volger bestaat al</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} nu aan jou</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} nu</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} nu voor jou</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>{0} schade per beurt</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{0} schade per {1} beurten</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} per beurt</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} per {1} beurten</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>alles</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} voor jou</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>of</Or> <!-- <En>or</En> -->
+  <And>en</And> <!-- <En>and</En> -->
+  <Score>Score</Score> <!-- <En>Score</En> -->
+  <FloorReached>Verdieping bereikt</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>Kills</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>Speeltijd</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>Kills</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>Gevechtsbeoordeling</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>Bazen verslagen</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>Lobby-items verzameld</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>Volgende beloning op level {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}d</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}u</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}m</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>geen</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>Nieuw record!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>en meer</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>Seed: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 modificator</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} modificatoren</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>Zet {0} goud in</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>Tutorial</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>Bazen gedood</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>Quests voltooid</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>Notities gevonden</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>Kisten geopend</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>Voorwerpen gemaakt</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>Gewoon</Common> <!-- <En>Common</En> -->
+  <Uncommon>Ongewoon</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>Zeldzaam</Rare> <!-- <En>Rare</En> -->
+  <Epic>Episch</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>Ongeïdentificeerd</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>Lobby-item (permanent)</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>Lobby</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>verwond</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>vuur in de buurt</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>hard geluid</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>bondgenoot werd wakker</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>vijandige voetstappen</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>alerte bondgenoot passeert</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>deur ingetrapt</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>Mis</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} mis</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} crit</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>kritiek</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>Kritieke treffer</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>opgeladen</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>Beschikbare recepten</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>Wacht {0}</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>Spoel {0} terug</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>je hebt {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>baby {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>{0}-baas</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>Je lijkt je in een soort kerker te bevinden...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>Je weet niet precies waar je bent, of hoe je hier terecht bent gekomen.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>Alles om je heen voelt wat dromerig. Tegelijkertijd voelt het iets te echt om slechts een droom te zijn.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>Langzaam begin je je iets te herinneren. Je weet in ieder geval je naam.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>Je naam is:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>Je hebt zojuist iemand in de verte opgemerkt, maar je ving slechts een glimp op van zijn schaduw. Je kunt het beter gaan bekijken.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>Je opent langzaam je ogen...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>Je wordt wakker in een ziekenhuis.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"Hij is wakker!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Wat is er gebeurd?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Je was aan het wandelen met je vrienden en liep ernstig hoofdletsel op."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"De reddingswerkers hebben je net op tijd gevonden. Je moet rusten en weer op krachten komen."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Waar is Maya?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Wie is Maya?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Zij vond me als eerste. Is ze oké?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Je bent misschien wat in de war, maar je zult snel herstellen."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>Je bent verbaasd, maar toch heb je dit vreemde gevoel van voldoening. Alsof je op de een of andere manier veranderd bent.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>Je sluit je ogen en haalt diep adem, je verbeeldt de warmte van de zon op je gezicht. De frisse lucht vult je longen en je kunt een glimlach niet onderdrukken.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>Bedankt voor het spelen van de demo!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>Gemaakt door</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>Hoofdmenu-achtergrondafbeelding door</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>Muziek door</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>Logo door</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>Personagemodellen door</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>Geluidseffecten geleverd door</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>Bedankt voor het spelen!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>Het bos... bingo! Je begint je te herinneren wat er gebeurde voordat je hier kwam. Een warme zomerdag, zingende vogels en prachtige bergen aan de horizon - je ging wandelen met je vrienden. Maar toen trok iets je aandacht. Je herinnert je dat je de groep verliet. Maar waarom?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>De grot! Je verliet je groep nadat je iemand om hulp hoorde roepen. In de overtuiging dat het een andere wandelaar in nood was, volgde je de stem naar een grot. Binnenin gleed je uit, viel je en brak je je been. Je riep, maar niemand antwoordde. Alleen en gewond, begon je hoop te vervagen...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>Je zat urenlang alleen in die grot. Toen de nacht viel en het begon te regenen, verloor je bijna alle hoop. Na wat een eeuwigheid leek, zag je een licht bij de ingang van de grot. Het was... Maya! Je was zo opgelucht!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>Je was dolblij om Maya te zien. Ze reikte je haar hand om je omhoog te trekken, en even leek het alsof je het zou redden. Maar door de onophoudelijke regen gleed ze uit en tuimelden jullie beiden naar beneden, waarbij jullie met pijnlijke kracht op de rotsen terechtkwamen. Daarna werd alles stil.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>Uitrusting</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>Maken</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>Identificeren</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>Naam</Name> <!-- <En>Name</En> -->
+  <Level>Level</Level> <!-- <En>Level</En> -->
+  <Experience>Ervaring</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>XP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>Aanval</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>Bekijk alle voorwerpen die je momenteel draagt.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>Bekijk alle recepten die je kunt gebruiken om nieuwe voorwerpen te maken. Dit kan handig zijn als je een vloek moet verwijderen of een ontbrekend ledemaat moet genezen.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>Bekijk alle ongeïdentificeerde voorwerpen in je inventaris.\n\nElk voorwerp wordt na verloop van tijd langzaam geïdentificeerd (tenzij je honger hebt). Het bovenste voorwerp in de lijst wordt als eerste geïdentificeerd.\n\nSleep om de volgorde te wijzigen.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>Je hebt geen ongeïdentificeerde voorwerpen</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>Dit is je identificatiewachtrij. Sleep om te bepalen welk voorwerp als volgende wordt geïdentificeerd naarmate de tijd verstrijkt. Je kunt ook voorwerpen identificeren bij zwervers.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>Vervaardigen</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>aangrenzend</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>je verliest gekochte boosts</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>Nachtmerrieheer</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>Hypnorak</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>Phantasmos</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>Beschikbare vaardigheidspunten</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>Ontgrendelde vaardigheden</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>Ontgrendelde prestaties</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Cancel] om te annuleren</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC om te annuleren</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>Vijanden</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>Bekende leden</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>Je bent hier</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>Als je ervoor kiest om deze kant op te gaan, ontvang je het volgende</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>Waarheen?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>Meer vijanden</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>Minder vijanden</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>Normale vijanden</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>Meer goud</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>Minder goud</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>Normaal goud</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>Aantal vijanden</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>Goudbuit</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>Kristal</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>{0} kristal</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>Genees {0} HP</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>Deze zet laat je in de put vallen. Wil je dit echt doen?\n\nJe valt op een willekeurige plek op de verdieping eronder en verliest wat gezondheid. Je kunt niet terugkomen.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>Deze zet beëindigt je run. Wil je dit echt doen?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Rewind] om terug te spoelen</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Vergeet niet je omgeving te inspecteren met [Inspect].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>Ontsnap!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>Beloning</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>Wat is dit voor plek? Ik moet de uitgang vinden...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>Elke keer als ik hier kom, verandert deze kerker. Maar waarom?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>Elke stap voelt griezelig bekend, bijna alsof ik hier eerder ben geweest.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>Er is iets verderop, ik kan het voelen.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>Heb ik net een gevecht gewonnen of iets begrepen?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>Het voelt alsof alles heeft geleid tot wat er in het verschiet ligt.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>Het voelt alsof... er een last van mijn schouders is gevallen. Vreemd.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>Waarom duurt het zo lang?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>Wat was dat?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>Je bent gestorven</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>Je bent ontsnapt</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>Run voltooid</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>Vind hendel\nom te openen</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>Volg tutorial\nom te openen</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>Help</Help> <!-- <En>Help</En> -->
+  <HelpMe>Help mij</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>Hierheen</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>Houd [Inspect] ingedrukt om te lezen</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>Hoofdmissies</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>Zijmissies</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>Extra's</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>Je kunt missies accepteren en uitstellen in de lobby.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>Let op: sommige missies kunnen alleen worden voltooid in kerkers met voldoende verdiepingen.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>Ontgrendel volgende kerker</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>Bereik het einde van verdieping {0} van deze kerker om de volgende te ontgrendelen.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>Vind puzzelstuk</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>Vind het volgende puzzelstuk op verdieping {0}. Je hebt er momenteel {1}/{2}.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>Geestenredding</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>Er is 1 geest in deze kerker. Bevrijd hem door hem naar de schuilplaats te brengen.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>Er zijn {0} geesten in deze kerker. Bevrijd ze door ze naar de schuilplaats te brengen.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>Waarschuwing: Deze volgelingen worden achtergelaten</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>Kies je spreuk</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>Kies je spreuk ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>Nieuwe spreuk</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>Je snelbalk en spreuken</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>Ontgrendeld op level {0}</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>Je hebt sterrenstof verzameld - een kostbaar betaalmiddel!\n\nSterrenstof kan in de lobby worden uitgegeven om boosts te kopen voor je volgende runs en speciale kamers te ontgrendelen.\n\nAlle items gemarkeerd met \"Lobby-item\" worden meegenomen naar de lobby. Alle andere items gaan verloren als de run eindigt.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>Puzzelstukken zijn, net als sterrenstof, permanente lobby-items.\n\nVerzamel alle {0} stukken verspreid over verschillende runs om een geheime kamer in de lobby te ontgrendelen.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>Je hebt een metgezel.\n\nWanneer je beweegt, verzamelt Roko automatisch gouden munten op de aangrenzende tegels voor je.\n\n1 kaas zorgt ervoor dat Roko je slechts voor 1 run volgt.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>Je hebt nu groepsleden.\n\nJe kunt tussen hen wisselen en hun inventaris afzonderlijk beheren. Elk groepslid is onafhankelijk aan de beurt.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>Max HP +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>Crit. +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>Missen -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% vuur</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>Schop</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>Dit personage kan tegen dingen schoppen.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>Er is een Herinneringsstuk op deze verdieping</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>Zoek ernaar</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>Zoeken</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>Ontdekte items</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>Ontdekte wezens</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>De codex toont items en wezens in hun typische, niet-vervloekte staat. Werkelijke items/wezens kunnen afwijken.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>Dagelijkse uitdaging</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>Klasse</Class> <!-- <En>Class</En> -->
+  <NoClass>Geen klasse\n\nEffecten:\n- Roem en glorie</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>Ontgrendeld op level {0}</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>Effecten</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>Vaardigheden: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>Max HP</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>Max mana</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>Max uithoudingsvermogen</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>{0} schade aan ondoden (skelet, mummie, etc.)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} vuurresistentie</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} kwetsbaarheid voor vuur</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>Hongersnelheid {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>Activeert geen drukplaten</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>Immuun voor gif</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>Immuun voor duwen</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>Honden zijn vijandig</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>Loopgeluid {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>Max verdieping bereikt met deze klasse: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>Max verdieping bereikt zonder klasse: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} ontvangt {1} {2} schade</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} ontvangt {1} {2} schade en sterft</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} XP</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0} ontvangt geen {1} schade</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} krijgt {1} erbij</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} ontvangt {1} {2} schade</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} ontvangt {1} {2} schade en wordt vernietigd</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0} ontvangt geen {1} schade</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} krijgt {1} erbij</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{0}'s {1} is vernietigd</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} blokkeert {1} {2} schade</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} kaatst {1} {2} schade terug naar {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} wordt geduwd</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} wordt getrokken</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} krijgt een nieuwe conditie: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} krijgt een nieuw effect: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{1} is hersteld voor {0}</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{1} wordt hersteld voor {0}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{1} wordt hersteld voor {0}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} is geïdentificeerd</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} is uitgewerkt</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} is uitgewerkt</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} pakt {1} op</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>Het was {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>Het is {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} is {1}! (je moet een vloekverwijderingsperkament vinden of vervaardigen)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>Je {0} is {1}!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>Vloek is verwijderd van {0}</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} teleporteert naar een willekeurige locatie</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} teleporteert</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} opent. Zoek nu de uitgang.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} opent</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>Een poort sluit achter je</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} sist maar lijkt geen effect te hebben</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>Je verhongert</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>Je hebt honger</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>Je hebt {0} gekocht</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>Level omhoog!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>Je kunt een nieuwe spreuk kiezen.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>Level omhoog</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>Schildeffect is geannuleerd omdat je {0} hebt verwond</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} wordt wakker</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>{0} in totaal</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>Je hebt jezelf opgeofferd</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>Je wint</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>Je verliest</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>Je hebt de proef voltooid en {0} ontvangen</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>Je hebt de hiërogliefenpuzzel opgelost en {0} ontvangen</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>Je bent gered door {0}</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0} is gered door {1}</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>De proef is mislukt</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0} is gedupliceerd</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0} is vernietigd</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>Er is hier niets meer</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>Je hebt {0} gevangen</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0} wordt geactiveerd in {1}</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>Je hebt {0} ontvangen</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>Het duivelsbeeld accepteert je {0} en geeft je {1}</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} ontvangt {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} mist</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>{0} is in de buurt verschenen</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} geeft {1} aan {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>De factie {0} is vijandig geworden</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>Je hebt niet alle ingrediënten</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>Dit voorwerp past niet in dit vakje</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} heeft {1} gestolen van {2}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>Je hebt {0} x{1} verzameld</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>Je hebt een vaardigheidspunt verdiend! Open je inventaris om het te gebruiken.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>Je hebt {0} bevrijd en {1} ontvangen</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>Het niveau van {0} is verhoogd</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>Je kunt een vervloekt voorwerp niet uitdoen</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} maakt {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>Op jezelf gebruiken</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>Gebruiken op...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>Drinken</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>Gooien...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>Eten</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>Gooien...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>Val zetten...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>Gooien...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>Planten...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>Op jezelf gebruiken</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>Aanvallen...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>Op jezelf gebruiken</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>Gebruiken op...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>Vullen met...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>Deur barricaderen...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>Jezelf vastketenen</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>Vastketenen...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>Plaatsen...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>Oppakken...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>Vis vangen...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>Hakken...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>Praten...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>Betoveren</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>Graven...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>Jezelf schoppen</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>Schoppen...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} valt zichzelf aan met {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0} valt {2} aan met {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0} gebruikt {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0} gebruikt {1} op {2}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0} drinkt {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0} gooit {1} naar {2}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0} gebruikt {1} op zichzelf</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0} gebruikt {1} op {2}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} gooit {1} naar {2}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0} opent {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0} sluit {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0} graaft {1} op</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0} drinkt uit {1}</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0} betovert uitrusting bij {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} gaat de trap af</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} gaat de trap op</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0} trekt aan {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0} ontvangt een zegen bij {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0} eet {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0} zet {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0} zwemt in {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0} verbrandt in {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0} stapt op {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} teleporteert</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0} gooit {1} naar {2}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0} plant {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0} gebruikt {1} op zichzelf</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0} gebruikt {1} op {2}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0} vult {1} met water</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0} barricadeert {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} ketent zichzelf vast aan een paal</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0} ketent {2} vast aan een paal</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0} plaatst {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0} pakt {2} op</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} verbindt zijn eigen wonden</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0} verbindt de wonden van {2}</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} voert een operatie uit</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0} opereert {2}</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0} doorzoekt {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0} gokt bij {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0} drukt op {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0} begint een uitdaging bij {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0} dupliceert een voorwerp bij {1}</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0} vangt vis bij {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} blust zichzelf</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0} blust {2}</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0} onderzoekt {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} doorzoekt {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} slaapt in {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} hakt {2} met {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} praat met {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} betovert een voorwerp met {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} graaft {2} met {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} offert een ledemaat bij {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} roept een fantoom op bij {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} bevrijdt een geest bij {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} ruimt {1} op</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} verdient een vaardigheidspunt bij {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} schopt zichzelf</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} schopt {2}</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} verbetert uitrusting bij {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} offert een vervloekt voorwerp aan {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>omhoog</Up> <!-- <En>up</En> -->
+  <Down>omlaag</Down> <!-- <En>down</En> -->
+  <North>noord</North> <!-- <En>north</En> -->
+  <South>zuid</South> <!-- <En>south</En> -->
+  <West>west</West> <!-- <En>west</En> -->
+  <East>oost</East> <!-- <En>east</En> -->
+  <NorthWest>noordwest</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>noordoost</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>zuidwest</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>zuidoost</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>omhoog-noord</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>omhoog-zuid</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>omhoog-west</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>omhoog-oost</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>omhoog-noordwest</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>omhoog-noordoost</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>omhoog-zuidwest</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>omhoog-zuidoost</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>omlaag-noord</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>omlaag-zuid</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>omlaag-west</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>omlaag-oost</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>omlaag-noordwest</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>omlaag-noordoost</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>omlaag-zuidwest</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>omlaag-zuidoost</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>Start</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>Einde</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>Hefboom</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>Ladder</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>Baas</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Kans op verrassingsaanval</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>Dit personage heeft je vorige beurt niet gezien, dus je brengt {0} meer schade toe als je nu aanvalt.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>Boven je</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>Dit personage is momenteel boven je, wat betekent dat het {0} meer schade toebrengt als het je vanuit deze positie raakt.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>Onder je</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>Dit personage bevindt zich momenteel onder je, wat betekent dat je {0} meer schade aanricht als je ze vanuit deze positie raakt.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>Kan je niet zien</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>Dit personage ziet je niet (ze kunnen niet zo ver zien als jij). Maar pas op - ze herinneren zich mogelijk nog je laatste positie en willen die gaan controleren!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>Valt</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>Dit personage valt, wat betekent dat hun volgende beurt zal worden besteed aan naar beneden vallen in plaats van het uitvoeren van een actie.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>Ongeïdentificeerd effect</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>Een onbekend effect. Het komt van een ongeïdentificeerd voorwerp.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>Je bent omringd door minstens 2 vijanden, wat betekent dat je {0} meer schade aanricht aan dit personage als je ze vanuit deze positie raakt.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Ongeïdentificeerd effect</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>Een onbekend effect. Het komt van een ongeïdentificeerd voorwerp.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nDit is de huidige speeltijd. Eén minuut staat voor één beurt.\n\nHet hele spel is turn-based. De meeste acties duren één beurt, zoals lopen, een drankje drinken, aanvallen of interactie met dingen.\n\nTotaal aantal beurten: {2}.\nOp deze verdieping: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>Dit zijn de levenspunten van je personage.\n\nBepaalde voorwerpen kunnen je maximale levenspunten verhogen. Elk level geeft je {0} extra maximale levenspunten.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>Indien niet hongerig of uitgehongerd, wordt {0} genezen elke {1}.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>Volgend levenspunt genezen in: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>Je verliest levenspunten omdat het boven het maximum is.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>Je verliest mana omdat het boven het maximum is.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>Je verliest stamina omdat het boven het maximum is.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>Dit voorwerp wordt geïdentificeerd na {0}. Sleep en zet neer om de volgorde te wijzigen.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>Dit voorwerp is {0}. Dankzij je onberispelijke perceptie kun je echter zien dat het een van de volgende is:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>Voorwerpen zoals deze worden permanent geïdentificeerd zodra ze gebruikt zijn.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>Dit voorwerp is {0}. Het kan onbekende effecten hebben en {1} zijn (je kunt {1} voorwerpen niet uitdoen). Zwervers kunnen je helpen met identificatie.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>Dit voorwerp is {0}. Je kunt {0} voorwerpen niet uitdoen (zonder een vloekverwijderingsperkament).</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>Gefeliciteerd!;Je kunt het!;Ik heb altijd in je geloofd!;Bijna daar!;Ik wou dat ik net zo geweldig was als jij!;Indrukwekkend!;Ga zo door!;Je bent de beste!;Je hebt het gehaald!;Goed gedaan!;Je bent geweldig!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>Welkom op verdieping 1.\n\nJe reis begint hier, ook al is het misschien niet de eerste keer dat je dit bord leest.\n\nSommige dingen lijken in het begin misschien moeilijk, maar dat is niet erg. Bovenal moeten we onthouden - verliezen is leuk!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>Welkom op verdieping {0}.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>Hier pauzeert elke ziel om zijn weg te vinden.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>Verslagen op de {0}.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>Het aantal goudstukken dat je in je inventaris hebt. Er zijn misschien mensen in deze kerker die willen ruilen.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>Volgende {0} verschijnt in</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>Verschijnt niet meer</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>Verdwijnt in {0}.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>Verspreidt zich in {0}.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>Volgende actie in {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>Activeert in {0}.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>Bron</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>Bron: Moeilijkheidsgraad</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>Aanwezig sinds</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>Druk op [Fly]+[MoveForward] om omhoog te gaan en [Fly]+[MoveBack] om omlaag te gaan.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>Houd [Fly] ingedrukt om de deur in te trappen.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>Druk op [Rewind] om de tijd terug te spoelen.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>Het gebruik van dit voorwerp kost geen beurt.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>Het gebruik van dit voorwerp kost {0} van een beurt.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>Het gebruik van dit voorwerp kost {0} beurten.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>Het uitspreken van deze spreuk kost geen beurt.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>Het uitspreken van deze spreuk kost {0} van een beurt.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>Het uitspreken van deze spreuk kost {0} beurten.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>Dit doen kost geen beurt.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>Dit doen kost {0} van een beurt.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>Dit doen kost {0} beurten.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>Interactie met dit object kost geen beurt.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>Interactie met dit object kost {0} van een beurt.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>Interactie met dit object kost {0} beurten.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>Dit object is brandbaar.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>Je kunt dit alleen gebruiken als niemand je ziet.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>Dit object is breekbaar (explosies zullen het vernietigen).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>Identificatie is gestopt omdat je honger hebt.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>Klik om op te pakken.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>Klik om te interageren.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>Klik om te kopen.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>Interacteer om op te pakken.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>Interacteer met dit object.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>Interacteer om te kopen.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>Dit voorwerp verdwijnt na het afdalen.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>Dit is je voortgang naar het volgende level. Je kunt ervaring opdoen door vijanden te verslaan.\n\nXP tot volgend level: {0}\nHuidig level: {1}\nTotale ervaring: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>Dit is je huidige level. Je kunt in level stijgen door vijanden te verslaan.\n\nElk level geeft je {0} extra maximale levenspunten. Bovendien kun je elke keer dat je in level stijgt een nieuwe spreuk kiezen.\n\nXP tot volgend level: {2}\nTotale ervaring: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>Dit is je huidige level, gebaseerd op de totale score van al je runs. Je kunt score verdienen door vijanden te verslaan en verder te komen in het spel.\n\nScore tot volgend level: {0}\nTotale score: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>Dit is je huidige verzadigingsniveau: {0}/{1}\n\nJe moet periodiek eten om je honger te stillen en de gevolgen te vermijden.\n\nZodra het verzadigingsniveau {2} bereikt, krijg je honger - je zult geen levenspunten regenereren of voorwerpen identificeren.\n\nZodra het verzadigingsniveau {3} bereikt, raak je uitgehongerd - je zult geen stamina regenereren en je zult langzaam levenspunten verliezen.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>Dit is de huidige kerkerverdieping. Hoe dieper je gaat, hoe moeilijker het wordt om te overleven, maar ook hoe leuker het wordt!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>Geeft {0} ervaring</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>Waarschuwing: Indien gedood, zullen alle leden van deze factie vijandig worden.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>Tactiek: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>Dit personage zal je volgen naar de volgende verdieping.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>Condities</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>Wapen</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>Spreuken</Spells> <!-- <En>Spells</En> -->
+  <Talk>Praten</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>Bij overlijden</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>Gedragen</Worn> <!-- <En>Worn</En> -->
+  <Inventory>Inventaris</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>Info</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>Kost {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>Kost {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>Dit is de mana van je personage.\n\nHet uitspreken van spreuken en het gebruiken van magische voorwerpen kost mana. Mana regenereert niet automatisch over tijd, het kan alleen worden bijgevuld door manadrankjes te drinken of door interactie met speciale objecten. De manabalk is verborgen als je geen spreuken hebt.\n\nJe kunt elke keer dat je in level stijgt een nieuwe spreuk kiezen.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>Dit is de stamina van je personage.\n\nHet gebruik van bepaalde voorwerpen kan stamina vereisen. De staminabalk is verborgen als je geen voorwerpen in je inventaris hebt die stamina vereisen.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>Indien niet uitgehongerd, regenereert {0} elke {1}.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>Volgende stamina regenereert in: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>Kies een nieuwe spreuk. Je kunt elke keer dat je in level stijgt een nieuwe spreuk kiezen.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>vlucht bij lage HP</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>Met het horloge kun je de tijd naar believen terugspoelen! Spoel de laatste beurt terug door op [Rewind] te drukken.\n\nGebruik het wanneer de uitkomst van je recente acties je niet bevalt of als je gewoon verkeerd hebt geklikt.\n\nHet horloge heeft een limiet voor hoeveel beurten je in één keer kunt terugspoelen, maar het laadt elke {0} beurten op. In tegenstelling tot andere tijdmanipulatie-items zoals terugspoelperkamenten, verliest het horloge al zijn resterende ladingen wanneer je een ongeïdentificeerd drankje of perkament gebruikt, een vervloekt voorwerp uitrust, op een val stapt of een zilveren sleutel gebruikt.\n\nAlle acties in Ricave zijn deterministisch, wat betekent dat na het terugspoelen alles precies hetzelfde zal verlopen als voorheen als je dezelfde zet opnieuw doet, inclusief dezelfde schade en vijanden die dezelfde beslissingen nemen. De tijd terugspoelen alleen om een hogere schade te gooien, zal niet werken.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>Vult aan in: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>Sterrenstof kan op verschillende plaatsen in de kerker worden gevonden of als beloning worden aangeboden voor het voltooien van een missie. Je kunt sterrenstof uitgeven in de lobby.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>Verzamel alle {0} puzzelstukjes om een speciale kamer in de lobby te ontgrendelen. Er is één puzzelstukje op elke verdieping van de kerker, en je kunt slechts één stukje per run vinden.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>Volgend puzzelstukje op verdieping: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>Bereik: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>Contactgevecht</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>je bent binnen bereik</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>je bent buiten bereik</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>Pak geplaatste objecten op in je privékamer.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>Je kijkt momenteel naar {0}.\n\nBeweeg met "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nBeweeg zijwaarts met "[MoveLeft]" en "[MoveRight]".\nGa omhoog en omlaag met "[Fly]+[MoveForward]" en "[Fly]+[MoveBack]" als je personage kan vliegen.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>Krijgt schade over {0}.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>Krijgt HP over {0}.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>Krijgt stamina over {0}.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>Krijgt mana over {0}.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>Staminaregeneratie is uitgeschakeld omdat dit personage de grond niet raakt.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>Staminaregeneratie is uitgeschakeld omdat je de grond niet raakt.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>Afkoeltijd: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>{0} resterend</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>Ontgrendel eerst {0}</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>Je hebt geen vaardigheidspunten</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>Klik om te ontgrendelen</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>Interacteer om te ontgrendelen</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>Effecten</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>Alle poorten zijn open en iedereen is wakker. Je moet nu ontsnappen!\n\nBovendien zullen er twee keer zoveel ratten verschijnen.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>Roko verzamelt goudstukken op de aangrenzende tegels voor je wanneer je beweegt.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>Tip: Je kunt de codex raadplegen voor typische statistieken</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>Sorteer inventarisvoorwerpen</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>Uitdoen</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>Aandoen</Equip> <!-- <En>Equip</En> -->
+  <Unwear>Uittrekken</Unwear> <!-- <En>Take off</En> -->
+  <Wear>Aantrekken</Wear> <!-- <En>Wear</En> -->
+  <Drop>Laten vallen</Drop> <!-- <En>Drop</En> -->
+  <Destroy>Vernietigen</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>Mengen met {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>Bekijken</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>Ga naar</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>Gebruik {0} op</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>Interageren met</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>Uitgeschakeld</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>Geef {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>dood</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>Geen ruimte</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>Huidig uitgerust voorwerp is vervloekt</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>chique, machtig, almachtig, krachtig, eng, verrukkelijk, indrukwekkend, energiek, verleidelijk, mooi, lieflijk, spannend, schattig, slim, fascinerend, onhandig, onoverwinnelijk, klein, groot, angstaanjagend, blij, verdrietig, wiebelig, raar, gek, opwindend, knap, aanlokkelijk</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>hommel, simpel, mutsje, citroen, brabbel, rommel, pinda, bloei, bommel, lolly, poppel, spek, gerommel, donder, dondel, doppel, brobbel, kip, paars, wiebel, gebabbel, friemel, dingel, plons, waggel, tingel, krabbel</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>klauw, waard, werf, zoon, barbel, mark, ton, bon, gon, hoef, steen, been, happer, blob, poef, lach, bach, dorie, snarf, flop, plop, boef, blaat, snark, bork</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>Geest van {0}</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>Gelach, Verandering, Hoop, Eenzaamheid, Harmonie, Vastberadenheid, Vreugde, Angst, Woede, Verdriet, Liefde, Verrassing, Walging, Nieuwsgierigheid, Hoop, Wanhoop, Vertrouwen, Scepsis, Moed, Schuld, Schaamte, Dankbaarheid, Afgunst, Opluchting, Verveling, Kalmte, Nostalgie, Veerkracht, Empathie, Verwachting, Spijt, Ontzag, Nederigheid, Frustratie, Minachting</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>Geen</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Enter</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Spatie</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>Linkermuisknop</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>Rechtermuisknop</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>Middelste muisknop</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Windows-toets</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>Linker Trigger</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>Rechter Trigger</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>Linker Bumper</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>Rechter Bumper</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>Terug-knop</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>Startknop</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>Linker Stick Klik</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>Rechter Stick Klik</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Kill</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>Dubbele kill</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>Driedubbele kill</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>{0} kill-combo</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>Nieuwe verdieping</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>Proef voltooid</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>{0} kill</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>ochtend</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>dag</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>avond</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>nacht</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>VERDEDIGER</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>KRIJGER</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>AVONTURIER</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>rood</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>groen</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>blauw</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>Leo</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>Eve</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Hulpmiddelen</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>Drankjes</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>Boekrollen</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>Wapens en uitrusting</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

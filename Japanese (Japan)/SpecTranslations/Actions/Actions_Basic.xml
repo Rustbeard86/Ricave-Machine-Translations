@@ -1,0 +1,24 @@
+<SpecTranslations>
+
+  <ChooseSpell.label>呪文を選択</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>新たな呪文「{0}」が選択された</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>移動</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0}は{1}に移動した</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>アイテムを拾う</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>{0}は{1}を拾った</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>呪文を並べ替える</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>{1}の順番が変更された</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>眠る</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>{0}は眠った</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>使う</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>{0}は{2}に{1}を使った</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>待機</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>{0}は待機した</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

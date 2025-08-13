@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>berserker</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>Nemrég megöltél valakit. Rövid ideig 25%-kal több fizikai sebzést okozol és szenvedsz el.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>vérzés</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>Ez a karakter vérzik, és addig veszít életerőt, amíg be nem kötözik.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>vérzés ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>vak</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>Ez a karakter csak a szomszédos tárgyakat érzékeli, és az esetek 30%-ában elvéti a támadást.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>csonttörés</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>Ennek a karakternek csonttörése van, ami miatt kevesebb fizikai sebzést okoz.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>Ennek a karakternek csonttörése van, ami miatt {0} kevesebb fizikai sebzést okoz.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>égő</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>Ez a karakter ég, ami azt jelenti, hogy minden körben veszít egy bizonyos mennyiségű életerőpontot.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>égő ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>kritikus találat esélye megváltozott</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>Befolyásolja a karakter által okozott kritikus találat esélyét.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>kritikus találat esélye: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>életerővesztés</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>Ez a karakter életerőt veszít.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>életerővesztés ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>okozott sebzés szorzója</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>A karakter által okozott sebzést ez a szorzó módosítja.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>okozott {1} sebzés: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>okozott sebzés módosító</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>Ez az érték hozzáadódik (vagy kivonódik) a karakter által okozott sebzéshez. Ha ez az érték egy tartomány, akkor egy véletlenszerű érték kerül felhasználásra a tartományból.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>okozott {1} sebzés: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>betegség</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>Ez a karakter beteg, ami megakadályozza a természetes gyógyulást, és képtelenné teszi a repülésre.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>részeg</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>Ez a karakter részeg, ami azt jelenti, hogy minden körben véletlenszerű irányba mozog. Ebben az állapotban semmi mást nem tehet.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>gubancolódott</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>Ez a karakter gubancolódott, ami azt jelenti, hogy nem tud mozogni. Azonban a jelenlegi pozíciójából még tud támadni.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>fagyott</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>Ez a karakter fagyott, ami azt jelenti, hogy a várakozáson kívül semmi mást nem tehet ebben az állapotban.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>életerő-regeneráció</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>Ennek a karakternek az életereje idővel automatikusan regenerálódik.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>életerő-regeneráció ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>éhség mértéke</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>Befolyásolja, hogy ez a karakter milyen gyorsan éhezik meg.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>éhes</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>Éhes vagy, enned kell valamit. Ez megállítja az életerő-regenerációt és a tárgyak azonosítását.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>azonosítási mérték</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>Befolyásolja, hogy ez a karakter milyen gyorsan azonosítja a tárgyakat.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>azonosítási mérték: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>betegségre immunis</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>Ez a karakter immunis a betegségre.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>tűzre immunis</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>Ez a karakter immunis a tűzre.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>méregre immunis</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>Ez a karakter immunis a méregre.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>páncél</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>A karakter által elszenvedett sebzés szorzója. Ha az érték 1-nél nagyobb, akkor sebezhetőséget jelent. Ha az érték 0, akkor immunitást.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>elszenvedett {1} sebzés: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>páncél</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>Ez az érték hozzáadódik (vagy kivonódik) a karakter által elszenvedett sebzéshez. Ha ez az érték egy tartomány, akkor egy véletlenszerű érték kerül felhasználásra a tartományból.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>elszenvedett {1} sebzés: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>ellenséges a szövetségesekkel</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>Ez a karakter berszerker állapotban van, és megtámadja a szokásos szövetségeseit.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>tud repülni</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>Ez a karakter tud repülni. A repülő karakterek képesek közvetlenül fel-le mozogni.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>mana-regeneráció</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>Ennek a karakternek a manája idővel automatikusan regenerálódik.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>mana-regeneráció ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>max ÉP megváltozott</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>Befolyásolja a karakter maximális életerőpontjainak számát.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>max ÉP: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>max ÉP megváltozott</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>Befolyásolja a karakter maximális életerőpontjainak számát.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>max ÉP: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>max mana megváltozott</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>Befolyásolja a karakter maximális manapontjainak számát.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>max mana: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>max állóképesség megváltozott</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>Befolyásolja a karakter maximális állóképesség-pontjainak számát.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>max állóképesség: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>elvétés esélye megváltozott</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>Befolyásolja az elvétés esélyét, amikor ez a karakter támad.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>elvétés esélye: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>pánik</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>Ez a karakter pánikban van, és minden körben a legközelebbi ellenségtől távolodik. Ebben az állapotban semmi mást nem tehet.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>mérgezett</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>Ez a karakter mérgezett, ami azt jelenti, hogy minden körben vagy néhány körönként elveszít egy bizonyos mennyiségű életerőpontot.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>mérgezett ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>látótávolság</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>Befolyásolja a maximális távolságot, ahonnan ez a karakter látja a többi tárgyat és karaktert.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>látótávolság: Max {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>látótávolság</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>Befolyásolja a maximális távolságot, ahonnan ez a karakter látja a többi tárgyat és karaktert.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>látótávolság: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>karakter cselekvési gyakoriságának változása</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>Befolyásolja a karakter számára körönként engedélyezett mozgások számát.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>nem tud megsebezni</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>Védve vagy a karakter támadásaitól a következő körig. Azonban, ha sebzést okozol a karakternek, a hatás megszűnik. Vedd figyelembe, hogy ártalmatlan varázslatokat nyugodtan használhatsz.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>alszik</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>Ez a karakter alszik. Felébred, ha megközelítik vagy megzavarják.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>nyomot hagy</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>Ez a karakter nyomot hagy, amikor mozog.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>{0} nyomát hagyja</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>állóképesség-regeneráció</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>Ennek a karakternek az állóképessége idővel automatikusan regenerálódik.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>állóképesség-regeneráció ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>éhező</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>Éhezel, enned kell valamit. Az életerő-regeneráció és a tárgyazonosítás hiánya mellett az állóképesség-regenerációd is leáll, és idővel lassan veszítesz az életerődből. Az éhség okozta hátrányok ennél tovább nem súlyosbodnak.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>éhező ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>Nyomorítás Próbája</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>A Nyomorítás Próbája folyamatban van ennél a karakternél. Rövid időn belül el kell pusztítania egy bizonyos számú testrészt, hogy teljesítse a kihívást és jutalmat kapjon.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>Nyomorítás Próbája ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>A Nyomorítás Próbája folyamatban van ennél a karakternél. {1} körön belül el kell pusztítania {0} testrészt, hogy teljesítse a kihívást és jutalmat kapjon.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>Fürge Gyilkos Próbája</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>A Fürge Gyilkos Próbája folyamatban van ennél a karakternél. Rövid időn belül meg kell ölnie egy bizonyos számú méltó ellenfelet, hogy teljesítse a kihívást és jutalmat kapjon.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>Fürge Gyilkos Próbája ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>A Fürge Gyilkos Próbája folyamatban van ennél a karakternél. {1} körön belül meg kell ölnie {0} méltó ellenfelet, hogy teljesítse a kihívást és jutalmat kapjon.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>Szeplőtelen Próbája</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>A Szeplőtelen Próbája folyamatban van ennél a karakternél. Meg kell ölnie egy bizonyos számú méltó ellenfelet anélkül, hogy életerőpontot veszítene, hogy teljesítse a kihívást és jutalmat kapjon.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>Szeplőtelen Próbája ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>A Szeplőtelen Próbája folyamatban van ennél a karakternél. Meg kell ölnie {0} méltó ellenfelet anélkül, hogy életerőpontot veszítene, hogy teljesítse a kihívást és jutalmat kapjon.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>vizes</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>Ez a karakter vizes, ami 50%-os tűzsebzés-ellenállást ad neki, de az állóképessége kétszer lassabban regenerálódik.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

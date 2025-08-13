@@ -1,4 +1,4 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <Introduction.label>Nuevo hogar</Introduction.label> <!-- <En>New home</En> -->
   <Introduction.description>Entra a la mazmorra y mata a 3 esqueletos.</Introduction.description> <!-- <En>Enter the dungeon and kill 3 skeletons.</En> -->
@@ -8,27 +8,27 @@
   <MemoryPiece1.label_2>Pérdida de memoria</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
   <MemoryPiece1.description_2>Encuentra el primer Fragmento de Memoria en el piso 3.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
   <MemoryPiece1.YouveLostYourMemoryBut>Has perdido la memoria, pero hay algo que puede ayudarte a recordar lo que pasó antes de que llegaras aquí.\n\nEncuentra el primer Fragmento de Memoria en el tercer piso.\n\nTodo esto puede parecer un desafío al principio, pero con cada paso, te acercarás más a desbloquear tus recuerdos olvidados.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
-  <MemoryPiece1.dungeonModifiers>Fragmento de Memoria en el piso 3</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+  <MemoryPiece1.dungeonModifiers><li>Pieza de Memoria en el piso 3</li></MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
 
   <MemoryPiece2.label_2>Pérdida de memoria: Separación</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
   <MemoryPiece2.description_2>Encuentra el segundo Fragmento de Memoria en el piso 4.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
   <MemoryPiece2.YoureMakingProgressYou>Estás progresando. Poco a poco empiezas a recordar lo que pasó: fuiste de excursión con tus amigos. Para tu sorpresa, Maya también está aquí.\n\nEncontrar el segundo Fragmento de Memoria te ayudará a recordar lo que sucedió después. Debería estar en manos del minijefe en el 4.º piso.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
-  <MemoryPiece2.dungeonModifiers>Fragmento de Memoria en el piso 4</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+  <MemoryPiece2.dungeonModifiers><li>Pieza de Memoria en el piso 4</li></MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
 
   <MemoryPiece3.label_2>Pérdida de memoria: Cueva</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
   <MemoryPiece3.description_2>Encuentra el tercer Fragmento de Memoria en el piso 6.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
   <MemoryPiece3.YoureStartingToRemember>Estás empezando a recordar lo que pasó. Te separaste de tu grupo y te topaste con una cueva. Desafortunadamente, resbalaste y te rompiste la pierna. ¿Pero qué pasó después?\n\nEncuentra el tercer Fragmento de Memoria. Debería estar ubicado en algún lugar del 6.º piso, y asegúrate de llevar una cuerda contigo.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
-  <MemoryPiece3.dungeonModifiers>Fragmento de Memoria en el piso 6</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+  <MemoryPiece3.dungeonModifiers><li>Pieza de Memoria en el piso 6</li></MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
 
   <MemoryPiece4.label_2>Pérdida de memoria: Rescate</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
   <MemoryPiece4.description_2>Encuentra el último Fragmento de Memoria en el piso 8.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
   <MemoryPiece4.YoureAlmostThereSurprisingly>Ya casi llegas. Sorprendentemente, fue Maya quien te encontró en esa cueva. Sin embargo, todavía no entiendes por qué estás aquí. Necesitas más respuestas.\n\nEncuentra el último Fragmento de Memoria. Debería estar ubicado en algún lugar del 8.º piso, en una trampa de veneno.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
-  <MemoryPiece4.dungeonModifiers>Fragmento de Memoria en el piso 8</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+  <MemoryPiece4.dungeonModifiers><li>Pieza de Memoria en el piso 8</li></MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
 
   <RescueLobbyShopkeeper.label>Rescate</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
   <RescueLobbyShopkeeper.description>Rescata al amigo de Sombra en el 2.º piso.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
   <RescueLobbyShopkeeper.ToGetMoreInformation>Para obtener más información de Sombra, primero debes rescatar a su amigo. Está encerrado en una jaula en algún lugar del segundo piso de esta mazmorra.\n\nTen en cuenta que puedes completar misiones en cualquier mazmorra, siempre que tenga suficientes pisos. Cuanto más avances, más pisos tendrán las mazmorras.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
-  <RescueLobbyShopkeeper.dungeonModifiers>Una persona para rescatar en el piso 2</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
-  <RescueLobbyShopkeeper.extraRewards>Desbloquea una nueva sala en el vestíbulo</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers><li>Una persona a rescatar en el piso 2</li></RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards><li>Desbloquea una nueva sala en el lobby</li></RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
 
 </SpecTranslations>

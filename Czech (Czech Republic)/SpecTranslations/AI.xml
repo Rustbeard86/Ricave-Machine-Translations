@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>přiblíží se a zaútočí, poté ustoupí, aby se vyhnul zásahu</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>zaútočí, poté 8 kol utíká, pokud není zahnán do kouta</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>nepřiblíží se jako první, ale zůstane na místě, jakmile se k němu někdo přiblíží</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>neustále utíká</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>udržuje si odstup, pokud není zahnán do kouta</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>udržuje si odstup, pokud není zahnán do kouta nebo nemá zbraň</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>následuje hráče a útočí (člen družiny)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>následuje hráče a útočí, když se naskytne příležitost</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>přiblíží se a zaútočí</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>stojí na místě nebo uteče, pokud je napaden</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>stojí na místě</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>stojí na místě a léčí spojence</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>stojí na místě nebo uteče, pokud je napaden</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>krade, poté uteče</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,64 @@
+<SpecTranslations>
+
+  <AllIn.label>alles of niets</AllIn.label> <!-- <En>all in</En> -->
+  <AllIn.description>Begin met extra vaardigheidspunten, maar je kunt er nooit meer nieuwe verkrijgen.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
+  <AllIn.goodEffects>Begin met 3 vaardigheidspunten</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects>Kan geen vaardigheidspunten meer krijgen</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+
+  <Angel.label>engel</Angel.label> <!-- <En>angel</En> -->
+  <Angel.description>Krijg de mogelijkheid om te vliegen en doe meer schade aan de Demoon, ten koste van kwetsbaarheid voor vuur-, gif- en magieschade.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
+
+  <Berserker.label_2>berserker</Berserker.label_2> <!-- <En>berserker</En> -->
+  <Berserker.description_2>Tijdelijk meer schade toebrengen na elke verdienstelijke doding, maar ook kwetsbaarder worden.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
+  <Berserker.goodEffects>Veroorzaak 25% meer fys. schade voor 6 beurten na een verdienstelijke doding</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects>Ontvang 25% meer fys. schade voor 6 beurten na een verdienstelijke doding</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+
+  <BossHunter.label>bazenjager</BossHunter.label> <!-- <En>boss hunter</En> -->
+  <BossHunter.description>Doe meer schade aan alle bazen, maar ze beginnen wakker.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
+  <BossHunter.badEffects>Alle bazen beginnen wakker</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+
+  <Bulky.label>log</Bulky.label> <!-- <En>bulky</En> -->
+  <Bulky.description>Krijg meer max HP per level ten koste van luidere bewegingen.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
+
+  <Explorer.label>verkenner</Explorer.label> <!-- <En>explorer</En> -->
+  <Explorer.description>Begin met extra uitrusting en vind meer goud ten koste van verminderde max stamina en mana.</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
+
+  <Giant.label>reus</Giant.label> <!-- <En>giant</En> -->
+  <Giant.description>Word immuun voor duwen en trekken, en krijg een kleine boost voor max HP ten koste van een verhoogde hongersnelheid, hogere valschade en hogere prijzen.</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
+
+  <Insectoid.label>insectoïde</Insectoid.label> <!-- <En>insectoid</En> -->
+  <Insectoid.description>Word vrienden met spinnen en krijg wat gifresistentie ten koste van vijandige zwervers en kwetsbaarheid voor vuur.</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
+
+  <LastStand.label>laatste verzet</LastStand.label> <!-- <En>last stand</En> -->
+  <LastStand.description>Doe meer schade als je weinig HP hebt ten koste van langzamere stamina-regeneratie.</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
+
+  <LizardSkin.label>hagedissenhuid</LizardSkin.label> <!-- <En>lizard skin</En> -->
+  <LizardSkin.description>Krijg immuniteit tegen gif, bloedingen en botbreuken, en genees sneller ten koste van gehalveerde max HP.</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
+
+  <MoleRat.label>molrat</MoleRat.label> <!-- <En>mole-rat</En> -->
+  <MoleRat.description>Krijg de mogelijkheid om te graven en wat elementaire resistentie ten koste van minder max HP per level.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
+  <MoleRat.goodEffects>Kan graven zonder schop</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+
+  <NightOwl.label>nachtuil</NightOwl.label> <!-- <En>night owl</En> -->
+  <NightOwl.description>Zie beter 's nachts, maar slechter overdag.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
+  <NightOwl.goodEffects>+1 zichtbereik van 19:00 tot 7:00</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects>-1 zichtbereik van 7:00 tot 19:00</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+
+  <Pacifist.label_2>pacifist</Pacifist.label_2> <!-- <En>pacifist</En> -->
+  <Pacifist.description>Alle winkelitems zijn gratis en je stijgt twee keer zo snel in level, maar elke verdienstelijke doding kost je 1 HP.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
+
+  <Scary.label>angstaanjagend</Scary.label> <!-- <En>scary</En> -->
+  <Scary.description>Alle vijanden raken in paniek als ze door jou gewekt worden, ten koste van hogere prijzen, vijandige culten en verminderde max stamina. Bovendien zullen alle geesten je volgen en geen buit achterlaten.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
+  <Scary.goodEffects>Vijanden raken 3 beurten in paniek als ze door jou gewekt worden</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects>Geesten volgen je en laten geen buit achter</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+
+  <Shaman.label>sjamaan</Shaman.label> <!-- <En>shaman</En> -->
+  <Shaman.description>Krijg een manapunt voor elke verdienstelijke doding ten koste van minder inventarisplekken.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
+
+  <Vampire.label>vampier</Vampire.label> <!-- <En>vampire</En> -->
+  <Vampire.description>Herwin één levenspunt voor elke verdienstelijke doding ten koste van uitgeschakelde levensregeneratie overdag, kwetsbaarheid voor vuur en vijandige honden.</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
+  <Vampire.badEffects><li>Geen levensregeneratie van 7:00 tot 19:00</li><li>-1 zichtbereik van 7:00 tot 19:00</li><li>Vijandig tegenover honden</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <li>-1 vision range from 7:00 to 19:00</li>
+  <li>Hostile to dogs</li></En> -->
+
+</SpecTranslations>

@@ -1,0 +1,64 @@
+<SpecTranslations>
+
+  <AllIn.label>all in</AllIn.label> <!-- <En>all in</En> -->
+  <AllIn.description>Börja med extra färdighetspoäng, men du kan aldrig få fler.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
+  <AllIn.goodEffects>Börja med 3 färdighetspoäng</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects>Kan inte få fler färdighetspoäng</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+
+  <Angel.label>ängel</Angel.label> <!-- <En>angel</En> -->
+  <Angel.description>Ger förmågan att flyga och gör mer skada på Demonen, men du blir sårbar mot eld-, gift- och magiskada.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
+
+  <Berserker.label_2>bersärk</Berserker.label_2> <!-- <En>berserker</En> -->
+  <Berserker.description_2>Gör tillfälligt mer skada efter varje värdigt dråp, men blir också mer sårbar.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
+  <Berserker.goodEffects>Gör 25 % mer fys. skada i 6 turer efter ett värdigt dråp</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects>Tar 25 % mer fys. skada i 6 turer efter ett värdigt dråp</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+
+  <BossHunter.label>bossjägare</BossHunter.label> <!-- <En>boss hunter</En> -->
+  <BossHunter.description>Gör mer skada på alla bossar, men de börjar vakna.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
+  <BossHunter.badEffects>Alla bossar börjar vakna</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+
+  <Bulky.label>kraftig</Bulky.label> <!-- <En>bulky</En> -->
+  <Bulky.description>Få mer max-HP per nivå i utbyte mot att dina rörelser låter mer.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
+
+  <Explorer.label>utforskare</Explorer.label> <!-- <En>explorer</En> -->
+  <Explorer.description>Börja med extra utrustning och hitta mer guld i utbyte mot sänkt maxuthållighet och mana.</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
+
+  <Giant.label>jätte</Giant.label> <!-- <En>giant</En> -->
+  <Giant.description>Bli immun mot att knuffas och dras, och få en liten bonus till max-HP i utbyte mot ökad hunger, högre fallskada och högre priser.</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
+
+  <Insectoid.label>insektoid</Insectoid.label> <!-- <En>insectoid</En> -->
+  <Insectoid.description>Bli vän med spindlar och få viss giftresistens i utbyte mot att vandrare blir fientliga och du blir sårbar mot eld.</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
+
+  <LastStand.label>sista striden</LastStand.label> <!-- <En>last stand</En> -->
+  <LastStand.description>Gör mer skada när du har låg HP i utbyte mot långsammare uthållighetsåterhämtning.</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
+
+  <LizardSkin.label>ödleskinn</LizardSkin.label> <!-- <En>lizard skin</En> -->
+  <LizardSkin.description>Få immunitet mot gift, blödning och benbrott, och läk snabbare i utbyte mot halverad max-HP.</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
+
+  <MoleRat.label>mullvadsråtta</MoleRat.label> <!-- <En>mole-rat</En> -->
+  <MoleRat.description>Ger förmågan att gräva och få viss elementär resistens i utbyte mot att du får mindre max-HP per nivå.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
+  <MoleRat.goodEffects>Kan gräva utan spade</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+
+  <NightOwl.label>nattuggla</NightOwl.label> <!-- <En>night owl</En> -->
+  <NightOwl.description>Ser bättre på natten, men sämre under dagen.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
+  <NightOwl.goodEffects>+1 synfält från 19:00 till 7:00</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects>-1 synfält från 7:00 till 19:00</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+
+  <Pacifist.label_2>pacifist</Pacifist.label_2> <!-- <En>pacifist</En> -->
+  <Pacifist.description>Alla föremål i butiken är gratis och du går upp i nivå dubbelt så snabbt, men varje värdigt dråp kostar dig 1 HP.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
+
+  <Scary.label>skrämmande</Scary.label> <!-- <En>scary</En> -->
+  <Scary.description>Alla fiender får panik om de väcks av dig i utbyte mot högre priser, att kulter blir fientliga och sänkt maxuthållighet. Dessutom kommer alla spöken att följa dig och inte tappa något byte.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
+  <Scary.goodEffects>Fiender får panik i 3 turer om de väcks av dig</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects>Spöken följer dig och tappar inget byte</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+
+  <Shaman.label>schaman</Shaman.label> <!-- <En>shaman</En> -->
+  <Shaman.description>Få en manapoäng för varje värdigt dråp i utbyte mot färre inventarieplatser.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
+
+  <Vampire.label>vampyr</Vampire.label> <!-- <En>vampire</En> -->
+  <Vampire.description>Återfå en hälsopoäng för varje värdigt dråp i utbyte mot inaktiverad hälsoåterhämtning under dagen, sårbarhet mot eld och att hundar blir fientliga.</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
+  <Vampire.badEffects><li>Ingen hälsoåterhämtning från 7:00 till 19:00</li><li>-1 synfält från 7:00 till 19:00</li><li>Fientlig mot hundar</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <li>-1 vision range from 7:00 to 19:00</li>
+  <li>Hostile to dogs</li></En> -->
+
+</SpecTranslations>

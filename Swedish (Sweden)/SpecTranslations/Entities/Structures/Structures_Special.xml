@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>uråldrig behållare</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Denna behållare kan endast öppnas med 3 uråldriga mekanismer. De borde alla finnas någonstans på den här våningen.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Du ser en uråldrig behållare framför dig.\n\nDen kan endast öppnas med 3 uråldriga mekanismer.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Öppna</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>uråldrig anordning</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>En uråldrig anordning av något slag som du kan forska på. Om du forskar på alla tre kan du låsa upp den och få en belöning.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>bassäng med motgift</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>En liten bassäng fylld med ett motgift mot gift. Du kan ta bort förgiftningsstatusen här i utbyte mot lite mana.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Du ser en bassäng med motgift framför dig.\n\nDu kan ta bort förgiftningsstatusen här i utbyte mot lite mana.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>Drick</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>städ</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Här kan du uppgradera din utrustningsnivå.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Du ser ett städ framför dig.\n\nHär kan du uppgradera din utrustningsnivå i utbyte mot järn.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>säng</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>En mysig säng. Du kan återhämta lite hälsa här, men det finns en 50% chans att en fiende upptäcker dig.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Du ser en säng framför dig.\n\nDu kan återhämta lite hälsa här, men det finns en 50% chans att en fiende upptäcker dig.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Sov</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>stor magnet</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>Varannan tur drar den alla runtomkring mot sig.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>bokhylla</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>En hylla med böcker som ger dig en färdighetspoäng.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>bur</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>En metallbur med något eller någon inuti. Du kan bara öppna den om det inte finns någon levande boss på denna fängelsehålevåning.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Du ser en stor, rostig metallbur framför dig.\n\nVill du öppna den?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Öppna</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>kanon</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>En dödlig fälla som skadar alla som står i dess skottlinje. Aktivera den genom att attackera.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>kittel</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Byt vilken dryck som helst mot en slumpmässig skriftrulle.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Du ser en kittel framför dig.\n\nHär kan du byta vilken dryck som helst mot en slumpmässig skriftrulle.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>takpiggar</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>En dödlig fälla som skadar alla som står under den. Aktivera den genom att attackera.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>kista</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>Denna kista innehåller allt du kan önska dig i livet. Antingen det, eller en ruttnande tygbit och några stenar.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>djävulsstaty</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>En ondskefull staty. Accepterar förhäxade föremål i utbyte mot belöningar.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>Djävulsstatyn stirrar på dig.\n\nOm du har något förhäxat föremål kan du ge det till statyn för en belöning.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>drakrester</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>En hög med drakben. Det kan finnas något gömt här.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Du ser några drakrester framför dig.\n\nOm du vill kan du söka efter en gömd skatt här.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Sök</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>duplikator</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>En anordning som kan duplicera vilket föremål som helst... eller förstöra det.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Du ser en duplikator framför dig.\n\nFör 30 guld kan du försöka duplicera ett föremål.\n\nDet finns dock en 40% chans att föremålet istället förstörs.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>elektroniskt kassaskåp</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Detta kassaskåp kan endast öppnas genom att trycka på en knapp någon annanstans.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>knapp</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Denna knapp öppnar ett elektroniskt kassaskåp någonstans.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>förtrollningsbord</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Förtrolla din utrustning i utbyte mot en liten donation.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Du ser ett förtrollningsbord framför dig.\n\nDet finns ett myntinkast under bordet och en skylt som säger att en liten donation på 170 guldmynt krävs för att fortsätta.\n\nEn slumpmässig förtrollning kommer att appliceras på ditt valda vapen eller rustning.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>fontän</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Drick från denna fontän för att få en mild men långvarig effekt - positiv eller negativ.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Du ser en fontän framför dig.\n\nAtt dricka ur den kommer att ha en mild men långvarig magisk effekt.\n\nDu kan kasta i några guldmynt för att få tur.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>Drick</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Livets fontän</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Att dricka från denna fontän kommer att hela dig helt, återställa all mana, uthållighet och mättnadsstatus, samt ge en kortvarig immunitet mot gift.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Du ser Livets fontän framför dig.\n\nAtt dricka från denna fontän kommer att hela dig helt, återställa all mana, uthållighet och mättnadsstatus och ge en kortvarig immunitet mot gift.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>Drick</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>spelbord</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Satsa lite pengar om du känner dig tursam.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Du ser ett spelbord framför dig.\n\nDu kan satsa lite pengar om du känner dig tursam och har 50/50 chans att vinna dubbelt eller förlora.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>förgyllt skrin</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>Detta skrin har ett myntinkast. Du kan öppna det genom att sätta in 50 guld.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Du ser ett förgyllt skrin framför dig.\n\nDu kan öppna det genom att sätta in 50 guld.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Öppna</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>grav</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Gräv för att söka efter en gömd skatt.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Du ser en grav framför dig.\n\nDet finns definitivt något begravt här.\n\nDu kan antingen gräva upp graven eller lämna den i fred. Vem vet vad du kan hitta här.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Gräv</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>grön kista</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Denna kista kan endast öppnas med 3 gröna nyckelfragment. Vanligtvis bär fiender dem.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Du ser en grön kista framför dig.\n\nDen kan endast öppnas med 3 gröna nyckelfragment.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Öppna</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>hängande bur</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>En metallbur med något eller någon inuti. Du kan bara öppna den om det inte finns någon levande boss på denna fängelsehålevåning.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Du ser en stor, rostig metallbur framför dig.\n\nVill du öppna den?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Öppna</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>läkande kristall</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Läker alla dina hälsopoäng.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>läkeväxt</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>En växt med ovanliga läkande egenskaper. Du kan använda den för att göra en hälsodryck.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>spak</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Öppnar alla portar och larmar alla på våningen. Dra i den endast när du är redo att fly!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Vill du dra i spaken?\n\nDen kommer att öppna alla portar, men alla fiender kommer att vakna.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Dra</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>altare för lemoffer</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Du kan offra din lem här i utbyte mot en slumpmässig belöning.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Du ser ett altare för lemoffer framför dig.\n\nHär kan du offra din lem i utbyte mot en slumpmässig belöning.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Offra lem</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>manakristall</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Återställer all din mana, så du kan använda dina besvärjelser igen.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>manaväxt</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>En växt med ovanliga magiska egenskaper. Du kan använda den för att göra en manadryck.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>metallåda</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>En metallåda. Kan innehålla något användbart.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>Fantomens altare</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Kalla fram en dödlig Fantom. Få en bonus på utdelad fysisk skada i utbyte mot nedsatt syn.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>Du ser Fantomens altare framför dig.\n\nHär kan du kalla fram en dödlig Fantom, vilket ger dig +25% utdelad fysisk skada.\n\nDessutom kommer din synradie att sättas till 1 under 25 turer.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Kalla fram</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>portal</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>Den kommer att teleportera dig till en slumpmässig plats på kartan. Men när den används igen kommer den alltid att ta dig till samma plats.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>närhetsbomb</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Denna bomb har en närhetsutlösare och exploderar efter några turer när man närmar sig den.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>närhetsbrandbomb</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Denna brandbomb har en närhetsutlösare och exploderar efter några turer när man närmar sig den.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>närhetsrökbomb</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Denna rökbomb har en närhetsutlösare och exploderar efter några turer när man närmar sig den.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>råttbo</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Ett bo fullt av råttor. Råttorna kommer inte ut om de inte störs. Du kan söka i det efter en gömd skatt.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Du ser ett råttbo framför dig.\n\nOm du vill kan du söka efter en gömd skatt här.\n\nMen om du gör det kommer råttor att börja komma ut ur boet.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Sök</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>skurkens helgedom</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Få mer uthållighet, bättre synradie och motståndskraft mot eldskada under en tid för en liten donation.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Du ser en skurks helgedom framför dig.\n\nFå mer uthållighet, bättre synradie och motståndskraft mot eldskada för en liten donation.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Fortsätt</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>slutportal</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>En ljus portal. Detta är slutet.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>offeraltare</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Offra två värdiga motståndare på detta altare för att få en belöning.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>kassaskåp</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>Det kan innehålla något värdefullt, men att förstöra det kan vara knepigt. Kanske med sprängämnen?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>butik</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Inget slår en färskpressad apelsinju... jag menar styrkedryck.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>helgedom</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Få en välsignelse, gratis!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Du ser en helgedom framför dig.\n\nDu kan få en välsignelse här.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Fortsätt</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>silverkista</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Den ser ut att kunna innehålla något värdefullt. Du behöver en silvernyckel för att öppna den.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Du ser en silverkista framför dig.\n\nDen kan endast öppnas med en silvernyckel.\n\nObservera att det kan finnas fler låsta kistor än tillgängliga nycklar, så använd dina nycklar klokt.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Öppna</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>skelettrester</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>En hög med ben. Det kan finnas något gömt här.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Du ser några skelettrester framför dig.\n\nOm du vill kan du söka efter en gömd skatt här.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Sök</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>liten läkande kristall</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>Läker 50% av dina maximala hälsopoäng.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>liten manakristall</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>Återställer 50% av din maximala mana.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>trappa</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>En trappa som leder till den nedre nivån av denna fängelsehåla.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Vill du gå nerför trappan till den nedre nivån av fängelsehålan?\n\nDu kommer inte att kunna komma tillbaka.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Fortsätt</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>trappa till lobbyn</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>En trappa som leder tillbaka till lobbyn. Detta avslutar din nuvarande omgång, men du behåller en del erfarenhet och guld till nästa. Dessutom förlorar du inte engångsbonusar som du köpt i lobbyn.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Vill du gå tillbaka till lobbyn?\n\nDetta avslutar din nuvarande omgång, men du behåller 25% erfarenhet och 50% guld till nästa.\nDessutom förlorar du inte engångsbonusar som du köpt i lobbyn.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Fortsätt</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>kirurgsäng</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>En autonom kirurgisk maskin som kan återställa alla saknade kroppsdelar mot en liten betalning.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Du ser en autonom kirurgisk maskin framför dig.\n\nDet finns ett myntinkast undertill och en skylt som säger att maskinen för 150 guldmynt kan återställa alla dina förlorade kroppsdelar.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>Betala 150 guld</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>tidsmaskin</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Res tillbaka i tiden.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Du ser en tidsmaskin framför dig.\n\nAnvänder du den kommer du att resa tillbaka i tiden.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Använd</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>Lamslagningens prövning</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Förstör 6 kroppsdelar inom 120 turer för att få en belöning.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>Du ser Lamslagningens prövning framför dig.\n\nFör lite guld kan du starta en utmaning att förstöra 6 kroppsdelar inom 120 turer.\n\nNär du slutför utmaningen får du en belöning.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>Betala 20 guld</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>Den snabbe dråparens prövning</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Döda 4 värdiga (erfarenhetsgivande) fiender inom 100 turer för att få en belöning.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>Du ser Den snabbe dråparens prövning framför dig.\n\nFör lite guld kan du starta en utmaning att döda 4 värdiga fiender inom 100 turer.\n\nNär du slutför utmaningen får du en belöning.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>Betala 20 guld</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>Den ofläckades prövning</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Döda 2 värdiga (erfarenhetsgivande) fiender utan att förlora några träffpoäng för att få en belöning.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>Du ser Den ofläckades prövning framför dig.\n\nFör lite guld kan du starta en utmaning att döda 2 värdiga fiender utan att förlora några träffpoäng.\n\nNär du slutför utmaningen får du en belöning.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>Betala 20 guld</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>uppgraderingsklot</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Ett klot som låter dig välja en permanent effekt. Du kan välja mellan extra hälsa, extra chans för kritisk träff, lägre chans att missa och eldmotstånd.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Detta är ett uppgraderingsklot som ger permanenta effekter för den här omgången.\n\nDu kan välja mellan extra hälsa, extra chans för kritisk träff, lägre chans att missa och eldmotstånd.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>krigaraltare</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>Släpp lös din inre krigare och bevisa att du är värdig. Halvera din max-HP i utbyte mot 25% högre fysisk skada under en tid.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Du ser ett krigaraltare framför dig.\n\nHalvera din max-HP i utbyte mot 25% högre skada i 400 turer.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Fortsätt</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>getingbo</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Ett bo med ovanligt stora getingar.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>trollkarlsaltare</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Öka max-mana och få magiskt skademotstånd under en tid för en liten donation.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Du ser ett trollkarlsaltare framför dig.\n\nFör 80 guld kan du få en välsignelse som ger dig +2 max-mana i 400 turer och magiskt skademotstånd i 100 turer.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>Betala 80 guld</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

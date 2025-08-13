@@ -1,0 +1,82 @@
+<SpecTranslations>
+
+  <BigMap.label>bản đồ nhỏ</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>Giữ [Minimap] hoặc [MinimapAlt] để xem bản đồ.\n\nBạn có thể phóng to bằng con lăn chuột.\n\nCác căn phòng quan trọng nhất sẽ được đánh dấu trên bản đồ của bạn.</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>Giữ [MinimapAlt] để xem bản đồ.\n\nCác căn phòng quan trọng nhất sẽ được đánh dấu trên bản đồ của bạn.</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>leo trèo</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>Đi vào phòng tiếp theo và leo lên thang.\n\nBước vào ô có thang và sau đó nhấn [MoveForward] trong khi giữ [Fly] để đi lên.\n\nNgoài ra, bạn cũng có thể chỉ cần nhấp vào thang.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>Đi vào phòng tiếp theo và leo lên thang.\n\nBước vào ô có thang và sau đó nhấn [MoveForward] trong khi giữ [Fly] để đi lên.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>uống thuốc</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>Lấy thuốc từ rương và uống nó.\n\nBạn có thể nhấn phím số tương ứng để sử dụng thuốc từ thanh truy cập nhanh - trong trường hợp này là "1".</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>Lấy thuốc từ rương và uống nó. Nhấn [Accept] để tương tác.\n\nBạn có thể nhấn [QuickbarMenu] để hiển thị một menu với tất cả các vật phẩm trong thanh truy cập nhanh của bạn.</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>chiến đấu</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>Tiêu diệt bộ xương. Nhấp để tấn công. [Wait] để đợi.\n\nKẻ thù sẽ không di chuyển trừ khi bạn di chuyển hoặc tấn công.\n\nMẹo:\n- Luôn lên kế hoạch cẩn thận cho nước đi tiếp theo.\n- Hầu hết kẻ thù đều nguy hiểm và mỗi điểm máu đều quý giá.\n- Tránh bị bao vây bởi nhiều kẻ thù cùng lúc.</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>Tiêu diệt bộ xương. Nhấn [Accept] để tấn công và [Wait] để đợi.\n\nKẻ thù sẽ không di chuyển trừ khi bạn di chuyển hoặc tấn công.\n\nMẹo:\n- Luôn lên kế hoạch cẩn thận cho nước đi tiếp theo.\n- Hầu hết kẻ thù đều nguy hiểm và mỗi điểm máu đều quý giá.\n- Tránh bị bao vây bởi nhiều kẻ thù cùng lúc.</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>kiểm tra</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>Đóng túi đồ của bạn bằng cách nhấn lại [ShowInventory] và giữ [Inspect] hoặc [InspectAlt] để kiểm tra xung quanh.\n\nHãy nhớ kiểm tra tất cả kẻ thù để biết chúng nguy hiểm đến mức nào.</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>Đóng túi đồ của bạn bằng cách nhấn lại [ShowInventory] và giữ [Inspect] để kiểm tra xung quanh.\n\nHãy nhớ kiểm tra tất cả kẻ thù để biết chúng nguy hiểm đến mức nào.</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>Đóng túi đồ của bạn bằng cách nhấn lại [ShowInventory] và giữ [Inspect] hoặc [InspectAlt] để kiểm tra xung quanh.\n\nHãy nhớ kiểm tra tất cả kẻ thù để biết chúng nguy hiểm đến mức nào.</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>túi đồ</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>Trang bị thanh kiếm.\n\nCó thể kéo thả nó, nhấp chuột phải vào nó, hoặc nhấn "1" để sử dụng từ thanh truy cập nhanh.\n\nHầu hết các vật phẩm chưa được giám định và một số thậm chí còn bị nguyền rủa!</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>Trang bị thanh kiếm.\n\nBạn có thể nhấn [QuickbarMenu] để hiển thị một menu với tất cả các vật phẩm trong thanh truy cập nhanh của bạn.\n\nHầu hết các vật phẩm chưa được giám định và một số thậm chí còn bị nguyền rủa!</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>cần gạt</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>Mỗi tầng đều có một cần gạt mở cổng đến phòng thoát hiểm. Nhấp vào nó và rời khỏi khu vực.\n\nNhưng hãy cẩn thận! Kéo cần gạt sẽ đánh thức tất cả kẻ thù trên tầng!</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>Mỗi tầng đều có một cần gạt mở cổng đến phòng thoát hiểm. Kéo nó bằng cách nhấn [Accept] và rời khỏi khu vực.\n\nNhưng hãy cẩn thận! Kéo cần gạt sẽ đánh thức tất cả kẻ thù trên tầng!</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>di chuyển</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>Nhấn [MoveForward], [MoveLeft], [MoveBack], [MoveRight] để di chuyển.\n\nRicave là game theo lượt. Một bước đi tốn một lượt, vì vậy mọi người khác cũng sẽ di chuyển cùng bạn.\n\nBạn cũng có thể nhấp chuột để di chuyển.</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>Nhấn [MoveForward], [MoveLeft], [MoveBack], [MoveRight] để di chuyển.\n\nRicave là game theo lượt. Một bước đi tốn một lượt, vì vậy mọi người khác cũng sẽ di chuyển cùng bạn.</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>mở cửa</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>Để mở cửa, hãy đi vào hoặc nhấp vào nó.</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>Để mở cửa, hãy đi vào nó.</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>túi đồ</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>Nhấn [ShowInventory] để mở túi đồ của bạn.</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>nhặt vật phẩm</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>Tương tự, để nhặt một vật phẩm, hãy đi vào hoặc nhấp vào nó.</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>Tương tự, để nhặt một vật phẩm, hãy đi vào nó.</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>tấn công nhanh</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>Đi vào phòng tiếp theo và nhấn [AttackNearest] gần các thùng hàng để tự động tấn công mục tiêu gần con trỏ chuột nhất.\n\nNhấn [AttackNearest] có thể thoải mái hơn so với dùng chuột. Nó cho phép bạn nhanh chóng phá hủy nhiều mục tiêu xung quanh mình.</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>Đi vào phòng tiếp theo và nhấn [Accept] để phá hủy các thùng hàng. Xoay người bằng [RotateLeft] và [RotateRight] để đối mặt với chúng.</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>xoay người</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>Sử dụng chuột để nhìn xung quanh hoặc nhấn [RotateLeft] hoặc [RotateRight] để xoay người.\n\nKhông giống như di chuyển, xoay người không tốn lượt.</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>Nhấn [RotateLeft] hoặc [RotateRight] để xoay người.\n\nKhông giống như di chuyển, xoay người không tốn lượt.</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>đi ngang</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>Nhấn [MoveLeft] hoặc [MoveRight] để đi ngang.</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>bộ phận cơ thể</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Giữ [Fly] và nhấp vào cánh tay của bộ xương để phá hủy nó, sau đó kết liễu hắn như bình thường.\n\nMỗi bộ phận cơ thể có điểm máu riêng.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Giữ [Fly] và nhấn [Accept] hoặc Cò Phải vào cánh tay của bộ xương để phá hủy nó, sau đó kết liễu hắn như bình thường.\n\nMỗi bộ phận cơ thể có điểm máu riêng.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>chú giải</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>Chú giải rất quan trọng! Di chuột qua bất cứ thứ gì trong màn hình túi đồ để tìm hiểu về nó.\n\nHãy nhớ kiểm tra mọi vật phẩm bạn tìm thấy.</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>Chú giải rất quan trọng! Hãy thử chúng khi màn hình túi đồ của bạn đang mở.\n\nHãy nhớ kiểm tra mọi vật phẩm bạn tìm thấy.</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>chờ đợi</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>Nhấn [Wait] để chờ một lượt.\n\nChờ đợi cho phép bạn là người đầu tiên gây sát thương và nó cũng tích tụ sức mạnh cho đòn tấn công tiếp theo của bạn.</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>Yerdonův amulet</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>Začni s Yerdonovým amuletem. Jeho nositel bude jednou plně vyléčen v momentě, kdy by normálně zemřel. Navíc všichni nepřátelé v okolí zemřou. Jedná se o bonus na jedno použití a platí pouze pro tvůj příští běh.</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>léčivý lektvar</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>Začni s léčivým lektvarem navíc ve svém inventáři. Jedná se o bonus na jedno použití a platí pouze pro tvůj příští běh.</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>svitek</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>Začni s náhodným svitkem ve svém inventáři. Jedná se o bonus na jedno použití a platí pouze pro tvůj příští běh.</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>štít</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>Začni se štítem ve svém inventáři. Umožní ti blokovat nepřátelské útoky.</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>Odemkl jsi štít pro své příští běhy! Můžeš ho použít k blokování nepřátelských útoků.\n\nTo je obzvláště užitečné při boji s nepřáteli na dálku, protože se k nim můžeš bezpečně přiblížit, aniž by tě zasáhli.\n\nNemůžeš zároveň blokovat útoky nepřítele a útočit na něj – efekt bude v takovém případě zrušen.\n\nPoužívání štítu je únavné, takže spotřebovává výdrž.</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>oštěp</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>Začni s oštěpem navíc ve svém inventáři. Házej ho na nepřátele nebo ho použij ke spouštění pastí.</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>Odemkl jsi oštěp pro své příští běhy! Můžeš ho použít k útoku na nepřátele nebo ke spouštění pastí z dálky.\n\nPočkej, až nepřítel projde pod bodáky nebo vedle děla připevněného na zdi, a hoď oštěp na past, abys ji spustil.\n\nHázení oštěpu je únavné, takže spotřebovává výdrž. Výdrž se regeneruje automaticky, pokud zrovna nehladovíš.</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>meč</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>Začni s mečem ve svém inventáři. Jedná se o bonus na jedno použití a platí pouze pro tvůj příští běh.</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>hodinky</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>Začni s hodinkami ve svém inventáři. Umožní ti přetáčet čas.</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>Odemkl jsi magické hodinky pro své příští běhy! Umožňují ti přetáčet čas podle tvé vůle.\n\nPřetoč poslední tah stisknutím [Rewind].\n\nHodinky mají limit, o kolik tahů můžeš čas přetočit najednou, ale dobíjejí se, kdykoliv se pohneš.</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>zlato x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>Najdi v dungeonu o 25 % více zlata, než bys našel normálně. Jedná se o bonus na jedno použití a platí pouze pro tvůj příští běh.</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>chodba</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>Získej přístup do chodby ve vstupní hale.</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>socha za 100. úroveň</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>Získej sochu na památku dosažení 100. úrovně. Můžeš si ji umístit do svého soukromého pokoje ve vstupní hale.</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>Gratulujeme k dosažení 100. úrovně!\n\nZískal jsi speciální sochu, kterou si můžeš umístit do svého soukromého pokoje na památku tohoto velkého úspěchu.</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>socha za 25. úroveň</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>Získej sochu na památku dosažení 25. úrovně. Můžeš si ji umístit do svého soukromého pokoje ve vstupní hale.</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>Gratulujeme k dosažení 25. úrovně!\n\nZískal jsi speciální sochu, kterou si můžeš umístit do svého soukromého pokoje na památku tohoto velkého úspěchu.</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>socha za 50. úroveň</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>Získej sochu na památku dosažení 50. úrovně. Můžeš si ji umístit do svého soukromého pokoje ve vstupní hale.</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>Gratulujeme k dosažení 50. úrovně!\n\nZískal jsi speciální sochu, kterou si můžeš umístit do svého soukromého pokoje na památku tohoto velkého úspěchu.</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>klíč k soukromému pokoji</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>Získej přístup do svého vlastního soukromého pokoje, který si pak můžeš vyzdobit.</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>Odemkl jsi svůj vlastní soukromý pokoj!\n\nMůžeš si ho vyzdobit stisknutím [ShowInventory], když jsi uvnitř.\n\nNěkteré vzácnější trofeje a dekorace může být obtížné získat – například mohou být ukryty někde hluboko v dungeonu.</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>skóre x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>Získej v dungeonu o 100 % více skóre, než bys získal normálně. Jedná se o bonus na jedno použití a platí pouze pro tvůj příští běh.</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>hvězdný prach x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>Najdi v dungeonu o 50 % více hvězdného prachu, než bys našel normálně. Jedná se o bonus na jedno použití a platí pouze pro tvůj příští běh.</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>tréninková místnost</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>Získej přístup do tréninkové místnosti ve vstupní hale.</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>hromada odpadků</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>Ukliď hromadu odpadků, abys měl více místa.</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>hromada odpadků</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>Ukliď hromadu odpadků, abys měl více místa.</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>hromada odpadků</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>Ukliď hromadu odpadků, abys měl více místa.</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

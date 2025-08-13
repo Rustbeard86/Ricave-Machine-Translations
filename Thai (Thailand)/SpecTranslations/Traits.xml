@@ -1,0 +1,64 @@
+<SpecTranslations>
+
+  <AllIn.label>ทุ่มสุดตัว</AllIn.label> <!-- <En>all in</En> -->
+  <AllIn.description>เริ่มต้นพร้อมกับแต้มทักษะพิเศษ แต่จะไม่สามารถได้รับแต้มทักษะเพิ่มได้อีกเลย</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
+  <AllIn.goodEffects>เริ่มต้นพร้อมแต้มทักษะ 3 แต้ม</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects>ไม่สามารถรับแต้มทักษะเพิ่มได้</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+
+  <Angel.label>เทวดา</Angel.label> <!-- <En>angel</En> -->
+  <Angel.description>สามารถบินได้และสร้างความเสียหายแก่ปีศาจได้มากขึ้น แต่จะอ่อนแอต่อความเสียหายจากไฟ พิษ และเวทมนตร์</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
+
+  <Berserker.label_2>นักรบคลั่ง</Berserker.label_2> <!-- <En>berserker</En> -->
+  <Berserker.description_2>สร้างความเสียหายได้มากขึ้นชั่วคราวหลังจากการสังหารที่คู่ควรแต่ละครั้ง แต่ก็จะอ่อนแอลงด้วยเช่นกัน</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
+  <Berserker.goodEffects>สร้างความเสียหายกายภาพเพิ่มขึ้น 25% เป็นเวลา 6 เทิร์นหลังจากการสังหารที่คู่ควร</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects>ได้รับความเสียหายกายภาพเพิ่มขึ้น 25% เป็นเวลา 6 เทิร์นหลังจากการสังหารที่คู่ควร</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+
+  <BossHunter.label>นักล่าบอส</BossHunter.label> <!-- <En>boss hunter</En> -->
+  <BossHunter.description>สร้างความเสียหายแก่บอสทั้งหมดได้มากขึ้น แต่พวกมันจะตื่นอยู่ตั้งแต่เริ่ม</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
+  <BossHunter.badEffects>บอสทั้งหมดจะตื่นอยู่ตั้งแต่เริ่ม</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+
+  <Bulky.label>เทอะทะ</Bulky.label> <!-- <En>bulky</En> -->
+  <Bulky.description>ได้รับ HP สูงสุดต่อเลเวลมากขึ้น แลกกับการเคลื่อนไหวที่ส่งเสียงดังกว่าเดิม</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
+
+  <Explorer.label>นักสำรวจ</Explorer.label> <!-- <En>explorer</En> -->
+  <Explorer.description>เริ่มต้นพร้อมกับอุปกรณ์พิเศษและพบทองได้มากขึ้น แลกกับค่าความทนทานและมานาสูงสุดที่ลดลง</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
+
+  <Giant.label>ยักษ์</Giant.label> <!-- <En>giant</En> -->
+  <Giant.description>มีภูมิคุ้มกันต่อการผลักและดึง และได้รับ HP สูงสุดเพิ่มขึ้นเล็กน้อย แลกกับอัตราความหิวที่เพิ่มขึ้น, ความเสียหายจากการตกที่สูงขึ้น และราคาสินค้าที่แพงขึ้น</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
+
+  <Insectoid.label>มนุษย์แมลง</Insectoid.label> <!-- <En>insectoid</En> -->
+  <Insectoid.description>เป็นมิตรกับแมงมุมและได้รับความต้านทานพิษบางส่วน แลกกับการที่นักพเนจรจะเป็นศัตรูกับคุณและอ่อนแอต่อไฟ</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
+
+  <LastStand.label>ยืนหยัดครั้งสุดท้าย</LastStand.label> <!-- <En>last stand</En> -->
+  <LastStand.description>สร้างความเสียหายได้มากขึ้นเมื่อ HP ของคุณเหลือน้อย แลกกับการฟื้นฟูความทนทานที่ช้าลง</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
+
+  <LizardSkin.label>หนังจิ้งจก</LizardSkin.label> <!-- <En>lizard skin</En> -->
+  <LizardSkin.description>ได้รับภูมิคุ้มกันต่อพิษ, เลือดออก และกระดูกหัก และฟื้นฟูพลังชีวิตเร็วขึ้น แลกกับ HP สูงสุดที่ลดลงครึ่งหนึ่ง</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
+
+  <MoleRat.label>ตุ่นหนู</MoleRat.label> <!-- <En>mole-rat</En> -->
+  <MoleRat.description>สามารถขุดดินได้และได้รับความต้านทานธาตุบางส่วน แลกกับการได้รับ HP สูงสุดต่อเลเวลน้อยลง</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
+  <MoleRat.goodEffects>สามารถขุดได้โดยไม่ต้องใช้พลั่ว</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+
+  <NightOwl.label>นกฮูกกลางคืน</NightOwl.label> <!-- <En>night owl</En> -->
+  <NightOwl.description>มองเห็นได้ดีขึ้นในเวลากลางคืน แต่แย่ลงในเวลากลางวัน</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
+  <NightOwl.goodEffects>+1 ระยะการมองเห็นตั้งแต่ 19:00 ถึง 7:00</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects>-1 ระยะการมองเห็นตั้งแต่ 7:00 ถึง 19:00</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+
+  <Pacifist.label_2>สันตินิยม</Pacifist.label_2> <!-- <En>pacifist</En> -->
+  <Pacifist.description>ไอเท็มในร้านค้าทั้งหมดฟรีและคุณเลเวลอัพเร็วขึ้นสองเท่า แต่การสังหารที่คู่ควรแต่ละครั้งจะทำให้คุณเสีย 1 HP</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
+
+  <Scary.label>น่ากลัว</Scary.label> <!-- <En>scary</En> -->
+  <Scary.description>ศัตรูทั้งหมดจะตื่นตระหนกหากคุณปลุกพวกมัน แลกกับราคาสินค้าที่สูงขึ้น, สมาชิกลัทธิจะเป็นศัตรูกับคุณ และความทนทานสูงสุดลดลง นอกจากนี้ ผีทั้งหมดจะตามคุณและไม่ดรอปของใดๆ</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
+  <Scary.goodEffects>ศัตรูจะตื่นตระหนกเป็นเวลา 3 เทิร์นหากคุณปลุกพวกมัน</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects>ผีจะตามคุณและไม่ดรอปของใดๆ</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+
+  <Shaman.label>หมอผี</Shaman.label> <!-- <En>shaman</En> -->
+  <Shaman.description>ได้รับแต้มมานา 1 แต้มสำหรับการสังหารที่คู่ควรแต่ละครั้ง แลกกับการมีช่องเก็บของน้อยลง</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
+
+  <Vampire.label>แวมไพร์</Vampire.label> <!-- <En>vampire</En> -->
+  <Vampire.description>ฟื้นฟูพลังชีวิต 1 หน่วยสำหรับการสังหารที่คู่ควรทุกครั้ง แลกกับการที่การฟื้นฟูพลังชีวิตจะถูกปิดใช้งานในเวลากลางวัน, อ่อนแอต่อไฟ และสุนัขจะเป็นศัตรูกับคุณ</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
+  <Vampire.badEffects><li>ไม่ฟื้นฟูพลังชีวิตตั้งแต่ 7:00 ถึง 19:00</li><li>-1 ระยะการมองเห็นตั้งแต่ 7:00 ถึง 19:00</li><li>เป็นศัตรูกับสุนัข</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <li>-1 vision range from 7:00 to 19:00</li>
+  <li>Hostile to dogs</li></En> -->
+
+</SpecTranslations>

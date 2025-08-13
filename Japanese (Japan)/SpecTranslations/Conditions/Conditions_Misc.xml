@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>バーサーカー</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>最近誰かを倒した。短時間、与える物理ダメージと受ける物理ダメージが25%増加する。</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>出血</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>このキャラクターは出血しており、包帯を巻くまで体力が減り続ける。</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>出血 ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>盲目</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>このキャラクターは隣接するオブジェクトしか感知できず、30%の確率で攻撃を外す。</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>骨折</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>このキャラクターは骨折しており、与える物理ダメージが減少する。</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>このキャラクターは骨折しており、与える物理ダメージが{0}減少する。</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>炎上</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>このキャラクターは炎上しており、毎ターン一定のヒットポイントを失う。</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>炎上 ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>クリティカルヒット率変化</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>このキャラクターが与えるクリティカルヒットの確率に影響する。</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>クリティカルヒット率: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>体力減少</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>このキャラクターは体力が減少し続けている。</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>体力減少 ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>与ダメージ係数</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>このキャラクターが与えるダメージはこの係数によって変化する。</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>{1}与ダメージ: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>与ダメージオフセット</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>このキャラクターが与えるダメージにこの値が加算(または減算)される。この値が範囲の場合、その範囲からランダムな値が使用される。</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>{1}与ダメージ: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>病気</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>このキャラクターは病気にかかっており、自然回復が妨げられ、飛行できなくなる。</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>泥酔</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>このキャラクターは泥酔しており、毎ターンランダムな方向に移動する。この状態では他の行動は一切できない。</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>拘束</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>このキャラクターは拘束されており、移動できない。ただし、現在位置から攻撃することは可能。</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>凍結</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>このキャラクターは凍結しており、この状態の間は待機することしかできない。</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>体力再生</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>このキャラクターの体力は時間経過で自動的に再生する。</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>体力再生 ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>空腹率</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>このキャラクターが空腹になる速さに影響する。</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>空腹</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>空腹のため、何かを食べる必要がある。この状態では体力再生とアイテム鑑定が停止する。</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>鑑定率</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>このキャラクターがアイテムを鑑定する速さに影響する。</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>鑑定率: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>病気無効</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>このキャラクターは病気に対して免疫がある。</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>炎無効</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>このキャラクターは炎に対して免疫がある。</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>毒無効</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>このキャラクターは毒に対して免疫がある。</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>装甲</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>このキャラクターが受けるダメージの係数。値が1より大きい場合は弱点、0の場合は無効となる。</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>{1}被ダメージ: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>装甲</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>このキャラクターが受けるダメージにこの値が加算(または減算)される。この値が範囲の場合、その範囲からランダムな値が使用される。</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>{1}被ダメージ: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>味方へ敵対</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>このキャラクターは狂乱状態にあり、普段の味方を攻撃する。</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>飛行可能</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>このキャラクターは飛行できる。飛行中のキャラクターは直接上下に移動できる。</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>マナ再生</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>このキャラクターのマナは時間経過で自動的に再生する。</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>マナ再生 ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>最大HP変化</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>このキャラクターが持てる最大ヒットポイント数に影響する。</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>最大HP: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>最大HP変化</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>このキャラクターが持てる最大ヒットポイント数に影響する。</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>最大HP: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>最大マナ変化</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>このキャラクターが持てる最大マナポイント数に影響する。</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>最大マナ: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>最大スタミナ変化</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>このキャラクターが持てる最大スタミナポイント数に影響する。</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>最大スタミナ: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>ミス率変化</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>このキャラクターが攻撃する際のミス率に影響する。</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>ミス率: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>パニック</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>このキャラクターはパニック状態にあり、毎ターン最も近い敵から離れるように移動する。この状態では他の行動は一切できない。</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>毒</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>このキャラクターは毒を受けており、毎ターンまたは数ターンごとに一定のヒットポイントを失う。</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>毒 ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>視界範囲</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>このキャラクターが他のオブジェクトやキャラクターを視認できる最大距離に影響する。</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>視界範囲: 最大 {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>視界範囲</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>このキャラクターが他のオブジェクトやキャラクターを視認できる最大距離に影響する。</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>視界範囲: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>キャラクターの行動頻度変化</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>このキャラクターの1ターンあたりの行動可能回数に影響する。</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>あなたにダメージを与えられない</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>次のターンまで、このキャラクターの攻撃から保護される。ただし、このキャラクターにダメージを与えると効果は解除される。無害な呪文の詠唱は問題ない。</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>睡眠</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>このキャラクターは眠っている。近づいたり邪魔をしたりすると目を覚ます。</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>痕跡を残す</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>このキャラクターは移動するたびに痕跡を残す。</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>{0}の痕跡を残す</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>スタミナ再生</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>このキャラクターのスタミナは時間経過で自動的に再生する。</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>スタミナ再生 ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>飢餓</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>飢餓状態のため、何かを食べる必要がある。体力再生とアイテム鑑定が停止するのに加え、スタミナ再生も停止し、時間経過でゆっくりと体力が減少する。空腹によるペナルティはこれ以上進行しない。</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>飢餓 ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>破壊の試練</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>このキャラクターは破壊の試練に挑戦中。短時間のうちに一定数の部位を破壊すれば、試練を達成して報酬を受け取れる。</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>破壊の試練 ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>このキャラクターは破壊の試練に挑戦中。{1}ターン以内に{0}個の部位を破壊すれば、試練を達成して報酬を受け取れる。</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>迅速な殺戮者の試練</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>このキャラクターは迅速な殺戮者の試練に挑戦中。短時間のうちに一定数の強敵を倒せば、試練を達成して報酬を受け取れる。</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>迅速な殺戮者の試練 ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>このキャラクターは迅速な殺戮者の試練に挑戦中。{1}ターン以内に{0}体の強敵を倒せば、試練を達成して報酬を受け取れる。</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>無傷の試練</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>このキャラクターは無傷の試練に挑戦中。ヒットポイントを一切失わずに一定数の強敵を倒せば、試練を達成して報酬を受け取れる。</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>無傷の試練 ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>このキャラクターは無傷の試練に挑戦中。ヒットポイントを一切失わずに{0}体の強敵を倒せば、試練を達成して報酬を受け取れる。</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>ずぶ濡れ</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>このキャラクターはずぶ濡れになっており、炎ダメージ耐性が50%付与されるが、スタミナの自然再生速度が2倍遅くなる。</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

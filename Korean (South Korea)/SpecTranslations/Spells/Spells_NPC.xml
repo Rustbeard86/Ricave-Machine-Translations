@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <Blindness.label>실명</Blindness.label> <!-- <En>blindness</En> -->
+  <Blindness.description>잠시 동안 상대를 실명시킵니다.</Blindness.description> <!-- <En>Make someone blind for a short time.</En> -->
+
+  <Drunkenness.label>취기</Drunkenness.label> <!-- <En>drunkenness</En> -->
+  <Drunkenness.description>잠시 동안 상대를 취하게 만듭니다.</Drunkenness.description> <!-- <En>Make someone drunk for a short time.</En> -->
+
+  <Entangle_NPC.label>속박</Entangle_NPC.label> <!-- <En>entangle</En> -->
+  <Entangle_NPC.description>잠시 동안 상대를 움직이지 못하게 만듭니다. 속박된 적은 그 자리에서 계속 공격할 수 있습니다.</Entangle_NPC.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <FireBreath.label>화염 숨결</FireBreath.label> <!-- <En>fire breath</En> -->
+  <FireBreath.description>대상을 불태웁니다.</FireBreath.description> <!-- <En>Set the target on fire.</En> -->
+
+  <Heal_NPC.label>치유</Heal_NPC.label> <!-- <En>heal</En> -->
+  <Heal_NPC.description>체력을 일부 회복합니다.</Heal_NPC.description> <!-- <En>Restore some health.</En> -->
+
+  <Pull.label>당기기</Pull.label> <!-- <En>pull</En> -->
+  <Pull.description>상대를 자신 쪽으로 끌어당깁니다.</Pull.description> <!-- <En>Pull someone towards you.</En> -->
+
+  <Push_NPC.label>밀치기</Push_NPC.label> <!-- <En>push</En> -->
+  <Push_NPC.description>상대를 자신에게서 밀어냅니다.</Push_NPC.description> <!-- <En>Push someone away from you.</En> -->
+
+  <RandomMagicWall.label>마법 장벽</RandomMagicWall.label> <!-- <En>magic wall</En> -->
+  <RandomMagicWall.description>대상 근처에 마법 장벽을 소환합니다.</RandomMagicWall.description> <!-- <En>Spawn a magic wall near the target.</En> -->
+
+  <Strike_NPC.label>타격</Strike_NPC.label> <!-- <En>strike</En> -->
+  <Strike_NPC.description>대상에게 피해를 줍니다.</Strike_NPC.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <SummonPhantom.label>망령 소환</SummonPhantom.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantom.description>치명적인 망령을 소환합니다.</SummonPhantom.description> <!-- <En>Summon a deadly phantom.</En> -->
+
+</SpecTranslations>

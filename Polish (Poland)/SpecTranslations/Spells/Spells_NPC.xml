@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <Blindness.label>oślepienie</Blindness.label> <!-- <En>blindness</En> -->
+  <Blindness.description>Na krótki czas oślepia cel.</Blindness.description> <!-- <En>Make someone blind for a short time.</En> -->
+
+  <Drunkenness.label>upojenie</Drunkenness.label> <!-- <En>drunkenness</En> -->
+  <Drunkenness.description>Na krótki czas upija cel.</Drunkenness.description> <!-- <En>Make someone drunk for a short time.</En> -->
+
+  <Entangle_NPC.label>splątanie</Entangle_NPC.label> <!-- <En>entangle</En> -->
+  <Entangle_NPC.description>Na krótki czas unieruchamia cel. Uwaga: splątani wrogowie wciąż mogą atakować ze swojej pozycji.</Entangle_NPC.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <FireBreath.label>ognisty oddech</FireBreath.label> <!-- <En>fire breath</En> -->
+  <FireBreath.description>Podpala cel.</FireBreath.description> <!-- <En>Set the target on fire.</En> -->
+
+  <Heal_NPC.label>uleczenie</Heal_NPC.label> <!-- <En>heal</En> -->
+  <Heal_NPC.description>Przywraca część zdrowia.</Heal_NPC.description> <!-- <En>Restore some health.</En> -->
+
+  <Pull.label>przyciągnięcie</Pull.label> <!-- <En>pull</En> -->
+  <Pull.description>Przyciąga cel do ciebie.</Pull.description> <!-- <En>Pull someone towards you.</En> -->
+
+  <Push_NPC.label>odepchnięcie</Push_NPC.label> <!-- <En>push</En> -->
+  <Push_NPC.description>Odpycha cel od ciebie.</Push_NPC.description> <!-- <En>Push someone away from you.</En> -->
+
+  <RandomMagicWall.label>magiczna ściana</RandomMagicWall.label> <!-- <En>magic wall</En> -->
+  <RandomMagicWall.description>Tworzy magiczną ścianę w pobliżu celu.</RandomMagicWall.description> <!-- <En>Spawn a magic wall near the target.</En> -->
+
+  <Strike_NPC.label>uderzenie</Strike_NPC.label> <!-- <En>strike</En> -->
+  <Strike_NPC.description>Zadaje obrażenia celowi.</Strike_NPC.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <SummonPhantom.label>przywołanie upiora</SummonPhantom.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantom.description>Przywołuje śmiertelnie niebezpiecznego upiora.</SummonPhantom.description> <!-- <En>Summon a deadly phantom.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>podchodzi i atakuje, a następnie wycofuje się, aby uniknąć trafienia</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>atakuje, a następnie ucieka przez 8 tur, chyba że zostanie osaczony</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>nie podchodzi pierwszy, ale zostaje, gdy się do niego podejdzie</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>zawsze ucieka</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>utrzymuje dystans, chyba że zostanie osaczony</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>utrzymuje dystans, chyba że zostanie osaczony lub nie ma broni</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>podąża za graczem i atakuje (członek drużyny)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>podąża za graczem i atakuje, gdy nadarzy się okazja</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>podchodzi i atakuje</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>stoi w miejscu lub ucieka, gdy zostanie zaatakowany</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>stoi w miejscu</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>stoi w miejscu i leczy sojuszników</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>stoi w miejscu lub ucieka, gdy zostanie zaatakowany</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>kradnie, a następnie ucieka</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

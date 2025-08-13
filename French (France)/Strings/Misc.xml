@@ -1,4 +1,4 @@
-﻿<Strings>
+<Strings>
 
   <!-- Main menu -->
   <Play>Jouer</Play> <!-- <En>Play</En> -->
@@ -423,14 +423,14 @@
   <Intro6>Vous venez d'apercevoir quelqu'un au loin, mais vous n'avez entrevu que son ombre. Vous feriez mieux d'aller voir.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
   <Ending1>Vous ouvrez lentement les yeux...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
   <Ending2>Vous vous réveillez dans un hôpital.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
-  <Ending3>"Il est réveillé !"</Ending3> <!-- <En><i>"He's awake!"</i></En> -->
-  <Ending4>"Que s'est-il passé ?"</Ending4> <!-- <En><i>"What happened?"</i></En> -->
-  <Ending5>"Vous êtes parti en randonnée avec vos amis et avez subi une grave blessure à la tête."</Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
-  <Ending6>"Les secours vous ont trouvé juste à temps. Vous devez vous reposer et reprendre des forces."</Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
-  <Ending7>"Où est Maya ?"</Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
-  <Ending8>"Qui est Maya ?"</Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
-  <Ending9>"C'est elle qui m'a trouvé en premier. Est-ce qu'elle va bien ?"</Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
-  <Ending10>"Vous êtes peut-être un peu confus, mais vous vous rétablirez bientôt."</Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending3><i>"Il est réveillé !"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Que s'est-il passé ?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Vous êtes parti en randonnée avec vos amis et avez subi une grave blessure à la tête."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"Les secouristes vous ont trouvé juste à temps. Vous devez vous reposer et reprendre des forces."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Où est Maya ?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Qui est Maya ?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Elle m'a trouvé en premier. Est-ce qu'elle va bien ?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Vous êtes peut-être un peu confus, mais vous vous remettrez bientôt."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
   <Ending11>...</Ending11> <!-- <En>...</En> -->
   <Ending12>Vous êtes perplexe, mais vous ressentez cet étrange sentiment d'accomplissement. Presque comme si vous aviez changé d'une certaine manière.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
   <Ending13>Vous fermez les yeux et prenez une profonde inspiration, imaginant la chaleur du soleil sur votre visage. L'air frais remplit vos poumons et vous ne pouvez vous empêcher de sourire.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
@@ -577,7 +577,7 @@
   <BodyPartTakesDamageAndIsDestroyed>{0} subit {1} points de dégâts {2} et est détruit</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
   <BodyPartTakesNoDamage>{0} ne subit aucun dégât {1}</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
   <BodyPartGainsHP>{0} gagne {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
-  <BodyPartDestroyedDirectly>Le {1} de {0} est détruit.</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <BodyPartDestroyedDirectly>Chez {0}, le {1} est détruit</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
   <DamageBlocked>{0} bloque {1} points de dégâts {2}</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
   <DamageBlockedAndDeflected>{0} dévie {1} points de dégâts {2} sur {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
   <EntityIsPushed>{0} est poussé</EntityIsPushed> <!-- <En>{0} is pushed</En> -->

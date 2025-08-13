@@ -1,0 +1,53 @@
+<SpecTranslations>
+
+  <FindRelic.label>Yadigârı Bul</FindRelic.label> <!-- <En>Find Relic</En> -->
+  <FindRelic.description>4. kattaki antik Yadigârı bul.</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
+  <FindRelic.ThereAppearsToBeAnAgeold>4. katta bir yerlerde gizemle örtülü, çağlar öncesinden kalma bir yadigâr var gibi görünüyor. Git ve onu bul.</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
+  <FindRelic.dungeonModifiers>4. katta Yadigâr</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+
+  <KillHypnorak.label>Hypnorak'ı Öldür</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
+  <KillHypnorak.description>3. kattaki ejderha mini-patron Hypnorak'ı öldür.</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
+  <KillHypnorak.YourNextChallengeAwaits>Bir sonraki mücadelen seni Hypnorak'ın ikamet ettiği 3. katta bekliyor. Cesaretini topla ve onu alt et.</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
+  <KillHypnorak.dungeonModifiers>3. katta Hypnorak</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+
+  <KillMimics.label>Taklitçi Avcısı</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
+  <KillMimics.description>10 taklitçi öldür.</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
+  <KillMimics.NotAllTreasuresAreWhat>Her hazine göründüğü gibi değildir. Bazı sandıkların keskin dişleri ve dikkatsizlere karşı bir iştahı vardır. Amacın 10 taklitçiyi ortadan kaldırmak.</KillMimics.NotAllTreasuresAreWhat> <!-- <En>Not all treasures are what they seem. Some chests bear sharp teeth and an appetite for the unwary. Your goal is to eliminate 10 mimics.</En> -->
+  <KillMimics.KillMimicsKillCount10>[KillMimics_KillCount] / 10</KillMimics.KillMimicsKillCount10> <!-- <En>[KillMimics_KillCount] / 10</En> -->
+
+  <KillNightmareLord.label>Kâbus Lordu'nu Öldür</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
+  <KillNightmareLord.description>1. kattaki iskelet mini-patron Kâbus Lordu'nu öldür.</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
+  <KillNightmareLord.YourMissionIsToConfront>Görevin, uğursuz Kâbus Lordu ile - iskelet bir canavarla - yüzleşmek. Neyse ki çok uzağa bakmana gerek yok, çünkü inini hemen ilk katta bulabilirsin.\n\nBu görevi yalnızca mini-patronların olduğu zindanlarda tamamlayabileceğini unutma.</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
+  <KillNightmareLord.dungeonModifiers>1. katta Kâbus Lordu</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+
+  <KillPhantasmos.label>Phantasmos'u Öldür</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
+  <KillPhantasmos.description>4. kattaki mumya mini-patron Phantasmos'u öldür.</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
+  <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>4. katta, çağlar öncesinin gizemlerine sarılı bir mumya olan Phantasmos bekliyor. Amacın onu alt etmek.</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
+  <KillPhantasmos.dungeonModifiers>4. katta Phantasmos</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+
+  <KillSkeletons.label>Isınma</KillSkeletons.label> <!-- <En>Warmup</En> -->
+  <KillSkeletons.description>10 iskelet öldür.</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
+  <KillSkeletons.ItLooksLikeYoureGoing>Görünüşe göre bir süre burada kalacaksın, o yüzden biraz alıştırma yapmalısın. 10 iskelet öldür.</KillSkeletons.ItLooksLikeYoureGoing> <!-- <En>It looks like you're going to stay here for a while, so you should practice a bit. Kill 10 skeletons.</En> -->
+  <KillSkeletons.KillSkeletonsKillCount>[KillSkeletons_KillCount] / 10</KillSkeletons.KillSkeletonsKillCount> <!-- <En>[KillSkeletons_KillCount] / 10</En> -->
+
+  <KillSlimes.label>Gelişmiş Isınma</KillSlimes.label> <!-- <En>Advanced Warmup</En> -->
+  <KillSlimes.description>10 balçık öldür.</KillSlimes.description> <!-- <En>Kill 10 slimes.</En> -->
+  <KillSlimes.NowThatYouveGottenSome>Biraz alıştırma yaptığına göre, şimdi gerçek bir mücadele zamanı. Balçıklar zindanı istila etti ve buna bir son vermek sana düşüyor. 10 balçık öldür.</KillSlimes.NowThatYouveGottenSome> <!-- <En>Now that you've gotten some practice, it's time for a real challenge. Slimes have invaded the dungeon and it's up to you to put a stop to this. Kill 10 slimes.</En> -->
+  <KillSlimes.KillSlimesKillCount10>[KillSlimes_KillCount] / 10</KillSlimes.KillSlimesKillCount10> <!-- <En>[KillSlimes_KillCount] / 10</En> -->
+
+  <MoonlightMedallions.label>Ay Işığı Madalyonları</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
+  <MoonlightMedallions.description>2. kattaki 4 Ay Işığı Madalyonunu topla.</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
+  <MoonlightMedallions.ThereAre4MoonlightMedallions>Bu zindanın ikinci katında etrafa dağılmış 4 Ay Işığı Madalyonu var. Anlamlarını ortaya çıkarmak için hepsini topla.</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
+  <MoonlightMedallions.dungeonModifiers>2. katta 4 Ay Işığı Madalyonu</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+
+  <PhantomSwarm.label>Hayalet Sürüsü</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
+  <PhantomSwarm.description>3. kattaki hayalet kargaşasını bastır.</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
+  <PhantomSwarm.PhantomsHaveOverrunThe>Hayaletler üçüncü katı istila etti. En az 3 tanesini öldürerek buna bir son ver.</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
+  <PhantomSwarm.dungeonModifiers>3. katta fazladan 3 hayalet</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+
+  <RatInfestation.label>Sıçan İstilası</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
+  <RatInfestation.description>2. kattaki sıçan istilasıyla başa çık.</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
+  <RatInfestation.RatsEverywhereYouHave>Her yer sıçan! Bu sinir bozucu sorunu çözmeli ve ikinci kattaki sıçan istilasıyla başa çıkmalısın. Bu görevi tamamlamak için orada en az 5 sıçan öldürmen gerekecek. Uyarı: Bu görevi kabul etmek, ikinci katta daha fazla sıçan belireceği anlamına gelir.</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
+  <RatInfestation.dungeonModifiers>2. katta fazladan 5 sıçan</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+
+</SpecTranslations>

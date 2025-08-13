@@ -1,0 +1,346 @@
+<SpecTranslations>
+
+  <BarredDoor.label>빗장 걸린 문</BarredDoor.label> <!-- <En>barred door</En> -->
+  <BarredDoor.description>빗장이 걸린 문입니다. 파괴해야만 지나갈 수 있습니다.</BarredDoor.description> <!-- <En>A barred door. The only way to get through is to destroy it.</En> -->
+
+  <Barrel.label>통</Barrel.label> <!-- <En>barrel</En> -->
+  <Barrel.description>오래된 통입니다. 유용한 물건이 들어있을 수도 있습니다.</Barrel.description> <!-- <En>An old barrel. May contain something useful.</En> -->
+
+  <Bars.label>쇠창살</Bars.label> <!-- <En>bars</En> -->
+  <Bars.description>금속 쇠창살입니다.</Bars.description> <!-- <En>Metal bars.</En> -->
+
+  <BeerBarrel.label>맥주통</BeerBarrel.label> <!-- <En>beer barrel</En> -->
+  <BeerBarrel.description>맥주가 가득 찬 통입니다. 파괴하면 근처의 모두를 취하게 만듭니다.</BeerBarrel.description> <!-- <En>A barrel full of beer. It'll make everyone nearby drunk if destroyed.</En> -->
+
+  <BigCrate.label>큰 상자</BigCrate.label> <!-- <En>big crate</En> -->
+  <BigCrate.description>오래된 상자입니다. 유용한 물건이 들어있을 수도 있습니다.</BigCrate.description> <!-- <En>An old crate. May contain something useful.</En> -->
+
+  <BigMagicTrap.label>대형 마법 함정</BigMagicTrap.label> <!-- <En>big magic trap</En> -->
+  <BigMagicTrap.description>치명적인 마법 함정입니다. 다른 사람을 던져 넣는 것이 최선입니다.</BigMagicTrap.description> <!-- <En>A deadly magic trap. Best to throw someone else into it.</En> -->
+
+  <BigPoisonTrap.label>대형 독 함정</BigPoisonTrap.label> <!-- <En>big poison trap</En> -->
+  <BigPoisonTrap.description>치명적인 독 함정입니다. 다른 사람을 던져 넣는 것이 최선입니다.</BigPoisonTrap.description> <!-- <En>A deadly poison trap. Best to throw someone else into it.</En> -->
+
+  <BlueCrystal.label>푸른 수정</BlueCrystal.label> <!-- <En>blue crystal</En> -->
+  <BlueCrystal.description>곡괭이로 채광하여 무기에 마법 효과를 부여하는 데 사용하세요. 장비를 강화하려면 같은 색상의 수정 2개가 필요합니다.</BlueCrystal.description> <!-- <En>Mine it with a pickaxe and use it to enchant your weapon with a magic effect. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <Bonfire.label>모닥불</Bonfire.label> <!-- <En>bonfire</En> -->
+  <Bonfire.description>여기서 무언가를 요리할 수 있습니다.</Bonfire.description> <!-- <En>You can cook something here.</En> -->
+  <Bonfire.YouSeeABonfireInFront>눈앞에 모닥불이 보입니다.\n\n여기서 음식을 요리할 수 있습니다.</Bonfire.YouSeeABonfireInFront> <!-- <En>You see a bonfire in front of you.\n\nYou can cook some food here.</En> -->
+
+  <Boulder.label>바위</Boulder.label> <!-- <En>boulder</En> -->
+  <Boulder.description>길을 막고 있는 큰 바위입니다.</Boulder.description> <!-- <En>A big boulder blocking your path.</En> -->
+
+  <BrickWall.label>벽돌 벽</BrickWall.label> <!-- <En>brick wall</En> -->
+  <BrickWall.description>이 오래된 벽돌 벽은 그리 안정적으로 보이지 않습니다.</BrickWall.description> <!-- <En>This old brick wall doesn't look very stable.</En> -->
+
+  <Bridge.label>다리</Bridge.label> <!-- <En>bridge</En> -->
+  <Bridge.description>나무로 된, 불에 잘 타는 다리입니다.</Bridge.description> <!-- <En>A wooden, flammable bridge.</En> -->
+
+  <CeilingBars.label>천장 쇠창살</CeilingBars.label> <!-- <En>ceiling bars</En> -->
+  <CeilingBars.description>천장에 있는 금속 쇠창살입니다.</CeilingBars.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingBarsReinforced.label>천장 쇠창살 (강화됨)</CeilingBarsReinforced.label> <!-- <En>ceiling bars (reinforced)</En> -->
+  <CeilingBarsReinforced.description>천장에 있는 금속 쇠창살입니다.</CeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingSupport.label>천장 지지대</CeilingSupport.label> <!-- <En>ceiling support</En> -->
+  <CeilingSupport.description>천장의 무게를 지탱하는 데 도움을 줍니다.</CeilingSupport.description> <!-- <En>Helps support the weight of the ceiling.</En> -->
+
+  <CeilingWithPipe.label>파이프가 있는 천장</CeilingWithPipe.label> <!-- <En>ceiling with a pipe</En> -->
+  <CeilingWithPipe.description>파이프가 있는 천장입니다.</CeilingWithPipe.description> <!-- <En>A ceiling with a pipe.</En> -->
+
+  <Chain.label>사슬</Chain.label> <!-- <En>chain</En> -->
+  <Chain.description>천장에 매달려 있는 사슬입니다.</Chain.description> <!-- <En>A chain hanging from the ceiling.</En> -->
+
+  <ChainPost.label>사슬 기둥</ChainPost.label> <!-- <En>chain post</En> -->
+  <ChainPost.description>사슬이 부착된 돌기둥입니다.</ChainPost.description> <!-- <En>A stone post with a chain attached to it.</En> -->
+
+  <Chair.label>의자</Chair.label> <!-- <En>chair</En> -->
+  <Chair.description>이 아름다운 던전에서 앉아서 휴식을 취하세요.</Chair.description> <!-- <En>Sit and relax in this beautiful dungeon.</En> -->
+
+  <Crates.label>상자들</Crates.label> <!-- <En>crates</En> -->
+  <Crates.description>유용한 물건이 들어있을 수도, 없을 수도 있습니다.</Crates.description> <!-- <En>May or may not contain something useful.</En> -->
+
+  <CultistCircle.label>이교도 의식진</CultistCircle.label> <!-- <En>cultist circle</En> -->
+  <CultistCircle.description>바닥에 그려진 이상한 상징입니다. 성수와는 상극입니다.</CultistCircle.description> <!-- <En>Some strange symbols on the floor. They don't go well with holy water.</En> -->
+
+  <CutGrass.label>잘린 풀</CutGrass.label> <!-- <En>cut grass</En> -->
+  <CutGrass.description>풀이 남아있습니다.</CutGrass.description> <!-- <En>Grass remains.</En> -->
+
+  <CutsceneTrigger.label>컷신 발동 장치</CutsceneTrigger.label> <!-- <En>cutscene trigger</En> -->
+
+  <CyanWallLamp.label>청록색 벽등</CyanWallLamp.label> <!-- <En>cyan wall lamp</En> -->
+  <CyanWallLamp.description>멋진 청록색 벽등입니다.</CyanWallLamp.description> <!-- <En>A stylish, cyan wall lamp.</En> -->
+
+  <DamagedCeilingBars.label>손상된 천장 쇠창살</DamagedCeilingBars.label> <!-- <En>damaged ceiling bars</En> -->
+  <DamagedCeilingBars.description>천장에 있는 금속 쇠창살입니다. 누군가 부수고 지나간 것 같습니다.</DamagedCeilingBars.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DamagedCeilingBarsReinforced.label>손상된 천장 쇠창살 (강화됨)</DamagedCeilingBarsReinforced.label> <!-- <En>damaged ceiling bars (reinforced)</En> -->
+  <DamagedCeilingBarsReinforced.description>천장에 있는 금속 쇠창살입니다. 누군가 부수고 지나간 것 같습니다.</DamagedCeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DangerDoor.label>붉은 문</DangerDoor.label> <!-- <En>red door</En> -->
+  <DangerDoor.description>이 문 뒤에는 선택적 도전 과제가 있습니다. 하지만 조심하세요, 정말 어려울 수 있습니다!</DangerDoor.description> <!-- <En>There's an optional challenge behind this door. But beware, it may be really difficult!</En> -->
+  <DangerDoor.YouSeeARedDoorInFront>눈앞에 붉은 문이 보입니다.\n\n문 뒤에는 선택적 도전 과제가 있습니다.\n\n하지만 조심하세요, 정말 어려울 수 있습니다!</DangerDoor.YouSeeARedDoorInFront> <!-- <En>You see a red door in front of you.\n\nThere's an optional challenge behind it.\n\nBut beware, it may be really difficult!</En> -->
+  <DangerDoor.Open>열기</DangerDoor.Open> <!-- <En>Open</En> -->
+
+  <DescendTrigger.label>구멍</DescendTrigger.label> <!-- <En>hole</En> -->
+  <DescendTrigger.description>이 구멍은 던전의 아래층으로 이어집니다.</DescendTrigger.description> <!-- <En>This hole will lead you to the lower level of this dungeon.</En> -->
+
+  <Dirt.label>흙더미</Dirt.label> <!-- <En>dirt</En> -->
+  <Dirt.description>삽으로 파서 길을 만들 수 있습니다. 무엇을 찾을 수 있을지는 아무도 모릅니다.</Dirt.description> <!-- <En>Dig into it with a shovel to clear a path. Who knows what you can find here.</En> -->
+
+  <DiscoBall.label>미러볼</DiscoBall.label> <!-- <En>disco ball</En> -->
+  <DiscoBall.description>화려한 미러볼입니다. 그런데 왜 여기에 있는 걸까요?</DiscoBall.description> <!-- <En>A colorful disco ball. But what is it doing here?</En> -->
+
+  <Door.label>문</Door.label> <!-- <En>door</En> -->
+  <Door.description>이 문을 여는 것은 인생 최고의 결정이 될 수도, 최악의 결정이 될 수도 있습니다. 문을 걷어차 반대편에 서 있는 모든 적을 밀쳐낼 수도 있습니다.</Door.description> <!-- <En>Opening this door could be the best decision of your life, or the worst. You can also decide to kick it instead, which will push all enemies standing on the other side.</En> -->
+
+  <Fan.label>환풍기</Fan.label> <!-- <En>fan</En> -->
+  <Fan.description>적어도 여기는 환기가 좀 되는군요.</Fan.description> <!-- <En>At least there's some ventilation here.</En> -->
+
+  <Fence.label>울타리</Fence.label> <!-- <En>fence</En> -->
+  <Fence.description>나무 울타리입니다. 통과할 수는 없지만 너머를 볼 수는 있습니다.</Fence.description> <!-- <En>A wooden fence. Lets you see through it, but not pass.</En> -->
+
+  <Fire.label_2>불</Fire.label_2> <!-- <En>fire</En> -->
+  <Fire.description>지나가는 캐릭터는 불이 붙습니다. 불은 인접한 다른 가연성 물체에는 번지지만, 캐릭터에게는 번지지 않습니다.</Fire.description> <!-- <En>Any passing character will be set on fire. Fire spreads onto other adjacent flammable objects, but not characters.</En> -->
+
+  <Floor.label>바닥</Floor.label> <!-- <En>floor</En> -->
+  <Floor.description>바닥... 혹은 서 있는 위치에 따라 천장일 수도 있습니다.</Floor.description> <!-- <En>A floor... or a ceiling depending on where you're standing.</En> -->
+
+  <FloorBars.label>바닥 쇠창살</FloorBars.label> <!-- <En>floor bars</En> -->
+  <FloorBars.description>바닥에 있는 금속 쇠창살입니다.</FloorBars.description> <!-- <En>Metal bars in the floor.</En> -->
+
+  <FloorBarsReinforced.label>바닥 쇠창살 (강화됨)</FloorBarsReinforced.label> <!-- <En>floor bars (reinforced)</En> -->
+  <FloorBarsReinforced.description>바닥에 있는 금속 쇠창살입니다. 이 쇠창살은 폭발에 내성이 있습니다.</FloorBarsReinforced.description> <!-- <En>Metal bars in the floor. These bars are resistant to explosions.</En> -->
+
+  <Frame.label>창틀</Frame.label> <!-- <En>frame</En> -->
+  <Frame.description>다른 방으로 가는 또 다른 방법입니다.</Frame.description> <!-- <En>An alternative way to get to the other room.</En> -->
+
+  <Gate.label>쇠문</Gate.label> <!-- <En>gate</En> -->
+  <Gate.description>이 문을 열려면 어딘가에 레버가 있을 겁니다.</Gate.description> <!-- <En>There must be a lever somewhere to open this gate.</En> -->
+
+  <GateReinforced.label>쇠문 (강화됨)</GateReinforced.label> <!-- <En>gate (reinforced)</En> -->
+  <GateReinforced.description>이 문을 열려면 어딘가에 레버가 있을 겁니다. 이 문은 폭발에 내성이 있습니다.</GateReinforced.description> <!-- <En>There must be a lever somewhere to open this gate. This gate is resistant to explosions.</En> -->
+
+  <GlassWall.label>유리벽</GlassWall.label> <!-- <En>glass wall</En> -->
+  <GlassWall.description>반대편에 무엇이 있는지 볼 수 있습니다. 돌을 던져서 깰 수 있습니다.</GlassWall.description> <!-- <En>See what's on the other side. You can throw a stone to break it.</En> -->
+
+  <Glyph1.label>문양</Glyph1.label> <!-- <En>glyph</En> -->
+  <Glyph1.description>수수께끼의 그림입니다. 무슨 의미가 있을까요?\n\n아래쪽에는 'Nopaew'라고 쓰여 있습니다.</Glyph1.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Nopaew</En> -->
+
+  <Glyph2.label>문양</Glyph2.label> <!-- <En>glyph</En> -->
+  <Glyph2.description>수수께끼의 그림입니다. 무슨 의미가 있을까요?\n\n아래쪽에는 'Romra'라고 쓰여 있습니다.</Glyph2.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Romra</En> -->
+
+  <Glyph3.label>문양</Glyph3.label> <!-- <En>glyph</En> -->
+  <Glyph3.description>수수께끼의 그림입니다. 무슨 의미가 있을까요?\n\n아래쪽에는 'Llorcs'라고 쓰여 있습니다.</Glyph3.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Llorcs</En> -->
+
+  <Glyph4.label>문양</Glyph4.label> <!-- <En>glyph</En> -->
+  <Glyph4.description>수수께끼의 그림입니다. 무슨 의미가 있을까요?\n\n아래쪽에는 'Noitop'이라고 쓰여 있습니다.</Glyph4.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Noitop</En> -->
+
+  <GoldenDoor.label>황금 문</GoldenDoor.label> <!-- <En>golden door</En> -->
+  <GoldenDoor.description>이 황금 문은 황금 열쇠로만 열 수 있습니다.</GoldenDoor.description> <!-- <En>This golden door can only be opened with a golden key.</En> -->
+
+  <GooPuddle.label>끈적이 웅덩이</GooPuddle.label> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description>지나가는 캐릭터의 속도를 늦추는 끈적이 웅덩이입니다.</GooPuddle.description> <!-- <En>A pool of goo which will slow down any passing character.</En> -->
+
+  <Grass.label>풀</Grass.label> <!-- <En>grass</En> -->
+  <Grass.description>유난히 길게 자란 풀밭입니다.</Grass.description> <!-- <En>A patch of unusually long blades of grass.</En> -->
+
+  <GreenCrystal.label>녹색 수정</GreenCrystal.label> <!-- <En>green crystal</En> -->
+  <GreenCrystal.description>곡괭이로 채광하여 장비의 방어 성능을 높이는 데 사용하세요. 장비를 강화하려면 같은 색상의 수정 2개가 필요합니다.</GreenCrystal.description> <!-- <En>Mine it with a pickaxe and use it to boost your gear's protective properties. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <GreenWallLamp.label>녹색 벽등</GreenWallLamp.label> <!-- <En>green wall lamp</En> -->
+  <GreenWallLamp.description>멋진 녹색 벽등입니다.</GreenWallLamp.description> <!-- <En>A stylish, green wall lamp.</En> -->
+
+  <HangingRope.label>밧줄</HangingRope.label> <!-- <En>rope</En> -->
+  <HangingRope.description>천장에 매달려 있는 밧줄입니다.</HangingRope.description> <!-- <En>A rope hanging from the ceiling.</En> -->
+
+  <Hatch.label>해치</Hatch.label> <!-- <En>hatch</En> -->
+  <Hatch.description>당신이 온 곳입니다. 돌아갈 수는 없습니다 - 시간은 앞으로만 흐르니까요, 그렇죠?</Hatch.description> <!-- <En>This is where you came from. There's no going back - time only moves forward, right?</En> -->
+
+  <InvisibleBlocker.label>장애물</InvisibleBlocker.label> <!-- <En>blocker</En> -->
+
+  <IronOre.label>철광석</IronOre.label> <!-- <En>iron ore</En> -->
+  <IronOre.description>곡괭이로 채광하여 모루에서 장비 레벨을 업그레이드하는 데 사용하세요.</IronOre.description> <!-- <En>Mine it with a pickaxe and use it at an anvil to upgrade your gear level.</En> -->
+
+  <Ladder.label>사다리</Ladder.label> <!-- <En>ladder</En> -->
+  <Ladder.description>위층으로 올라가는 데 사용할 수 있는 사다리입니다.</Ladder.description> <!-- <En>A ladder you can use to reach the upper level.</En> -->
+
+  <Lava.label>용암</Lava.label> <!-- <En>lava</En> -->
+  <Lava.description>있기에 썩 좋은 장소는 아닙니다.</Lava.description> <!-- <En>Not the best place to be in.</En> -->
+
+  <Liana.label>덩굴</Liana.label> <!-- <En>liana</En> -->
+  <Liana.description>타고 올라갈 수 있는 덩굴입니다.</Liana.description> <!-- <En>A liana which you can climb.</En> -->
+
+  <LobbySign.label>로비 표지판</LobbySign.label> <!-- <En>lobby sign</En> -->
+  <LobbySign.description>이 길은 로비로 돌아갑니다.</LobbySign.description> <!-- <En>This way leads back to the lobby.</En> -->
+
+  <MagicColumns.label>기둥들</MagicColumns.label> <!-- <En>columns</En> -->
+  <MagicColumns.description>네 개의 얇은 기둥입니다.</MagicColumns.description> <!-- <En>Four thin columns.</En> -->
+
+  <MagicFire.label>마법 불꽃</MagicFire.label> <!-- <En>magic fire</En> -->
+  <MagicFire.description>지나가는 캐릭터는 불이 붙습니다. 이 불꽃은 인접한 물체로 번지지 않습니다.</MagicFire.description> <!-- <En>Any passing character will be set on fire. This type of fire doesn't spread onto adjacent objects.</En> -->
+
+  <MagicWall.label>마법 벽</MagicWall.label> <!-- <En>magic wall</En> -->
+  <MagicWall.description>곧 사라질 마법 벽입니다.</MagicWall.description> <!-- <En>A magic wall which will disappear soon.</En> -->
+
+  <Pedestal.label>받침대</Pedestal.label> <!-- <En>pedestal</En> -->
+  <Pedestal.description>튼튼한 돌 받침대입니다.</Pedestal.description> <!-- <En>A sturdy, stone pedestal.</En> -->
+
+  <Pillar.label>기둥</Pillar.label> <!-- <En>pillar</En> -->
+  <Pillar.description>천장을 안정적으로 유지하는 훌륭한 역할을 합니다.</Pillar.description> <!-- <En>Does a great job at keeping the ceiling stable.</En> -->
+
+  <PinkWallLamp.label>분홍색 벽등</PinkWallLamp.label> <!-- <En>pink wall lamp</En> -->
+  <PinkWallLamp.description>멋진 분홍색 벽등입니다.</PinkWallLamp.description> <!-- <En>A stylish, pink wall lamp.</En> -->
+
+  <PipeSmoke.label>파이프 연기</PipeSmoke.label> <!-- <En>pipe smoke</En> -->
+  <PipeSmoke.description>파이프에서 나오는 유독한 연기입니다.</PipeSmoke.description> <!-- <En>A toxic smoke coming from a pipe.</En> -->
+
+  <Piston.label>피스톤</Piston.label> <!-- <En>piston</En> -->
+  <Piston.description>늘어났다 줄어들었다 합니다.</Piston.description> <!-- <En>Extends and retracts.</En> -->
+
+  <Planks.label>판자</Planks.label> <!-- <En>planks</En> -->
+  <Planks.description>나무 판자 더미입니다. 도끼로 파괴하면 판자를 떨어뜨립니다.</Planks.description> <!-- <En>A pile of wooden planks. Will drop planks if destroyed with an axe.</En> -->
+
+  <Platform.label>발판</Platform.label> <!-- <En>platform</En> -->
+  <Platform.description>벽에 나무 지지대가 부착된 발판입니다.</Platform.description> <!-- <En>A platform with a wooden support attached to the wall.</En> -->
+
+  <PoisonCloud.label>독구름</PoisonCloud.label> <!-- <En>poison cloud</En> -->
+  <PoisonCloud.description>지나가는 캐릭터는 중독됩니다.</PoisonCloud.description> <!-- <En>Any passing character will become poisoned.</En> -->
+
+  <Pond.label>연못</Pond.label> <!-- <En>pond</En> -->
+  <Pond.description>작은 연못입니다. 불을 끄기에 좋습니다. 여기서 약병에 물을 채울 수도 있습니다.</Pond.description> <!-- <En>A small pond. Good for extinguishing fires. You can also fill vials with water here.</En> -->
+
+  <PressurePlate.label>압력판</PressurePlate.label> <!-- <En>pressure plate</En> -->
+  <PressurePlate.description>누군가 밟으면 즉시 활성화되는 압력판입니다.</PressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it.</En> -->
+
+  <RedCrystal.label>붉은 수정</RedCrystal.label> <!-- <En>red crystal</En> -->
+  <RedCrystal.description>곡괭이로 채광하여 무기를 더 치명적으로 만드는 데 사용하세요. 장비를 강화하려면 같은 색상의 수정 2개가 필요합니다.</RedCrystal.description> <!-- <En>Mine it with a pickaxe and use it to make your weapon more deadly. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <RedCutGrass.label>잘린 붉은 풀</RedCutGrass.label> <!-- <En>cut red grass</En> -->
+  <RedCutGrass.description>붉은 풀이 남아있습니다.</RedCutGrass.description> <!-- <En>Red grass remains.</En> -->
+
+  <RedLamp.label>붉은 등</RedLamp.label> <!-- <En>red lamp</En> -->
+  <RedLamp.description>짙은 붉은 빛을 내뿜는 등입니다.</RedLamp.description> <!-- <En>A lamp emitting deep red light.</En> -->
+
+  <Rock.label>돌</Rock.label> <!-- <En>rock</En> -->
+  <Rock.description>중간 크기의 바위. 부수면 던질 수 있는 돌을 얻을 수 있습니다.</Rock.description> <!-- <En>A medium-sized rock. Break it to get a throwable stone.</En> -->
+
+  <RoyalDoor.label>왕실 문</RoyalDoor.label> <!-- <En>royal door</En> -->
+  <RoyalDoor.description>이 왕실 문은 왕실 열쇠로만 열 수 있습니다.</RoyalDoor.description> <!-- <En>This royal door can only be opened with a royal key.</En> -->
+
+  <SecretPassage.label>벽</SecretPassage.label> <!-- <En>wall</En> -->
+  <SecretPassage.description>이 벽은 오랫동안 여기에 있었고, 앞으로도 한동안은 없어지지 않을 것 같습니다.</SecretPassage.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <SecretRoomTrigger.label>비밀의 방 발동 장치</SecretRoomTrigger.label> <!-- <En>secret room trigger</En> -->
+
+  <Shelf.label>선반</Shelf.label> <!-- <En>shelf</En> -->
+  <Shelf.description>몇 가지 물건이 올려져 있는 선반입니다.</Shelf.description> <!-- <En>A shelf with some things on it.</En> -->
+
+  <Sign.label>표지판</Sign.label> <!-- <En>sign</En> -->
+
+  <SilverDoor.label>은색 문</SilverDoor.label> <!-- <En>silver door</En> -->
+  <SilverDoor.description>이 은색 문은 은 열쇠로만 열 수 있습니다. 그 뒤에는 귀중한 것이 있을지도 모릅니다.</SilverDoor.description> <!-- <En>This silver door can only be opened with a silver key. There could be something precious behind it.</En> -->
+  <SilverDoor.YouSeeASilverDoorInFront>당신 앞에 은색 문이 보입니다.\n\n이 문은 은 열쇠로만 열 수 있습니다.\n\n사용 가능한 열쇠보다 잠긴 문이 더 많을 수 있으니, 열쇠를 현명하게 사용하세요.</SilverDoor.YouSeeASilverDoorInFront> <!-- <En>You see a silver door in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked doors than available keys, so spend your keys wisely.</En> -->
+  <SilverDoor.Open>열기</SilverDoor.Open> <!-- <En>Open</En> -->
+
+  <Smoke.label>연기</Smoke.label> <!-- <En>smoke</En> -->
+  <Smoke.description>시야를 가리는 연기 구름입니다.</Smoke.description> <!-- <En>A smoke cloud which blocks the view.</En> -->
+
+  <Soffit.label>천장 밑면</Soffit.label> <!-- <En>soffit</En> -->
+  <Soffit.description>천장의 아랫부분입니다.</Soffit.description> <!-- <En>An underside of the ceiling.</En> -->
+
+  <SpawnerPressurePlate.label>압력판</SpawnerPressurePlate.label> <!-- <En>pressure plate</En> -->
+  <SpawnerPressurePlate.description>누군가 밟는 즉시 활성화되는 압력판입니다. 표지판에는 "조심! 위험!"이라고 쓰여 있습니다.</SpawnerPressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it. The sign says "Beware! Danger!".</En> -->
+
+  <SpiderWeb.label>거미줄</SpiderWeb.label> <!-- <En>spider web</En> -->
+  <SpiderWeb.description>재료로 사용할 수 있는 거미줄을 얻을 수 있습니다.</SpiderWeb.description> <!-- <En>Yields spider silk, which can be used as an ingredient.</En> -->
+
+  <StaircaseRoomSign.label>계단실 표지판</StaircaseRoomSign.label> <!-- <En>staircase room sign</En> -->
+  <StaircaseRoomSign.description>이 방에는 다음 던전 층으로 이어지는 계단이 있습니다. 문을 열려면 보통 레버를 찾아야 합니다.</StaircaseRoomSign.description> <!-- <En>This room has a staircase leading to the next dungeon floor. You usually need to find a lever to open the gate.</En> -->
+
+  <Stairs.label>계단</Stairs.label> <!-- <En>stairs</En> -->
+  <Stairs.description>계단을 오르거나 내려갈 수 있습니다. 원래 계단은 다 그렇죠.</Stairs.description> <!-- <En>You can either go up the stairs or down the stairs - this is how stairs work in general.</En> -->
+
+  <Table.label>테이블</Table.label> <!-- <En>table</En> -->
+  <Table.description>작은 테이블입니다.</Table.description> <!-- <En>A small table.</En> -->
+
+  <TemporarilyOpenedDoor.label>문틀</TemporarilyOpenedDoor.label> <!-- <En>door frame</En> -->
+  <TemporarilyOpenedDoor.description>열린 문입니다. 닫을 수 있습니다. 안에 서 있는 상태에서 닫으면, 임의의 방향으로 밀려납니다.</TemporarilyOpenedDoor.description> <!-- <En>An open door. You can close it. If you do while standing inside, you'll get pushed away in a random direction.</En> -->
+
+  <TemporaryGate.label>자동문</TemporaryGate.label> <!-- <En>automatic gate</En> -->
+  <TemporaryGate.description>일시적으로 닫힌 문입니다. 잠시 후에 열릴 겁니다.</TemporaryGate.description> <!-- <En>A temporarily-closed gate. It should open after a while.</En> -->
+
+  <Throne.label>왕좌</Throne.label> <!-- <En>throne</En> -->
+  <Throne.description>중요한 누군가를 위한 왕좌입니다.</Throne.description> <!-- <En>A throne for someone important.</En> -->
+
+  <Torch.label>횃불</Torch.label> <!-- <En>torch</En> -->
+  <Torch.description>횃불입니다. 횃불은 꺼지고 나서야 그 존재를 알아차리죠. 그리고 왜 절대 다 타버리지 않는지 궁금하네요. 아마 게임을 개발하지 않아서 그런가 봅니다.</Torch.description> <!-- <En>A torch. You only notice them when they're gone. Also, I wonder why they never seem to burn out, maybe because they don't develop games.</En> -->
+
+  <ToxicWater.label>독성 물</ToxicWater.label> <!-- <En>toxic water</En> -->
+  <ToxicWater.description>이 물은 오염된 것 같습니다.</ToxicWater.description> <!-- <En>This water seems to be contaminated.</En> -->
+
+  <Toxofungus.label>독버섯</Toxofungus.label> <!-- <En>toxofungus</En> -->
+  <Toxofungus.description>파괴될 때 독성 포자를 방출하는 독버섯입니다. 건드리지 않는 한 밟아도 안전합니다.</Toxofungus.description> <!-- <En>A poisonous fungus that releases toxic spores when destroyed. Safe to walk on as long as it's not disturbed.</En> -->
+
+  <UnstableBridge.label>불안정한 다리</UnstableBridge.label> <!-- <En>unstable bridge</En> -->
+  <UnstableBridge.description>나무로 된, 불에 잘 타는 다리입니다. 금방이라도 무너질 것처럼 보입니다.</UnstableBridge.description> <!-- <En>A wooden, flammable bridge. It looks like it can collapse anytime soon.</En> -->
+
+  <Ventillation.label>환풍구</Ventillation.label> <!-- <En>ventilation</En> -->
+  <Ventillation.description>아마 해골들이 편안하게 살 수 있도록 해주는 것 같습니다.</Ventillation.description> <!-- <En>Makes skeletons live comfortably, probably.</En> -->
+
+  <Vines.label>덩굴</Vines.label> <!-- <En>vines</En> -->
+  <Vines.description>길을 막고 있는 빽빽한 덩굴입니다. 틈새로 반대편을 볼 수 있습니다.</Vines.description> <!-- <En>Thick vines blocking the path. Can be seen through.</En> -->
+
+  <VioletTorch.label>보라색 횃불</VioletTorch.label> <!-- <En>violet torch</En> -->
+  <VioletTorch.description>밝은 보라색 불꽃이 타오르는 횃불입니다. 꽤 이상하네요.</VioletTorch.description> <!-- <En>A torch with a bright, violet flame. Quite odd.</En> -->
+
+  <VioletWallLamp.label>보라색 벽등</VioletWallLamp.label> <!-- <En>violet wall lamp</En> -->
+  <VioletWallLamp.description>멋진 보라색 벽등입니다.</VioletWallLamp.description> <!-- <En>A stylish, violet wall lamp.</En> -->
+
+  <Wall.label>벽</Wall.label> <!-- <En>wall</En> -->
+  <Wall.description>이 벽은 오랫동안 여기에 있었고, 앞으로도 한동안은 없어지지 않을 것 같습니다.</Wall.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece1.label>벽</WallPiece1.label> <!-- <En>wall</En> -->
+  <WallPiece1.description>이 벽은 오랫동안 여기에 있었고, 앞으로도 한동안은 없어지지 않을 것 같습니다.</WallPiece1.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece2.label>벽</WallPiece2.label> <!-- <En>wall</En> -->
+  <WallPiece2.description>이 벽은 오랫동안 여기에 있었고, 앞으로도 한동안은 없어지지 않을 것 같습니다.</WallPiece2.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece3.label>벽</WallPiece3.label> <!-- <En>wall</En> -->
+  <WallPiece3.description>이 벽은 오랫동안 여기에 있었고, 앞으로도 한동안은 없어지지 않을 것 같습니다.</WallPiece3.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece4.label>벽</WallPiece4.label> <!-- <En>wall</En> -->
+  <WallPiece4.description>이 벽은 오랫동안 여기에 있었고, 앞으로도 한동안은 없어지지 않을 것 같습니다.</WallPiece4.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece5.label>벽</WallPiece5.label> <!-- <En>wall</En> -->
+  <WallPiece5.description>이 벽은 오랫동안 여기에 있었고, 앞으로도 한동안은 없어지지 않을 것 같습니다.</WallPiece5.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallWithCompartment.label>비밀 공간이 있는 벽</WallWithCompartment.label> <!-- <En>wall with compartment</En> -->
+  <WallWithCompartment.description>이 벽에는 비밀 공간이 있습니다.</WallWithCompartment.description> <!-- <En>This wall has a secret compartment.</En> -->
+
+  <WallWithHole.label>구멍 난 벽</WallWithHole.label> <!-- <En>wall with a hole</En> -->
+  <WallWithHole.description>구멍이 뚫린 벽입니다.</WallWithHole.description> <!-- <En>A wall with a hole.</En> -->
+
+  <WallWithPipe.label>파이프가 있는 벽</WallWithPipe.label> <!-- <En>wall with a pipe</En> -->
+  <WallWithPipe.description>파이프가 설치된 벽입니다.</WallWithPipe.description> <!-- <En>A wall with a pipe.</En> -->
+
+  <Water.label>물</Water.label> <!-- <En>water</En> -->
+  <Water.description>가슴 깊이의 물입니다. 불을 끄기에 좋습니다.</Water.description> <!-- <En>Chest-deep water. Good for extinguishing fires.</En> -->
+
+  <Window.label>창문</Window.label> <!-- <En>window</En> -->
+  <Window.description>반대편에 무엇이 있는지 보세요.</Window.description> <!-- <En>See what's on the other side.</En> -->
+
+  <WoodenFloor.label>나무 바닥</WoodenFloor.label> <!-- <En>wooden floor</En> -->
+  <WoodenFloor.description>누군가 이 아름다운 나무 바닥에 불을 지른다면 정말 안타까운 일일 겁니다.</WoodenFloor.description> <!-- <En>It'd be a shame if someone set this beautiful wooden floor on fire.</En> -->
+
+  <WoodenWall.label>나무 벽</WoodenWall.label> <!-- <En>wooden wall</En> -->
+  <WoodenWall.description>이 벽의 널빤지들은 썩기 시작했습니다. 하지만 여기 있는 해골들에게는 아무 문제가 되지 않는 것 같습니다.</WoodenWall.description> <!-- <En>The planks on this wall are starting to rot. However, it doesn't seem to bother any skeletons out here.</En> -->
+
+  <YellowCutGrass.label>잘린 노란 풀</YellowCutGrass.label> <!-- <En>cut yellow grass</En> -->
+  <YellowCutGrass.description>노란 풀의 잔해입니다.</YellowCutGrass.description> <!-- <En>Yellow grass remains.</En> -->
+
+  <YellowWallLamp.label>노란색 벽등</YellowWallLamp.label> <!-- <En>yellow wall lamp</En> -->
+  <YellowWallLamp.description>멋진 노란색 벽등입니다.</YellowWallLamp.description> <!-- <En>A stylish, yellow wall lamp.</En> -->
+
+</SpecTranslations>

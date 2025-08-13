@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>aproxima-se e ataca, depois recua para evitar ser atingido</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>ataca, depois foge por 8 turnos a menos que encurralado</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>não se aproxima primeiro, mas permanece depois de ser abordado</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>sempre fugindo</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>mantém distância a menos que encurralado</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>mantém distância a menos que encurralado ou sem arma</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>segue o jogador e ataca (membro do grupo)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>segue o jogador e ataca oportunisticamente</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>aproxima-se e ataca</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>fica parado ou foge se atacado</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>fica parado</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>fica parado e cura aliados</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>fica parado ou foge se atacado</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>rouba e depois foge</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

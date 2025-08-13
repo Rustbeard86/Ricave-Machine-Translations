@@ -1,0 +1,30 @@
+<SpecTranslations>
+
+  <AllArmsMissing.label>Cụt tay</AllArmsMissing.label> <!-- <En>armless</En> -->
+  <AllArmsMissing.description>Nhân vật này không có tay, khiến họ gây ít sát thương vật lý hơn. Ngoài ra, nhân vật này không thể sử dụng vật phẩm và một số đòn tấn công cơ bản (ví dụ: cung của cung thủ). Các chi bị thiếu có thể được phục hồi bằng bộ dụng cụ phẫu thuật.</AllArmsMissing.description> <!-- <En>This character has no arms which makes them deal less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+  <AllArmsMissing.ThisCharacterHasNoArms>Nhân vật này không có tay, khiến họ gây ít hơn {0} sát thương vật lý. Ngoài ra, nhân vật này không thể sử dụng vật phẩm và một số đòn tấn công cơ bản (ví dụ: cung của cung thủ). Các chi bị thiếu có thể được phục hồi bằng bộ dụng cụ phẫu thuật.</AllArmsMissing.ThisCharacterHasNoArms> <!-- <En>This character has no arms which makes them deal {0} less physical damage. Additionally, this character can't use items and certain native attacks (e.g. archer's bow). Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllEyesMissing.label>Mù</AllEyesMissing.label> <!-- <En>blind</En> -->
+  <AllEyesMissing.description>Nhân vật này bị mất tất cả mắt, khiến họ bị mù và sẽ đánh trượt 30% số lần. Tuy nhiên, họ vẫn có thể cảm nhận được các nhân vật liền kề và nhớ hướng họ vừa bị tấn công. Các chi bị thiếu có thể được phục hồi bằng bộ dụng cụ phẫu thuật.</AllEyesMissing.description> <!-- <En>This character has all of their eyes missing which makes them blind and they will miss 30% of the time. However, they can still sense adjacent characters and remember from which direction they've recently been attacked. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllLegsMissing.label>Bất động</AllLegsMissing.label> <!-- <En>immobilized</En> -->
+  <AllLegsMissing.description>Nhân vật này bị mất tất cả chân, khiến họ không thể di chuyển. Các chi bị thiếu có thể được phục hồi bằng bộ dụng cụ phẫu thuật.</AllLegsMissing.description> <!-- <En>This character has all of their legs missing which makes them immobile. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <AllWingsMissing.label>Không cánh</AllWingsMissing.label> <!-- <En>wingless</En> -->
+  <AllWingsMissing.description>Nhân vật này bị mất tất cả cánh, khiến họ không thể bay.</AllWingsMissing.description> <!-- <En>This character has all of their wings missing which makes them unable to fly.</En> -->
+
+  <ArmMissing.label>Mất một tay</ArmMissing.label> <!-- <En>arm missing</En> -->
+  <ArmMissing.description>Nhân vật này bị mất một tay, khiến họ gây ít sát thương vật lý hơn. Các chi bị thiếu có thể được phục hồi bằng bộ dụng cụ phẫu thuật.</ArmMissing.description> <!-- <En>This character has one of their arms missing which makes them deal less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+  <ArmMissing.ThisCharacterHasOneOf>Nhân vật này bị mất một tay, khiến họ gây ít hơn {0} sát thương vật lý. Các chi bị thiếu có thể được phục hồi bằng bộ dụng cụ phẫu thuật.</ArmMissing.ThisCharacterHasOneOf> <!-- <En>This character has one of their arms missing which makes them deal {0} less physical damage. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <HatMissing.label>Không mũ</HatMissing.label> <!-- <En>hatless</En> -->
+  <HatMissing.description>Đó là chiếc mũ yêu thích của anh ấy.</HatMissing.description> <!-- <En>It was his favorite hat.</En> -->
+
+  <LegMissing.label>Mất một chân</LegMissing.label> <!-- <En>leg missing</En> -->
+  <LegMissing.description>Nhân vật này bị mất một chân, khiến họ di chuyển chậm gấp đôi. Các chi bị thiếu có thể được phục hồi bằng bộ dụng cụ phẫu thuật.</LegMissing.description> <!-- <En>This character has one of their legs missing which makes them move twice as slow. Missing limbs can be restored with a surgical kit.</En> -->
+
+  <StingMissing.label>Mất ngòi</StingMissing.label> <!-- <En>sting missing</En> -->
+  <StingMissing.description>Nhân vật này bị mất ngòi, khiến họ gây ít sát thương vật lý hơn.</StingMissing.description> <!-- <En>This character has their sting missing which makes them deal less physical damage.</En> -->
+  <StingMissing.ThisCharacterHasTheir>Nhân vật này bị mất ngòi, khiến họ gây ít hơn {0} sát thương vật lý.</StingMissing.ThisCharacterHasTheir> <!-- <En>This character has their sting missing which makes them deal {0} less physical damage.</En> -->
+
+</SpecTranslations>

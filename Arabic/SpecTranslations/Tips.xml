@@ -1,0 +1,43 @@
+<SpecTranslations>
+
+  <Combat.tips><li>تجنب تلقي الضرر من عدة أعداء في آن واحد مهما كلف الأمر. استدرجهم واحدًا تلو الآخر كلما أمكن ذلك.</li><li>لا تقترب من العدو أولًا أبدًا. بدلًا من ذلك، اضغط على [Wait] لانتظارهم حتى يأتوا إليك لتكون دائمًا أول من يلحق بهم الضرر.</li><li>كونك فوق هدفك يجعلك تلحق به ضررًا إضافيًا. هذا يعني أن الشخصيات الطائرة أكثر فتكًا.</li><li>إذا لم يرك عدوك في دوره الأخير، فإن مهاجمته ستجعلك تلحق به ضررًا إضافيًا. اختبئ خلف جدار وانتظره حتى يقترب منك لشن هجوم مباغت.</li><li>يمكن للمدافع إلحاق الضرر بأهداف متعددة في آن واحد. ارمِ رمحًا لتفعيل الفخ من مسافة بعيدة.</li><li>اضغط باستمرار على [Fly] لاستهداف أجزاء الجسم. لأجزاء الجسم المختلفة تأثيرات مختلفة عند تدميرها. يمكنك شل حركة بعض الأعداء أو جعلهم عميانًا.</li><li>تدمير ذراعي شخص ما يجعله غير قادر على استخدام العناصر.</li><li>يمكنك الضغط باستمرار على [Fly] لركل الأبواب. ركل الأبواب يدفع الأعداء الواقفين على الجانب الآخر.</li><li>الانتظار يشحن هجومك التالي. هذه آلية قوية، لذا استخدمها كلما استطعت.</li></Combat.tips> <!-- <En><li>Avoid taking damage from multiple enemies at once at all costs. Lure them one by one whenever possible.</li>
+  <li>Never approach an enemy first. Instead, press [Wait] to wait for them to come to you so that you're always the first one to deal damage.</li>
+  <li>Being above your target makes you deal extra damage. This means that flying characters are even more deadly.</li>
+  <li>If your enemy didn't see you on their last turn, attacking them will make you deal extra damage. Hide behind a wall and wait for them to approach you for a surprise attack.</li>
+  <li>Cannons can deal damage to multiple targets at once. Throw a spear to trigger the trap from a distance.</li>
+  <li>Hold [Fly] to target body parts. Different body parts have different effects when destroyed. You can immobilize some enemies or make them blind.</li>
+  <li>Destroying someone's arms makes them unable to use items.</li>
+  <li>You can hold [Fly] to kick doors. Kicking doors pushes enemies standing on the other side.</li>
+  <li>Waiting charges your next attack. This is a powerful mechanic, so use it whenever you can.</li></En> -->
+
+  <General.tips><li>كل شيء هنا يعتمد على نظام الأدوار، لذا خذ وقتك دائمًا لتخطيط حركتك التالية.</li><li>بعض الأشياء مثل البوابات وقضبان الأرضيات لا يمكن تدميرها إلا بالقنابل أو المعدات الخاصة.</li><li>تدمير قضبان الأرضيات سيتيح لك القفز مباشرة إلى الطابق التالي. ومع ذلك، قد يكلفك هذا بعض نقاط الصحة.</li><li>تنتشر الحرائق بسرعة إلى الأشياء المجاورة القابلة للاشتعال، ولكن ليس إلى الشخصيات. تحتاج إلى الدخول مباشرة في النار لتحترق.</li><li>المانا ثمينة - فهي لا تتجدد تلقائيًا وجرعات المانا نادرة جدًا. استخدم تعاويذك بحكمة.</li><li>يمكن استخدام الألواح الخشبية لغلق الأبواب. الطريقة الوحيدة للمرور عبر الأبواب المغلقة هي تدميرها.</li></General.tips> <!-- <En><li>Everything is turn-based here, so always take your time to plan your next move.</li>
+  <li>Some things like gates and floor bars can only be destroyed with bombs or special equipment.</li>
+  <li>Destroying floor bars will let you jump straight into the next floor. However, this may cost you some hit points.</li>
+  <li>Fires spread quickly onto adjacent, flammable objects, but not characters. You need to step directly into the fire to get burned.</li>
+  <li>Mana is precious - it doesn't regenerate automatically and mana potions are quite rare. Use your spells wisely.</li>
+  <li>Planks can be used to bar doors. The only way to get through barred doors is to destroy them.</li></En> -->
+
+  <Identification.tips><li>يمكن أن تحتوي الأسلحة والدروع على سحر عشوائي قوي. يمكن أن تكون ملعونة أيضًا وسيتعين عليك استخدام مخطوطة إزالة اللعنة لنزعها.</li><li>يتم التعرف على كل عنصر غير معروف في النهاية بمرور الوقت إذا لم تكن جائعًا. يمكنك سحب وإفلات العناصر في شاشة المخزون لتحديد أي عنصر يجب التعرف عليه تاليًا.</li><li>بعض العناصر غير المعروفة مثل الجرعات والمخطوطات والعصي السحرية والقنابل تعطي تلميحًا حول ماهيتها في وصفها. إذا قررت استخدامها على أي حال، فسيتم التعرف عليها لبقية اللعبة.</li></Identification.tips> <!-- <En><li>Weapons and armor can have random, powerful enchantments. They can also be cursed and you'll have to use a curse removal scroll to take them off.</li>
+  <li>Every unidentified item eventually becomes identified over time if you're not hungry. You can drag and drop items in your inventory screen to decide which one should be identified next.</li>
+  <li>Some unidentified items like potions, scrolls, wands, and bombs give a hint on what they could be in their tooltip. If you decide to use them anyway, they will become identified for the rest of the run.</li></En> -->
+
+  <Interface.tips><li>تقريبًا كل عنصر في الواجهة له تلميح. جربه!</li><li>يمكنك التحرك جانبيًا بالضغط على [MoveLeft] و [MoveRight].</li><li>اضغط باستمرار على [Minimap] لرؤية خريطة أكبر. سيتم تمييز بعض المواقع المفيدة هناك.</li><li>اضغط على [AttackNearest] لمهاجمة أقرب هدف لمؤشر الفأرة بسرعة. الأشياء الخطرة مثل البراميل المتفجرة لا يمكن مهاجمتها تلقائيًا.</li><li>اضغط باستمرار على [StationaryActionsOnly] لتثبيت موقعك والسماح بالتفاعل مع الأشياء فقط من موقعك الحالي. يمكن أن يساعدك هذا في تجنب النقرات الخاطئة.</li><li>اضغط باستمرار على [OneStep] للتحرك خطوة واحدة فقط نحو وجهتك. يمكن أن يساعدك هذا في تخطيط حركاتك التالية بشكل أفضل.</li><li>يمكنك الانحناء بالضغط على [LeanLeft] و [LeanRight] (أو بالضغط المستمر على [StationaryActionsOnly] والضغط على [MoveForward]، [RotateLeft]، [MoveBack]، [RotateRight]).</li><li>يمكنك الدوران تلقائيًا نحو أقرب هدف بالضغط على [RotateToNearestTarget].</li><li>يمكنك إعادة ضبط دورانك الحالي بالضغط على [SnapToCurrentRotation].</li></Interface.tips> <!-- <En><li>Almost every interface element has a tooltip. Try it!</li>
+  <li>You can strafe by pressing [MoveLeft] and [MoveRight].</li>
+  <li>Hold [Minimap] to see a bigger map. Some useful locations will be marked there.</li>
+  <li>Press [AttackNearest] to quickly attack the closest target to your mouse. Dangerous objects like exploding barrels aren't auto-attackable.</li>
+  <li>Hold [StationaryActionsOnly] to hold position and allow interacting with objects only from your current position. This can help you avoid missclicks.</li>
+  <li>Hold [OneStep] to make only one move towards your destination. This can help you plan your next moves better.</li>
+  <li>You can lean by pressing [LeanLeft] and [LeanRight] (or holding [StationaryActionsOnly] and pressing [MoveForward], [RotateLeft], [MoveBack], [RotateRight]).</li>
+  <li>You can automatically rotate towards the nearest target by pressing [RotateToNearestTarget].</li>
+  <li>You can reset your current rotation by pressing [SnapToCurrentRotation].</li></En> -->
+
+  <RewindingTime.tips><li>لا تقلق إذا نقرت بالخطأ - يمكنك دائمًا إرجاع الوقت بالضغط على [Rewind] (إذا كان لديك ساعة في مخزونك).</li><li>جميع الإجراءات هنا حتمية، مما يعني أن كل شيء سيحدث تمامًا كما كان من قبل إذا قمت بإرجاع الوقت ثم قمت بنفس الحركة مرة أخرى.</li></RewindingTime.tips> <!-- <En><li>Don't worry if you missclick - you can always rewind time by pressing [Rewind] (if you have a watch in your inventory).</li>
+  <li>All actions here are deterministic, which means that everything will play out exactly the same as before if you rewind time and then make the same move again.</li></En> -->
+
+  <Specific.tips><li>حاول حفظ أفضل جرعاتك ومخطوطاتك لمعارك الزعماء الصغار.</li><li>قد تجد أحيانًا صندوقًا فضيًا به معدات فريدة وبابًا فضيًا يؤدي إلى غرفة سرية. لكن اختر بحكمة - فعادة ما يكون هناك مفتاح فضي واحد فقط في الجوار.</li><li>لتحضير جرعة، تحتاج أولاً إلى العثور على قنينة فارغة، وملئها بالماء، ثم خلطها بالمكون الذي تختاره.</li><li>يمكن أن يحتوي الصندوق الفضي على أجنحة تتيح لك الطيران. يمكنك الطيران بالضغط باستمرار على [Fly] والضغط على [MoveForward] أو [MoveBack].</li><li>قد تجد أحيانًا متجرًا يمكنك فيه شراء الجرعات والمخطوطات بالذهب. إذا كنت شجاعًا، يمكنك محاولة قتل صاحب المتجر وسرقة أغراضه. لكن كن حذرًا، إنها معركة صعبة!</li></Specific.tips> <!-- <En><li>Try to save your best potions and scrolls for the mini-boss fights.</li>
+  <li>You can sometimes find a silver chest with unique gear and a silver door leading to a secret room. But choose wisely - there's usually only one silver key nearby.</li>
+  <li>To brew a potion you need to first find an empty vial, fill it with water, and then mix with your ingredient of choice.</li>
+  <li>A silver chest can contain wings which will let you fly. You can fly by holding [Fly] and pressing [MoveForward] or [MoveBack].</li>
+  <li>You can sometimes find a shop where you can buy potions and scrolls for gold. If you're brave, you can try to kill the shopkeeper and steal his items. But be careful, it's a difficult fight!</li></En> -->
+
+</SpecTranslations>

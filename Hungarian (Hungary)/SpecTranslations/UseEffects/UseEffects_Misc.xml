@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>állapot hozzáadása</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>A célpont új állapotot kap.</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>célponton: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>hatás hozzáadása</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>A célpont új hatást kap.</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>hatás hozzáadása: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>láncoszlophoz rögzítés</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>A célpont láncoszlophoz rögzítése.</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>ajtó elreteszelése</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>Ajtó elreteszelése. Az elreteszelt ajtókon csak azok lerombolásával lehet átjutni.</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>vakító villanás</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>Mindenkit megvakít, aki éppen lát téged.</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>vakító villanás {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>beásás</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>Elrejtőzés a földben.</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>bájital tekercsre cserélése</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>Bármelyik bájitalért cserébe egy véletlenszerű tekercset kapsz.</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>mennyezet beomlasztása</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>A mennyezet beomlik, ha nincs más támaszték.</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>mennyezet beomlasztása ({0} {1} sebzés)</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>mennyezet beomlasztása (egy mező)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>A mennyezet itt beomlik, és mindenkit megsebesít, aki alatta van.</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>mennyezet beomlasztása (egy mező) ({0} {1} sebzés)</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>csillagpor gyűjtése</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>Csillagpor gyűjtése a trófeából.</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>csillagpor gyűjtése x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>főzés</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>Étel főzése.</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>felszerelés bűvölése (kristály)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>Bűvölet alkalmazása egy általad választott felszerelésre.</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>átkozott tárgy felajánlása</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>Átkozott tárgy felajánlása az ördögszobornak jutalomért cserébe.</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>sebzés</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>A célpont a megadott számú életerőpontot veszíti el, levonva a páncélját.</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1} sebzés</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>lerombolás</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>A célpont megsemmisül.</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>ásás</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>Olyan dolgok kiásása, mint a föld.</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>törékeny tárgyak lerombolása</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>Törékeny tárgyak, például téglafalak és kapuk lerombolása.</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>üveg összetörése</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>Üvegből készült tárgyak, például ablakok és üvegpadlók összetörése.</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>bányászás</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>Bányászható tárgyak, például kristályok kibányászása.</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>testrész elpusztítása</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>Egy véletlenszerű testrész elpusztítása.</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>jutalom megszerzése</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>Véletlenszerű jutalom megszerzése.</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>megkettőzés</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>Egy általad választott tárgy megkettőződik vagy megsemmisül.</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>megkettőzés ({0} esély)</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>felszerelés bűvölése</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>Véletlenszerű bűvölet alkalmazása egy általad választott felszerelésre.</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>eloltás</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>Bármilyen tűz eloltása.</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>evés</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>Csillapítsd az éhséged.</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>jóllakottság {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>menet befejezése</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>Befejezed a menetet, és visszatérsz az előcsarnokba.</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>halfogás</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>Hal kifogása.</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>képességpont szerzése</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>Egy képességpontot kapsz.</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>szerencsejáték</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>Tedd fel a pénzed, és nézd meg, nyersz-e.</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>gyógyítás</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>A célpont megadott számú életerőpontja helyreáll.</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>{0} ÉP gyógyítása</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>tárgy azonosítása</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>Tárgy azonosítása.</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>tárgyak azonosítása</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>Tárgyak azonosítása (a megadott környi azonosítási idő alatt).</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>tárgyak azonosítása {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>zajkeltés</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>Alvó lények felébresztése a megadott sugarú körben.</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>elektronikus széf kinyitása</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>Elektronikus széf kinyitása valahol.</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>fizetés</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>Bizonyos tárgyakat át kell adnod.</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>{0} fizetése</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>húzás</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>A célpont a varázsló felé húzódik.</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>húzás {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>lökés</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>A célpont néhány mezővel hátrébb lökődik.</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>lökés {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>véletlenszerű lökés</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>A célpont véletlenszerű irányba lökődik.</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>véletlenszerű lökés {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>véletlenszerű hatás</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>Véletlenszerű hatás alkalmazása.</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>tárgy kapása</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>A felhasználó kap egy tárgyat.</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>{0} kapása</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>állapot eltávolítása</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>Egy bizonyos állapot eltávolításra kerül a célpontról.</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>{0} eltávolítása</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>átok eltávolítása</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>Átok eltávolítása egy tárgyról a célpont készletében. Ez előnyben részesíti az átok eltávolítását a felszerelt tárgyakról.</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>állapot eltávolítása</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>Egy bizonyos állapot eltávolításra kerül a célpontról.</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>{0} eltávolítása</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>kutatás</Research.label> <!-- <En>research</En> -->
+  <Research.description>Egy tárgy kutatása.</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>óra tölteteinek visszaállítása</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>Az órád töltetei nullára állnak, így egy ideig nem tudod visszatekerni az időt.</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>mana visszaállítása</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>A célpont manája helyreáll.</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>{0} mana visszaállítása</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>hiányzó testrészek visszaállítása</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>A célpont minden hiányzó testrésze helyreáll.</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>állóképesség visszaállítása</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>A célpont állóképessége helyreáll.</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>{0} állóképesség visszaállítása</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>visszatérés az előcsarnokba</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>Visszatérés az előcsarnokba. A jelenlegi menet véget ér, de néhány dolgot megtarthatsz.</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>idő visszatekerése</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>Visszalépés az időben.</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>visszatekerés {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>felgyújtás</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>Gyúlékony tárgy felgyújtása.</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>felgyújtás ({0} ÉP)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>szellem felszabadítása</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>Egy szellem felszabadítása.</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>tárgy megidézése</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>Egy új tárgy jelenik meg a közelben.</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>{0} megidézése</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>véletlenszerű ellenség megidézése</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>Egy véletlenszerű ellenség jelenik meg a közelben.</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>tárgy megidézése</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>Egy új tárgy jelenik meg a közelben.</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>{0} megidézése</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>lopás</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>Tárgy ellopása a célponttól.</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>hiányzó testrészek visszaállítása</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>A célpont minden hiányzó testrésze helyreáll.</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>teleportálás</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>A célpont a kijelölt helyre teleportálódik.</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>teleportálás véletlenszerű helyre</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>A célpont egy véletlenszerű helyre teleportálódik.</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>feloldás</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>Új tárgy, hely vagy bónusz feloldása.</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>{0} feloldása</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>szint fejlesztése</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>Egy tárgy szintjének fejlesztése.</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>gömb hatásának fejlesztése</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>Végleges erősítés alkalmazása.</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

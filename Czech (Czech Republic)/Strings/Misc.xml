@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>Hrát</Play> <!-- <En>Play</En> -->
+  <Quit>Ukončit</Quit> <!-- <En>Quit</En> -->
+  <Loading>Načítání</Loading> <!-- <En>Loading</En> -->
+  <Resume>Pokračovat</Resume> <!-- <En>Resume</En> -->
+  <Options>Možnosti</Options> <!-- <En>Options</En> -->
+  <Mods>Módy</Mods> <!-- <En>Mods</En> -->
+  <Credits>Titulky</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>Zvolte jazyk</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>Zemřít a restartovat</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>Zemřít a jít do lobby</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>Uložit a ukončit hru</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>Zavřít</Close> <!-- <En>Close</En> -->
+  <Back>Zpět</Back> <!-- <En>Back</En> -->
+  <Days>{0} dní</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} hodin</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} minut</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 den</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 hodina</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 minuta</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>Něco způsobuje chyby.\nPro více informací se podívejte do souboru se záznamy.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Přihlášen do Steamu</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>není vybrán žádný mód</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>Předběžný přístup</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave je momentálně ve vývoji.\n\nNeustále se snažím přidávat nový obsah, vyvažovat hru, odstraňovat mechaniky, které nejsou zábavné, a sbírat zpětnou vazbu, ale stále jsem mohl něco přehlédnout. Pokud vám hra připadá příliš těžká nebo příliš lehká, narazíte na chybu, nebo máte skvělý nápad na vylepšení či novou funkci, zapojte se prosím do vývojového procesu a podělte se o své myšlenky na našem Discord kanálu nebo Twitteru.\n\nDíky a užijte si hru!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>Hra aktualizována</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricave byl aktualizován na verzi {0}!\n\nVaše současná hra nemusí být kompatibilní s novou verzí. Chcete opustit současnou hru a vrátit se do lobby?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Nahrát na Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>nahrávání</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Nahrání na Steam se nezdařilo: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Úspěšně nahráno na Steam.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>Zpráva</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>Rozlišení</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>Celá obrazovka</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>Měřítko UI</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>Zorné pole</FOV> <!-- <En>FOV</En> -->
+  <VSync>VSync</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>Cílová snímková frekvence</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>Zobrazit FPS</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Invertovat osu Y</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>Přiřazení kláves</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>Hlasitost</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>Hlasitost hudby</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>Citlivost myši</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>Citlivost ukazatele</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>Kvalita SSAO</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>Kvalita stínů</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>Převzorkování</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>Obrysy</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>Max. světel</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>Vypnuto</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>Nízká</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>Normální</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>Vysoká</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>Nízká</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>Normální</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>Vysoká</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>Žádné (nejlepší kvalita)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1,5x (horší kvalita)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (nejhorší kvalita)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>Víceprůchodové zaoblené</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>Víceprůchodové</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>Jednoprůchodové (doporučeno)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>OK</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>Obnovit výchozí</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>Resetovat stav hry</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>Vrátit se do lobby</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>Resetovat veškerý postup</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>Jste si jisti, že se chcete vrátit do lobby?\n\nNa rozdíl od návratu do lobby ve hře, použití této možnosti zde znamená, že ztratíte postup ve své současné hře. Neztratíte však celkový postup v lobby (vaše předchozí úkoly a hvězdný prach zůstanou nedotčeny).\n\nPoužijte tuto možnost, pokud je váš uložený soubor poškozen, např. po instalaci nekompatibilní aktualizace.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>Jste si jisti, že chcete resetovat VEŠKERÝ postup?\n\nTím se smažou všechna vaše data a začnete od začátku.\n\nPoužijte tuto možnost pouze v případě, že chcete hru zažít od nuly, nebo pokud jsou vaše data o postupu poškozena.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>Stiskněte klávesu pro přiřazení k:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>Žádná</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>Obraz</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>Rozhraní</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>Zvuk</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>Různé</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>Kvalita</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>Ne</No> <!-- <En>No</En> -->
+  <Yes>Ano</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>Vstoupit do dungeonu</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>Vstoupit do dungeonu se seedem</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>Vstoupit do tréninkové místnosti</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>Zadejte seed</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>Postup deaktivován</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>Nejvyšší skóre</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>Dosažené patro</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>Průměrné patro</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>Pokusy</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>Celkem zabití</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>Úkoly</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>Statistiky</Stats> <!-- <En>Stats</En> -->
+  <Cancel>Zrušit</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>Přijmout</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>Přijmout úkol</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>Vyzvednout</Claim> <!-- <En>Claim</En> -->
+  <Postpone>Odložit</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>Zamčeno</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>Jen ty nejlepší ceny!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>Potřebujete vylepšení?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>Máte hvězdný prach?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>Klikněte pro více informací</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>Vyberte pro více informací</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>Modifikátory dungeonu po přijetí</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>Odměny</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} dílků skládačky</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>Odemkne se na úrovni {0}</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>Odemkne se dokončením úkolu</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>Položit</Place> <!-- <En>Place</En> -->
+  <PickUp>Zvednout</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>Stiskněte [ShowInventory] pro otevření nabídky obchodu.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>Žádné</None> <!-- <En>None</En> -->
+  <CompletedQuests>Dokončené úkoly</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>Dokončeno</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>Denní výzva</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>Máte jeden pokus - tak ať to stojí za to!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>Každý den mají hráči z celého světa možnost hrát stejný dungeon seed. Máte pouze jeden pokus denně.\n\nPravidla:\n  - Normální obtížnost\n  - Vylepšení deaktivována\n  - Náhodná třída a vlastnosti\n  - Úkoly deaktivovány\n  - Postup deaktivován\n  - Nekonečný komplexní dungeon (bez omezení pater)\n\nV tomto dungeonu nemůžete sbírat hvězdný prach a nebude se započítávat do vašich statistik, ale za účast obdržíte {0}.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>Další výzva za: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>Vaše nejlepší skóre (všechny dny): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>Spustit denní výzvu</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>Dnešní výzvu jste již hráli\nVaše skóre bylo: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>Nejprve deaktivujte módy</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>Odemkne se na úrovni {0}</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>Zobrazit dnešní žebříček</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>Globální</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>Přátelé</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>Vaše pozice: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>Načítání žebříčku...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>Načtení žebříčku se nezdařilo.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>Žebříček není k dispozici.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>Žádný z vašich přátel ještě tuto výzvu nehrál.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>Aktivní úkoly</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>Aktivní</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>Dostupné úkoly</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>Dostupné</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>Historické úkoly</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>Historické</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>Stiskněte [Wait] pro pokračování</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>Úkol</Quest> <!-- <En>Quest</En> -->
+  <Runs>Hry</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 úkol k dispozici</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} úkolů k dispozici</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>Použijte deník úkolů k přijetí úkolů.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>Jméno hráče</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>Obtížnost</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>Nepřátelé</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>Bossové</Bosses> <!-- <En>Bosses</En> -->
+  <Train>Trénovat</Train> <!-- <En>Train</En> -->
+  <EnterNewName>Zadejte nové jméno</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>HP nepřátel</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>Počáteční HP</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>Skóre</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>Nepřátelé navíc</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>Chleba na patro</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>Lektvary zdraví na patro</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>Úroveň nepřátel</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>Zlato na patro</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>Hvězdný prach</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>Léčivé krystaly</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>Malé léčivé krystaly</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>Krystaly many</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>Malé krystaly many</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>Počet nepřátel</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>Počáteční lektvary zdraví</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>Gratulujeme!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>Gratulujeme!\n\nVaše konečné skóre bylo: {0}\n\nAčkoliv hlavní příběhová linie skončila, stále můžete objevovat mnoho dalších věcí.\n\nPokud se vám hra líbila, zvažte připojení k našemu Discord serveru na {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>Cena za další vlastnosti</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>Nejprve musíte odemknout tuto vlastnost.\n\nMůžete si koupit náhodnou vlastnost za hvězdný prach. Čím více vlastností již máte, tím dražší je koupit další.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>Maximální patro, kterého jste dosáhli s touto vlastností: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>Můžete si vybrat maximálně 2 vlastnosti.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>Nemáte dostatek hvězdného prachu.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>Kliknutím vyberete nebo zrušíte výběr této vlastnosti.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>Vybrat nebo zrušit výběr této vlastnosti.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>Kliknutím vyberete nebo zrušíte výběr.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>Vybrat nebo zrušit výběr.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>Koupit {0} náhodných vlastností</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>Vybrané vlastnosti</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>Opravdu chcete koupit {1} náhodných vlastností za {0}?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>Začínáte s {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>Najdete o {0} více zlata</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>Najdete o {0} méně zlata</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>Max HP</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>Max mana</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>Max výdrž</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>Není nepřátelský vůči {0}</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>Nepřátelský vůči {0}</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>{0} odolnost vůči jedu</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>{0} zranitelnost jedem</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>Imunní vůči jedu</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>Žádné poškození pádem</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>{0} poškození pádem</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>{0} odolnost vůči ohni</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>{0} zranitelnost ohněm</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>{0} odolnost vůči magii</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>{0} zranitelnost magií</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{0} poškození vůči {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>Výdrž se regeneruje {0}x pomaleji</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Výdrž se regeneruje dvakrát pomaleji</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>Způsobíte o {0} více poškození, když máte méně než {1} HP</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>Získáte o {0} méně max HP za úroveň</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>Získáte o {0} více max HP za úroveň</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>Hluk chůze {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>Získáte {0} many za cenné zabití</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>Získáte {0} HP za cenné zabití</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>Ztratíte {0} HP za cenné zabití</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>Sloty v inventáři {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>Max HP x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>{0} poškození bossům</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>Rychlost léčení {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>Imunní vůči {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>Imunní vůči odstrčení</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>Rychlost hladovění {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>Ceny v obchodech {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>Umí létat</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>Získáte o {0} více zkušeností</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>Získáte o {0} méně zkušeností</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>Ponechané ZK z minulého pokusu</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>Ponechané zlato z minulého pokusu</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>Zbývá 1 pokus</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>Zbývá {0} pokusů</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>Začít</StartNewRun> <!-- <En>Start</En> -->
+  <Character>Postava</Character> <!-- <En>Character</En> -->
+  <Traits>Vlastnosti</Traits> <!-- <En>Traits</En> -->
+  <Boosts>Posílení</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>Patra</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} pater</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>Místností na patro</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>Odemknout za {0}</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>Dokončeno na obtížnost</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>Mini-bossové</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>Úkryty</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>Zachránění duchové</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>Vítězství</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>Prohry</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>Boss {0}</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>Koliduje s</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>Kosmetické doplňky jsou čistě vizuální a nemají žádný vliv na hru, pokud není uvedeno jinak.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>Chcete koupit {0} za {1}?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>Na tento kosmetický doplněk nemáte dostatek prostředků.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>Cena</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>Varování: Tento kosmetický doplněk způsobí, že frakce {0} bude vůči vám nepřátelská</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>Další modifikátory dungeonu</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>Tvůj čas je jen vypůjčený.\nJen si vybírám svůj dluh.\nJen do toho, utíkej dál.\nNakonec najdeš východ.\nA já jsem hned za ním.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>Neobjevený nepřítel</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} HP</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} many</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} výdrže</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} až {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>přepaden</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>shora</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>z odražení</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>šíření poškození</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>neidentifikovaný</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>Prokletý</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>prokletý</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 tah</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} tahů</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1 použití</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} použití</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 nabití</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} nabití</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 diamant</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} diamantů</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 hvězdný prach</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} hvězdného prachu</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 buňka</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} buněk</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 zlato</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} zlata</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0} z</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>Stiskněte [Accept] pro pokračování</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>Stiskněte [Accept] pro pokračování do lobby</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>Stiskněte [Wait] pro restart</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>žádné možnosti</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>Varování: Tento předmět může být {0}.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>Varování: Tento předmět je {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>Nemůžete si svléknout {0} předměty (bez svitku na odstranění kletby).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>Zlato</Gold> <!-- <En>Gold</En> -->
+  <Leave>Odejít</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>Jedná dvakrát za tah</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>Jedná {0}krát za tah</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>Jedná každý druhý tah</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>Jedná jednou za {0} tahů</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>Nehladoví</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>Hladoví dvakrát rychleji</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>Hladoví {0}krát rychleji</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>Hladoví dvakrát pomaleji</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>Násobitel rychlosti hladovění: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>Hodit {0} zlata</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>Šance {0}</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>v hodnotě {0} tahů</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>rádius {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>celá mapa</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>skrz zdi</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>kolem cíle</AroundTarget> <!-- <En>around target</En> -->
+  <Used>Použito</Used> <!-- <En>Used</En> -->
+  <Waiting>Čekání</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>Přerušeno</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>místo</Location> <!-- <En>spot</En> -->
+  <StopTargeting>Zrušit zaměřování</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>Úkol dokončen</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>Vyzvedněte si odměnu, až budete zpět v lobby</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>Stacionární</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>Jeden krok</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>Chceš koupit {0} za {1}?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>Toto je bonus na jedno použití a platí pouze pro tvůj příští běh.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>Koupit</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>K dispozici za {0}</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>Toto je rodná zbraň této postavy.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>Vyber nové kouzlo.\n\Nové kouzlo si můžeš vybrat pokaždé, když postoupíš na novou úroveň.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} zabit</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>Tip: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>Pohybuj se pomocí [MoveForward][MoveLeft][MoveBack][MoveRight]. Stiskni [ShowInventory] pro otevření inventáře. Použij [Interact] pro interakci s objekty. Otáčej se pomocí [RotateLeft] a [RotateRight]. Podrž [Inspect] pro prozkoumání. Stiskni [Wait] pro čekání na tah.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>Čeká</Waits> <!-- <En>Waits</En> -->
+  <Wait>Čekat</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>Čeká (opilý)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>Čeká (panika)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>Čeká ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>Probouzí se</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>Kde?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>Bez rukou</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>Bez nohou</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>Nepřátelský</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>Chybějící části těla</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>Někdo tě vidí</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>Boss je stále naživu</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>Nedostatek many ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>Nedostatek výdrže ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>Zotavování ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>Jdi blíž</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>Neplatný cíl</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>Mimo dosah</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>Mimo dohled</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>Potřeba {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>Nelze dosáhnout</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>Plný inventář</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>Potřebuješ 2 stejné krystaly</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>Potřebuješ ducha</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>Potřebuješ lopatu</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>Použít lopatu</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>Potřebuješ krumpáč</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>Použít krumpáč</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>Někteří členové družiny jsou příliš daleko</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>Dveře jsou zablokované</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>Následovník {0} již existuje</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} tobě nyní</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} nyní</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} nyní pro tebe</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>{0} poškození za tah</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{0} poškození za {1} tahů</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} za tah</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} za {1} tahů</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>vše</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} pro tebe</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>nebo</Or> <!-- <En>or</En> -->
+  <And>a</And> <!-- <En>and</En> -->
+  <Score>Skóre</Score> <!-- <En>Score</En> -->
+  <FloorReached>Dosažené patro</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>Zabití</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>Hrací doba</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>Zabití</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>Bojové hodnocení</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>Zabitých bossů</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>Sebrané předměty v lobby</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>Další odměna na úrovni {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}d</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}h</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}m</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>žádné</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>Nový rekord!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>a další</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>Seed: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 modifikátor</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} modifikátorů</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>Vsadit {0} zlaťáků</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>Tutoriál</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>Zabitých bossů</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>Dokončených úkolů</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>Nalezených poznámek</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>Otevřených truhel</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>Vyrobených předmětů</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>Běžný</Common> <!-- <En>Common</En> -->
+  <Uncommon>Neobvyklý</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>Vzácný</Rare> <!-- <En>Rare</En> -->
+  <Epic>Epický</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>Neidentifikovaný</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>Předmět lobby (permanentní)</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>Lobby</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>zraněn</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>oheň poblíž</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>hlasitý zvuk</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>spojenec se probudil poblíž</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>nepřátelské kroky</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>prochází ostražitý spojenec</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>vykopnuté dveře</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>Minutí</Miss> <!-- <En>Miss</En> -->
+  <MissChance>Minutí {0}</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>Krit {0}</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>kritický</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>Kritický zásah</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>nabitý</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>Dostupné recepty</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>Čekat {0} tahů</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>Přetočit {0} tahů</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>máš {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>mládě {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>boss {0}</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>Zdá se, že jsi v nějakém žaláři...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>Nevíš, kde přesně jsi, ani jak ses sem dostal.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>Všechno kolem působí tak nějak snově. Zároveň je to až příliš skutečné na to, aby to byl jen sen.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>Pomalu si na něco začínáš vzpomínat. Alespoň znáš své jméno.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>Tvé jméno je:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>Právě sis všiml někoho v dálce, ale zahlédl jsi jen jeho stín. Měl bys to raději prověřit.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>Pomalu otevíráš oči...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>Probouzíš se v nemocnici.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"Je vzhůru!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Co se stalo?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Šel jsi s přáteli na túru a utrpěl jsi vážné zranění hlavy."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"Záchranáři tě našli právě včas. Musíš odpočívat a nabrat síly."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Kde je Maya?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Kdo je Maya?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Našla mě jako první. Je v pořádku?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Možná jsi trochu zmatený, ale brzy se z toho dostaneš."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>Jsi zmatený, přesto máš zvláštní pocit úspěchu. Jako by ses nějakým způsobem změnil.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>Zavřeš oči a zhluboka se nadechneš, představuješ si teplo slunce na tváři. Čerstvý vzduch ti plní plíce a ty se neubráníš úsměvu.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>Díky za zahrání dema!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>Hra od</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>Pozadí hlavního menu od</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>Hudba od</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>Logo od</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>Modely postav od</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>Zvukové efekty od</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>Díky za hraní!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>Les... bingo! Začínáš si vzpomínat, co se stalo, než ses sem dostal. Teplý letní den, zpěv ptáků a krásné hory na obzoru – šel jsi na túru s přáteli. Ale pak něco upoutalo tvou pozornost. Vzpomínáš si, že ses oddělil od skupiny. Ale proč?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>Jeskyně! Opustil jsi skupinu, když jsi slyšel někoho volat o pomoc. V domnění, že je to jiný turista v nesnázích, jsi následoval hlas do jeskyně. Uvnitř jsi uklouzl, spadl a zlomil sis nohu. Volal jsi, ale nikdo se neozýval. Sám a zraněný, tvá naděje začala slábnout...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>Seděl jsi v té jeskyni sám celé hodiny. Když přišla noc a začalo pršet, skoro jsi ztratil veškerou naději. Po době, která se zdála jako věčnost, jsi u vchodu do jeskyně uviděl světlo. Byla to... Maya! Tak se ti ulevilo!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>Měl jsi obrovskou radost, že vidíš Mayu. Natáhla se, aby tě vytáhla, a na okamžik se zdálo, že to zvládnete. Ale neúprosný déšť způsobil, že uklouzla a oba jste se zřítili dolů, s bolestivou silou narazili na kameny. Poté vše utichlo.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>Vybavit</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>Vyrobit</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>Identifikovat</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>Jméno</Name> <!-- <En>Name</En> -->
+  <Level>Úroveň</Level> <!-- <En>Level</En> -->
+  <Experience>Zkušenosti</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>XP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>Útok</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>Zobrazí všechny předměty, které máš právě na sobě.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>Zobrazí všechny recepty, které můžeš použít k výrobě nových předmětů. Může se hodit, pokud potřebuješ odstranit kletbu nebo vyléčit chybějící končetinu.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>Zobrazí všechny neidentifikované předměty v tvém inventáři.\n\nKaždý předmět se postupem času pomalu identifikuje (pokud nejsi hladový). Předmět na vrcholu seznamu bude identifikován jako první.\n\nPřetažením změníš pořadí.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>Nemáš žádné neidentifikované předměty</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>Toto je tvá fronta na identifikaci. Přetažením urči, který předmět se má s postupem času identifikovat jako další. Předměty můžeš také identifikovat u poutníků.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>Vyrobit</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>sousední</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>přijdete o zakoupené posílení</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>Pán nočních můr</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>Hypnorak</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>Phantasmos</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>Dostupné dovednostní body</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>Odemčené dovednosti</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>Odemčené úspěchy</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Cancel] pro zrušení</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC pro zrušení</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>Nepřátelé</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>Známí členové</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>Jste zde</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>Pokud se vydáte touto cestou, získáte následující</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>Kam dál?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>Více nepřátel</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>Méně nepřátel</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>Normálně nepřátel</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>Více zlata</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>Méně zlata</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>Normálně zlata</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>Počet nepřátel</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>Získané zlato</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>Krystal</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>{0} krystal</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>Vyléčit {0} HP</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>Tento pohyb vás shodí do jámy. Opravdu to chcete udělat?\n\nSpadnete na náhodné místo v patře pod vámi a ztratíte část zdraví. Nemůžete se vrátit.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>Tento pohyb ukončí váš průchod. Opravdu to chcete udělat?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Rewind] pro vrácení času</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Nezapomeňte si prohlédnout okolí pomocí [Inspect].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>Útěk!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>Odměna</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>Co je to za místo? Musím najít cestu ven...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>Pokaždé, když sem přijdu, se tato kobka změní. Ale proč?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>Každý krok je mi podivně povědomý, jako bych tu už někdy byl.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>Něco je přede mnou, cítím to.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>Právě jsem vyhrál bitvu, nebo něco pochopil?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>Mám pocit, že všechno vedlo k tomu, co leží přede mnou.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>Mám pocit... jako by mi z mysli spadla tíha. Zvláštní.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>Co ti tak dlouho trvá?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>Co to bylo?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>Zemřel jsi</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>Unikl jsi</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>Průchod dokončen</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>Najdi páku\npro otevření</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>Dokonči tutoriál\npro otevření</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>Nápověda</Help> <!-- <En>Help</En> -->
+  <HelpMe>Pomoc</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>Tady</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>Podržte [Inspect] pro čtení</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>Hlavní úkoly</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>Vedlejší úkoly</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>Bonusy</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>Úkoly můžete přijímat a odkládat v lobby.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>Všimněte si, že některé úkoly lze splnit pouze v kobkách, které mají dostatek pater.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>Odemknout další kobku</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>Dojděte na konec patra {0} této kobky, abyste odemkli další.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>Najít dílek skládačky</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>Najděte další dílek skládačky v patře {0}. Aktuálně jich máte {1}/{2}.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>Záchrana duchů</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>V této kobce je 1 duch. Osvoboďte ho tím, že ho přivedete do úkrytu.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>V této kobce je {0} duchů. Osvoboďte je tím, že je přivedete do úkrytu.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>Varování: Tito společníci budou zanecháni</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>Vyberte si kouzlo</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>Vyberte si kouzlo ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>Nové kouzlo</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>Váš rychlý panel a kouzla</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>Odemkne se na úrovni {0}</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>Nasbírali jste hvězdný prach – vzácnou měnu!\n\nHvězdný prach lze utratit v lobby za nákup posílení pro vaše další průchody a odemknutí speciálních místností.\n\nVšechny předměty označené jako \"Předmět do lobby\" se přenášejí do lobby. Všechny ostatní předměty se po skončení průchodu ztratí.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>Dílky skládačky, stejně jako hvězdný prach, jsou trvalé předměty do lobby.\n\nNasbírejte všech {0} dílků v různých průchodech a odemkněte tak tajnou místnost v lobby.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>Máte společníka.\n\nKdykoli se pohnete, Roko za vás automaticky posbírá zlaté mince na sousedních polích.\n\n1 sýr zajistí, že vás Roko bude následovat pouze po dobu 1 průchodu.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>Nyní máte členy družiny.\n\nMůžete mezi nimi přepínat a spravovat jejich inventář odděleně. Každý člen družiny má svůj vlastní tah.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>Max. HP +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>Krit. zásah +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>Minutí -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% oheň</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>Kop</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>Tato postava umí kopat do věcí.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>Na tomto patře je úlomek vzpomínky</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>Hledejte ho</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>Hledat</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>Odhalené předměty</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>Odhalená stvoření</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>Kodex ukazuje předměty a stvoření v jejich typickém, neprokletém stavu. Skutečné předměty/stvoření se mohou lišit.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>Denní výzva</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>Třída</Class> <!-- <En>Class</En> -->
+  <NoClass>Bez třídy\n\nEfekty:\n- Sláva a věhlas</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>Odemkne se na úrovni {0}</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>Efekty</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>Schopnosti: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>Max. HP</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>Max. mana</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>Max. výdrž</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>{0} poškození nemrtvým (kostlivec, mumie atd.)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} odolnost proti ohni</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} zranitelnost ohněm</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>Rychlost hladovění {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>Neaktivuje nášlapné desky</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>Imunní vůči jedu</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>Imunní vůči odstrčení</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>Psi jsou nepřátelští</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>Hluk chůze {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>Maximální patro dosažené s touto třídou: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>Maximální patro dosažené bez třídy: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} utrpí {1} {2} poškození</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} utrpí {1} {2} poškození a umírá</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} ZK</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0} neutrpí žádné {1} poškození</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} získá {1}</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} utrpí {1} {2} poškození</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} utrpí {1} {2} poškození a je zničena</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0} neutrpí žádné {1} poškození</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} získá {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{1} od {0} je zničena</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} blokuje {1} {2} poškození</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} odráží {1} {2} poškození na {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} je odstrčen</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} je přitažen</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} získává nový stav: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} získává nový efekt: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{1} je obnovena pro {0}</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{1} je obnovena pro {0}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{1} je obnovena pro {0}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} je identifikován</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} odeznívá</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} odeznívá</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} sebere {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>Byl to {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>Je to {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} je {1}! (musíte najít nebo vyrobit svitek odstranění kletby)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>Váš {0} byl {1}!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>Kletba byla odstraněna z {0}</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} se teleportuje na náhodné místo</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} se teleportuje</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} se otevírá. Nyní najděte východ.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} se otevírá</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>Za vámi se zavírá brána</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} zasyčí, ale nezdá se, že by měl nějaký účinek</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>Hladovíte</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>Máte hlad</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>Koupili jste {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>Nová úroveň!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>Můžete si vybrat nové kouzlo.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>Nová úroveň</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>Efekt štítu byl zrušen, protože jste zranili {0}</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} se probouzí</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>Celkem {0}</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>Obětovali jste se</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>Vyhráváš</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>Prohrál jsi</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>Dokončil jsi zkoušku a obdržel {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>Vyřešil jsi hádanku s glyfy a obdržel {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>Jsi zachráněn díky {0}</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0} je zachráněn díky {1}</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>Ve zkoušce jsi neuspěl</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0} byl zduplikován</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0} byl zničen</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>Už tu nic není</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>Chytil jsi {0}</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0} se aktivuje za {1}</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>Obdržel jsi {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>Ďáblova socha přijímá tvůj předmět {0} a dává ti {1}</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} obdrží {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} mine</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>{0} se objevil poblíž</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} dává {1} {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>Frakce {0} se stala nepřátelskou</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>Nemáš všechny ingredience</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>Tento předmět se do tohoto slotu nevejde</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} ukradl {1} od {2}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>Sebral jsi {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>Získal jsi dovednostní bod! Otevři inventář a utrať ho.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>Osvobodil jsi {0} a obdržel {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>Úroveň předmětu {0} byla vylepšena</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>Nemůžeš odložit prokletý předmět</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} vyrábí {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>Použít na sebe</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>Použít na...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>Vypít</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>Hodit...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>Sníst</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>Hodit...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>Položit past...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>Hodit...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>Zasadit...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>Použít na sebe</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>Zaútočit...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>Seslat na sebe</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>Seslat na...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>Naplnit...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>Zatarasit dveře...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>Připoutat se</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>Připoutat...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>Umístit...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>Zvednout...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>Chytat ryby...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>Těžit...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>Mluvit...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>Očarovat</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>Kopat...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>Kopnout se</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>Kopnout...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} útočí na sebe pomocí {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0} útočí na {2} pomocí {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0} používá {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0} používá {1} na {2}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0} pije {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0} hází {1} na {2}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0} používá {1} na sebe</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0} používá {1} na {2}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} hází {1} na {2}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0} otevírá {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0} zavírá {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0} vykopává {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0} pije z {1}</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0} očarovává výbavu u {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} schází po schodech dolů</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} jde po schodech nahoru</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0} tahá za {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0} dostává požehnání u {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0} jí {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0} pokládá {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0} plave v {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0} hoří v {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0} šlape na {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} se teleportuje</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0} hází {1} na {2}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0} sází {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0} sesílá {1} na sebe</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0} sesílá {1} na {2}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0} plní {1} vodou</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0} zatarasuje {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} se připoutává ke kůlu</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0} připoutává {2} ke kůlu</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0} umisťuje {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0} zvedá {2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} si obvazuje rány</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0} obvazuje rány {2}</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} provádí operaci</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0} provádí operaci na {2}</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0} prohledává {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0} gamblí u {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0} mačká {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0} začíná výzvu u {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0} duplikuje předmět u {1}</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0} chytá ryby u {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} se hasí</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0} hasí {2}</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0} zkoumá {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} prohledává {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} spí v {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} těží {2} pomocí {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} mluví s {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} očarovává předmět pomocí {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} kope {2} pomocí {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} obětuje končetinu u {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} vyvolává Fantoma u {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} osvobozuje ducha u {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} uklízí {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} získává dovednostní bod u {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} se kopne</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} kope do {2}</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} vylepšuje výbavu u {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} nabízí prokletý předmět {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>nahoru</Up> <!-- <En>up</En> -->
+  <Down>dolů</Down> <!-- <En>down</En> -->
+  <North>sever</North> <!-- <En>north</En> -->
+  <South>jih</South> <!-- <En>south</En> -->
+  <West>západ</West> <!-- <En>west</En> -->
+  <East>východ</East> <!-- <En>east</En> -->
+  <NorthWest>severozápad</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>severovýchod</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>jihozápad</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>jihovýchod</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>nahoru-sever</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>nahoru-jih</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>nahoru-západ</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>nahoru-východ</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>nahoru-severozápad</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>nahoru-severovýchod</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>nahoru-jihozápad</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>nahoru-jihovýchod</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>dolů-sever</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>dolů-jih</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>dolů-západ</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>dolů-východ</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>dolů-severozápad</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>dolů-severovýchod</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>dolů-jihozápad</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>dolů-jihovýchod</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>Start</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>Konec</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>Páka</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>Žebřík</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>Boss</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Příležitost k přepadení</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>Tato postava tě v předchozím tahu neviděla, takže jí způsobíš o {0} více poškození, pokud zaútočíš nyní.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>Nad tebou</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>Tato postava je momentálně nad tebou, což znamená, že ti z této pozice způsobí o {0} více poškození, pokud tě zasáhne.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>Pod tebou</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>Tato postava je pod tebou, což znamená, že pokud ji z této pozice zasáhneš, způsobíš jí o {0} více poškození.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>Nevidí tě</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>Tato postava tě nevidí (nedohlédne tak daleko jako ty). Ale pozor – stále si může pamatovat tvou poslední pozici a chtít ji jít zkontrolovat!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>Padá</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>Tato postava padá, což znamená, že svůj příští tah bude muset strávit pádem dolů namísto provedení akce.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>Neidentifikovaný efekt</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>Neznámý efekt. Pochází z neidentifikovaného předmětu.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>Jsi obklíčen/a alespoň 2 nepřáteli, což znamená, že pokud tuto postavu zasáhneš z této pozice, způsobíš jí o {0} více poškození.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Neidentifikovaný efekt</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>Neznámý efekt. Pochází z neidentifikovaného předmětu.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nToto je aktuální herní čas. Jedna minuta představuje jeden tah.\n\nCelá hra je tahová. Většina akcí, jako je chůze, pití lektvaru, útok nebo interakce s věcmi, zabere jeden tah.\n\nCelkem uplynulo tahů: {2}.\nNa tomto patře: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>Toto jsou body života tvé postavy.\n\nNěkteré předměty mohou zvýšit tvé maximální body života. Každá úroveň ti přidá {0} k maximálním bodům života.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>Pokud nejsi hladový/á nebo hladovějící, {0} zdraví se obnoví každých {1}.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>Další bod života se vyléčí za: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>Ztrácíš zdraví, protože je nad maximální úrovní.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>Ztrácíš manu, protože je nad maximální úrovní.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>Ztrácíš výdrž, protože je nad maximální úrovní.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>Tento předmět bude identifikován po {0}. Přetáhni pro změnu pořadí.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>Tento předmět je {0}. Nicméně, díky tvému bezchybnému vnímání můžeš říct, že je to jeden z následujících:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>Předměty tohoto typu se po použití trvale identifikují.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>Tento předmět je {0}. Může mít neznámé účinky a být {1} (nemůžeš odložit {1} předměty). Poutníci ti mohou pomoci s identifikací.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>Tento předmět je {0}. Nemůžeš odložit {0} předměty (bez svitku pro odstranění kletby).</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>Gratulace!;To zvládneš!;Vždycky jsem v tebe věřil!;Už skoro tam!;Kéž bych byl tak úžasný jako ty!;Působivé!;Jen tak dál!;Jsi nejlepší!;Dokázal jsi to!;Pěkně!;Jsi úžasný/á!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>Vítej na 1. patře.\n\nTvá cesta začíná zde, i když to možná není poprvé, co čteš tuto ceduli.\n\nNěkteré věci se mohou zpočátku zdát obtížné, ale to je v pořádku. Především si musíme pamatovat - prohrávat je zábava!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>Vítej na patře {0}.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>Zde se každá duše zastaví, aby našla svou cestu.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>Zabit na {0}.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>Počet zlatých mincí, které máš v inventáři. V tomto dungeonu mohou být lidé ochotní obchodovat.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>Další {0} se objeví za</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>Více se neobjeví</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>Zmizí za {0}.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>Rozšíří se za {0}.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>Další akce za {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>Aktivuje se za {0}.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>Zdroj</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>Zdroj: Obtížnost</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>Přítomno od</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>Stiskni [Fly]+[MoveForward] pro pohyb nahoru a [Fly]+[MoveBack] pro pohyb dolů.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>Podrž [Fly] pro vykopnutí dveří.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>Stiskni [Rewind] pro vrácení času.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>Použití tohoto předmětu nestojí žádný tah.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>Použití tohoto předmětu stojí {0} tahu.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>Použití tohoto předmětu stojí {0} tahů.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>Použití tohoto kouzla nestojí žádný tah.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>Použití tohoto kouzla stojí {0} tahu.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>Použití tohoto kouzla stojí {0} tahů.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>Provedení této akce nestojí žádný tah.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>Provedení této akce stojí {0} tahu.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>Provedení této akce stojí {0} tahů.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>Interakce s tímto objektem nestojí žádný tah.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>Interakce s tímto objektem stojí {0} tahu.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>Interakce s tímto objektem stojí {0} tahů.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>Tento objekt je hořlavý.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>Můžeš to použít, pouze pokud tě nikdo nevidí.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>Tento objekt je křehký (výbuchy ho zničí).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>Identifikace byla zastavena, protože jsi hladový/á.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>Klikni pro sebrání.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>Klikni pro interakci.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>Klikni pro nákup.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>Použij interakci pro sebrání.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>Interaguj s tímto objektem.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>Použij interakci pro nákup.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>Tento předmět zmizí po sestupu.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>Toto je tvůj postup k další úrovni. Zkušenosti můžeš získat porážením nepřátel.\n\nXP do další úrovně: {0}\nAktuální úroveň: {1}\nCelkové zkušenosti: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>Toto je tvá aktuální úroveň. Úroveň můžeš zvýšit porážením nepřátel.\n\nKaždá úroveň ti přidá {0} k maximálním bodům života. Navíc, pokaždé, když postoupíš na další úroveň, můžeš si vybrat nové kouzlo.\n\nXP do další úrovně: {2}\nCelkové zkušenosti: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>Toto je tvá aktuální úroveň založená na celkovém skóre ze všech tvých her. Skóre můžeš získat porážením nepřátel a postupem ve hře.\n\nSkóre do další úrovně: {0}\nCelkové skóre: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>Toto je tvá aktuální úroveň nasycení: {0}/{1}\n\nMusíš pravidelně jíst, abys uspokojil/a hlad a vyhnul/a se následkům.\n\nJakmile úroveň nasycení dosáhne {2}, staneš se hladovým/hladovou - nebudeš si regenerovat zdraví ani identifikovat předměty.\n\nJakmile úroveň nasycení dosáhne {3}, staneš se hladovějícím/hladovějící - nebudeš si regenerovat výdrž a postupně budeš ztrácet zdraví.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>Toto je aktuální patro dungeonu. Čím níže se dostaneš, tím těžší je přežít, ale také je to větší zábava!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>Dává {0} zkušeností</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>Varování: Pokud bude zabit, všichni členové této frakce se stanou nepřátelskými.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>Taktika: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>Tato postava tě bude následovat na další patro.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>Stavy</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>Zbraň</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>Kouzla</Spells> <!-- <En>Spells</En> -->
+  <Talk>Mluvit</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>Při smrti</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>Nošeno</Worn> <!-- <En>Worn</En> -->
+  <Inventory>Inventář</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>Info</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>Stojí {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>Stojí {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>Toto je mana tvé postavy.\n\nSesílání kouzel a používání magických předmětů stojí manu. Mana se automaticky neregeneruje v čase, lze ji doplnit pouze pitím many lektvarů nebo interakcí s některými speciálními objekty. Lišta many je skrytá, pokud nemáš žádná kouzla.\n\nPokaždé, když postoupíš na další úroveň, můžeš si vybrat nové kouzlo.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>Toto je výdrž tvé postavy.\n\nPoužití některých předmětů může vyžadovat výdrž. Lišta výdrže je skrytá, pokud v inventáři nemáš žádné předměty vyžadující výdrž.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>Pokud nehladovíš, {0} výdrže se obnoví každých {1}.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>Další výdrž se obnoví za: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>Vyber si nové kouzlo. Nové kouzlo si můžeš vybrat pokaždé, když postoupíš na další úroveň.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>utíká při nízkém zdraví</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>Hodinky ti umožňují vracet čas podle tvé vůle! Vrať poslední tah stisknutím [Rewind].\n\nPoužij je, kdykoliv se ti nelíbí výsledek tvých nedávných akcí nebo jsi se prostě překlikl/a.\n\nHodinky mají limit, kolik tahů můžeš vrátit najednou, ale dobíjejí se každých {0} tahů. Na rozdíl od jiných předmětů pro manipulaci s časem, jako jsou svitky pro vrácení času, hodinky ztratí všechny zbývající náboje, kdykoliv použiješ neidentifikovaný lektvar nebo svitek, nasadíš si prokletý předmět, stoupneš na past nebo použiješ stříbrný klíč.\n\nVšechny akce v Ricave jsou deterministické, což znamená, že po vrácení času se vše odehraje přesně stejně jako předtím, pokud uděláš stejný tah znovu, včetně způsobení stejného poškození a stejných rozhodnutí nepřátel. Vracení času jen proto, abys hodil/a vyšší způsobené poškození, nebude fungovat.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>Doplní se za: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>Hvězdný prach lze najít na různých místech v dungeonu nebo může být nabídnut jako odměna za splnění úkolu. Hvězdný prach můžeš utratit v lobby.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>Sesbírej všech {0} dílků skládačky a odemkni speciální místnost v lobby. Na každém patře dungeonu je jeden dílek a v jedné hře můžeš najít pouze jeden.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>Další dílek skládačky na patře: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>Dosah: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>Na blízko</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>jsi v dosahu</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>jsi mimo dosah</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>Seber umístěné objekty ve své soukromé místnosti.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>Momentálně se díváš na {0}.\n\nPohybuj se pomocí "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nÚkroky do stran pomocí "[MoveLeft]" a "[MoveRight]".\nPohybuj se nahoru a dolů pomocí "[Fly]+[MoveForward]" a "[Fly]+[MoveBack]", pokud tvá postava umí létat.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>Utrpí poškození za {0}.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>Získá HP za {0}.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>Získá výdrž za {0}.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>Získá manu za {0}.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>Regenerace výdrže je vypnuta, protože se tato postava nedotýká země.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>Regenerace výdrže je vypnuta, protože se nedotýkáš země.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>Připraveno za: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>Zbývá {0}</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>Nejdříve odemkni {0}</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>Nemáš žádné dovednostní body</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>Klikni pro odemknutí</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>Použij interakci pro odemknutí</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>Efekty</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>Všechny brány jsou otevřené a všichni jsou vzhůru. Musíš teď utéct!\n\nNavíc se objeví dvakrát tolik krys.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>Roko za tebe bude sbírat zlaté mince na sousedních polích, kdykoliv se pohneš.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>Tip: Typické statistiky si můžeš ověřit v kodexu</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>Seřadit předměty v inventáři</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>Odložit</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>Vybavit</Equip> <!-- <En>Equip</En> -->
+  <Unwear>Svléct</Unwear> <!-- <En>Take off</En> -->
+  <Wear>Obléct</Wear> <!-- <En>Wear</En> -->
+  <Drop>Zahodit</Drop> <!-- <En>Drop</En> -->
+  <Destroy>Zničit</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>Smíchat s {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>Prohlédnout</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>Jít k</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>Použít {0} na</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>Interagovat s</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>Vypnuto</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>Dát {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>smrt</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>Není místo</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>Aktuálně vybavený předmět je prokletý</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>nóbl, mocný, všemocný, silný, děsivý, rozkošný, působivý, energický, lákavý, krásný, milý, napínavý, roztomilý, chytrý, fascinující, nemotorný, neporazitelný, malý, velký, hrozný, šťastný, smutný, vachrlatý, divný, šílený, vzrušující, hezký, svůdný</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>brmbl, skrombl, čepičák, citrón, hatlapatla, krám, hňup, květ, bumbrlík, lízátko, prask, vepř, rachot, hrom, dondl, dvojník, brblal, kuře, fialka, kroutil, žvanil, točil, cink, žbluňk, vikl, chřest, čmáral</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>spár, hodnota, dvůr, syn, brbl, značka, tuna, bon, gon, kopyto, korbel, byl, chňap, flek, puf, smích, bach, dory, chrocht, žuch, plesk, baf, blát, rýpal, bork</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>Duch {0}</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>Smíchu, Změny, Naděje, Samoty, Harmonie, Odhodlání, Radosti, Strachu, Hněvu, Smutku, Lásky, Překvapení, Znechucení, Zvědavosti, Naděje, Zoufalství, Důvěry, Skepticismu, Odvahy, Viny, Studu, Vděčnosti, Závisti, Úlevy, Nudy, Klidu, Nostalgie, Odolnosti, Empatie, Očekávání, Lítosti, Úžasu, Pokory, Frustrace, Opovržení</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>Žádná</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Enter</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Mezerník</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>Levé tlačítko myši</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>Pravé tlačítko myši</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>Střední tlačítko myši</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Klávesa Windows</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>Levá spoušť</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>Pravá spoušť</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>Levé horní tlačítko</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>Pravé horní tlačítko</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>Tlačítko Zpět</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>Tlačítko Start</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>Stisknutí levé páčky</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>Stisknutí pravé páčky</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Zabití</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>Dvojité zabití</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>Trojité zabití</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>Kombo {0} zabití</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>Nové patro</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>Zkouška dokončena</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>Zabití: {0}</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>ráno</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>den</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>večer</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>noc</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>OBRÁNCE</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>BOJOVNÍK</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>DOBRODRUH</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>červený</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>zelený</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>modrý</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>Leo</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>Eve</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Pomůcky</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>Lektvary</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>Svitky</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>Zbraně a výbava</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

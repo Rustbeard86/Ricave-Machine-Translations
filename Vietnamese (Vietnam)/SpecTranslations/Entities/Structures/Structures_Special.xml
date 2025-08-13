@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>rương cổ đại</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Chiếc rương này chỉ có thể được mở bằng 3 cơ chế cổ đại. Chúng hẳn phải ở đâu đó trên tầng này.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Bạn thấy một chiếc rương cổ đại trước mặt.\n\nNó chỉ có thể được mở bằng 3 cơ chế cổ đại.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Mở</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>thiết bị cổ đại</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>Một loại thiết bị cổ đại nào đó mà bạn có thể nghiên cứu. Nếu bạn nghiên cứu cả ba, bạn có thể mở khóa nó và nhận được phần thưởng.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>bồn chứa thuốc giải</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>Một bồn nhỏ chứa đầy thuốc giải độc. Bạn có thể loại bỏ trạng thái trúng độc tại đây để đổi lấy một ít mana.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Bạn thấy một bồn chứa thuốc giải trước mặt.\n\nBạn có thể loại bỏ trạng thái trúng độc tại đây để đổi lấy một ít mana.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>Uống</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>cái đe</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Bạn có thể nâng cấp cấp độ trang bị của mình tại đây.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Bạn thấy một cái đe trước mặt.\n\nBạn có thể nâng cấp cấp độ trang bị của mình tại đây để đổi lấy sắt.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>giường</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>Một chiếc giường ấm cúng. Bạn có thể hồi một ít máu ở đây, nhưng có 50% khả năng kẻ thù sẽ chú ý đến bạn.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Bạn thấy một chiếc giường trước mặt.\n\nBạn có thể hồi một ít máu ở đây, nhưng có 50% khả năng kẻ thù sẽ chú ý đến bạn.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Ngủ</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>nam châm lớn</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>Cứ mỗi hai lượt, nó lại hút mọi người xung quanh về phía nó.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>kệ sách</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>Một kệ sách sẽ cho bạn một điểm kỹ năng.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>lồng</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>Một chiếc lồng kim loại có thứ gì đó hoặc ai đó bên trong. Bạn chỉ có thể mở nó nếu không còn trùm nào sống sót trên tầng hầm ngục này.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Bạn thấy một chiếc lồng kim loại lớn, rỉ sét trước mặt.\n\nBạn có muốn mở nó không?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Mở</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>khẩu pháo</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>Một cái bẫy chết người sẽ gây hại cho bất kỳ ai đứng trên đường bắn của nó. Kích hoạt nó bằng cách tấn công.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>vạc</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Đổi bất kỳ bình thuốc nào để lấy một cuộn giấy ngẫu nhiên.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Bạn thấy một cái vạc trước mặt.\n\nTại đây bạn có thể đổi bất kỳ bình thuốc nào để lấy một cuộn giấy ngẫu nhiên.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>chông trần</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>Một cái bẫy chết người sẽ gây hại cho bất kỳ ai đứng bên dưới nó. Kích hoạt nó bằng cách tấn công.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>rương</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>Chiếc rương này chứa mọi thứ bạn có thể ao ước trong đời. Hoặc là một mảnh vải mục và vài hòn đá.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>tượng quỷ</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>Một bức tượng nham hiểm. Nhận các vật phẩm bị nguyền rủa để đổi lấy phần thưởng.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>Tượng quỷ đang nhìn chằm chằm vào bạn.\n\nNếu bạn có bất kỳ vật phẩm bị nguyền rủa nào, bạn có thể đưa nó cho bức tượng để nhận phần thưởng.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>di cốt rồng</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>Một đống xương rồng. Có thể có thứ gì đó được giấu ở đây.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Bạn thấy một vài di cốt rồng trước mặt.\n\nNếu muốn, bạn có thể tìm kiếm kho báu ẩn giấu ở đây.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Tìm kiếm</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>máy nhân bản</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>Một thiết bị có thể nhân bản bất kỳ vật phẩm nào... hoặc phá vỡ nó.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Bạn thấy một máy nhân bản trước mặt.\n\nVới 30 vàng, bạn có thể thử nhân bản một vật phẩm.\n\nTuy nhiên, có 40% khả năng vật phẩm sẽ bị phá hủy.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>két sắt điện tử</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Két sắt này chỉ có thể được mở bằng cách nhấn một nút ở nơi khác.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>nút bấm</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Nút này sẽ mở một két sắt điện tử ở đâu đó.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>bàn phù phép</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Phù phép trang bị của bạn để đổi lấy một khoản quyên góp nhỏ.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Bạn thấy một bàn phù phép trước mặt.\n\nCó một khe xu bên dưới bàn và một tấm biển ghi rằng cần một khoản quyên góp nhỏ 170 đồng vàng để tiếp tục.\n\nMột phù phép ngẫu nhiên sẽ được áp dụng cho vũ khí hoặc áo giáp bạn chọn.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>đài phun nước</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Uống nước từ đài phun nước này để nhận được một hiệu ứng nhẹ nhưng kéo dài - tích cực hoặc tiêu cực.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Bạn thấy một đài phun nước trước mặt.\n\nUống nước từ đó sẽ có một hiệu ứng ma thuật nhẹ nhưng kéo dài.\n\nBạn có thể ném một vài đồng vàng vào để cầu may.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>Uống</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Suối Nguồn Sự Sống</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Uống nước từ suối nguồn này sẽ hồi máu hoàn toàn, phục hồi tất cả mana, thể lực và trạng thái no, cũng như cung cấp khả năng miễn nhiễm độc trong thời gian ngắn.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Bạn thấy Suối Nguồn Sự Sống trước mặt.\n\nUống nước từ suối nguồn này sẽ hồi máu hoàn toàn, phục hồi tất cả mana, thể lực và trạng thái no và cung cấp khả năng miễn nhiễm độc trong thời gian ngắn.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>Uống</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>bàn cờ bạc</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Đặt cược một ít tiền nếu bạn cảm thấy may mắn.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Bạn thấy một bàn cờ bạc trước mặt.\n\nBạn có thể đặt cược một ít tiền nếu cảm thấy may mắn và có cơ hội 50/50 để thắng gấp đôi hoặc thua.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>hộp khóa mạ vàng</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>Hộp khóa này có một khe xu. Bạn có thể mở nó bằng cách bỏ vào 50 vàng.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Bạn thấy một hộp khóa mạ vàng trước mặt.\n\nBạn có thể mở nó bằng cách bỏ vào 50 vàng.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Mở</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>ngôi mộ</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Đào để tìm kho báu ẩn giấu.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Bạn thấy một ngôi mộ trước mặt.\n\nChắc chắn có thứ gì đó được chôn ở đây.\n\nBạn có thể đào mộ lên hoặc để nó yên. Ai biết được bạn sẽ tìm thấy gì ở đây.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Đào</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>rương xanh lá</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Chiếc rương này chỉ có thể được mở bằng 3 mảnh chìa khóa xanh lá. Thường thì kẻ thù sẽ mang chúng.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Bạn thấy một chiếc rương xanh lá trước mặt.\n\nNó chỉ có thể được mở bằng 3 mảnh chìa khóa xanh lá.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Mở</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>lồng treo</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>Một chiếc lồng kim loại có thứ gì đó hoặc ai đó bên trong. Bạn chỉ có thể mở nó nếu không còn trùm nào sống sót trên tầng hầm ngục này.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Bạn thấy một chiếc lồng kim loại lớn, rỉ sét trước mặt.\n\nBạn có muốn mở nó không?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Mở</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>pha lê hồi máu</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Hồi phục tất cả điểm máu của bạn.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>cây hồi máu</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>Một loại cây có đặc tính chữa bệnh khác thường. Bạn có thể dùng nó để chế tạo bình thuốc máu.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>cần gạt</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Mở tất cả các cổng và báo động cho mọi người trên tầng. Chỉ kéo nó khi bạn đã sẵn sàng để trốn thoát!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Bạn có muốn kéo cần gạt không?\n\nNó sẽ mở tất cả các cổng, nhưng tất cả kẻ thù sẽ thức giấc.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Kéo</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>bàn thờ hiến tế chi</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Bạn có thể hy sinh chi của mình ở đây để đổi lấy một phần thưởng ngẫu nhiên.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Bạn thấy một bàn thờ hiến tế chi trước mặt.\n\nTại đây bạn có thể hy sinh chi của mình để đổi lấy một phần thưởng ngẫu nhiên.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Hiến chi</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>pha lê mana</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Phục hồi tất cả mana của bạn, để bạn có thể sử dụng lại phép thuật của mình.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>cây mana</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>Một loại cây có đặc tính ma thuật khác thường. Bạn có thể dùng nó để chế tạo bình thuốc mana.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>thùng kim loại</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>Một thùng kim loại. Có thể chứa thứ gì đó hữu ích.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>bàn thờ bóng ma</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Triệu hồi một Bóng Ma chết người. Nhận thưởng sát thương vật lý gây ra để đổi lấy tầm nhìn bị suy giảm.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>Bạn thấy một bàn thờ Bóng Ma trước mặt.\n\nTại đây bạn có thể triệu hồi một Bóng Ma chết người, đổi lại bạn sẽ được tăng +25% sát thương vật lý gây ra.\n\nNgoài ra, trong 25 lượt, phạm vi tầm nhìn của bạn sẽ được đặt thành 1.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Triệu hồi</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>cổng dịch chuyển</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>Nó sẽ dịch chuyển bạn đến một vị trí ngẫu nhiên trên bản đồ. Tuy nhiên, khi sử dụng lại, nó sẽ luôn đưa bạn đến cùng một vị trí.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>bom cảm ứng</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Quả bom này có kíp nổ cảm ứng và sẽ nổ sau vài lượt khi bị tiếp cận.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>bom lửa cảm ứng</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Quả bom lửa này có kíp nổ cảm ứng và sẽ nổ sau vài lượt khi bị tiếp cận.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>bom khói cảm ứng</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Quả bom khói này có kíp nổ cảm ứng và sẽ nổ sau vài lượt khi bị tiếp cận.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>ổ chuột</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Một ổ đầy chuột. Chuột sẽ không ra ngoài trừ khi bị làm phiền. Bạn có thể tìm kiếm kho báu ẩn giấu trong đó.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Bạn thấy một ổ chuột trước mặt.\n\nNếu muốn, bạn có thể tìm kiếm kho báu ẩn giấu ở đây.\n\nTuy nhiên, nếu bạn làm vậy, lũ chuột sẽ bắt đầu chui ra từ cái ổ này.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Tìm kiếm</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>miếu thờ đạo tặc</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Nhận thêm thể lực, tầm nhìn tốt hơn và kháng sát thương lửa trong một thời gian với một khoản quyên góp nhỏ.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Bạn thấy một miếu thờ đạo tặc trước mặt.\n\nNhận thêm thể lực, tầm nhìn tốt hơn và kháng sát thương lửa với một khoản quyên góp nhỏ.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Tiến hành</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>cổng kết thúc</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>Một cánh cổng sáng chói. Đây là kết thúc.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>bàn thờ hiến tế</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Hiến tế hai đối thủ xứng đáng trên bàn thờ này để nhận phần thưởng.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>két sắt</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>Nó có thể chứa thứ gì đó có giá trị, nhưng việc phá hủy nó có thể khó khăn. Có lẽ dùng thuốc nổ?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>cửa hàng</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Không gì tuyệt hơn một ly nước cam ép... ý tôi là thuốc sức mạnh.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>miếu thờ</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Nhận một phước lành, miễn phí!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Bạn thấy một miếu thờ trước mặt.\n\nBạn có thể nhận một phước lành tại đây.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Tiến hành</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>rương bạc</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Trông nó có vẻ chứa thứ gì đó có giá trị. Bạn cần một chìa khóa bạc để mở nó.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Bạn thấy một chiếc rương bạc trước mặt.\n\nNó chỉ có thể được mở bằng chìa khóa bạc.\n\nLưu ý rằng có thể có nhiều rương bị khóa hơn số chìa khóa hiện có, vì vậy hãy sử dụng chìa khóa của bạn một cách khôn ngoan.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Mở</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>di cốt xương</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>Một đống xương. Có thể có thứ gì đó được giấu ở đây.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Bạn thấy một vài di cốt xương trước mặt.\n\nNếu muốn, bạn có thể tìm kiếm kho báu ẩn giấu ở đây.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Tìm kiếm</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>pha lê hồi máu nhỏ</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>Hồi 50% máu tối đa của bạn.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>pha lê mana nhỏ</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>Phục hồi 50% mana tối đa của bạn.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>cầu thang</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>Một cầu thang dẫn xuống tầng dưới của hầm ngục này.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Bạn có muốn đi xuống cầu thang đến tầng dưới của hầm ngục không?\n\nBạn sẽ không thể quay lại.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Tiến hành</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>cầu thang về sảnh</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>Một cầu thang dẫn về sảnh. Điều này sẽ kết thúc lượt chơi hiện tại của bạn, nhưng bạn sẽ giữ lại một số kinh nghiệm và vàng cho lượt tiếp theo. Ngoài ra, bạn sẽ không mất các phần thưởng dùng một lần đã mua ở sảnh.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Bạn có muốn quay về sảnh không?\n\nĐiều này sẽ kết thúc lượt chơi hiện tại của bạn, nhưng bạn sẽ giữ lại 25% kinh nghiệm và 50% vàng cho lượt tiếp theo.\nNgoài ra, bạn sẽ không mất các phần thưởng dùng một lần đã mua ở sảnh.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Tiến hành</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>giường phẫu thuật</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>Một máy phẫu thuật tự động có thể phục hồi tất cả các bộ phận cơ thể bị mất với một khoản thanh toán nhỏ.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Bạn thấy một cỗ máy phẫu thuật tự động ở trước mặt.\n\nCó một khe nhét xu ở bên dưới và một tấm biển ghi rằng với 150 đồng vàng, cỗ máy có thể phục hồi tất cả các bộ phận cơ thể đã mất của bạn.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>Trả 150 vàng</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>cỗ máy thời gian</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Du hành ngược thời gian.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Bạn thấy một cỗ máy thời gian ở trước mặt.\n\nSử dụng nó sẽ giúp bạn du hành ngược thời gian.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Sử dụng</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>Thử Thách Tàn Phế</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Phá hủy 6 bộ phận cơ thể trong vòng 120 lượt để nhận phần thưởng.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>Bạn thấy một Thử Thách Tàn Phế ở trước mặt.\n\nBỏ ra một ít vàng, bạn có thể bắt đầu thử thách phá hủy 6 bộ phận cơ thể trong vòng 120 lượt.\n\nKhi hoàn thành thử thách, bạn sẽ nhận được phần thưởng.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>Trả 20 vàng</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>Thử Thách Sát Thủ Thần Tốc</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Tiêu diệt 4 kẻ địch xứng tầm (cho kinh nghiệm) trong vòng 100 lượt để nhận phần thưởng.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>Bạn thấy một Thử Thách Sát Thủ Thần Tốc ở trước mặt.\n\nBỏ ra một ít vàng, bạn có thể bắt đầu thử thách tiêu diệt 4 kẻ địch xứng tầm trong vòng 100 lượt.\n\nKhi hoàn thành thử thách, bạn sẽ nhận được phần thưởng.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>Trả 20 vàng</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>Thử Thách Không Tì Vết</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Tiêu diệt 2 kẻ địch xứng tầm (cho kinh nghiệm) mà không mất máu để nhận phần thưởng.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>Bạn thấy một Thử Thách Không Tì Vết ở trước mặt.\n\nBỏ ra một ít vàng, bạn có thể bắt đầu thử thách tiêu diệt 2 kẻ địch xứng tầm bất kỳ mà không mất máu.\n\nKhi hoàn thành thử thách, bạn sẽ nhận được phần thưởng.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>Trả 20 vàng</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>quả cầu nâng cấp</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Một quả cầu cho phép bạn chọn một hiệu ứng vĩnh viễn. Bạn có thể chọn giữa tăng thêm máu, tăng tỉ lệ chí mạng, giảm tỉ lệ đánh trượt, và kháng lửa.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Đây là một quả cầu nâng cấp mang lại các hiệu ứng vĩnh viễn cho lượt chơi này.\n\nBạn có thể chọn giữa tăng thêm máu, tăng tỉ lệ chí mạng, giảm tỉ lệ đánh trượt, và kháng lửa.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>miếu thờ chiến binh</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>Giải phóng chiến binh bên trong bạn và chứng tỏ mình xứng đáng. Giảm một nửa HP tối đa để đổi lấy 25% sát thương vật lý cao hơn trong một thời gian.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Bạn thấy một miếu thờ chiến binh ở trước mặt.\n\nGiảm một nửa HP tối đa để đổi lấy 25% sát thương cao hơn trong 400 lượt.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Tiến hành</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>tổ ong bắp cày</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Một tổ ong bắp cày với những con ong to bất thường.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>miếu thờ pháp sư</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Tăng mana tối đa và nhận một ít kháng sát thương phép trong một thời gian bằng cách quyên góp một khoản nhỏ.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Bạn thấy một miếu thờ pháp sư ở trước mặt.\n\nVới 80 vàng, bạn có thể nhận được một phước lành giúp bạn có thêm +2 mana tối đa trong 400 lượt và kháng sát thương phép trong 100 lượt.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>Trả 80 vàng</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

@@ -1,4 +1,4 @@
-﻿<Strings>
+<Strings>
 
   <!-- Main menu -->
   <Play>Jugar</Play> <!-- <En>Play</En> -->
@@ -423,14 +423,14 @@
   <Intro6>Acabas de ver a alguien a lo lejos, pero solo alcanzaste a ver su sombra. Será mejor que vayas a investigar.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
   <Ending1>Abres los ojos lentamente...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
   <Ending2>Despiertas en un hospital.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
-  <Ending3>"¡Está despierto!"</Ending3> <!-- <En><i>"He's awake!"</i></En> -->
-  <Ending4>"¿Qué pasó?"</Ending4> <!-- <En><i>"What happened?"</i></En> -->
-  <Ending5>"Fuiste de excursión con tus amigos y sufriste una grave herida en la cabeza."</Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
-  <Ending6>"Los rescatistas te encontraron justo a tiempo. Necesitas descansar y recuperar fuerzas."</Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
-  <Ending7>"¿Dónde está Maya?"</Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
-  <Ending8>"¿Quién es Maya?"</Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
-  <Ending9>"Ella me encontró primero. ¿Está bien?"</Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
-  <Ending10>"Puede que estés algo confundido, pero te recuperarás pronto."</Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending3><i>"¡Está despierto!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"¿Qué pasó?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Fuiste de excursión con tus amigos y sufriste una grave herida en la cabeza."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"Los rescatistas te encontraron justo a tiempo. Necesitas descansar y recuperar fuerzas."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"¿Dónde está Maya?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"¿Quién es Maya?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Ella me encontró primero. ¿Está bien?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Es posible que sientas algo de confusión, pero te recuperarás pronto."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
   <Ending11>...</Ending11> <!-- <En>...</En> -->
   <Ending12>Estás perplejo, pero tienes una extraña sensación de logro. Casi como si hubieras cambiado de alguna manera.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
   <Ending13>Cierras los ojos y respiras hondo, imaginando el calor del sol en tu cara. El aire fresco llena tus pulmones y no puedes evitar sonreír.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
@@ -577,7 +577,7 @@
   <BodyPartTakesDamageAndIsDestroyed>{0} recibe {1} de daño {2} y es destruido</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
   <BodyPartTakesNoDamage>{0} no recibe daño {1}</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
   <BodyPartGainsHP>{0} recupera {1} PV</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
-  <BodyPartDestroyedDirectly>El {1} de {0} es destruido</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <BodyPartDestroyedDirectly>A {0} se le ha destruido su {1}</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
   <DamageBlocked>{0} bloquea {1} de daño {2}</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
   <DamageBlockedAndDeflected>{0} desvía {1} de daño {2} hacia {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
   <EntityIsPushed>{0} es empujado</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
@@ -585,8 +585,8 @@
   <EntityGainsCondition>{0} obtiene una nueva condición: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
   <EntityGainsUseEffect>{0} obtiene un nuevo efecto: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
   <BodyPartIsRestored>El {1} de {0} es restaurado</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
-  <ActorGainsMana>{0} recupera {1}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
-  <ActorGainsStamina>{0} recupera {1}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{1} recupera {0} de maná</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{1} recupera {0} de aguante</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
   <ItemIdentified>{0} ha sido identificado</ItemIdentified> <!-- <En>{0} is identified</En> -->
   <ConditionWearsOff>El efecto {0} desaparece</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
   <UseEffectWearsOff>El efecto {0} desaparece</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->

@@ -1,0 +1,53 @@
+<SpecTranslations>
+
+  <FindRelic.label>レリックの発見</FindRelic.label> <!-- <En>Find Relic</En> -->
+  <FindRelic.description>4階にある古代のレリックを見つける。</FindRelic.description> <!-- <En>Find the ancient Relic on floor 4.</En> -->
+  <FindRelic.ThereAppearsToBeAnAgeold>4階のどこかに、謎に包まれた古のレリックがあるようだ。それを見つけ出すのだ。</FindRelic.ThereAppearsToBeAnAgeold> <!-- <En>There appears to be an age-old relic shrouded in mystery somewhere on the 4th floor. Go and find it.</En> -->
+  <FindRelic.dungeonModifiers>4階にレリック</FindRelic.dungeonModifiers> <!-- <En><li>Relic on floor 4</li></En> -->
+
+  <KillHypnorak.label>ヒプノラック討伐</KillHypnorak.label> <!-- <En>Kill Hypnorak</En> -->
+  <KillHypnorak.description>3階にいるドラゴンのミニボス、ヒプノラックを討伐する。</KillHypnorak.description> <!-- <En>Kill Hypnorak - the dragon mini-boss on floor 3.</En> -->
+  <KillHypnorak.YourNextChallengeAwaits>次の試練は3階で君を待っている。そこにはヒプノラックが棲んでいる。勇気を奮い立たせ、彼を打ち倒せ。</KillHypnorak.YourNextChallengeAwaits> <!-- <En>Your next challenge awaits you on the 3rd floor, where Hypnorak resides. Harness your courage and defeat him.</En> -->
+  <KillHypnorak.dungeonModifiers>3階にヒプノラック</KillHypnorak.dungeonModifiers> <!-- <En><li>Hypnorak on floor 3</li></En> -->
+
+  <KillMimics.label>ミミックハンター</KillMimics.label> <!-- <En>Mimic Hunter</En> -->
+  <KillMimics.description>ミミックを10体倒す。</KillMimics.description> <!-- <En>Kill 10 mimics.</En> -->
+  <KillMimics.NotAllTreasuresAreWhat>全ての宝が見た目通りとは限らない。中には鋭い歯を持ち、油断した者を食らおうとする宝箱もある。君の目標はミミックを10体始末することだ。</KillMimics.NotAllTreasuresAreWhat> <!-- <En>Not all treasures are what they seem. Some chests bear sharp teeth and an appetite for the unwary. Your goal is to eliminate 10 mimics.</En> -->
+  <KillMimics.KillMimicsKillCount10>[KillMimics_KillCount] / 10</KillMimics.KillMimicsKillCount10> <!-- <En>[KillMimics_KillCount] / 10</En> -->
+
+  <KillNightmareLord.label>ナイトメアロード討伐</KillNightmareLord.label> <!-- <En>Kill Nightmare Lord</En> -->
+  <KillNightmareLord.description>1階にいる骸骨のミニボス、ナイトメアロードを討伐する。</KillNightmareLord.description> <!-- <En>Kill Nightmare Lord - the skeletal mini-boss on floor 1.</En> -->
+  <KillNightmareLord.YourMissionIsToConfront>君の任務は、邪悪なナイトメアロード、骸骨の怪物と対決することだ。幸いにも、遠くまで探す必要はない。彼のねぐらはまさに1階にあるのだから。\n\n注意：このクエストはミニボスが出現するダンジョンでのみ完了できる。</KillNightmareLord.YourMissionIsToConfront> <!-- <En>Your mission is to confront the sinister Nightmare Lord - a skeletal monstrosity. Fortunately, you don't have to look far, as you can find his lair on the very first floor.\n\nNote that you can complete this quest only in dungeons that have mini-bosses.</En> -->
+  <KillNightmareLord.dungeonModifiers>1階にナイトメアロード</KillNightmareLord.dungeonModifiers> <!-- <En><li>Nightmare Lord on floor 1</li></En> -->
+
+  <KillPhantasmos.label>ファンタズモス討伐</KillPhantasmos.label> <!-- <En>Kill Phantasmos</En> -->
+  <KillPhantasmos.description>4階にいるミイラのミニボス、ファンタズモスを討伐する。</KillPhantasmos.description> <!-- <En>Kill Phantasmos - the mummy mini-boss on floor 4.</En> -->
+  <KillPhantasmos.OnThe4thFloorAwaitsPhantasmos>4階には、古の謎に包まれたミイラ、ファンタズモスが待ち構えている。君の目標は彼を打ち倒すことだ。</KillPhantasmos.OnThe4thFloorAwaitsPhantasmos> <!-- <En>On the 4th floor awaits Phantasmos, a mummy wrapped in age-old mysteries. Your goal is to defeat him.</En> -->
+  <KillPhantasmos.dungeonModifiers>4階にファンタズモス</KillPhantasmos.dungeonModifiers> <!-- <En><li>Phantasmos on floor 4</li></En> -->
+
+  <KillSkeletons.label>ウォームアップ</KillSkeletons.label> <!-- <En>Warmup</En> -->
+  <KillSkeletons.description>スケルトンを10体倒す。</KillSkeletons.description> <!-- <En>Kill 10 skeletons.</En> -->
+  <KillSkeletons.ItLooksLikeYoureGoing>しばらくここに滞在することになりそうだから、少し練習しておくといい。スケルトンを10体倒せ。</KillSkeletons.ItLooksLikeYoureGoing> <!-- <En>It looks like you're going to stay here for a while, so you should practice a bit. Kill 10 skeletons.</En> -->
+  <KillSkeletons.KillSkeletonsKillCount>[KillSkeletons_KillCount] / 10</KillSkeletons.KillSkeletonsKillCount> <!-- <En>[KillSkeletons_KillCount] / 10</En> -->
+
+  <KillSlimes.label>上級ウォームアップ</KillSlimes.label> <!-- <En>Advanced Warmup</En> -->
+  <KillSlimes.description>スライムを10体倒す。</KillSlimes.description> <!-- <En>Kill 10 slimes.</En> -->
+  <KillSlimes.NowThatYouveGottenSome>練習を積んだ今、本当の試練の時が来た。スライムがダンジョンに侵入した。これを食い止めるのは君の役目だ。スライムを10体倒せ。</KillSlimes.NowThatYouveGottenSome> <!-- <En>Now that you've gotten some practice, it's time for a real challenge. Slimes have invaded the dungeon and it's up to you to put a stop to this. Kill 10 slimes.</En> -->
+  <KillSlimes.KillSlimesKillCount10>[KillSlimes_KillCount] / 10</KillSlimes.KillSlimesKillCount10> <!-- <En>[KillSlimes_KillCount] / 10</En> -->
+
+  <MoonlightMedallions.label>月光のメダリオン</MoonlightMedallions.label> <!-- <En>Moonlight Medallions</En> -->
+  <MoonlightMedallions.description>2階で月光のメダリオンを4個集める。</MoonlightMedallions.description> <!-- <En>Collect 4 Moonlight Medallions on floor 2.</En> -->
+  <MoonlightMedallions.ThereAre4MoonlightMedallions>このダンジョンの2階には、4つの月光のメダリオンが散らばっている。すべて集め、その意味を解き明かせ。</MoonlightMedallions.ThereAre4MoonlightMedallions> <!-- <En>There are 4 Moonlight Medallions scattered around on the second floor of this dungeon. Collect them all to reveal their meaning.</En> -->
+  <MoonlightMedallions.dungeonModifiers>2階に月光のメダリオン4個</MoonlightMedallions.dungeonModifiers> <!-- <En><li>4 Moonlight Medallions on floor 2</li></En> -->
+
+  <PhantomSwarm.label>ファントムの群れ</PhantomSwarm.label> <!-- <En>Phantom Swarm</En> -->
+  <PhantomSwarm.description>3階のファントムの騒乱を鎮める。</PhantomSwarm.description> <!-- <En>Quell the phantom turmoil on floor 3.</En> -->
+  <PhantomSwarm.PhantomsHaveOverrunThe>ファントムが3階を蹂躙している。最低でも3体倒し、これを終わらせるのだ。</PhantomSwarm.PhantomsHaveOverrunThe> <!-- <En>Phantoms have overrun the third floor. Put an end to it by killing at least 3 of them.</En> -->
+  <PhantomSwarm.dungeonModifiers>3階にファントムが3体追加</PhantomSwarm.dungeonModifiers> <!-- <En><li>Extra 3 phantoms on floor 3</li></En> -->
+
+  <RatInfestation.label>ネズミの蔓延</RatInfestation.label> <!-- <En>Rat Infestation</En> -->
+  <RatInfestation.description>2階のネズミの蔓延に対処する。</RatInfestation.description> <!-- <En>Deal with the rat infestation on floor 2.</En> -->
+  <RatInfestation.RatsEverywhereYouHave>どこもかしこもネズミだらけだ！この厄介な問題を解決し、2階のネズミの蔓延に対処しなければならない。このクエストを完了するには、そこで最低5匹のネズミを倒す必要がある。警告：このクエストを受注すると、2階に出現するネズミが増える。</RatInfestation.RatsEverywhereYouHave> <!-- <En>Rats everywhere! You have to solve this pesky problem and deal with the rat infestation on the second floor. To complete this quest, you'll have to kill at least 5 rats there. Warning: Accepting this quest means that more rats will appear on the second floor.</En> -->
+  <RatInfestation.dungeonModifiers>2階にネズミが5匹追加</RatInfestation.dungeonModifiers> <!-- <En><li>Extra 5 rats on floor 2</li></En> -->
+
+</SpecTranslations>

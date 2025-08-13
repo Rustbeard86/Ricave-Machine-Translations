@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>cuồng nộ</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>Bạn vừa hạ sát một kẻ địch. Bạn gây ra và nhận vào thêm 25% sát thương vật lý trong một thời gian ngắn.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>chảy máu</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>Nhân vật này đang chảy máu và sẽ tiếp tục mất máu cho đến khi được băng bó.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>chảy máu ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>mù</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>Nhân vật này chỉ có thể cảm nhận các vật thể liền kề và sẽ đánh trượt 30% số lần.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>gãy xương</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>Nhân vật này bị gãy xương, khiến họ gây ra ít sát thương vật lý hơn.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>Nhân vật này bị gãy xương, khiến họ gây ra ít hơn {0} sát thương vật lý.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>bốc cháy</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>Nhân vật này đang bốc cháy, nghĩa là anh ta sẽ mất một lượng máu nhất định mỗi lượt.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>bốc cháy ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>tỷ lệ chí mạng thay đổi</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>Ảnh hưởng đến cơ hội gây ra đòn đánh chí mạng của nhân vật này.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>tỷ lệ chí mạng: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>mất máu</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>Nhân vật này đang mất máu.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>mất máu ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>hệ số sát thương gây ra</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>Sát thương gây ra bởi nhân vật này được thay đổi bởi hệ số này.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>gây ra {0} sát thương {1}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>bù trừ sát thương gây ra</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>Giá trị này được cộng (hoặc trừ) vào sát thương gây ra bởi nhân vật này. Nếu giá trị này là một khoảng, thì một giá trị ngẫu nhiên trong khoảng đó sẽ được sử dụng.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>gây ra {0} sát thương {1}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>bệnh tật</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>Nhân vật này đang mắc bệnh, khiến anh ta không thể hồi máu tự nhiên và không thể bay.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>say xỉn</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>Nhân vật này đang say xỉn, nghĩa là họ sẽ di chuyển theo một hướng ngẫu nhiên mỗi lượt. Họ không thể làm bất cứ điều gì khác trong trạng thái này.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>bị trói</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>Nhân vật này bị trói, nghĩa là anh ta không thể di chuyển. Tuy nhiên, anh ta vẫn có thể tấn công từ vị trí hiện tại.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>đóng băng</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>Nhân vật này bị đóng băng, nghĩa là họ không thể làm gì khác ngoài việc chờ đợi khi ở trong trạng thái này.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>hồi máu</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>Máu của nhân vật này tự động hồi phục theo thời gian.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>hồi máu ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>tỷ lệ đói</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>Ảnh hưởng đến tốc độ nhân vật này bị đói.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>đói</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>Bạn đang đói và cần ăn gì đó. Điều này sẽ ngừng việc hồi máu và nhận dạng vật phẩm.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>tỷ lệ nhận dạng</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>Ảnh hưởng đến tốc độ nhân vật này nhận dạng vật phẩm.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>tỷ lệ nhận dạng: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>miễn nhiễm bệnh tật</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>Nhân vật này miễn nhiễm với bệnh tật.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>miễn nhiễm lửa</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>Nhân vật này miễn nhiễm với lửa.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>miễn nhiễm độc</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>Nhân vật này miễn nhiễm với độc.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>giáp</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>Hệ số cho sát thương nhân vật này nhận vào. Nếu giá trị lớn hơn 1, đó là điểm yếu. Nếu giá trị là 0, đó là miễn nhiễm.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>nhận {0} sát thương {1}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>giáp</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>Giá trị này được cộng (hoặc trừ) vào sát thương nhân vật này nhận vào. Nếu giá trị này là một khoảng, thì một giá trị ngẫu nhiên trong khoảng đó sẽ được sử dụng.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>nhận {0} sát thương {1}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>thù địch với đồng minh</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>Nhân vật này đang trong trạng thái cuồng nộ và sẽ tấn công các đồng minh thông thường của mình.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>có thể bay</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>Nhân vật này có thể bay. Nhân vật bay có thể di chuyển thẳng lên và xuống.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>hồi mana</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>Mana của nhân vật này tự động hồi phục theo thời gian.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>hồi mana ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>máu tối đa thay đổi</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>Ảnh hưởng đến lượng máu tối đa mà nhân vật này có thể có.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>máu tối đa: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>máu tối đa thay đổi</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>Ảnh hưởng đến lượng máu tối đa mà nhân vật này có thể có.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>máu tối đa: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>mana tối đa thay đổi</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>Ảnh hưởng đến lượng mana tối đa mà nhân vật này có thể có.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>mana tối đa: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>thể lực tối đa thay đổi</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>Ảnh hưởng đến lượng thể lực tối đa mà nhân vật này có thể có.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>thể lực tối đa: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>tỷ lệ đánh trượt thay đổi</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>Ảnh hưởng đến cơ hội đánh trượt khi nhân vật này tấn công.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>tỷ lệ đánh trượt: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>hoảng loạn</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>Nhân vật này đang hoảng loạn và sẽ di chuyển ra xa kẻ thù gần nhất mỗi lượt. Họ không thể làm bất cứ điều gì khác trong trạng thái này.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>trúng độc</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>Nhân vật này bị trúng độc, nghĩa là họ sẽ mất một lượng máu nhất định mỗi lượt hoặc vài lượt một lần.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>trúng độc ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>tầm nhìn</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>Ảnh hưởng đến khoảng cách tối đa mà nhân vật này có thể nhìn thấy các vật thể và nhân vật khác.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>tầm nhìn: Tối đa {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>tầm nhìn</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>Ảnh hưởng đến khoảng cách tối đa mà nhân vật này có thể nhìn thấy các vật thể và nhân vật khác.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>tầm nhìn: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>thay đổi tần suất hành động của nhân vật</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>Ảnh hưởng đến số hành động được phép mỗi lượt của nhân vật này.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>không thể gây sát thương cho bạn</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>Bạn được bảo vệ khỏi các đòn tấn công của nhân vật này cho đến lượt tiếp theo. Tuy nhiên, nếu bạn gây bất kỳ sát thương nào cho nhân vật này, hiệu ứng sẽ bị xóa bỏ. Lưu ý rằng việc sử dụng các phép thuật vô hại thì không sao.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>đang ngủ</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>Nhân vật này đang ngủ. Anh ta sẽ thức dậy khi có người đến gần hoặc bị làm phiền.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>để lại vệt</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>Nhân vật này để lại một vệt mỗi khi di chuyển.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>để lại vệt {0}</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>hồi thể lực</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>Thể lực của nhân vật này tự động hồi phục theo thời gian.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>hồi thể lực ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>chết đói</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>Bạn đang chết đói và cần ăn gì đó. Ngoài việc không hồi máu và không nhận dạng vật phẩm, việc hồi thể lực của bạn cũng bị ngừng và bạn từ từ mất máu theo thời gian. Các hình phạt từ việc đói sẽ không tiến triển nặng hơn nữa.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>chết đói ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>Thử Thách Tàn Phế</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>Thử Thách Tàn Phế đang diễn ra với nhân vật này. Anh ta phải phá hủy một số bộ phận cơ thể nhất định trong một thời gian ngắn để hoàn thành thử thách và nhận phần thưởng.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>Thử Thách Tàn Phế ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>Thử Thách Tàn Phế đang diễn ra với nhân vật này. Anh ta phải phá hủy {0} bộ phận cơ thể trong vòng {1} lượt để hoàn thành thử thách và nhận phần thưởng.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>Thử Thách Sát Thủ Thần Tốc</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>Thử Thách Sát Thủ Thần Tốc đang diễn ra với nhân vật này. Anh ta phải tiêu diệt một số lượng kẻ địch xứng đáng trong một thời gian ngắn để hoàn thành thử thách và nhận phần thưởng.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>Thử Thách Sát Thủ Thần Tốc ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>Thử Thách Sát Thủ Thần Tốc đang diễn ra với nhân vật này. Anh ta phải tiêu diệt {0} kẻ địch xứng đáng trong vòng {1} lượt để hoàn thành thử thách và nhận phần thưởng.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>Thử Thách Vẹn Toàn</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>Thử Thách Vẹn Toàn đang diễn ra với nhân vật này. Anh ta phải tiêu diệt một số lượng kẻ địch xứng đáng mà không mất bất kỳ điểm máu nào để hoàn thành thử thách và nhận phần thưởng.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>Thử Thách Vẹn Toàn ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>Thử Thách Vẹn Toàn đang diễn ra với nhân vật này. Anh ta phải tiêu diệt {0} kẻ địch xứng đáng mà không mất bất kỳ điểm máu nào để hoàn thành thử thách và nhận phần thưởng.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>ướt</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>Nhân vật này bị ướt, giúp họ có 50% kháng sát thương lửa, nhưng cũng làm cho thể lực hồi phục tự nhiên chậm gấp đôi.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

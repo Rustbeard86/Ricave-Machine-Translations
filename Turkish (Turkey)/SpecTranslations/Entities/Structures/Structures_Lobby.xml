@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>yapboz afişi</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>Rengarenk bir afiş.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>ganimet</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Her boss ganimeti, boss'un öldürüldüğü kat kadar yıldız tozu üretir. Yıldız tozu, zindanın en az ikinci katına ulaştığında yenilenir.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>gardırop</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Görünümünü buradan değiştir.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>günlük meydan okuma panosu</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Günlük meydan okumalara katıl. Dünyanın her yerindeki herkes her gün aynı meydan okumayla karşılaşır!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>sergileme alanı</Display.label> <!-- <En>display</En> -->
+  <Display.description>Bir eşya için yer.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>portal</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Bu son mu?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>son diyalog tetikleyicisi</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>koridor tabelası</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>Bu kapının arkasında bir koridor var.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>kapı</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Bu kapı kilitli görünüyor.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>kapı</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Bu kapı kilitli görünüyor.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Koridorun kilidini 60 yıldız tozu karşılığında açmak ister misin?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Kilidi Aç</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>kapı</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Bu kapı kilitli görünüyor.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Antrenman odasının kilidini 20 yıldız tozu karşılığında açmak ister misin?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Kilidi Aç</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Anı Kapısı</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>Sadece 4 Anı Parçası'nın tamamı toplanarak açılabilecek bir kapı.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>yapboz kapısı</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>10 yapboz parçasının tamamı toplanarak açılabilecek bir kapı. Her zindan katında bir yapboz parçası bulunur ve her denemede yalnızca bir parça bulabilirsin. Bu, son parçanın 10. katta olacağı anlamına gelir.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>sihirli ayna</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Özelliklerini buradan değiştir.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Anı Kapısı</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>Sadece 4 Anı Parçası'nın tamamı toplanarak açılabilecek bir kapı.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Anı Parçası</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>Bilinmeyen bir Anı Parçası.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Anı Parçası</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>Bilinmeyen bir Anı Parçası.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Anı Parçası</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>Bilinmeyen bir Anı Parçası.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Anı Parçası</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>Bilinmeyen bir Anı Parçası.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>merdiven</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>Zindana inen bir merdiven.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>merdiven</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>Belirli bir dünya tohumu kullanmanı sağlayan, zindana inen bir merdiven. Bu zindanda tüm lobi ilerlemesi ve görevler devre dışıdır.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>özel oda tabelası</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>Senin özel odan. Tabii satın aldıktan sonra.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>yapboz kapısı</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>Tüm yapboz parçaları toplanarak kilidi açılmış bir kapı.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>yapboz odası tabelası</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Gizemli bir oda.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>görev panosu</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Mevcut ve tamamlanmış tüm görevleri gör.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>dükkan tabelası</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Burada bir dükkan var. Sonraki denemelerin için güçlendirmeler satın almak üzere yıldız tozu harcayabilirsin.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>gökyüzü</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>Güzel bir manzara.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>gökyüzü</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>Güzel bir manzara.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>merdiven</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>Zindana inen bir merdiven.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>istatistik panosu</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Tüm istatistiklerini gör.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>antrenman odası tabelası</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Burada bir antrenman odası var. Çeşitli düşmanlara karşı antrenman yapabilirsin.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>merdiven</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>Antrenman odasına inen bir merdiven. Düşmanlara ve boss'lara karşı antrenman yap.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>çöp yığını</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>Bu hücreyi tıkayan bir çöp yığını. Kalıcı olarak kaldırmak için yıldız tozu kullan.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>Bu çöp yığınını 40 yıldız tozu karşılığında temizlemek ister misin?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Temizle</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>duvar lambası</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>Şık bir duvar lambası.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

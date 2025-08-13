@@ -1,0 +1,57 @@
+<SpecTranslations>
+
+  <BodyPartsDamage.label>anatomista</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>Causa 30% mais dano ao atingir diretamente uma parte do corpo.</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>pegajoso</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>50% de chance de emaranhar automaticamente por 1 turno quem te atacar.</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>à prova de explosão</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>Recebe 80% menos dano de explosão.</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>recuperação rápida</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>A regeneração natural de vida é duas vezes mais rápida.</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>vigoroso</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>A regeneração natural de energia é duas vezes mais rápida.</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>vitalidade</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>Ganha +1 de PV máximos.</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>mago</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>Ganha +1 de mana máxima e recebe 50% menos dano mágico.</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>atleta</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>Ganha +2 de energia máxima.</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>arrombador</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>Abre baús verdes, contentores antigos e portas reais sem teres de encontrar chaves. Além disso, abre jaulas sem teres de derrotar o chefe primeiro.</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>negociador</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>Os lojistas vendem itens a preços 50% mais baixos e os viajantes identificam itens por 50% menos ouro.</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>guloso</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>A comida recupera o dobro dos PV habituais.</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>necrófago</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>Encontra mais carne crua na masmorra.</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>ladino</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>Encontra mais armadilhas destacáveis na masmorra.</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>à prova de queda</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>Salta de qualquer altura sem sofrer dano de queda. Além disso, cais mais rápido.</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>desviar ataques</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>O dano bloqueado com um escudo é desviado para um inimigo aleatório adjacente, excluindo o atacante.</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>especialista em escudos</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>Usar escudos custa 50% menos energia.</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>asceta</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>Não tens de comer tanto - demoras o dobro do tempo a ficar com fome.</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>bónus de cerco</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>Causa 25% mais dano enquanto houver pelo menos 2 inimigos adjacentes a ti.</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

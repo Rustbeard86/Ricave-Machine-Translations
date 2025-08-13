@@ -1,0 +1,45 @@
+<SpecTranslations>
+
+  <Achievements.label>eredmények</Achievements.label> <!-- <En>achievements</En> -->
+  <Achievements.description>Nézd meg az összes eredményedet.</Achievements.description> <!-- <En>See all your achievements.</En> -->
+
+  <ChangePlayerName.label>névváltoztatás</ChangePlayerName.label> <!-- <En>change name</En> -->
+  <ChangePlayerName.description>Változtasd meg a neved.</ChangePlayerName.description> <!-- <En>Change your name.</En> -->
+
+  <Cosmetics.label>kozmetikumok</Cosmetics.label> <!-- <En>cosmetics</En> -->
+  <Cosmetics.description>Változtasd meg a külsődet.</Cosmetics.description> <!-- <En>Change your appearance.</En> -->
+
+  <DailyChallenge.label>napi kihívás</DailyChallenge.label> <!-- <En>daily challenge</En> -->
+  <DailyChallenge.description>Vegyél részt napi kihívásokban. A világon mindenki ugyanazt a kihívást kapja minden nap!</DailyChallenge.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <DailyChallengeLeaderboard.label>napi kihívás ranglista</DailyChallengeLeaderboard.label> <!-- <En>daily challenge leaderboard</En> -->
+  <DailyChallengeLeaderboard.description>Nézd meg a mai napi kihívás ranglistáját.</DailyChallengeLeaderboard.description> <!-- <En>View the leaderboard for today's daily challenge.</En> -->
+
+  <NewRun.label>új menet indítása</NewRun.label> <!-- <En>start new run</En> -->
+  <NewRun.description>Állítsd be a következő menetedet.</NewRun.description> <!-- <En>Configure your next run.</En> -->
+
+  <NewRunWithSeed.label>új menet maggal</NewRunWithSeed.label> <!-- <En>new run with seed</En> -->
+  <NewRunWithSeed.description>Indíts új menetet egy adott világmag használatával. Ebben a kazamatában minden előcsarnoki fejlődés le lesz tiltva.</NewRunWithSeed.description> <!-- <En>Start a new run by using a specific world seed. All lobby progress will be disabled in this dungeon.</En> -->
+
+  <PrivateRoomInventory.label>leltár</PrivateRoomInventory.label> <!-- <En>inventory</En> -->
+  <PrivateRoomInventory.description>Megmutatja a tárgyakat, amik jelenleg a birtokodban vannak, és elhelyezheted őket a privát szobádban.</PrivateRoomInventory.description> <!-- <En>Shows things you currently own and can place in your private room.</En> -->
+
+  <PrivateRoomShop.label>bolt</PrivateRoomShop.label> <!-- <En>shop</En> -->
+  <PrivateRoomShop.description>Megmutatja mindazt, amit megvásárolhatsz. Ezen tárgyak egyetlen célja, hogy elhelyezd őket a privát szobádban.</PrivateRoomShop.description> <!-- <En>Shows everything you can buy. The only purpose for these objects is to be placed in your private room.</En> -->
+
+  <QuestLog.label_2>küldetésnapló</QuestLog.label_2> <!-- <En>quest log</En> -->
+  <QuestLog.description_2>Megmutatja az összes elérhető és teljesített küldetést. Küldetéseket csak az előcsarnokban fogadhatsz el.</QuestLog.description_2> <!-- <En>Shows all available and completed quests. You can accept quests only in the lobby.</En> -->
+
+  <SingleDialogue.label>párbeszéd</SingleDialogue.label> <!-- <En>dialogue</En> -->
+  <SingleDialogue.description>Egy párbeszéd.</SingleDialogue.description> <!-- <En>A dialogue.</En> -->
+
+  <Stats.label>statisztikák</Stats.label> <!-- <En>stats</En> -->
+  <Stats.description>Megmutatja az összes statisztikát az előző meneteidről.</Stats.description> <!-- <En>Shows all stats related to your previous runs.</En> -->
+
+  <TrainingRoom.label_2>edzőterem</TrainingRoom.label_2> <!-- <En>training room</En> -->
+  <TrainingRoom.description_2>Gyakorolj ellenfelek és főellenségek ellen.</TrainingRoom.description_2> <!-- <En>Train against enemies and bosses.</En> -->
+
+  <Traits.label>jellemvonások</Traits.label> <!-- <En>traits</En> -->
+  <Traits.description>Válaszd ki a jellemvonásaidat. Legfeljebb 2 jellemvonást választhatsz.</Traits.description> <!-- <En>Choose your traits. You can choose up to 2 traits.</En> -->
+
+</SpecTranslations>

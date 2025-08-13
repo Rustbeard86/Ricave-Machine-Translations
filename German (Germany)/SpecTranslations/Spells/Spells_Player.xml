@@ -1,0 +1,46 @@
+<SpecTranslations>
+
+  <Entangle.label>Umschlingen</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>Mache jemanden für kurze Zeit bewegungsunfähig. Beachte, dass umschlungene Gegner von ihrer Position aus immer noch angreifen können.</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>Nähren</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>Es ist, als würde man etwas essen, aber ohne wirklich etwas zu essen. Magie.</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>Feuerball</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>Wirke einen Feuerball, der eine Explosion verursacht und in allen angrenzenden Feldern Feuer entfacht.</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>Einfrieren</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>Friere das Ziel für kurze Zeit ein. Eingefrorene Gegner können sich nicht bewegen oder angreifen.</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>Schleimpfütze</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>Erschaffe eine Schleimpfütze, die jeden Charakter verlangsamt, der sie durchquert.</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>Wachstum</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>Erschaffe ein 3x3-Feld aus Gras und Ranken. Gut, um Gegner zu blockieren.</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>Heilen</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>Stelle etwas Gesundheit wieder her und heile Blutungen.</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>Identifikation</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>Identifiziere einen Gegenstand deiner Wahl. Wirke diesen Zauber auf dich selbst, um einen Gegenstand aus deinem Inventar zu identifizieren.</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>Wähle einen Gegenstand zum Identifizieren.</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>Magische Mauer</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>Erschaffe eine temporäre magische Mauer.</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>Massenstoß</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>Stoße alle von dir weg.</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>Stoß</Push.label> <!-- <En>push</En> -->
+  <Push.description>Stoße jemanden von dir weg.</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>Schlag</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>Füge dem Ziel Schaden zu.</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>Teleport</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>Teleportiere dich zum angegebenen Ort. Gut für eine schnelle Flucht, da das Wirken dieses Zaubers keine Runde kostet.</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>Zufallsteleportation</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>Teleportiere das Ziel an einen zufälligen Ort auf der Karte.</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>

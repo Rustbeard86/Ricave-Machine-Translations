@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>vakító villantás</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>Vakíts meg mindenkit, aki éppen lát, egy rövid időre. Használata nem kerül körbe.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>megtévesztés</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>Tedd a célpontot ellenségessé mindenki mással szemben egy rövid időre. Használata nem kerül körbe.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>szomszédosak behálózása</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>Hálózz be mindenkit a szomszédos mezőkön egy rövid időre. Használata nem kerül körbe.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>sietés</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>Cselekedj kétszer egy körben egy rövid ideig. Használata nem kerül körbe.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>ugrás</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Ugorj azonnal egy szomszédos mezőre, akár függőlegesen is. Használata nem kerül körbe.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>lökés</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Lökj el bárkit 1 mezővel. Használata nem kerül körbe.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>véletlenszerű menekülés</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Teleportálj egy véletlenszerű helyre a térképen. Használata nem kerül körbe.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>lián teremtése</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Teremts liánokat a kijelölt helyen, majd mássz fel rájuk.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>méregfelhő</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Idézz egy méregfelhőt a kijelölt helyre. Használata nem kerül körbe.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>fantom idézése</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Idézz egy barátságos fantomot, hogy segítsen a csatákban. Egyszerre csak egy fantom lehet életben.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

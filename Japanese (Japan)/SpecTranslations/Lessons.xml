@@ -1,0 +1,82 @@
+<SpecTranslations>
+
+  <BigMap.label>ミニマップ</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>[Minimap]キーまたは[MinimapAlt]キーを長押しするとマップが表示されます。\n\nスクロールホイールでズームインできます。\n\n重要な部屋はマップ上にマークされます。</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>[MinimapAlt]キーを長押しするとマップが表示されます。\n\n重要な部屋はマップ上にマークされます。</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>はしごを登る</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>次の部屋へ行き、はしごを登りましょう。\n\nはしごのあるタイルまで歩き、[Fly]キーを押しながら[MoveForward]キーを押すと上に登れます。\n\nまたは、はしごをクリックするだけでも登れます。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>次の部屋へ行き、はしごを登りましょう。\n\nはしごのあるタイルまで歩き、[Fly]キーを押しながら[MoveForward]キーを押すと上に登れます。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>ポーションを飲む</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>宝箱からポーションを取り、飲みましょう。\n\nクイックバーからポーションを使用するには、対応する数字キーを押します。この場合は「1」です。</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>宝箱からポーションを取り、飲みましょう。[Accept]キーを押してインタラクトします。\n\n[QuickbarMenu]キーを押すと、クイックバー内の全アイテムのメニューが表示されます。</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>戦闘</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>スケルトンを倒しましょう。クリックで攻撃。[Wait]キーで待機。\n\n敵はプレイヤーが移動または攻撃するまで動きません。\n\nヒント：\n- 次の行動は常に慎重に計画しましょう。\n- ほとんどの敵は強力で、ヒットポイントの1つ1つが重要です。\n- 一度に複数の敵に囲まれないようにしましょう。</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>スケルトンを倒しましょう。[Accept]キーで攻撃、[Wait]キーで待機。\n\n敵はプレイヤーが移動または攻撃するまで動きません。\n\nヒント：\n- 次の行動は常に慎重に計画しましょう。\n- ほとんどの敵は強力で、ヒットポイントの1つ1つが重要です。\n- 一度に複数の敵に囲まれないようにしましょう。</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>調査</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>もう一度[ShowInventory]キーを押してインベントリを閉じ、[Inspect]キーまたは[InspectAlt]キーを長押しして周囲を調査しましょう。\n\n全ての敵を調査して、その危険度を把握するのを忘れずに。</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>もう一度[ShowInventory]キーを押してインベントリを閉じ、[Inspect]キーを長押しして周囲を調査しましょう。\n\n全ての敵を調査して、その危険度を把握するのを忘れずに。</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>もう一度[ShowInventory]キーを押してインベントリを閉じ、[Inspect]キーまたは[InspectAlt]キーを長押しして周囲を調査しましょう。\n\n全ての敵を調査して、その危険度を把握するのを忘れずに。</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>インベントリ</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>剣を装備しましょう。\n\nドラッグするか、右クリックするか、クイックバーからアクセスするために「1」キーを押します。\n\nほとんどのアイテムは未鑑定で、中には呪われているものもあります！</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>剣を装備しましょう。\n\n[QuickbarMenu]キーを押すと、クイックバー内の全アイテムのメニューが表示されます。\n\nほとんどのアイテムは未鑑定で、中には呪われているものもあります！</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>レバー</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>各フロアには出口の部屋へのゲートを開けるレバーがあります。それをクリックしてエリアから出ましょう。\n\nしかし注意してください！レバーを引くと、フロア中の全ての敵が目を覚まします！</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>各フロアには出口の部屋へのゲートを開けるレバーがあります。[Accept]キーを押してそれを引き、エリアから出ましょう。\n\nしかし注意してください！レバーを引くと、フロア中の全ての敵が目を覚まします！</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>移動</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>[MoveForward]、[MoveLeft]、[MoveBack]、[MoveRight]キーを押して移動します。\n\n「Ricave」はターン制です。1回の移動で1ターンを消費し、他の全てのキャラクターもあなたと一緒に移動します。\n\nクリックして移動することもできます。</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>[MoveForward]、[MoveLeft]、[MoveBack]、[MoveRight]キーを押して移動します。\n\n「Ricave」はターン制です。1回の移動で1ターンを消費し、他の全てのキャラクターもあなたと一緒に移動します。</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>ドアを開ける</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>ドアを開けるには、ドアに向かって歩くか、クリックします。</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>ドアを開けるには、ドアに向かって歩きます。</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>インベントリ</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>[ShowInventory]キーを押してインベントリを開きます。</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>アイテムを拾う</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>同様に、アイテムを拾うには、そのアイテムに向かって歩くか、クリックします。</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>同様に、アイテムを拾うには、そのアイテムに向かって歩きます。</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>クイック攻撃</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>次の部屋に入り、木箱の近くで[AttackNearest]キーを押して、マウスに最も近いターゲットを自動的に攻撃しましょう。\n\n[AttackNearest]キーを押す方がマウスを使うより快適な場合があります。周囲の複数のターゲットを素早く破壊できます。</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>次の部屋に入り、[Accept]キーを押して木箱を破壊しましょう。[RotateLeft]と[RotateRight]で回転して木箱の方を向きます。</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>回転</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>マウスを使って周りを見渡すか、[RotateLeft]キーまたは[RotateRight]キーを押して回転します。\n\n移動とは異なり、回転はターンを消費しません。</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>[RotateLeft]キーまたは[RotateRight]キーを押して回転します。\n\n移動とは異なり、回転はターンを消費しません。</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>平行移動</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>[MoveLeft]キーまたは[MoveRight]キーを押して平行移動します。</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>部位破壊</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>[Fly]キーを長押ししながらスケルトンの腕をクリックして破壊し、その後通常通りとどめを刺しましょう。\n\n各部位にはそれぞれ独自のヒットポイントがあります。</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>[Fly]キーを長押ししながらスケルトンの腕の上で[Accept]キーまたは右トリガーを押して破壊し、その後通常通りとどめを刺しましょう。\n\n各部位にはそれぞれ独自のヒットポイントがあります。</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>ツールチップ</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>ツールチップは重要です！インベントリ画面で何かにカーソルを合わせると、その詳細を知ることができます。\n\n見つけたアイテムは全て調査するのを忘れずに。</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>ツールチップは重要です！インベントリ画面を開いている間に試してみましょう。\n\n見つけたアイテムは全て調査するのを忘れずに。</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>待機</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>[Wait]キーを押して1ターン待機します。\n\n待機することで、先にダメージを与えられるようになり、次の攻撃をチャージすることもできます。</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

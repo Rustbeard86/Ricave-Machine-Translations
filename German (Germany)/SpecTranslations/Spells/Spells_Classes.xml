@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>Blendblitz</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>Blende für kurze Zeit jeden, der dich gerade sehen kann. Die Anwendung kostet keine Züge.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>täuschen</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>Mache das Ziel für kurze Zeit allen anderen gegenüber feindselig. Die Anwendung kostet keine Züge.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>Angrenzende fesseln</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>Fessele für kurze Zeit alle, die an dich angrenzen. Die Anwendung kostet keine Züge.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>Eile</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>Handle für kurze Zeit zweimal pro Zug. Die Anwendung kostet keine Züge.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>springen</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Springe sofort auf ein beliebiges angrenzendes Feld, auch vertikal. Die Anwendung kostet keine Züge.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>stoßen</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Stoße jemanden 1 Feld weit weg. Die Anwendung kostet keine Züge.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>zufällige Flucht</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Teleportiere dich zu einem zufälligen Ort auf der Karte. Die Anwendung kostet keine Züge.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>Liane erschaffen</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Erschaffe Lianen am gewählten Ort und klettere an ihnen hoch.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>Giftwolke</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Erschaffe eine Giftwolke am gewählten Ort. Die Anwendung kostet keine Züge.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>Phantom beschwören</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Beschwöre ein freundliches Phantom, das dir im Kampf hilft. Es kann immer nur ein Phantom gleichzeitig am Leben sein.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>savaş çılgını</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>Yakın zamanda birini öldürdün. Kısa bir süreliğine %25 daha fazla fiziksel hasar veriyor ve alıyorsun.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>kanama</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>Bu karakter kanıyor ve sargı beziyle sarılana kadar can kaybetmeye devam edecek.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>kanama ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>kör</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>Bu karakter yalnızca bitişiğindeki nesneleri algılayabilir ve %30 ihtimalle ıskalar.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>kırık kemik</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>Bu karakterin kırık bir kemiği var, bu da daha az fiziksel hasar vermesine neden olur.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>Bu karakterin kırık bir kemiği var, bu da {0} daha az fiziksel hasar vermesine neden olur.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>yanıyor</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>Bu karakter yanıyor, bu da her tur belirli miktarda can kaybedeceği anlamına gelir.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>yanıyor ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>kritik vuruş şansı değişti</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>Bu karakterin yapacağı kritik vuruş şansını etkiler.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>kritik vuruş şansı: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>can kaybediyor</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>Bu karakter can kaybediyor.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>can kaybediyor ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>verilen hasar faktörü</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>Bu karakterin verdiği hasar bu faktör tarafından değiştirilir.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>verilen {1} hasarı: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>verilen hasar ilavesi</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>Bu değer, bu karakterin verdiği hasara eklenir (veya çıkarılır). Eğer bu değer bir aralıksa, aralıktan rastgele bir değer kullanılır.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>verilen {1} hasarı: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>hastalık</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>Bu karakterin bir hastalığı var, bu da doğal iyileşmesini engeller ve uçmasını imkansız kılar.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>sarhoş</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>Bu karakter sarhoş, bu da her tur rastgele bir yöne hareket edeceği anlamına gelir. Bu durumdayken başka bir şey yapamazlar.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>dolanmış</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>Bu karakter dolanmış, bu da hareket edemeyeceği anlamına gelir. Ancak, mevcut konumundan hala saldırabilir.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>donmuş</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>Bu karakter donmuş, bu da bu durumdayken beklemekten başka bir şey yapamayacakları anlamına gelir.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>can yenilenmesi</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>Bu karakterin canı zamanla otomatik olarak yenilenir.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>can yenilenmesi ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>açlık oranı</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>Bu karakterin ne kadar hızlı acıktığını etkiler.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>aç</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>Açsın ve bir şeyler yemen gerekiyor. Bu durum can yenilenmesini ve eşya tanımlamayı durdurur.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>tanımlama oranı</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>Bu karakterin eşyaları ne kadar hızlı tanımladığını etkiler.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>tanımlama oranı: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>hastalığa bağışık</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>Bu karakter hastalığa karşı bağışıktır.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>ateşe bağışık</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>Bu karakter ateşe karşı bağışıktır.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>zehre bağışık</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>Bu karakter zehre karşı bağışıktır.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>zırh</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>Bu karakterin aldığı hasar için faktör. Değer 1'den büyükse, bu bir zayıflıktır. Değer 0 ise, bu bir bağışıklıktır.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>alınan {1} hasarı: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>zırh</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>Bu değer, bu karakterin aldığı hasara eklenir (veya çıkarılır). Eğer bu değer bir aralıksa, aralıktan rastgele bir değer kullanılır.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>alınan {1} hasarı: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>müttefiklere düşman</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>Bu karakter bir savaş çılgınlığı halindedir ve normalde müttefiki olanlara saldıracaktır.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>uçabilir</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>Bu karakter uçabilir. Uçan karakterler doğrudan yukarı ve aşağı hareket edebilir.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>mana yenilenmesi</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>Bu karakterin manası zamanla otomatik olarak yenilenir.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>mana yenilenmesi ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>maksimum can değişti</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>Bu karakterin sahip olabileceği maksimum can puanı sayısını etkiler.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>maksimum can: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>maksimum can değişti</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>Bu karakterin sahip olabileceği maksimum can puanı sayısını etkiler.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>maksimum can: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>maksimum mana değişti</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>Bu karakterin sahip olabileceği maksimum mana puanı sayısını etkiler.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>maksimum mana: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>maksimum dayanıklılık değişti</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>Bu karakterin sahip olabileceği maksimum dayanıklılık puanı sayısını etkiler.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>maksimum dayanıklılık: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>ıskalama şansı değişti</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>Bu karakter saldırdığında ıskalama şansını etkiler.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>ıskalama şansı: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>panik</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>Bu karakter panik halindedir ve her tur en yakın düşmandan uzaklaşacaktır. Bu durumdayken başka bir şey yapamazlar.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>zehirlenmiş</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>Bu karakter zehirlenmiş, bu da her tur veya birkaç turda bir belirli miktarda can kaybedeceği anlamına gelir.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>zehirlenmiş ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>görüş mesafesi</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>Bu karakterin diğer nesneleri ve karakterleri görebileceği maksimum mesafeyi etkiler.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>görüş mesafesi: Maks {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>görüş mesafesi</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>Bu karakterin diğer nesneleri ve karakterleri görebileceği maksimum mesafeyi etkiler.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>görüş mesafesi: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>bu karakterin eylem sıklığını değiştir</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>Bu karakter için tur başına izin verilen hareket sayısını etkiler.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>sana hiç hasar veremez</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>Bir sonraki tura kadar bu karakterin saldırılarından korunuyorsun. Ancak, bu karaktere herhangi bir hasar verirsen, etki kaldırılacaktır. Unutma ki zararsız büyüler yapmak sorun değil.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>uyuyor</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>Bu karakter uyuyor. Yaklaşıldığında veya rahatsız edildiğinde uyanacaktır.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>iz bırakır</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>Bu karakter her hareket ettiğinde bir iz bırakır.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>{0} izi bırakır</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>dayanıklılık yenilenmesi</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>Bu karakterin dayanıklılığı zamanla otomatik olarak yenilenir.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>dayanıklılık yenilenmesi ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>açlıktan ölüyor</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>Açlıktan ölüyorsun ve bir şeyler yemen gerekiyor. Can yenilememek ve eşya tanımlayamamanın yanı sıra, dayanıklılık yenilenmen durur ve zamanla yavaşça can kaybedersin. Açlığın cezaları bundan daha ileri gitmez.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>açlıktan ölüyor ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>Sakatlama Sınavı</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>Bu karakter için Sakatlama Sınavı devam ediyor. Meydan okumayı tamamlamak ve bir ödül almak için kısa sürede belirli sayıda vücut parçasını yok etmesi gerekiyor.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>Sakatlama Sınavı ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>Bu karakter için Sakatlama Sınavı devam ediyor. Meydan okumayı tamamlamak ve bir ödül almak için {1} tur içinde {0} vücut parçasını yok etmesi gerekiyor.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>Çevik Katil Sınavı</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>Bu karakter için Çevik Katil Sınavı devam ediyor. Meydan okumayı tamamlamak ve bir ödül almak için kısa sürede belirli sayıda değerli düşmanı öldürmesi gerekiyor.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>Çevik Katil Sınavı ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>Bu karakter için Çevik Katil Sınavı devam ediyor. Meydan okumayı tamamlamak ve bir ödül almak için {1} tur içinde {0} değerli düşmanı öldürmesi gerekiyor.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>Lekesiz Sınavı</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>Bu karakter için Lekesiz Sınavı devam ediyor. Meydan okumayı tamamlamak ve bir ödül almak için hiç can puanı kaybetmeden belirli sayıda değerli düşmanı öldürmesi gerekiyor.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>Lekesiz Sınavı ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>Bu karakter için Lekesiz Sınavı devam ediyor. Meydan okumayı tamamlamak ve bir ödül almak için hiç can puanı kaybetmeden {0} değerli düşmanı öldürmesi gerekiyor.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>ıslak</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>Bu karakter ıslak, bu da ona %50 ateş hasarı direnci verir, ancak aynı zamanda dayanıklılığının doğal olarak iki kat daha yavaş yenilenmesine neden olur.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

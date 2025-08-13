@@ -1,0 +1,39 @@
+<SpecTranslations>
+
+  <BuyItem.label>item kopen</BuyItem.label> <!-- <En>buy item</En> -->
+  <BuyItem.Buys>{0} koopt {1}</BuyItem.Buys> <!-- <En>{0} buys {1}</En> -->
+
+  <BuyPrivateRoomStructure.label>privékamermeubel kopen</BuyPrivateRoomStructure.label> <!-- <En>buy private room furniture</En> -->
+  <BuyPrivateRoomStructure.Buys>{0} koopt {1}</BuyPrivateRoomStructure.Buys> <!-- <En>{0} buys {1}</En> -->
+
+  <ErrorRecoveryAddSequence.label>sequentiefout-herstel</ErrorRecoveryAddSequence.label> <!-- <En>sequence error recovery</En> -->
+  <ErrorRecoveryAddSequence.SequenceErrorRecovery>Sequentiefout-herstel voor {0}</ErrorRecoveryAddSequence.SequenceErrorRecovery> <!-- <En>Sequence error recovery for {0}</En> -->
+
+  <MoveDownByGravity.label>vallen</MoveDownByGravity.label> <!-- <En>fall</En> -->
+  <MoveDownByGravity.Falls>{0} valt</MoveDownByGravity.Falls> <!-- <En>{0} falls</En> -->
+
+  <PulledByChain.label>trekken met ketting</PulledByChain.label> <!-- <En>pull by chain</En> -->
+  <PulledByChain.IsPulledByAChain>{0} wordt getrokken door een ketting</PulledByChain.IsPulledByAChain> <!-- <En>{0} is pulled by a chain</En> -->
+
+  <ResolveCondition.label>conditie oplossen</ResolveCondition.label> <!-- <En>resolve condition</En> -->
+  <ResolveCondition.TakesTurn>{0} is aan de beurt</ResolveCondition.TakesTurn> <!-- <En>{0} takes turn</En> -->
+
+  <ResolveStructure.label>structuur oplossen</ResolveStructure.label> <!-- <En>resolve structure</En> -->
+  <ResolveStructure.TakesTurn>{0} is aan de beurt</ResolveStructure.TakesTurn> <!-- <En>{0} takes turn</En> -->
+
+  <ResolveVelocity.label>valt niet meer</ResolveVelocity.label> <!-- <En>no longer falling</En> -->
+  <ResolveVelocity.IsNoLongerFalling>{0} valt niet meer</ResolveVelocity.IsNoLongerFalling> <!-- <En>{0} is no longer falling</En> -->
+
+  <ResolveWorld.label>wereld oplossen</ResolveWorld.label> <!-- <En>resolve world</En> -->
+  <ResolveWorld.TheWorldIsResolved>De wereld is opgelost</ResolveWorld.TheWorldIsResolved> <!-- <En>The world is resolved</En> -->
+
+  <RewindTime.label>tijd terugspoelen</RewindTime.label> <!-- <En>rewind time</En> -->
+  <RewindTime.TimeRewind>Tijd teruggespoeld</RewindTime.TimeRewind> <!-- <En>Time rewind</En> -->
+
+  <SwitchCurrentPartyMember.label>huidig teamlid wisselen</SwitchCurrentPartyMember.label> <!-- <En>switch current party member</En> -->
+  <SwitchCurrentPartyMember.PlayerSwitchesCurrent>Speler wisselt huidig teamlid naar {0}</SwitchCurrentPartyMember.PlayerSwitchesCurrent> <!-- <En>Player switches current party member to {0}</En> -->
+
+  <Think.label>nadenken</Think.label> <!-- <En>think</En> -->
+  <Think.Thinks>{0} denkt na</Think.Thinks> <!-- <En>{0} thinks</En> -->
+
+</SpecTranslations>

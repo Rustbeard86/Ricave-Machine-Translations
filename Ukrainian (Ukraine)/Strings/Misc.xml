@@ -1,4 +1,4 @@
-﻿<Strings>
+<Strings>
 
   <!-- Main menu -->
   <Play>Грати</Play> <!-- <En>Play</En> -->
@@ -423,14 +423,14 @@
   <Intro6>Ви щойно помітили когось на відстані, але ви лише впіймали погляд його тіні. Вам краще перевірити це.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
   <Ending1>Ви повільно відкриваєте очі...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
   <Ending2>Ви прокидаєтеся в лікарні.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
-  <Ending3>"Він прокинувся!"</Ending3> <!-- <En><i>"He's awake!"</i></En> -->
-  <Ending4>"Що сталося?"</Ending4> <!-- <En><i>"What happened?"</i></En> -->
-  <Ending5>"Ви ходили в похід з друзями і отримали серйозну травму голови."</Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
-  <Ending6>"Рятувальники знайшли вас вчасно. Вам потрібно відпочити та відновити сили."</Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
-  <Ending7>"Де Майя?"</Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
-  <Ending8>"Хто така Майя?"</Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
-  <Ending9>"Вона знайшла мене першою. З нею все гаразд?"</Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
-  <Ending10>"У вас може бути деяка плутанина, але ви скоро одужаєте."</Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending3><i>"Він прокинувся!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Що трапилося?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Ви пішли в похід з друзями й отримали серйозну травму голови."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"Рятувальники знайшли вас вчасно. Вам потрібно відпочити та відновити сили."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Де Майя?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Хто така Майя?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Вона знайшла мене першою. З нею все гаразд?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Можливо, у вас сплутана свідомість, але ви скоро одужаєте."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
   <Ending11>...</Ending11> <!-- <En>...</En> -->
   <Ending12>Ви здивовані, але у вас є це дивне відчуття досягнення. Майже так, ніби ви якось змінилися.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
   <Ending13>Ви заплющуєте очі та глибоко вдихаєте, уявляючи тепло сонця на вашому обличчі. Свіже повітря наповнює ваші легені, і ви не можете не посміхнутися.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
@@ -468,7 +468,7 @@
   <AvailableSkillPoints>Доступні очкі навичок</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
   <UnlockedSkills>Розблоковані навички</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
   <UnlockedAchievements>Розблоковані досягнення</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
-  <EscapeToCancel>[Скасувати], щоб скасувати</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancel>[Cancel] щоб скасувати</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
   <EscapeToCancelShort>ESC для скасування</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
   <FactionEnemies>Вороги</FactionEnemies> <!-- <En>Enemies</En> -->
   <FactionKnownMembers>Відомі члени</FactionKnownMembers> <!-- <En>Known members</En> -->
@@ -488,8 +488,8 @@
   <HealHPReward>Зцілити {0} Здоров'я</HealHPReward> <!-- <En>Heal {0} HP</En> -->
   <FallIntoDescendTriggerConfirmation>Цей крок змусить вас впасти в яму. Ви дійсно хочете це зробити?\n\nВи впадете у випадкове місце на поверсі нижче та втратите трохи здоров'я. Ви не можете повернутися.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
   <MoveIntoRunEndPortalConfirmation>Цей крок завершить ваш забіг. Ви дійсно хочете це зробити?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
-  <NeverUsedWatchRewindTip>[Перемотати] для перемотування</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
-  <NeverInspectedAnythingTip>Не забудьте оглянути своє оточення за допомогою [Оглянути].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <NeverUsedWatchRewindTip>[Rewind] щоб перемотати</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Не забувайте оглядати оточення за допомогою [Inspect].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
   <EscapingMode>Втеча!</EscapingMode> <!-- <En>Escape!</En> -->
   <ShelterReward>Нагорода</ShelterReward> <!-- <En>Reward</En> -->
   <TextOnFirstTimeFloorReached_1>Що це за місце? Я мушу знайти вихід...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
@@ -577,7 +577,7 @@
   <BodyPartTakesDamageAndIsDestroyed>{0} отримує {1} {2} шкоди та знищується</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
   <BodyPartTakesNoDamage>{0} не отримує {1} шкоди</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
   <BodyPartGainsHP>{0} отримує {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
-  <BodyPartDestroyedDirectly>{1} {0} знищено</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <BodyPartDestroyedDirectly>У {0} знищено {1}.</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
   <DamageBlocked>{0} блокує {1} {2} шкоди</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
   <DamageBlockedAndDeflected>{0} відбиває {1} {2} шкоди на {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
   <EntityIsPushed>{0} штовхають</EntityIsPushed> <!-- <En>{0} is pushed</En> -->

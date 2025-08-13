@@ -1,0 +1,21 @@
+<SpecTranslations>
+
+  <Bomb_Damage.label>výbušná bomba</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
+  <Bomb_Damage.description>Cíl a všichni v jeho okolí utrpí zranění.</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
+
+  <Bomb_Drunkenness.label>opilecká bomba</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
+  <Bomb_Drunkenness.description>Cíl a všichni v jeho okolí se opijí.</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
+
+  <Bomb_Fire.label>zápalná bomba</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
+  <Bomb_Fire.description>Výbuch založí požáry na všech sousedních polích.</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
+
+  <Bomb_Freeze.label>mrazicí bomba</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
+  <Bomb_Freeze.description>Cíl a všichni v jeho okolí budou zmraženi.</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
+
+  <Bomb_Poison.label>jedová bomba</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
+  <Bomb_Poison.description>Na každém sousedním poli se objeví jedovatý mrak.</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
+
+  <Bomb_Smoke.label>dýmová bomba</Bomb_Smoke.label> <!-- <En>smoke bomb</En> -->
+  <Bomb_Smoke.description>Na každém sousedním poli se objeví oblak dýmu.</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
+
+</SpecTranslations>

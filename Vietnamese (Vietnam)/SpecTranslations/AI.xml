@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>tiếp cận và tấn công, rồi lùi lại để tránh bị đánh trúng</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>tấn công, rồi bỏ chạy trong 8 lượt trừ khi bị dồn vào góc</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>không chủ động tiếp cận nhưng sẽ ở lại khi bị tiếp cận</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>luôn bỏ chạy</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>giữ khoảng cách trừ khi bị dồn vào góc</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>giữ khoảng cách trừ khi bị dồn vào góc hoặc không có vũ khí</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>đi theo người chơi và tấn công (thành viên tổ đội)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>đi theo người chơi và tấn công khi có cơ hội</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>tiếp cận và tấn công</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>đứng yên hoặc bỏ chạy nếu bị tấn công</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>đứng yên</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>đứng yên và hồi máu cho đồng minh</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>đứng yên hoặc bỏ chạy nếu bị tấn công</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>ăn trộm rồi bỏ chạy</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,27 @@
+<SpecTranslations>
+
+  <Character.label>karaktär</Character.label> <!-- <En>character</En> -->
+  <Character.description>Visar information om din karaktär.</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>kodex</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>Visar alla föremål och varelser du någonsin har sett.</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>grottkarta</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>Visar kartan över denna grotta.</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>fraktioner</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>Visar alla fraktioner i denna grotta.</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>inventarie</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>Visar föremålen du har i din inventarie.\n\nDra och släpp för att ändra ordning. Att ändra ordning på föremål tar ingen tur, så du kan göra det säkert i strid.\n\nAtt utrusta och avrusta föremål är omedelbart, men andra handlingar som att dricka eller kasta en dryck tar en tur.</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>uppdrag</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>Visar alla dina uppdrag.</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>snabbfält</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>Föremål i snabbfältet kan nås genom att trycka på siffertangenterna på ditt tangentbord.</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>färdigheter</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>Spendera färdighetspoäng för att lära dig nya färdigheter.</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

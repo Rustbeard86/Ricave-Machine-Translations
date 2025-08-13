@@ -1,0 +1,46 @@
+<SpecTranslations>
+
+  <Entangle.label>παγίδευση</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>Κάνει κάποιον ανίκανο να κινηθεί για μικρό χρονικό διάστημα. Σημείωση: οι παγιδευμένοι εχθροί μπορούν ακόμα να επιτεθούν από τη θέση τους.</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>τάισμα</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>Είναι σαν να τρως κάτι, χωρίς όμως να τρως τίποτα στην πραγματικότητα. Μαγεία.</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>πύρινη σφαίρα</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>Ρίχνει μια πύρινη σφαίρα που θα προκαλέσει έκρηξη και θα βάλει φωτιά σε όλα τα παρακείμενα κελιά.</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>πάγωμα</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>Παγώνει τον στόχο για μικρό χρονικό διάστημα. Οι παγωμένοι εχθροί δεν μπορούν να κινηθούν ή να επιτεθούν.</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>λίμνη γλίτσας</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>Δημιουργεί μια λίμνη γλίτσας που θα επιβραδύνει οποιονδήποτε χαρακτήρα περάσει από πάνω της.</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>ανάπτυξη</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>Δημιουργεί ένα τμήμα 3x3 από χόρτο και κληματσίδες. Καλό για τον αποκλεισμό εχθρών.</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>θεραπεία</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>Αποκαθιστά μέρος της υγείας και θεραπεύει την αιμορραγία.</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>αναγνώριση</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>Αναγνωρίζει ένα αντικείμενο της επιλογής σας. Χρησιμοποιήστε αυτό το ξόρκι στον εαυτό σας για να αναγνωρίσετε ένα αντικείμενο από το απόθεμά σας.</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>Επιλέξτε ένα αντικείμενο για αναγνώριση.</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>μαγικός τοίχος</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>Δημιουργεί έναν προσωρινό μαγικό τοίχο.</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>μαζική ώθηση</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>Σπρώχνει τους πάντες μακριά σας.</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>ώθηση</Push.label> <!-- <En>push</En> -->
+  <Push.description>Σπρώχνει κάποιον μακριά σας.</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>χτύπημα</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>Προκαλεί ζημιά στον στόχο.</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>τηλεμεταφορά</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>Τηλεμεταφέρεστε στην καθορισμένη τοποθεσία. Καλό για γρήγορη απόδραση, καθώς η χρήση αυτού του ξορκιού δεν κοστίζει γύρο.</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>τυχαία τηλεμεταφορά</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>Τηλεμεταφέρει τον στόχο σε μια τυχαία τοποθεσία στον χάρτη.</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>

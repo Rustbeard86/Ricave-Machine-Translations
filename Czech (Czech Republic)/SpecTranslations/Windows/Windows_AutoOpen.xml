@@ -1,0 +1,27 @@
+<SpecTranslations>
+
+  <Character.label>Postava</Character.label> <!-- <En>character</En> -->
+  <Character.description>Zobrazí informace o tvé postavě.</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>Kodex</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>Zobrazí všechny předměty a stvoření, které jsi kdy viděl.</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>Mapa podzemí</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>Zobrazí mapu tohoto podzemí.</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>Frakce</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>Zobrazí všechny frakce v tomto podzemí.</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>Inventář</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>Zobrazí předměty, které máš v inventáři.\n\nPřetáhni pro změnu pořadí. Změna pořadí předmětů nestojí žádný tah, takže to můžeš bezpečně dělat v boji.\n\nVybavení a odložení předmětů je okamžité, ale ostatní akce, jako je vypití lektvaru nebo hození lektvarem, stojí jeden tah.</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>Úkoly</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>Zobrazí všechny tvé úkoly.</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>Rychlá lišta</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>K předmětům na rychlé liště lze přistupovat stisknutím číselných kláves na klávesnici.</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>Dovednosti</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>Utrácej dovednostní body za učení se nových dovedností.</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

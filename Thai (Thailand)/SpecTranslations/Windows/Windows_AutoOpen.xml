@@ -1,0 +1,27 @@
+<SpecTranslations>
+
+  <Character.label>ตัวละคร</Character.label> <!-- <En>character</En> -->
+  <Character.description>แสดงข้อมูลเกี่ยวกับตัวละครของคุณ</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>สารานุกรม</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>แสดงไอเทมและสิ่งมีชีวิตทั้งหมดที่คุณเคยพบเจอ</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>แผนที่ดันเจี้ยน</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>แสดงแผนที่ของดันเจี้ยนนี้</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>ฝ่ายต่างๆ</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>แสดงฝ่ายทั้งหมดในดันเจี้ยนนี้</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>ช่องเก็บของ</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>แสดงไอเทมที่คุณมีในช่องเก็บของ\n\nลากและวางเพื่อจัดเรียงใหม่ การจัดเรียงไอเทมใหม่จะไม่เสียเทิร์น คุณจึงสามารถทำได้อย่างปลอดภัยระหว่างการต่อสู้\n\nการสวมใส่และถอดไอเทมจะเกิดขึ้นทันที แต่การกระทำอื่นๆ เช่น การดื่มหรือขว้างขวดยาจะใช้เวลาหนึ่งเทิร์น</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>เควส</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>แสดงเควสทั้งหมดของคุณ</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>แถบด่วน</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>ไอเทมจากแถบด่วนสามารถเข้าถึงได้โดยการกดปุ่มตัวเลขบนคีย์บอร์ดของคุณ</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>ทักษะ</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>ใช้แต้มทักษะเพื่อเรียนรู้ทักษะใหม่</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

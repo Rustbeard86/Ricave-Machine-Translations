@@ -1,21 +1,21 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <AllIn.label>все або нічого</AllIn.label> <!-- <En>all in</En> -->
   <AllIn.description>Почніть з додатковими очками навичок, але ви ніколи не зможете отримати більше.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
-  <AllIn.goodEffects>Починаєте з 3 очками навичок</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
-  <AllIn.badEffects>Неможливо отримати більше очок навичок</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+  <AllIn.goodEffects><li>Починаєте з 3 очками навичок</li></AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects><li>Не можна отримати більше очок навичок</li></AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
 
   <Angel.label>янгол</Angel.label> <!-- <En>angel</En> -->
   <Angel.description>Отримайте здатність літати та завдавати більше шкоди Демону, але станьте вразливими до вогню, отрути та магічної шкоди.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
 
   <Berserker.label_2>берсерк</Berserker.label_2> <!-- <En>berserker</En> -->
   <Berserker.description_2>Тимчасово завдавайте більше шкоди після кожного гідного вбивства, але також ставайте більш вразливими.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
-  <Berserker.goodEffects>Завдаєте на 25% більше фіз. шкоди протягом 6 ходів після гідного вбивства</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
-  <Berserker.badEffects>Отримуєте на 25% більше фіз. шкоди протягом 6 ходів після гідного вбивства</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.goodEffects><li>Завдаєте на 25% більше фіз. шкоди на 6 ходів після значущого вбивства</li></Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects><li>Отримуєте на 25% більше фіз. шкоди на 6 ходів після значущого вбивства</li></Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
 
   <BossHunter.label>мисливець на босів</BossHunter.label> <!-- <En>boss hunter</En> -->
   <BossHunter.description>Завдавайте більше шкоди всім босам, але вони починатимуть гру пробудженими.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
-  <BossHunter.badEffects>Усі боси починають пробудженими</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+  <BossHunter.badEffects><li>Усі боси одразу пробуджені</li></BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
 
   <Bulky.label>кремезний</Bulky.label> <!-- <En>bulky</En> -->
   <Bulky.description>Отримуйте більше максимального здоров'я за рівень, але ваші рухи стають гучнішими.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
@@ -37,27 +37,27 @@
 
   <MoleRat.label>кротощур</MoleRat.label> <!-- <En>mole-rat</En> -->
   <MoleRat.description>Отримайте здатність копати та певний опір до стихій, але отримуйте менше максимального здоров'я за рівень.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
-  <MoleRat.goodEffects>Можна копати без лопати</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+  <MoleRat.goodEffects><li>Можете копати без лопати</li></MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
 
   <NightOwl.label>нічна сова</NightOwl.label> <!-- <En>night owl</En> -->
   <NightOwl.description>Краще бачите вночі, але гірше вдень.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
-  <NightOwl.goodEffects>+1 до дальності зору з 19:00 до 7:00</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
-  <NightOwl.badEffects>-1 до дальності зору з 7:00 до 19:00</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+  <NightOwl.goodEffects><li>+1 до дальності огляду з 19:00 до 7:00</li></NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects><li>-1 до дальності огляду з 7:00 до 19:00</li></NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
 
   <Pacifist.label_2>пацифіст</Pacifist.label_2> <!-- <En>pacifist</En> -->
   <Pacifist.description>Усі предмети в крамниці безкоштовні, і ви отримуєте рівні вдвічі швидше, але кожне гідне вбивство коштує вам 1 ОЗ.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
 
   <Scary.label>страховисько</Scary.label> <!-- <En>scary</En> -->
   <Scary.description>Усі вороги панікують, якщо ви їх пробуджуєте, але ціни стають вищими, культи ворожі до вас, а максимальна витривалість знижується. Крім того, усі привиди слідуватимуть за вами і не залишатимуть здобичі.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
-  <Scary.goodEffects>Вороги панікують протягом 3 ходів, якщо ви їх пробуджуєте</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
-  <Scary.badEffects>Привиди слідують за вами і не залишають здобичі</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+  <Scary.goodEffects><li>Вороги панікують на 3 ходи, якщо ви їх розбудили</li></Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects><li>За вами слідують привиди, і з них не випадає здобич</li></Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
 
   <Shaman.label>шаман</Shaman.label> <!-- <En>shaman</En> -->
   <Shaman.description>Отримуйте очко мани за кожне гідне вбивство, але матимете менше слотів в інвентарі.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
 
   <Vampire.label>вампір</Vampire.label> <!-- <En>vampire</En> -->
   <Vampire.description>Відновлюйте одне очко здоров'я за кожне гідне вбивство, але регенерація здоров'я вдень вимкнена, ви вразливі до вогню, а собаки стають ворожими до вас.</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
-  <Vampire.badEffects>Немає регенерації здоров'я з 7:00 до 19:00-1 до дальності зору з 7:00 до 19:00Ворожість до собак</Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <Vampire.badEffects><li>Немає регенерації здоров'я з 7:00 до 19:00</li><li>-1 до дальності огляду з 7:00 до 19:00</li><li>Ворожі до собак</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
   <li>-1 vision range from 7:00 to 19:00</li>
   <li>Hostile to dogs</li></En> -->
 

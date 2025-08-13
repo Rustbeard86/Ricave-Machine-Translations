@@ -1,4 +1,4 @@
-﻿<Strings>
+<Strings>
 
   <!-- Main menu -->
   <Play>遊玩</Play> <!-- <En>Play</En> -->
@@ -242,7 +242,7 @@
   <NewRunScreenBossLabel>{0} 頭目</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
   <CosmeticCollidesWith>與...衝突</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
   <CosmeticsInfo>外觀物品純為視覺效果，除非另有說明，否則不會影響遊戲。</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
-  <ConfirmBuyCosmetic>您確定要以 {1} 購買 {0} 嗎？</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <ConfirmBuyCosmetic>您想花費 {1} 購買 {0} 嗎？</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
   <CantAffordCosmetic>你買不起此外觀物品。</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
   <Price>價格</Price> <!-- <En>Price</En> -->
   <CosmeticWillMakeFactionHostile>警告：此外觀物品會使 {0} 對你產生敵意</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
@@ -311,7 +311,7 @@
   <QuestCompletedTip>回到大廳後即可領取獎勵</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
   <Stationary>靜止不動</Stationary> <!-- <En>Stationary</En> -->
   <OneStep>一步</OneStep> <!-- <En>One step</En> -->
-  <BuyConfirmation>您確定要以 {1} 購買 {0} 嗎？</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation>您想花費 {1} 購買 {0} 嗎？</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
   <BuyConfirmation_SingleUseUnlockable>這是一次性的加成，僅對您的下一場遊戲有效。</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
   <Buy>購買</Buy> <!-- <En>Buy</En> -->
   <CanRewindTimeAgainIn>可於 {0} 後使用</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
@@ -423,14 +423,14 @@
   <Intro6>你剛才注意到遠方有個人，但只瞥見了他的影子。你最好過去看看。</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
   <Ending1>你緩緩睜開雙眼…</Ending1> <!-- <En>You slowly open your eyes...</En> -->
   <Ending2>你在醫院裡醒來。</Ending2> <!-- <En>You wake up in a hospital.</En> -->
-  <Ending3>"他醒了！"</Ending3> <!-- <En><i>"He's awake!"</i></En> -->
-  <Ending4>"發生了什麼事？"</Ending4> <!-- <En><i>"What happened?"</i></En> -->
-  <Ending5>"你和朋友們去遠足時，頭部受了重傷。"</Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
-  <Ending6>"搜救人員及時找到了你。你需要休息，恢復體力。"</Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
-  <Ending7>"瑪雅在哪裡？"</Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
-  <Ending8>"誰是瑪雅？"</Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
-  <Ending9>"是她先找到我的。她還好嗎？"</Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
-  <Ending10>"你可能有些意識混亂，但很快就會恢復的。"</Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending3><i>「他醒了！」</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>「發生了什麼事？」</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>「你和朋友去遠足時，頭部受了重傷。」</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>「搜救隊及時找到了你。你需要休息，恢復體力。」</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>「瑪雅在哪？」</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>「誰是瑪雅？」</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>「是她先找到我的。她還好嗎？」</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>「你可能有些意識混亂，但很快就會恢復的。」</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
   <Ending11>…</Ending11> <!-- <En>...</En> -->
   <Ending12>你感到困惑，卻又有一種奇妙的成就感。彷彿自己發生了某種改變。</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
   <Ending13>你閉上眼睛，深吸一口氣，想像著陽光灑在臉上的溫暖。新鮮的空氣充滿你的肺部，讓你情不自禁地微笑起來。</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
@@ -585,8 +585,8 @@
   <EntityGainsCondition>{0} 獲得新狀態：{1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
   <EntityGainsUseEffect>{0} 獲得新效果：{1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
   <BodyPartIsRestored>{0} 的 {1} 已恢復</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
-  <ActorGainsMana>{0} 的 {1} 已恢復</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
-  <ActorGainsStamina>{0} 的 {1} 已恢復</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{0} 恢復了 {1}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{0} 恢復了 {1}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
   <ItemIdentified>{0} 已被鑑定</ItemIdentified> <!-- <En>{0} is identified</En> -->
   <ConditionWearsOff>{0} 效果消失</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
   <UseEffectWearsOff>{0} 效果消失</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
@@ -671,14 +671,14 @@
 
   <!-- Use description -->
   <AttackDescription_Self>{0}用{1}攻擊自己</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
-  <AttackDescription_Other>{0}用{1}攻擊{2}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <AttackDescription_Other>{0} 用 {1} 攻擊了 {2}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
   <UseDescription_Self>{0}使用{1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
-  <UseDescription_Other>{0}對{2}使用{1}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <UseDescription_Other>{0} 對 {2} 使用了 {1}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
   <PotionUseDescription_Self>{0}喝下{1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
-  <PotionUseDescription_Other>{0}向{2}投擲{1}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <PotionUseDescription_Other>{0} 向 {2} 投擲了 {1}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
   <ScrollUseDescription_Self>{0}對自己使用{1}</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
-  <ScrollUseDescription_Other>{0}對{2}使用{1}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
-  <BombUseDescription_Other>{0}向{2}投擲{1}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Other>{0} 對 {2} 使用了 {1}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} 向 {2} 投擲了 {1}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
   <OpenUseDescription_Self>{0}打開{1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
   <CloseUseDescription_Self>{0}關上{1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
   <GraveUseDescription_Self>{0}挖掘{1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
@@ -694,10 +694,10 @@
   <LavaUseDescription_Self>{0}在{1}中燃燒</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
   <PressurePlateUseDescription_Self>{0}踩上{1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
   <PortalUseDescription_Self>{0}進行傳送</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
-  <ThrownWeaponUseDescription_Other>{0}向{2}投擲{1}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ThrownWeaponUseDescription_Other>{0} 向 {2} 投擲了 {1}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
   <SeedUseDescription_Other>{0}種下{1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
   <SpellUseDescription_Self>{0}對自己施放{1}</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
-  <SpellUseDescription_Other>{0}對{2}施放{1}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <SpellUseDescription_Other>{0} 對 {2} 施放了 {1}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
   <EmptyVialUseDescription_Other>{0}用水裝滿{1}</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
   <PlanksUseDescription_Other>{0}封鎖{2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
   <ChainUseDescription_Self>{0}將自己鎖在柱子上</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
@@ -719,10 +719,10 @@
   <AncientDeviceUseDescription_Self>{0}研究{1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
   <WallWithCompartmentUseDescription_Self>{0} 正在搜索 {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
   <BedUseDescription_Self>{0} 在 {1} 中睡覺</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
-  <PickaxeUseDescription_Other>{0} 使用 {1} 挖掘 {2}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <PickaxeUseDescription_Other>{0} 用 {1} 開採了 {2}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
   <TalkUseDescription_Other>{0} 與 {2} 交談</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
   <CrystalUseDescription_Self>{0} 使用 {1} 附魔一件物品</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
-  <ShovelUseDescription_Other>{0} 使用 {1} 挖掘 {2}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <ShovelUseDescription_Other>{0} 用 {1} 挖掘了 {2}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
   <LimbOfferingAltarUseDescription_Self>{0} 在 {1} 獻上一個肢體</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
   <PhantomsAltarUseDescription_Self>{0} 在 {1} 召喚幻影</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
   <AltarOfRedemptionUseDescription_Self>{0} 在 {1} 解放一個靈魂</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
@@ -799,7 +799,7 @@
 
   <TimeTip>{0}\n{1}\n\n這是目前的遊戲內時間。一分鐘代表一個回合。\n\n整個遊戲都是回合制的。大多數行動，如行走、喝藥水、攻擊或與物件互動，都需要一個回合來完成。\n\n總經過回合數：{2}。\n在此樓層：{3}。</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
   <PlayerHealthTip>這是你角色的生命值。\n\n某些物品可以增加你的生命值上限。每升一級可為你增加 {0} 生命值上限。</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
-  <PlayerHealthRegenTip>若非飢餓或挨餓狀態，每 {1} 將恢復 {0} 生命值。</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenTip>在非飢餓或挨餓狀態下，每 {1} 會回復 {0} 生命值。</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
   <PlayerHealthRegenHealHPInTip>下一次生命值恢復於：{0}。</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
   <LosingHPBecauseAboveMaxTip>你的生命值超過上限，因此正在流失。</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
   <LosingManaBecauseAboveMaxTip>你的魔力值超過上限，因此正在流失。</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
@@ -871,7 +871,7 @@
   <CostsStamina>消耗 {0} 耐力</CostsStamina> <!-- <En>Costs {0}</En> -->
   <PlayerManaTip>這是你角色的魔力。\n\n施放法術和使用魔法物品會消耗魔力。魔力不會隨時間自動恢復，只能透過飲用魔力藥水或與某些特殊物件互動來補充。當你沒有任何法術時，魔力條會被隱藏。\n\n每次升級你都可以選擇一個新法術。</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
   <PlayerStaminaTip>這是你角色的耐力。\n\n使用某些物品可能需要耐力。當你的物品欄中沒有需要耐力的物品時，耐力條會被隱藏。</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
-  <PlayerStaminaRegenTip>若非挨餓狀態，每 {1} 會恢復 {0} 耐力。</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenTip>在非挨餓狀態下，每 {1} 會回復 {0} 耐力。</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
   <PlayerStaminaRegenNextRegenInTip>下次耐力恢復於：{0}。</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
   <AddSpellButtonTip>選擇新法術。每次升級你都可以選擇一個新法術。</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
   <FleesOnLowHP>低生命值時會逃跑</FleesOnLowHP> <!-- <En>flees on low HP</En> -->

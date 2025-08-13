@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>Oyna</Play> <!-- <En>Play</En> -->
+  <Quit>Çık</Quit> <!-- <En>Quit</En> -->
+  <Loading>Yükleniyor</Loading> <!-- <En>Loading</En> -->
+  <Resume>Devam Et</Resume> <!-- <En>Resume</En> -->
+  <Options>Seçenekler</Options> <!-- <En>Options</En> -->
+  <Mods>Modlar</Mods> <!-- <En>Mods</En> -->
+  <Credits>Emeği Geçenler</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>Dil seç</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>Öl ve yeniden başla</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>Öl ve lobiye git</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>Kaydet ve oyundan çık</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>Kapat</Close> <!-- <En>Close</En> -->
+  <Back>Geri</Back> <!-- <En>Back</En> -->
+  <Days>{0} gün</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} saat</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} dakika</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 gün</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 saat</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 dakika</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>Bir şey hataya sebep oluyor.\nDaha fazla bilgi için kayıt dosyasına bakın.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Steam'e giriş yapıldı</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>seçili mod yok</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>Erken Erişim</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave şu anda geliştirme aşamasındadır.\n\nSürekli olarak daha fazla içerik eklemeye, dengelemeler yapmaya, eğlenceli olmayan mekanikleri kaldırmaya ve geri bildirim toplamaya çalışıyorum, ancak yine de bir şeyleri gözden kaçırmış olabilirim. Oyunu çok zor veya çok kolay bulursanız, bir hatayla karşılaşırsanız veya bir iyileştirme ya da yeni bir özellik için harika bir fikriniz varsa, lütfen geliştirme sürecine katılın ve düşüncelerinizi Discord kanalımızda veya Twitter'da paylaşın.\n\nTeşekkürler ve iyi eğlenceler!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>Oyun güncellendi</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricave, {0} sürümüne güncellendi!\n\nMevcut oyununuz yeni sürümle uyumlu olabilir veya olmayabilir. Mevcut oyununuzu bırakıp lobiye dönmek ister misiniz?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Steam'e Yükle</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>yükleniyor</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Steam'e yüklenemedi: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Steam'e başarıyla yüklendi.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>Mesaj</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>Çözünürlük</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>Tam Ekran</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>Arayüz ölçeği</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>Görüş Alanı</FOV> <!-- <En>FOV</En> -->
+  <VSync>Dikey Senkronizasyon</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>Hedef kare hızı</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>FPS'yi göster</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Y'yi ters çevir</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>Tuş atamaları</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>Ses seviyesi</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>Müzik ses seviyesi</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>Fare hassasiyeti</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>İmleç hassasiyeti</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>SSAO kalitesi</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>Gölge kalitesi</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>Downsampling</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>Dış çizgi</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>Maksimum ışıklar</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>Kapalı</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>Düşük</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>Normal</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>Yüksek</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>Düşük</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>Normal</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>Yüksek</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>Yok (en iyi kalite)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5x (daha kötü kalite)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (en kötü kalite)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>Çok geçişli yuvarlak</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>Çok geçişli</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>Tek geçişli (önerilen)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>Tamam</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>Varsayılanları geri yükle</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>Oyun durumunu sıfırla</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>Lobiye dön</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>Tüm ilerlemeyi sıfırla</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>Lobiye dönmek istediğinizden emin misiniz?\n\nOyun içinden lobiye dönmekten farklı olarak, buradaki bu seçeneği kullanmak mevcut oyununuzdaki ilerlemenizi kaybedeceğiniz anlamına gelir. Ancak genel lobi ilerlemenizi kaybetmezsiniz (önceki görevleriniz ve yıldız tozunuz bozulmadan kalır).\n\nBu seçeneği, uyumsuz bir güncelleme yükledikten sonra kayıt dosyanız bozulduysa kullanın.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>TÜM ilerlemeyi sıfırlamak istediğinizden emin misiniz?\n\nBu, tüm verilerinizi silecek ve en baştan başlayacaksınız.\n\nBu seçeneği yalnızca oyunu sıfırdan deneyimlemek istiyorsanız veya ilerleme verileriniz bozulmuşsa kullanın.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>Atamak için bir tuşa basın:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>Yok</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>Görüntü</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>Arayüz</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>Ses</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>Çeşitli</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>Kalite</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>Hayır</No> <!-- <En>No</En> -->
+  <Yes>Evet</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>Zindana gir</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>Seed ile zindana gir</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>Eğitim odasına gir</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>Seed gir</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>İlerleme devre dışı</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>Yüksek skor</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>Ulaşılan kat</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>Ortalama kat</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>Denemeler</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>Toplam öldürme</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>Görevler</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>İstatistikler</Stats> <!-- <En>Stats</En> -->
+  <Cancel>İptal</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>Kabul Et</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>Görevi kabul et</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>Al</Claim> <!-- <En>Claim</En> -->
+  <Postpone>Ertele</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>Kilitli</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>Sadece en iyi fiyatlar!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>Yükseltme mi lazım?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>Yıldız tozu var mı?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>Daha fazlasını okumak için tıkla</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>Daha fazlasını okumak için seç</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>Kabul edildiğinde zindan değiştiricileri</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>Ödüller</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} bulmaca parçası</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>Seviye {0}'de açılır</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>Görevi tamamlayarak aç</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>Yerleştir</Place> <!-- <En>Place</En> -->
+  <PickUp>Al</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>Mağaza menüsünü açmak için [ShowInventory] tuşuna bas.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>Yok</None> <!-- <En>None</En> -->
+  <CompletedQuests>Tamamlanan görevler</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>Tamamlandı</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>Günlük meydan okuma</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>Tek bir deneme hakkın var - iyi kullan!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>Her gün, dünyanın dört bir yanındaki oyuncular aynı zindan seed'ini oynar. Günde sadece bir şansın var.\n\nKurallar:\n  - Normal zorluk\n  - Takviyeler devre dışı\n  - Rastgele sınıf ve özellikler\n  - Görevler devre dışı\n  - İlerleme devre dışı\n  - Sonsuz karmaşık zindan (kat sınırı yok)\n\nBu zindanda yıldız tozu toplayamazsın ve bu, istatistiklerine sayılmaz, ancak katılımın için {0} alacaksın.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>Sonraki meydan okumaya kalan süre: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>En iyi skorun (tüm günler): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>Günlük meydan okumayı başlat</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>Bugünün meydan okumasını zaten oynadın\nSkorun: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>Önce modları devre dışı bırak</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>Seviye {0}'de açılır</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>Bugünün liderlik tablosunu görüntüle</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>Global</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>Arkadaşlar</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>Sıralaman: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>Liderlik tablosu yükleniyor...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>Liderlik tablosu yüklenemedi.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>Liderlik tablosu mevcut değil.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>Henüz hiçbir arkadaşın bu meydan okumayı oynamadı.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>Aktif görevler</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>Aktif</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>Mevcut görevler</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>Mevcut</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>Geçmiş görevler</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>Geçmiş</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>Devam etmek için [Wait] tuşuna bas</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>Görev</Quest> <!-- <En>Quest</En> -->
+  <Runs>Denemeler</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 mevcut görev</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} mevcut görev</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>Görevleri kabul etmek için görev günlüğünü kullan.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>Oyuncu adı</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>Zorluk</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>Düşmanlar</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>Boss'lar</Bosses> <!-- <En>Bosses</En> -->
+  <Train>Eğitim</Train> <!-- <En>Train</En> -->
+  <EnterNewName>Yeni isim gir</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>Düşman Canı</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>Başlangıç Canı</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>Skor</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>Ekstra düşmanlar</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>Kat başına ekmek</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>Kat başına can iksiri</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>Düşman seviyesi</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>Kat başına altın ganimeti</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>Yıldız tozu</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>İyileştirme kristalleri</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>Küçük iyileştirme kristalleri</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>Mana kristalleri</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>Küçük mana kristalleri</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>Düşman sayısı</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>Başlangıç can iksirleri</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>Tebrikler!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>Tebrikler!\n\nSon puanın: {0}\n\nAna görev serisi bitmiş olsa da, keşfedebileceğin daha pek çok şey olabilir.\n\nOyunu beğendiysen, {1} adresindeki Discord sunucumuza katılmayı düşünebilirsin.</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>Sonraki özellik fiyatı</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>Önce bu özelliğin kilidini açman gerekiyor.\n\nYıldız tozu karşılığında rastgele bir özellik satın alabilirsin. Ne kadar çok özelliğin varsa, bir sonrakini almak o kadar pahalı olur.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>Bu özellikle ulaştığın en yüksek kat: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>En fazla 2 özellik seçebilirsin.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>Yeterli yıldız tozun yok.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>Bu özelliği seçmek veya seçimini kaldırmak için tıkla.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>Bu özelliği seç veya seçimini kaldır.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>Seçmek veya seçimi kaldırmak için tıkla.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>Seç veya seçimi kaldır.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>{0} rastgele özellik satın al</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>Seçilen özellikler</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>{0} karşılığında {1} rastgele özellik satın almak istediğine emin misin?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>{0} ile başla</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>{0} daha fazla altın bul</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>{0} daha az altın bul</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>Maksimum Can</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>Maksimum Mana</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>Maksimum Dayanıklılık</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>{0} düşman değil</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>{0} düşman</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>{0} zehir direnci</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>{0} zehir zafiyeti</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>Zehre karşı bağışık</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>Düşme hasarı yok</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>{0} düşme hasarı</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>{0} ateş direnci</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>{0} ateş zafiyeti</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>{0} büyü direnci</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>{0} büyü zafiyeti</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{1} türüne {0} hasar</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>Dayanıklılık {0} kat daha yavaş yenilenir</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Dayanıklılık iki kat daha yavaş yenilenir</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>{1} Can altındayken {0} daha fazla hasar ver</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>Seviye başına {0} daha az maksimum Can kazan</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>Seviye başına {0} daha fazla maksimum Can kazan</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>Yürüme gürültüsü {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>Değerli öldürme başına {0} mana kazan</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>Değerli öldürme başına {0} Can kazan</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>Değerli öldürme başına {0} Can kaybet</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>Envanter yuvası {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>Maksimum Can x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>Patronlara {0} hasar</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>İyileşme oranı {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>{0} etkisine karşı bağışık</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>İtilmeye karşı bağışık</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>Açlık oranı {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>Dükkan fiyatları {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>Uçabilir</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>{0} daha fazla deneyim kazan</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>{0} daha az deneyim kazan</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>Son oyundan saklanan DP</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>Son oyundan saklanan altın</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>1 oyun kaldı</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>{0} oyun kaldı</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>Başla</StartNewRun> <!-- <En>Start</En> -->
+  <Character>Karakter</Character> <!-- <En>Character</En> -->
+  <Traits>Özellikler</Traits> <!-- <En>Traits</En> -->
+  <Boosts>Takviyeler</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>Katlar</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} kat</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>Kat başına oda</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>{0} karşılığında aç</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>Tamamlanan zorluk</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>Mini patronlar</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>Sığınaklar</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>Kurtarılan ruhlar</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>Galibiyetler</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>Mağlubiyetler</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>{0} patronu</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>Şununla çakışıyor</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>Aksi belirtilmedikçe, kozmetikler tamamen görseldir ve oyun üzerinde herhangi bir etkisi yoktur.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>{0} kozmetiğini {1} karşılığında satın almak istiyor musun?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>Bu kozmetiği alacak paran yok.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>Fiyat</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>Uyarı: Bu kozmetik, {0} grubunu sana düşman yapacak</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>Ekstra zindan düzenleyicileri</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>Zamanın ödünç alınmış.\nBen sadece borcumu tahsil ediyorum.\nHiç durma, koşmaya devam et.\nEninde sonunda çıkışı bulacaksın.\nBen hemen onun ardındayım.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>Keşfedilmemiş düşman</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} Can</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} mana</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} dayanıklılık</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} ila {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>pusuya düşürüldü</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>yukarıdan</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>savuşturmadan</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>hasar yayıldı</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>tanımlanmamış</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>Lanetli</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>lanetli</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 tur</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} tur</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1 kullanım</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} kullanım</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 yük</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} yük</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 elmas</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} elmas</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 yıldız tozu</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} yıldız tozu</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 hücre</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} hücre</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 altın</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} altın</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}a</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>Devam etmek için [Accept] tuşuna bas</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>Lobiye devam etmek için [Accept] tuşuna bas</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>Yeniden başlatmak için [Wait] tuşuna bas</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>seçenek yok</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>Uyarı: Bu eşya {0} olabilir.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>Uyarı: Bu eşya {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>{0} eşyaları (lanet kaldırma parşömeni olmadan) çıkaramazsın.</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>Altın</Gold> <!-- <En>Gold</En> -->
+  <Leave>Ayrıl</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>Tur başına iki kez hareket eder</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>Tur başına {0} kez hareket eder</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>Her iki turda bir hareket eder</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>Her {0} turda bir hareket eder</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>Acıkmaz</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>İki kat daha hızlı acıkır</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>{0} kat daha hızlı acıkır</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>İki kat daha yavaş acıkır</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>Açlık oranı çarpanı: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>{0} altın fırlat</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>{0} şans</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>{0} tur değerinde</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>yarıçap {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>tüm harita</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>duvarların içinden</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>hedefin etrafında</AroundTarget> <!-- <En>around target</En> -->
+  <Used>Kullanıldı</Used> <!-- <En>Used</En> -->
+  <Waiting>Bekleniyor</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>Kesintiye uğradı</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>nokta</Location> <!-- <En>spot</En> -->
+  <StopTargeting>Hedef almayı bırak</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>Görev tamamlandı</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>Lobiye döndüğünde ödülünü al</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>Hareketsiz</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>Bir adım</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>{0} ürününü {1} karşılığında satın almak istiyor musun?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>Bu tek kullanımlık bir bonustur ve sadece bir sonraki oyunun için geçerlidir.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>Satın Al</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>{0} sonra kullanılabilir</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>Bu, bu karakterin ana silahıdır.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>Yeni bir büyü seç.\n\nHer seviye atladığında yeni bir büyü seçebilirsin.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} katledildi</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>İpucu: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>Hareket etmek için [MoveForward][MoveLeft][MoveBack][MoveRight] tuşlarını kullan. Envanteri açmak için [ShowInventory] tuşuna bas. Nesnelerle etkileşime girmek için [Interact] kullan. [RotateLeft] ve [RotateRight] ile döndür. İncelemek için [Inspect] tuşunu basılı tut. Bir tur beklemek için [Wait] tuşuna bas.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>Bekliyor</Waits> <!-- <En>Waits</En> -->
+  <Wait>Bekle</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>Bekliyor (sarhoş)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>Bekliyor (panik)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>Bekliyor ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>Uyanıyor</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>Nerede?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>Kol yok</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>Bacak yok</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>Düşman</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>Eksik vücut parçaları</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>Biri seni görüyor</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>Boss hâlâ hayatta</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>Yetersiz mana ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>Yetersiz dayanıklılık ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>Bekleme süresinde ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>Yaklaş</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>Geçersiz hedef</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>Menzil dışında</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>Görüş hattı yok</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>{0} gerekli</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>Ulaşılamıyor</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>Envanter dolu</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>2 aynı kristal gerekli</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>Ruh gerekli</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>Kürek gerekli</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>Kürek kullan</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>Kazma gerekli</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>Kazma kullan</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>Bazı grup üyeleri çok uzakta</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>Kapı engellenmiş</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>{0} yoldaşı zaten mevcut</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>Sana şimdi {0}</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>Şimdi {0}</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>Senin için şimdi {0}</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>Tur başına {0} hasar</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{1} turda bir {0} hasar</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>Tur başına {0}</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{1} turda bir {0}</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>tümü</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>Senin için {0}</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>veya</Or> <!-- <En>or</En> -->
+  <And>ve</And> <!-- <En>and</En> -->
+  <Score>Puan</Score> <!-- <En>Score</En> -->
+  <FloorReached>Ulaşılan kat</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>Öldürme</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>Oynama süresi</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>Öldürme</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>Savaş derecesi</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>Katledilen boss'lar</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>Toplanan lobi eşyaları</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>Sonraki ödül {0}. seviyede</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}g</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}s</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}d</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>hiçbiri</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>Yeni rekor!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>ve daha fazlası</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>Tohum: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 değiştirici</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} değiştirici</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>{0} altın bahse gir</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>Öğretici</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>Öldürülen boss'lar</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>Tamamlanan görevler</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>Bulunan notlar</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>Açılan sandıklar</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>Üretilen eşyalar</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>Yaygın</Common> <!-- <En>Common</En> -->
+  <Uncommon>Sıradışı</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>Nadir</Rare> <!-- <En>Rare</En> -->
+  <Epic>Epik</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>Tanımlanmamış</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>Lobi (kalıcı) eşyası</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>Lobi</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>zarar gördü</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>yakında yangın var</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>yüksek ses</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>yakındaki müttefik uyandı</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>düşman ayak sesleri</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>yanından geçen uyanık müttefik</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>tekmelenen kapı</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>Iska</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} ıska</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} kritik</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>kritik</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>Kritik vuruş</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>yüklü</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>Mevcut tarifler</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>{0} tur bekle</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>{0} tur geri al</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>sende {0} var</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>yavru {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>{0} boss'u</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>Bir tür zindanda gibisin...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>Tam olarak nerede olduğunu, hatta buraya nasıl geldiğini bile bilmiyorsun.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>Etrafındaki her şey biraz rüya gibi. Aynı zamanda, sadece bir rüya olmak için biraz fazla gerçek hissettiriyor.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>Yavaş yavaş bir şeyler hatırlamaya başlıyorsun. En azından adını biliyorsun.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>Adın:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>Uzakta birini fark ettin ama sadece gölgesini bir anlığına görebildin. Gidip bir baksan iyi olur.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>Yavaşça gözlerini açıyorsun...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>Bir hastanede uyanıyorsun.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"Uyandı!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Ne oldu?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Arkadaşlarınla yürüyüşe çıkmıştın ve ciddi bir kafa travması geçirdin."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"Kurtarma ekipleri seni tam zamanında buldu. Dinlenip gücünü geri kazanman gerekiyor."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Maya nerede?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Maya kim?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Beni ilk o buldu. İyi mi?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Biraz kafa karışıklığı yaşıyor olabilirsin ama yakında iyileşeceksin."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>Kafan karışmış olsa da, garip bir başarma hissi içindesin. Sanki bir şekilde değişmişsin gibi.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>Gözlerini kapatıp derin bir nefes alıyorsun, yüzündeki güneşin sıcaklığını hayal ediyorsun. Temiz hava ciğerlerini dolduruyor ve gülümsemeden edemiyorsun.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>Demoyu oynadığınız için teşekkürler!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>Geliştirici</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>Ana Menü Arka Planı</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>Müzikler</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>Logo Tasarımı</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>Karakter Modelleri</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>Ses Efektleri</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>Oynadığınız için teşekkürler!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>Orman... tamamdır! Buraya gelmeden önce ne olduğunu hatırlamaya başlıyorsun. Sıcak bir yaz günü, şakıyan kuşlar ve ufukta güzel dağlar - arkadaşlarınla yürüyüşe çıkmıştın. Ama sonra bir şey dikkatini çekti. Gruptan ayrıldığını hatırlıyorsun. Ama neden?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>Mağara! Yardım için bağıran birini duyduktan sonra grubundan ayrıldın. Başka bir dağcının başının dertte olduğuna inanarak sesi bir mağaraya kadar takip ettin. İçeride ayağın kaydı ve düştün, bacağını kırdın. Bağırdın ama kimse cevap vermedi. Yalnız ve yaralı bir şekilde umudun tükenmeye başladı...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>O mağarada saatlerce tek başına oturdun. Gece olup yağmur bastırınca neredeyse tüm umudunu yitirdin. Sonsuzluk gibi gelen bir sürenin ardından, mağaranın girişinde bir ışık gördün. Bu... Maya'ydı! Çok rahatlamıştın!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>Maya'yı gördüğüne çok sevinmiştin. Seni yukarı çekmek için elini uzattı ve bir an için başaracakmışsın gibi göründü. Ama durmak bilmeyen yağmur onun da ayağını kaydırdı ve ikiniz de aşağı yuvarlandınız, acı verici bir güçle kayalara çarptınız. Ondan sonra her şey sessizliğe büründü.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>Ekipman</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>Üretim</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>Tanımlama</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>İsim</Name> <!-- <En>Name</En> -->
+  <Level>Seviye</Level> <!-- <En>Level</En> -->
+  <Experience>Deneyim</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>DP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>Saldırı</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>Şu anda kuşandığın tüm eşyaları gör.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>Yeni eşyalar üretmek için kullanabileceğin tüm tarifleri gör. Bir laneti kaldırman veya eksik bir uzvu iyileştirmen gerekirse faydalı olabilir.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>Envanterindeki tüm tanımlanmamış eşyaları gör.\n\nHer eşya zamanla yavaş yavaş tanımlanır (aç değilsen). Listenin en üstündeki eşya ilk olarak tanımlanacaktır.\n\nYeniden sıralamak için sürükleyip bırak.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>Tanımlanmamış eşyan yok</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>Burası senin tanımlama sıran. Zaman geçtikçe hangi eşyanın sırada tanımlanacağına karar vermek için sürükleyip bırak. Ayrıca gezginlerde de eşya tanımlayabilirsin.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>Üret</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>bitişik</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>satın alınan takviyeleri kaybedeceksin</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>Kâbus Lordu</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>Hypnorak</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>Phantasmos</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>Mevcut yetenek puanları</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>Açılan yetenekler</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>Açılan başarımlar</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>iptal etmek için [Cancel]</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>İptal için ESC</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>Düşmanlar</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>Bilinen üyeler</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>Buradasın</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>Bu yoldan gitmeyi seçersen, şunları alacaksın</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>Nereye gitmeli?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>Daha fazla düşman</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>Daha az düşman</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>Normal düşmanlar</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>Daha fazla altın</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>Daha az altın</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>Normal altın</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>Düşman sayısı</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>Altın ganimeti</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>Kristal</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>{0} kristali</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>{0} Can iyileştir</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>Bu hamle seni çukura düşürecek. Gerçekten yapmak istiyor musun?\n\nAşağıdaki katta rastgele bir yere düşecek ve biraz can kaybedeceksin. Geri dönemezsin.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>Bu hamle oyununu sonlandıracak. Gerçekten yapmak istiyor musun?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>geri sarmak için [Rewind]</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Çevreni [Inspect] ile incelemeyi unutma.</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>Kaçış!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>Ödül</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>Burası neresi? Bir çıkış yolu bulmalıyım...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>Buraya her geldiğimde bu zindan değişiyor. Ama neden?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>Her adımım ürkütücü bir şekilde tanıdık geliyor, sanki daha önce buradaymışım gibi.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>İleride bir şey var, hissedebiliyorum.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>Bir savaşı mı kazandım yoksa bir şeyi mi anladım?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>Sanki her şey ileride yatan şeye yol açmış gibi hissediyorum.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>Sanki... zihnimden bir yük kalkmış gibi hissediyorum. Tuhaf.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>Neden bu kadar uzun sürdü?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>O da neydi?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>Öldün</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>Kaçtın</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>Oyun tamamlandı</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>Açmak için\nkolu bul</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>Açmak için\neğitimi takip et</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>Yardım</Help> <!-- <En>Help</En> -->
+  <HelpMe>Yardım et</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>Buraya</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>Okumak için [Inspect] basılı tut</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>Ana görevler</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>Yan görevler</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>Ekstralar</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>Lobide görevleri kabul edebilir ve erteleyebilirsin.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>Bazı görevlerin yalnızca yeterli kata sahip zindanlarda tamamlanabileceğini unutma.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>Sonraki zindanın kilidini aç</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>Sonraki zindanın kilidini açmak için bu zindanın {0}. katının sonuna ulaş.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>Yapboz parçasını bul</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>Sonraki yapboz parçasını {0}. katta bul. Şu anda {1}/{2} parçaya sahipsin.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>Ruh kurtarma</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>Bu zindanda 1 ruh var. Onu sığınağa getirerek serbest bırak.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>Bu zindanda {0} ruh var. Onları sığınağa getirerek serbest bırak.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>Uyarı: Bu takipçiler geride kalacak</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>Büyünü seç</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>Büyünü seç ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>Yeni büyü</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>Hızlı çubuğun ve büyülerin</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>{0}. seviyede açılır</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>Yıldız tozu topladın - değerli bir para birimi!\n\nYıldız tozu, lobide bir sonraki oyunların için takviyeler satın almak ve özel odaların kilidini açmak için harcanabilir.\n\n"Lobi eşyası" olarak işaretlenmiş tüm eşyalar lobiye taşınır. Diğer tüm eşyalar oyun sona erdiğinde kaybolur.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>Yapboz parçaları, tıpkı yıldız tozu gibi, kalıcı lobi eşyalarıdır.\n\nLobide gizli bir odanın kilidini açmak için farklı oyunlarda {0} tanesini de topla.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>Bir yoldaşın var.\n\nNe zaman hareket etsen, Roko bitişik karolardaki altınları senin için otomatik olarak toplar.\n\n1 peynir, Roko'nun seni sadece 1 oyun boyunca takip etmesini sağlar.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>Artık parti üyelerin var.\n\nAralarında geçiş yapabilir ve envanterlerini ayrı ayrı yönetebilirsin. Her parti üyesi sırasını bağımsız olarak alır.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>Maks. Can +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>Kritik +%{0}</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>Iskalama -%{0}</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>%{0} ateş</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>Tekme</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>Bu karakter bir şeyleri tekmeleyebilir.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>Bu katta bir Anı Parçası var</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>Onu ara</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>Ara</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>Keşfedilen eşyalar</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>Keşfedilen yaratıklar</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>Kodeks, eşyaları ve yaratıkları tipik, lanetlenmemiş halleriyle gösterir. Gerçek eşyalar/yaratıklar farklılık gösterebilir.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>Günlük meydan okuma</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>Sınıf</Class> <!-- <En>Class</En> -->
+  <NoClass>Sınıf yok\n\nEtkiler:\n- Şan ve şöhret</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>{0}. seviyede açılır</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>Etkiler</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>Yetenekler: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>Maks. Can</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>Maks. mana</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>Maks. dayanıklılık</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>Ölümsüzlere (iskelet, mumya, vb.) {0} hasar</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} ateş direnci</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} ateş zafiyeti</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>Açlık oranı {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>Basınç plakalarını etkinleştirmez</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>Zehre bağışık</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>İtilmeye bağışık</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>Köpekler düşman</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>Yürüme gürültüsü {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>Bu sınıfla ulaştığın maksimum kat: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>Sınıfsız ulaştığın maksimum kat: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0}, {1} {2} hasar alır</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0}, {1} {2} hasar alır ve ölür</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} DP</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0}, {1} hasar almaz</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0}, {1} kazanır</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0}, {1} {2} hasar alır</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0}, {1} {2} hasar alır ve yok edilir</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0}, {1} hasar almaz</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0}, {1} kazanır</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{0}'nin {1} parçası yok edildi</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0}, {1} {2} hasarı engeller</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0}, {1} {2} hasarı {3} üzerine saptırır</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} itilir</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} çekilir</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} yeni bir durum kazanır: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} yeni bir etki kazanır: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{0} için {1} onarıldı</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{0} için {1} yenilendi</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{0} için {1} yenilendi</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} tanımlandı</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} etkisi geçer</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} etkisi geçer</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0}, {1} eşyasını alır</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>Bu bir {0} idi</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>Bu bir {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} aslında {1}! (bir lanet kaldırma parşömeni bulman veya üretmen gerekiyor)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>{0} eşyan {1} oldu!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>Lanet, {0} üzerinden kaldırıldı</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} rastgele bir konuma ışınlanır</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} ışınlanır</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} açılır. Şimdi çıkışı bul.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} açılır</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>Arkasından bir kapı kapanır</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} cızırdar ama herhangi bir etkisi yok gibi görünüyor</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>Açlıktan ölüyorsun</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>Açsın</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>{0} satın aldın</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>Seviye atladın!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>Yeni bir büyü seçebilirsin.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>Seviye atlama</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>Kalkan etkisi, {0} kişisine zarar verdiğin için iptal edildi</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} uyanır</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>Toplamda {0}</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>Kendini feda ettin</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>Kazandın</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>Kaybettin</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>Sınavı tamamladın ve {0} kazandın</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>Hiyeroglif bulmacasını çözdün ve {0} kazandın</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>{0} tarafından kurtarıldın</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0}, {1} tarafından kurtarıldı</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>Sınavda başarısız oldun</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0} çoğaltıldı</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0} yok edildi</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>Burada artık hiçbir şey yok</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>{0} yakaladın</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0}, {1} içinde etkinleşecek</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>{0} kazandın</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>Şeytan heykeli, {0} eşyanı kabul edip sana {1} veriyor</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0}, {1} aldı</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} ıskaladı</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>Yakınlarda {0} belirdi</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0}, {2}'e {1} verdi</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>{0} fraksiyonu düşman oldu</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>Tüm malzemelere sahip değilsin</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>Bu eşya bu yuvaya sığmıyor</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0}, {2}'den {1} çaldı</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>{0} x{1} topladın</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>Bir yetenek puanı kazandın! Harcamak için envanteri aç.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>{0} ruhunu serbest bıraktın ve {1} kazandın</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>{0} seviyesi yükseltildi</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>Lanetli bir eşyayı çıkaramazsın</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0}, {1} üretti</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>Kendinde kullan</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>Üzerinde kullan...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>İç</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>Fırlat...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>Ye</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>Fırlat...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>Tuzak kur...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>Fırlat...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>Ekin...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>Kendinde kullan</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>Saldır...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>Kendi üzerinde kullan</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>Üzerinde kullan...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>Doldur...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>Kapıyı barikatla...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>Kendini zincirle</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>Zincirle...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>Yerleştir...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>Al...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>Balık tut...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>Kaz...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>Konuş...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>Büyüle</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>Kaz...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>Kendini tekmele</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>Tekmele...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} kendine {1} ile saldırdı</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0}, {2}'e {1} ile saldırdı</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0}, {1} kullandı</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0}, {1} eşyasını {2} üzerinde kullandı</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0}, {1} içti</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0}, {1}'i {2}'e fırlattı</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0}, {1}'i kendi üzerinde kullandı</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0}, {1}'i {2} üzerinde kullandı</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0}, {1}'i {2}'e fırlattı</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0}, {1} açtı</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0}, {1} kapattı</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0}, {1}'i kazdı</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0}, {1}'den içti</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0}, {1}'de ekipman büyülüyor</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} merdivenlerden aşağı indi</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} merdivenlerden yukarı çıktı</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0}, {1} kolunu çekti</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0}, {1}'de kutsama aldı</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0}, {1} yedi</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0}, {1} tuzağını kurdu</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0}, {1} içinde yüzdü</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0}, {1} içinde yandı</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0}, {1} basınç plakasına bastı</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} ışınlandı</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0}, {1}'i {2}'e fırlattı</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0}, {1} ekti</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0}, {1}'i kendi üzerinde kullandı</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0}, {1}'i {2} üzerinde kullandı</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0}, {1}'i suyla doldurdu</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0}, {2}'yi barikatladı</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} kendini bir direğe zincirledi</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0}, {2}'i bir direğe zincirledi</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0}, {1} yerleştirdi</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0}, {2}'yi yerden aldı</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} kendi yaralarını sardı</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0}, {2}'nin yaralarını sardı</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} ameliyat yapıyor</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0}, {2}'e ameliyat yapıyor</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0}, {1}'i aradı</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0}, {1}'de kumar oynadı</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0}, {1} düğmesine bastı</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0}, {1}'de bir meydan okuma başlattı</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0}, {1}'de eşya çoğalttı</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0}, {2}'de balık tuttu</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} kendini söndürdü</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0}, {2}'yi söndürdü</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0}, {1}'i araştırdı</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0}, {1}'i aradı</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0}, {1}'de uyudu</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0}, {1} ile {2}'yi kazdı</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0}, {2} ile konuştu</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0}, {1} ile bir eşyayı büyüledi</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0}, {1} ile {2}'yi kazdı</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0}, {1}'e bir uzuv sundu</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0}, {1}'de Hayalet çağırdı</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0}, {1}'de bir ruhu serbest bıraktı</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0}, {1}'i temizledi</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0}, {1}'den bir yetenek puanı kazandı</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} kendini tekmeledi</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0}, {2}'yi tekmeledi</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0}, {1}'de ekipman yükseltti</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0}, {1}'e lanetli eşya sundu</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>yukarı</Up> <!-- <En>up</En> -->
+  <Down>aşağı</Down> <!-- <En>down</En> -->
+  <North>kuzey</North> <!-- <En>north</En> -->
+  <South>güney</South> <!-- <En>south</En> -->
+  <West>batı</West> <!-- <En>west</En> -->
+  <East>doğu</East> <!-- <En>east</En> -->
+  <NorthWest>kuzeybatı</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>kuzeydoğu</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>güneybatı</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>güneydoğu</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>yukarı-kuzey</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>yukarı-güney</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>yukarı-batı</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>yukarı-doğu</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>yukarı-kuzeybatı</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>yukarı-kuzeydoğu</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>yukarı-güneybatı</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>yukarı-güneydoğu</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>aşağı-kuzey</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>aşağı-güney</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>aşağı-batı</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>aşağı-doğu</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>aşağı-kuzeybatı</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>aşağı-kuzeydoğu</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>aşağı-güneybatı</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>aşağı-güneydoğu</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>Başlangıç</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>Bitiş</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>Kol</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>Merdiven</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>Patron</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Pusu fırsatı</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>Bu karakter seni bir önceki turda görmedi, bu yüzden şimdi saldırırsan ona {0} daha fazla hasar vereceksin.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>Üstünde</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>Bu karakter şu anda üstünde, bu da demek oluyor ki bu konumdan sana vurursa {0} daha fazla hasar verir.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>Aşağıda</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>Bu karakter şu anda senin aşağıda, bu da bu pozisyondan vurursan {0} daha fazla hasar vereceğin anlamına geliyor.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>Seni göremiyor</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>Bu karakter seni görmüyor (senin kadar uzağı göremiyorlar). Ama dikkatli ol - son konumunu hâlâ hatırlıyor ve kontrol etmeye gitmek isteyebilirler!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>Düşüyor</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>Bu karakter düşüyor, bu da bir sonraki turunu bir eylem gerçekleştirmek yerine aşağı düşerek geçirmesi gerektiği anlamına geliyor.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>Tanımlanmamış etki</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>Bilinmeyen bir etki. Tanımlanmamış bir eşyadan geliyor.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>En az 2 düşman tarafından kuşatıldın, bu da bu pozisyondan vurursan bu karaktere {0} daha fazla hasar vereceğin anlamına geliyor.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Tanımlanmamış etki</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>Bilinmeyen bir etki. Tanımlanmamış bir eşyadan geliyor.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nBu, mevcut oyun içi zamandır. Bir dakika, bir turu temsil eder.\n\nOyun tamamen tur tabanlıdır. Yürüme, iksir içme, saldırma veya nesnelerle etkileşim gibi çoğu eylemin tamamlanması bir tur sürer.\n\nGeçen toplam tur: {2}.\nBu katta: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>Bunlar karakterinin can puanlarıdır.\n\nBazı eşyalar maksimum can puanını artırabilir. Her seviye sana maksimum can puanına {0} ekler.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>Aç veya açlıktan ölmek üzere değilse, her {1}'de {0} iyileşir.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>Bir sonraki can puanı iyileşmesi: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>Maksimum seviyenin üzerinde olduğu için can kaybediyorsun.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>Maksimum seviyenin üzerinde olduğu için mana kaybediyorsun.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>Maksimum seviyenin üzerinde olduğu için dayanıklılık kaybediyorsun.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>Bu eşya {0} sonra tanımlanacak. Yeniden sıralamak için sürükleyip bırak.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>Bu eşya {0}. Ancak, kusursuz algın sayesinde aşağıdakilerden biri olduğunu söyleyebilirsin:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>Bunun gibi eşyalar kullanıldıktan sonra kalıcı olarak tanımlanır.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>Bu eşya {0}. Bilinmeyen etkileri olabilir ve {1} olabilir ({1} eşyaları çıkaramazsın). Gezginler tanımlama konusunda sana yardımcı olabilir.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>Bu eşya {0}. {0} eşyaları (lanet kaldırma parşömeni olmadan) çıkaramazsın.</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>Tebrikler!;Yapabilirsin!;Sana her zaman inandım!;Neredeyse başardın!;Keşke senin kadar harika olsaydım!;Etkileyici!;Devam et!;En iyisi sensin!;Başardın!;İyi iş!;Harikasın!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>1. kata hoş geldin.\n\nBu tabelayı ilk okuyuşun olmasa da yolculuğun burada başlıyor.\n\nBazı şeyler ilk başta zor görünebilir, ama sorun değil. Her şeyden önce unutmamalıyız - kaybetmek eğlencelidir!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>{0}. kata hoş geldin.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>Burada her ruh, yolunu bulmak için duraklar.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>{0}'de katledildi.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>Envanterindeki altın para sayısı. Bu zindanda ticaret yapmaya istekli bazı insanlar olabilir.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>Sonraki {0} belirmesi:</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>Daha fazla belirmeyecek</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>{0} içinde kaybolur.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>{0} içinde yayılır.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>Sonraki eylem: {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>{0} içinde etkinleşecek.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>Kaynak</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>Kaynak: Zorluk</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>Şu zamandan beri mevcut</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>Yukarı çıkmak için [Fly]+[MoveForward] tuşlarına, aşağı inmek için [Fly]+[MoveBack] tuşlarına bas.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>Kapıyı tekmelemek için [Fly] tuşuna basılı tut.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>Zamanı geri sarmak için [Rewind] tuşuna bas.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>Bu eşyayı kullanmak tur harcamaz.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>Bu eşyayı kullanmak bir turun {0}'ını alır.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>Bu eşyayı kullanmak {0} tur sürer.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>Bu büyüyü kullanmak tur harcamaz.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>Bu büyüyü kullanmak bir turun {0}'ını alır.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>Bu büyüyü kullanmak {0} tur sürer.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>Bunu yapmak tur harcamaz.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>Bunu yapmak bir turun {0}'ını alır.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>Bunu yapmak {0} tur sürer.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>Bu nesneyle etkileşim tur harcamaz.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>Bu nesneyle etkileşim bir turun {0}'ını alır.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>Bu nesneyle etkileşim {0} tur sürer.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>Bu nesne yanıcıdır.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>Bunu sadece kimse seni görmüyorsa kullanabilirsin.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>Bu nesne kırılgandır (patlamalar onu yok eder).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>Aç olduğun için tanımlama durdu.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>Almak için tıkla.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>Etkileşim için tıkla.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>Satın almak için tıkla.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>Almak için etkileşime gir.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>Bu nesneyle etkileşime gir.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>Satın almak için etkileşime gir.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>Bu eşya aşağı indikten sonra kaybolacak.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>Bu, bir sonraki seviyeye doğru ilerlemen. Düşmanları yenerek tecrübe kazanabilirsin.\n\nSonraki seviyeye XP: {0}\nMevcut seviye: {1}\nToplam tecrübe: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>Bu, mevcut seviyen. Düşmanları yenerek seviye atlayabilirsin.\n\nHer seviye sana maksimum can puanına {0} ekler. Ayrıca, her seviye atladığında yeni bir büyü seçebilirsin.\n\nSonraki seviyeye XP: {2}\nToplam tecrübe: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>Bu, tüm oyunlarından elde ettiğin toplam puana dayalı mevcut seviyen. Düşmanları yenerek ve oyunda ilerleyerek puan kazanabilirsin.\n\nSonraki seviyeye puan: {0}\nToplam puan: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>Bu, mevcut tokluk seviyen: {0}/{1}\n\nAçlığını gidermek ve sonuçlarından kaçınmak için periyodik olarak yemek yemen gerekir.\n\nTokluk seviyesi {2}'ye ulaştığında acıkırsın - can yenileyemez veya eşya tanımlayamazsın.\n\nTokluk seviyesi {3}'e ulaştığında açlıktan ölürsün - dayanıklılık yenileyemez ve zamanla yavaş yavaş can kaybedersin.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>Bu, mevcut zindan katı. Ne kadar derine inersen hayatta kalmak o kadar zorlaşır, ama aynı zamanda o kadar eğlenceli olur!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>{0} tecrübe verir</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>Uyarı: Öldürülürse, bu grubun tüm üyeleri düşman olur.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>Taktikler: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>Bu karakter seni bir sonraki kata kadar takip edecek.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>Durumlar</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>Silah</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>Büyüler</Spells> <!-- <En>Spells</En> -->
+  <Talk>Konuş</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>Öldüğünde</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>Giyili</Worn> <!-- <En>Worn</En> -->
+  <Inventory>Envanter</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>Bilgi</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>Bedel: {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>Bedel: {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>Bu, karakterinin manasıdır.\n\nBüyü yapmak ve sihirli eşyalar kullanmak mana harcar. Mana zamanla otomatik olarak yenilenmez, sadece mana iksirleri içerek veya bazı özel nesnelerle etkileşime girerek doldurulabilir. Hiç büyün olmadığında mana çubuğu gizlenir.\n\nHer seviye atladığında yeni bir büyü seçebilirsin.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>Bu, karakterinin dayanıklılığıdır.\n\nBazı eşyaları kullanmak dayanıklılık gerektirebilir. Envanterinde dayanıklılık gerektiren bir eşya olmadığında dayanıklılık çubuğu gizlenir.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>Açlıktan ölmüyorsan, her {1}'de {0} yenilenir.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>Bir sonraki dayanıklılık yenilenmesi: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>Yeni bir büyü seç. Her seviye atladığında yeni bir büyü seçebilirsin.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>düşük canda kaçar</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>Saat, zamanı istediğin gibi geri sarmanı sağlar! [Rewind] tuşuna basarak son turu geri sar.\n\nSon eylemlerinin sonucunu beğenmediğinde veya yanlış tıkladığında kullan.\n\nSaatin bir kerede geri sarabileceğin tur sayısı için bir sınırı vardır, ancak her {0} turda bir yeniden şarj olur. Zamanı geri saran parşömenler gibi diğer zaman manipülasyonu eşyalarının aksine, saat, tanımlanmamış bir iksir veya parşömen kullandığında, lanetli bir eşya kuşandığında, bir tuzağa bastığında veya gümüş bir anahtar kullandığında kalan tüm şarjlarını kaybeder.\n\nRicave'deki tüm eylemler deterministiktir, bu da geri sardıktan sonra aynı hamleyi tekrar yaparsan, aynı hasarı vermek ve düşmanların aynı kararları alması dahil olmak üzere her şeyin daha önce olduğu gibi oynanacağı anlamına gelir. Sadece daha yüksek hasar vermek için zamanı geri sarmak işe yaramaz.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>Yenilenme süresi: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>Yıldıztozu, zindanın çeşitli yerlerinde bulunabilir veya bir görevi tamamlamanın ödülü olarak sunulabilir. Lobide yıldıztozu harcayabilirsin.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>Lobide özel bir odanın kilidini açmak için {0} yapboz parçasının tamamını topla. Zindanın her katında bir yapboz parçası var ve her oyunda sadece bir parça bulabilirsin.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>Bir sonraki yapboz parçası kat: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>Menzil: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>Yakın Dövüş</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>menzildesin</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>menzil dışındasın</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>Özel odandaki yerleştirilmiş nesneleri al.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>Şu anda {0} yönüne bakıyorsun.\n\n"[MoveForward][RotateLeft][MoveBack][RotateRight]" ile hareket et.\n"[MoveLeft]" ve "[MoveRight]" ile yana yürü.\nKarakterin uçabiliyorsa "[Fly]+[MoveForward]" ile yukarı ve "[Fly]+[MoveBack]" ile aşağı git.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>{0} içinde hasar alacak.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>{0} içinde can kazanacak.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>{0} içinde dayanıklılık kazanacak.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>{0} içinde mana kazanacak.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>Bu karakter yere basmadığı için dayanıklılık yenilenmesi devre dışı.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>Yere basmadığın için dayanıklılık yenilenmesi devre dışı.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>Bekleme Süresi: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>{0} kaldı</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>Önce {0} kilidini aç</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>Hiç yetenek puanın yok</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>Kilidi açmak için tıkla</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>Kilidi açmak için etkileşime gir</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>Etkiler</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>Tüm kapılar açık ve herkes uyanık. Şimdi kaçmalısın!\n\nAyrıca, iki kat daha fazla fare ortaya çıkacak.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>Roko, sen hareket ettiğinde bitişik karolardaki altın paraları senin için toplayacak.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>İpucu: Tipik istatistikler için kodekse bakabilirsin</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>Envanter eşyalarını sırala</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>Çıkar</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>Kuşan</Equip> <!-- <En>Equip</En> -->
+  <Unwear>Çıkar</Unwear> <!-- <En>Take off</En> -->
+  <Wear>Giy</Wear> <!-- <En>Wear</En> -->
+  <Drop>Bırak</Drop> <!-- <En>Drop</En> -->
+  <Destroy>Yok et</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>{0} ile karıştır</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>Bak</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>Git</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>{0} üzerinde kullan</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>Etkileşime gir</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>Devre dışı</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>{0} ver</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>ölüm</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>Yer yok</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>Mevcut kuşanılmış eşya lanetli</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>süslü, kudretli, yüce, güçlü, korkunç, keyifli, etkileyici, dinç, çekici, güzel, sevimli, heyecanlı, şirin, zeki, büyüleyici, sakar, yenilmez, küçük, büyük, dehşet verici, mutlu, üzgün, yamuk, tuhaf, çılgın, heyecan verici, hoş, cezbedici</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>hımbıl, mırıl, bini, limon, garbul, pırtı, şapşal, filiz, bombar, loli, pıtpıt, pörtlek, gürül, dondur, dondul, dopul, cıbıl, piliç, mor, kıpır, geveze, fırfır, çıngıl, pat, yalpır, şıngır, karalama</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>pençe, cevher, avlu, evlat, barbul, nişan, ton, bon, gon, toynak, şitayn, bin, kapar, leke, pof, kahkaha, bah, dori, hırk, şap, plop, puf, pat, hır, bork</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>{0} Ruhu</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>Kahkaha, Değişim, Umut, Yalnızlık, Uyum, Kararlılık, Neşe, Korku, Öfke, Hüzün, Aşk, Sürpriz, İğrenme, Merak, Umut, Umutsuzluk, Güven, Şüphecilik, Cesaret, Suçluluk, Utanç, Minnettarlık, Kıskançlık, Rahatlama, Can Sıkıntısı, Sakinlik, Nostalji, Direnç, Empati, Beklenti, Pişmanlık, Hayranlık, Alçakgönüllülük, Hüsran, Aşağılama</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>Hiçbiri</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Enter</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Boşluk</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>Sol Fare Tuşu</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>Sağ Fare Tuşu</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>Orta Fare Tuşu</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Windows Tuşu</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>Sol Tetik</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>Sağ Tetik</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>Sol Tampon</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>Sağ Tampon</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>Geri Düğmesi</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>Başlat Düğmesi</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>Sol Çubuk Tıklama</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>Sağ Çubuk Tıklama</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Öldürme</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>İkili öldürme</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>Üçlü öldürme</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>{0} öldürme kombosu</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>Yeni kat</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>Sınama tamamlandı</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>{0} öldürme</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>sabah</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>gündüz</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>akşam</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>gece</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>SAVUNUCU</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>SAVAŞÇI</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>MACERACI</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>kırmızı</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>yeşil</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>mavi</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>Leo</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>Eve</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Gereçler</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>İksirler</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>Tomarlar</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>Silahlar ve teçhizat</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

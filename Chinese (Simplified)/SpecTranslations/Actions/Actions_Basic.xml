@@ -1,4 +1,4 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <ChooseSpell.label>选择法术</ChooseSpell.label> <!-- <En>choose spell</En> -->
   <ChooseSpell.ANewSpellIsChosen>选择了新的法术 {0}</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
@@ -16,7 +16,7 @@
   <Sleep.Sleeps>{0}开始睡眠</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
 
   <Use.label>使用</Use.label> <!-- <En>use</En> -->
-  <Use.UsesOn>{0}对{2}使用了{1}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+  <Use.UsesOn>{0} 对 {2} 使用了 {1}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
 
   <Wait.label>等待</Wait.label> <!-- <En>wait</En> -->
   <Wait.Waits>{0}等待</Wait.Waits> <!-- <En>{0} waits</En> -->

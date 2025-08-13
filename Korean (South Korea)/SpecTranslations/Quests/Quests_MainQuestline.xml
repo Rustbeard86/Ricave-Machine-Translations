@@ -1,0 +1,34 @@
+<SpecTranslations>
+
+  <Introduction.label>새로운 집</Introduction.label> <!-- <En>New home</En> -->
+  <Introduction.description>던전에 들어가 해골 3마리를 처치하세요.</Introduction.description> <!-- <En>Enter the dungeon and kill 3 skeletons.</En> -->
+  <Introduction.AllSeemsStrangeButYou>모든 것이 이상하게 보이지만, 결국에는 이해가 되기를 바랍니다.\n\n첫 번째 던전에 들어가 최소 3마리의 해골을 처치하여 이곳에 익숙해지세요. 포털에 들어가 2층 끝까지 도달해 보세요.</Introduction.AllSeemsStrangeButYou> <!-- <En>All seems strange, but you hope it will start making sense eventually.\n\nEnter your first dungeon and kill at least 3 skeletons to get familiar with the place. Try to reach the end of the second floor by entering into the portal.</En> -->
+  <Introduction.IntroductionKillCount>[Introduction_KillCount] / 3</Introduction.IntroductionKillCount> <!-- <En>[Introduction_KillCount] / 3</En> -->
+
+  <MemoryPiece1.label_2>기억 상실</MemoryPiece1.label_2> <!-- <En>Memory Loss</En> -->
+  <MemoryPiece1.description_2>3층에서 첫 번째 기억의 조각을 찾으세요.</MemoryPiece1.description_2> <!-- <En>Find the first Memory Piece on floor 3.</En> -->
+  <MemoryPiece1.YouveLostYourMemoryBut>기억을 잃었지만, 여기에 오기 전에 무슨 일이 있었는지 기억하는 데 도움이 될 만한 것이 있습니다.\n\n3층에서 첫 번째 기억의 조각을 찾으세요.\n\n처음에는 이 모든 것이 어려워 보일 수 있지만, 한 걸음씩 나아갈 때마다 잊혀진 기억을 되찾는 데 더 가까워질 것입니다.</MemoryPiece1.YouveLostYourMemoryBut> <!-- <En>You've lost your memory, but there's something that can help you remember what happened before you got here.\n\nFind the first Memory Piece on the third floor.\n\nAll this may seem challenging at first, but with each step, you'll get closer to unlocking your forgotten memories.</En> -->
+  <MemoryPiece1.dungeonModifiers>3층에 기억의 조각</MemoryPiece1.dungeonModifiers> <!-- <En><li>Memory Piece on floor 3</li></En> -->
+
+  <MemoryPiece2.label_2>기억 상실: 이별</MemoryPiece2.label_2> <!-- <En>Memory Loss: Separation</En> -->
+  <MemoryPiece2.description_2>4층에서 두 번째 기억의 조각을 찾으세요.</MemoryPiece2.description_2> <!-- <En>Find the second Memory Piece on floor 4.</En> -->
+  <MemoryPiece2.YoureMakingProgressYou>진전이 있군요. 무슨 일이 있었는지 서서히 기억나기 시작합니다. 친구들과 하이킹을 갔었죠. 놀랍게도, 마야도 여기에 있습니다.\n\n두 번째 기억의 조각을 찾으면 다음에 무슨 일이 있었는지 기억하는 데 도움이 될 것입니다. 4층의 미니 보스가 가지고 있을 겁니다.</MemoryPiece2.YoureMakingProgressYou> <!-- <En>You're making progress. You slowly start to remember what happened - you went for a hike with your friends. To your surprise, Maya is also here.\n\nFinding the second Memory Piece will help you remember what happened next. It should be in the hands of the mini-boss on the 4th floor.</En> -->
+  <MemoryPiece2.dungeonModifiers>4층에 기억의 조각</MemoryPiece2.dungeonModifiers> <!-- <En><li>Memory Piece on floor 4</li></En> -->
+
+  <MemoryPiece3.label_2>기억 상실: 동굴</MemoryPiece3.label_2> <!-- <En>Memory Loss: Cave</En> -->
+  <MemoryPiece3.description_2>6층에서 세 번째 기억의 조각을 찾으세요.</MemoryPiece3.description_2> <!-- <En>Find the third Memory Piece on floor 6.</En> -->
+  <MemoryPiece3.YoureStartingToRemember>무슨 일이 있었는지 기억나기 시작합니다. 일행과 헤어진 후, 동굴을 우연히 발견했죠. 불행히도 미끄러져 다리가 부러졌습니다. 하지만 그 다음엔 무슨 일이 있었을까요?\n\n세 번째 기억의 조각을 찾으세요. 6층 어딘가에 있을 것이고, 밧줄을 꼭 챙겨가세요.</MemoryPiece3.YoureStartingToRemember> <!-- <En>You're starting to remember what happened. Separating from your group, you stumbled upon a cave. Unfortunately, you slipped and broke your leg. But what happened next?\n\nFind the third Memory Piece. It should be located somewhere on the 6th floor, and make sure to take a rope with you.</En> -->
+  <MemoryPiece3.dungeonModifiers>6층에 기억의 조각</MemoryPiece3.dungeonModifiers> <!-- <En><li>Memory Piece on floor 6</li></En> -->
+
+  <MemoryPiece4.label_2>기억 상실: 구조</MemoryPiece4.label_2> <!-- <En>Memory Loss: Rescued</En> -->
+  <MemoryPiece4.description_2>8층에서 마지막 기억의 조각을 찾으세요.</MemoryPiece4.description_2> <!-- <En>Find the last Memory Piece on floor 8.</En> -->
+  <MemoryPiece4.YoureAlmostThereSurprisingly>거의 다 왔습니다. 놀랍게도, 그 동굴에서 당신을 발견한 것은 마야였습니다. 하지만 왜 여기에 있는지 아직 이해가 되지 않습니다. 더 많은 해답이 필요합니다.\n\n마지막 기억의 조각을 찾으세요. 8층 어딘가의 독 함정 안에 있을 것입니다.</MemoryPiece4.YoureAlmostThereSurprisingly> <!-- <En>You're almost there. Surprisingly, it was Maya who found you in that cave. However, you still don't understand why you're here. You need more answers.\n\nFind the last Memory Piece. It should be located somewhere on the 8th floor in a poison trap.</En> -->
+  <MemoryPiece4.dungeonModifiers>8층에 기억의 조각</MemoryPiece4.dungeonModifiers> <!-- <En><li>Memory Piece on floor 8</li></En> -->
+
+  <RescueLobbyShopkeeper.label>구출</RescueLobbyShopkeeper.label> <!-- <En>Rescue</En> -->
+  <RescueLobbyShopkeeper.description>2층에서 그림자의 친구를 구출하세요.</RescueLobbyShopkeeper.description> <!-- <En>Rescue Shadow's friend on the 2nd floor.</En> -->
+  <RescueLobbyShopkeeper.ToGetMoreInformation>그림자에게서 더 많은 정보를 얻으려면, 먼저 그의 친구를 구출해야 합니다. 그는 이 던전 2층 어딘가에 있는 우리에 갇혀 있습니다.\n\n퀘스트는 층수만 충분하다면 어떤 던전에서든 완료할 수 있다는 점을 기억하세요. 더 깊이 들어갈수록 던전의 층수는 더 많아질 것입니다.</RescueLobbyShopkeeper.ToGetMoreInformation> <!-- <En>To get more information from the Shadow, you must first rescue his friend. He's locked in a cage somewhere on the second floor of this dungeon.\n\nNote that you can complete quests in any dungeon, as long as it has enough floors. The further you go, the more floors the dungeons will have.</En> -->
+  <RescueLobbyShopkeeper.dungeonModifiers>2층에 구출할 사람</RescueLobbyShopkeeper.dungeonModifiers> <!-- <En><li>A person to rescue on floor 2</li></En> -->
+  <RescueLobbyShopkeeper.extraRewards>로비에 새로운 방 잠금 해제</RescueLobbyShopkeeper.extraRewards> <!-- <En><li>Unlock a new room in the lobby</li></En> -->
+
+</SpecTranslations>

@@ -1,0 +1,46 @@
+<SpecTranslations>
+
+  <Entangle.label>snärja</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>Gör någon orörlig under en kort tid. Observera att insnärjda fiender fortfarande kan attackera från sin position.</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>nära</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>Det är som att äta något, men utan att faktiskt äta något. Magi.</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>eldklot</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>Kasta ett eldklot som exploderar och startar bränder i alla närliggande rutor.</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>frysa</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>Frys målet under en kort tid. Frysta fiender kan varken röra sig eller attackera.</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>sörjepöl</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>Skapa en sörjepöl som saktar ner alla karaktärer som passerar.</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>växtlighet</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>Skapa en 3x3-ruta med gräs och rankor. Bra för att blockera fiender.</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>läka</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>Återställ lite hälsa och bota blödning.</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>identifiering</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>Identifiera ett valfritt föremål. Använd denna besvärjelse på dig själv för att identifiera ett föremål från din utrustning.</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>Välj ett föremål att identifiera.</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>magisk vägg</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>Skapa en tillfällig magisk vägg.</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>massknuff</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>Knuffa bort alla från dig.</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>knuffa</Push.label> <!-- <En>push</En> -->
+  <Push.description>Knuffa bort någon från dig.</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>slag</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>Gör skada på målet.</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>teleportera</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>Teleportera till den angivna platsen. Bra för en snabb flykt, eftersom denna besvärjelse inte kostar någon tur.</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>slumpmässig teleportering</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>Teleportera målet till en slumpmässig plats på kartan.</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>

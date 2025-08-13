@@ -1,4 +1,4 @@
-﻿<Strings>
+<Strings>
 
   <!-- Main menu -->
   <Play>Играть</Play> <!-- <En>Play</En> -->
@@ -200,7 +200,7 @@
   <TraitFireIncomingDamageFactor_More>Уязвимость к огню {0}</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
   <TraitMagicIncomingDamageFactor_Less>Сопротивление магии {0}</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
   <TraitMagicIncomingDamageFactor_More>Уязвимость к магии {0}</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
-  <TraitDamageFactorAgainstActor>Урон по {1}: {0}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitDamageFactorAgainstActor>{0} урона по {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
   <TraitNativeStaminaRegenIntervalFactor>Выносливость восстанавливается в {0} раз медленнее</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
   <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Выносливость восстанавливается вдвое медленнее</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
   <TraitLastStand>Наносить на {0} больше урона, когда здоровье ниже {1}</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
@@ -423,14 +423,14 @@
   <Intro6>Вы только что заметили кого-то вдали, но вы увидели только его тень. Вам лучше проверить это.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
   <Ending1>Вы медленно открываете глаза...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
   <Ending2>Вы просыпаетесь в больнице.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
-  <Ending3>"Он очнулся!"</Ending3> <!-- <En><i>"He's awake!"</i></En> -->
-  <Ending4>"Что случилось?"</Ending4> <!-- <En><i>"What happened?"</i></En> -->
-  <Ending5>"Вы пошли в поход с друзьями и получили серьезную травму головы."</Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
-  <Ending6>"Спасатели нашли вас как раз вовремя. Вам нужно отдохнуть и восстановить силы."</Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
-  <Ending7>"Где Майя?"</Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
-  <Ending8>"Кто такая Майя?"</Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
-  <Ending9>"Она нашла меня первой. С ней все в порядке?"</Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
-  <Ending10>"Возможно, вы испытываете некоторую спутанность сознания, но вы скоро поправитесь."</Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending3><i>"Он очнулся!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Что случилось?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Вы пошли в поход с друзьями и получили серьёзную травму головы."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"Спасатели нашли вас как раз вовремя. Вам нужно отдохнуть и набраться сил."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Где Майя?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Кто такая Майя?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Она нашла меня первой. С ней всё в порядке?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Возможно, вы немного сбиты с толку, но скоро поправитесь."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
   <Ending11>...</Ending11> <!-- <En>...</En> -->
   <Ending12>Вы озадачены, но у вас есть странное чувство выполненного долга. Почти как будто вы каким-то образом изменились.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
   <Ending13>Вы закрываете глаза и делаете глубокий вдох, представляя тепло солнца на своем лице. Свежий воздух наполняет ваши легкие, и вы не можете не улыбнуться.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
@@ -468,7 +468,7 @@
   <AvailableSkillPoints>Доступные очки навыков</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
   <UnlockedSkills>Открытые навыки</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
   <UnlockedAchievements>Открытые достижения</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
-  <EscapeToCancel>[Отмена] для отмены</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancel>[Cancel], чтобы отменить</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
   <EscapeToCancelShort>ESC для отмены</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
   <FactionEnemies>Враги</FactionEnemies> <!-- <En>Enemies</En> -->
   <FactionKnownMembers>Известные члены</FactionKnownMembers> <!-- <En>Known members</En> -->
@@ -488,8 +488,8 @@
   <HealHPReward>Восстановить {0} Здоровья</HealHPReward> <!-- <En>Heal {0} HP</En> -->
   <FallIntoDescendTriggerConfirmation>Это действие приведет к падению в яму. Вы действительно хотите это сделать?\n\nВы упадете в случайное место на этаж ниже и потеряете немного здоровья. Вы не сможете вернуться.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
   <MoveIntoRunEndPortalConfirmation>Это действие завершит ваше прохождение. Вы действительно хотите это сделать?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
-  <NeverUsedWatchRewindTip>[Перемотка] для перемотки</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
-  <NeverInspectedAnythingTip>Не забывайте осматривать свое окружение с помощью [Осмотр].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <NeverUsedWatchRewindTip>[Rewind], чтобы отмотать</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Не забывайте осматривать окружение с помощью [Inspect].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
   <EscapingMode>Побег!</EscapingMode> <!-- <En>Escape!</En> -->
   <ShelterReward>Награда</ShelterReward> <!-- <En>Reward</En> -->
   <TextOnFirstTimeFloorReached_1>Что это за место? Я должен найти выход...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
@@ -577,7 +577,7 @@
   <BodyPartTakesDamageAndIsDestroyed>{0} получает {1} урона {2} и уничтожается</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
   <BodyPartTakesNoDamage>{0} не получает урона {1}</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
   <BodyPartGainsHP>{0} получает {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
-  <BodyPartDestroyedDirectly>{1} у {0} уничтожен</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <BodyPartDestroyedDirectly>У {0} уничтожена {1}</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
   <DamageBlocked>{0} блокирует {1} урона {2}</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
   <DamageBlockedAndDeflected>{0} отражает {1} урона {2} на {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
   <EntityIsPushed>{0} отталкивается</EntityIsPushed> <!-- <En>{0} is pushed</En> -->

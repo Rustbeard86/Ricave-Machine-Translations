@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <Dig.label>ขุด</Dig.label> <!-- <En>dig</En> -->
+
+  <ExploderDeath.label>ระเบิดพลีชีพ</ExploderDeath.label> <!-- <En>exploder death</En> -->
+
+  <TalkWithBeggar.label>ขอทาน</TalkWithBeggar.label> <!-- <En>beggar</En> -->
+  <TalkWithBeggar.YouSeeABeggarInFront>คุณเห็นขอทานคนหนึ่งอยู่ข้างหน้ากำลังขอขนมปัง\n\nคุณต้องการจะให้เขาหรือไม่?</TalkWithBeggar.YouSeeABeggarInFront> <!-- <En>You see a beggar in front of you asking for a loaf of bread.\n\nDo you want to give it to him?</En> -->
+  <TalkWithBeggar.GiveBread>ให้ขนมปัง</TalkWithBeggar.GiveBread> <!-- <En>Give bread</En> -->
+
+  <TalkWithCultist.label>สาวก</TalkWithCultist.label> <!-- <En>cultist</En> -->
+  <TalkWithCultist.ChooseAnItemToRemove>เลือกไอเทมเพื่อถอนคำสาป แลกกับทองจำนวนหนึ่ง</TalkWithCultist.ChooseAnItemToRemove> <!-- <En>Choose an item to remove curse from for some gold.</En> -->
+
+  <TalkWithCultist2.label>สาวก</TalkWithCultist2.label> <!-- <En>cultist</En> -->
+
+  <TalkWithDog2.label>สุนัข</TalkWithDog2.label> <!-- <En>dog</En> -->
+
+  <TalkWithGuardian2.label>ผู้พิทักษ์</TalkWithGuardian2.label> <!-- <En>guardian</En> -->
+
+  <TalkWithPetRat.label>โรโก้</TalkWithPetRat.label> <!-- <En>Roko</En> -->
+  <TalkWithPetRat.YouSeeAMysteriousTalking>คุณเห็นหนูพูดได้สุดลึกลับตัวหนึ่งอยู่ข้างหน้ากำลังขอชีส\n\nมันบอกว่าจะติดตามคุณไปตราบเท่าที่คุณให้อาหารมัน\n\nคุณต้องการจะทำหรือไม่?</TalkWithPetRat.YouSeeAMysteriousTalking> <!-- <En>You see a mysterious, talking rat in front of you asking for some cheese.\n\nHe says that he'll accompany you as long as you feed him.\n\nDo you want to do it?</En> -->
+  <TalkWithPetRat.GiveCheese>ให้ชีส</TalkWithPetRat.GiveCheese> <!-- <En>Give cheese</En> -->
+
+  <TalkWithSpirit2.label>วิญญาณ</TalkWithSpirit2.label> <!-- <En>spirit</En> -->
+
+  <TalkWithWanderer.label>นักพเนจร</TalkWithWanderer.label> <!-- <En>wanderer</En> -->
+  <TalkWithWanderer.ChooseAnItemToIdentify>เลือกไอเทมเพื่อระบุคุณสมบัติ แลกกับทองจำนวนหนึ่ง</TalkWithWanderer.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify for some gold.</En> -->
+
+  <TalkWithWanderer2.label>นักพเนจร</TalkWithWanderer2.label> <!-- <En>wanderer</En> -->
+
+</SpecTranslations>

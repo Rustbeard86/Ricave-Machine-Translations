@@ -1,0 +1,57 @@
+<SpecTranslations>
+
+  <BodyPartsDamage.label>anatom</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>Zadajesz 30% więcej obrażeń, gdy bezpośrednio celujesz w część ciała.</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>lepki</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>50% szansy na automatyczne oplątanie każdego, kto cię zaatakuje, na 1 turę.</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>wybuchoodporny</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>Otrzymujesz 80% mniej obrażeń od wybuchów.</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>szybka regeneracja</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>Naturalna regeneracja zdrowia jest dwa razy szybsza.</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>krzepki</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>Naturalna regeneracja kondycji jest dwa razy szybsza.</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>witalność</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>Otrzymujesz +1 do maks. PŻ.</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>mag</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>Otrzymujesz +1 do maks. many i otrzymujesz 50% mniej obrażeń magicznych.</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>atleta</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>Otrzymujesz +2 do maks. kondycji.</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>włamywacz</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>Otwieraj zielone skrzynie, starożytne pojemniki i królewskie drzwi bez konieczności znajdowania kluczy. Otwieraj też klatki bez konieczności wcześniejszego pokonania bossa.</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>targujący się</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>Sklepikarze sprzedają przedmioty po 50% niższych cenach, a wędrowcy identyfikują przedmioty za 50% mniej złota.</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>smakosz</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>Jedzenie przywraca dwa razy więcej PŻ niż zwykle.</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>poszukiwacz</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>Znajdujesz więcej surowego mięsa w lochach.</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>łotrzyk</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>Znajdujesz więcej pułapek do rozstawienia w lochach.</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>akrobata</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>Skacz z dowolnej wysokości bez obrażeń od upadku. Dodatkowo spadasz szybciej.</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>odbijanie ataków</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>Obrażenia zablokowane tarczą są odbijane w losowego wroga obok ciebie, z wyłączeniem atakującego.</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>ekspert od tarcz</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>Używanie tarcz kosztuje 50% mniej kondycji.</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>asceta</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>Nie musisz jeść tak dużo – zgłodnienie zajmuje ci dwa razy więcej czasu.</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>premia za otoczenie</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>Zadajesz 25% więcej obrażeń, dopóki co najmniej 2 wrogów znajduje się obok ciebie.</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

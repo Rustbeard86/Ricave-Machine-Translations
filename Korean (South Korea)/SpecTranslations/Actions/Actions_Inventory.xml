@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <DestroyItemInInventory.label>파괴</DestroyItemInInventory.label> <!-- <En>destroy</En> -->
+  <DestroyItemInInventory.Destroys>{0}님이 {1}을(를) 파괴합니다</DestroyItemInInventory.Destroys> <!-- <En>{0} destroys {1}</En> -->
+
+  <DropItem.label>버리기</DropItem.label> <!-- <En>drop</En> -->
+  <DropItem.Drops>{0}님이 {1}을(를) 버립니다</DropItem.Drops> <!-- <En>{0} drops {1}</En> -->
+
+  <Equip.label>장착</Equip.label> <!-- <En>equip</En> -->
+  <Equip.Equips>{0}님이 {1}을(를) 장착합니다</Equip.Equips> <!-- <En>{0} equips {1}</En> -->
+
+  <MoveItemInInventory.label>인벤토리에서 아이템 이동</MoveItemInInventory.label> <!-- <En>move item in inventory</En> -->
+  <MoveItemInInventory.IsMovedInSInventory>{1}이(가) {0}님의 인벤토리에서 이동되었습니다</MoveItemInInventory.IsMovedInSInventory> <!-- <En>{1} is moved in {0}'s inventory</En> -->
+
+  <RefundSkill.label>스킬 환불</RefundSkill.label> <!-- <En>refund skill</En> -->
+  <RefundSkill.Refunds>{0}님이 {1}을(를) 환불받습니다</RefundSkill.Refunds> <!-- <En>{0} refunds {1}</En> -->
+
+  <SortInventory.label>인벤토리 정렬</SortInventory.label> <!-- <En>sort inventory</En> -->
+  <SortInventory.SortsInventory>{0}님이 인벤토리를 정렬합니다</SortInventory.SortsInventory> <!-- <En>{0} sorts inventory</En> -->
+
+  <Transfer.label>전달</Transfer.label> <!-- <En>transfer</En> -->
+  <Transfer.GivesTo>{0}님이 {2}님에게 {1}을(를) 전달합니다</Transfer.GivesTo> <!-- <En>{0} gives {1} to {2}</En> -->
+
+  <Unequip.label>해제</Unequip.label> <!-- <En>unequip</En> -->
+  <Unequip.Unequips>{0}님이 {1}을(를) 해제합니다</Unequip.Unequips> <!-- <En>{0} unequips {1}</En> -->
+
+  <UnlockSkill.label>스킬 잠금 해제</UnlockSkill.label> <!-- <En>unlock skill</En> -->
+  <UnlockSkill.Unlocks>{0}님이 {1}을(를) 잠금 해제합니다</UnlockSkill.Unlocks> <!-- <En>{0} unlocks {1}</En> -->
+
+  <UseRecipe.label>조합법 사용</UseRecipe.label> <!-- <En>use recipe</En> -->
+  <UseRecipe.CombinesItems>{0}님이 아이템을 조합합니다</UseRecipe.CombinesItems> <!-- <En>{0} combines items</En> -->
+
+</SpecTranslations>

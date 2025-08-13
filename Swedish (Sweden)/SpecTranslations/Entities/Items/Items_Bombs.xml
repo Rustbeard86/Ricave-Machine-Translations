@@ -1,0 +1,21 @@
+<SpecTranslations>
+
+  <Bomb_Damage.label>sprängbomb</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
+  <Bomb_Damage.description>Måltavlan och alla intilliggande kommer att ta skada.</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
+
+  <Bomb_Drunkenness.label>berusningsbomb</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
+  <Bomb_Drunkenness.description>Måltavlan och alla intilliggande kommer att bli berusade.</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
+
+  <Bomb_Fire.label>eldbomb</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
+  <Bomb_Fire.description>Explosionen kommer att starta bränder i alla intilliggande rutor.</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
+
+  <Bomb_Freeze.label>frysbomb</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
+  <Bomb_Freeze.description>Måltavlan och alla intilliggande kommer att bli nedfrysta.</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
+
+  <Bomb_Poison.label>giftbomb</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
+  <Bomb_Poison.description>Ett giftmoln kommer att uppstå i varje intilliggande ruta.</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
+
+  <Bomb_Smoke.label>rökbomb</Bomb_Smoke.label> <!-- <En>smoke bomb</En> -->
+  <Bomb_Smoke.description>Ett rökmoln kommer att uppstå i varje intilliggande ruta.</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
+
+</SpecTranslations>

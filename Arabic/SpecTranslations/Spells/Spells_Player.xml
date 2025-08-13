@@ -1,0 +1,46 @@
+<SpecTranslations>
+
+  <Entangle.label>تشابك</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>يجعل شخصًا ما غير قادر على الحركة لفترة قصيرة. لاحظ أن الأعداء المتشابكين لا يزال بإمكانهم الهجوم من موقعهم.</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>إطعام</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>يشبه تناول شيء ما، ولكن دون أكل أي شيء فعليًا. سحر.</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>كرة نارية</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>ألقِ كرة نارية ستحدث انفجارًا وتشعل النيران في جميع الخانات المجاورة.</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>تجميد</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>تجميد الهدف لفترة قصيرة. الأعداء المجمدون لا يستطيعون الحركة أو الهجوم.</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>بركة لزجة</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>تُنشئ بركة لزجة تبطئ أي شخصية تمر بها.</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>نمو</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>تُنشئ رقعة من العشب والكروم بمقاس 3x3. جيدة لصد الأعداء.</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>شفاء</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>استعادة بعض الصحة وعلاج النزيف.</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>تحديد الهوية</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>تحديد هوية عنصر من اختيارك. استخدم هذه التعويذة على نفسك لتحديد هوية عنصر من مخزونك.</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>اختر عنصرًا لتحديد هويته.</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>جدار سحري</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>تُنشئ جدارًا سحريًا مؤقتًا.</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>دفع جماعي</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>ادفع الجميع بعيدًا عنك.</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>دفع</Push.label> <!-- <En>push</En> -->
+  <Push.description>ادفع شخصًا ما بعيدًا عنك.</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>ضربة</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>إلحاق الضرر بالهدف.</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>انتقال آني</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>الانتقال الآني إلى الموقع المحدد. جيد للهروب السريع، لأن استخدام هذه التعويذة لا يكلف أي دور.</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>انتقال آني عشوائي</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>نقل الهدف آنيًا إلى موقع عشوائي على الخريطة.</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>

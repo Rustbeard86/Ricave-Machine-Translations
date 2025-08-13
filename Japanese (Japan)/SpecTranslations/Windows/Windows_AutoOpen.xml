@@ -1,0 +1,27 @@
+<SpecTranslations>
+
+  <Character.label>キャラクター</Character.label> <!-- <En>character</En> -->
+  <Character.description>あなたのキャラクターに関する情報を表示します。</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>図鑑</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>今までに遭遇したすべてのアイテムや生物を表示します。</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>ダンジョンマップ</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>このダンジョンのマップを表示します。</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>派閥</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>このダンジョンに存在するすべての派閥を表示します。</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>インベントリ</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>インベントリ内のアイテムを表示します。\n\nドラッグ＆ドロップで並び替えができます。アイテムの並び替えはターンを消費しないため、戦闘中でも安全に行えます。\n\nアイテムの装備と解除は即座に行われますが、ポーションを飲む、投げるといった他の行動は1ターンを消費します。</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>クエスト</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>すべてのクエストを表示します。</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>クイックバー</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>クイックバーのアイテムは、キーボードの数字キーを押すことでアクセスできます。</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>スキル</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>スキルポイントを消費して新しいスキルを習得します。</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

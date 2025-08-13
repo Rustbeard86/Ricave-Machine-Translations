@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>Oslepující záblesk</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>Na krátkou dobu oslepí všechny, kteří vás právě vidí. Použití nestojí žádné tahy.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>Oklamání</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>Učiní cíl na krátkou dobu nepřátelským vůči všem ostatním. Použití nestojí žádné tahy.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>Omotání přilehlých</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>Na krátkou dobu omotá všechny, kteří s vámi sousedí. Použití nestojí žádné tahy.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>Zrychlení</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>Umožní vám na krátkou dobu provádět dvě akce za tah. Použití nestojí žádné tahy.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>Skok</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Okamžitý skok na jakékoliv přilehlé pole, a to i vertikálně. Použití nestojí žádné tahy.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>Odstrčení</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Odstrčí kohokoliv o 1 pole dál. Použití nestojí žádné tahy.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>Náhodný únik</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Teleportuje vás na náhodné místo na mapě. Použití nestojí žádné tahy.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>Vytvoření liány</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Vytvoří liány na určeném místě a umožní vám po nich šplhat.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>Jedovatý mrak</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Vytvoří oblak jedu na určeném místě. Použití nestojí žádné tahy.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>Vyvolání přízraku</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Vyvolá přátelský přízrak, aby vám pomohl v bitvách. Najednou může být naživu pouze jeden přízrak.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

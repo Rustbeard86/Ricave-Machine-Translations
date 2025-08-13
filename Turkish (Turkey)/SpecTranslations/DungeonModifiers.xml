@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <EveryoneStartsAwake.label>herkes uyanık başlar</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>Herkes uyanık başlayacak.</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>kat başına fazladan mini-boss</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>Her katta fazladan bir mini-boss ortaya çıkacak (yalnızca zindanda mini-bosslar varsa geçerlidir).</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>%20 daha az düşman</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>Tüm katlarda %20 daha az düşman olacak.</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>tüm eşyalar tanımlanmış başlar</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>Zindanda bulacağın tüm eşyalar zaten tanımlanmış olacak.</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>%20 daha fazla düşman</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>Tüm katlarda %20 daha fazla düşman olacak.</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>daha fazla tuzak</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>Zindanda daha fazla kazık ve yakınlık bombası ortaya çıkacak.</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>açlık yok</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>Asla acıkmayacaksın.</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>mini-boss yok</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>Hiç mini-boss ortaya çıkmayacak (yalnızca zindanda mini-bosslar varsa geçerlidir).</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>rastgele olay yok</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>Zindanda ne kadar kalırsan kal, hiçbir rastgele olay meydana gelmeyecek (yalnızca zindanda rastgele olaylar varsa geçerlidir).</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>sığınak yok</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>Hiç sığınak oluşmayacak (yalnızca zindanda sığınaklar varsa geçerlidir).</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

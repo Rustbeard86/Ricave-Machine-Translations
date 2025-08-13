@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>biểu ngữ câu đố</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>Một biểu ngữ đầy màu sắc.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>cúp</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Mỗi cúp trùm tạo ra lượng bụi sao tương đương với tầng mà trùm bị tiêu diệt. Bụi sao sẽ được bổ sung mỗi khi bạn đến ít nhất tầng thứ hai của hầm ngục.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>tủ quần áo</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Thay đổi diện mạo của bạn tại đây.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>bảng thử thách hàng ngày</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Tham gia các thử thách hàng ngày. Mọi người trên khắp thế giới đều nhận được cùng một thử thách mỗi ngày!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>trưng bày</Display.label> <!-- <En>display</En> -->
+  <Display.description>Một nơi để trưng bày vật phẩm.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>cổng dịch chuyển</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Đây là kết thúc sao?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>kích hoạt hội thoại cuối</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>biển báo hành lang</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>Có một hành lang phía sau cánh cửa này.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>cửa</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Cánh cửa này có vẻ đã bị khóa.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>cửa</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Cánh cửa này có vẻ đã bị khóa.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Bạn có muốn mở khóa hành lang với 60 bụi sao không?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Mở khóa</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>cửa</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Cánh cửa này có vẻ đã bị khóa.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Bạn có muốn mở khóa phòng tập luyện với 20 bụi sao không?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Mở khóa</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Cửa Ký Ức</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>Một cánh cửa chỉ có thể mở khóa bằng cách thu thập đủ 4 Mảnh Ký Ức.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>cửa câu đố</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>Một cánh cửa có thể mở khóa bằng cách thu thập đủ 10 mảnh ghép câu đố. Có một mảnh ghép trên mỗi tầng hầm ngục và bạn chỉ có thể tìm thấy một mảnh cho mỗi lượt chơi. Điều này có nghĩa là mảnh cuối cùng sẽ ở tầng thứ 10.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>gương thần</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Thay đổi các đặc điểm của bạn tại đây.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Cửa Ký Ức</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>Một cánh cửa chỉ có thể mở khóa bằng cách thu thập đủ 4 Mảnh Ký Ức.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Mảnh Ký Ức</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>Một Mảnh Ký Ức chưa được biết đến.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Mảnh Ký Ức</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>Một Mảnh Ký Ức chưa được biết đến.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Mảnh Ký Ức</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>Một Mảnh Ký Ức chưa được biết đến.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Mảnh Ký Ức</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>Một Mảnh Ký Ức chưa được biết đến.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>cầu thang</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>Cầu thang dẫn đến hầm ngục.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>cầu thang</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>Cầu thang dẫn đến hầm ngục cho phép bạn sử dụng một hạt giống thế giới cụ thể. Mọi tiến trình sảnh chờ và nhiệm vụ đều bị vô hiệu hóa trong hầm ngục này.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>biển báo phòng riêng</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>Phòng riêng của bạn. Tất nhiên là sau khi bạn mua nó.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>cửa câu đố</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>Một cánh cửa đã được mở khóa bằng cách thu thập tất cả các mảnh ghép câu đố.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>biển báo phòng câu đố</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Một căn phòng bí ẩn.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>bảng nhiệm vụ</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Xem tất cả các nhiệm vụ có sẵn và đã hoàn thành.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>biển hiệu cửa hàng</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Có một cửa hàng ở đây. Bạn có thể dùng bụi sao để mua các vật phẩm hỗ trợ cho những lượt chơi tiếp theo.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>bầu trời</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>Một khung cảnh đẹp.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>bầu trời</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>Một khung cảnh đẹp.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>cầu thang</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>Cầu thang dẫn đến hầm ngục.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>bảng thống kê</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Xem tất cả các chỉ số của bạn.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>biển báo phòng tập luyện</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Có một phòng tập luyện ở đây. Bạn có thể tập luyện chống lại nhiều loại kẻ thù khác nhau.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>cầu thang</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>Cầu thang dẫn đến phòng tập luyện. Tập luyện chống lại kẻ thù và trùm.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>đống rác</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>Một đống rác chặn ô này. Dùng bụi sao để dọn dẹp nó vĩnh viễn.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>Bạn có muốn dọn dẹp đống rác này với 40 bụi sao không?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Dọn dẹp</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>đèn tường</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>Một chiếc đèn tường phong cách.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

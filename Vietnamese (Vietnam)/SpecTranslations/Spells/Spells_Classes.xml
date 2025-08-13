@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>chớp lòa</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>Làm mù tất cả những ai đang nhìn thấy bạn trong một thời gian ngắn. Không tốn lượt để sử dụng.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>dụ dỗ</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>Khiến mục tiêu trở nên thù địch với tất cả những người khác trong một thời gian ngắn. Không tốn lượt để sử dụng.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>trói chân lân cận</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>Trói chân tất cả những ai ở gần bạn trong một thời gian ngắn. Không tốn lượt để sử dụng.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>tăng tốc</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>Hành động hai lần mỗi lượt trong một thời gian ngắn. Không tốn lượt để sử dụng.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>nhảy</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Nhảy ngay lập tức đến một ô bất kỳ liền kề, kể cả theo chiều dọc. Không tốn lượt để sử dụng.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>đẩy</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Đẩy bất kỳ ai ra xa 1 ô. Không tốn lượt để sử dụng.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>trốn thoát ngẫu nhiên</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Dịch chuyển đến một vị trí ngẫu nhiên trên bản đồ. Không tốn lượt để sử dụng.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>tạo dây leo</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Tạo dây leo tại vị trí được chỉ định và leo lên chúng.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>mây độc</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Tạo một đám mây độc tại vị trí được chỉ định. Không tốn lượt để sử dụng.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>triệu hồi bóng ma</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Triệu hồi một bóng ma thân thiện để hỗ trợ bạn trong các trận chiến. Chỉ có thể có một bóng ma tồn tại cùng một lúc.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

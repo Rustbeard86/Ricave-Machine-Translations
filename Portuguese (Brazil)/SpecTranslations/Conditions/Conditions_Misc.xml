@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>berserker</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>Você matou alguém recentemente. Você está causando e recebendo 25% mais dano físico por um curto período de tempo.</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>sangrando</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>Este personagem está sangrando e continuará perdendo vida até ser enfaixado.</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>sangrando ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>cego</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>Este personagem só consegue sentir objetos adjacentes e errará os ataques 30% das vezes.</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>osso quebrado</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>Este personagem tem um osso quebrado, o que faz com que ele cause menos dano físico.</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>Este personagem tem um osso quebrado, o que faz com que ele cause {0} a menos de dano físico.</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>queimando</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>Este personagem está queimando, o que significa que ele perderá um certo número de pontos de vida a cada turno.</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>queimando ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>chance de acerto crítico alterada</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>Afeta a chance de um acerto crítico causado por este personagem.</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>chance de acerto crítico: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>perdendo vida</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>Este personagem está perdendo vida.</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>perdendo vida ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>fator de dano causado</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>O dano causado por este personagem é alterado por este fator.</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>causou {0} de dano {1}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>modificador de dano causado</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>Este valor é adicionado (ou subtraído) ao dano causado por este personagem. Se este valor for um intervalo, um valor aleatório do intervalo será usado.</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>causou {0} de dano {1}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>doença</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>Este personagem tem uma doença, que impede a cura natural e o torna incapaz de voar.</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>bêbado</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>Este personagem está bêbado, o que significa que se moverá em uma direção aleatória a cada turno. Ele não pode fazer mais nada neste estado.</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>emaranhado</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>Este personagem está emaranhado, o que significa que não pode se mover. No entanto, ele ainda pode atacar de sua posição atual.</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>congelado</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>Este personagem está congelado, o que significa que não pode fazer nada além de esperar enquanto estiver neste estado.</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>regeneração de vida</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>A vida deste personagem se regenera automaticamente com o tempo.</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>regeneração de vida ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>taxa de fome</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>Afeta a rapidez com que este personagem fica com fome.</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>com fome</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>Você está com fome e precisa comer algo. Isso interrompe a regeneração de vida e a identificação de itens.</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>taxa de identificação</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>Afeta a rapidez com que este personagem identifica itens.</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>taxa de identificação: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>imune a doença</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>Este personagem é imune a doença.</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>imune a fogo</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>Este personagem é imune a fogo.</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>imune a veneno</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>Este personagem é imune a veneno.</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>armadura</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>Fator para o dano recebido por este personagem. Se o valor for maior que 1, é uma vulnerabilidade. Se o valor for 0, é uma imunidade.</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>recebeu {0} de dano {1}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>armadura</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>Este valor é adicionado (ou subtraído) ao dano recebido por este personagem. Se este valor for um intervalo, um valor aleatório do intervalo será usado.</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>recebeu {0} de dano {1}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>hostil com aliados</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>Este personagem está em estado de fúria e atacará seus aliados.</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>pode voar</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>Este personagem pode voar. Personagens voadores podem se mover diretamente para cima e para baixo.</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>regeneração de mana</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>A mana deste personagem se regenera automaticamente com o tempo.</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>regeneração de mana ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>PV máx. alterado</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>Afeta o número máximo de pontos de vida que este personagem pode ter.</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>PV máx.: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>PV máx. alterado</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>Afeta o número máximo de pontos de vida que este personagem pode ter.</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>PV máx.: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>mana máx. alterada</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>Afeta o número máximo de pontos de mana que este personagem pode ter.</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>mana máx.: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>vigor máx. alterado</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>Afeta o número máximo de pontos de vigor que este personagem pode ter.</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>vigor máx.: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>chance de erro alterada</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>Afeta a chance de errar um ataque deste personagem.</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>chance de erro: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>pânico</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>Este personagem está em pânico e se afastará do inimigo mais próximo a cada turno. Ele não pode fazer mais nada neste estado.</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>envenenado</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>Este personagem está envenenado, o que significa que perderá um certo número de pontos de vida a cada turno ou a cada dois turnos.</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>envenenado ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>alcance de visão</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>Afeta a distância máxima na qual este personagem pode ver outros objetos e personagens.</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>alcance de visão: Máx. {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>alcance de visão</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>Afeta a distância máxima na qual este personagem pode ver outros objetos e personagens.</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>alcance de visão: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>frequência de ação alterada</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>Afeta o número de movimentos permitidos por turno para este personagem.</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>protegido</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>Você está protegido dos ataques deste personagem até o próximo turno. Contudo, se você causar qualquer dano a este personagem, o efeito será removido. Note que lançar feitiços inofensivos não cancela o efeito.</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>dormindo</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>Este personagem está dormindo. Ele acordará se alguém se aproximar ou o perturbar.</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>deixa um rastro</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>Este personagem deixa um rastro sempre que se move.</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>deixa um rastro de {0}</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>regeneração de vigor</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>O vigor deste personagem se regenera automaticamente com o tempo.</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>regeneração de vigor ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>faminto</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>Você está faminto e precisa comer algo. Além de não regenerar vida e não identificar itens, sua regeneração de vigor é interrompida e você perde vida lentamente com o tempo. As penalidades da fome não progredirão além disso.</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>faminto ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>Prova da Mutilação</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>A Prova da Mutilação está em andamento para este personagem. Ele deve destruir um certo número de partes do corpo em um curto período para completar o desafio e receber uma recompensa.</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>Prova da Mutilação ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>A Prova da Mutilação está em andamento para este personagem. Ele deve destruir {0} partes do corpo em {1} turnos para completar o desafio e receber uma recompensa.</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>Prova do Assassino Veloz</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>A Prova do Assassino Veloz está em andamento para este personagem. Ele deve matar um certo número de inimigos dignos em um curto período para completar o desafio e receber uma recompensa.</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>Prova do Assassino Veloz ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>A Prova do Assassino Veloz está em andamento para este personagem. Ele deve matar {0} inimigos dignos em {1} turnos para completar o desafio e receber uma recompensa.</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>Prova do Imaculado</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>A Prova do Imaculado está em andamento para este personagem. Ele deve matar um certo número de inimigos dignos sem perder pontos de vida para completar o desafio e receber uma recompensa.</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>Prova do Imaculado ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>A Prova do Imaculado está em andamento para este personagem. Ele deve matar {0} inimigos dignos sem perder pontos de vida para completar o desafio e receber uma recompensa.</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>molhado</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>Este personagem está molhado, o que lhe dá 50% de resistência a dano de fogo, mas também faz com que o vigor se regenere naturalmente duas vezes mais devagar.</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

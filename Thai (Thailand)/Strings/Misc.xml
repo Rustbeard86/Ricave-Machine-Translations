@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>เล่น</Play> <!-- <En>Play</En> -->
+  <Quit>ออก</Quit> <!-- <En>Quit</En> -->
+  <Loading>กำลังโหลด</Loading> <!-- <En>Loading</En> -->
+  <Resume>เล่นต่อ</Resume> <!-- <En>Resume</En> -->
+  <Options>ตัวเลือก</Options> <!-- <En>Options</En> -->
+  <Mods>ม็อด</Mods> <!-- <En>Mods</En> -->
+  <Credits>เครดิต</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>เลือกภาษา</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>ตายและเริ่มใหม่</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>ตายและกลับล็อบบี้</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>บันทึกและออกจากเกม</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>ปิด</Close> <!-- <En>Close</En> -->
+  <Back>กลับ</Back> <!-- <En>Back</En> -->
+  <Days>{0} วัน</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} ชั่วโมง</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} นาที</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 วัน</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 ชั่วโมง</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 นาที</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>มีบางอย่างทำให้เกิดข้อผิดพลาด\nดูไฟล์ล็อกสำหรับข้อมูลเพิ่มเติม</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>ลงชื่อเข้าใช้ Steam แล้ว</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>ไม่ได้เลือกม็อด</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>การเข้าถึงล่วงหน้า</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Ricave กำลังอยู่ในช่วงพัฒนา\n\nฉันพยายามเพิ่มเนื้อหาใหม่ ๆ ปรับสมดุล ตัดกลไกที่ไม่สนุกออกไป และรวบรวมข้อเสนอแนะอยู่เสมอ แต่ก็อาจจะยังมีบางอย่างที่ตกหล่นไป หากคุณพบว่าเกมยากหรือหรือง่ายเกินไป เจอบั๊ก หรือมีไอเดียเจ๋ง ๆ สำหรับการปรับปรุงหรือฟีเจอร์ใหม่ กรุณาเข้ามามีส่วนร่วมในกระบวนการพัฒนาและแบ่งปันความคิดของคุณบนช่อง Discord หรือ Twitter ของเรา\n\nขอบคุณและขอให้สนุก!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>เกมได้รับการอัปเดต</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Ricave ได้รับการอัปเดตเป็นเวอร์ชัน {0}!\n\nการเล่นปัจจุบันของคุณอาจเข้ากันได้หรือไม่เข้ากันกับเวอร์ชันใหม่นี้ คุณต้องการยกเลิกการเล่นปัจจุบันและกลับไปยังล็อบบี้หรือไม่?</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>อัปโหลดไปยัง Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>กำลังอัปโหลด</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>ไม่สามารถอัปโหลดไปยัง Steam: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>อัปโหลดไปยัง Steam สำเร็จ</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>ข้อความ</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>ความละเอียด</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>เต็มจอ</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>ขนาด UI</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>มุมมองภาพ (FOV)</FOV> <!-- <En>FOV</En> -->
+  <VSync>VSync</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>เฟรมเรตเป้าหมาย</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>แสดง FPS</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>กลับแกน Y</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>การตั้งค่าปุ่ม</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>ระดับเสียง</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>ระดับเสียงเพลง</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>ความไวเมาส์</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>ความไวตัวชี้</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>คุณภาพ SSAO</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>คุณภาพเงา</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>ลดขนาดภาพ</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>เส้นขอบ</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>แสงสูงสุด</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>ปิด</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>ต่ำ</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>ปกติ</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>สูง</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>ต่ำ</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>ปกติ</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>สูง</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>ไม่มี (คุณภาพดีที่สุด)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5x (คุณภาพแย่ลง)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (คุณภาพแย่ที่สุด)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>หลายรอบแบบมน</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>หลายรอบ</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>รอบเดียว (แนะนำ)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>ตกลง</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>กู้คืนค่าเริ่มต้น</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>รีเซ็ตสถานะเกม</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>กลับไปยังล็อบบี้</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>รีเซ็ตความคืบหน้าทั้งหมด</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>คุณแน่ใจหรือไม่ว่าต้องการกลับไปยังล็อบบี้?\n\nการใช้ตัวเลือกนี้จะแตกต่างจากการกลับล็อบบี้ในเกม เพราะคุณจะสูญเสียความคืบหน้าของการเล่นปัจจุบันไป แต่คุณจะไม่สูญเสียความคืบหน้าโดยรวมในล็อบบี้ (เควสต์ก่อนหน้าและละอองดาวจะยังคงอยู่)\n\nใช้ตัวเลือกนี้หากไฟล์เซฟของคุณเสียหาย เช่น หลังจากการติดตั้งอัปเดตที่เข้ากันไม่ได้</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ตความคืบหน้าทั้งหมด?\n\nการดำเนินการนี้จะลบข้อมูลทั้งหมดของคุณและคุณจะต้องเริ่มเล่นใหม่ตั้งแต่ต้น\n\nใช้ตัวเลือกนี้ก็ต่อเมื่อคุณต้องการสัมผัสประสบการณ์เกมตั้งแต่เริ่มต้น หรือหากข้อมูลความคืบหน้าของคุณเสียหาย</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>กดปุ่มเพื่อกำหนดให้กับ:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>ไม่มี</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>วิดีโอ</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>อินเตอร์เฟซ</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>เสียง</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>เบ็ดเตล็ด</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>คุณภาพ</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>ไม่</No> <!-- <En>No</En> -->
+  <Yes>ใช่</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>เข้าสู่ดันเจี้ยน</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>เข้าสู่ดันเจี้ยนด้วยซีด</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>เข้าสู่ห้องฝึก</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>ใส่ซีด</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>ปิดใช้งานความคืบหน้า</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>คะแนนสูงสุด</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>ชั้นที่ไปถึง</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>ชั้นเฉลี่ย</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>จำนวนครั้งที่เล่น</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>จำนวนการฆ่าทั้งหมด</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>เควสต์</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>สถิติ</Stats> <!-- <En>Stats</En> -->
+  <Cancel>ยกเลิก</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>ยอมรับ</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>รับเควสต์</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>รับรางวัล</Claim> <!-- <En>Claim</En> -->
+  <Postpone>เลื่อน</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>ล็อกอยู่</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>ราคาดีที่สุดเท่านั้น!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>ต้องการอัปเกรดไหม?</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>มีละอองดาวรึเปล่า?</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>คลิกเพื่ออ่านเพิ่มเติม</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>เลือกเพื่ออ่านเพิ่มเติม</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>ตัวปรับแต่งดันเจี้ยนเมื่อยอมรับ</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>รางวัล</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>ชิ้นส่วนปริศนา {0} / {1}</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>ปลดล็อกที่เลเวล {0}</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>ปลดล็อกโดยทำเควสต์ให้สำเร็จ</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>วาง</Place> <!-- <En>Place</En> -->
+  <PickUp>หยิบ</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>กด [ShowInventory] เพื่อเปิดเมนูร้านค้า</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>ไม่มี</None> <!-- <En>None</En> -->
+  <CompletedQuests>เควสต์ที่สำเร็จแล้ว</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>สำเร็จแล้ว</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>ชาเลนจ์รายวัน</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>คุณมีโอกาสเพียงครั้งเดียว - ทำให้ดีที่สุด!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>ในแต่ละวัน ผู้เล่นทั่วโลกจะได้เล่นดันเจี้ยนซีดเดียวกัน คุณมีโอกาสเพียงครั้งเดียวต่อวัน\n\nกติกา:\n  - ระดับความยากปกติ\n  - ปิดใช้งานบูสต์\n  - สุ่มคลาสและคุณสมบัติ\n  - ปิดใช้งานเควสต์\n  - ปิดใช้งานความคืบหน้า\n  - ดันเจี้ยนซับซ้อนไม่สิ้นสุด (ไม่จำกัดชั้น)\n\nคุณไม่สามารถเก็บละอองดาวในดันเจี้ยนนี้ได้ และจะไม่นับรวมในสถิติของคุณ แต่คุณจะได้รับ {0} สำหรับการเข้าร่วม</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>ชาเลนจ์ถัดไปใน: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>คะแนนที่ดีที่สุดของคุณ (ทุกวัน): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>เริ่มชาเลนจ์รายวัน</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>คุณเล่นชาเลนจ์ของวันนี้ไปแล้ว\nคะแนนของคุณคือ: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>ปิดใช้งานม็อดก่อน</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>ปลดล็อกที่เลเวล {0}</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>ดูอันดับของวันนี้</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>ทั่วโลก</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>เพื่อน</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>อันดับของคุณ: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>กำลังโหลดอันดับ...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>ไม่สามารถโหลดอันดับได้</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>ไม่มีข้อมูลอันดับ</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>ยังไม่มีเพื่อนของคุณคนไหนเล่นชาเลนจ์นี้</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>เควสต์ที่กำลังทำ</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>กำลังทำ</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>เควสต์ที่มีให้รับ</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>มีให้รับ</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>ประวัติเควสต์</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>ประวัติ</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>กด [Wait] เพื่อไปต่อ</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>เควสต์</Quest> <!-- <En>Quest</En> -->
+  <Runs>รอบการเล่น</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>มีเควสต์ให้รับ 1 เควสต์</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>มีเควสต์ให้รับ {0} เควสต์</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>ใช้บันทึกเควสต์เพื่อรับเควสต์</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>ชื่อผู้เล่น</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>ระดับความยาก</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>ศัตรู</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>บอส</Bosses> <!-- <En>Bosses</En> -->
+  <Train>ฝึกฝน</Train> <!-- <En>Train</En> -->
+  <EnterNewName>ใส่ชื่อใหม่</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>พลังชีวิตศัตรู</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>พลังชีวิตเริ่มต้น</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>คะแนน</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>ศัตรูพิเศษ</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>ขนมปังต่อชั้น</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>ยาฟื้นพลังต่อชั้น</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>ระดับศัตรู</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>ทองที่ดรอปต่อชั้น</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>ละอองดาว</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>คริสตัลฟื้นฟู</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>คริสตัลฟื้นฟูขนาดเล็ก</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>คริสตัลมานา</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>คริสตัลมานาขนาดเล็ก</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>จำนวนศัตรู</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>ยาฟื้นพลังเริ่มต้น</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>ขอแสดงความยินดี!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>ขอแสดงความยินดี!\n\nคะแนนสุดท้ายของคุณคือ: {0}\n\nถึงแม้ว่าเควสต์หลักจะจบลงแล้ว แต่ก็ยังมีอีกหลายสิ่งให้คุณได้ค้นพบ\n\nหากคุณสนุกกับเกมนี้ โปรดเข้าร่วมเซิร์ฟเวอร์ Discord ของเราที่ {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>ราคาคุณสมบัติต่อไป</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>คุณต้องปลดล็อกคุณสมบัตินี้ก่อน\n\nคุณสามารถซื้อคุณสมบัติแบบสุ่มได้โดยใช้ละอองดาว ยิ่งคุณมีคุณสมบัติมากเท่าไหร่ การซื้ออันถัดไปก็จะยิ่งแพงขึ้นเท่านั้น</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>ชั้นสูงสุดที่คุณไปถึงด้วยคุณสมบัตินี้: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>คุณสามารถเลือกคุณสมบัติได้สูงสุด 2 อย่างเท่านั้น</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>คุณมีละอองดาวไม่เพียงพอ</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>คลิกเพื่อเลือกหรือยกเลิกการเลือกคุณสมบัตินี้</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>เลือกหรือยกเลิกการเลือกคุณสมบัตินี้</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>คลิกเพื่อเลือกหรือยกเลิก</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>เลือกหรือยกเลิก</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>ซื้อ {0} คุณสมบัติแบบสุ่ม</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>คุณสมบัติที่เลือก</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>คุณต้องการซื้อ {1} คุณสมบัติแบบสุ่มในราคา {0} จริง ๆ หรือ?</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>เริ่มต้นพร้อมกับ {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>พบทองมากขึ้น {0}</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>พบทองน้อยลง {0}</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>พลังชีวิตสูงสุด</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>มานาสูงสุด</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>สตามิน่าสูงสุด</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>ไม่เป็นศัตรูกับ {0}</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>เป็นศัตรูกับ {0}</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>ต้านทานพิษ {0}</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>แพ้พิษ {0}</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>ป้องกันพิษ</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>ไม่รับความเสียหายจากการตก</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>ความเสียหายจากการตก {0}</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>ต้านทานไฟ {0}</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>แพ้ไฟ {0}</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>ต้านทานเวทมนตร์ {0}</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>แพ้เวทมนตร์ {0}</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>ความเสียหาย {0} ต่อ {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>สตามิน่าฟื้นฟูช้าลง {0} เท่า</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>สตามิน่าฟื้นฟูช้าลงสองเท่า</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>สร้างความเสียหายเพิ่มขึ้น {0} เมื่อพลังชีวิตต่ำกว่า {1}</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>ได้รับพลังชีวิตสูงสุดต่อเลเวลน้อยลง {0}</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>ได้รับพลังชีวิตสูงสุดต่อเลเวลมากขึ้น {0}</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>เสียงเดิน {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>ได้รับ {0} มานาต่อการสังหารที่คุ้มค่า</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>ได้รับ {0} พลังชีวิตต่อการสังหารที่คุ้มค่า</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>เสีย {0} พลังชีวิตต่อการสังหารที่คุ้มค่า</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>ช่องเก็บของ {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>พลังชีวิตสูงสุด x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>ความเสียหาย {0} ต่อบอส</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>อัตราการฟื้นฟู {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>ป้องกัน {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>ป้องกันการผลัก</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>อัตราความหิว {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>ราคาในร้านค้า {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>สามารถบินได้</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>ได้รับประสบการณ์เพิ่มขึ้น {0}</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>ได้รับประสบการณ์น้อยลง {0}</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>XP ที่เก็บไว้จากการเล่นครั้งล่าสุด</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>ทองที่เก็บไว้จากการเล่นครั้งล่าสุด</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>เหลือการเล่น 1 ครั้ง</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>เหลือการเล่น {0} ครั้ง</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>เริ่ม</StartNewRun> <!-- <En>Start</En> -->
+  <Character>ตัวละคร</Character> <!-- <En>Character</En> -->
+  <Traits>คุณสมบัติ</Traits> <!-- <En>Traits</En> -->
+  <Boosts>บูสต์</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>ชั้น</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} ชั้น</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>ห้องต่อชั้น</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>ปลดล็อกในราคา {0}</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>สำเร็จในระดับความยาก</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>มินิบอส</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>ที่พักพิง</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>วิญญาณที่ได้รับการช่วยเหลือ</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>ชนะ</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>แพ้</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>บอส {0}</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>ทับซ้อนกับ</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>เครื่องประดับเป็นเพียงของตกแต่งและไม่มีผลต่อการเล่นเกม เว้นแต่จะระบุไว้เป็นอย่างอื่น</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>คุณต้องการซื้อ {0} ในราคา {1} หรือไม่?</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>คุณไม่สามารถซื้อเครื่องประดับนี้ได้</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>ราคา</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>คำเตือน: เครื่องประดับนี้จะทำให้ฝ่าย {0} เป็นศัตรูกับคุณ</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>ตัวปรับแต่งดันเจี้ยนพิเศษ</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>เวลาของเจ้าเป็นของยืมมา\nข้าเพียงมาเก็บหนี้ของข้า\nจงวิ่งหนีต่อไปเถิด\nในที่สุด เจ้าก็จะพบทางออก\nข้าอยู่เลยจากจุดนั้นไปนิดเดียว</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>ศัตรูที่ยังไม่ถูกค้นพบ</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} พลังชีวิต</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} มานา</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} สตามิน่า</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} ถึง {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>ถูกซุ่มโจมตี</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>จากด้านบน</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>จากการปัดป้อง</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>ความเสียหายกระจาย</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>ไม่ระบุ</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>ต้องคำสาป</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>ต้องคำสาป</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 เทิร์น</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} เทิร์น</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>ใช้ได้ 1 ครั้ง</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>ใช้ได้ {0} ครั้ง</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 ชาร์จ</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} ชาร์จ</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 เพชร</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} เพชร</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 ละอองดาว</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} ละอองดาว</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 เซลล์</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} เซลล์</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 ทอง</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} ทอง</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}g</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>กด [Accept] เพื่อไปต่อ</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>กด [Accept] เพื่อกลับไปยังล็อบบี้</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>กด [Wait] เพื่อเริ่มใหม่</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>ไม่มีตัวเลือก</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>คำเตือน: ไอเทมนี้อาจจะ {0}</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>คำเตือน: ไอเทมนี้ {0}</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>คุณไม่สามารถถอดไอเทมที่{0}ได้ (หากไม่มีม้วนคัมภีร์ล้างคำสาป)</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>ทอง</Gold> <!-- <En>Gold</En> -->
+  <Leave>ออก</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>กระทำสองครั้งต่อเทิร์น</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>กระทำ {0} ครั้งต่อเทิร์น</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>กระทำทุก ๆ สองเทิร์น</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>กระทำหนึ่งครั้งทุก ๆ {0} เทิร์น</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>ไม่หิว</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>หิวเร็วขึ้นสองเท่า</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>หิวเร็วขึ้น {0} เท่า</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>หิวช้าลงสองเท่า</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>ตัวคูณอัตราความหิว: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>โยน {0} ทอง</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>โอกาส {0}</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>นาน {0} เทิร์น</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>รัศมี {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>ทั้งแผนที่</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>ทะลุกำแพง</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>รอบเป้าหมาย</AroundTarget> <!-- <En>around target</En> -->
+  <Used>ใช้แล้ว</Used> <!-- <En>Used</En> -->
+  <Waiting>กำลังรอ</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>ถูกขัดจังหวะ</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>จุด</Location> <!-- <En>spot</En> -->
+  <StopTargeting>หยุดเล็งเป้า</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>เควสต์สำเร็จ</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>รับรางวัลของคุณเมื่อกลับไปที่ล็อบบี้</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>อยู่กับที่</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>หนึ่งก้าว</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>คุณต้องการซื้อ {0} ในราคา {1} หรือไม่?</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>นี่คือโบนัสใช้ครั้งเดียวและจะมีผลกับการเล่นรอบถัดไปของคุณเท่านั้น</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>ซื้อ</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>ใช้ได้ในอีก {0}</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>นี่คืออาวุธประจำตัวของตัวละครนี้</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>เลือกคาถาใหม่\n\nคุณสามารถเลือกคาถาใหม่ได้ทุกครั้งที่เลเวลอัพ</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>สังหาร {0} แล้ว</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>เคล็ดลับ: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>ใช้ [MoveForward][MoveLeft][MoveBack][MoveRight] เพื่อเคลื่อนที่ กด [ShowInventory] เพื่อเปิดช่องเก็บของ ใช้ [Interact] เพื่อโต้ตอบกับวัตถุ หมุนด้วย [RotateLeft] และ [RotateRight] กด [Inspect] ค้างไว้เพื่อตรวจสอบ กด [Wait] เพื่อรอหนึ่งตา</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>รอ</Waits> <!-- <En>Waits</En> -->
+  <Wait>รอ</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>รอ (เมา)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>รอ (ตื่นตระหนก)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>รอ ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Zzz</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>ตื่นขึ้น</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>ที่ไหน?!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>ไม่มีแขน</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>ไม่มีขา</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>เป็นศัตรู</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>ชิ้นส่วนร่างกายหายไป</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>มีคนเห็นคุณ</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>บอสยังไม่ตาย</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>มานาไม่พอ ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>สตามินาไม่พอ ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>คูลดาวน์ ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>เข้าใกล้กว่านี้</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>เป้าหมายไม่ถูกต้อง</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>อยู่นอกระยะ</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>ไม่มีแนวการมองเห็น</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>ต้องการ {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>ไปไม่ถึง</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>ช่องเก็บของเต็ม</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>ต้องการคริสตัลชนิดเดียวกัน 2 ชิ้น</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>ต้องการวิญญาณ</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>ต้องการพลั่ว</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>ใช้พลั่ว</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>ต้องการพลั่วขุด</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>ใช้พลั่วขุด</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>สมาชิกปาร์ตี้บางคนอยู่ไกลเกินไป</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>ประตูถูกขวาง</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>มีผู้ติดตาม {0} อยู่แล้ว</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} แก่คุณตอนนี้</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} ตอนนี้</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} สำหรับคุณตอนนี้</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>ความเสียหาย {0} ต่อตา</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>ความเสียหาย {0} ต่อ {1} ตา</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} ต่อตา</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} ต่อ {1} ตา</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>ทั้งหมด</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} สำหรับคุณ</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>หรือ</Or> <!-- <En>or</En> -->
+  <And>และ</And> <!-- <En>and</En> -->
+  <Score>คะแนน</Score> <!-- <En>Score</En> -->
+  <FloorReached>ชั้นที่ไปถึง</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>จำนวนที่สังหาร</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>เวลาเล่น</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>สังหาร</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>ระดับการต่อสู้</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>บอสที่สังหาร</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>ไอเทมล็อบบี้ที่เก็บได้</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>รางวัลถัดไปที่เลเวล {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}ว</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}ชม.</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}น</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>ไม่มี</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>สถิติใหม่!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>และอื่นๆ</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>ซีด: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>ตัวปรับแต่ง 1 อย่าง</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>ตัวปรับแต่ง {0} อย่าง</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>เดิมพัน {0} ทอง</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>บทช่วยสอน</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>บอสที่สังหาร</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>เควสต์ที่สำเร็จ</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>บันทึกที่พบ</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>หีบที่เปิด</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>ไอเทมที่สร้าง</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>ธรรมดา</Common> <!-- <En>Common</En> -->
+  <Uncommon>ไม่ธรรมดา</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>หายาก</Rare> <!-- <En>Rare</En> -->
+  <Epic>สุดยอด</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>ยังไม่ระบุ</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>ไอเทมล็อบบี้ (ถาวร)</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>ล็อบบี้</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>ถูกทำร้าย</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>ไฟไหม้ใกล้ๆ</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>เสียงดัง</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>พันธมิตรตื่นใกล้ๆ</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>เสียงฝีเท้าศัตรู</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>พันธมิตรที่ตื่นตัวเดินผ่าน</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>เตะประตู</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>พลาด</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} พลาด</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} คริติคอล</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>คริติคอล</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>โจมตีคริติคอล</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>ชาร์จ</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>สูตรที่ใช้ได้</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>รอ {0} ตา</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>ย้อนกลับ {0} ตา</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>คุณมี {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>ลูก {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>บอส {0}</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>ดูเหมือนว่าคุณจะอยู่ในดันเจี้ยนสักแห่ง...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>คุณไม่รู้ว่าตัวเองอยู่ที่ไหนกันแน่ หรือแม้แต่มาอยู่ที่นี่ได้อย่างไร</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>ทุกสิ่งรอบตัวให้ความรู้สึกเหมือนอยู่ในฝัน แต่ในขณะเดียวกัน มันก็รู้สึกสมจริงเกินกว่าที่จะเป็นแค่ความฝัน</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>คุณเริ่มจำบางอย่างได้ช้าๆ อย่างน้อยคุณก็รู้ชื่อของตัวเอง</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>ชื่อของคุณคือ:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>คุณเพิ่งสังเกตเห็นใครบางคนในระยะไกล แต่เห็นเพียงเงาของเขาแวบเดียว คุณควรจะไปตรวจสอบดู</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>คุณค่อยๆ ลืมตาขึ้น...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>คุณตื่นขึ้นในโรงพยาบาล</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"เขาตื่นแล้ว!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"เกิดอะไรขึ้น?"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"คุณไปเดินป่ากับเพื่อนๆ และได้รับบาดเจ็บที่ศีรษะอย่างรุนแรง"</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"หน่วยกู้ภัยพบคุณได้ทันเวลาพอดี คุณต้องพักผ่อนและฟื้นฟูกำลัง"</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"มายาอยู่ที่ไหน?"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"มายาคือใคร?"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"เธอพบฉันก่อน เธอไม่เป็นไรใช่ไหม?"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"คุณอาจจะกำลังสับสนอยู่บ้าง แต่เดี๋ยวคุณก็จะหายดี"</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>คุณรู้สึกงุนงง แต่ก็มีความรู้สึกแปลกๆ ของความสำเร็จ ราวกับว่าคุณได้เปลี่ยนแปลงไปในทางใดทางหนึ่ง</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>คุณหลับตาลงและหายใจเข้าลึกๆ จินตนาการถึงความอบอุ่นของแสงแดดบนใบหน้า อากาศบริสุทธิ์เต็มปอด และคุณก็อดไม่ได้ที่จะยิ้ม</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>ขอบคุณที่เล่นเดโม!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>สร้างโดย</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>ภาพพื้นหลังเมนูหลักโดย</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>ดนตรีโดย</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>โลโก้โดย</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>โมเดลตัวละครโดย</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>เอฟเฟกต์เสียงโดย</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>ขอบคุณที่เล่น!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>ป่า... ใช่เลย! คุณเริ่มจำได้ว่าเกิดอะไรขึ้นก่อนจะมาที่นี่ วันฤดูร้อนที่อบอุ่น เสียงนกร้อง และภูเขาที่สวยงามสุดขอบฟ้า - คุณไปเดินป่ากับเพื่อนๆ แต่แล้วก็มีบางอย่างดึงดูดความสนใจของคุณ คุณจำได้ว่าแยกตัวออกจากกลุ่ม แต่ทำไมล่ะ?</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>ถ้ำ! คุณออกจากกลุ่มหลังจากได้ยินเสียงคนร้องขอความช่วยเหลือ ด้วยความเชื่อว่าเป็นนักปีนเขาคนอื่นที่กำลังเดือดร้อน คุณจึงตามเสียงนั้นไปที่ถ้ำ ข้างในนั้นคุณลื่นล้มจนขาหัก คุณตะโกนเรียกแต่ไม่มีใครตอบ ความหวังของคุณเริ่มเลือนลางเมื่อต้องอยู่คนเดียวและบาดเจ็บ...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>คุณนั่งอยู่คนเดียวในถ้ำนั้นนานหลายชั่วโมง พอตกกลางคืนฝนก็เริ่มตกหนัก คุณเกือบจะสิ้นหวังทั้งหมด หลังจากที่รู้สึกเหมือนนานเป็นชาติ คุณก็เห็นแสงสว่างที่ปากถ้ำ นั่นคือ... มายา! คุณโล่งใจมาก!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>คุณดีใจสุดขีดที่ได้เห็นมายา เธอยื่นมือมาดึงคุณขึ้น และชั่วขณะหนึ่ง ดูเหมือนว่าคุณจะรอดแล้ว แต่ฝนที่ตกหนักไม่หยุดทำให้เธอลื่น และคุณทั้งคู่ก็ร่วงหล่นลงมากระแทกกับโขดหินอย่างแรง หลังจากนั้นทุกอย่างก็เงียบไป</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>สวมใส่</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>สร้าง</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>ระบุ</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>ชื่อ</Name> <!-- <En>Name</En> -->
+  <Level>เลเวล</Level> <!-- <En>Level</En> -->
+  <Experience>ประสบการณ์</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>XP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>พลังโจมตี</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>ดูไอเทมทั้งหมดที่คุณสวมใส่อยู่ในปัจจุบัน</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>ดูสูตรทั้งหมดที่คุณสามารถใช้สร้างไอเทมใหม่ได้ อาจมีประโยชน์หากคุณต้องการล้างคำสาปหรือรักษาแขนขาที่หายไป</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>ดูไอเทมที่ยังไม่ระบุทั้งหมดในช่องเก็บของของคุณ\n\nไอเทมทุกชิ้นจะถูกระบุอย่างช้าๆ เมื่อเวลาผ่านไป (เว้นแต่คุณจะหิว) ไอเทมที่อยู่บนสุดของรายการจะถูกระบุก่อน\n\nลากและวางเพื่อจัดลำดับใหม่</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>คุณไม่มีไอเทมที่ยังไม่ได้ระบุ</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>นี่คือคิวการระบุไอเทมของคุณ ลากและวางเพื่อตัดสินใจว่าไอเทมใดควรถูกระบุเป็นลำดับถัดไปเมื่อเวลาผ่านไป คุณยังสามารถระบุไอเทมได้ที่นักเดินทาง</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>ประดิษฐ์</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>ที่อยู่ติดกัน</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>คุณจะสูญเสียบูสต์ที่ซื้อมา</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>จ้าวแห่งฝันร้าย</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>ฮิปโนรัค</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>แฟนทาสมอส</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>แต้มสกิลที่ใช้ได้</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>สกิลที่ปลดล็อกแล้ว</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>ความสำเร็จที่ปลดล็อกแล้ว</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>กด [Cancel] เพื่อยกเลิก</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC เพื่อยกเลิก</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>ศัตรู</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>สมาชิกที่เป็นที่รู้จัก</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>คุณอยู่ที่นี่</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>หากคุณเลือกไปทางนี้ คุณจะได้รับสิ่งต่อไปนี้</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>จะไปที่ไหน?</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>ศัตรูมากขึ้น</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>ศัตรูน้อยลง</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>ศัตรูปกติ</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>ทองมากขึ้น</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>ทองน้อยลง</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>ทองปกติ</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>จำนวนศัตรู</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>ทองที่ได้</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>คริสตัล</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>คริสตัล {0}</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>ฟื้นฟู HP {0}</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>การเคลื่อนที่นี้จะทำให้คุณตกลงไปในหลุม คุณต้องการทำเช่นนั้นจริง ๆ หรือ?\n\nคุณจะตกลงไปยังสถานที่สุ่มบนชั้นล่างและเสียพลังชีวิตบางส่วน คุณไม่สามารถกลับมาได้</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>การเคลื่อนที่นี้จะสิ้นสุดการเล่นรอบนี้ของคุณ คุณต้องการทำเช่นนั้นจริง ๆ หรือ?</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>กด [Rewind] เพื่อย้อนกลับ</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>อย่าลืมตรวจสอบสภาพแวดล้อมของคุณด้วย [Inspect]</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>หลบหนี!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>รางวัล</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>ที่นี่คือที่ไหน? ฉันต้องหาทางออกให้เจอ...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>ทุกครั้งที่ฉันมาที่นี่ ดันเจี้ยนนี้จะเปลี่ยนไป แต่ทำไมล่ะ?</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>ทุกย่างก้าวรู้สึกคุ้นเคยอย่างน่าขนลุก ราวกับว่าฉันเคยมาที่นี่มาก่อน</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>มีบางอย่างอยู่ข้างหน้า ฉันรู้สึกได้</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>ฉันเพิ่งชนะการต่อสู้หรือเข้าใจอะไรบางอย่างกันแน่?</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>ฉันรู้สึกเหมือนทุกอย่างนำมาสู่สิ่งที่อยู่ข้างหน้า</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>ฉันรู้สึกเหมือน...ภาระหนักในใจได้ถูกยกออกไป แปลกจริง</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>ทำไมเจ้าถึงใช้เวลานานขนาดนี้?</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>นั่นอะไรน่ะ?</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>คุณตายแล้ว</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>คุณหนีออกมาได้แล้ว</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>จบการเล่นรอบนี้</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>หาคันโยก\nเพื่อเปิด</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>ทำตามบทช่วยสอน\nเพื่อเปิด</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>ช่วยเหลือ</Help> <!-- <En>Help</En> -->
+  <HelpMe>ช่วยฉันด้วย</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>ทางนี้</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>กด [Inspect] ค้างไว้เพื่ออ่าน</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>เควสหลัก</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>เควสรอง</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>เควสพิเศษ</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>คุณสามารถรับและเลื่อนเควสได้ในล็อบบี้</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>โปรดทราบว่าบางเควสสามารถทำได้สำเร็จในดันเจี้ยนที่มีชั้นเพียงพอเท่านั้น</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>ปลดล็อกดันเจี้ยนถัดไป</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>ไปให้ถึงจุดสิ้นสุดของชั้น {0} ในดันเจี้ยนนี้เพื่อปลดล็อกดันเจี้ยนถัดไป</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>ค้นหาชิ้นส่วนปริศนา</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>ค้นหาชิ้นส่วนปริศนาชิ้นต่อไปบนชั้น {0} ขณะนี้คุณมี {1}/{2} ชิ้น</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>ช่วยเหลือวิญญาณ</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>มีวิญญาณ 1 ดวงในดันเจี้ยนนี้ ปลดปล่อยมันโดยการนำไปที่ที่พักพิง</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>มีวิญญาณ {0} ดวงในดันเจี้ยนนี้ ปลดปล่อยพวกเขาโดยการนำไปที่ที่พักพิง</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>คำเตือน: ผู้ติดตามเหล่านี้จะถูกทิ้งไว้ข้างหลัง</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>เลือกคาถาของคุณ</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>เลือกคาถาของคุณ ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>คาถาใหม่</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>แถบด่วนและคาถาของคุณ</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>ปลดล็อกที่เลเวล {0}</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>คุณได้รวบรวมละอองดาว - สกุลเงินล้ำค่า!\n\nละอองดาวสามารถใช้ในล็อบบี้เพื่อซื้อบูสต์สำหรับการเล่นรอบถัดไปและปลดล็อกห้องพิเศษ\n\nไอเทมทั้งหมดที่ทำเครื่องหมายด้วย \"ไอเทมล็อบบี้\" จะถูกนำไปที่ล็อบบี้ ไอเทมอื่น ๆ ทั้งหมดจะหายไปเมื่อการเล่นรอบนี้สิ้นสุดลง</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>ชิ้นส่วนปริศนา เช่นเดียวกับละอองดาว เป็นไอเทมล็อบบี้ถาวร\n\nรวบรวมให้ครบทั้ง {0} ชิ้นจากการเล่นหลายรอบเพื่อปลดล็อกห้องลับในล็อบบี้</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>คุณมีเพื่อนร่วมทาง\n\nทุกครั้งที่คุณเคลื่อนที่ โรโกะจะเก็บเหรียญทองในช่องที่อยู่ติดกันให้คุณโดยอัตโนมัติ\n\nชีส 1 ชิ้นจะทำให้โรโกะติดตามคุณเพียง 1 รอบการเล่นเท่านั้น</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>ตอนนี้คุณมีสมาชิกในปาร์ตี้แล้ว\n\nคุณสามารถสลับไปมาระหว่างพวกเขาและจัดการช่องเก็บของของพวกเขาแยกกันได้ สมาชิกปาร์ตี้แต่ละคนจะผลัดกันเล่นอย่างอิสระ</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>HP สูงสุด +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>คริติคอล +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>พลาดเป้า -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>ไฟ {0}%</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>เตะ</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>ตัวละครนี้สามารถเตะสิ่งของได้</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>มีชิ้นส่วนความทรงจำอยู่บนชั้นนี้</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>ค้นหามัน</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>ค้นหา</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>ไอเทมที่ค้นพบ</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>สิ่งมีชีวิตที่ค้นพบ</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>Codex แสดงไอเทมและสิ่งมีชีวิตในสภาพปกติที่ไม่ถูกสาป ไอเทม/สิ่งมีชีวิตจริงอาจแตกต่างกัน</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>ชาเลนจ์ประจำวัน</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>คลาส</Class> <!-- <En>Class</En> -->
+  <NoClass>ไม่มีคลาส\n\nเอฟเฟกต์:\n- ชื่อเสียงและเกียรติยศ</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>ปลดล็อกที่เลเวล {0}</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>เอฟเฟกต์</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>ความสามารถ: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>HP สูงสุด</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>มานาสูงสุด</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>สตามินาสูงสุด</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>ความเสียหาย {0} ต่ออันเดด (โครงกระดูก, มัมมี่, ฯลฯ)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>ต้านทานไฟ {0}</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>ความเปราะบางต่อไฟ {0}</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>อัตราความหิว {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>ไม่เปิดใช้งานแผ่นแรงกด</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>ภูมิคุ้มกันต่อพิษ</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>ภูมิคุ้มกันต่อการผลัก</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>สุนัขเป็นศัตรู</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>เสียงเดิน {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>ชั้นสูงสุดที่คุณไปถึงด้วยคลาสนี้: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>ชั้นสูงสุดที่คุณไปถึงโดยไม่มีคลาส: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>{0} ได้รับความเสียหาย {1} {2}</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>{0} ได้รับความเสียหาย {1} {2} และตาย</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} XP</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>{0} ไม่ได้รับความเสียหาย {1}</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>{0} ได้รับ {1}</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>{0} ได้รับความเสียหาย {1} {2}</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>{0} ได้รับความเสียหาย {1} {2} และถูกทำลาย</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>{0} ไม่ได้รับความเสียหาย {1}</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>{0} ได้รับ {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>{1} ของ {0} ถูกทำลาย</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>{0} ป้องกันความเสียหาย {1} {2}</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>{0} สะท้อนความเสียหาย {1} {2} ไปยัง {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>{0} ถูกผลัก</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>{0} ถูกดึง</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>{0} ได้รับสถานะใหม่: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>{0} ได้รับเอฟเฟกต์ใหม่: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>{1} ของ {0} ได้รับการฟื้นฟู</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>{1} ของ {0} ได้รับการฟื้นฟู</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>{1} ของ {0} ได้รับการฟื้นฟู</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>{0} ถูกระบุแล้ว</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>{0} หมดผล</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>{0} หมดผล</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>{0} เก็บ {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>มันคือ {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>มันคือ {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>{0} คือ {1}! (คุณต้องค้นหาหรือประดิษฐ์ม้วนคัมภีร์ล้างคำสาป)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>{0} ของคุณถูก {1}!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>คำสาปถูกลบออกจาก {0} แล้ว</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>{0} เทเลพอร์ตไปยังตำแหน่งสุ่ม</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>{0} เทเลพอร์ต</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>{0} เปิดแล้ว ตอนนี้หาทางออกให้เจอ</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>{0} เปิดแล้ว</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>ประตูบานหนึ่งปิดลงข้างหลังคุณ</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>{0} เกิดฟองฟู่แต่ดูเหมือนจะไม่มีผลใด ๆ</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>คุณกำลังหิวโหย</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>คุณกำลังหิว</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>คุณซื้อ {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>เลเวลอัพ!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>คุณสามารถเลือกคาถาใหม่ได้</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>เลเวลอัพ</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>เอฟเฟกต์โล่ถูกยกเลิกเพราะคุณทำร้าย {0}</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>{0} ตื่นขึ้น</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>ทั้งหมด {0}</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>คุณสละชีพตัวเอง</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>คุณชนะ</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>คุณแพ้</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>คุณผ่านการทดสอบและได้รับ {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>คุณไขปริศนาอักษรภาพและได้รับ {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>คุณรอดชีวิตได้ด้วย {0}</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>{0} รอดชีวิตได้ด้วย {1}</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>คุณไม่ผ่านการทดสอบ</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>{0} ถูกทำซ้ำ</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>{0} ถูกทำลาย</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>ไม่มีอะไรที่นี่อีกแล้ว</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>คุณจับ {0} ได้</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>{0} จะทำงานในอีก {1}</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>คุณได้รับ {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>รูปปั้นปีศาจรับ {0} ของคุณไปและมอบ {1} ให้คุณ</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>{0} ได้รับ {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>{0} พลาดเป้า</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>{0} ปรากฏตัวในบริเวณใกล้เคียง</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>{0} มอบ {1} ให้กับ {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>ฝ่าย {0} กลายเป็นศัตรู</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>คุณมีส่วนผสมไม่ครบ</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>ไอเทมนี้ไม่พอดีกับช่องนี้</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>{0} ขโมย {1} จาก {2}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>คุณเก็บ {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>คุณได้รับแต้มทักษะ! เปิดช่องเก็บของเพื่อใช้งาน</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>คุณปลดปล่อย {0} และได้รับ {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>ระดับของ {0} ได้รับการอัปเกรด</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>คุณไม่สามารถถอดไอเทมต้องคำสาปได้</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>{0} สร้าง {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>ใช้กับตัวเอง</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>ใช้กับ...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>ดื่ม</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>ขว้าง...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>กิน</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>ขว้าง...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>วางกับดัก...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>ขว้าง...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>ปลูก...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>ใช้กับตัวเอง</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>โจมตี...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>ร่ายใส่ตัวเอง</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>ร่ายใส่...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>เติม...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>ขวางประตู...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>ล่ามตัวเอง</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>ล่าม...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>วาง...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>เก็บ...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>ตกปลา...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>ขุดแร่...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>คุย...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>เสริมพลัง</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>ขุด...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>เตะตัวเอง</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>เตะ...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>{0} โจมตีตัวเองด้วย {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>{0} โจมตี {2} ด้วย {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>{0} ใช้ {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>{0} ใช้ {1} กับ {2}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>{0} ดื่ม {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>{0} ขว้าง {1} ใส่ {2}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>{0} ใช้ {1} กับตัวเอง</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>{0} ใช้ {1} กับ {2}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>{0} ขว้าง {1} ใส่ {2}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>{0} เปิด {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>{0} ปิด {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>{0} ขุด {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>{0} ดื่มจาก {1}</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>{0} เสริมพลังอุปกรณ์ที่ {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>{0} ลงบันได</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>{0} ขึ้นบันได</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>{0} ดึง {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>{0} ได้รับพรที่ {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>{0} กิน {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>{0} วาง {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>{0} ว่ายน้ำใน {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>{0} ถูกเผาใน {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>{0} เหยียบบน {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>{0} เทเลพอร์ต</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>{0} ขว้าง {1} ใส่ {2}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>{0} ปลูก {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>{0} ร่าย {1} ใส่ตัวเอง</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>{0} ร่าย {1} ใส่ {2}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>{0} เติมน้ำใส่ {1}</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>{0} ขวาง {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>{0} ล่ามตัวเองไว้กับเสา</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>{0} ล่าม {2} ไว้กับเสา</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>{0} วาง {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>{0} เก็บ {2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>{0} พันแผลตัวเอง</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>{0} พันแผลให้ {2}</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>{0} ทำการผ่าตัด</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>{0} ทำการผ่าตัดให้ {2}</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>{0} ค้นหา {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>{0} เล่นพนันที่ {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>{0} กด {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>{0} เริ่มการท้าทายที่ {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>{0} ทำซ้ำไอเทมที่ {1}</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>{0} ตกปลาที่ {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>{0} ดับไฟตัวเอง</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>{0} ดับไฟให้ {2}</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>{0} วิจัย {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>{0} ค้นหา {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>{0} นอนใน {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>{0} ขุดแร่ {2} ด้วย {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>{0} คุยกับ {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>{0} เสริมพลังไอเทมด้วย {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>{0} ขุด {2} ด้วย {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>{0} สังเวยแขนขาที่ {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>{0} อัญเชิญ Phantom ที่ {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>{0} ปลดปล่อยวิญญาณที่ {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>{0} ทำความสะอาด {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>{0} ได้รับแต้มทักษะที่ {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>{0} เตะตัวเอง</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>{0} เตะ {2}</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>{0} อัปเกรดอุปกรณ์ที่ {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>{0} สังเวยไอเทมต้องคำสาปให้กับ {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>ขึ้น</Up> <!-- <En>up</En> -->
+  <Down>ลง</Down> <!-- <En>down</En> -->
+  <North>เหนือ</North> <!-- <En>north</En> -->
+  <South>ใต้</South> <!-- <En>south</En> -->
+  <West>ตะวันตก</West> <!-- <En>west</En> -->
+  <East>ตะวันออก</East> <!-- <En>east</En> -->
+  <NorthWest>ตะวันตกเฉียงเหนือ</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>ตะวันออกเฉียงเหนือ</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>ตะวันตกเฉียงใต้</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>ตะวันออกเฉียงใต้</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>ขึ้น-เหนือ</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>ขึ้น-ใต้</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>ขึ้น-ตะวันตก</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>ขึ้น-ตะวันออก</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>ขึ้น-ตะวันตกเฉียงเหนือ</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>ขึ้น-ตะวันออกเฉียงเหนือ</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>ขึ้น-ตะวันตกเฉียงใต้</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>ขึ้น-ตะวันออกเฉียงใต้</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>ลง-เหนือ</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>ลง-ใต้</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>ลง-ตะวันตก</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>ลง-ตะวันออก</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>ลง-ตะวันตกเฉียงเหนือ</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>ลง-ตะวันออกเฉียงเหนือ</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>ลง-ตะวันตกเฉียงใต้</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>ลง-ตะวันออกเฉียงใต้</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>เริ่มต้น</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>สิ้นสุด</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>คันโยก</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>บันได</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>บอส</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>โอกาสลอบโจมตี</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>ตัวละครนี้ไม่เห็นคุณในเทิร์นที่แล้ว ดังนั้นคุณจะสร้างความเสียหายเพิ่มขึ้น {0} หากโจมตีตอนนี้</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>อยู่เหนือคุณ</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>ตัวละครนี้อยู่เหนือคุณ ซึ่งหมายความว่าพวกเขาจะสร้างความเสียหายเพิ่มขึ้น {0} หากโจมตีคุณจากตำแหน่งนี้</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>อยู่ต่ำกว่าคุณ</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>ตัวละครนี้อยู่ต่ำกว่าคุณ ซึ่งหมายความว่าคุณจะสร้างความเสียหายเพิ่มขึ้น {0} หากคุณโจมตีพวกเขาจากตำแหน่งนี้</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>มองไม่เห็นคุณ</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>ตัวละครนี้มองไม่เห็นคุณ (พวกเขามองได้ไม่ไกลเท่าคุณ) แต่ระวัง - พวกเขาอาจยังจำตำแหน่งสุดท้ายของคุณได้และต้องการไปตรวจสอบ!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>กำลังร่วงหล่น</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>ตัวละครนี้กำลังร่วงหล่น ซึ่งหมายความว่าในตาถัดไปพวกเขาจะต้องใช้เวลาในการร่วงหล่นแทนที่จะกระทำการใดๆ</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>ผลที่ไม่ปรากฏ</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>ผลที่ไม่รู้จัก มาจากไอเทมที่ไม่ปรากฏ</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>คุณถูกล้อมโดยศัตรูอย่างน้อย 2 ตัว ซึ่งหมายความว่าคุณจะสร้างความเสียหายเพิ่มขึ้น {0} แก่ตัวละครนี้หากคุณโจมตีพวกเขาจากตำแหน่งนี้</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>ผลที่ไม่ปรากฏ</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>ผลที่ไม่รู้จัก มาจากไอเทมที่ไม่ปรากฏ</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nนี่คือเวลาปัจจุบันในเกม หนึ่งนาทีหมายถึงหนึ่งตา\n\nทั้งเกมเป็นแบบผลัดกันเล่น การกระทำส่วนใหญ่ใช้เวลาหนึ่งตาในการทำ เช่น การเดิน การดื่มยา การโจมตี หรือการมีปฏิสัมพันธ์กับสิ่งต่างๆ\n\nจำนวนตาทั้งหมดที่ผ่านไป: {2}\nในชั้นนี้: {3}</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>นี่คือพลังชีวิตของตัวละครของคุณ\n\nไอเทมบางชิ้นอาจเพิ่มพลังชีวิตสูงสุดของคุณได้ แต่ละเลเวลจะเพิ่มพลังชีวิตสูงสุดให้คุณ {0}</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>หากไม่หิวหรืออดอยาก พลังชีวิต {0} จะฟื้นฟูทุกๆ {1}</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>พลังชีวิตถัดไปจะฟื้นฟูใน: {0}</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>คุณกำลังเสียพลังชีวิตเนื่องจากมีค่าสูงกว่าระดับสูงสุด</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>คุณกำลังเสียมานาเนื่องจากมีค่าสูงกว่าระดับสูงสุด</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>คุณกำลังเสียค่าความทนทานเนื่องจากมีค่าสูงกว่าระดับสูงสุด</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>ไอเทมนี้จะถูกระบุชนิดหลังจาก {0} ลากและวางเพื่อจัดลำดับใหม่</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>ไอเทมนี้ {0} อย่างไรก็ตาม ด้วยการรับรู้ที่เฉียบแหลมของคุณ คุณสามารถบอกได้ว่ามันคือหนึ่งในสิ่งต่อไปนี้:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>ไอเทมประเภทนี้จะถูกระบุชนิดอย่างถาวรเมื่อถูกใช้งาน</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>ไอเทมนี้ {0} มันอาจมีผลที่ไม่รู้จักและอาจเป็นของ {1} (คุณไม่สามารถถอดไอเทม {1} ได้) นักพเนจรสามารถช่วยคุณในการระบุชนิดได้</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>ไอเทมนี้ {0} คุณไม่สามารถถอดไอเทม {0} ได้ (หากไม่มีม้วนคัมภีร์ถอนคำสาป)</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>ยินดีด้วย!;คุณทำได้!;ฉันเชื่อในตัวคุณเสมอ!;เกือบถึงแล้ว!;ฉันอยากจะเจ๋งเหมือนคุณบ้าง!;น่าประทับใจ!;สู้ต่อไป!;คุณสุดยอดที่สุด!;คุณทำได้แล้ว!;เยี่ยมไปเลย!;คุณยอดเยี่ยมมาก!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>ยินดีต้อนรับสู่ชั้นที่ 1\n\nการเดินทางของคุณเริ่มต้นที่นี่ แม้ว่านี่อาจไม่ใช่ครั้งแรกที่คุณอ่านป้ายนี้\n\nบางสิ่งอาจดูยากในตอนแรก แต่ไม่เป็นไร เหนือสิ่งอื่นใด เราต้องจำไว้ว่า - การพ่ายแพ้ก็เป็นเรื่องสนุก!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>ยินดีต้อนรับสู่ชั้นที่ {0}</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>ที่นี่ ทุกดวงวิญญาณหยุดพักเพื่อค้นหาเส้นทางของตน</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>ถูกสังหารที่ {0}</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>จำนวนเหรียญทองที่คุณมีในช่องเก็บของ อาจมีบางคนในดันเจี้ยนนี้ที่ยินดีจะค้าขายด้วย</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>{0} ตัวถัดไปจะเกิดใน</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>จะไม่เกิดอีก</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>จะหายไปใน {0}</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>จะแพร่กระจายใน {0}</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>การกระทำถัดไปใน {0}</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>จะทำงานใน {0}</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>แหล่งที่มา</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>แหล่งที่มา: ระดับความยาก</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>ปรากฏตั้งแต่</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>กด [Fly]+[MoveForward] เพื่อขึ้น และ [Fly]+[MoveBack] เพื่อลง</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>กด [Fly] ค้างไว้เพื่อเตะประตู</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>กด [Rewind] เพื่อย้อนเวลา</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>การใช้ไอเทมนี้ไม่เสียตา</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>การใช้ไอเทมนี้ใช้เวลา {0} ของตา</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>การใช้ไอเทมนี้ใช้เวลา {0} ตา</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>การร่ายเวทมนตร์นี้ไม่เสียตา</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>การร่ายเวทมนตร์นี้ใช้เวลา {0} ของตา</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>การร่ายเวทมนตร์นี้ใช้เวลา {0} ตา</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>การกระทำนี้ไม่เสียตา</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>การกระทำนี้ใช้เวลา {0} ของตา</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>การกระทำนี้ใช้เวลา {0} ตา</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>การมีปฏิสัมพันธ์กับวัตถุนี้ไม่เสียตา</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>การมีปฏิสัมพันธ์กับวัตถุนี้ใช้เวลา {0} ของตา</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>การมีปฏิสัมพันธ์กับวัตถุนี้ใช้เวลา {0} ตา</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>วัตถุนี้ติดไฟได้</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>คุณสามารถใช้ได้ต่อเมื่อไม่มีใครเห็นคุณ</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>วัตถุนี้เปราะบาง (การระเบิดจะทำลายมัน)</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>การระบุชนิดหยุดลงเพราะคุณกำลังหิว</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>คลิกเพื่อเก็บ</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>คลิกเพื่อมีปฏิสัมพันธ์</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>คลิกเพื่อซื้อ</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>กดปุ่มปฏิสัมพันธ์เพื่อเก็บ</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>มีปฏิสัมพันธ์กับวัตถุนี้</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>กดปุ่มปฏิสัมพันธ์เพื่อซื้อ</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>ไอเทมนี้จะหายไปหลังจากลงไปยังชั้นถัดไป</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>นี่คือความคืบหน้าสู่เลเวลถัดไปของคุณ คุณสามารถได้รับค่าประสบการณ์จากการเอาชนะศัตรู\n\nXP ที่ต้องการสำหรับเลเวลถัดไป: {0}\nเลเวลปัจจุบัน: {1}\nค่าประสบการณ์ทั้งหมด: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>นี่คือเลเวลปัจจุบันของคุณ คุณสามารถเพิ่มเลเวลได้โดยการเอาชนะศัตรู\n\nแต่ละเลเวลจะเพิ่มพลังชีวิตสูงสุดให้คุณ {0} นอกจากนี้ ทุกครั้งที่คุณเลเวลอัพ คุณสามารถเลือกเวทมนตร์ใหม่ได้\n\nXP ที่ต้องการสำหรับเลเวลถัดไป: {2}\nค่าประสบการณ์ทั้งหมด: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>นี่คือเลเวลปัจจุบันของคุณตามคะแนนรวมจากการเล่นทั้งหมดของคุณ คุณสามารถได้รับคะแนนจากการเอาชนะศัตรูและความคืบหน้าในเกม\n\nคะแนนที่ต้องการสำหรับเลเวลถัดไป: {0}\nคะแนนรวม: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>นี่คือระดับความอิ่มปัจจุบันของคุณ: {0}/{1}\n\nคุณต้องกินเป็นระยะๆ เพื่อดับความหิวและหลีกเลี่ยงผลที่ตามมา\n\nเมื่อระดับความอิ่มถึง {2} คุณจะรู้สึกหิว - คุณจะไม่ฟื้นฟูพลังชีวิตหรือระบุชนิดไอเทมได้\n\nเมื่อระดับความอิ่มถึง {3} คุณจะอดอยาก - คุณจะไม่ฟื้นฟูค่าความทนทานและจะค่อยๆ เสียพลังชีวิตไปตามเวลา</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>นี่คือชั้นดันเจี้ยนปัจจุบัน ยิ่งคุณลงไปลึกเท่าไหร่ การเอาชีวิตรอดก็จะยิ่งยากขึ้น แต่ก็จะยิ่งสนุกขึ้นด้วย!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>ให้ค่าประสบการณ์ {0}</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>คำเตือน: หากถูกสังหาร สมาชิกทั้งหมดของฝ่ายนี้จะกลายเป็นศัตรู</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>กลยุทธ์: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>ตัวละครนี้จะตามคุณไปยังชั้นถัดไป</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>สถานะ</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>อาวุธ</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>เวทมนตร์</Spells> <!-- <En>Spells</En> -->
+  <Talk>พูดคุย</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>เมื่อตาย</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>สวมใส่</Worn> <!-- <En>Worn</En> -->
+  <Inventory>ช่องเก็บของ</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>ข้อมูล</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>ใช้ {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>ใช้ {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>นี่คือมานาของตัวละครของคุณ\n\nการร่ายเวทมนตร์และการใช้ไอเทมเวทมนตร์ต้องใช้มานา มานาไม่ฟื้นฟูอัตโนมัติตามเวลา สามารถเติมได้โดยการดื่มยามานาหรือมีปฏิสัมพันธ์กับวัตถุพิเศษบางอย่างเท่านั้น แถบมานาจะถูกซ่อนไว้เมื่อคุณไม่มีเวทมนตร์\n\nคุณสามารถเลือกเวทมนตร์ใหม่ได้ทุกครั้งที่คุณเลเวลอัพ</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>นี่คือค่าความทนทานของตัวละครของคุณ\n\nการใช้ไอเทมบางชนิดอาจต้องใช้ค่าความทนทาน แถบค่าความทนทานจะถูกซ่อนไว้เมื่อคุณไม่มีไอเทมที่ต้องใช้ค่าความทนทานในช่องเก็บของ</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>หากไม่อดอยาก ค่าความทนทาน {0} จะฟื้นฟูทุกๆ {1}</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>ค่าความทนทานถัดไปจะฟื้นฟูใน: {0}</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>เลือกเวทมนตร์ใหม่ คุณสามารถเลือกเวทมนตร์ใหม่ได้ทุกครั้งที่คุณเลเวลอัพ</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>หนีเมื่อพลังชีวิตต่ำ</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>นาฬิกาช่วยให้คุณย้อนเวลาได้ตามต้องการ! ย้อนกลับตาที่แล้วโดยกด [Rewind]\n\nใช้มันเมื่อใดก็ตามที่คุณไม่ชอบผลลัพธ์ของการกระทำล่าสุดของคุณหรือแค่คลิกพลาด\n\nนาฬิกามีขีดจำกัดจำนวนตาที่คุณสามารถย้อนกลับได้ในครั้งเดียว แต่มันจะชาร์จใหม่ทุกๆ {0} ตา ซึ่งแตกต่างจากไอเทมควบคุมเวลาอื่นๆ เช่น ม้วนคัมภีร์ย้อนเวลา นาฬิกาจะสูญเสียชาร์จที่เหลือทั้งหมดเมื่อใดก็ตามที่คุณใช้ยาหรือม้วนคัมภีร์ที่ไม่ปรากฏ, สวมใส่ไอเทมต้องสาป, เหยียบกับดัก หรือใช้กุญแจเงิน\n\nการกระทำทั้งหมดใน Ricave เป็นแบบกำหนดไว้แล้ว ซึ่งหมายความว่าหลังจากย้อนเวลา ทุกอย่างจะเกิดขึ้นเหมือนเดิมทุกประการหากคุณทำการเคลื่อนไหวแบบเดิมอีกครั้ง รวมถึงการสร้างความเสียหายเท่าเดิมและการตัดสินใจของศัตรูแบบเดิม การย้อนเวลาเพียงเพื่อหวังผลความเสียหายที่สูงขึ้นนั้นใช้ไม่ได้ผล</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>จะเติมใหม่ใน: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>ละอองดาวสามารถพบได้ในที่ต่างๆ ในดันเจี้ยน หรืออาจได้รับเป็นรางวัลจากการทำเควสสำเร็จ คุณสามารถใช้ละอองดาวได้ที่ล็อบบี้</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>รวบรวมชิ้นส่วนปริศนาทั้งหมด {0} ชิ้นเพื่อปลดล็อกห้องพิเศษในล็อบบี้ มีชิ้นส่วนปริศนาหนึ่งชิ้นในแต่ละชั้นของดันเจี้ยน และคุณสามารถหาได้เพียงชิ้นเดียวต่อการเล่นหนึ่งครั้ง</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>ชิ้นส่วนปริศนาชิ้นถัดไปอยู่ที่ชั้น: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>ระยะ: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>ระยะประชิด</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>คุณอยู่ในระยะ</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>คุณอยู่นอกระยะ</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>เก็บวัตถุที่วางไว้ในห้องส่วนตัวของคุณ</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>คุณกำลังหันหน้าไปทาง {0}\n\nเคลื่อนที่ด้วย "[MoveForward][RotateLeft][MoveBack][RotateRight]"\nเดินข้างด้วย "[MoveLeft]" และ "[MoveRight]"\nขึ้นและลงด้วย "[Fly]+[MoveForward]" และ "[Fly]+[MoveBack]" หากตัวละครของคุณบินได้</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>จะได้รับความเสียหายใน {0}</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>จะได้รับ HP ใน {0}</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>จะได้รับค่าความทนทานใน {0}</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>จะได้รับมานาใน {0}</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>การฟื้นฟูค่าความทนทานถูกปิดใช้งานเนื่องจากตัวละครนี้ไม่ได้สัมผัสพื้น</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>การฟื้นฟูค่าความทนทานถูกปิดใช้งานเนื่องจากคุณไม่ได้สัมผัสพื้น</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>คูลดาวน์: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>เหลืออีก {0}</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>ปลดล็อก {0} ก่อน</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>คุณไม่มีแต้มทักษะ</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>คลิกเพื่อปลดล็อก</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>กดปุ่มปฏิสัมพันธ์เพื่อปลดล็อก</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>ผล</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>ประตูทุกบานเปิดแล้วและทุกคนตื่นขึ้นมา คุณต้องหนีเดี๋ยวนี้!\n\nนอกจากนี้ หนูจะเกิดเป็นสองเท่า</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>โรโกะจะเก็บเหรียญทองในช่องที่อยู่ติดกันให้คุณทุกครั้งที่คุณเคลื่อนที่</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>เคล็ดลับ: คุณสามารถตรวจสอบสถิติทั่วไปได้ในโคเด็กซ์</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>จัดเรียงไอเทมในช่องเก็บของ</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>ถอด</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>สวมใส่</Equip> <!-- <En>Equip</En> -->
+  <Unwear>ถอดออก</Unwear> <!-- <En>Take off</En> -->
+  <Wear>สวม</Wear> <!-- <En>Wear</En> -->
+  <Drop>ทิ้ง</Drop> <!-- <En>Drop</En> -->
+  <Destroy>ทำลาย</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>ผสมกับ {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>มองที่</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>ย้ายไปที่</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>ใช้ {0} กับ</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>มีปฏิสัมพันธ์กับ</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>ปิดใช้งาน</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>ให้ {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>ความตาย</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>ไม่มีที่ว่าง</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>ไอเทมที่สวมใส่อยู่ต้องสาป</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>หรูหรา, ยิ่งใหญ่, ทรงอำนาจ, ทรงพลัง, น่ากลัว, น่าพึงพอใจ, น่าประทับใจ, แข็งแกร่ง, มีเสน่ห์, สวยงาม, น่ารัก, น่าตื่นเต้น, น่าเอ็นดู, ฉลาด, น่าหลงใหล, งุ่มง่าม, อยู่ยงคงกระพัน, เล็ก, ใหญ่, น่าสะพรึง, มีความสุข, เศร้า, พิกล, แปลก, บ้าคลั่ง, น่าตื่นเต้น, สวย, เย้ายวน</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>บัมเบิล, ฮัมเบิล, บีนนี่, เลมอน, การ์เบิล, คลัตเตอร์, กูเบอร์, บลูม, บัมเบอร์, ลอลลี่, ป๊อปเปิล, พอร์ค, รัมเบิล, ดอนเดอร์, ดอนเดิล, ดอปเปิล, บร็อบเบิล, ชิคเก้น, เพอร์เพิล, วิกเกิล, แพรทเทิล, ทวิดเดิล, ดิงเกิล, พลองค์, วอบเบิล, จิงเกิล, ดูเดิล</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>คลัตช์, เวิร์ธ, ยาร์ด, ซัน, บาร์เบิล, มาร์ค, ตัน, บอน, กอน, ฮูฟ, สไตน์, บีน, สแนปเปอร์, บล็อบ, ปู๊ฟ, ลาฟ, บาค, ดอรี่, สนาร์ฟ, ฟล็อป, พล็อป, บูฟ, แบลต, สนาร์ค, บอร์ค</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>วิญญาณแห่ง {0}</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>เสียงหัวเราะ, การเปลี่ยนแปลง, ความหวัง, ความสันโดษ, ความปรองดอง, การตัดสินใจ, ความสุข, ความกลัว, ความโกรธ, ความเศร้า, ความรัก, ความประหลาดใจ, ความขยะแขยง, ความอยากรู้, ความหวัง, ความสิ้นหวัง, ความไว้วางใจ, ความกังขา, ความกล้าหาญ, ความรู้สึกผิด, ความละอาย, ความกตัญญู, ความอิจฉา, ความโล่งใจ, ความเบื่อหน่าย, ความสงบ, การโหยหาอดีต, ความยืดหยุ่น, ความเห็นอกเห็นใจ, การคาดหวัง, ความเสียใจ, ความยำเกรง, ความถ่อมตน, ความคับข้องใจ, การดูถูก</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>ไม่มี</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Enter</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Space</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>ปุ่มเมาส์ซ้าย</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>ปุ่มเมาส์ขวา</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>ปุ่มเมาส์กลาง</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>ปุ่ม Windows</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>ไกซ้าย</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>ไกขวา</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>ปุ่มไหล่ซ้าย</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>ปุ่มไหล่ขวา</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>ปุ่ม Back</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>ปุ่ม Start</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>คลิกแกนอนาล็อกซ้าย</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>คลิกแกนอนาล็อกขวา</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>สังหาร</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>ดับเบิ้ลคิล</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>ทริปเปิ้ลคิล</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>{0} คอมโบสังหาร</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>ชั้นใหม่</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>การทดสอบเสร็จสิ้น</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>สังหาร {0}</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>เช้า</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>กลางวัน</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>เย็น</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>กลางคืน</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>ผู้พิทักษ์</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>นักรบ</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>นักผจญภัย</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>สีแดง</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>สีเขียว</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>สีน้ำเงิน</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>ลีโอ</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>อีฟ</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>ของใช้ทั่วไป</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>ยา</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>ม้วนคัมภีร์</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>อาวุธและอุปกรณ์</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

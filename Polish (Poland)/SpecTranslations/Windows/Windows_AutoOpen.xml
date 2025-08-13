@@ -1,0 +1,27 @@
+<SpecTranslations>
+
+  <Character.label>postać</Character.label> <!-- <En>character</En> -->
+  <Character.description>Wyświetla informacje o twojej postaci.</Character.description> <!-- <En>Shows information about your character.</En> -->
+
+  <Codex.label_2>kodeks</Codex.label_2> <!-- <En>codex</En> -->
+  <Codex.description_2>Wyświetla wszystkie przedmioty i stworzenia, które kiedykolwiek udało ci się zobaczyć.</Codex.description_2> <!-- <En>Shows all items and creatures you have ever seen.</En> -->
+
+  <DungeonMap.label_2>mapa lochu</DungeonMap.label_2> <!-- <En>dungeon map</En> -->
+  <DungeonMap.description_2>Wyświetla mapę tego lochu.</DungeonMap.description_2> <!-- <En>Shows the map of this dungeon.</En> -->
+
+  <Factions.label_2>frakcje</Factions.label_2> <!-- <En>factions</En> -->
+  <Factions.description_2>Wyświetla wszystkie frakcje w tym lochu.</Factions.description_2> <!-- <En>Shows all factions in this dungeon.</En> -->
+
+  <Inventory.label_3>ekwipunek</Inventory.label_3> <!-- <En>inventory</En> -->
+  <Inventory.description_2>Wyświetla przedmioty, które masz w ekwipunku.\n\nPrzeciągnij i upuść, aby zmienić kolejność. Zmiana kolejności przedmiotów nie zajmuje tury, więc możesz to bezpiecznie robić w walce.\n\nEkwipowanie i zdejmowanie przedmiotów jest natychmiastowe, ale inne akcje, takie jak picie lub rzucanie mikstury, zajmują jedną turę.</Inventory.description_2> <!-- <En>Shows items you have in your inventory.\n\nDrag and drop to reorder. Reordering items takes no turn, so you can do it safely in combat.\n\nEquipping and unequipping items is instant, but other actions like drinking or throwing a potion take one turn.</En> -->
+
+  <Quests.label_2>zadania</Quests.label_2> <!-- <En>quests</En> -->
+  <Quests.description_2>Wyświetla wszystkie twoje zadania.</Quests.description_2> <!-- <En>Shows all your quests.</En> -->
+
+  <Quickbar.label>pasek szybkiego dostępu</Quickbar.label> <!-- <En>quickbar</En> -->
+  <Quickbar.description>Dostęp do przedmiotów na pasku szybkiego dostępu można uzyskać, naciskając klawisze numeryczne na klawiaturze.</Quickbar.description> <!-- <En>Items from the quickbar can be accessed by pressing the number keys on your keyboard.</En> -->
+
+  <Skills.label_2>umiejętności</Skills.label_2> <!-- <En>skills</En> -->
+  <Skills.description_2>Wydawaj punkty umiejętności, aby uczyć się nowych umiejętności.</Skills.description_2> <!-- <En>Spend skill points to learn new skills.</En> -->
+
+</SpecTranslations>

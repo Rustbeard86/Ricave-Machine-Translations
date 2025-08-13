@@ -1,0 +1,164 @@
+<SpecTranslations>
+
+  <Berserker.label>เบอร์เซิร์กเกอร์</Berserker.label> <!-- <En>berserker</En> -->
+  <Berserker.description>คุณเพิ่งฆ่าใครบางคนไป คุณจะสร้างและได้รับความเสียหายกายภาพเพิ่มขึ้น 25% เป็นเวลาสั้นๆ</Berserker.description> <!-- <En>You've recently killed someone. You're dealing and receiving 25% more physical damage for a short time.</En> -->
+
+  <Bleeding.label>เลือดออก</Bleeding.label> <!-- <En>bleeding</En> -->
+  <Bleeding.description>ตัวละครนี้กำลังเลือดออกและจะสูญเสียพลังชีวิตไปเรื่อยๆ จนกว่าจะได้รับการพันแผล</Bleeding.description> <!-- <En>This character is bleeding and will keep losing health until they're bandaged.</En> -->
+  <Bleeding.Bleeding>เลือดออก ({0})</Bleeding.Bleeding> <!-- <En>bleeding ({0})</En> -->
+
+  <Blind.label>ตาบอด</Blind.label> <!-- <En>blind</En> -->
+  <Blind.description>ตัวละครนี้สามารถรับรู้ได้เฉพาะวัตถุที่อยู่ติดกันและจะโจมตีพลาด 30%</Blind.description> <!-- <En>This character can only sense adjacent objects and will miss 30% of the time.</En> -->
+
+  <BrokenBone.label>กระดูกหัก</BrokenBone.label> <!-- <En>broken bone</En> -->
+  <BrokenBone.description>ตัวละครนี้มีกระดูกหัก ซึ่งทำให้สร้างความเสียหายกายภาพได้น้อยลง</BrokenBone.description> <!-- <En>This character has a broken bone, which makes them deal less physical damage.</En> -->
+  <BrokenBone.ThisCharacterHasABroken>ตัวละครนี้มีกระดูกหัก ซึ่งทำให้สร้างความเสียหายกายภาพน้อยลง {0}</BrokenBone.ThisCharacterHasABroken> <!-- <En>This character has a broken bone, which makes them deal {0} less physical damage.</En> -->
+
+  <Burning.label>ลุกไหม้</Burning.label> <!-- <En>burning</En> -->
+  <Burning.description>ตัวละครนี้กำลังลุกไหม้ ซึ่งหมายความว่าเขาจะสูญเสียพลังชีวิตจำนวนหนึ่งในทุกๆ เทิร์น</Burning.description> <!-- <En>This character is burning, which means he'll lose a certain number of hit points every turn.</En> -->
+  <Burning.Burning>ลุกไหม้ ({0})</Burning.Burning> <!-- <En>burning ({0})</En> -->
+
+  <CritChanceFactor.label>โอกาสคริติคอลเปลี่ยนแปลง</CritChanceFactor.label> <!-- <En>critical hit chance changed</En> -->
+  <CritChanceFactor.description>ส่งผลต่อโอกาสในการโจมตีคริติคอลของตัวละครนี้</CritChanceFactor.description> <!-- <En>Affects the chance of a critical hit dealt by this character.</En> -->
+  <CritChanceFactor.CriticalHitChance>โอกาสคริติคอล: {0}</CritChanceFactor.CriticalHitChance> <!-- <En>critical hit chance: {0}</En> -->
+
+  <DamageOverTime.label>สูญเสียพลังชีวิต</DamageOverTime.label> <!-- <En>losing health</En> -->
+  <DamageOverTime.description>ตัวละครนี้กำลังสูญเสียพลังชีวิต</DamageOverTime.description> <!-- <En>This character is losing health.</En> -->
+  <DamageOverTime.LosingHealth>สูญเสียพลังชีวิต ({0})</DamageOverTime.LosingHealth> <!-- <En>losing health ({0})</En> -->
+
+  <DealtDamageFactor.label>ตัวคูณความเสียหายที่สร้าง</DealtDamageFactor.label> <!-- <En>dealt damage factor</En> -->
+  <DealtDamageFactor.description>ความเสียหายที่สร้างโดยตัวละครนี้ถูกเปลี่ยนแปลงโดยตัวคูณนี้</DealtDamageFactor.description> <!-- <En>The damage dealt by this character is changed by this factor.</En> -->
+  <DealtDamageFactor.DealtDamage>สร้างความเสียหาย {1}: {0}</DealtDamageFactor.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <DealtDamageOffset.label>ค่าชดเชยความเสียหายที่สร้าง</DealtDamageOffset.label> <!-- <En>dealt damage offset</En> -->
+  <DealtDamageOffset.description>ค่านี้จะถูกบวก (หรือลบ) เข้ากับความเสียหายที่สร้างโดยตัวละครนี้ หากค่านี้เป็นช่วง จะมีการสุ่มค่าจากช่วงนั้นมาใช้</DealtDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage dealt by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <DealtDamageOffset.DealtDamage>สร้างความเสียหาย {1}: {0}</DealtDamageOffset.DealtDamage> <!-- <En>dealt {1} damage: {0}</En> -->
+
+  <Disease.label>โรคภัย</Disease.label> <!-- <En>disease</En> -->
+  <Disease.description>ตัวละครนี้ติดโรค ซึ่งขัดขวางการฟื้นฟูพลังชีวิตตามธรรมชาติและทำให้ไม่สามารถบินได้</Disease.description> <!-- <En>This character has a disease, which prevents natural healing and makes him unable to fly.</En> -->
+
+  <Drunk.label>เมา</Drunk.label> <!-- <En>drunk</En> -->
+  <Drunk.description>ตัวละครนี้กำลังเมา ซึ่งหมายความว่าพวกเขาจะเคลื่อนที่ไปในทิศทางแบบสุ่มในทุกๆ เทิร์น และไม่สามารถทำสิ่งอื่นใดได้ในสถานะนี้</Drunk.description> <!-- <En>This character is drunk, which means they'll move in a random direction every turn. They can't do anything else in this state.</En> -->
+
+  <Entangled.label>ถูกพันธนาการ</Entangled.label> <!-- <En>entangled</En> -->
+  <Entangled.description>ตัวละครนี้ถูกพันธนาการ ซึ่งหมายความว่าเขาไม่สามารถเคลื่อนที่ได้ แต่ยังคงสามารถโจมตีจากตำแหน่งปัจจุบันได้</Entangled.description> <!-- <En>This character is entangled, which means he can't move. However, he can still attack from his current position.</En> -->
+
+  <Frozen.label>แช่แข็ง</Frozen.label> <!-- <En>frozen</En> -->
+  <Frozen.description>ตัวละครนี้ถูกแช่แข็ง ซึ่งหมายความว่าพวกเขาไม่สามารถทำอะไรได้นอกจากรอขณะที่อยู่ในสถานะนี้</Frozen.description> <!-- <En>This character is frozen, which means they can't do anything other than wait while they're in this state.</En> -->
+
+  <HPRegen.label>ฟื้นฟูพลังชีวิต</HPRegen.label> <!-- <En>health regeneration</En> -->
+  <HPRegen.description>พลังชีวิตของตัวละครนี้จะฟื้นฟูโดยอัตโนมัติตามเวลา</HPRegen.description> <!-- <En>This character's health regenerates automatically over time.</En> -->
+  <HPRegen.HealthRegeneration>ฟื้นฟูพลังชีวิต ({0})</HPRegen.HealthRegeneration> <!-- <En>health regeneration ({0})</En> -->
+
+  <HungerRateMultiplier.label>อัตราความหิว</HungerRateMultiplier.label> <!-- <En>hunger rate</En> -->
+  <HungerRateMultiplier.description>ส่งผลต่อความเร็วที่ตัวละครนี้จะหิว</HungerRateMultiplier.description> <!-- <En>Affects how fast this character gets hungry.</En> -->
+
+  <Hungry.label>หิว</Hungry.label> <!-- <En>hungry</En> -->
+  <Hungry.description>คุณกำลังหิวและต้องการกินอะไรบางอย่าง สถานะนี้จะหยุดการฟื้นฟูพลังชีวิตและการระบุไอเทม</Hungry.description> <!-- <En>You are hungry and need to eat something. This stops health regeneration and item identification.</En> -->
+
+  <IdentificationRateMultiplier.label>อัตราการระบุ</IdentificationRateMultiplier.label> <!-- <En>identification rate</En> -->
+  <IdentificationRateMultiplier.description>ส่งผลต่อความเร็วที่ตัวละครนี้ระบุไอเทม</IdentificationRateMultiplier.description> <!-- <En>Affects how fast this character identifies items.</En> -->
+  <IdentificationRateMultiplier.IdentificationRate>อัตราการระบุ: {0}</IdentificationRateMultiplier.IdentificationRate> <!-- <En>identification rate: {0}</En> -->
+
+  <ImmuneToDisease.label>ภูมิคุ้มกันโรค</ImmuneToDisease.label> <!-- <En>immune to disease</En> -->
+  <ImmuneToDisease.description>ตัวละครนี้มีภูมิคุ้มกันต่อโรคภัย</ImmuneToDisease.description> <!-- <En>This character is immune to disease.</En> -->
+
+  <ImmuneToFire.label>ภูมิคุ้มกันไฟ</ImmuneToFire.label> <!-- <En>immune to fire</En> -->
+  <ImmuneToFire.description>ตัวละครนี้มีภูมิคุ้มกันต่อไฟ</ImmuneToFire.description> <!-- <En>This character is immune to fire.</En> -->
+
+  <ImmuneToPoison.label>ภูมิคุ้มกันพิษ</ImmuneToPoison.label> <!-- <En>immune to poison</En> -->
+  <ImmuneToPoison.description>ตัวละครนี้มีภูมิคุ้มกันต่อพิษ</ImmuneToPoison.description> <!-- <En>This character is immune to poison.</En> -->
+
+  <IncomingDamageFactor.label>เกราะ</IncomingDamageFactor.label> <!-- <En>armor</En> -->
+  <IncomingDamageFactor.description>ตัวคูณสำหรับความเสียหายที่ตัวละครนี้ได้รับ หากค่ามากกว่า 1 จะเป็นจุดอ่อน หากค่าเป็น 0 จะเป็นภูมิคุ้มกัน</IncomingDamageFactor.description> <!-- <En>Factor for the damage taken by this character. If the value is greater than 1, then it's a vulnerability. If the value is 0, then it's an immunity.</En> -->
+  <IncomingDamageFactor.ReceivedDamage>ได้รับความเสียหาย {1}: {0}</IncomingDamageFactor.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <IncomingDamageOffset.label>เกราะ</IncomingDamageOffset.label> <!-- <En>armor</En> -->
+  <IncomingDamageOffset.description>ค่านี้จะถูกบวก (หรือลบ) เข้ากับความเสียหายที่ตัวละครนี้ได้รับ หากค่านี้เป็นช่วง จะมีการสุ่มค่าจากช่วงนั้นมาใช้</IncomingDamageOffset.description> <!-- <En>This value is added (or subtracted) to the damage taken by this character. If this value is a range, then a random value from the range is used.</En> -->
+  <IncomingDamageOffset.ReceivedDamage>ได้รับความเสียหาย {1}: {0}</IncomingDamageOffset.ReceivedDamage> <!-- <En>received {1} damage: {0}</En> -->
+
+  <InvertHostile.label>เป็นศัตรูกับพันธมิตร</InvertHostile.label> <!-- <En>hostile towards allies</En> -->
+  <InvertHostile.description>ตัวละครนี้อยู่ในสถานะคลุ้มคลั่งและจะโจมตีพันธมิตรปกติของเขา</InvertHostile.description> <!-- <En>This character is in a berserk state and will attack his usual allies.</En> -->
+
+  <Levitating.label>สามารถบินได้</Levitating.label> <!-- <En>can fly</En> -->
+  <Levitating.description>ตัวละครนี้สามารถบินได้ ตัวละครที่บินได้สามารถเคลื่อนที่ขึ้นและลงได้โดยตรง</Levitating.description> <!-- <En>This character can fly. Flying characters can move directly up and down.</En> -->
+
+  <ManaRegen.label>ฟื้นฟูมานา</ManaRegen.label> <!-- <En>mana regeneration</En> -->
+  <ManaRegen.description>มานาของตัวละครนี้จะฟื้นฟูโดยอัตโนมัติตามเวลา</ManaRegen.description> <!-- <En>This character's mana regenerates automatically over time.</En> -->
+  <ManaRegen.ManaRegeneration>ฟื้นฟูมานา ({0})</ManaRegen.ManaRegeneration> <!-- <En>mana regeneration ({0})</En> -->
+
+  <MaxHPFactor.label>HP สูงสุดเปลี่ยนแปลง</MaxHPFactor.label> <!-- <En>max HP changed</En> -->
+  <MaxHPFactor.description>ส่งผลต่อจำนวนพลังชีวิตสูงสุดที่ตัวละครนี้สามารถมีได้</MaxHPFactor.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPFactor.MaxHP>HP สูงสุด: {0}</MaxHPFactor.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxHPOffset.label>HP สูงสุดเปลี่ยนแปลง</MaxHPOffset.label> <!-- <En>max HP changed</En> -->
+  <MaxHPOffset.description>ส่งผลต่อจำนวนพลังชีวิตสูงสุดที่ตัวละครนี้สามารถมีได้</MaxHPOffset.description> <!-- <En>Affects the maximum number of hit points this character can have.</En> -->
+  <MaxHPOffset.MaxHP>HP สูงสุด: {0}</MaxHPOffset.MaxHP> <!-- <En>max HP: {0}</En> -->
+
+  <MaxManaOffset.label>มานาสูงสุดเปลี่ยนแปลง</MaxManaOffset.label> <!-- <En>max mana changed</En> -->
+  <MaxManaOffset.description>ส่งผลต่อจำนวนมานาสูงสุดที่ตัวละครนี้สามารถมีได้</MaxManaOffset.description> <!-- <En>Affects the maximum number of mana points this character can have.</En> -->
+  <MaxManaOffset.MaxMana>มานาสูงสุด: {0}</MaxManaOffset.MaxMana> <!-- <En>max mana: {0}</En> -->
+
+  <MaxStaminaOffset.label>สตามินาสูงสุดเปลี่ยนแปลง</MaxStaminaOffset.label> <!-- <En>max stamina changed</En> -->
+  <MaxStaminaOffset.description>ส่งผลต่อจำนวนสตามินาสูงสุดที่ตัวละครนี้สามารถมีได้</MaxStaminaOffset.description> <!-- <En>Affects the maximum number of stamina points this character can have.</En> -->
+  <MaxStaminaOffset.MaxStamina>สตามินาสูงสุด: {0}</MaxStaminaOffset.MaxStamina> <!-- <En>max stamina: {0}</En> -->
+
+  <MissChanceFactor.label>โอกาสพลาดเป้าเปลี่ยนแปลง</MissChanceFactor.label> <!-- <En>miss chance changed</En> -->
+  <MissChanceFactor.description>ส่งผลต่อโอกาสที่จะโจมตีพลาดเป้าของตัวละครนี้</MissChanceFactor.description> <!-- <En>Affects the chance of a miss when this character attacks.</En> -->
+  <MissChanceFactor.MissChance>โอกาสพลาดเป้า: {0}</MissChanceFactor.MissChance> <!-- <En>miss chance: {0}</En> -->
+
+  <Panic.label>ตื่นตระหนก</Panic.label> <!-- <En>panic</En> -->
+  <Panic.description>ตัวละครนี้อยู่ในภาวะตื่นตระหนกและจะเคลื่อนที่หนีจากศัตรูที่ใกล้ที่สุดในทุกๆ เทิร์น และไม่สามารถทำสิ่งอื่นใดได้ในสถานะนี้</Panic.description> <!-- <En>This character is in a panic and will move away from the closest enemy each turn. They can't do anything else in this state.</En> -->
+
+  <Poisoned.label>ติดพิษ</Poisoned.label> <!-- <En>poisoned</En> -->
+  <Poisoned.description>ตัวละครนี้ติดพิษ ซึ่งหมายความว่าพวกเขาจะสูญเสียพลังชีวิตจำนวนหนึ่งในทุกๆ เทิร์นหรือทุกสองสามเทิร์น</Poisoned.description> <!-- <En>This character is poisoned, which means they'll lose a certain number of hit points every turn or every couple of turns.</En> -->
+  <Poisoned.Poisoned>ติดพิษ ({0})</Poisoned.Poisoned> <!-- <En>poisoned ({0})</En> -->
+
+  <SeeRangeCap.label>ระยะการมองเห็น</SeeRangeCap.label> <!-- <En>vision range</En> -->
+  <SeeRangeCap.description>ส่งผลต่อระยะทางสูงสุดที่ตัวละครนี้สามารถมองเห็นวัตถุและตัวละครอื่นๆ ได้</SeeRangeCap.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeCap.VisionRangeMax>ระยะการมองเห็น: สูงสุด {0}</SeeRangeCap.VisionRangeMax> <!-- <En>vision range: Max {0}</En> -->
+
+  <SeeRangeOffset.label>ระยะการมองเห็น</SeeRangeOffset.label> <!-- <En>vision range</En> -->
+  <SeeRangeOffset.description>ส่งผลต่อระยะทางสูงสุดที่ตัวละครนี้สามารถมองเห็นวัตถุและตัวละครอื่นๆ ได้</SeeRangeOffset.description> <!-- <En>Affects the maximum distance at which this character can see other objects and characters.</En> -->
+  <SeeRangeOffset.VisionRange>ระยะการมองเห็น: {0}</SeeRangeOffset.VisionRange> <!-- <En>vision range: {0}</En> -->
+
+  <SequencePerTurnMultiplier.label>เปลี่ยนความถี่ในการกระทำของตัวละคร</SequencePerTurnMultiplier.label> <!-- <En>change how often this character acts</En> -->
+  <SequencePerTurnMultiplier.description>ส่งผลต่อจำนวนการเคลื่อนไหวที่อนุญาตต่อเทิร์นสำหรับตัวละครนี้</SequencePerTurnMultiplier.description> <!-- <En>Affects the number of allowed moves per turn for this character.</En> -->
+
+  <Shield.label>ไม่สามารถสร้างความเสียหายใดๆ แก่คุณได้</Shield.label> <!-- <En>can't deal any damage to you</En> -->
+  <Shield.description>คุณได้รับการป้องกันจากการโจมตีของตัวละครนี้จนถึงเทิร์นถัดไป อย่างไรก็ตาม หากคุณสร้างความเสียหายใดๆ แก่ตัวละครนี้ ผลของสถานะจะถูกลบออก โปรดทราบว่าการร่ายคาถาที่ไม่เป็นอันตรายสามารถทำได้</Shield.description> <!-- <En>You are protected from this character's attacks until the next turn. However, if you deal any damage to this character, the effect will be removed. Note that casting harmless spells is fine.</En> -->
+
+  <Sleeping.label>หลับใหล</Sleeping.label> <!-- <En>sleeping</En> -->
+  <Sleeping.description>ตัวละครนี้กำลังหลับใหล เขาจะตื่นขึ้นเมื่อมีคนเข้าใกล้หรือถูกรบกวน</Sleeping.description> <!-- <En>This character is sleeping. He'll wake up when approached or disturbed.</En> -->
+
+  <SpawnOnMove.label>ทิ้งร่องรอย</SpawnOnMove.label> <!-- <En>leaves trail</En> -->
+  <SpawnOnMove.description>ตัวละครนี้จะทิ้งร่องรอยไว้ทุกครั้งที่เคลื่อนที่</SpawnOnMove.description> <!-- <En>This character leaves a trail whenever he moves.</En> -->
+  <SpawnOnMove.LeavesTrailOf>ทิ้งร่องรอยของ {0}</SpawnOnMove.LeavesTrailOf> <!-- <En>leaves trail of {0}</En> -->
+
+  <StaminaRegen.label>ฟื้นฟูสตามินา</StaminaRegen.label> <!-- <En>stamina regeneration</En> -->
+  <StaminaRegen.description>สตามินาของตัวละครนี้จะฟื้นฟูโดยอัตโนมัติตามเวลา</StaminaRegen.description> <!-- <En>This character's stamina regenerates automatically over time.</En> -->
+  <StaminaRegen.StaminaRegeneration>ฟื้นฟูสตามินา ({0})</StaminaRegen.StaminaRegeneration> <!-- <En>stamina regeneration ({0})</En> -->
+
+  <Starving.label>อดอยาก</Starving.label> <!-- <En>starving</En> -->
+  <Starving.description>คุณกำลังอดอยากและต้องการกินอะไรบางอย่าง นอกเหนือจากการไม่ฟื้นฟูพลังชีวิตและไม่ระบุไอเทมแล้ว การฟื้นฟูสตามินาของคุณจะหยุดลงและคุณจะค่อยๆ สูญเสียพลังชีวิตไปตามเวลา บทลงโทษจากความหิวจะไม่รุนแรงไปกว่านี้แล้ว</Starving.description> <!-- <En>You are starving and need to eat something. In addition to not regenerating health and not identifying items, your stamina regeneration is stopped and you slowly lose health over time. The penalties from hunger won't progress any further than this.</En> -->
+  <Starving.Starving>อดอยาก ({0})</Starving.Starving> <!-- <En>starving ({0})</En> -->
+
+  <TrialOfCrippling.label>บททดสอบแห่งการทำลายล้าง</TrialOfCrippling.label> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description>บททดสอบแห่งการทำลายล้างกำลังดำเนินอยู่สำหรับตัวละครนี้ เขาต้องทำลายชิ้นส่วนร่างกายตามจำนวนที่กำหนดในเวลาอันสั้นเพื่อทำภารกิจให้สำเร็จและรับรางวัล</TrialOfCrippling.description> <!-- <En>Trial of Crippling is in progress for this character. He must destroy a certain number of body parts in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfCrippling.TrialOfCrippling>บททดสอบแห่งการทำลายล้าง ({0} / {1})</TrialOfCrippling.TrialOfCrippling> <!-- <En>Trial of Crippling ({0} / {1})</En> -->
+  <TrialOfCrippling.TrialOfCripplingIsIn>บททดสอบแห่งการทำลายล้างกำลังดำเนินอยู่สำหรับตัวละครนี้ เขาต้องทำลายชิ้นส่วนร่างกาย {0} ชิ้นภายใน {1} เทิร์นเพื่อทำภารกิจให้สำเร็จและรับรางวัล</TrialOfCrippling.TrialOfCripplingIsIn> <!-- <En>Trial of Crippling is in progress for this character. He must destroy {0} body parts within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfSwiftKiller.label>บททดสอบของนักฆ่าผู้รวดเร็ว</TrialOfSwiftKiller.label> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description>บททดสอบของนักฆ่าผู้รวดเร็วกำลังดำเนินอยู่สำหรับตัวละครนี้ เขาต้องสังหารศัตรูที่คู่ควรตามจำนวนที่กำหนดในเวลาอันสั้นเพื่อทำภารกิจให้สำเร็จและรับรางวัล</TrialOfSwiftKiller.description> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill a certain number of worthy enemies in a short time to complete the challenge and receive a reward.</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKiller>บททดสอบของนักฆ่าผู้รวดเร็ว ({0} / {1})</TrialOfSwiftKiller.TrialOfSwiftKiller> <!-- <En>Trial of Swift Killer ({0} / {1})</En> -->
+  <TrialOfSwiftKiller.TrialOfSwiftKillerIs>บททดสอบของนักฆ่าผู้รวดเร็วกำลังดำเนินอยู่สำหรับตัวละครนี้ เขาต้องสังหารศัตรูที่คู่ควร {0} ตัวภายใน {1} เทิร์นเพื่อทำภารกิจให้สำเร็จและรับรางวัล</TrialOfSwiftKiller.TrialOfSwiftKillerIs> <!-- <En>Trial of Swift Killer is in progress for this character. He must kill {0} worthy enemies within {1} turns to complete the challenge and receive a reward.</En> -->
+
+  <TrialOfUnblemished.label>บททดสอบแห่งความไร้ตำหนิ</TrialOfUnblemished.label> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description>บททดสอบแห่งความไร้ตำหนิกำลังดำเนินอยู่สำหรับตัวละครนี้ เขาต้องสังหารศัตรูที่คู่ควรตามจำนวนที่กำหนดโดยไม่สูญเสียพลังชีวิตเลยเพื่อทำภารกิจให้สำเร็จและรับรางวัล</TrialOfUnblemished.description> <!-- <En>Trial of Unblemished is in progress for this character. He must kill a certain number of worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+  <TrialOfUnblemished.TrialOfUnblemished>บททดสอบแห่งความไร้ตำหนิ ({0} / {1})</TrialOfUnblemished.TrialOfUnblemished> <!-- <En>Trial of Unblemished ({0} / {1})</En> -->
+  <TrialOfUnblemished.TrialOfUnblemishedIs>บททดสอบแห่งความไร้ตำหนิกำลังดำเนินอยู่สำหรับตัวละครนี้ เขาต้องสังหารศัตรูที่คู่ควร {0} ตัวโดยไม่สูญเสียพลังชีวิตเลยเพื่อทำภารกิจให้สำเร็จและรับรางวัล</TrialOfUnblemished.TrialOfUnblemishedIs> <!-- <En>Trial of Unblemished is in progress for this character. He must kill {0} worthy enemies without losing any hit points to complete the challenge and receive a reward.</En> -->
+
+  <Wet.label>เปียก</Wet.label> <!-- <En>wet</En> -->
+  <Wet.description>ตัวละครนี้เปียก ซึ่งทำให้มีความต้านทานความเสียหายจากไฟ 50% แต่ก็ทำให้การฟื้นฟูสตามินาตามธรรมชาติช้าลงสองเท่า</Wet.description> <!-- <En>This character is wet, which gives them 50% fire damage resistance, but also makes stamina naturally regenerate twice as slow.</En> -->
+
+</SpecTranslations>

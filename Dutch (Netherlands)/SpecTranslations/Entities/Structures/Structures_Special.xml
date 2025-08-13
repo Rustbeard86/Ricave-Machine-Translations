@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>oude container</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Deze container kan alleen geopend worden met 3 oude mechanismen. Ze zouden allemaal ergens op deze verdieping moeten zijn.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Je ziet een oude container voor je.\n\nDeze kan alleen geopend worden met 3 oude mechanismen.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Openen</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>oud apparaat</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>Een soort oud apparaat dat je kunt onderzoeken. Als je ze alle drie onderzoekt, kun je het ontgrendelen en een beloning krijgen.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>bassin met tegengif</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>Een klein bassin gevuld met een tegengif voor vergif. Je kunt hier de vergiftigde status verwijderen in ruil voor wat mana.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Je ziet een bassin met tegengif voor je.\n\nJe kunt hier de vergiftigde status verwijderen in ruil voor wat mana.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>Drinken</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>aambeeld</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Je kunt hier het niveau van je uitrusting upgraden.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Je ziet een aambeeld voor je.\n\nJe kunt hier het niveau van je uitrusting upgraden in ruil voor ijzer.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>bed</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>Een knus bed. Je kunt hier wat gezondheid regenereren, maar er is een kans van 50% dat een vijand je opmerkt.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Je ziet een bed voor je.\n\nJe kunt hier wat gezondheid regenereren, maar er is een kans van 50% dat een vijand je opmerkt.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Slapen</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>grote magneet</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>Elke tweede beurt trekt het iedereen in de buurt naar zich toe.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>boekenkast</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>Een plank met boeken die je een vaardigheidspunt oplevert.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>kooi</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>Een metalen kooi met iets of iemand erin. Je kunt hem alleen openen als er geen baas meer leeft op deze kerkerverdieping.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Je ziet een grote, metalen, roestige kooi voor je.\n\nWil je hem openen?</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Openen</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>kanon</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>Een dodelijke val die iedereen in de vuurlinie zal verwonden. Activeer hem door aan te vallen.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>ketel</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Wissel een willekeurig drankje in voor een willekeurige boekrol.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Je ziet een ketel voor je.\n\nHier kun je een willekeurig drankje inruilen voor een willekeurige boekrol.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>plafondpieken</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>Een dodelijke val die iedereen die eronder staat zal verwonden. Activeer hem door aan te vallen.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>kist</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>Deze kist bevat alles wat je je in je leven maar kunt wensen. Of dat, of een rottend stuk stof en wat stenen.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>duivelsbeeld</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>Een sinister beeld. Accepteert vervloekte voorwerpen in ruil voor beloningen.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>Het duivelsbeeld staart je aan.\n\nAls je een vervloekt voorwerp hebt, kun je het aan het beeld geven voor een beloning.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>drakenresten</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>Een stapel drakenbotten. Hier zou iets verborgen kunnen zijn.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Je ziet wat drakenresten voor je.\n\nAls je wilt, kun je hier zoeken naar een verborgen schat.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Zoeken</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>duplicator</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>Een apparaat dat elk voorwerp kan dupliceren... of kapot kan maken.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Je ziet een duplicator voor je.\n\nVoor 30 goud kun je proberen een voorwerp te dupliceren.\n\nEr is echter een kans van 40% dat het voorwerp in plaats daarvan wordt vernietigd.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>elektronische kluis</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Deze kluis kan alleen worden geopend door ergens anders op een knop te drukken.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>knop</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Deze knop opent ergens een elektronische kluis.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>betoveringstafel</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Betover je uitrusting in ruil voor een kleine donatie.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Je ziet een betoveringstafel voor je.\n\nEr is een muntsleuf onder de tafel en een bordje waarop staat dat een kleine donatie van 170 goudstukken vereist is om door te gaan.\n\nEen willekeurige betovering zal worden toegepast op je wapen of harnas naar keuze.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>fontein</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Drink uit deze fontein voor een mild maar langdurig effect - positief of negatief.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Je ziet een fontein voor je.\n\nErvan drinken heeft een mild maar langdurig magisch effect.\n\nJe kunt er wat gouden munten in gooien voor geluk.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>Drinken</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Levensfontein</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Drinken uit deze fontein zal je volledig genezen, al je mana, uithoudingsvermogen en gevoede status herstellen, en een kortdurende immuniteit tegen vergif bieden.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Je ziet een Levensfontein voor je.\n\nDrinken uit deze fontein zal je volledig genezen, al je mana, uithoudingsvermogen en gevoede status herstellen en een kortdurende immuniteit tegen vergif bieden.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>Drinken</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>goktafel</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Zet wat geld in als je geluk hebt.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Je ziet een goktafel voor je.\n\nJe kunt wat geld inzetten als je geluk hebt en je hebt een 50/50 kans om het dubbele te winnen of te verliezen.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>vergulde kluis</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>Deze kluis heeft een muntsleuf. Je kunt hem openen door 50 goud in te werpen.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Je ziet een vergulde kluis voor je.\n\nJe kunt hem openen door 50 goud in te werpen.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Openen</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>graf</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Graaf om naar een verborgen schat te zoeken.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Je ziet een graf voor je.\n\nEr ligt hier zeker iets begraven.\n\nJe kunt het graf opgraven of het met rust laten. Wie weet wat je hier zult vinden.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Graven</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>groene kist</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Deze kist kan alleen geopend worden met 3 groene sleutelfragmenten. Meestal dragen vijanden die bij zich.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Je ziet een groene kist voor je.\n\nDeze kan alleen geopend worden met 3 groene sleutelfragmenten.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Openen</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>hangende kooi</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>Een metalen kooi met iets of iemand erin. Je kunt hem alleen openen als er geen baas meer leeft op deze kerkerverdieping.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Je ziet een grote, metalen, roestige kooi voor je.\n\nWil je hem openen?</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Openen</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>genezingskristal</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Geneest al je levenspunten.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>genezingsplant</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>Een plant met ongebruikelijke genezende eigenschappen. Je kunt er een gezondheidsdrankje van maken.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>hendel</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Opent alle poorten en alarmeert iedereen op de verdieping. Trek er alleen aan als je klaar bent om te ontsnappen!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Wil je aan de hendel trekken?\n\nHet opent alle poorten, maar alle vijanden worden wakker.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Trekken</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>ledematen offeraltaar</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Je kunt hier je ledemaat opofferen in ruil voor een willekeurige beloning.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Je ziet een ledematen offeraltaar voor je.\n\nHier kun je je ledemaat opofferen in ruil voor een willekeurige beloning.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Ledemaat offeren</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>manakristal</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Herstelt al je mana, zodat je je spreuken weer kunt gebruiken.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>manaplant</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>Een plant met ongebruikelijke magische eigenschappen. Je kunt er een manadrankje van maken.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>metalen kist</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>Een metalen kist. Kan iets nuttigs bevatten.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>fantoomaltaar</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Roep een dodelijk Fantoom op. Krijg een bonus op toegebrachte fysieke schade in ruil voor verminderd zicht.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>Je ziet een fantoomaltaar voor je.\n\nHier kun je een dodelijk Fantoom oproepen, waardoor je +25% op toegebrachte fysieke schade krijgt.\n\nBovendien wordt je gezichtsveld voor 25 beurten ingesteld op 1.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Oproepen</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>portaal</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>Het teleporteert je naar een willekeurige locatie op de kaart. Echter, wanneer je het opnieuw gebruikt, brengt het je altijd naar dezelfde locatie.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>nabijheidsbom</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Deze bom heeft een nabijheidssensor en explodeert na een paar beurten wanneer je nadert.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>nabijheidsvuurbom</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Deze vuurbom heeft een nabijheidssensor en explodeert na een paar beurten wanneer je nadert.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>nabijheidsrookbom</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Deze rookbom heeft een nabijheidssensor en explodeert na een paar beurten wanneer je nadert.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>rattennest</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Een nest vol ratten. Ratten komen er niet uit, tenzij ze worden gestoord. Je kunt het doorzoeken voor een verborgen schat.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Je ziet een rattennest voor je.\n\nAls je wilt, kun je hier zoeken naar een verborgen schat.\n\nMaar als je dat doet, zullen er ratten uit dit nest komen.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Zoeken</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>schrijn van de schurk</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Krijg voor een tijdje meer uithoudingsvermogen, een beter gezichtsveld en weerstand tegen vuurschade voor een kleine donatie.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Je ziet een schrijn van de schurk voor je.\n\nKrijg meer uithoudingsvermogen, een beter gezichtsveld en weerstand tegen vuurschade voor een kleine donatie.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Doorgaan</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>eindportaal</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>Een helder portaal. Dit is het einde.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>offeraltaar</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Offer twee waardige tegenstanders op dit altaar om een beloning te krijgen.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>kluis</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>Het kan iets waardevols bevatten, maar het vernietigen ervan kan lastig zijn. Misschien met wat explosieven?</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>winkel</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Niets is beter dan een vers geperste sinaasappelsap... ik bedoel, krachtdrankje.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>schrijn</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Ontvang een zegen, gratis!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Je ziet een schrijn voor je.\n\nHier kun je een zegen ontvangen.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Doorgaan</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>zilveren kist</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Het ziet ernaar uit dat het iets waardevols kan bevatten. Je hebt een zilveren sleutel nodig om het te openen.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Je ziet een zilveren kist voor je.\n\nDeze kan alleen worden geopend met een zilveren sleutel.\n\nLet op: er kunnen meer gesloten kisten zijn dan beschikbare sleutels, dus besteed je sleutels verstandig.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Openen</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>skeletresten</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>Een stapel botten. Hier zou iets verborgen kunnen zijn.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Je ziet wat skeletresten voor je.\n\nAls je wilt, kun je hier zoeken naar een verborgen schat.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Zoeken</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>klein genezingskristal</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>Geneest 50% van je maximale levenspunten.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>klein manakristal</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>Herstelt 50% van je maximale mana.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>trap</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>Een trap die leidt naar het lagere niveau van deze kerker.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Wil je de trap afgaan naar het lagere niveau van de kerker?\n\nJe zult niet meer terug kunnen komen.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Doorgaan</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>trap naar de lobby</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>Een trap die terugleidt naar de lobby. Dit beëindigt je huidige sessie, maar je behoudt wat ervaring en goud voor je volgende. Ook verlies je de eenmalige bonussen die je in de lobby hebt gekocht niet.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Wil je terug naar de lobby?\n\nDit beëindigt je huidige sessie, maar je behoudt 25% ervaring en 50% goud voor je volgende.\nOok verlies je de eenmalige bonussen die je in de lobby hebt gekocht niet.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Doorgaan</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>operatiebed</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>Een autonome operatiemachine die alle ontbrekende lichaamsdelen kan herstellen tegen een kleine betaling.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Je ziet een autonome chirurgische machine voor je.\n\nEr is een muntsleuf eronder en een bord waarop staat dat de machine voor 150 goudstukken al je ontbrekende lichaamsdelen kan herstellen.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>Betaal 150 goud</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>tijdmachine</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Reis terug in de tijd.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Je ziet een tijdmachine voor je.\n\nDoor hem te gebruiken reis je terug in de tijd.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Gebruik</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>Proef van Verminking</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Vernietig 6 lichaamsdelen binnen 120 beurten om een beloning te ontvangen.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>Je ziet een Proef van Verminking voor je.\n\nVoor wat goud kun je een uitdaging starten om 6 lichaamsdelen te vernietigen binnen 120 beurten.\n\nAls je de uitdaging voltooit, ontvang je een beloning.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>Betaal 20 goud</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>Proef van de Snelle Doder</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Dood 4 waardige (ervaring gevende) vijanden binnen 100 beurten om een beloning te ontvangen.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>Je ziet een Proef van de Snelle Doder voor je.\n\nVoor wat goud kun je een uitdaging starten om 4 waardige vijanden te doden binnen 100 beurten.\n\nAls je de uitdaging voltooit, ontvang je een beloning.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>Betaal 20 goud</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>Proef van de Vlekkeloze</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Dood 2 waardige (ervaring gevende) vijanden zonder levenspunten te verliezen om een beloning te ontvangen.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>Je ziet een Proef van de Vlekkeloze voor je.\n\nVoor wat goud kun je een uitdaging starten om 2 waardige vijanden te doden zonder levenspunten te verliezen.\n\nAls je de uitdaging voltooit, ontvang je een beloning.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>Betaal 20 goud</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>upgradebol</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Een bol waarmee je een permanent effect kunt kiezen. Je kunt kiezen tussen extra levenspunten, extra kans op kritieke treffers, lagere miskans en vuurresistentie.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Dit is een upgradebol die permanente effecten geeft voor deze sessie.\n\nJe kunt kiezen tussen extra levenspunten, extra kans op kritieke treffers, lagere miskans en vuurresistentie.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>krijgersschrijn</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>Laat je innerlijke krijger los en bewijs dat je waardig bent. Halveer je max HP in ruil voor 25% hogere fysieke schade voor een bepaalde tijd.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Je ziet een krijgersschrijn voor je.\n\nHalveer je max HP in ruil voor 25% hogere schade gedurende 400 beurten.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Doorgaan</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>wespennest</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Een nest van ongewoon grote wespen.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>tovenaarsschrijn</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Verhoog max mana en krijg magische-schaderesistentie voor een bepaalde tijd in ruil voor een kleine donatie.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Je ziet een tovenaarsschrijn voor je.\n\nVoor 80 goud kun je een zegen ontvangen die je +2 max mana geeft voor 400 beurten en magische-schaderesistentie voor 100 beurten.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>Betaal 80 goud</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

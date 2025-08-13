@@ -1,0 +1,64 @@
+<SpecTranslations>
+
+  <AllIn.label>minden egy lapra</AllIn.label> <!-- <En>all in</En> -->
+  <AllIn.description>Extra képességpontokkal kezdesz, de soha nem szerezhetsz többet.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
+  <AllIn.goodEffects>3 képességponttal kezdesz</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects>Nem szerezhetsz több képességpontot</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+
+  <Angel.label>angyal</Angel.label> <!-- <En>angel</En> -->
+  <Angel.description>Képes leszel repülni és többet sebzel a Démonon, cserébe sebezhetőbb leszel a tűz-, méreg- és mágikus sebzésekre.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
+
+  <Berserker.label_2>berzerker</Berserker.label_2> <!-- <En>berserker</En> -->
+  <Berserker.description_2>Ideiglenesen többet sebzel minden érdemleges ölés után, de sebezhetőbbé is válsz.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
+  <Berserker.goodEffects>25%-kal több fizikai sebzés 6 körig egy érdemleges ölés után</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects>25%-kal több fizikai sebzést szenvedsz el 6 körig egy érdemleges ölés után</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+
+  <BossHunter.label>főnök vadász</BossHunter.label> <!-- <En>boss hunter</En> -->
+  <BossHunter.description>Többet sebzel minden főnökön, de azok ébren kezdenek.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
+  <BossHunter.badEffects>Minden főnök ébren kezd</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+
+  <Bulky.label>termetes</Bulky.label> <!-- <En>bulky</En> -->
+  <Bulky.description>Több maximális ÉP-t kapsz szintenként, cserébe a mozgásod hangosabb lesz.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
+
+  <Explorer.label>felfedező</Explorer.label> <!-- <En>explorer</En> -->
+  <Explorer.description>Extra felszereléssel kezdesz és több aranyat találsz, cserébe csökkentett maximális állóképességgel és manával.</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
+
+  <Giant.label>óriás</Giant.label> <!-- <En>giant</En> -->
+  <Giant.description>Immunissá válsz a lökésre és húzásra, és kapsz egy kis bónuszt a maximális ÉP-dre, cserébe megnövekedett éhség, nagyobb esési sebzés és magasabb árak mellett.</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
+
+  <Insectoid.label>rovarféle</Insectoid.label> <!-- <En>insectoid</En> -->
+  <Insectoid.description>A pókok barátja leszel és kapsz némi méregellenállást, cserébe a vándorok ellenségesek lesznek veled és sebezhető leszel a tűzre.</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
+
+  <LastStand.label>utolsó harc</LastStand.label> <!-- <En>last stand</En> -->
+  <LastStand.description>Többet sebzel alacsony ÉP-n, cserébe lassabb az állóképesség-regenerációd.</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
+
+  <LizardSkin.label>gyíkbőr</LizardSkin.label> <!-- <En>lizard skin</En> -->
+  <LizardSkin.description>Immunitást kapsz méreg, vérzés és csonttörés ellen, és gyorsabban gyógyulsz, cserébe a maximális ÉP-d a felére csökken.</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
+
+  <MoleRat.label>vakondpatkány</MoleRat.label> <!-- <En>mole-rat</En> -->
+  <MoleRat.description>Képes leszel ásni és kapsz némi elemi ellenállást, cserébe kevesebb maximális ÉP-t kapsz szintenként.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
+  <MoleRat.goodEffects>Tudsz ásni lapát nélkül</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+
+  <NightOwl.label>éjjeli bagoly</NightOwl.label> <!-- <En>night owl</En> -->
+  <NightOwl.description>Éjjel jobban látsz, de nappal rosszabbul.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
+  <NightOwl.goodEffects>+1 látótávolság 19:00-tól 7:00-ig</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects>-1 látótávolság 7:00-tól 19:00-ig</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+
+  <Pacifist.label_2>pacifista</Pacifist.label_2> <!-- <En>pacifist</En> -->
+  <Pacifist.description>Minden bolti tárgy ingyenes és kétszer gyorsabban szintet lépsz, de minden érdemleges ölés 1 ÉP-be kerül.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
+
+  <Scary.label>ijesztő</Scary.label> <!-- <En>scary</En> -->
+  <Scary.description>Minden ellenség pánikba esik, ha felébreszted, cserébe magasabbak az árak, a kultuszok ellenségesek veled, és csökken a maximális állóképességed. Továbbá minden szellem követni fog és nem hagynak hátra zsákmányt.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
+  <Scary.goodEffects>Az ellenségek 3 körig pánikba esnek, ha felébreszted őket</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects>A szellemek követnek és nem hagynak hátra zsákmányt</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+
+  <Shaman.label>sámán</Shaman.label> <!-- <En>shaman</En> -->
+  <Shaman.description>Minden érdemleges ölésért egy manapontot kapsz, cserébe kevesebb a tárhelyed.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
+
+  <Vampire.label>vámpír</Vampire.label> <!-- <En>vampire</En> -->
+  <Vampire.description>Visszanyersz egy életerőpontot minden érdemleges ölésért, cserébe nappal kikapcsol az életerő-regeneráció, sebezhető leszel a tűzre, és a kutyák ellenségesek veled.</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
+  <Vampire.badEffects><li>Nincs életerő-regeneráció 7:00-tól 19:00-ig</li><li>-1 látótávolság 7:00-tól 19:00-ig</li><li>Ellenséges a kutyákkal szemben</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <li>-1 vision range from 7:00 to 19:00</li>
+  <li>Hostile to dogs</li></En> -->
+
+</SpecTranslations>

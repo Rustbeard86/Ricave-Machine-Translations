@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>상태 추가</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>대상이 새로운 상태를 얻습니다.</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>대상에게: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>효과 추가</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>대상이 새로운 효과를 얻습니다.</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>효과 추가: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>사슬 기둥에 묶기</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>대상을 사슬 기둥에 묶습니다.</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>문에 빗장 걸기</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>문에 빗장을 겁니다. 빗장이 걸린 문을 통과하는 유일한 방법은 파괴하는 것입니다.</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>실명 섬광</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>현재 당신을 볼 수 있는 모든 이를 실명시킵니다.</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>실명 섬광 {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>땅 파고 숨기</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>땅 속에 숨습니다.</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>물약을 두루마리로 교환</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>아무 물약이나 주고 무작위 두루마리를 받습니다.</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>천장 붕괴</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>다른 지지대가 없으면 천장이 무너집니다.</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>천장 붕괴 ({0} {1} 피해)</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>천장 붕괴 (한 칸)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>이곳의 천장이 무너져 아래에 있는 모두에게 피해를 줍니다.</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>천장 붕괴 (한 칸) ({0} {1} 피해)</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>별가루 수집</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>전리품에서 별가루를 수집합니다.</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>별가루 수집 x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>요리하기</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>음식을 요리합니다.</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>장비 마법 부여 (수정)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>선택한 장비에 마법을 부여합니다.</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>저주받은 아이템 바치기</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>악마 석상에 저주받은 아이템을 바치고 보상을 받습니다.</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>피해 주기</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>대상이 지정된 수치의 체력을 잃습니다 (방어력만큼 감소).</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1} 피해</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>파괴</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>대상이 파괴됩니다.</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>파기</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>흙 같은 것을 팝니다.</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>부서지기 쉬운 물체 파괴</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>벽돌 벽이나 성문처럼 부서지기 쉬운 물체를 파괴합니다.</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>유리 파괴</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>창문이나 유리 바닥처럼 유리로 만들어진 물체를 파괴합니다.</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>채광</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>수정처럼 채광할 수 있는 물체를 캡니다.</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>신체 부위 파괴</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>무작위 신체 부위를 파괴합니다.</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>보상 획득</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>무작위 보상을 받습니다.</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>복제</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>선택한 아이템이 복제되거나 파괴됩니다.</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>복제 ({0} 확률)</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>장비 마법 부여</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>선택한 장비에 무작위 마법을 부여합니다.</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>불 끄기</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>모든 불을 끕니다.</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>먹기</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>허기를 채웁니다.</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>포만감 {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>탐험 종료</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>이번 탐험을 종료하고 로비로 돌아갑니다.</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>물고기 잡기</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>물고기를 잡습니다.</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>스킬 포인트 획득</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>스킬 포인트를 1점 획득합니다.</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>도박하기</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>돈을 걸고 승패를 확인합니다.</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>치료</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>대상이 지정된 수치의 체력을 회복합니다.</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>체력 {0} 회복</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>아이템 감정</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>아이템을 감정합니다.</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>아이템들 감정</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>아이템들을 감정합니다 (지정된 턴만큼의 감정).</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>아이템 감정 {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>소음 내기</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>주어진 반경 내의 잠자는 생물을 깨웁니다.</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>전자 금고 열기</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>어딘가에 있는 전자 금고를 엽니다.</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>지불</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>특정 아이템을 지불해야 합니다.</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>{0} 지불</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>끌어당기기</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>대상을 시전자 쪽으로 끌어당깁니다.</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>끌어당기기 {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>밀기</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>대상을 몇 칸 뒤로 밉니다.</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>밀기 {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>무작위 밀기</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>대상을 무작위 방향으로 밉니다.</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>무작위 밀기 {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>무작위 효과</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>무작위 효과를 적용합니다.</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>아이템 받기</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>사용자에게 아이템이 주어집니다.</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>{0} 받기</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>상태 제거</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>대상에게서 특정 상태가 제거됩니다.</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>{0} 제거</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>저주 해제</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>대상의 소지품에 있는 아이템의 저주를 해제합니다. 장착한 아이템의 저주를 우선적으로 해제합니다.</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>상태 제거</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>대상에게서 특정 상태가 제거됩니다.</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>{0} 제거</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>연구</Research.label> <!-- <En>research</En> -->
+  <Research.description>물체를 연구합니다.</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>시계 충전 초기화</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>시계 충전량이 0으로 초기화되어, 한동안 시간을 되돌릴 수 없게 됩니다.</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>마나 회복</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>대상의 마나가 회복됩니다.</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>마나 {0} 회복</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>잃어버린 신체 부위 복원</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>대상의 잃어버린 모든 신체 부위가 복원됩니다.</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>기력 회복</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>대상의 기력이 회복됩니다.</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>기력 {0} 회복</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>로비로 돌아가기</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>로비로 돌아갑니다. 현재 탐험은 종료되지만, 일부는 유지됩니다.</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>시간 되감기</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>시간을 되돌립니다.</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>되감기 {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>불붙이기</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>가연성 물체에 불을 붙입니다.</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>불붙이기 (체력 {0})</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>영혼 해방</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>영혼을 해방시킵니다.</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>물체 생성</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>근처에 새로운 물체가 나타납니다.</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>{0} 생성</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>무작위 적 생성</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>근처에 무작위 적이 나타납니다.</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>물체 생성</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>근처에 새로운 물체가 나타납니다.</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>{0} 생성</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>훔치기</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>대상에게서 아이템을 훔칩니다.</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>잃어버린 신체 부위 복원</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>대상의 잃어버린 모든 신체 부위가 복원됩니다.</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>순간이동</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>대상이 지정된 위치로 순간이동합니다.</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>무작위 위치로 순간이동</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>대상이 무작위 위치로 순간이동합니다.</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>잠금 해제</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>새로운 아이템, 장소 또는 보너스를 잠금 해제합니다.</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>{0} 잠금 해제</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>레벨 업그레이드</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>아이템의 레벨을 업그레이드합니다.</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>보주 효과 업그레이드</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>영구적인 강화 효과를 적용합니다.</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

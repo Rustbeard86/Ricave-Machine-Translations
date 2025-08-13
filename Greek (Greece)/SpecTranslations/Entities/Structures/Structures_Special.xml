@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>αρχαίο δοχείο</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>Αυτό το δοχείο μπορεί να ανοιχτεί μόνο με 3 αρχαίους μηχανισμούς. Θα πρέπει να βρίσκονται όλοι κάπου σε αυτόν τον όροφο.</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>Βλέπετε ένα αρχαίο δοχείο μπροστά σας.\n\nΜπορεί να ανοιχτεί μόνο με 3 αρχαίους μηχανισμούς.</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>Άνοιγμα</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>αρχαία συσκευή</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>Μια αρχαία συσκευή κάποιου είδους που μπορείτε να ερευνήσετε. Αν ερευνήσετε και τις τρεις, μπορείτε να την ξεκλειδώσετε και να πάρετε μια αμοιβή.</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>λεκάνη με αντίδοτο</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>Μια μικρή λεκάνη γεμάτη με αντίδοτο για το δηλητήριο. Μπορείτε να αφαιρέσετε την κατάσταση δηλητηρίασης εδώ με αντάλλαγμα λίγο μάνα.</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>Βλέπετε μια λεκάνη με αντίδοτο μπροστά σας.\n\nΜπορείτε να αφαιρέσετε την κατάσταση δηλητηρίασης εδώ με αντάλλαγμα λίγο μάνα.</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>Πιείτε</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>αμόνι</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>Μπορείτε να αναβαθμίσετε το επίπεδο του εξοπλισμού σας εδώ.</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>Βλέπετε ένα αμόνι μπροστά σας.\n\nΜπορείτε να αναβαθμίσετε το επίπεδο του εξοπλισμού σας εδώ με αντάλλαγμα σίδηρο.</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>κρεβάτι</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>Ένα άνετο κρεβάτι. Μπορείτε να αναπληρώσετε λίγη υγεία εδώ, αλλά υπάρχει 50% πιθανότητα να σας αντιληφθεί ένας εχθρός.</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>Βλέπετε ένα κρεβάτι μπροστά σας.\n\nΜπορείτε να αναπληρώσετε λίγη υγεία εδώ, αλλά υπάρχει 50% πιθανότητα να σας αντιληφθεί ένας εχθρός.</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>Ύπνος</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>μεγάλος μαγνήτης</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>Κάθε δεύτερη σειρά, τραβάει όλους γύρω του προς το μέρος του.</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>βιβλιοθήκη</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>Ένα ράφι με βιβλία που θα σας δώσει έναν πόντο δεξιότητας.</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>κλουβί</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>Ένα μεταλλικό κλουβί με κάτι ή κάποιον μέσα. Μπορείτε να το ανοίξετε μόνο αν δεν υπάρχει ζωντανό αφεντικό σε αυτόν τον όροφο του μπουντρουμιού.</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>Βλέπετε ένα μεγάλο, μεταλλικό, σκουριασμένο κλουβί μπροστά σας.\n\nΘέλετε να το ανοίξετε;</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>Άνοιγμα</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>κανόνι</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>Μια θανατηφόρα παγίδα που θα βλάψει όποιον βρίσκεται στη γραμμή πυρός της. Ενεργοποιήστε την επιτιθέμενοι.</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>καζάνι</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>Ανταλλάξτε οποιοδήποτε φίλτρο με έναν τυχαίο πάπυρο.</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>Βλέπετε ένα καζάνι μπροστά σας.\n\nΕδώ μπορείτε να ανταλλάξετε οποιοδήποτε φίλτρο με έναν τυχαίο πάπυρο.</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>καρφιά οροφής</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>Μια θανατηφόρα παγίδα που θα βλάψει όποιον στέκεται από κάτω της. Ενεργοποιήστε την επιτιθέμενοι.</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>σεντούκι</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>Αυτό το σεντούκι περιέχει ό,τι θα μπορούσατε να επιθυμήσετε στη ζωή σας. Είτε αυτό, είτε ένα σάπιο κομμάτι ύφασμα και μερικές πέτρες.</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>άγαλμα του διαβόλου</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>Ένα δυσοίωνο άγαλμα. Δέχεται καταραμένα αντικείμενα με αντάλλαγμα αμοιβές.</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>Το άγαλμα του διαβόλου σας κοιτάζει επίμονα.\n\nΑν έχετε κάποιο καταραμένο αντικείμενο, μπορείτε να το δώσετε στο άγαλμα για μια αμοιβή.</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>λείψανα δράκου</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>Ένας σωρός από οστά δράκου. Μπορεί να υπάρχει κάτι κρυμμένο εδώ.</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>Βλέπετε μερικά λείψανα δράκου μπροστά σας.\n\nΑν θέλετε, μπορείτε να ψάξετε για έναν κρυμμένο θησαυρό εδώ.</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>Αναζήτηση</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>αντιγραφέας</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>Μια συσκευή που μπορεί να αντιγράψει οποιοδήποτε αντικείμενο... ή να το σπάσει.</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>Βλέπετε έναν αντιγραφέα μπροστά σας.\n\nΓια 30 χρυσά, μπορείτε να προσπαθήσετε να αντιγράψετε ένα αντικείμενο.\n\nΩστόσο, υπάρχει 40% πιθανότητα το αντικείμενο να καταστραφεί.</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>ηλεκτρονικό χρηματοκιβώτιο</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>Αυτό το χρηματοκιβώτιο μπορεί να ανοιχτεί μόνο πατώντας ένα κουμπί κάπου αλλού.</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>κουμπί</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>Αυτό το κουμπί θα ανοίξει ένα ηλεκτρονικό χρηματοκιβώτιο κάπου.</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>τράπεζα μαγείας</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>Μαγέψτε τον εξοπλισμό σας με αντάλλαγμα μια μικρή δωρεά.</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>Βλέπετε μια τράπεζα μαγείας μπροστά σας.\n\nΥπάρχει μια σχισμή για νομίσματα κάτω από την τράπεζα και μια πινακίδα που λέει ότι απαιτείται μια μικρή δωρεά 170 χρυσών νομισμάτων για να προχωρήσετε.\n\nΜια τυχαία μαγεία θα εφαρμοστεί στο όπλο ή την πανοπλία της επιλογής σας.</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>συντριβάνι</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>Πιείτε από αυτό το συντριβάνι για να έχετε ένα ήπιο αλλά μακράς διαρκείας αποτέλεσμα - θετικό ή αρνητικό.</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>Βλέπετε ένα συντριβάνι μπροστά σας.\n\nΤο να πιείτε από αυτό θα έχει ένα ήπιο αλλά μακράς διαρκείας μαγικό αποτέλεσμα.\n\nΜπορείτε να ρίξετε μερικά χρυσά νομίσματα για καλή τύχη.</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>Πιείτε</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>Πηγή της Ζωής</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>Το να πιείτε από αυτή την πηγή θα σας θεραπεύσει πλήρως, θα αποκαταστήσει όλο το μάνα, την αντοχή και την κατάσταση κορεσμού, καθώς και θα παρέχει μια βραχυπρόθεσμη ανοσία στο δηλητήριο.</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>Βλέπετε μια Πηγή της Ζωής μπροστά σας.\n\nΤο να πιείτε από αυτή την πηγή θα σας θεραπεύσει πλήρως, θα αποκαταστήσει όλο το μάνα, την αντοχή και την κατάσταση κορεσμού και θα παρέχει μια βραχυπρόθεσμη ανοσία στο δηλητήριο.</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>Πιείτε</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>τραπέζι τζόγου</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>Ποντάρετε χρήματα αν αισθάνεστε τυχεροί.</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>Βλέπετε ένα τραπέζι τζόγου μπροστά σας.\n\nΜπορείτε να ποντάρετε χρήματα αν αισθάνεστε τυχεροί και έχετε 50/50 πιθανότητα να κερδίσετε διπλά ή να χάσετε.</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>επιχρυσωμένο κουτί</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>Αυτό το κουτί έχει μια σχισμή για νομίσματα. Μπορείτε να το ανοίξετε βάζοντας 50 χρυσά.</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>Βλέπετε ένα επιχρυσωμένο κουτί μπροστά σας.\n\nΜπορείτε να το ανοίξετε βάζοντας 50 χρυσά.</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>Άνοιγμα</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>τάφος</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>Σκάψτε για να αναζητήσετε έναν κρυμμένο θησαυρό.</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>Βλέπετε έναν τάφο μπροστά σας.\n\nΣίγουρα υπάρχει κάτι θαμμένο εδώ.\n\nΜπορείτε είτε να σκάψετε τον τάφο είτε να τον αφήσετε στην ησυχία του. Ποιος ξέρει τι μπορεί να βρείτε εδώ.</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>Σκάψιμο</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>πράσινο σεντούκι</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>Αυτό το σεντούκι μπορεί να ανοιχτεί μόνο με 3 θραύσματα πράσινου κλειδιού. Συνήθως, τα κουβαλούν οι εχθροί.</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>Βλέπετε ένα πράσινο σεντούκι μπροστά σας.\n\nΜπορεί να ανοιχτεί μόνο με 3 θραύσματα πράσινου κλειδιού.</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>Άνοιγμα</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>κρεμαστό κλουβί</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>Ένα μεταλλικό κλουβί με κάτι ή κάποιον μέσα. Μπορείτε να το ανοίξετε μόνο αν δεν υπάρχει ζωντανό αφεντικό σε αυτόν τον όροφο του μπουντρουμιού.</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>Βλέπετε ένα μεγάλο, μεταλλικό, σκουριασμένο κλουβί μπροστά σας.\n\nΘέλετε να το ανοίξετε;</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>Άνοιγμα</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>κρύσταλλος θεραπείας</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>Θεραπεύει όλους τους πόντους ζωής σας.</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>θεραπευτικό φυτό</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>Ένα φυτό με ασυνήθιστες θεραπευτικές ιδιότητες. Μπορείτε να το χρησιμοποιήσετε για να φτιάξετε ένα φίλτρο υγείας.</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>μοχλός</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>Ανοίγει όλες τις πύλες και ειδοποιεί τους πάντες στον όροφο. Τραβήξτε το μόνο όταν είστε έτοιμοι να δραπετεύσετε!</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>Θέλετε να τραβήξετε το μοχλό;\n\nΘα ανοίξει όλες τις πύλες, αλλά όλοι οι εχθροί θα ξυπνήσουν.</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>Τράβηγμα</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>βωμός προσφοράς μέλους</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>Μπορείτε να θυσιάσετε το μέλος σας εδώ με αντάλλαγμα μια τυχαία αμοιβή.</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>Βλέπετε έναν βωμό προσφοράς μέλους μπροστά σας.\n\nΕδώ μπορείτε να θυσιάσετε το μέλος σας με αντάλλαγμα μια τυχαία αμοιβή.</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>Προσφορά μέλους</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>κρύσταλλος μάνα</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>Αποκαθιστά όλο το μάνα σας, ώστε να μπορείτε να χρησιμοποιήσετε ξανά τα ξόρκια σας.</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>φυτό μάνα</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>Ένα φυτό με ασυνήθιστες μαγικές ιδιότητες. Μπορείτε να το χρησιμοποιήσετε για να φτιάξετε ένα φίλτρο μάνα.</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>μεταλλικό κιβώτιο</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>Ένα μεταλλικό κιβώτιο. Μπορεί να περιέχει κάτι χρήσιμο.</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>βωμός του Φαντάσματος</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>Καλέστε ένα θανατηφόρο Φάντασμα. Πάρτε ένα μπόνους στη φυσική ζημιά που προκαλείτε με αντάλλαγμα μειωμένη όραση.</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>Βλέπετε έναν βωμό του Φαντάσματος μπροστά σας.\n\nΕδώ μπορείτε να καλέσετε ένα θανατηφόρο Φάντασμα, για το οποίο θα κερδίσετε +25% στη φυσική ζημιά που προκαλείτε.\n\nΕπιπλέον, για 25 γύρους το εύρος της όρασής σας θα οριστεί στο 1.</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>Κάλεσμα</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>πύλη</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>Θα σας τηλεμεταφέρει σε μια τυχαία τοποθεσία στον χάρτη. Ωστόσο, όταν χρησιμοποιηθεί ξανά, θα σας φέρνει πάντα στην ίδια τοποθεσία.</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>βόμβα εγγύτητας</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>Αυτή η βόμβα έχει πυροκροτητή εγγύτητας και θα εκραγεί μετά από μερικούς γύρους όταν την πλησιάσετε.</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>πυροβόμβα εγγύτητας</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>Αυτή η πυροβόμβα έχει πυροκροτητή εγγύτητας και θα εκραγεί μετά από μερικούς γύρους όταν την πλησιάσετε.</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>καπνογόνος βόμβα εγγύτητας</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>Αυτή η καπνογόνος βόμβα έχει πυροκροτητή εγγύτητας και θα εκραγεί μετά από μερικούς γύρους όταν την πλησιάσετε.</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>φωλιά αρουραίων</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>Μια φωλιά γεμάτη αρουραίους. Οι αρουραίοι δεν θα βγουν εκτός αν τους ενοχλήσετε. Μπορείτε να την ψάξετε για έναν κρυμμένο θησαυρό.</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>Βλέπετε μια φωλιά αρουραίων μπροστά σας.\n\nΑν θέλετε, μπορείτε να ψάξετε για έναν κρυμμένο θησαυρό εδώ.\n\nΩστόσο, αν το κάνετε, θα αρχίσουν να βγαίνουν αρουραίοι από αυτή τη φωλιά.</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>Αναζήτηση</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>ιερό του απατεώνα</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>Κερδίστε περισσότερη αντοχή, καλύτερο εύρος όρασης και αντίσταση στη ζημιά από φωτιά για κάποιο χρονικό διάστημα με μια μικρή δωρεά.</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>Βλέπετε ένα ιερό του απατεώνα μπροστά σας.\n\nΚερδίστε περισσότερη αντοχή, καλύτερο εύρος όρασης και αντίσταση στη ζημιά από φωτιά με μια μικρή δωρεά.</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>Συνέχεια</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>πύλη τέλους</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>Μια φωτεινή πύλη. Αυτό είναι το τέλος.</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>βωμός θυσιών</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>Θυσιάστε δύο άξιους αντιπάλους σε αυτόν τον βωμό για να πάρετε μια αμοιβή.</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>χρηματοκιβώτιο</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>Μπορεί να περιέχει κάτι πολύτιμο, αλλά η καταστροφή του θα μπορούσε να είναι δύσκολη. Ίσως με κάποια εκρηκτικά;</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>κατάστημα</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>Τίποτα δεν συγκρίνεται με έναν φρεσκοστυμμένο χυμό πορτοκαλ... εννοώ, φίλτρο δύναμης.</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>ιερό</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>Λάβετε μια ευλογία, δωρεάν!</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>Βλέπετε ένα ιερό μπροστά σας.\n\nΜπορείτε να λάβετε μια ευλογία εδώ.</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>Συνέχεια</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>ασημένιο σεντούκι</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>Φαίνεται ότι μπορεί να περιέχει κάτι πολύτιμο. Χρειάζεστε ένα ασημένιο κλειδί για να το ανοίξετε.</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>Βλέπετε ένα ασημένιο σεντούκι μπροστά σας.\n\nΜπορεί να ανοιχτεί μόνο με ένα ασημένιο κλειδί.\n\nΣημειώστε ότι μπορεί να υπάρχουν περισσότερα κλειδωμένα σεντούκια από τα διαθέσιμα κλειδιά, οπότε ξοδέψτε τα κλειδιά σας με σύνεση.</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>Άνοιγμα</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>σκελετικά λείψανα</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>Ένας σωρός από οστά. Μπορεί να υπάρχει κάτι κρυμμένο εδώ.</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>Βλέπετε μερικά σκελετικά λείψανα μπροστά σας.\n\nΑν θέλετε, μπορείτε να ψάξετε για έναν κρυμμένο θησαυρό εδώ.</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>Αναζήτηση</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>μικρός κρύσταλλος θεραπείας</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>Θεραπεύει το 50% των μέγιστων πόντων ζωής σας.</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>μικρός κρύσταλλος μάνα</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>Αποκαθιστά το 50% του μέγιστου μάνα σας.</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>σκάλα</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>Μια σκάλα που οδηγεί στο κατώτερο επίπεδο αυτού του μπουντρουμιού.</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>Θέλετε να κατεβείτε τις σκάλες στο κατώτερο επίπεδο του μπουντρουμιού;\n\nΔεν θα μπορείτε να γυρίσετε πίσω.</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>Συνέχεια</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>σκάλα προς το λόμπι</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>Μια σκάλα που οδηγεί πίσω στο λόμπι. Αυτό θα τερματίσει την τρέχουσα προσπάθειά σας, αλλά θα κρατήσετε κάποια εμπειρία και χρυσό για την επόμενη. Επίσης, δεν θα χάσετε τα μπόνους μίας χρήσης που αγοράσατε στο λόμπι.</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>Θέλετε να γυρίσετε πίσω στο λόμπι;\n\nΑυτό θα τερματίσει την τρέχουσα προσπάθειά σας, αλλά θα κρατήσετε 25% εμπειρία και 50% χρυσό για την επόμενη.\nΕπίσης, δεν θα χάσετε τα μπόνους μίας χρήσης που αγοράσατε στο λόμπι.</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>Συνέχεια</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>χειρουργικό κρεβάτι</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>Μια αυτόνομη χειρουργική μηχανή που μπορεί να αποκαταστήσει όλα τα μέλη του σώματος που λείπουν έναντι μικρής αμοιβής.</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>Βλέπετε μπροστά σας ένα αυτόνομο χειρουργικό μηχάνημα.\n\nΥπάρχει μια υποδοχή για κέρματα από κάτω και μια ταμπέλα που λέει ότι για 150 χρυσά νομίσματα το μηχάνημα μπορεί να αποκαταστήσει όλα τα μέλη του σώματός σας που λείπουν.</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>Πληρωμή 150 χρυσών</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>μηχανή του χρόνου</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>Ταξιδέψτε πίσω στον χρόνο.</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>Βλέπετε μπροστά σας μια μηχανή του χρόνου.\n\nΗ χρήση της θα σας κάνει να ταξιδέψετε πίσω στον χρόνο.</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>Χρήση</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>Δοκιμασία Ακρωτηριασμού</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>Καταστρέψτε 6 μέλη του σώματος μέσα σε 120 γύρους για να λάβετε μια αμοιβή.</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>Βλέπετε μπροστά σας μια Δοκιμασία Ακρωτηριασμού.\n\nΓια λίγο χρυσό, μπορείτε να ξεκινήσετε μια πρόκληση για να καταστρέψετε 6 μέλη του σώματος μέσα σε 120 γύρους.\n\nΜε την ολοκλήρωση της πρόκλησης, θα λάβετε μια αμοιβή.</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>Πληρωμή 20 χρυσών</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>Δοκιμασία Γρήγορου Δολοφόνου</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>Σκοτώστε 4 άξιους εχθρούς (που δίνουν πείρα) μέσα σε 100 γύρους για να λάβετε μια αμοιβή.</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>Βλέπετε μπροστά σας μια Δοκιμασία Γρήγορου Δολοφόνου.\n\nΓια λίγο χρυσό, μπορείτε να ξεκινήσετε μια πρόκληση για να σκοτώσετε 4 άξιους εχθρούς μέσα σε 100 γύρους.\n\nΜε την ολοκλήρωση της πρόκλησης, θα λάβετε μια αμοιβή.</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>Πληρωμή 20 χρυσών</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>Δοκιμασία του Αμόλυντου</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>Σκοτώστε 2 άξιους εχθρούς (που δίνουν πείρα) χωρίς να χάσετε πόντους ζωής για να λάβετε μια αμοιβή.</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>Βλέπετε μπροστά σας μια Δοκιμασία του Αμόλυντου.\n\nΓια λίγο χρυσό, μπορείτε να ξεκινήσετε μια πρόκληση για να σκοτώσετε 2 άξιους εχθρούς χωρίς να χάσετε πόντους ζωής.\n\nΜε την ολοκλήρωση της πρόκλησης, θα λάβετε μια αμοιβή.</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>Πληρωμή 20 χρυσών</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>σφαίρα αναβάθμισης</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>Μια σφαίρα που σας επιτρέπει να επιλέξετε ένα μόνιμο αποτέλεσμα. Μπορείτε να επιλέξετε ανάμεσα σε επιπλέον υγεία, επιπλέον πιθανότητα κρίσιμου χτυπήματος, μικρότερη πιθανότητα αστοχίας και αντίσταση στη φωτιά.</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>Αυτή είναι μια σφαίρα αναβάθμισης που παρέχει μόνιμα αποτελέσματα για αυτό το πέρασμα.\n\nΜπορείτε να επιλέξετε ανάμεσα σε επιπλέον υγεία, επιπλέον πιθανότητα κρίσιμου χτυπήματος, μικρότερη πιθανότητα αστοχίας και αντίσταση στη φωτιά.</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>ιερό του πολεμιστή</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>Απελευθερώστε τον εσωτερικό σας πολεμιστή και αποδείξτε την αξία σας. Μειώστε στο μισό τη μέγιστη ζωή σας με αντάλλαγμα 25% υψηλότερη φυσική ζημιά για κάποιο χρονικό διάστημα.</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>Βλέπετε μπροστά σας ένα ιερό του πολεμιστή.\n\nΜειώστε στο μισό τη μέγιστη ζωή σας με αντάλλαγμα 25% υψηλότερη ζημιά για 400 γύρους.</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>Συνέχεια</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>φωλιά από σφήκες</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>Μια φωλιά από ασυνήθιστα μεγάλες σφήκες.</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>ιερό του μάγου</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>Αυξήστε το μέγιστο μάνα και αποκτήστε αντίσταση στη μαγική ζημιά για κάποιο χρονικό διάστημα για μια μικρή δωρεά.</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>Βλέπετε μπροστά σας ένα ιερό του μάγου.\n\nΓια 80 χρυσά, μπορείτε να λάβετε μια ευλογία που θα σας δώσει +2 μέγιστο μάνα για 400 γύρους και αντίσταση στη μαγική ζημιά για 100 γύρους.</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>Πληρωμή 80 χρυσών</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

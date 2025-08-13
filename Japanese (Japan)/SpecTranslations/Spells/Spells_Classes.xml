@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>目くらまし</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>現在あなたを視認している全ての者を短時間、盲目にします。使用にターンは消費しません。</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>欺き</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>ターゲットを短時間、他の全ての者に対して敵対的にします。使用にターンは消費しません。</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>隣接拘束</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>隣接する全ての者を短時間、拘束します。使用にターンは消費しません。</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>ヘイスト</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>短時間、1ターンに2回行動できるようになります。使用にターンは消費しません。</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>ジャンプ</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>隣接するタイルに、高低差を無視して即座にジャンプします。使用にターンは消費しません。</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>突き飛ばし</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>対象を1セル突き飛ばします。使用にターンは消費しません。</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>ランダム脱出</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>マップ上のランダムな場所にテレポートします。使用にターンは消費しません。</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>ツタの生成</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>指定した場所にツタを生成し、登ることができます。</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>毒の雲</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>指定した場所に毒の雲を発生させます。使用にターンは消費しません。</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>幻影召喚</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>戦闘であなたを助ける友好的な幻影を召喚します。幻影は一度に一体しか存在できません。</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

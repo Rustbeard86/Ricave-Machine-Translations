@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>conditie toevoegen</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>Het doelwit krijgt een nieuwe conditie.</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>op doelwit: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>effect toevoegen</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>Het doelwit krijgt een nieuw effect.</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>effect toevoegen: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>vastmaken aan kettingpaal</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>Maak het doelwit vast aan een kettingpaal.</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>deur barricaderen</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>Barricadeer een deur. De enige manier om door gebarricadeerde deuren te komen, is door ze te vernietigen.</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>verblindende flits</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>Verblind iedereen die je op dit moment kan zien.</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>verblindende flits {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>ingraven</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>Verberg je in de grond.</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>drankje ruilen voor boekrol</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>Je ontvangt een willekeurige boekrol in ruil voor een drankje.</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>plafond laten instorten</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>Het plafond stort in als er geen andere ondersteuning is.</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>plafond laten instorten ({0} {1} schade)</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>plafond laten instorten (één cel)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>Het plafond hier zal instorten en iedereen eronder verwonden.</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>plafond laten instorten (één cel) ({0} {1} schade)</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>sterrenstof verzamelen</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>Verzamel sterrenstof van de trofee.</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>sterrenstof verzamelen x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>koken</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>Kook wat eten.</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>uitrusting betoveren (kristal)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>Pas een betovering toe op een uitrustingsstuk naar keuze.</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>vervloekt item aanbieden</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>Bied een vervloekt item aan het duivelsbeeld aan in ruil voor een beloning.</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>schade toebrengen</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>Het doelwit verliest het gespecificeerde aantal levenspunten min hun pantser.</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1} schade</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>vernietigen</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>Het doelwit wordt vernietigd.</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>graven</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>Graaf dingen op zoals aarde.</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>breekbare objecten vernietigen</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>Vernietig breekbare objecten zoals bakstenen muren en poorten.</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>glas vernietigen</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>Vernietig objecten gemaakt van glas zoals ramen en glazen vloeren.</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>mijnen</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>Mijn objecten die gemijnd kunnen worden, zoals kristallen.</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>lichaamsdeel vernietigen</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>Vernietig een willekeurig lichaamsdeel.</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>beloning ontvangen</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>Ontvang een willekeurige beloning.</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>dupliceren</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>Een item naar keuze wordt gedupliceerd of vernietigd.</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>dupliceren ({0} kans)</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>uitrusting betoveren</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>Pas een willekeurige betovering toe op een uitrustingsstuk naar keuze.</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>blussen</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>Blus elk vuur.</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>voeden</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>Stil je honger.</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>verzadiging {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>ronde voltooien</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>Voltooi deze ronde en keer terug naar de lobby.</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>vis vangen</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>Vang een vis.</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>vaardigheidspunt verdienen</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>Verdien één vaardigheidspunt.</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>gokken</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>Zet je geld in en kijk of je wint.</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>genezen</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>Het gespecificeerde aantal levenspunten van het doelwit wordt hersteld.</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>genees {0} HP</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>een item identificeren</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>Identificeer een item.</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>items identificeren</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>Identificeer items (ter waarde van het gespecificeerde aantal beurten).</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>items identificeren {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>geluid maken</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>Maak slapende wezens wakker binnen de gegeven radius.</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>elektronische kluis openen</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>Open ergens een elektronische kluis.</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>betalen</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>Je zult bepaalde items moeten afstaan.</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>betaal {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>trekken</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>Het doelwit wordt naar de gebruiker toegetrokken.</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>trek {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>duwen</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>Het doelwit wordt een paar cellen naar achteren geduwd.</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>duw {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>willekeurige duw</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>Het doelwit wordt in een willekeurige richting geduwd.</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>willekeurige duw {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>willekeurig effect</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>Pas een willekeurig effect toe.</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>item ontvangen</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>Een item wordt aan de gebruiker gegeven.</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>ontvang {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>conditie verwijderen</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>Een bepaalde conditie wordt van het doelwit verwijderd.</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>verwijder {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>vloek verwijderen</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>Verwijder een vloek van een item in de inventaris van het doelwit. Dit geeft prioriteit aan het verwijderen van vloeken van uitgeruste items.</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>conditie verwijderen</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>Een bepaalde conditie wordt van het doelwit verwijderd.</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>verwijder {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>onderzoeken</Research.label> <!-- <En>research</En> -->
+  <Research.description>Onderzoek een object.</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>horlogeladingen resetten</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>Je horlogeladingen worden op nul gezet, dus je kunt de tijd een tijdje niet terugdraaien.</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>mana herstellen</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>De mana van het doelwit wordt hersteld.</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>herstel {0} mana</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>ontbrekende lichaamsdelen herstellen</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>Alle ontbrekende lichaamsdelen van het doelwit worden hersteld.</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>uithoudingsvermogen herstellen</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>Het uithoudingsvermogen van het doelwit wordt hersteld.</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>herstel {0} uithoudingsvermogen</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>terug naar lobby</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>Keer terug naar de lobby. Je huidige ronde eindigt, maar je behoudt sommige dingen.</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>tijd terugdraaien</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>Ga terug in de tijd.</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>draai terug {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>in brand steken</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>Steek een brandbaar object in brand.</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>in brand steken ({0} HP)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>geest bevrijden</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>Bevrijd een geest.</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>een object laten verschijnen</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>Een nieuw object zal in de buurt verschijnen.</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>laat {0} verschijnen</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>willekeurige vijand laten verschijnen</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>Een willekeurige vijand zal in de buurt verschijnen.</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>een object laten verschijnen</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>Een nieuw object zal in de buurt verschijnen.</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>laat {0} verschijnen</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>stelen</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>Steel een item van het doelwit.</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>ontbrekende lichaamsdelen herstellen</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>Alle ontbrekende lichaamsdelen van het doelwit worden hersteld.</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>teleporteren</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>Het doelwit wordt naar de aangewezen locatie geteleporteerd.</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>teleporteer naar willekeurige locatie</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>Het doelwit wordt naar een willekeurige locatie geteleporteerd.</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>ontgrendelen</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>Ontgrendel een nieuw item, een nieuwe plaats of een nieuwe bonus.</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>ontgrendel {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>level upgraden</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>Upgrade het level van een item.</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>bol-effect upgraden</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>Pas een permanente boost toe.</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

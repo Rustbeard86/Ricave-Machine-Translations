@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>πανό γρίφου</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>Ένα πολύχρωμο πανό.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>τρόπαιο</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Κάθε τρόπαιο αρχηγού παράγει αστερόσκονη ίση με τον όροφο στον οποίο σκοτώθηκε ο αρχηγός. Η αστερόσκονη αναπληρώνεται κάθε φορά που φτάνετε τουλάχιστον στον δεύτερο όροφο του μπουντρουμιού.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>ντουλάπα</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Αλλάξτε την εμφάνισή σας εδώ.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>πίνακας ημερήσιων προκλήσεων</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Συμμετάσχετε σε ημερήσιες προκλήσεις. Όλοι οι άλλοι σε όλο τον κόσμο λαμβάνουν την ίδια πρόκληση κάθε μέρα!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>προθήκη</Display.label> <!-- <En>display</En> -->
+  <Display.description>Ένα μέρος για ένα αντικείμενο.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>πύλη</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Είναι αυτό το τέλος;</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>ενεργοποιητής τελικού διαλόγου</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>πινακίδα διαδρόμου</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>Υπάρχει ένας διάδρομος πίσω από αυτή την πόρτα.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>πόρτα</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Αυτή η πόρτα φαίνεται να είναι κλειδωμένη.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>πόρτα</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Αυτή η πόρτα φαίνεται να είναι κλειδωμένη.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Θέλετε να ξεκλειδώσετε τον διάδρομο για 60 αστερόσκονη;</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Ξεκλείδωμα</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>πόρτα</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Αυτή η πόρτα φαίνεται να είναι κλειδωμένη.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Θέλετε να ξεκλειδώσετε την αίθουσα προπόνησης για 20 αστερόσκονη;</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Ξεκλείδωμα</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Πόρτα Μνήμης</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>Μια πόρτα που μπορεί να ξεκλειδωθεί μόνο συλλέγοντας και τα 4 Κομμάτια Μνήμης.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>πόρτα γρίφου</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>Μια πόρτα που μπορεί να ξεκλειδωθεί συλλέγοντας και τα 10 κομμάτια του γρίφου. Υπάρχει ένα κομμάτι γρίφου σε κάθε όροφο του μπουντρουμιού και μπορείτε να βρείτε μόνο ένα κομμάτι ανά προσπάθεια. Αυτό σημαίνει ότι το τελευταίο θα βρίσκεται στον 10ο όροφο.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>μαγικός καθρέφτης</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Αλλάξτε τα χαρακτηριστικά σας εδώ.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Πόρτα Μνήμης</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>Μια πόρτα που μπορεί να ξεκλειδωθεί μόνο συλλέγοντας και τα 4 Κομμάτια Μνήμης.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Κομμάτι Μνήμης</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>Ένα άγνωστο Κομμάτι Μνήμης.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Κομμάτι Μνήμης</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>Ένα άγνωστο Κομμάτι Μνήμης.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Κομμάτι Μνήμης</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>Ένα άγνωστο Κομμάτι Μνήμης.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Κομμάτι Μνήμης</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>Ένα άγνωστο Κομμάτι Μνήμης.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>σκάλα</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>Μια σκάλα που οδηγεί στο μπουντρούμι.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>σκάλα</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>Μια σκάλα που οδηγεί στο μπουντρούμι και σας επιτρέπει να χρησιμοποιήσετε ένα συγκεκριμένο seed κόσμου. Όλη η πρόοδος στο λόμπι και οι αποστολές είναι απενεργοποιημένες σε αυτό το μπουντρούμι.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>πινακίδα ιδιωτικού δωματίου</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>Το ιδιωτικό σας δωμάτιο. Αφού το αγοράσετε, δηλαδή.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>πόρτα γρίφου</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>Μια πόρτα που έχει ξεκλειδωθεί συλλέγοντας όλα τα κομμάτια του γρίφου.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>πινακίδα δωματίου γρίφων</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Ένα μυστηριώδες δωμάτιο.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>πίνακας αποστολών</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Δείτε όλες τις διαθέσιμες και ολοκληρωμένες αποστολές.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>πινακίδα καταστήματος</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Υπάρχει ένα κατάστημα εδώ. Μπορείτε να ξοδέψετε αστερόσκονη για να αγοράσετε ενισχύσεις για τις επόμενες προσπάθειές σας.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>ουρανός</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>Μια ωραία θέα.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>ουρανός</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>Μια ωραία θέα.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>σκάλα</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>Μια σκάλα που οδηγεί στο μπουντρούμι.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>πίνακας στατιστικών</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Δείτε όλα τα στατιστικά σας.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>πινακίδα αίθουσας προπόνησης</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Υπάρχει μια αίθουσα προπόνησης εδώ. Μπορείτε να προπονηθείτε ενάντια σε διάφορα είδη εχθρών.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>σκάλα</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>Μια σκάλα που οδηγεί στην αίθουσα προπόνησης. Προπονηθείτε ενάντια σε εχθρούς και αρχηγούς.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>σωρός σκουπιδιών</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>Ένας σωρός σκουπιδιών μπλοκάρει αυτό το κελί. Χρησιμοποιήστε αστερόσκονη για να τον αφαιρέσετε μόνιμα.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>Θέλετε να καθαρίσετε αυτόν τον σωρό σκουπιδιών για 40 αστερόσκονη;</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Καθαρισμός</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>λάμπα τοίχου</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>Μια κομψή λάμπα τοίχου.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

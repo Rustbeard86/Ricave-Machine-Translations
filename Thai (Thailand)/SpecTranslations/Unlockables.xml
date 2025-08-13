@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>เครื่องรางแห่งเยอร์ดอน</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>เริ่มต้นพร้อมกับเครื่องรางแห่งเยอร์ดอน ผู้สวมใส่จะได้รับการฟื้นฟูพลังชีวิตจนเต็มหนึ่งครั้งในจังหวะที่กำลังจะตาย นอกจากนี้ ศัตรูทุกตัวที่อยู่ใกล้ๆ จะตายด้วย นี่คือโบนัสใช้ครั้งเดียวและมีผลเฉพาะในการเล่นรอบถัดไปเท่านั้น</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>ยาเพิ่มพลังชีวิต</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>เริ่มต้นพร้อมกับยาเพิ่มพลังชีวิตพิเศษในช่องเก็บของของคุณ นี่คือโบนัสใช้ครั้งเดียวและมีผลเฉพาะในการเล่นรอบถัดไปเท่านั้น</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>ม้วนคัมภีร์</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>เริ่มต้นพร้อมกับม้วนคัมภีร์แบบสุ่มในช่องเก็บของของคุณ นี่คือโบนัสใช้ครั้งเดียวและมีผลเฉพาะในการเล่นรอบถัดไปเท่านั้น</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>โล่</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>เริ่มต้นพร้อมกับโล่ในช่องเก็บของของคุณ มันจะช่วยให้คุณป้องกันการโจมตีของศัตรูได้</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>คุณปลดล็อกโล่สำหรับการเล่นรอบถัดไปของคุณแล้ว! คุณสามารถใช้มันเพื่อป้องกันการโจมตีของศัตรูได้\n\nสิ่งนี้มีประโยชน์อย่างยิ่งเมื่อต้องรับมือกับศัตรูที่โจมตีระยะไกล เพราะจะทำให้คุณสามารถเข้าใกล้พวกมันได้อย่างปลอดภัยโดยไม่ถูกโจมตี\n\nคุณไม่สามารถทั้งป้องกันการโจมตีจากศัตรูและโจมตีเขาในเวลาเดียวกันได้ - ผลของการป้องกันจะถูกยกเลิก\n\nการใช้โล่ทำให้เหนื่อย ดังนั้นจึงต้องใช้สตามิน่า</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>หอก</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>เริ่มต้นพร้อมกับหอกพิเศษในช่องเก็บของของคุณ ใช้ขว้างใส่ศัตรูหรือใช้เพื่อสั่งให้กัปดักทำงาน</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>คุณปลดล็อกหอกสำหรับการเล่นรอบถัดไปของคุณแล้ว! คุณสามารถใช้มันเพื่อโจมตีศัตรูหรือสั่งให้กัปดักทำงานจากระยะไกลได้\n\nรอให้ศัตรูเดินไปอยู่ใต้หนามแหลมหรือข้างปืนใหญ่ที่ติดผนัง แล้วขว้างหอกไปที่กับดักเพื่อสั่งให้มันทำงาน\n\nการขว้างหอกทำให้เหนื่อย ดังนั้นจึงต้องใช้สตามิน่า สตามิน่าจะฟื้นฟูโดยอัตโนมัติยกเว้นว่าคุณกำลังหิวโหย</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>ดาบ</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>เริ่มต้นพร้อมกับดาบในช่องเก็บของของคุณ นี่คือโบนัสใช้ครั้งเดียวและมีผลเฉพาะในการเล่นรอบถัดไปเท่านั้น</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>นาฬิกา</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>เริ่มต้นพร้อมกับนาฬิกาในช่องเก็บของของคุณ มันจะช่วยให้คุณย้อนเวลาได้</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>คุณปลดล็อกนาฬิกาเวทมนตร์สำหรับการเล่นรอบถัดไปของคุณแล้ว! มันช่วยให้คุณย้อนเวลาได้ตามต้องการ\n\nย้อนเทิร์นล่าสุดโดยการกด [Rewind]\n\nนาฬิกามีขีดจำกัดจำนวนเทิร์นที่คุณสามารถย้อนได้ในครั้งเดียว แต่มันจะชาร์จใหม่ทุกครั้งที่คุณเคลื่อนที่</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>ทอง x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>ค้นหาทองได้มากกว่าปกติ 25% ในดันเจี้ยน นี่คือโบนัสใช้ครั้งเดียวและมีผลเฉพาะในการเล่นรอบถัดไปเท่านั้น</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>โถงทางเดิน</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>เข้าถึงโถงทางเดินในล็อบบี้</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>ประติมากรรมเลเวล 100</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>รับประติมากรรมเพื่อเป็นที่ระลึกในการไปถึงเลเวล 100 คุณสามารถวางมันไว้ในห้องส่วนตัวของคุณในล็อบบี้ได้</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>ขอแสดงความยินดีที่ไปถึงเลเวล 100!\n\nคุณได้รับประติมากรรมพิเศษซึ่งคุณสามารถวางไว้ในห้องส่วนตัวของคุณเพื่อเป็นที่ระลึกถึงความสำเร็จอันยิ่งใหญ่นี้</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>ประติมากรรมเลเวล 25</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>รับประติมากรรมเพื่อเป็นที่ระลึกในการไปถึงเลเวล 25 คุณสามารถวางมันไว้ในห้องส่วนตัวของคุณในล็อบบี้ได้</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>ขอแสดงความยินดีที่ไปถึงเลเวล 25!\n\nคุณได้รับประติมากรรมพิเศษซึ่งคุณสามารถวางไว้ในห้องส่วนตัวของคุณเพื่อเป็นที่ระลึกถึงความสำเร็จอันยิ่งใหญ่นี้</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>ประติมากรรมเลเวล 50</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>รับประติมากรรมเพื่อเป็นที่ระลึกในการไปถึงเลเวล 50 คุณสามารถวางมันไว้ในห้องส่วนตัวของคุณในล็อบบี้ได้</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>ขอแสดงความยินดีที่ไปถึงเลเวล 50!\n\nคุณได้รับประติมากรรมพิเศษซึ่งคุณสามารถวางไว้ในห้องส่วนตัวของคุณเพื่อเป็นที่ระลึกถึงความสำเร็จอันยิ่งใหญ่นี้</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>กุญแจห้องส่วนตัว</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>เข้าถึงห้องส่วนตัวของคุณเองซึ่งคุณสามารถตกแต่งได้ในภายหลัง</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>คุณปลดล็อกห้องส่วนตัวของคุณเองแล้ว!\n\nคุณสามารถตกแต่งห้องได้โดยการกด [ShowInventory] เมื่อคุณอยู่ข้างใน\n\nถ้วยรางวัลและของตกแต่งที่หายากบางชิ้นอาจหาได้ยาก - ตัวอย่างเช่น อาจถูกซ่อนอยู่ที่ไหนสักแห่งลึกเข้าไปในดันเจี้ยน</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>คะแนน x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>รับคะแนนมากกว่าปกติ 100% ในดันเจี้ยน นี่คือโบนัสใช้ครั้งเดียวและมีผลเฉพาะในการเล่นรอบถัดไปเท่านั้น</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>ละอองดาว x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>ค้นหาละอองดาวได้มากกว่าปกติ 50% ในดันเจี้ยน นี่คือโบนัสใช้ครั้งเดียวและมีผลเฉพาะในการเล่นรอบถัดไปเท่านั้น</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>ห้องฝึกซ้อม</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>เข้าถึงห้องฝึกซ้อมในล็อบบี้</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>กองขยะ</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>ทำความสะอาดกองขยะเพื่อเพิ่มพื้นที่</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>กองขยะ</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>ทำความสะอาดกองขยะเพื่อเพิ่มพื้นที่</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>กองขยะ</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>ทำความสะอาดกองขยะเพื่อเพิ่มพื้นที่</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

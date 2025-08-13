@@ -1,0 +1,67 @@
+<SpecTranslations>
+
+  <ExtraAmuletOfYerdon.label>Yerdon Tılsımı</ExtraAmuletOfYerdon.label> <!-- <En>Amulet of Yerdon</En> -->
+  <ExtraAmuletOfYerdon.description>Yerdon Tılsımı ile başla. Kuşanan kişi, normalde öleceği anda bir defalığına tamamen iyileşir. Ek olarak, yakındaki tüm düşmanlar ölür. Bu, tek kullanımlık bir bonustur ve sadece bir sonraki oyunun için geçerlidir.</ExtraAmuletOfYerdon.description> <!-- <En>Start with an Amulet of Yerdon. The wearer will be fully healed one time the moment he would normally die. Additionally, every enemy nearby will die. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraHealthPotion.label>can iksiri</ExtraHealthPotion.label> <!-- <En>health potion</En> -->
+  <ExtraHealthPotion.description>Envanterinde fazladan bir can iksiriyle başla. Bu, tek kullanımlık bir bonustur ve sadece bir sonraki oyunun için geçerlidir.</ExtraHealthPotion.description> <!-- <En>Start with an extra health potion in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraScroll.label>parşömen</ExtraScroll.label> <!-- <En>scroll</En> -->
+  <ExtraScroll.description>Envanterinde rastgele bir parşömenle başla. Bu, tek kullanımlık bir bonustur ve sadece bir sonraki oyunun için geçerlidir.</ExtraScroll.description> <!-- <En>Start with a random scroll in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraShield.label>kalkan</ExtraShield.label> <!-- <En>shield</En> -->
+  <ExtraShield.description>Envanterinde bir kalkanla başla. Düşman saldırılarını engellemeni sağlar.</ExtraShield.description> <!-- <En>Start with a shield in your inventory. It will let you block enemy attacks.</En> -->
+  <ExtraShield.YouveUnlockedAShield>Sonraki oyunların için bir kalkanın kilidini açtın! Düşman saldırılarını engellemek için kullanabilirsin.\n\nBu, özellikle menzilli düşmanlarla uğraşırken kullanışlıdır, çünkü onlara isabet almadan güvenle yaklaşabilirsin.\n\nAynı anda hem bir düşmanın saldırılarını engelleyip hem de ona saldıramazsın - bu durumda etki iptal edilir.\n\nKalkan kullanmak yorucudur, bu yüzden dayanıklılık tüketir.</ExtraShield.YouveUnlockedAShield> <!-- <En>You've unlocked a shield for your next runs! You can use it to block enemy attacks.\n\nThis is particularly useful while dealing with ranged enemies, as you can then safely approach them without getting hit.\n\nYou can't both block attacks from an enemy and attack him at the same time - the effect will then be canceled.\n\nUsing a shield is tiring, so it consumes stamina.</En> -->
+
+  <ExtraSpear.label>mızrak</ExtraSpear.label> <!-- <En>spear</En> -->
+  <ExtraSpear.description>Envanterinde fazladan bir mızrakla başla. Düşmanlara fırlat veya tuzakları tetiklemek için kullan.</ExtraSpear.description> <!-- <En>Start with an extra spear in your inventory. Throw it at enemies or use to trigger traps.</En> -->
+  <ExtraSpear.YouveUnlockedASpearFor>Sonraki oyunların için bir mızrağın kilidini açtın! Düşmanlara uzaktan saldırmak veya tuzakları tetiklemek için kullanabilirsin.\n\nBir düşmanın sivri uçların altından veya duvara monte bir topun yanından geçmesini bekle ve tuzağı tetiklemek için mızrağı fırlat.\n\nMızrak fırlatmak yorucudur, bu yüzden dayanıklılık tüketir. Aç kalmadığın sürece dayanıklılık otomatik olarak yenilenir.</ExtraSpear.YouveUnlockedASpearFor> <!-- <En>You've unlocked a spear for your next runs! You can use it to attack enemies or trigger traps from a distance.\n\nWait for an enemy to walk below spikes or next to a wall-mounted cannon, and throw the spear at the trap to trigger it.\n\nThrowing a spear is tiring, so it consumes stamina. Stamina regenerates automatically unless you're starving.</En> -->
+
+  <ExtraSword.label>kılıç</ExtraSword.label> <!-- <En>sword</En> -->
+  <ExtraSword.description>Envanterinde bir kılıçla başla. Bu, tek kullanımlık bir bonustur ve sadece bir sonraki oyunun için geçerlidir.</ExtraSword.description> <!-- <En>Start with a sword in your inventory. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <ExtraWatch.label>saat</ExtraWatch.label> <!-- <En>watch</En> -->
+  <ExtraWatch.description>Envanterinde bir saatle başla. Zamanı geri almanı sağlar.</ExtraWatch.description> <!-- <En>Start with a watch in your inventory. It will let you rewind time.</En> -->
+  <ExtraWatch.YouveUnlockedTheMagic>Sonraki oyunların için sihirli saatin kilidini açtın! İstediğin zaman zamanı geri almanı sağlar.\n\n[Rewind] tuşuna basarak son turu geri al.\n\nSaatin tek seferde ne kadar tur geri alabileceğinin bir sınırı vardır, ancak her hareket ettiğinde yeniden şarj olur.</ExtraWatch.YouveUnlockedTheMagic> <!-- <En>You've unlocked the magic watch for your next runs! It lets you rewind time at your will.\n\nRewind the last turn by pressing [Rewind].\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges whenever you move.</En> -->
+
+  <GoldBoost.label>altın x1.25</GoldBoost.label> <!-- <En>gold x1.25</En> -->
+  <GoldBoost.description>Zindanda normalde bulacağından %25 daha fazla altın bul. Bu, tek kullanımlık bir bonustur ve sadece bir sonraki oyunun için geçerlidir.</GoldBoost.description> <!-- <En>Find 25% more gold than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <Hallway.label>koridor</Hallway.label> <!-- <En>hallway</En> -->
+  <Hallway.description>Lobideki koridora erişim kazan.</Hallway.description> <!-- <En>Gain access to the hallway in the lobby.</En> -->
+
+  <Level100Sculpture.label_2>seviye 100 heykeli</Level100Sculpture.label_2> <!-- <En>level 100 sculpture</En> -->
+  <Level100Sculpture.description_2>100. seviyeye ulaştığını anmak için bir heykel al. Lobideki özel odana yerleştirebilirsin.</Level100Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 100. You can place it in your private room in the lobby.</En> -->
+  <Level100Sculpture.CongratulationsForReaching>100. seviyeye ulaştığın için tebrikler!\n\nBu büyük başarıyı anmak için özel odana yerleştirebileceğin özel bir heykel aldın.</Level100Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 100!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level25Sculpture.label_2>seviye 25 heykeli</Level25Sculpture.label_2> <!-- <En>level 25 sculpture</En> -->
+  <Level25Sculpture.description_2>25. seviyeye ulaştığını anmak için bir heykel al. Lobideki özel odana yerleştirebilirsin.</Level25Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 25. You can place it in your private room in the lobby.</En> -->
+  <Level25Sculpture.CongratulationsForReaching>25. seviyeye ulaştığın için tebrikler!\n\nBu büyük başarıyı anmak için özel odana yerleştirebileceğin özel bir heykel aldın.</Level25Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 25!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <Level50Sculpture.label_2>seviye 50 heykeli</Level50Sculpture.label_2> <!-- <En>level 50 sculpture</En> -->
+  <Level50Sculpture.description_2>50. seviyeye ulaştığını anmak için bir heykel al. Lobideki özel odana yerleştirebilirsin.</Level50Sculpture.description_2> <!-- <En>Receive a sculpture to commemorate reaching level 50. You can place it in your private room in the lobby.</En> -->
+  <Level50Sculpture.CongratulationsForReaching>50. seviyeye ulaştığın için tebrikler!\n\nBu büyük başarıyı anmak için özel odana yerleştirebileceğin özel bir heykel aldın.</Level50Sculpture.CongratulationsForReaching> <!-- <En>Congratulations for reaching level 50!\n\nYou've received a special sculpture which you can place in your private room to commemorate this great achievement.</En> -->
+
+  <PrivateRoom.label_2>özel oda anahtarı</PrivateRoom.label_2> <!-- <En>private room key</En> -->
+  <PrivateRoom.description>Daha sonra dekore edebileceğin kendi özel odana erişim kazan.</PrivateRoom.description> <!-- <En>Gain access to your own private room which you can then decorate.</En> -->
+  <PrivateRoom.YouveUnlockedYourOwn>Kendi özel odanın kilidini açtın!\n\nİçerideyken [ShowInventory] tuşuna basarak odayı dekore edebilirsin.\n\nBazı nadir kupaları ve dekorasyonları elde etmek zor olabilir - örneğin, zindanın derinliklerinde bir yerlerde saklanmış olabilirler.</PrivateRoom.YouveUnlockedYourOwn> <!-- <En>You've unlocked your own private room!\n\nYou can decorate it by pressing [ShowInventory] when you're inside.\n\nSome rarer trophies and decorations may be difficult to obtain - for example, they may be hidden somewhere deep in the dungeon.</En> -->
+
+  <ScoreBoost.label>puan x2</ScoreBoost.label> <!-- <En>score x2</En> -->
+  <ScoreBoost.description>Zindanda normalde alacağından %100 daha fazla puan kazan. Bu, tek kullanımlık bir bonustur ve sadece bir sonraki oyunun için geçerlidir.</ScoreBoost.description> <!-- <En>Get 100% more score than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <StardustBoost.label>yıldız tozu x1.5</StardustBoost.label> <!-- <En>stardust x1.5</En> -->
+  <StardustBoost.description>Zindanda normalde bulacağından %50 daha fazla yıldız tozu bul. Bu, tek kullanımlık bir bonustur ve sadece bir sonraki oyunun için geçerlidir.</StardustBoost.description> <!-- <En>Find 50% more stardust than you normally would in the dungeon. This is a single-use bonus and it only applies to your next run.</En> -->
+
+  <TrainingRoom.label>eğitim odası</TrainingRoom.label> <!-- <En>training room</En> -->
+  <TrainingRoom.description>Lobideki eğitim odasına erişim kazan.</TrainingRoom.description> <!-- <En>Gain access to the training room in the lobby.</En> -->
+
+  <TrashPile1.label>çöp yığını</TrashPile1.label> <!-- <En>trash pile</En> -->
+  <TrashPile1.description>Daha fazla alana sahip olmak için bir çöp yığınını temizle.</TrashPile1.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile2.label>çöp yığını</TrashPile2.label> <!-- <En>trash pile</En> -->
+  <TrashPile2.description>Daha fazla alana sahip olmak için bir çöp yığınını temizle.</TrashPile2.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+  <TrashPile3.label>çöp yığını</TrashPile3.label> <!-- <En>trash pile</En> -->
+  <TrashPile3.description>Daha fazla alana sahip olmak için bir çöp yığınını temizle.</TrashPile3.description> <!-- <En>Clean up a pile of trash to have more space.</En> -->
+
+</SpecTranslations>

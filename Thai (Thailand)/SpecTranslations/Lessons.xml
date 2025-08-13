@@ -1,0 +1,82 @@
+<SpecTranslations>
+
+  <BigMap.label>แผนที่ขนาดเล็ก</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>กด [Minimap] หรือ [MinimapAlt] ค้างไว้เพื่อดูแผนที่\n\nคุณสามารถซูมเข้าได้ด้วยลูกกลิ้งเมาส์\n\nห้องที่สำคัญที่สุดจะถูกทำเครื่องหมายไว้บนแผนที่ของคุณ</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>กด [MinimapAlt] ค้างไว้เพื่อดูแผนที่\n\nห้องที่สำคัญที่สุดจะถูกทำเครื่องหมายไว้บนแผนที่ของคุณ</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>การปีน</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>เข้าไปในห้องถัดไปและปีนบันได\n\nเดินเข้าไปในช่องที่มีบันไดแล้วกด [MoveForward] ขณะที่กด [Fly] ค้างไว้เพื่อขึ้นไป\n\nหรืออีกวิธีหนึ่ง คุณสามารถคลิกที่บันไดได้เลย</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>เข้าไปในห้องถัดไปและปีนบันได\n\nเดินเข้าไปในช่องที่มีบันไดแล้วกด [MoveForward] ขณะที่กด [Fly] ค้างไว้เพื่อขึ้นไป</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>การดื่มยา</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>หยิบยาจากหีบแล้วดื่ม\n\nคุณสามารถกดปุ่มตัวเลขที่ตรงกันเพื่อใช้ยาจากแถบด่วน - ในกรณีนี้คือ \"1\"</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>หยิบยาจากหีบแล้วดื่ม กด [Accept] เพื่อโต้ตอบ\n\nคุณสามารถกด [QuickbarMenu] เพื่อแสดงเมนูพร้อมไอเทมทั้งหมดในแถบด่วนของคุณ</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>การต่อสู้</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>กำจัดโครงกระดูก คลิกเพื่อโจมตี กด [Wait] เพื่อรอ\n\nศัตรูจะไม่เคลื่อนไหวจนกว่าคุณจะเคลื่อนที่หรือโจมตี\n\nเคล็ดลับ:\n- วางแผนการเคลื่อนไหวครั้งต่อไปอย่างรอบคอบเสมอ\n- ศัตรูส่วนใหญ่ร้ายกาจและทุกแต้มพลังชีวิตมีความหมาย\n- หลีกเลี่ยงการถูกศัตรูหลายตัวล้อมพร้อมกัน</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>กำจัดโครงกระดูก กด [Accept] เพื่อโจมตี และ [Wait] เพื่อรอ\n\nศัตรูจะไม่เคลื่อนไหวจนกว่าคุณจะเคลื่อนที่หรือโจมตี\n\nเคล็ดลับ:\n- วางแผนการเคลื่อนไหวครั้งต่อไปอย่างรอบคอบเสมอ\n- ศัตรูส่วนใหญ่ร้ายกาจและทุกแต้มพลังชีวิตมีความหมาย\n- หลีกเลี่ยงการถูกศัตรูหลายตัวล้อมพร้อมกัน</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>การตรวจสอบ</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>ปิดช่องเก็บของของคุณโดยการกด [ShowInventory] อีกครั้ง และกด [Inspect] หรือ [InspectAlt] ค้างไว้เพื่อตรวจสอบสภาพแวดล้อม\n\nอย่าลืมตรวจสอบศัตรูทุกตัวเพื่อดูว่าพวกมันอันตรายแค่ไหน</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>ปิดช่องเก็บของของคุณโดยการกด [ShowInventory] อีกครั้ง และกด [Inspect] ค้างไว้เพื่อตรวจสอบสภาพแวดล้อม\n\nอย่าลืมตรวจสอบศัตรูทุกตัวเพื่อดูว่าพวกมันอันตรายแค่ไหน</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>ปิดช่องเก็บของของคุณโดยการกด [ShowInventory] อีกครั้ง และกด [Inspect] หรือ [InspectAlt] ค้างไว้เพื่อตรวจสอบสภาพแวดล้อม\n\nอย่าลืมตรวจสอบศัตรูทุกตัวเพื่อดูว่าพวกมันอันตรายแค่ไหน</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>ช่องเก็บของ</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>สวมใส่ดาบ\n\nลาก, คลิกขวา, หรือกด \"1\" เพื่อใช้งานจากแถบด่วน\n\nไอเทมส่วนใหญ่ยังไม่ถูกระบุและบางชิ้นอาจถูกสาป!</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>สวมใส่ดาบ\n\nคุณสามารถกด [QuickbarMenu] เพื่อแสดงเมนูพร้อมไอเทมทั้งหมดในแถบด่วนของคุณ\n\nไอเทมส่วนใหญ่ยังไม่ถูกระบุและบางชิ้นอาจถูกสาป!</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>คันโยก</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>ทุกชั้นมีคันโยกซึ่งจะเปิดประตูไปยังห้องทางออก คลิกที่มันแล้วออกจากพื้นที่\n\nแต่ระวัง! การดึงคันโยกจะปลุกศัตรูทั้งหมดในชั้นนั้น!</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>ทุกชั้นมีคันโยกซึ่งจะเปิดประตูไปยังห้องทางออก ดึงมันโดยการกด [Accept] แล้วออกจากพื้นที่\n\nแต่ระวัง! การดึงคันโยกจะปลุกศัตรูทั้งหมดในชั้นนั้น!</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>การเคลื่อนที่</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>กด [MoveForward], [MoveLeft], [MoveBack], [MoveRight] เพื่อเคลื่อนที่\n\nRicave เป็นเกมแบบเทิร์นเบส การเคลื่อนที่หนึ่งครั้งใช้หนึ่งเทิร์น ดังนั้นคนอื่น ๆ จะเคลื่อนที่ไปพร้อมกับคุณ\n\nคุณสามารถคลิกเพื่อเคลื่อนที่ได้เช่นกัน</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>กด [MoveForward], [MoveLeft], [MoveBack], [MoveRight] เพื่อเคลื่อนที่\n\nRicave เป็นเกมแบบเทิร์นเบส การเคลื่อนที่หนึ่งครั้งใช้หนึ่งเทิร์น ดังนั้นคนอื่น ๆ จะเคลื่อนที่ไปพร้อมกับคุณ</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>การเปิดประตู</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>หากต้องการเปิดประตู ให้เดินเข้าไปหรือคลิกที่ประตู</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>หากต้องการเปิดประตู ให้เดินเข้าไปในประตู</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>ช่องเก็บของ</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>กด [ShowInventory] เพื่อเปิดช่องเก็บของของคุณ</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>การเก็บไอเทม</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>ในทำนองเดียวกัน หากต้องการเก็บไอเทม ให้เดินเข้าไปหรือคลิกที่ไอเทม</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>ในทำนองเดียวกัน หากต้องการเก็บไอเทม ให้เดินเข้าไปที่ไอเทม</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>โจมตีเร็ว</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>เข้าไปในห้องถัดไปและกด [AttackNearest] ใกล้กับลังเพื่อโจมตีเป้าหมายที่ใกล้ที่สุดกับเมาส์ของคุณโดยอัตโนมัติ\n\nการกด [AttackNearest] อาจจะสบายกว่าการใช้เมาส์ มันช่วยให้คุณทำลายเป้าหมายหลายตัวรอบ ๆ ตัวคุณได้อย่างรวดเร็ว</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>เข้าไปในห้องถัดไปและกด [Accept] เพื่อทำลายลัง หมุนด้วย [RotateLeft] และ [RotateRight] เพื่อหันหน้าไปทางพวกมัน</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>การหมุน</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>ใช้เมาส์ของคุณเพื่อมองไปรอบ ๆ หรือกด [RotateLeft] หรือ [RotateRight] เพื่อหมุน\n\nการหมุนไม่เหมือนกับการเคลื่อนที่ ไม่ต้องใช้เทิร์น</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>กด [RotateLeft] หรือ [RotateRight] เพื่อหมุน\n\nการหมุนไม่เหมือนกับการเคลื่อนที่ ไม่ต้องใช้เทิร์น</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>การเคลื่อนที่ด้านข้าง</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>กด [MoveLeft] หรือ [MoveRight] เพื่อเคลื่อนที่ด้านข้าง</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>ส่วนของร่างกาย</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>กด [Fly] ค้างไว้แล้วคลิกที่แขนของโครงกระดูกเพื่อทำลายมัน จากนั้นกำจัดมันตามปกติ\n\nแต่ละส่วนของร่างกายมีแต้มพลังชีวิตเป็นของตัวเอง</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>กด [Fly] ค้างไว้แล้วกด [Accept] หรือ Right Trigger ที่แขนของโครงกระดูกเพื่อทำลายมัน จากนั้นกำจัดมันตามปกติ\n\nแต่ละส่วนของร่างกายมีแต้มพลังชีวิตเป็นของตัวเอง</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>คำแนะนำเครื่องมือ</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>คำแนะนำเครื่องมือมีความสำคัญ! วางเมาส์เหนือสิ่งใด ๆ ในหน้าจอช่องเก็บของเพื่อเรียนรู้เกี่ยวกับมัน\n\nอย่าลืมตรวจสอบทุกไอเทมที่คุณพบ</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>คำแนะนำเครื่องมือมีความสำคัญ! ลองใช้ดูขณะที่หน้าจอช่องเก็บของของคุณเปิดอยู่\n\nอย่าลืมตรวจสอบทุกไอเทมที่คุณพบ</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>การรอ</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>กด [Wait] เพื่อรอหนึ่งเทิร์น\n\nการรอช่วยให้คุณเป็นคนแรกที่สร้างความเสียหายและยังชาร์จการโจมตีครั้งต่อไปของคุณด้วย</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

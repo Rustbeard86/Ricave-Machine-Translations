@@ -1,0 +1,72 @@
+<SpecTranslations>
+
+  <Archer.label>궁수</Archer.label> <!-- <En>archer</En> -->
+  <Archer.description>원거리 전투를 선호하며 궁지에 몰리지 않는 한 거리를 유지합니다.</Archer.description> <!-- <En>Prefers ranged combat and keeps distance unless cornered.</En> -->
+
+  <Dragon.label>드래곤</Dragon.label> <!-- <En>dragon</En> -->
+  <Dragon.description>위풍당당하고 강력하며 분노한 드래곤입니다.</Dragon.description> <!-- <En>An angry, powerful dragon in all its glory.</En> -->
+
+  <Exploder.label>폭파병</Exploder.label> <!-- <En>exploder</En> -->
+  <Exploder.description>죽으면 폭발합니다.</Exploder.description> <!-- <En>Explodes when killed.</En> -->
+
+  <Mimic.label>미믹</Mimic.label> <!-- <En>mimic</En> -->
+  <Mimic.description>깜짝이야!</Mimic.description> <!-- <En>Surprise!</En> -->
+
+  <Mole.label>두더지</Mole.label> <!-- <En>mole</En> -->
+  <Mole.description>여기저기 숨는 것을 좋아합니다.</Mole.description> <!-- <En>Likes to hide here and there.</En> -->
+
+  <Mummy.label>미라</Mummy.label> <!-- <En>mummy</En> -->
+  <Mummy.description>느리지만 강합니다.</Mummy.description> <!-- <En>Slow but strong.</En> -->
+
+  <Mutant.label>돌연변이</Mutant.label> <!-- <En>mutant</En> -->
+  <Mutant.description>끔찍한 괴물입니다. 공격받으면 일정 확률로 공황 상태에 빠뜨립니다.</Mutant.description> <!-- <En>A hideous monster. Has a chance to make you panic when you're hit.</En> -->
+
+  <Nimlet.label>님렛</Nimlet.label> <!-- <En>nimlet</En> -->
+  <Nimlet.description>그다지 강하지는 않지만 꽤 성가십니다. 먼저 접근하지 않습니다.</Nimlet.description> <!-- <En>Not very strong, but quite annoying. Doesn't approach first.</En> -->
+
+  <Ninja.label>닌자</Ninja.label> <!-- <En>ninja</En> -->
+  <Ninja.description>빠르고 치명적입니다. 공격 후 반격을 피하기 위해 뒤로 물러납니다.</Ninja.description> <!-- <En>Fast and deadly. Backs off after attacking you to avoid getting hit.</En> -->
+
+  <Phantom.label>팬텀</Phantom.label> <!-- <En>phantom</En> -->
+  <Phantom.description>불길하게 공중을 떠다니는 짐승입니다.</Phantom.description> <!-- <En>A disturbing, levitating beast.</En> -->
+
+  <Rammok.label>람목</Rammok.label> <!-- <En>rammok</En> -->
+  <Rammok.description>크고 분노한 괴물입니다. 공격받으면 가끔씩 당신을 밀쳐냅니다.</Rammok.description> <!-- <En>A big and angry monster. He'll sometimes push you when you're hit.</En> -->
+
+  <Rat.label>쥐</Rat.label> <!-- <En>rat</En> -->
+  <Rat.description>성가신 쥐입니다. 쥐는 가끔 등 뒤에서 나타날 수 있습니다.</Rat.description> <!-- <En>A pesky rat. Rats can sometimes spawn behind your back.</En> -->
+
+  <Rogue.label_2>도적</Rogue.label_2> <!-- <En>rogue</En> -->
+  <Rogue.description_2>공격한 뒤 도망칩니다.</Rogue.description_2> <!-- <En>Attacks and then runs away.</En> -->
+
+  <Skeleton.label>해골</Skeleton.label> <!-- <En>skeleton</En> -->
+  <Skeleton.description>이 던전의 평범한 주민입니다.</Skeleton.description> <!-- <En>A typical inhabitant of this dungeon.</En> -->
+
+  <Slime.label>슬라임</Slime.label> <!-- <En>slime</En> -->
+  <Slime.description>분노한 녹색 슬라임 덩어리로, 죽으면 더 작은 조각으로 분열됩니다.</Slime.description> <!-- <En>An angry blob of green slime which will split into smaller pieces when killed.</En> -->
+
+  <Sludgen.label>슬러젠</Sludgen.label> <!-- <En>sludgen</En> -->
+  <Sludgen.description>냄새가 좋지 않습니다.</Sludgen.description> <!-- <En>Doesn't smell nice.</En> -->
+
+  <SmallSlime.label>작은 슬라임</SmallSlime.label> <!-- <En>small slime</En> -->
+  <SmallSlime.description>큰 슬라임보다 작고 덜 화난 버전입니다.</SmallSlime.description> <!-- <En>A smaller and less angry version of the big blob.</En> -->
+
+  <Spider.label>거미</Spider.label> <!-- <En>spider</En> -->
+  <Spider.description>여러 장소에 숨어 있습니다. 먹잇감을 중독시킬 수 있습니다. 모두를 증오합니다.</Spider.description> <!-- <En>Hides in various places. Can poison its prey. Hates everyone.</En> -->
+
+  <Summoner.label>소환사</Summoner.label> <!-- <En>summoner</En> -->
+  <Summoner.description>치명적인 생명체를 소환합니다.</Summoner.description> <!-- <En>Summons deadly creatures.</En> -->
+
+  <Tangler.label>탱글러</Tangler.label> <!-- <En>tangler</En> -->
+  <Tangler.description>꽤 강하지만 서툽니다. 공격받으면 일정 확률로 당신을 옭아맬 수 있습니다.</Tangler.description> <!-- <En>Quite strong, but clumsy. There's a chance he'll entangle you when you're hit.</En> -->
+
+  <Trickster.label>트릭스터</Trickster.label> <!-- <En>trickster</En> -->
+  <Trickster.description>몇 가지 속임수를 숨기고 있습니다. 모든 트릭스터는 무작위 주문을 가지고 있습니다.</Trickster.description> <!-- <En>Keeps a few tricks up his sleeve. Every trickster has a random spell.</En> -->
+
+  <Wasp.label>말벌</Wasp.label> <!-- <En>wasp</En> -->
+  <Wasp.description>죽이기는 쉽지만 여전히 위험합니다. 말벌은 보통 말벌집에서 나옵니다.</Wasp.description> <!-- <En>Easy to kill but still dangerous. Wasps usually come from wasp nests.</En> -->
+
+  <Wizard.label>마법사</Wizard.label> <!-- <En>wizard</En> -->
+  <Wizard.description>원거리에서 마법 피해를 줍니다.</Wizard.description> <!-- <En>Deals magic damage from a distance.</En> -->
+
+</SpecTranslations>

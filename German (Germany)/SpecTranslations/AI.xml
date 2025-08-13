@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>nähert sich und greift an, zieht sich dann zurück, um nicht getroffen zu werden</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>greift an, flieht dann für 8 Züge, es sei denn, es ist in die Enge getrieben</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>nähert sich nicht zuerst, bleibt aber, sobald man sich nähert</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>immer auf der Flucht</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>hält Abstand, es sei denn, es ist in die Enge getrieben</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>hält Abstand, es sei denn, es ist in die Enge getrieben oder hat keine Waffe</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>folgt dem Spieler und greift an (Gruppenmitglied)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>folgt dem Spieler und greift bei Gelegenheit an</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>nähert sich und greift an</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>bleibt stehen oder flieht bei einem Angriff</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>bleibt stehen</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>bleibt stehen und heilt Verbündete</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>bleibt stehen oder flieht bei einem Angriff</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>stiehlt und rennt dann weg</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

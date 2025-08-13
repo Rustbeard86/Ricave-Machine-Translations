@@ -1,0 +1,64 @@
+<SpecTranslations>
+
+  <AllIn.label>الكل أو لا شيء</AllIn.label> <!-- <En>all in</En> -->
+  <AllIn.description>ابدأ بنقاط مهارة إضافية، لكن لا يمكنك اكتساب المزيد منها أبدًا.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
+  <AllIn.goodEffects>ابدأ بـ 3 نقاط مهارة</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects>لا يمكن الحصول على المزيد من نقاط المهارة</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+
+  <Angel.label>ملاك</Angel.label> <!-- <En>angel</En> -->
+  <Angel.description>تمكن من الطيران وإلحاق المزيد من الضرر بالشيطان على حساب الضعف ضد ضرر النار والسم والسحر.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
+
+  <Berserker.label_2>هائج</Berserker.label_2> <!-- <En>berserker</En> -->
+  <Berserker.description_2>تلحق ضررًا أكبر مؤقتًا بعد كل قتلة جديرة، لكنك تصبح أيضًا أكثر عرضة للخطر.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
+  <Berserker.goodEffects>إلحاق ضرر جسدي أكبر بنسبة 25% لمدة 6 أدوار بعد قتلة جديرة</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects>تلقي ضرر جسدي أكبر بنسبة 25% لمدة 6 أدوار بعد قتلة جديرة</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+
+  <BossHunter.label>صياد الزعماء</BossHunter.label> <!-- <En>boss hunter</En> -->
+  <BossHunter.description>تلحق ضررًا أكبر بجميع الزعماء، لكنهم سيبدأون مستيقظين.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
+  <BossHunter.badEffects>يبدأ جميع الزعماء مستيقظين</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+
+  <Bulky.label>ضخم</Bulky.label> <!-- <En>bulky</En> -->
+  <Bulky.description>اكتسب المزيد من نقاط الصحة القصوى لكل مستوى على حساب الحركة الأعلى صوتًا.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
+
+  <Explorer.label>مستكشف</Explorer.label> <!-- <En>explorer</En> -->
+  <Explorer.description>ابدأ بمعدات إضافية واعثر على المزيد من الذهب على حساب تقليل القدرة على التحمل والمانا القصوى.</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
+
+  <Giant.label>عملاق</Giant.label> <!-- <En>giant</En> -->
+  <Giant.description>تصبح محصنًا ضد الدفع والجذب، وتكتسب زيادة طفيفة في نقاط الصحة القصوى على حساب زيادة معدل الجوع، وضرر السقوط الأعلى، والأسعار المرتفعة.</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
+
+  <Insectoid.label>حشري</Insectoid.label> <!-- <En>insectoid</En> -->
+  <Insectoid.description>تصبح صديقًا للعناكب وتكتسب بعض المقاومة للسم على حساب أن يصبح المتجولون عدائيين تجاهك والضعف ضد النار.</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
+
+  <LastStand.label>الصمود الأخير</LastStand.label> <!-- <En>last stand</En> -->
+  <LastStand.description>تلحق ضررًا أكبر عندما تكون نقاط صحتك منخفضة على حساب تجدد القدرة على التحمل بشكل أبطأ.</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
+
+  <LizardSkin.label>جلد السحلية</LizardSkin.label> <!-- <En>lizard skin</En> -->
+  <LizardSkin.description>اكتسب حصانة ضد السم والنزيف وكسر العظام، وتلتئم بشكل أسرع على حساب خفض نقاط الصحة القصوى إلى النصف.</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
+
+  <MoleRat.label>جرذ الخلد</MoleRat.label> <!-- <En>mole-rat</En> -->
+  <MoleRat.description>تمكن من الحفر واكتسب بعض المقاومة للعناصر على حساب اكتساب نقاط صحة قصوى أقل لكل مستوى.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
+  <MoleRat.goodEffects>يمكن الحفر بدون مجرفة</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+
+  <NightOwl.label>بومة ليلية</NightOwl.label> <!-- <En>night owl</En> -->
+  <NightOwl.description>ترى بشكل أفضل في الليل، ولكن أسوأ خلال النهار.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
+  <NightOwl.goodEffects>+1 مدى رؤية من 19:00 إلى 7:00</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects>-1 مدى رؤية من 7:00 إلى 19:00</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+
+  <Pacifist.label_2>مسالم</Pacifist.label_2> <!-- <En>pacifist</En> -->
+  <Pacifist.description>جميع عناصر المتجر مجانية وترتقي في المستوى أسرع بمرتين، لكن كل قتلة جديرة تكلفك نقطة صحة واحدة.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
+
+  <Scary.label>مخيف</Scary.label> <!-- <En>scary</En> -->
+  <Scary.description>يصاب جميع الأعداء بالذعر إذا أيقظتهم على حساب الأسعار المرتفعة، وكون الطوائف عدائية تجاهك، وتقليل القدرة على التحمل القصوى. بالإضافة إلى ذلك، ستتبعك جميع الأشباح ولن تسقط أي غنائم.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
+  <Scary.goodEffects>يصاب الأعداء بالذعر لمدة 3 أدوار إذا أيقظتهم</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects>تتبعك الأشباح ولا تسقط أي غنائم</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+
+  <Shaman.label>شامان</Shaman.label> <!-- <En>shaman</En> -->
+  <Shaman.description>اكتسب نقطة مانا لكل قتلة جديرة على حساب امتلاك عدد أقل من خانات المخزون.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
+
+  <Vampire.label>مصاص دماء</Vampire.label> <!-- <En>vampire</En> -->
+  <Vampire.description>استعد نقطة صحة واحدة مقابل كل قتلة جديرة على حساب تعطيل تجدد الصحة أثناء النهار، والضعف ضد النار، وكون الكلاب عدائية تجاهك.</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
+  <Vampire.badEffects><li>لا تجدد للصحة من 7:00 إلى 19:00</li><li>-1 مدى رؤية من 7:00 إلى 19:00</li><li>عدائي تجاه الكلاب</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <li>-1 vision range from 7:00 to 19:00</li>
+  <li>Hostile to dogs</li></En> -->
+
+</SpecTranslations>

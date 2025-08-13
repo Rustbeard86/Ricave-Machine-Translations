@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <EveryoneStartsAwake.label>ทุกคนเริ่มเกมแบบตื่น</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>ทุกคนจะเริ่มเกมในสถานะตื่น</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>เพิ่มมินิบอสพิเศษต่อชั้น</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>จะมีมินิบอสพิเศษเกิดในแต่ละชั้น (มีผลเฉพาะในดันเจี้ยนที่มีมินิบอสเท่านั้น)</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>ศัตรูน้อยลง 20%</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>ทุกชั้นจะมีศัตรูน้อยลง 20%</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>ไอเทมทั้งหมดถูกระบุคุณสมบัติแล้ว</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>ไอเทมทั้งหมดที่คุณจะพบในดันเจี้ยนจะถูกระบุคุณสมบัติไว้แล้ว</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>ศัตรูมากขึ้น 20%</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>ทุกชั้นจะมีศัตรูมากขึ้น 20%</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>กับดักมากขึ้น</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>จะมีหนามแหลมและระเบิดจับความเคลื่อนไหวเกิดในดันเจี้ยนมากขึ้น</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>ไม่หิว</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>คุณจะไม่รู้สึกหิวเลย</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>ไม่มีมินิบอส</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>จะไม่มีมินิบอสเกิด (มีผลเฉพาะในดันเจี้ยนที่มีมินิบอสเท่านั้น)</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>ไม่มีเหตุการณ์สุ่ม</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>จะไม่มีเหตุการณ์สุ่มเกิดขึ้นไม่ว่าคุณจะอยู่ในดันเจี้ยนนานแค่ไหน (มีผลเฉพาะในดันเจี้ยนที่มีเหตุการณ์สุ่มเท่านั้น)</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>ไม่มีที่พักพิง</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>จะไม่มีที่พักพิงถูกสร้างขึ้น (มีผลเฉพาะในดันเจี้ยนที่มีที่พักพิงเท่านั้น)</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

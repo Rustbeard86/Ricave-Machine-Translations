@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>퍼즐 현수막</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>알록달록한 현수막입니다.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>트로피</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>각 보스 트로피는 보스를 처치한 층에 해당하는 만큼의 별가루를 생성합니다. 별가루는 던전의 2층 이상에 도달할 때마다 보충됩니다.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>옷장</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>여기서 외형을 변경할 수 있습니다.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>일일 도전 게시판</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>일일 도전에 참여하세요. 전 세계의 모든 플레이어가 매일 같은 도전을 받습니다!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>진열대</Display.label> <!-- <En>display</En> -->
+  <Display.description>아이템을 놓을 수 있는 장소입니다.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>포털</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>이것이 끝일까요?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>최종 대화 트리거</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>복도 표지판</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>이 문 뒤에 복도가 있습니다.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>문</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>이 문은 잠겨 있는 것 같습니다.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>문</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>이 문은 잠겨 있는 것 같습니다.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>별가루 60개를 사용해서 복도를 잠금 해제하시겠습니까?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>잠금 해제</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>문</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>이 문은 잠겨 있는 것 같습니다.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>별가루 20개를 사용해서 훈련실을 잠금 해제하시겠습니까?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>잠금 해제</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>기억의 문</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>기억의 조각 4개를 모두 모아야만 잠금 해제할 수 있는 문입니다.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>퍼즐 문</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>퍼즐 조각 10개를 모두 모아야 잠금 해제할 수 있는 문입니다. 각 던전 층마다 퍼즐 조각이 하나씩 있으며, 한 번의 도전에서 하나의 조각만 찾을 수 있습니다. 즉, 마지막 조각은 10층에 있습니다.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>마법 거울</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>여기서 특성을 변경할 수 있습니다.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>기억의 문</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>기억의 조각 4개를 모두 모아야만 잠금 해제할 수 있는 문입니다.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>기억의 조각</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>알 수 없는 기억의 조각입니다.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>기억의 조각</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>알 수 없는 기억의 조각입니다.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>기억의 조각</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>알 수 없는 기억의 조각입니다.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>기억의 조각</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>알 수 없는 기억의 조각입니다.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>계단</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>던전으로 이어지는 계단입니다.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>계단</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>특정 월드 시드를 사용하여 던전에 들어갈 수 있는 계단입니다. 이 던전에서는 모든 로비 진행 상황과 퀘스트가 비활성화됩니다.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>개인실 표지판</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>당신의 개인실입니다. 물론, 구매한 후에 말이죠.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>퍼즐 문</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>모든 퍼즐 조각을 모아 잠금 해제된 문입니다.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>퍼즐 방 표지판</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>수수께끼의 방입니다.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>퀘스트 게시판</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>진행 가능하거나 완료한 모든 퀘스트를 확인하세요.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>상점 표지판</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>상점이 있습니다. 별가루를 사용해 다음 도전을 위한 강화 효과를 구매할 수 있습니다.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>하늘</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>멋진 풍경입니다.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>하늘</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>멋진 풍경입니다.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>계단</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>던전으로 이어지는 계단입니다.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>통계 게시판</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>모든 통계를 확인하세요.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>훈련실 표지판</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>훈련실이 있습니다. 다양한 종류의 적을 상대로 훈련할 수 있습니다.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>계단</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>훈련실로 이어지는 계단입니다. 적과 보스를 상대로 훈련하세요.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>쓰레기 더미</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>이 칸을 막고 있는 쓰레기 더미입니다. 별가루를 사용해 영구적으로 제거할 수 있습니다.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>별가루 40개를 사용해서 이 쓰레기 더미를 치우시겠습니까?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>치우기</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>벽등</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>세련된 벽등입니다.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

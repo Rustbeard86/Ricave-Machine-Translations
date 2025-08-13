@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>إضافة حالة</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>سيكتسب الهدف حالة جديدة.</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>على الهدف: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>إضافة تأثير</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>سيكتسب الهدف تأثيرًا جديدًا.</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>إضافة تأثير: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>الربط بعمود السلسلة</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>اربط الهدف بعمود سلسلة.</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>إغلاق الباب بالمزلاج</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>أغلق الباب بالمزلاج. الطريقة الوحيدة للمرور عبر الأبواب المغلقة بالمزلاج هي تدميرها.</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>وميض مُعمٍ</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>أعمِ كل من يستطيع رؤيتك حاليًا.</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>وميض مُعمٍ {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>الاختباء تحت الأرض</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>اختبئ في الأرض.</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>استبدال الجرعة بلفافة</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>ستتلقى لفافة عشوائية مقابل أي جرعة.</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>انهيار السقف</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>سينهار السقف إذا لم يكن هناك دعم آخر.</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>انهيار السقف ({0} {1} ضرر)</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>انهيار السقف (خلية واحدة)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>سينهار السقف هنا وسيؤذي كل من تحته.</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>انهيار السقف (خلية واحدة) ({0} {1} ضرر)</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>جمع غبار النجوم</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>اجمع غبار النجوم من الكأس.</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>جمع غبار النجوم x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>الطبخ</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>اطبخ بعض الطعام.</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>سحر العتاد (كريستال)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>طبق سحرًا على عتاد من اختيارك.</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>تقديم عنصر ملعون</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>قدّم عنصرًا ملعونًا لتمثال الشيطان مقابل مكافأة.</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>إلحاق الضرر</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>سيفقد الهدف عددًا محددًا من نقاط الإصابة مطروحًا منه درعه.</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1} ضرر</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>تدمير</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>سيتم تدمير الهدف.</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>الحفر</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>احفر أشياء مثل التراب.</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>تدمير الأجسام الهشة</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>دمّر الأجسام الهشة مثل الجدران الطوبية والبوابات.</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>تحطيم الزجاج</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>دمّر الأجسام المصنوعة من الزجاج مثل النوافذ والأرضيات الزجاجية.</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>التعدين</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>عدّن الأجسام التي يمكن تعدينها، مثل الكريستالات.</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>تدمير جزء من الجسد</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>دمّر جزءًا عشوائيًا من الجسد.</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>الحصول على مكافأة</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>احصل على مكافأة عشوائية.</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>استنساخ</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>سيتم استنساخ عنصر من اختيارك أو تدميره.</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>استنساخ (فرصة {0})</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>سحر العتاد</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>طبق سحرًا عشوائيًا على عتاد من اختيارك.</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>إطفاء</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>أطفئ أي حريق.</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>الإطعام</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>أشبع جوعك.</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>شبع {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>إنهاء الجولة</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>أنهِ هذه الجولة وعد إلى الردهة.</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>اصطياد سمكة</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>اصطد سمكة.</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>كسب نقطة مهارة</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>اكتسب نقطة مهارة واحدة.</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>المقامرة</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>راهن بأموالك وانظر ما إذا كنت ستفوز.</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>الشفاء</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>سيتم استعادة العدد المحدد من نقاط الإصابة للهدف.</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>شفاء {0} نقطة إصابة</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>تحديد عنصر</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>حدد عنصرًا.</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>تحديد العناصر</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>تحديد العناصر (عدد محدد من الأدوار بقيمة التحديد).</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>تحديد العناصر {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>إحداث ضوضاء</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>أيقظ المخلوقات النائمة في النطاق المحدد.</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>فتح خزنة إلكترونية</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>افتح خزنة إلكترونية في مكان ما.</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>الدفع</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>سيتعين عليك التخلي عن عناصر معينة.</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>ادفع {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>السحب</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>سيتم سحب الهدف نحو مستخدم القدرة.</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>سحب {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>الدفع</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>سيتم دفع الهدف بضع خلايا إلى الوراء.</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>دفع {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>دفع عشوائي</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>سيتم دفع الهدف في اتجاه عشوائي.</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>دفع عشوائي {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>تأثير عشوائي</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>طبق تأثيرًا عشوائيًا.</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>استلام عنصر</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>سيتم منح عنصر للمستخدم.</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>استلم {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>إزالة الحالة</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>ستتم إزالة حالة معينة من الهدف.</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>إزالة {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>إزالة اللعنة</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>أزل اللعنة من عنصر في مخزون الهدف. سيعطي هذا الأولوية لإزالة اللعنة من العناصر المجهزة.</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>إزالة الحالة</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>ستتم إزالة حالة معينة من الهدف.</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>إزالة {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>البحث</Research.label> <!-- <En>research</En> -->
+  <Research.description>ابحث عن غرض.</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>إعادة تعيين شحنات الساعة</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>سيتم ضبط شحنات ساعتك على الصفر، لذا لن تتمكن من إرجاع الوقت لبعض الوقت.</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>استعادة المانا</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>سيتم استعادة مانا الهدف.</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>استعادة {0} مانا</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>استعادة أجزاء الجسد المفقودة</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>سيتم استعادة جميع أجزاء الجسد المفقودة للهدف.</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>استعادة القدرة على التحمل</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>سيتم استعادة قدرة الهدف على التحمل.</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>استعادة {0} قدرة على التحمل</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>العودة إلى الردهة</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>عد إلى الردهة. ستنتهي جولتك الحالية، لكنك ستحتفظ ببعض الأشياء.</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>إرجاع الوقت</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>عد بالزمن إلى الوراء.</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>إرجاع {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>الإشعال</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>أشعل النار في غرض قابل للاشتعال.</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>إشعال النار ({0} نقطة إصابة)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>تحرير الروح</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>حرر روحًا.</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>استدعاء غرض</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>سيظهر غرض جديد في الجوار.</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>استدعاء {0}</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>استدعاء عدو عشوائي</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>سيظهر عدو عشوائي في الجوار.</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>استدعاء غرض</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>سيظهر غرض جديد في الجوار.</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>استدعاء {0}</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>السرقة</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>اسرق عنصرًا من الهدف.</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>استعادة أجزاء الجسد المفقودة</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>سيتم استعادة جميع أجزاء الجسد المفقودة للهدف.</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>الانتقال الآني</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>سيتم نقل الهدف آنيًا إلى الموقع المحدد.</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>الانتقال الآني إلى موقع عشوائي</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>سيتم نقل الهدف آنيًا إلى موقع عشوائي.</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>فتح القفل</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>افتح قفل عنصر أو مكان أو مكافأة جديدة.</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>فتح قفل {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>ترقية المستوى</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>قم بترقية مستوى عنصر ما.</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>ترقية تأثير الجرم السماوي</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>طبق تعزيزًا دائمًا.</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

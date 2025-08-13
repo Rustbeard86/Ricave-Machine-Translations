@@ -1,0 +1,346 @@
+<SpecTranslations>
+
+  <BarredDoor.label>φραγμένη πόρτα</BarredDoor.label> <!-- <En>barred door</En> -->
+  <BarredDoor.description>Μια φραγμένη πόρτα. Ο μόνος τρόπος να περάσετε είναι να την καταστρέψετε.</BarredDoor.description> <!-- <En>A barred door. The only way to get through is to destroy it.</En> -->
+
+  <Barrel.label>βαρέλι</Barrel.label> <!-- <En>barrel</En> -->
+  <Barrel.description>Ένα παλιό βαρέλι. Μπορεί να περιέχει κάτι χρήσιμο.</Barrel.description> <!-- <En>An old barrel. May contain something useful.</En> -->
+
+  <Bars.label>κάγκελα</Bars.label> <!-- <En>bars</En> -->
+  <Bars.description>Μεταλλικά κάγκελα.</Bars.description> <!-- <En>Metal bars.</En> -->
+
+  <BeerBarrel.label>βαρέλι μπύρας</BeerBarrel.label> <!-- <En>beer barrel</En> -->
+  <BeerBarrel.description>Ένα βαρέλι γεμάτο μπύρα. Θα μεθύσει όποιον βρίσκεται κοντά, αν καταστραφεί.</BeerBarrel.description> <!-- <En>A barrel full of beer. It'll make everyone nearby drunk if destroyed.</En> -->
+
+  <BigCrate.label>μεγάλο κιβώτιο</BigCrate.label> <!-- <En>big crate</En> -->
+  <BigCrate.description>Ένα παλιό κιβώτιο. Μπορεί να περιέχει κάτι χρήσιμο.</BigCrate.description> <!-- <En>An old crate. May contain something useful.</En> -->
+
+  <BigMagicTrap.label>μεγάλη μαγική παγίδα</BigMagicTrap.label> <!-- <En>big magic trap</En> -->
+  <BigMagicTrap.description>Μια θανάσιμη μαγική παγίδα. Καλύτερα να ρίξετε κάποιον άλλον μέσα σε αυτήν.</BigMagicTrap.description> <!-- <En>A deadly magic trap. Best to throw someone else into it.</En> -->
+
+  <BigPoisonTrap.label>μεγάλη παγίδα δηλητηρίου</BigPoisonTrap.label> <!-- <En>big poison trap</En> -->
+  <BigPoisonTrap.description>Μια θανάσιμη παγίδα δηλητηρίου. Καλύτερα να ρίξετε κάποιον άλλον μέσα σε αυτήν.</BigPoisonTrap.description> <!-- <En>A deadly poison trap. Best to throw someone else into it.</En> -->
+
+  <BlueCrystal.label>μπλε κρύσταλλος</BlueCrystal.label> <!-- <En>blue crystal</En> -->
+  <BlueCrystal.description>Εξορύξτε τον με μια αξίνα και χρησιμοποιήστε τον για να μαγέψετε το όπλο σας με ένα μαγικό εφέ. Πρέπει να συλλέξετε 2 κρυστάλλους του ίδιου χρώματος για να μαγέψετε τον εξοπλισμό σας.</BlueCrystal.description> <!-- <En>Mine it with a pickaxe and use it to enchant your weapon with a magic effect. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <Bonfire.label>φωτιά</Bonfire.label> <!-- <En>bonfire</En> -->
+  <Bonfire.description>Μπορείτε να μαγειρέψετε κάτι εδώ.</Bonfire.description> <!-- <En>You can cook something here.</En> -->
+  <Bonfire.YouSeeABonfireInFront>Βλέπετε μια φωτιά μπροστά σας.\n\nΜπορείτε να μαγειρέψετε φαγητό εδώ.</Bonfire.YouSeeABonfireInFront> <!-- <En>You see a bonfire in front of you.\n\nYou can cook some food here.</En> -->
+
+  <Boulder.label>βράχος</Boulder.label> <!-- <En>boulder</En> -->
+  <Boulder.description>Ένας μεγάλος βράχος εμποδίζει το δρόμο σας.</Boulder.description> <!-- <En>A big boulder blocking your path.</En> -->
+
+  <BrickWall.label>τούβλινος τοίχος</BrickWall.label> <!-- <En>brick wall</En> -->
+  <BrickWall.description>Αυτός ο παλιός τούβλινος τοίχος δεν φαίνεται πολύ σταθερός.</BrickWall.description> <!-- <En>This old brick wall doesn't look very stable.</En> -->
+
+  <Bridge.label>γέφυρα</Bridge.label> <!-- <En>bridge</En> -->
+  <Bridge.description>Μια ξύλινη, εύφλεκτη γέφυρα.</Bridge.description> <!-- <En>A wooden, flammable bridge.</En> -->
+
+  <CeilingBars.label>κάγκελα οροφής</CeilingBars.label> <!-- <En>ceiling bars</En> -->
+  <CeilingBars.description>Μεταλλικά κάγκελα στην οροφή.</CeilingBars.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingBarsReinforced.label>κάγκελα οροφής (ενισχυμένα)</CeilingBarsReinforced.label> <!-- <En>ceiling bars (reinforced)</En> -->
+  <CeilingBarsReinforced.description>Μεταλλικά κάγκελα στην οροφή.</CeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingSupport.label>στήριγμα οροφής</CeilingSupport.label> <!-- <En>ceiling support</En> -->
+  <CeilingSupport.description>Βοηθά στη στήριξη του βάρους της οροφής.</CeilingSupport.description> <!-- <En>Helps support the weight of the ceiling.</En> -->
+
+  <CeilingWithPipe.label>οροφή με σωλήνα</CeilingWithPipe.label> <!-- <En>ceiling with a pipe</En> -->
+  <CeilingWithPipe.description>Μια οροφή με ένα σωλήνα.</CeilingWithPipe.description> <!-- <En>A ceiling with a pipe.</En> -->
+
+  <Chain.label>αλυσίδα</Chain.label> <!-- <En>chain</En> -->
+  <Chain.description>Μια αλυσίδα που κρέμεται από την οροφή.</Chain.description> <!-- <En>A chain hanging from the ceiling.</En> -->
+
+  <ChainPost.label>στύλος με αλυσίδα</ChainPost.label> <!-- <En>chain post</En> -->
+  <ChainPost.description>Ένας πέτρινος στύλος με μια αλυσίδα συνδεδεμένη σε αυτόν.</ChainPost.description> <!-- <En>A stone post with a chain attached to it.</En> -->
+
+  <Chair.label>καρέκλα</Chair.label> <!-- <En>chair</En> -->
+  <Chair.description>Καθίστε και χαλαρώστε σε αυτό το όμορφο μπουντρούμι.</Chair.description> <!-- <En>Sit and relax in this beautiful dungeon.</En> -->
+
+  <Crates.label>κιβώτια</Crates.label> <!-- <En>crates</En> -->
+  <Crates.description>Μπορεί να περιέχουν ή να μην περιέχουν κάτι χρήσιμο.</Crates.description> <!-- <En>May or may not contain something useful.</En> -->
+
+  <CultistCircle.label>κύκλος αιρετικών</CultistCircle.label> <!-- <En>cultist circle</En> -->
+  <CultistCircle.description>Κάποια παράξενα σύμβολα στο πάτωμα. Δεν ταιριάζουν με τον αγιασμό.</CultistCircle.description> <!-- <En>Some strange symbols on the floor. They don't go well with holy water.</En> -->
+
+  <CutGrass.label>κομμένο γρασίδι</CutGrass.label> <!-- <En>cut grass</En> -->
+  <CutGrass.description>Υπολείμματα γρασιδιού.</CutGrass.description> <!-- <En>Grass remains.</En> -->
+
+  <CutsceneTrigger.label>ενεργοποιητής κινηματογραφικής σκηνής</CutsceneTrigger.label> <!-- <En>cutscene trigger</En> -->
+
+  <CyanWallLamp.label>κυανό φωτιστικό τοίχου</CyanWallLamp.label> <!-- <En>cyan wall lamp</En> -->
+  <CyanWallLamp.description>Ένα κομψό, κυανό φωτιστικό τοίχου.</CyanWallLamp.description> <!-- <En>A stylish, cyan wall lamp.</En> -->
+
+  <DamagedCeilingBars.label>κατεστραμμένα κάγκελα οροφής</DamagedCeilingBars.label> <!-- <En>damaged ceiling bars</En> -->
+  <DamagedCeilingBars.description>Μεταλλικά κάγκελα στην οροφή. Φαίνεται σαν κάποιος να τα έσπασε για να περάσει.</DamagedCeilingBars.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DamagedCeilingBarsReinforced.label>κατεστραμμένα κάγκελα οροφής (ενισχυμένα)</DamagedCeilingBarsReinforced.label> <!-- <En>damaged ceiling bars (reinforced)</En> -->
+  <DamagedCeilingBarsReinforced.description>Μεταλλικά κάγκελα στην οροφή. Φαίνεται σαν κάποιος να τα έσπασε για να περάσει.</DamagedCeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DangerDoor.label>κόκκινη πόρτα</DangerDoor.label> <!-- <En>red door</En> -->
+  <DangerDoor.description>Υπάρχει μια προαιρετική πρόκληση πίσω από αυτή την πόρτα. Αλλά προσοχή, μπορεί να είναι πολύ δύσκολη!</DangerDoor.description> <!-- <En>There's an optional challenge behind this door. But beware, it may be really difficult!</En> -->
+  <DangerDoor.YouSeeARedDoorInFront>Βλέπετε μια κόκκινη πόρτα μπροστά σας.\n\nΥπάρχει μια προαιρετική πρόκληση πίσω από αυτήν.\n\nΑλλά προσοχή, μπορεί να είναι πολύ δύσκολη!</DangerDoor.YouSeeARedDoorInFront> <!-- <En>You see a red door in front of you.\n\nThere's an optional challenge behind it.\n\nBut beware, it may be really difficult!</En> -->
+  <DangerDoor.Open>Άνοιγμα</DangerDoor.Open> <!-- <En>Open</En> -->
+
+  <DescendTrigger.label>τρύπα</DescendTrigger.label> <!-- <En>hole</En> -->
+  <DescendTrigger.description>Αυτή η τρύπα θα σας οδηγήσει στο κατώτερο επίπεδο αυτού του μπουντρουμιού.</DescendTrigger.description> <!-- <En>This hole will lead you to the lower level of this dungeon.</En> -->
+
+  <Dirt.label>χώμα</Dirt.label> <!-- <En>dirt</En> -->
+  <Dirt.description>Σκάψτε το με ένα φτυάρι για να ανοίξετε δρόμο. Ποιος ξέρει τι μπορείτε να βρείτε εδώ.</Dirt.description> <!-- <En>Dig into it with a shovel to clear a path. Who knows what you can find here.</En> -->
+
+  <DiscoBall.label>ντισκομπάλα</DiscoBall.label> <!-- <En>disco ball</En> -->
+  <DiscoBall.description>Μια πολύχρωμη ντισκομπάλα. Αλλά τι κάνει εδώ;</DiscoBall.description> <!-- <En>A colorful disco ball. But what is it doing here?</En> -->
+
+  <Door.label>πόρτα</Door.label> <!-- <En>door</En> -->
+  <Door.description>Το άνοιγμα αυτής της πόρτας θα μπορούσε να είναι η καλύτερη απόφαση της ζωής σας, ή η χειρότερη. Μπορείτε επίσης να αποφασίσετε να την κλωτσήσετε, κάτι που θα σπρώξει όλους τους εχθρούς που στέκονται στην άλλη πλευρά.</Door.description> <!-- <En>Opening this door could be the best decision of your life, or the worst. You can also decide to kick it instead, which will push all enemies standing on the other side.</En> -->
+
+  <Fan.label>ανεμιστήρας</Fan.label> <!-- <En>fan</En> -->
+  <Fan.description>Τουλάχιστον υπάρχει λίγος εξαερισμός εδώ.</Fan.description> <!-- <En>At least there's some ventilation here.</En> -->
+
+  <Fence.label>φράχτης</Fence.label> <!-- <En>fence</En> -->
+  <Fence.description>Ένας ξύλινος φράχτης. Σας επιτρέπει να βλέπετε μέσα από αυτόν, αλλά όχι να περάσετε.</Fence.description> <!-- <En>A wooden fence. Lets you see through it, but not pass.</En> -->
+
+  <Fire.label_2>φωτιά</Fire.label_2> <!-- <En>fire</En> -->
+  <Fire.description>Οποιοσδήποτε χαρακτήρας περάσει θα πιάσει φωτιά. Η φωτιά εξαπλώνεται σε άλλα παρακείμενα εύφλεκτα αντικείμενα, αλλά όχι σε χαρακτήρες.</Fire.description> <!-- <En>Any passing character will be set on fire. Fire spreads onto other adjacent flammable objects, but not characters.</En> -->
+
+  <Floor.label>πάτωμα</Floor.label> <!-- <En>floor</En> -->
+  <Floor.description>Ένα πάτωμα... ή μια οροφή, ανάλογα με το πού στέκεστε.</Floor.description> <!-- <En>A floor... or a ceiling depending on where you're standing.</En> -->
+
+  <FloorBars.label>κάγκελα πατώματος</FloorBars.label> <!-- <En>floor bars</En> -->
+  <FloorBars.description>Μεταλλικά κάγκελα στο πάτωμα.</FloorBars.description> <!-- <En>Metal bars in the floor.</En> -->
+
+  <FloorBarsReinforced.label>κάγκελα πατώματος (ενισχυμένα)</FloorBarsReinforced.label> <!-- <En>floor bars (reinforced)</En> -->
+  <FloorBarsReinforced.description>Μεταλλικά κάγκελα στο πάτωμα. Αυτά τα κάγκελα είναι ανθεκτικά σε εκρήξεις.</FloorBarsReinforced.description> <!-- <En>Metal bars in the floor. These bars are resistant to explosions.</En> -->
+
+  <Frame.label>πλαίσιο</Frame.label> <!-- <En>frame</En> -->
+  <Frame.description>Ένας εναλλακτικός τρόπος για να φτάσετε στο άλλο δωμάτιο.</Frame.description> <!-- <En>An alternative way to get to the other room.</En> -->
+
+  <Gate.label>πύλη</Gate.label> <!-- <En>gate</En> -->
+  <Gate.description>Πρέπει να υπάρχει κάπου ένας μοχλός για να ανοίξει αυτή η πύλη.</Gate.description> <!-- <En>There must be a lever somewhere to open this gate.</En> -->
+
+  <GateReinforced.label>πύλη (ενισχυμένη)</GateReinforced.label> <!-- <En>gate (reinforced)</En> -->
+  <GateReinforced.description>Πρέπει να υπάρχει κάπου ένας μοχλός για να ανοίξει αυτή η πύλη. Αυτή η πύλη είναι ανθεκτική σε εκρήξεις.</GateReinforced.description> <!-- <En>There must be a lever somewhere to open this gate. This gate is resistant to explosions.</En> -->
+
+  <GlassWall.label>γυάλινος τοίχος</GlassWall.label> <!-- <En>glass wall</En> -->
+  <GlassWall.description>Δείτε τι υπάρχει από την άλλη πλευρά. Μπορείτε να πετάξετε μια πέτρα για να τον σπάσετε.</GlassWall.description> <!-- <En>See what's on the other side. You can throw a stone to break it.</En> -->
+
+  <Glyph1.label>γλύφος</Glyph1.label> <!-- <En>glyph</En> -->
+  <Glyph1.description>Ένα μυστηριώδες σχέδιο. Σημαίνει κάτι;\n\nΣτο κάτω μέρος γράφει: Nopaew</Glyph1.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Nopaew</En> -->
+
+  <Glyph2.label>γλύφος</Glyph2.label> <!-- <En>glyph</En> -->
+  <Glyph2.description>Ένα μυστηριώδες σχέδιο. Σημαίνει κάτι;\n\nΣτο κάτω μέρος γράφει: Romra</Glyph2.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Romra</En> -->
+
+  <Glyph3.label>γλύφος</Glyph3.label> <!-- <En>glyph</En> -->
+  <Glyph3.description>Ένα μυστηριώδες σχέδιο. Σημαίνει κάτι;\n\nΣτο κάτω μέρος γράφει: Llorcs</Glyph3.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Llorcs</En> -->
+
+  <Glyph4.label>γλύφος</Glyph4.label> <!-- <En>glyph</En> -->
+  <Glyph4.description>Ένα μυστηριώδες σχέδιο. Σημαίνει κάτι;\n\nΣτο κάτω μέρος γράφει: Noitop</Glyph4.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Noitop</En> -->
+
+  <GoldenDoor.label>χρυσή πόρτα</GoldenDoor.label> <!-- <En>golden door</En> -->
+  <GoldenDoor.description>Αυτή η χρυσή πόρτα μπορεί να ανοίξει μόνο με ένα χρυσό κλειδί.</GoldenDoor.description> <!-- <En>This golden door can only be opened with a golden key.</En> -->
+
+  <GooPuddle.label>λίμνη γλίτσας</GooPuddle.label> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description>Μια λίμνη γλίτσας που θα επιβραδύνει οποιονδήποτε χαρακτήρα περάσει.</GooPuddle.description> <!-- <En>A pool of goo which will slow down any passing character.</En> -->
+
+  <Grass.label>γρασίδι</Grass.label> <!-- <En>grass</En> -->
+  <Grass.description>Ένα κομμάτι με ασυνήθιστα μακριές λεπίδες γρασιδιού.</Grass.description> <!-- <En>A patch of unusually long blades of grass.</En> -->
+
+  <GreenCrystal.label>πράσινος κρύσταλλος</GreenCrystal.label> <!-- <En>green crystal</En> -->
+  <GreenCrystal.description>Εξορύξτε τον με μια αξίνα και χρησιμοποιήστε τον για να ενισχύσετε τις προστατευτικές ιδιότητες του εξοπλισμού σας. Πρέπει να συλλέξετε 2 κρυστάλλους του ίδιου χρώματος για να μαγέψετε τον εξοπλισμό σας.</GreenCrystal.description> <!-- <En>Mine it with a pickaxe and use it to boost your gear's protective properties. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <GreenWallLamp.label>πράσινο φωτιστικό τοίχου</GreenWallLamp.label> <!-- <En>green wall lamp</En> -->
+  <GreenWallLamp.description>Ένα κομψό, πράσινο φωτιστικό τοίχου.</GreenWallLamp.description> <!-- <En>A stylish, green wall lamp.</En> -->
+
+  <HangingRope.label>σκοινί</HangingRope.label> <!-- <En>rope</En> -->
+  <HangingRope.description>Ένα σκοινί που κρέμεται από την οροφή.</HangingRope.description> <!-- <En>A rope hanging from the ceiling.</En> -->
+
+  <Hatch.label>καταπακτή</Hatch.label> <!-- <En>hatch</En> -->
+  <Hatch.description>Από εδώ ήρθατε. Δεν υπάρχει επιστροφή - ο χρόνος κινείται μόνο προς τα εμπρός, σωστά;</Hatch.description> <!-- <En>This is where you came from. There's no going back - time only moves forward, right?</En> -->
+
+  <InvisibleBlocker.label>εμπόδιο</InvisibleBlocker.label> <!-- <En>blocker</En> -->
+
+  <IronOre.label>μετάλλευμα σιδήρου</IronOre.label> <!-- <En>iron ore</En> -->
+  <IronOre.description>Εξορύξτε το με μια αξίνα και χρησιμοποιήστε το σε ένα αμόνι για να αναβαθμίσετε το επίπεδο του εξοπλισμού σας.</IronOre.description> <!-- <En>Mine it with a pickaxe and use it at an anvil to upgrade your gear level.</En> -->
+
+  <Ladder.label>σκάλα</Ladder.label> <!-- <En>ladder</En> -->
+  <Ladder.description>Μια σκάλα που μπορείτε να χρησιμοποιήσετε για να φτάσετε στο πάνω επίπεδο.</Ladder.description> <!-- <En>A ladder you can use to reach the upper level.</En> -->
+
+  <Lava.label>λάβα</Lava.label> <!-- <En>lava</En> -->
+  <Lava.description>Όχι και το καλύτερο μέρος για να βρίσκεστε.</Lava.description> <!-- <En>Not the best place to be in.</En> -->
+
+  <Liana.label>λιάνα</Liana.label> <!-- <En>liana</En> -->
+  <Liana.description>Μια λιάνα στην οποία μπορείτε να σκαρφαλώσετε.</Liana.description> <!-- <En>A liana which you can climb.</En> -->
+
+  <LobbySign.label>πινακίδα λόμπι</LobbySign.label> <!-- <En>lobby sign</En> -->
+  <LobbySign.description>Αυτός ο δρόμος οδηγεί πίσω στο λόμπι.</LobbySign.description> <!-- <En>This way leads back to the lobby.</En> -->
+
+  <MagicColumns.label>κολόνες</MagicColumns.label> <!-- <En>columns</En> -->
+  <MagicColumns.description>Τέσσερις λεπτές κολόνες.</MagicColumns.description> <!-- <En>Four thin columns.</En> -->
+
+  <MagicFire.label>μαγική φωτιά</MagicFire.label> <!-- <En>magic fire</En> -->
+  <MagicFire.description>Οποιοσδήποτε χαρακτήρας περάσει θα πιάσει φωτιά. Αυτός ο τύπος φωτιάς δεν εξαπλώνεται σε παρακείμενα αντικείμενα.</MagicFire.description> <!-- <En>Any passing character will be set on fire. This type of fire doesn't spread onto adjacent objects.</En> -->
+
+  <MagicWall.label>μαγικός τοίχος</MagicWall.label> <!-- <En>magic wall</En> -->
+  <MagicWall.description>Ένας μαγικός τοίχος που θα εξαφανιστεί σύντομα.</MagicWall.description> <!-- <En>A magic wall which will disappear soon.</En> -->
+
+  <Pedestal.label>βάθρο</Pedestal.label> <!-- <En>pedestal</En> -->
+  <Pedestal.description>Ένα στιβαρό, πέτρινο βάθρο.</Pedestal.description> <!-- <En>A sturdy, stone pedestal.</En> -->
+
+  <Pillar.label>κίονας</Pillar.label> <!-- <En>pillar</En> -->
+  <Pillar.description>Κάνει εξαιρετική δουλειά στο να διατηρεί την οροφή σταθερή.</Pillar.description> <!-- <En>Does a great job at keeping the ceiling stable.</En> -->
+
+  <PinkWallLamp.label>ροζ φωτιστικό τοίχου</PinkWallLamp.label> <!-- <En>pink wall lamp</En> -->
+  <PinkWallLamp.description>Ένα κομψό, ροζ φωτιστικό τοίχου.</PinkWallLamp.description> <!-- <En>A stylish, pink wall lamp.</En> -->
+
+  <PipeSmoke.label>καπνός από σωλήνα</PipeSmoke.label> <!-- <En>pipe smoke</En> -->
+  <PipeSmoke.description>Ένας τοξικός καπνός που βγαίνει από έναν σωλήνα.</PipeSmoke.description> <!-- <En>A toxic smoke coming from a pipe.</En> -->
+
+  <Piston.label>έμβολο</Piston.label> <!-- <En>piston</En> -->
+  <Piston.description>Επεκτείνεται και συστέλλεται.</Piston.description> <!-- <En>Extends and retracts.</En> -->
+
+  <Planks.label>σανίδες</Planks.label> <!-- <En>planks</En> -->
+  <Planks.description>Μια στοίβα ξύλινες σανίδες. Θα ρίξει σανίδες αν καταστραφεί με τσεκούρι.</Planks.description> <!-- <En>A pile of wooden planks. Will drop planks if destroyed with an axe.</En> -->
+
+  <Platform.label>πλατφόρμα</Platform.label> <!-- <En>platform</En> -->
+  <Platform.description>Μια πλατφόρμα με ένα ξύλινο στήριγμα συνδεδεμένο στον τοίχο.</Platform.description> <!-- <En>A platform with a wooden support attached to the wall.</En> -->
+
+  <PoisonCloud.label>σύννεφο δηλητηρίου</PoisonCloud.label> <!-- <En>poison cloud</En> -->
+  <PoisonCloud.description>Οποιοσδήποτε χαρακτήρας περάσει θα δηλητηριαστεί.</PoisonCloud.description> <!-- <En>Any passing character will become poisoned.</En> -->
+
+  <Pond.label>λιμνούλα</Pond.label> <!-- <En>pond</En> -->
+  <Pond.description>Μια μικρή λιμνούλα. Καλό για το σβήσιμο της φωτιάς. Μπορείτε επίσης να γεμίσετε φιαλίδια με νερό εδώ.</Pond.description> <!-- <En>A small pond. Good for extinguishing fires. You can also fill vials with water here.</En> -->
+
+  <PressurePlate.label>πλάκα πίεσης</PressurePlate.label> <!-- <En>pressure plate</En> -->
+  <PressurePlate.description>Μια πλάκα πίεσης που ενεργοποιείται μόλις κάποιος πατήσει πάνω της.</PressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it.</En> -->
+
+  <RedCrystal.label>κόκκινος κρύσταλλος</RedCrystal.label> <!-- <En>red crystal</En> -->
+  <RedCrystal.description>Εξορύξτε τον με μια αξίνα και χρησιμοποιήστε τον για να κάνετε το όπλο σας πιο θανατηφόρο. Πρέπει να συλλέξετε 2 κρυστάλλους του ίδιου χρώματος για να μαγέψετε τον εξοπλισμό σας.</RedCrystal.description> <!-- <En>Mine it with a pickaxe and use it to make your weapon more deadly. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <RedCutGrass.label>κομμένο κόκκινο γρασίδι</RedCutGrass.label> <!-- <En>cut red grass</En> -->
+  <RedCutGrass.description>Υπολείμματα κόκκινου γρασιδιού.</RedCutGrass.description> <!-- <En>Red grass remains.</En> -->
+
+  <RedLamp.label>κόκκινο φωτιστικό</RedLamp.label> <!-- <En>red lamp</En> -->
+  <RedLamp.description>Ένα φωτιστικό που εκπέμπει βαθύ κόκκινο φως.</RedLamp.description> <!-- <En>A lamp emitting deep red light.</En> -->
+
+  <Rock.label>πέτρα</Rock.label> <!-- <En>rock</En> -->
+  <Rock.description>Ένας βράχος μεσαίου μεγέθους. Σπάστε τον για να πάρετε μια πέτρα που μπορείτε να πετάξετε.</Rock.description> <!-- <En>A medium-sized rock. Break it to get a throwable stone.</En> -->
+
+  <RoyalDoor.label>βασιλική πόρτα</RoyalDoor.label> <!-- <En>royal door</En> -->
+  <RoyalDoor.description>Αυτή η βασιλική πόρτα μπορεί να ανοίξει μόνο με ένα βασιλικό κλειδί.</RoyalDoor.description> <!-- <En>This royal door can only be opened with a royal key.</En> -->
+
+  <SecretPassage.label>τοίχος</SecretPassage.label> <!-- <En>wall</En> -->
+  <SecretPassage.description>Αυτός ο τοίχος είναι εδώ για πολύ καιρό και πιθανότατα δεν θα πάει πουθενά σύντομα.</SecretPassage.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <SecretRoomTrigger.label>σκανδάλη μυστικού δωματίου</SecretRoomTrigger.label> <!-- <En>secret room trigger</En> -->
+
+  <Shelf.label>ράφι</Shelf.label> <!-- <En>shelf</En> -->
+  <Shelf.description>Ένα ράφι με μερικά πράγματα πάνω του.</Shelf.description> <!-- <En>A shelf with some things on it.</En> -->
+
+  <Sign.label>πινακίδα</Sign.label> <!-- <En>sign</En> -->
+
+  <SilverDoor.label>ασημένια πόρτα</SilverDoor.label> <!-- <En>silver door</En> -->
+  <SilverDoor.description>Αυτή η ασημένια πόρτα μπορεί να ανοίξει μόνο με ένα ασημένιο κλειδί. Μπορεί να υπάρχει κάτι πολύτιμο πίσω της.</SilverDoor.description> <!-- <En>This silver door can only be opened with a silver key. There could be something precious behind it.</En> -->
+  <SilverDoor.YouSeeASilverDoorInFront>Βλέπετε μια ασημένια πόρτα μπροστά σας.\n\nΜπορεί να ανοίξει μόνο με ένα ασημένιο κλειδί.\n\nΣημειώστε ότι μπορεί να υπάρχουν περισσότερες κλειδωμένες πόρτες από τα διαθέσιμα κλειδιά, οπότε ξοδέψτε τα κλειδιά σας με σύνεση.</SilverDoor.YouSeeASilverDoorInFront> <!-- <En>You see a silver door in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked doors than available keys, so spend your keys wisely.</En> -->
+  <SilverDoor.Open>Άνοιγμα</SilverDoor.Open> <!-- <En>Open</En> -->
+
+  <Smoke.label>καπνός</Smoke.label> <!-- <En>smoke</En> -->
+  <Smoke.description>Ένα σύννεφο καπνού που εμποδίζει την ορατότητα.</Smoke.description> <!-- <En>A smoke cloud which blocks the view.</En> -->
+
+  <Soffit.label>εσωράχιο</Soffit.label> <!-- <En>soffit</En> -->
+  <Soffit.description>Η κάτω πλευρά της οροφής.</Soffit.description> <!-- <En>An underside of the ceiling.</En> -->
+
+  <SpawnerPressurePlate.label>πλάκα πίεσης</SpawnerPressurePlate.label> <!-- <En>pressure plate</En> -->
+  <SpawnerPressurePlate.description>Μια πλάκα πίεσης που ενεργοποιείται μόλις κάποιος πατήσει πάνω της. Η πινακίδα γράφει \"Προσοχή! Κίνδυνος!\".</SpawnerPressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it. The sign says "Beware! Danger!".</En> -->
+
+  <SpiderWeb.label>ιστός αράχνης</SpiderWeb.label> <!-- <En>spider web</En> -->
+  <SpiderWeb.description>Παράγει μετάξι αράχνης, το οποίο μπορεί να χρησιμοποιηθεί ως συστατικό.</SpiderWeb.description> <!-- <En>Yields spider silk, which can be used as an ingredient.</En> -->
+
+  <StaircaseRoomSign.label>πινακίδα δωματίου κλιμακοστασίου</StaircaseRoomSign.label> <!-- <En>staircase room sign</En> -->
+  <StaircaseRoomSign.description>Αυτό το δωμάτιο έχει μια σκάλα που οδηγεί στον επόμενο όροφο του μπουντρουμιού. Συνήθως πρέπει να βρείτε έναν μοχλό για να ανοίξετε την πύλη.</StaircaseRoomSign.description> <!-- <En>This room has a staircase leading to the next dungeon floor. You usually need to find a lever to open the gate.</En> -->
+
+  <Stairs.label>σκάλες</Stairs.label> <!-- <En>stairs</En> -->
+  <Stairs.description>Μπορείτε είτε να ανεβείτε τις σκάλες είτε να κατεβείτε τις σκάλες - έτσι λειτουργούν οι σκάλες γενικά.</Stairs.description> <!-- <En>You can either go up the stairs or down the stairs - this is how stairs work in general.</En> -->
+
+  <Table.label>τραπέζι</Table.label> <!-- <En>table</En> -->
+  <Table.description>Ένα μικρό τραπέζι.</Table.description> <!-- <En>A small table.</En> -->
+
+  <TemporarilyOpenedDoor.label>κάσα πόρτας</TemporarilyOpenedDoor.label> <!-- <En>door frame</En> -->
+  <TemporarilyOpenedDoor.description>Μια ανοιχτή πόρτα. Μπορείτε να την κλείσετε. Αν το κάνετε ενώ στέκεστε μέσα, θα σπρωχτείτε μακριά σε μια τυχαία κατεύθυνση.</TemporarilyOpenedDoor.description> <!-- <En>An open door. You can close it. If you do while standing inside, you'll get pushed away in a random direction.</En> -->
+
+  <TemporaryGate.label>αυτόματη πύλη</TemporaryGate.label> <!-- <En>automatic gate</En> -->
+  <TemporaryGate.description>Μια προσωρινά κλειστή πύλη. Θα έπρεπε να ανοίξει μετά από λίγο.</TemporaryGate.description> <!-- <En>A temporarily-closed gate. It should open after a while.</En> -->
+
+  <Throne.label>θρόνος</Throne.label> <!-- <En>throne</En> -->
+  <Throne.description>Ένας θρόνος για κάποιον σημαντικό.</Throne.description> <!-- <En>A throne for someone important.</En> -->
+
+  <Torch.label>πυρσός</Torch.label> <!-- <En>torch</En> -->
+  <Torch.description>Ένας πυρσός. Τους προσέχεις μόνο όταν λείπουν. Επίσης, αναρωτιέμαι γιατί ποτέ δεν φαίνεται να σβήνουν, ίσως επειδή δεν φτιάχνουν παιχνίδια.</Torch.description> <!-- <En>A torch. You only notice them when they're gone. Also, I wonder why they never seem to burn out, maybe because they don't develop games.</En> -->
+
+  <ToxicWater.label>τοξικό νερό</ToxicWater.label> <!-- <En>toxic water</En> -->
+  <ToxicWater.description>Αυτό το νερό φαίνεται να είναι μολυσμένο.</ToxicWater.description> <!-- <En>This water seems to be contaminated.</En> -->
+
+  <Toxofungus.label>τοξομύκητας</Toxofungus.label> <!-- <En>toxofungus</En> -->
+  <Toxofungus.description>Ένας δηλητηριώδης μύκητας που απελευθερώνει τοξικά σπόρια όταν καταστρέφεται. Ασφαλές για περπάτημα εφόσον δεν ενοχληθεί.</Toxofungus.description> <!-- <En>A poisonous fungus that releases toxic spores when destroyed. Safe to walk on as long as it's not disturbed.</En> -->
+
+  <UnstableBridge.label>ασταθής γέφυρα</UnstableBridge.label> <!-- <En>unstable bridge</En> -->
+  <UnstableBridge.description>Μια ξύλινη, εύφλεκτη γέφυρα. Φαίνεται ότι μπορεί να καταρρεύσει ανά πάσα στιγμή.</UnstableBridge.description> <!-- <En>A wooden, flammable bridge. It looks like it can collapse anytime soon.</En> -->
+
+  <Ventillation.label>εξαερισμός</Ventillation.label> <!-- <En>ventilation</En> -->
+  <Ventillation.description>Κάνει τους σκελετούς να ζουν άνετα, πιθανόν.</Ventillation.description> <!-- <En>Makes skeletons live comfortably, probably.</En> -->
+
+  <Vines.label>αναρριχητικά φυτά</Vines.label> <!-- <En>vines</En> -->
+  <Vines.description>Πυκνά αναρριχητικά φυτά εμποδίζουν το μονοπάτι. Μπορείς να δεις μέσα από αυτά.</Vines.description> <!-- <En>Thick vines blocking the path. Can be seen through.</En> -->
+
+  <VioletTorch.label>μωβ πυρσός</VioletTorch.label> <!-- <En>violet torch</En> -->
+  <VioletTorch.description>Ένας πυρσός με μια λαμπερή, μωβ φλόγα. Αρκετά παράξενο.</VioletTorch.description> <!-- <En>A torch with a bright, violet flame. Quite odd.</En> -->
+
+  <VioletWallLamp.label>μωβ φωτιστικό τοίχου</VioletWallLamp.label> <!-- <En>violet wall lamp</En> -->
+  <VioletWallLamp.description>Ένα κομψό, μωβ φωτιστικό τοίχου.</VioletWallLamp.description> <!-- <En>A stylish, violet wall lamp.</En> -->
+
+  <Wall.label>τοίχος</Wall.label> <!-- <En>wall</En> -->
+  <Wall.description>Αυτός ο τοίχος είναι εδώ για πολύ καιρό και πιθανότατα δεν θα πάει πουθενά σύντομα.</Wall.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece1.label>τοίχος</WallPiece1.label> <!-- <En>wall</En> -->
+  <WallPiece1.description>Αυτός ο τοίχος είναι εδώ για πολύ καιρό και πιθανότατα δεν θα πάει πουθενά σύντομα.</WallPiece1.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece2.label>τοίχος</WallPiece2.label> <!-- <En>wall</En> -->
+  <WallPiece2.description>Αυτός ο τοίχος είναι εδώ για πολύ καιρό και πιθανότατα δεν θα πάει πουθενά σύντομα.</WallPiece2.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece3.label>τοίχος</WallPiece3.label> <!-- <En>wall</En> -->
+  <WallPiece3.description>Αυτός ο τοίχος είναι εδώ για πολύ καιρό και πιθανότατα δεν θα πάει πουθενά σύντομα.</WallPiece3.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece4.label>τοίχος</WallPiece4.label> <!-- <En>wall</En> -->
+  <WallPiece4.description>Αυτός ο τοίχος είναι εδώ για πολύ καιρό και πιθανότατα δεν θα πάει πουθενά σύντομα.</WallPiece4.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece5.label>τοίχος</WallPiece5.label> <!-- <En>wall</En> -->
+  <WallPiece5.description>Αυτός ο τοίχος είναι εδώ για πολύ καιρό και πιθανότατα δεν θα πάει πουθενά σύντομα.</WallPiece5.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallWithCompartment.label>τοίχος με κρύπτη</WallWithCompartment.label> <!-- <En>wall with compartment</En> -->
+  <WallWithCompartment.description>Αυτός ο τοίχος έχει μια μυστική κρύπτη.</WallWithCompartment.description> <!-- <En>This wall has a secret compartment.</En> -->
+
+  <WallWithHole.label>τοίχος με τρύπα</WallWithHole.label> <!-- <En>wall with a hole</En> -->
+  <WallWithHole.description>Ένας τοίχος με μια τρύπα.</WallWithHole.description> <!-- <En>A wall with a hole.</En> -->
+
+  <WallWithPipe.label>τοίχος με σωλήνα</WallWithPipe.label> <!-- <En>wall with a pipe</En> -->
+  <WallWithPipe.description>Ένας τοίχος με έναν σωλήνα.</WallWithPipe.description> <!-- <En>A wall with a pipe.</En> -->
+
+  <Water.label>νερό</Water.label> <!-- <En>water</En> -->
+  <Water.description>Νερό μέχρι το στήθος. Καλό για την κατάσβεση πυρκαγιών.</Water.description> <!-- <En>Chest-deep water. Good for extinguishing fires.</En> -->
+
+  <Window.label>παράθυρο</Window.label> <!-- <En>window</En> -->
+  <Window.description>Δείτε τι υπάρχει στην άλλη πλευρά.</Window.description> <!-- <En>See what's on the other side.</En> -->
+
+  <WoodenFloor.label>ξύλινο πάτωμα</WoodenFloor.label> <!-- <En>wooden floor</En> -->
+  <WoodenFloor.description>Θα ήταν κρίμα αν κάποιος έβαζε φωτιά σε αυτό το όμορφο ξύλινο πάτωμα.</WoodenFloor.description> <!-- <En>It'd be a shame if someone set this beautiful wooden floor on fire.</En> -->
+
+  <WoodenWall.label>ξύλινος τοίχος</WoodenWall.label> <!-- <En>wooden wall</En> -->
+  <WoodenWall.description>Οι σανίδες σε αυτόν τον τοίχο αρχίζουν να σαπίζουν. Ωστόσο, αυτό δεν φαίνεται να ενοχλεί κανέναν σκελετό εδώ έξω.</WoodenWall.description> <!-- <En>The planks on this wall are starting to rot. However, it doesn't seem to bother any skeletons out here.</En> -->
+
+  <YellowCutGrass.label>κομμένο κίτρινο γρασίδι</YellowCutGrass.label> <!-- <En>cut yellow grass</En> -->
+  <YellowCutGrass.description>Υπολείμματα κίτρινου γρασιδιού.</YellowCutGrass.description> <!-- <En>Yellow grass remains.</En> -->
+
+  <YellowWallLamp.label>κίτρινο φωτιστικό τοίχου</YellowWallLamp.label> <!-- <En>yellow wall lamp</En> -->
+  <YellowWallLamp.description>Ένα κομψό, κίτρινο φωτιστικό τοίχου.</YellowWallLamp.description> <!-- <En>A stylish, yellow wall lamp.</En> -->
+
+</SpecTranslations>

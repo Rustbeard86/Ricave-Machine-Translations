@@ -1,0 +1,111 @@
+<SpecTranslations>
+
+  <AncientMechanism.label>cơ quan cổ đại</AncientMechanism.label> <!-- <En>ancient mechanism</En> -->
+  <AncientMechanism.description>Một trong ba cơ quan cổ đại cần thiết để mở khóa hòm cổ đại ở đâu đó trên tầng này.</AncientMechanism.description> <!-- <En>One of the three ancient mechanisms needed to unlock the ancient container somewhere on this floor.</En> -->
+
+  <Bandage.label>băng gạc</Bandage.label> <!-- <En>bandage</En> -->
+  <Bandage.description>Băng gạc có thể dùng để cầm máu hoặc chữa xương gãy. Bạn cũng có thể kết hợp 2 cái để chế tạo một bộ dụng cụ phẫu thuật để chữa lành một chi bị mất. (Và không, đây không phải giấy vệ sinh)</Bandage.description> <!-- <En>Bandages can be used to stop bleeding or heal a broken bone. You can also combine 2 of them to craft a surgical kit to heal a missing limb. (And no, it's not toilet paper)</En> -->
+
+  <BoxingGloves.label>găng tay đấm bốc</BoxingGloves.label> <!-- <En>boxing gloves</En> -->
+  <BoxingGloves.description>Để nhanh chóng đẩy kẻ thù ra xa bạn.</BoxingGloves.description> <!-- <En>For quickly pushing enemies away from you.</En> -->
+
+  <Bread.label>bánh mì</Bread.label> <!-- <En>bread</En> -->
+  <Bread.description>Một ổ bánh mì ngon miệng. Giảm cơn đói và hồi một ít máu.</Bread.description> <!-- <En>A loaf of tasty bread. Reduces hunger and heals some HP.</En> -->
+
+  <ChainItem.label>dây xích</ChainItem.label> <!-- <En>chain</En> -->
+  <ChainItem.description>Một sợi dây xích sắt nặng. Dùng nó lên một người ở gần để trói họ vào cột xích.</ChainItem.description> <!-- <En>A heavy iron chain. Use it on a nearby person to attach them to a chain post.</En> -->
+
+  <CookedFish.label>cá nấu chín</CookedFish.label> <!-- <En>cooked fish</En> -->
+  <CookedFish.description>Một con cá nấu chín, bổ dưỡng.</CookedFish.description> <!-- <En>A nutritious, cooked fish.</En> -->
+
+  <CookedMeat.label>thịt nấu chín</CookedMeat.label> <!-- <En>cooked meat</En> -->
+  <CookedMeat.description>Một miếng thịt bổ dưỡng.</CookedMeat.description> <!-- <En>A nutritious piece of meat.</En> -->
+
+  <EmptyVial.label>lọ rỗng</EmptyVial.label> <!-- <En>empty vial</En> -->
+  <EmptyVial.description>Bạn có thể đổ đầy nước vào rồi pha với một nguyên liệu đặc biệt để chế tạo thuốc.</EmptyVial.description> <!-- <En>You can fill it with water and then mix with a special ingredient to make a potion.</En> -->
+
+  <Extinguisher.label>bình chữa cháy</Extinguisher.label> <!-- <En>extinguisher</En> -->
+  <Extinguisher.description>Cho phép bạn dập tắt lửa (kể cả trên người bạn).</Extinguisher.description> <!-- <En>Lets you extinguish fires (also on yourself).</En> -->
+
+  <Fish.label>cá</Fish.label> <!-- <En>fish</En> -->
+  <Fish.description>Một con cá ngon miệng. Bạn có thể ăn nó hoặc dùng nó để làm dầu cá.</Fish.description> <!-- <En>A tasty fish. You can either eat it or use it to make fish oil.</En> -->
+
+  <FishingRod.label>cần câu</FishingRod.label> <!-- <En>fishing rod</En> -->
+  <FishingRod.description>Có thể dùng để câu cá bổ dưỡng hoặc kéo ngay lập tức kẻ thù về phía bạn.</FishingRod.description> <!-- <En>Can be used to catch nutritious fish or instantly pull enemies towards you.</En> -->
+
+  <FishOil.label>dầu cá</FishOil.label> <!-- <En>fish oil</En> -->
+  <FishOil.description>Một chai dầu cá để chữa bệnh.</FishOil.description> <!-- <En>A bottle of fish oil for curing diseases.</En> -->
+
+  <FrostbiteTalon.label>vuốt tê cóng</FrostbiteTalon.label> <!-- <En>frostbite talon</En> -->
+  <FrostbiteTalon.description>Một chiếc vuốt sắc nhọn của một con quái vật bí ẩn nào đó. Sẽ nhanh chóng đóng băng đối thủ trong một thời gian ngắn.</FrostbiteTalon.description> <!-- <En>A sharp claw of some mysterious beast. Will quickly freeze the opponent for a short time.</En> -->
+
+  <Gold.label>tiền vàng</Gold.label> <!-- <En>gold coins</En> -->
+  <Gold.description>Một chồng tiền vàng. Có thể có một số người sẵn lòng giao dịch trong hầm ngục này. Vàng không phải là vật phẩm vĩnh viễn, vì vậy bạn sẽ mất tất cả nếu lượt chơi kết thúc.</Gold.description> <!-- <En>A stack of gold coins. There may be some people willing to trade in this dungeon. Gold isn't a permanent item, so you'll lose all of it if the run ends.</En> -->
+
+  <GoldenKey.label>chìa khóa vàng</GoldenKey.label> <!-- <En>golden key</En> -->
+  <GoldenKey.description>Một chiếc chìa khóa hiếm dùng để mở cửa vàng.</GoldenKey.description> <!-- <En>A rare key which opens a golden door.</En> -->
+
+  <GreatShield.label>đại khiên</GreatShield.label> <!-- <En>great shield</En> -->
+  <GreatShield.description>Một phiên bản hiệu quả hơn của khiên tiêu chuẩn cho phép bạn chặn tất cả các đòn tấn công từ mục tiêu được chỉ định trong hai lượt. Hiệu ứng sẽ bị hủy nếu bạn tấn công mục tiêu.</GreatShield.description> <!-- <En>A more efficient version of the standard shield which lets you block all attacks from the designated target for two turns. The effect will be canceled if you attack the target.</En> -->
+
+  <GreenKeyFragment.label>mảnh chìa khóa xanh</GreenKeyFragment.label> <!-- <En>green key fragment</En> -->
+  <GreenKeyFragment.description>Một trong ba mảnh chìa khóa xanh. Nếu bạn thu thập đủ cả ba, bạn có thể mở khóa rương xanh ở đâu đó trong hầm ngục này.</GreenKeyFragment.description> <!-- <En>One of the three green key fragments. If you collect all of them, you can unlock the green chest somewhere in this dungeon.</En> -->
+
+  <Hammer.label>búa</Hammer.label> <!-- <En>hammer</En> -->
+  <Hammer.description>Cho phép bạn phá hủy các vật thể dễ vỡ như tường gạch. Không phải là vũ khí.</Hammer.description> <!-- <En>Lets you destroy fragile objects like brick walls. Not a weapon.</En> -->
+
+  <HolyWater.label>nước thánh</HolyWater.label> <!-- <En>holy water</En> -->
+  <HolyWater.description>Một chai nước có một số đặc tính chữa bệnh.</HolyWater.description> <!-- <En>A bottle of water with some healing properties.</En> -->
+
+  <Honey.label>mật ong</Honey.label> <!-- <En>honey</En> -->
+  <Honey.description>Một ít mật ong thơm ngon.</Honey.description> <!-- <En>Some delicious honey.</En> -->
+
+  <Medkit.label>túi cứu thương</Medkit.label> <!-- <En>medkit</En> -->
+  <Medkit.description>Một cách tốt để hồi một ít máu nếu không ai thấy bạn.</Medkit.description> <!-- <En>A good way to heal some HP if nobody sees you.</En> -->
+
+  <Pickaxe.label>cuốc chim</Pickaxe.label> <!-- <En>pickaxe</En> -->
+  <Pickaxe.description>Cho phép bạn đào các tinh thể đỏ, xanh lá và xanh dương. Tinh thể có thể được dùng để phù phép trang bị của bạn.</Pickaxe.description> <!-- <En>Lets you mine red, green, and blue crystals. Crystals can be used to enchant your gear.</En> -->
+
+  <PlanksItem.label>ván gỗ</PlanksItem.label> <!-- <En>planks</En> -->
+  <PlanksItem.description>Ván gỗ có thể được dùng để chặn cửa. Cách duy nhất để đi qua những cánh cửa bị chặn là phá hủy chúng.</PlanksItem.description> <!-- <En>Planks can be used to bar doors. The only way to get through barred doors is to destroy them.</En> -->
+
+  <PocketKnife.label>dao bỏ túi</PocketKnife.label> <!-- <En>pocket knife</En> -->
+  <PocketKnife.description>Một con dao bỏ túi có thể được dùng như một vũ khí phụ, nhanh gọn, vì sử dụng nó không tốn lượt.</PocketKnife.description> <!-- <En>A pocket knife which can be used as a quick, secondary weapon, since using it takes no turn.</En> -->
+
+  <RawMeat.label>thịt sống</RawMeat.label> <!-- <En>raw meat</En> -->
+  <RawMeat.description>Ăn thịt sống sẽ khiến bạn bị bệnh. Bạn cần nấu chín nó bằng cách nào đó.</RawMeat.description> <!-- <En>Eating raw meat will make you sick. You need to cook it somehow.</En> -->
+
+  <RoyalKey.label>chìa khóa hoàng gia</RoyalKey.label> <!-- <En>royal key</En> -->
+  <RoyalKey.description>Một chiếc chìa khóa được trang trí công phu dùng để mở cánh cửa hoàng gia.</RoyalKey.description> <!-- <En>An ornamented key which opens the royal door.</En> -->
+
+  <Shield.label_2>khiên</Shield.label_2> <!-- <En>shield</En> -->
+  <Shield.description_2>Khiên có thể được dùng để chặn tất cả các đòn tấn công từ mục tiêu được chỉ định trong một lượt. Dùng khiên không tốn lượt. Hiệu ứng sẽ bị hủy nếu bạn tấn công mục tiêu.</Shield.description_2> <!-- <En>Shields can be used to block all attacks from the designated target for one turn. Using a shield takes no turn. The effect will be canceled if you attack the target.</En> -->
+
+  <Shovel.label>xẻng</Shovel.label> <!-- <En>shovel</En> -->
+  <Shovel.description>Cho phép bạn đào đất. Ai biết bạn sẽ tìm thấy gì.</Shovel.description> <!-- <En>Lets you dig in dirt. Who knows what you'll find.</En> -->
+
+  <SilverKey.label>chìa khóa bạc</SilverKey.label> <!-- <En>silver key</En> -->
+  <SilverKey.description>Một chiếc chìa khóa dùng một lần để mở cửa bạc và rương bạc.</SilverKey.description> <!-- <En>A single-use key which opens silver doors and silver chests.</En> -->
+
+  <StaminaBooster.label>thuốc tăng lực</StaminaBooster.label> <!-- <En>stamina booster</En> -->
+  <StaminaBooster.description>Một cách nhanh để phục hồi một ít thể lực.</StaminaBooster.description> <!-- <En>A quick way to restore some stamina.</En> -->
+
+  <Superwatch.label>siêu đồng hồ</Superwatch.label> <!-- <En>superwatch</En> -->
+  <Superwatch.description>Một chiếc đồng hồ ma thuật cho phép bạn quay ngược thời gian. Đây là phiên bản nâng cấp của đồng hồ tiêu chuẩn.</Superwatch.description> <!-- <En>A magic watch which lets you rewind time. This is an upgraded version of the standard watch.</En> -->
+
+  <SurgicalKit.label>bộ dụng cụ phẫu thuật</SurgicalKit.label> <!-- <En>surgical kit</En> -->
+  <SurgicalKit.description>Phục hồi các bộ phận cơ thể bị mất ngay lập tức.</SurgicalKit.description> <!-- <En>Restore missing body parts on the go.</En> -->
+
+  <Teleporter.label>máy dịch chuyển</Teleporter.label> <!-- <En>teleporter</En> -->
+  <Teleporter.description>Dịch chuyển đến vị trí được chỉ định. Tốt để thoát khỏi các tình huống nguy hiểm.</Teleporter.description> <!-- <En>Teleport to the designated location. Good for escaping from dangerous situations.</En> -->
+
+  <ToxicFish.label>cá độc</ToxicFish.label> <!-- <En>toxic fish</En> -->
+  <ToxicFish.description>Ăn con này không phải là một ý hay.</ToxicFish.description> <!-- <En>Not a good idea to eat this one.</En> -->
+
+  <VialWithWater.label>lọ chứa nước</VialWithWater.label> <!-- <En>vial with water</En> -->
+  <VialWithWater.description>Pha nó với một nguyên liệu đặc biệt để chế tạo thuốc.</VialWithWater.description> <!-- <En>Mix it with a special ingredient to make a potion.</En> -->
+
+  <Watch.label>đồng hồ</Watch.label> <!-- <En>watch</En> -->
+  <Watch.description>Một chiếc đồng hồ ma thuật cho phép bạn quay ngược thời gian.</Watch.description> <!-- <En>A magic watch which lets you rewind time.</En> -->
+
+</SpecTranslations>

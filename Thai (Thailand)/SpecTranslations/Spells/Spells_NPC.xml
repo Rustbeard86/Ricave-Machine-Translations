@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <Blindness.label>ตาบอด</Blindness.label> <!-- <En>blindness</En> -->
+  <Blindness.description>ทำให้เป้าหมายตาบอดชั่วขณะ</Blindness.description> <!-- <En>Make someone blind for a short time.</En> -->
+
+  <Drunkenness.label>มึนเมา</Drunkenness.label> <!-- <En>drunkenness</En> -->
+  <Drunkenness.description>ทำให้เป้าหมายมึนเมาชั่วขณะ</Drunkenness.description> <!-- <En>Make someone drunk for a short time.</En> -->
+
+  <Entangle_NPC.label>พันธนาการ</Entangle_NPC.label> <!-- <En>entangle</En> -->
+  <Entangle_NPC.description>ทำให้เป้าหมายไม่สามารถเคลื่อนที่ได้ชั่วขณะ โปรดทราบว่าศัตรูที่ถูกพันธนาการยังสามารถโจมตีจากตำแหน่งเดิมได้</Entangle_NPC.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <FireBreath.label>ลมหายใจเพลิง</FireBreath.label> <!-- <En>fire breath</En> -->
+  <FireBreath.description>ทำให้เป้าหมายติดไฟ</FireBreath.description> <!-- <En>Set the target on fire.</En> -->
+
+  <Heal_NPC.label>ฟื้นฟู</Heal_NPC.label> <!-- <En>heal</En> -->
+  <Heal_NPC.description>ฟื้นฟูพลังชีวิตบางส่วน</Heal_NPC.description> <!-- <En>Restore some health.</En> -->
+
+  <Pull.label>ดึง</Pull.label> <!-- <En>pull</En> -->
+  <Pull.description>ดึงเป้าหมายเข้ามาหาคุณ</Pull.description> <!-- <En>Pull someone towards you.</En> -->
+
+  <Push_NPC.label>ผลัก</Push_NPC.label> <!-- <En>push</En> -->
+  <Push_NPC.description>ผลักเป้าหมายออกไปจากคุณ</Push_NPC.description> <!-- <En>Push someone away from you.</En> -->
+
+  <RandomMagicWall.label>กำแพงเวท</RandomMagicWall.label> <!-- <En>magic wall</En> -->
+  <RandomMagicWall.description>สร้างกำแพงเวทใกล้กับเป้าหมาย</RandomMagicWall.description> <!-- <En>Spawn a magic wall near the target.</En> -->
+
+  <Strike_NPC.label>โจมตี</Strike_NPC.label> <!-- <En>strike</En> -->
+  <Strike_NPC.description>สร้างความเสียหายแก่เป้าหมาย</Strike_NPC.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <SummonPhantom.label>อัญเชิญภูต</SummonPhantom.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantom.description>อัญเชิญภูตที่ร้ายกาจ</SummonPhantom.description> <!-- <En>Summon a deadly phantom.</En> -->
+
+</SpecTranslations>

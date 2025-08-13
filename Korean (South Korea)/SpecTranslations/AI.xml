@@ -1,0 +1,31 @@
+<SpecTranslations>
+
+  <AttackAndBackOff.label>접근하여 공격한 후, 피격당하지 않기 위해 뒤로 물러납니다</AttackAndBackOff.label> <!-- <En>approaches and attacks, then backs off to avoid getting hit</En> -->
+
+  <AttackThenFlee.label>공격한 후, 구석에 몰리지 않는 한 8턴 동안 도망칩니다</AttackThenFlee.label> <!-- <En>attacks, then flees for 8 turns unless cornered</En> -->
+
+  <DontApproachFirst.label>먼저 접근하지는 않지만, 일단 접근당하면 그 자리에 머뭅니다</DontApproachFirst.label> <!-- <En>doesn't approach first but stays once approached</En> -->
+
+  <FleePacifist.label>항상 도망칩니다</FleePacifist.label> <!-- <En>always fleeing</En> -->
+
+  <KeepDistance.label>구석에 몰리지 않는 한 거리를 유지합니다</KeepDistance.label> <!-- <En>keeps distance unless cornered</En> -->
+
+  <KeepDistanceIfRanged.label>구석에 몰리거나 무기가 없는 경우가 아니면 거리를 유지합니다</KeepDistanceIfRanged.label> <!-- <En>keeps distance unless cornered or has no weapon</En> -->
+
+  <PartyMember.label>플레이어를 따라다니며 공격합니다 (파티원)</PartyMember.label> <!-- <En>follows player and attacks (party member)</En> -->
+
+  <PlayerFollower.label>플레이어를 따라다니며 기회를 봐서 공격합니다</PlayerFollower.label> <!-- <En>follows player and attacks opportunistically</En> -->
+
+  <Standard.label>접근하여 공격합니다</Standard.label> <!-- <En>approaches and attacks</En> -->
+
+  <StandNearCultistCircleIfUnprovoked.label>가만히 서 있거나 공격받으면 도망칩니다</StandNearCultistCircleIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <StandStill.label>가만히 서 있습니다</StandStill.label> <!-- <En>stands still</En> -->
+
+  <StandStillAndHealOthers.label>가만히 서서 아군을 치유합니다</StandStillAndHealOthers.label> <!-- <En>stands still and heals allies</En> -->
+
+  <StandStillIfUnprovoked.label>가만히 서 있거나 공격받으면 도망칩니다</StandStillIfUnprovoked.label> <!-- <En>stands still or flees if attacked</En> -->
+
+  <Thief.label>훔친 다음 도망칩니다</Thief.label> <!-- <En>steals then runs away</En> -->
+
+</SpecTranslations>

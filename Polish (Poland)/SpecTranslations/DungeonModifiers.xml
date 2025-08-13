@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <EveryoneStartsAwake.label>wszyscy zaczynają przebudzeni</EveryoneStartsAwake.label> <!-- <En>everyone starts awake</En> -->
+  <EveryoneStartsAwake.description>Wszyscy zaczną grę przebudzeni.</EveryoneStartsAwake.description> <!-- <En>Everyone will start awake.</En> -->
+
+  <ExtraMiniBoss.label>dodatkowy mini-boss na piętro</ExtraMiniBoss.label> <!-- <En>extra mini-boss per floor</En> -->
+  <ExtraMiniBoss.description>Na każdym piętrze pojawi się dodatkowy mini-boss (dotyczy tylko lochów, w których występują mini-bossowie).</ExtraMiniBoss.description> <!-- <En>An extra mini-boss will spawn on each floor (applies only if the dungeon has mini-bosses).</En> -->
+
+  <FewerEnemies.label>o 20% mniej wrogów</FewerEnemies.label> <!-- <En>20% fewer enemies</En> -->
+  <FewerEnemies.description>Na wszystkich piętrach będzie o 20% mniej wrogów.</FewerEnemies.description> <!-- <En>All floors will have 20% fewer enemies.</En> -->
+
+  <ItemsStartIdentified.label>wszystkie przedmioty zidentyfikowane na starcie</ItemsStartIdentified.label> <!-- <En>all items start identified</En> -->
+  <ItemsStartIdentified.description>Wszystkie przedmioty, które znajdziesz w lochu, będą już zidentyfikowane.</ItemsStartIdentified.description> <!-- <En>All items you'll find in the dungeon will already be identified.</En> -->
+
+  <MoreEnemies.label>o 20% więcej wrogów</MoreEnemies.label> <!-- <En>20% more enemies</En> -->
+  <MoreEnemies.description>Na wszystkich piętrach będzie o 20% więcej wrogów.</MoreEnemies.description> <!-- <En>All floors will have 20% more enemies.</En> -->
+
+  <MoreTraps.label>więcej pułapek</MoreTraps.label> <!-- <En>more traps</En> -->
+  <MoreTraps.description>W lochu pojawi się więcej kolców i bomb zbliżeniowych.</MoreTraps.description> <!-- <En>More spikes and proximity bombs will spawn in the dungeon.</En> -->
+
+  <NoHunger.label>brak głodu</NoHunger.label> <!-- <En>no hunger</En> -->
+  <NoHunger.description>Nigdy nie zgłodniejesz.</NoHunger.description> <!-- <En>You'll never get hungry.</En> -->
+
+  <NoMiniBosses.label>brak mini-bossów</NoMiniBosses.label> <!-- <En>no mini-bosses</En> -->
+  <NoMiniBosses.description>Nie pojawią się żadni mini-bossowie (dotyczy tylko lochów, w których występują mini-bossowie).</NoMiniBosses.description> <!-- <En>No mini-bosses will spawn (applies only if the dungeon has mini-bosses).</En> -->
+
+  <NoRandomEvents.label>brak losowych wydarzeń</NoRandomEvents.label> <!-- <En>no random events</En> -->
+  <NoRandomEvents.description>Żadne losowe wydarzenia nie wystąpią, bez względu na to, jak długo pozostaniesz w lochu (dotyczy tylko lochów, w których występują losowe wydarzenia).</NoRandomEvents.description> <!-- <En>No random events will occur no matter how long you stay in the dungeon (applies only if the dungeon has random events).</En> -->
+
+  <NoShelters.label>brak schronień</NoShelters.label> <!-- <En>no shelters</En> -->
+  <NoShelters.description>Nie będą generowane żadne schronienia (dotyczy tylko lochów, w których występują schronienia).</NoShelters.description> <!-- <En>No shelters will generate (applies only if the dungeon has shelters).</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,997 @@
+<Strings>
+
+  <!-- Main menu -->
+  <Play>Παίξε</Play> <!-- <En>Play</En> -->
+  <Quit>Έξοδος</Quit> <!-- <En>Quit</En> -->
+  <Loading>Φόρτωση</Loading> <!-- <En>Loading</En> -->
+  <Resume>Συνέχεια</Resume> <!-- <En>Resume</En> -->
+  <Options>Επιλογές</Options> <!-- <En>Options</En> -->
+  <Mods>Mods</Mods> <!-- <En>Mods</En> -->
+  <Credits>Συντελεστές</Credits> <!-- <En>Credits</En> -->
+  <ChooseLanguage>Επιλογή γλώσσας</ChooseLanguage> <!-- <En>Choose language</En> -->
+  <QuickRestart>Πέθανε και κάνε επανεκκίνηση</QuickRestart> <!-- <En>Die and restart</En> -->
+  <QuitToLobby>Πέθανε και πήγαινε στο λόμπι</QuitToLobby> <!-- <En>Die and go to lobby</En> -->
+  <SaveAndExitGame>Αποθήκευση και έξοδος</SaveAndExitGame> <!-- <En>Save and exit game</En> -->
+  <Close>Κλείσιμο</Close> <!-- <En>Close</En> -->
+  <Back>Πίσω</Back> <!-- <En>Back</En> -->
+  <Days>{0} ημέρες</Days> <!-- <En>{0} days</En> -->
+  <Hours>{0} ώρες</Hours> <!-- <En>{0} hours</En> -->
+  <Minutes>{0} λεπτά</Minutes> <!-- <En>{0} minutes</En> -->
+  <OneDay>1 ημέρα</OneDay> <!-- <En>1 day</En> -->
+  <OneHour>1 ώρα</OneHour> <!-- <En>1 hour</En> -->
+  <OneMinute>1 λεπτό</OneMinute> <!-- <En>1 minute</En> -->
+  <ApplicationErrorsInfo>Κάτι προκαλεί σφάλματα.\nΔείτε το αρχείο καταγραφής για περισσότερες πληροφορίες.</ApplicationErrorsInfo> <!-- <En>Something is causing errors.\nSee log file for more information.</En> -->
+  <LoggedInAs>Συνδεδεμένος στο Steam</LoggedInAs> <!-- <En>Logged into Steam</En> -->
+  <NoModSelected>δεν έχει επιλεγεί mod</NoModSelected> <!-- <En>no mod selected</En> -->
+  <EarlyAccessTitle>Πρώιμη Πρόσβαση</EarlyAccessTitle> <!-- <En>Early Access</En> -->
+  <EarlyAccessText>Το Ricave βρίσκεται υπό ανάπτυξη.\n\nΠροσπαθώ συνεχώς να προσθέτω περισσότερο περιεχόμενο, να εξισορροπώ το παιχνίδι, να αφαιρώ μηχανισμούς που δεν είναι διασκεδαστικοί και να συλλέγω σχόλια, αλλά πιθανότατα κάτι μου έχει ξεφύγει. Αν βρίσκετε το παιχνίδι πολύ δύσκολο ή πολύ εύκολο, συναντήσετε κάποιο σφάλμα ή έχετε μια φοβερή ιδέα για βελτίωση ή νέο χαρακτηριστικό, παρακαλώ συμμετάσχετε στη διαδικασία ανάπτυξης και μοιραστείτε τις σκέψεις σας στο κανάλι μας στο Discord ή στο Twitter.\n\nΕυχαριστώ και καλή διασκέδαση!\n~Piotr "ison" Walczak</EarlyAccessText> <!-- <En>Ricave is currently in development.\n\nI constantly try to add more content, rebalance things, cut mechanics which aren't enjoyable, and gather feedback, but I probably missed something still. If you find the game too hard or too easy, encounter a bug, or have an awesome idea for an improvement or a new feature, then please participate in the development process and share your thoughts on our Discord channel or Twitter.\n\nThanks and enjoy!\n~Piotr "ison" Walczak</En> -->
+  <VersionMismatchTitle>Το παιχνίδι ενημερώθηκε</VersionMismatchTitle> <!-- <En>Game updated</En> -->
+  <VersionMismatchText>Το Ricave ενημερώθηκε στην έκδοση {0}!\n\nΤο τρέχον παιχνίδι σας μπορεί να είναι ή να μην είναι συμβατό με τη νέα έκδοση. Θέλετε να εγκαταλείψετε το τρέχον παιχνίδι σας και να επιστρέψετε στο λόμπι;</VersionMismatchText> <!-- <En>Ricave has been updated to version {0}!\n\nYour current run may or may not be compatible with the new version. Do you want to abandon your current run and return to lobby?</En> -->
+  <UploadToSteam>Μεταφόρτωση στο Steam</UploadToSteam> <!-- <En>Upload to Steam</En> -->
+  <UploadingToSteam>μεταφόρτωση</UploadingToSteam> <!-- <En>uploading</En> -->
+  <SteamUploadFailed>Αποτυχία μεταφόρτωσης στο Steam: {0}</SteamUploadFailed> <!-- <En>Could not upload to Steam: {0}</En> -->
+  <SteamUploadSucceeded>Η μεταφόρτωση στο Steam ολοκληρώθηκε με επιτυχία.</SteamUploadSucceeded> <!-- <En>Successfully uploaded to Steam.</En> -->
+  <MessageTitle>Μήνυμα</MessageTitle> <!-- <En>Message</En> -->
+
+  <!-- Options -->
+  <Resolution>Ανάλυση</Resolution> <!-- <En>Resolution</En> -->
+  <Fullscreen>Πλήρης οθόνη</Fullscreen> <!-- <En>Fullscreen</En> -->
+  <UIScale>Κλίμακα UI</UIScale> <!-- <En>UI scale</En> -->
+  <FOV>Οπτικό Πεδίο</FOV> <!-- <En>FOV</En> -->
+  <VSync>VSync</VSync> <!-- <En>VSync</En> -->
+  <TargetFramerate>Ρυθμός καρέ στόχος</TargetFramerate> <!-- <En>Target framerate</En> -->
+  <ShowFPS>Εμφάνιση FPS</ShowFPS> <!-- <En>Show FPS</En> -->
+  <InvertY>Αντιστροφή άξονα Υ</InvertY> <!-- <En>Invert Y</En> -->
+  <KeyBindings>Αντιστοίχιση πλήκτρων</KeyBindings> <!-- <En>Key bindings</En> -->
+  <Volume>Ένταση ήχου</Volume> <!-- <En>Volume</En> -->
+  <MusicVolume>Ένταση μουσικής</MusicVolume> <!-- <En>Music volume</En> -->
+  <MouseSensitivity>Ευαισθησία ποντικιού</MouseSensitivity> <!-- <En>Mouse sensitivity</En> -->
+  <MouseSensitivityController>Ευαισθησία δείκτη</MouseSensitivityController> <!-- <En>Pointer sensitivity</En> -->
+  <SSAOQuality>Ποιότητα SSAO</SSAOQuality> <!-- <En>SSAO quality</En> -->
+  <ShadowQuality>Ποιότητα σκιάσεων</ShadowQuality> <!-- <En>Shadow quality</En> -->
+  <Downsampling>Υποδειγματοληψία</Downsampling> <!-- <En>Downsampling</En> -->
+  <Outline>Περίγραμμα</Outline> <!-- <En>Outline</En> -->
+  <MaxLights>Μέγιστος φωτισμός</MaxLights> <!-- <En>Max lights</En> -->
+  <SSAOQuality_Off>Ανενεργό</SSAOQuality_Off> <!-- <En>Off</En> -->
+  <SSAOQuality_Low>Χαμηλή</SSAOQuality_Low> <!-- <En>Low</En> -->
+  <SSAOQuality_Normal>Κανονική</SSAOQuality_Normal> <!-- <En>Normal</En> -->
+  <SSAOQuality_High>Υψηλή</SSAOQuality_High> <!-- <En>High</En> -->
+  <ShadowQuality_Low>Χαμηλή</ShadowQuality_Low> <!-- <En>Low</En> -->
+  <ShadowQuality_Normal>Κανονική</ShadowQuality_Normal> <!-- <En>Normal</En> -->
+  <ShadowQuality_High>Υψηλή</ShadowQuality_High> <!-- <En>High</En> -->
+  <DownsamplingLevel_None>Καμία (καλύτερη ποιότητα)</DownsamplingLevel_None> <!-- <En>None (best quality)</En> -->
+  <DownsamplingLevel_OneAndHalf>1.5x (χειρότερη ποιότητα)</DownsamplingLevel_OneAndHalf> <!-- <En>1.5x (worse quality)</En> -->
+  <DownsamplingLevel_Two>2x (η χειρότερη ποιότητα)</DownsamplingLevel_Two> <!-- <En>2x (worst quality)</En> -->
+  <Outline_MultiPassRound>Πολλαπλών περασμάτων στρογγυλεμένο</Outline_MultiPassRound> <!-- <En>Multi-pass rounded</En> -->
+  <Outline_MultiPass>Πολλαπλών περασμάτων</Outline_MultiPass> <!-- <En>Multi-pass</En> -->
+  <Outline_SinglePass>Ενός περάσματος (προτείνεται)</Outline_SinglePass> <!-- <En>Single-pass (recommended)</En> -->
+  <OK>Εντάξει</OK> <!-- <En>OK</En> -->
+  <RestoreDefaults>Επαναφορά προεπιλογών</RestoreDefaults> <!-- <En>Restore defaults</En> -->
+  <ResetGameState>Επαναφορά κατάστασης παιχνιδιού</ResetGameState> <!-- <En>Reset game state</En> -->
+  <ReturnToLobby>Επιστροφή στο λόμπι</ReturnToLobby> <!-- <En>Return to lobby</En> -->
+  <ResetAllProgress>Επαναφορά όλης της προόδου</ResetAllProgress> <!-- <En>Reset all progress</En> -->
+  <ConfirmReturnToLobby>Είστε σίγουροι ότι θέλετε να επιστρέψετε στο λόμπι;\n\nΣε αντίθεση με την επιστροφή στο λόμπι μέσα από το παιχνίδι, η χρήση αυτής της επιλογής εδώ σημαίνει ότι θα χάσετε την πρόοδό σας για το τρέχον παιχνίδι. Ωστόσο, δεν θα χάσετε τη συνολική πρόοδο του λόμπι (οι προηγούμενες αποστολές και η αστρόσκονή σας θα παραμείνουν ανέπαφα).\n\nΧρησιμοποιήστε αυτή την επιλογή εάν το αρχείο αποθήκευσής σας είναι κατεστραμμένο, π.χ. μετά την εγκατάσταση μιας μη συμβατής ενημέρωσης.</ConfirmReturnToLobby> <!-- <En>Are you sure you want to return to lobby?\n\nUnlike returning to lobby in-game, using this option here means you will lose your progress for your current run. You won't lose the overall lobby progress though (your previous quests and stardust will remain intact).\n\nUse this option if your savefile is corrupted e.g. after installing an incompatible update.</En> -->
+  <ConfirmResetAllProgress>Είστε σίγουροι ότι θέλετε να επαναφέρετε ΟΛΗ την πρόοδο;\n\nΑυτό θα διαγράψει όλα τα δεδομένα σας και θα ξεκινήσετε από την αρχή.\n\nΧρησιμοποιήστε αυτήν την επιλογή μόνο εάν θέλετε να ζήσετε το παιχνίδι από την αρχή ή εάν τα δεδομένα προόδου σας είναι κατεστραμμένα.</ConfirmResetAllProgress> <!-- <En>Are you sure you want to reset ALL progress?\n\nThis will erase all your data and you'll start from the beginning.\n\nOnly use this option if you want to experience the game from scratch, or if your progress data is corrupted.</En> -->
+  <PressKeyToAssignTo>Πατήστε ένα πλήκτρο για αντιστοίχιση σε:</PressKeyToAssignTo> <!-- <En>Press a key to assign to:</En> -->
+  <UnassignedKeyShort>Κανένα</UnassignedKeyShort> <!-- <En>None</En> -->
+  <VideoSection>Εικόνα</VideoSection> <!-- <En>Video</En> -->
+  <InterfaceSection>Διεπαφή</InterfaceSection> <!-- <En>Interface</En> -->
+  <AudioSection>Ήχος</AudioSection> <!-- <En>Audio</En> -->
+  <MiscSection>Διάφορα</MiscSection> <!-- <En>Misc</En> -->
+  <QualitySection>Ποιότητα</QualitySection> <!-- <En>Quality</En> -->
+
+  <!-- Confirmation -->
+  <No>Όχι</No> <!-- <En>No</En> -->
+  <Yes>Ναι</Yes> <!-- <En>Yes</En> -->
+
+  <!-- Lobby -->
+  <EnterDungeon>Είσοδος στο μπουντρούμι</EnterDungeon> <!-- <En>Enter dungeon</En> -->
+  <EnterDungeonWithSeed>Είσοδος στο μπουντρούμι με seed</EnterDungeonWithSeed> <!-- <En>Enter dungeon with seed</En> -->
+  <EnterTrainingRoom>Είσοδος στην αίθουσα προπόνησης</EnterTrainingRoom> <!-- <En>Enter training room</En> -->
+  <EnterSeed>Εισαγωγή seed</EnterSeed> <!-- <En>Enter seed</En> -->
+  <ProgressDisabled>Η πρόοδος είναι απενεργοποιημένη</ProgressDisabled> <!-- <En>Progress disabled</En> -->
+  <MaxScore>Υψηλότερη βαθμολογία</MaxScore> <!-- <En>High score</En> -->
+  <MaxFloorReached>Μέγιστος όροφος</MaxFloorReached> <!-- <En>Floor reached</En> -->
+  <AverageFloorReached>Μέσος όροφος</AverageFloorReached> <!-- <En>Average floor</En> -->
+  <Attempts>Προσπάθειες</Attempts> <!-- <En>Attempts</En> -->
+  <TotalKillCount>Συνολικές εξοντώσεις</TotalKillCount> <!-- <En>Total kills</En> -->
+  <QuestLog>Αποστολές</QuestLog> <!-- <En>Quests</En> -->
+  <Stats>Στατιστικά</Stats> <!-- <En>Stats</En> -->
+  <Cancel>Άκυρο</Cancel> <!-- <En>Cancel</En> -->
+  <Accept>Αποδοχή</Accept> <!-- <En>Accept</En> -->
+  <AcceptQuest>Αποδοχή αποστολής</AcceptQuest> <!-- <En>Accept quest</En> -->
+  <Claim>Διεκδίκηση</Claim> <!-- <En>Claim</En> -->
+  <Postpone>Αναβολή</Postpone> <!-- <En>Postpone</En> -->
+  <Locked>Κλειδωμένο</Locked> <!-- <En>Locked</En> -->
+  <LobbyShopkeeperSpeak_1>Μόνο οι καλύτερες τιμές!</LobbyShopkeeperSpeak_1> <!-- <En>Best prices only!</En> -->
+  <LobbyShopkeeperSpeak_2>Χρειάζεσαι αναβαθμίσεις;</LobbyShopkeeperSpeak_2> <!-- <En>Need upgrades?</En> -->
+  <LobbyShopkeeperSpeak_3>Έχεις αστρόσκονη;</LobbyShopkeeperSpeak_3> <!-- <En>Got stardust?</En> -->
+  <ClickToReadMore>Κάντε κλικ για να διαβάσετε περισσότερα</ClickToReadMore> <!-- <En>Click to read more</En> -->
+  <ClickToReadMoreController>Επιλέξτε για να διαβάσετε περισσότερα</ClickToReadMoreController> <!-- <En>Select to read more</En> -->
+  <DungeonModifiers>Τροποποιητές μπουντρουμιού με την αποδοχή</DungeonModifiers> <!-- <En>Dungeon modifiers when accepted</En> -->
+  <Rewards>Ανταμοιβές</Rewards> <!-- <En>Rewards</En> -->
+  <PuzzlePiecesCollected>{0} / {1} κομμάτια παζλ</PuzzlePiecesCollected> <!-- <En>{0} / {1} puzzle pieces</En> -->
+  <UnlockedAtLevel>Ξεκλειδώνει στο επίπεδο {0}</UnlockedAtLevel> <!-- <En>Unlock at level {0}</En> -->
+  <UnlockedByQuest>Ξεκλειδώνει με την ολοκλήρωση αποστολής</UnlockedByQuest> <!-- <En>Unlock by finishing quest</En> -->
+  <Place>Τοποθέτηση</Place> <!-- <En>Place</En> -->
+  <PickUp>Σήκωσε</PickUp> <!-- <En>Pick up</En> -->
+  <PrivateRoomInfo>Πατήστε [ShowInventory] για να ανοίξετε το μενού του καταστήματος.</PrivateRoomInfo> <!-- <En>Press [ShowInventory] to open the shop menu.</En> -->
+  <None>Κανένα</None> <!-- <En>None</En> -->
+  <CompletedQuests>Ολοκληρωμένες αποστολές</CompletedQuests> <!-- <En>Completed quests</En> -->
+  <QuestLogBoardText>Ολοκληρωμένες</QuestLogBoardText> <!-- <En>Completed</En> -->
+  <DailyChallengeBoardText>Ημερήσια πρόκληση</DailyChallengeBoardText> <!-- <En>Daily challenge</En> -->
+  <DailyChallengeTitle>Έχεις μία προσπάθεια - αξιοποίησέ την!</DailyChallengeTitle> <!-- <En>You have one attempt - make it count!</En> -->
+  <DailyChallengeExplanation>Κάθε μέρα, παίκτες από όλο τον κόσμο παίζουν το ίδιο seed μπουντρουμιού. Έχετε μόνο μία ευκαιρία την ημέρα.\n\nΚανόνες:\n  - Κανονική δυσκολία\n  - Οι ενισχύσεις είναι απενεργοποιημένες\n  - Τυχαία κλάση και χαρακτηριστικά\n  - Οι αποστολές είναι απενεργοποιημένες\n  - Η πρόοδος είναι απενεργοποιημένη\n  - Ατελείωτο πολύπλοκο μπουντρούμι (χωρίς όριο ορόφων)\n\nΔεν μπορείτε να συλλέξετε αστρόσκονη σε αυτό το μπουντρούμι και δεν θα μετρήσει στα στατιστικά σας, αλλά θα λάβετε {0} για τη συμμετοχή σας.</DailyChallengeExplanation> <!-- <En>Every day, players around the world get to play the same dungeon seed. You only get one chance per day.\n\nRules:\n  - Normal difficulty\n  - Boosts disabled\n  - Random class and traits\n  - Quests disabled\n  - Progress disabled\n  - Endless complex dungeon (no floor limit)\n\nYou can't collect stardust in this dungeon and it won't count towards your stats, but you'll receive {0} for participation.</En> -->
+  <DailyChallengeTimeLeft>Επόμενη πρόκληση σε: {0}:{1}:{2}</DailyChallengeTimeLeft> <!-- <En>Next challenge in: {0}:{1}:{2}</En> -->
+  <AllDailyChallengesBestScore>Η καλύτερή σας βαθμολογία (όλες οι ημέρες): {0}</AllDailyChallengesBestScore> <!-- <En>Your best score (all days): {0}</En> -->
+  <DailyChallengeStart>Έναρξη ημερήσιας πρόκλησης</DailyChallengeStart> <!-- <En>Start daily challenge</En> -->
+  <DailyChallengeAlreadyPlayed>Έχετε ήδη παίξει τη σημερινή πρόκληση\nΗ βαθμολογία σας ήταν: {0}</DailyChallengeAlreadyPlayed> <!-- <En>You've already played today's challenge\nYour score was: {0}</En> -->
+  <DailyChallengeModsActive>Απενεργοποιήστε πρώτα τα mods</DailyChallengeModsActive> <!-- <En>Disable mods first</En> -->
+  <DailyChallengeRequiresLevel>Ξεκλειδώνει στο επίπεδο {0}</DailyChallengeRequiresLevel> <!-- <En>Unlocked at level {0}</En> -->
+  <ViewDailyLeaderboard>Προβολή του σημερινού πίνακα κατάταξης</ViewDailyLeaderboard> <!-- <En>View leaderboard for today</En> -->
+  <GlobalLeaderboard>Παγκόσμιος</GlobalLeaderboard> <!-- <En>Global</En> -->
+  <FriendsLeaderboard>Φίλοι</FriendsLeaderboard> <!-- <En>Friends</En> -->
+  <YourLeaderboardRank>Η κατάταξή σας: #{0}</YourLeaderboardRank> <!-- <En>Your rank: #{0}</En> -->
+  <LoadingLeaderboard>Φόρτωση πίνακα κατάταξης...</LoadingLeaderboard> <!-- <En>Loading leaderboard...</En> -->
+  <LeaderboardLoadTimeout>Αποτυχία φόρτωσης του πίνακα κατάταξης.</LeaderboardLoadTimeout> <!-- <En>Failed to load leaderboard.</En> -->
+  <NoLeaderboardData>Δεν υπάρχει διαθέσιμος πίνακας κατάταξης.</NoLeaderboardData> <!-- <En>No leaderboard available.</En> -->
+  <NoFriendsPlayed>Κανένας από τους φίλους σας δεν έχει παίξει ακόμα αυτή την πρόκληση.</NoFriendsPlayed> <!-- <En>None of your friends have played this challenge yet.</En> -->
+  <ActiveQuests>Ενεργές αποστολές</ActiveQuests> <!-- <En>Active quests</En> -->
+  <ActiveQuestsShort>Ενεργές</ActiveQuestsShort> <!-- <En>Active</En> -->
+  <AvailableQuests>Διαθέσιμες αποστολές</AvailableQuests> <!-- <En>Available quests</En> -->
+  <AvailableQuestsShort>Διαθέσιμες</AvailableQuestsShort> <!-- <En>Available</En> -->
+  <HistoricalQuests>Ιστορικό αποστολών</HistoricalQuests> <!-- <En>Historical quests</En> -->
+  <HistoricalQuestsShort>Ιστορικό</HistoricalQuestsShort> <!-- <En>Historical</En> -->
+  <PressSpaceToContinue>Πατήστε [Wait] για συνέχεια</PressSpaceToContinue> <!-- <En>Press [Wait] to continue</En> -->
+  <Quest>Αποστολή</Quest> <!-- <En>Quest</En> -->
+  <Runs>Παιχνίδια</Runs> <!-- <En>Runs</En> -->
+  <OneQuestAvailable>1 διαθέσιμη αποστολή</OneQuestAvailable> <!-- <En>1 quest available</En> -->
+  <QuestsAvailable>{0} διαθέσιμες αποστολές</QuestsAvailable> <!-- <En>{0} quests available</En> -->
+  <QuestsAvailableTip>Χρησιμοποιήστε το ημερολόγιο αποστολών για να αποδεχτείτε αποστολές.</QuestsAvailableTip> <!-- <En>Use the quest log to accept quests.</En> -->
+  <PlayerName>Όνομα παίκτη</PlayerName> <!-- <En>Player name</En> -->
+  <Difficulty>Δυσκολία</Difficulty> <!-- <En>Difficulty</En> -->
+  <Enemies>Εχθροί</Enemies> <!-- <En>Enemies</En> -->
+  <Bosses>Αφεντικά</Bosses> <!-- <En>Bosses</En> -->
+  <Train>Προπόνηση</Train> <!-- <En>Train</En> -->
+  <EnterNewName>Εισαγωγή νέου ονόματος</EnterNewName> <!-- <En>Enter new name</En> -->
+  <EnemyHPFactor>Ζωή εχθρών</EnemyHPFactor> <!-- <En>Enemy HP</En> -->
+  <StartingPlayerHP>Αρχική ζωή</StartingPlayerHP> <!-- <En>Starting HP</En> -->
+  <ScoreFactor>Συντελεστής Βαθμολογίας</ScoreFactor> <!-- <En>Score</En> -->
+  <ExtraEnemies>Επιπλέον εχθροί</ExtraEnemies> <!-- <En>Extra enemies</En> -->
+  <BreadCountPerFloor>Ψωμί ανά όροφο</BreadCountPerFloor> <!-- <En>Bread per floor</En> -->
+  <UpToHealthPotionsPerFloor>Φίλτρα υγείας ανά όροφο</UpToHealthPotionsPerFloor> <!-- <En>Health potions per floor</En> -->
+  <DifficultyRampUpMultiplier>Επίπεδο εχθρού</DifficultyRampUpMultiplier> <!-- <En>Enemy level</En> -->
+  <GoldPerFloorMultiplier>Λάφυρα χρυσού ανά όροφο</GoldPerFloorMultiplier> <!-- <En>Gold loot per floor</En> -->
+  <StardustFactor>Αστερόσκονη</StardustFactor> <!-- <En>Stardust</En> -->
+  <HealingCrystalsPerFloor>Κρύσταλλοι θεραπείας</HealingCrystalsPerFloor> <!-- <En>Healing crystals</En> -->
+  <SmallHealingCrystalsPerFloor>Μικροί κρύσταλλοι θεραπείας</SmallHealingCrystalsPerFloor> <!-- <En>Small healing crystals</En> -->
+  <ManaCrystalsPerFloor>Κρύσταλλοι μάνα</ManaCrystalsPerFloor> <!-- <En>Mana crystals</En> -->
+  <SmallManaCrystalsPerFloor>Μικροί κρύσταλλοι μάνα</SmallManaCrystalsPerFloor> <!-- <En>Small mana crystals</En> -->
+  <EnemyCountPerFloorMultiplier>Αριθμός εχθρών</EnemyCountPerFloorMultiplier> <!-- <En>Number of enemies</En> -->
+  <StartingHealthPotions>Αρχικά φίλτρα υγείας</StartingHealthPotions> <!-- <En>Starting health potions</En> -->
+  <FinishedGameTitle>Συγχαρητήρια!</FinishedGameTitle> <!-- <En>Congratulations!</En> -->
+  <FinishedGameText>Συγχαρητήρια!\n\nΗ τελική σου βαθμολογία ήταν: {0}\n\nΑν και η κύρια γραμμή αποστολών τελείωσε, μπορεί να υπάρχουν ακόμα πολλά πράγματα για να ανακαλύψεις.\n\nΑν σου άρεσε το παιχνίδι, σκέψου να μπεις στον διακομιστή μας στο Discord στο {1}</FinishedGameText> <!-- <En>Congratulations!\n\nYour final score was: {0}\n\nEven though the main questline is over, there may still be many things left for you to discover.\n\nIf you enjoyed the game, consider joining our Discord server at {1}</En> -->
+  <NextTraitsPrice>Τιμή επόμενων χαρακτηριστικών</NextTraitsPrice> <!-- <En>Next traits price</En> -->
+  <LockedTraitTip>Πρέπει πρώτα να ξεκλειδώσεις αυτό το χαρακτηριστικό.\n\nΜπορείς να αγοράσεις ένα τυχαίο χαρακτηριστικό με αστερόσκονη. Όσο περισσότερα χαρακτηριστικά έχεις ήδη, τόσο πιο ακριβό είναι να αγοράσεις το επόμενο.</LockedTraitTip> <!-- <En>You need to unlock this trait first.\n\nYou can buy a random trait for stardust. The more traits you already have, the more expensive it is to buy the next one.</En> -->
+  <MaxFloorReachedWithTraitTip>Μέγιστος όροφος που έφτασες με αυτό το χαρακτηριστικό: {0}</MaxFloorReachedWithTraitTip> <!-- <En>Max floor you've reached with this trait: {0}</En> -->
+  <TraitsLimitReached>Μπορείς να επιλέξεις έως και 2 χαρακτηριστικά.</TraitsLimitReached> <!-- <En>You can only choose up to 2 traits.</En> -->
+  <CantAffordTrait>Δεν έχεις αρκετή αστερόσκονη.</CantAffordTrait> <!-- <En>You don't have enough stardust.</En> -->
+  <ClickToSelectTrait>Κάνε κλικ για να επιλέξεις ή να αποεπιλέξεις αυτό το χαρακτηριστικό.</ClickToSelectTrait> <!-- <En>Click to select or unselect this trait.</En> -->
+  <ClickToSelectTraitController>Επίλεξε ή αποεπίλεξε αυτό το χαρακτηριστικό.</ClickToSelectTraitController> <!-- <En>Select or unselect this trait.</En> -->
+  <ClickToSelect>Κάνε κλικ για επιλογή ή αποεπιλογή.</ClickToSelect> <!-- <En>Click to select or unselect.</En> -->
+  <ClickToSelectController>Επιλογή ή αποεπιλογή.</ClickToSelectController> <!-- <En>Select or unselect.</En> -->
+  <BuyRandomTraits>Αγορά {0} τυχαίων χαρακτηριστικών</BuyRandomTraits> <!-- <En>Buy {0} random traits</En> -->
+  <SelectedTraits>Επιλεγμένα χαρακτηριστικά</SelectedTraits> <!-- <En>Selected traits</En> -->
+  <ConfirmBuyRandomTraits>Θέλεις πραγματικά να αγοράσεις {1} τυχαία χαρακτηριστικά για {0};</ConfirmBuyRandomTraits> <!-- <En>Do you really want to buy {1} random traits for {0}?</En> -->
+  <TraitExtraStartingItem>Ξεκίνα με {0}</TraitExtraStartingItem> <!-- <En>Start with {0}</En> -->
+  <TraitGoldPerFloorFactor_More>Βρες {0} περισσότερο χρυσό</TraitGoldPerFloorFactor_More> <!-- <En>Find {0} more gold</En> -->
+  <TraitGoldPerFloorFactor_Less>Βρες {0} λιγότερο χρυσό</TraitGoldPerFloorFactor_Less> <!-- <En>Find {0} less gold</En> -->
+  <TraitMaxHPOffset>Μέγ. HP</TraitMaxHPOffset> <!-- <En>Max HP</En> -->
+  <TraitMaxManaOffset>Μέγ. μάνα</TraitMaxManaOffset> <!-- <En>Max mana</En> -->
+  <TraitMaxStaminaOffset>Μέγ. αντοχή</TraitMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <TraitNotHostileTo>Όχι εχθρικός {0}</TraitNotHostileTo> <!-- <En>Not hostile {0}</En> -->
+  <TraitHostileTo>Εχθρικός {0}</TraitHostileTo> <!-- <En>Hostile {0}</En> -->
+  <TraitPoisonIncomingDamageFactor_Less>{0} αντίσταση σε δηλητήριο</TraitPoisonIncomingDamageFactor_Less> <!-- <En>{0} poison resistance</En> -->
+  <TraitPoisonIncomingDamageFactor_More>{0} ευπάθεια σε δηλητήριο</TraitPoisonIncomingDamageFactor_More> <!-- <En>{0} poison vulnerability</En> -->
+  <TraitPoisonIncomingDamageFactor_Zero>Ανοσία σε δηλητήριο</TraitPoisonIncomingDamageFactor_Zero> <!-- <En>Immune to poison</En> -->
+  <TraitFallIncomingDamageFactor_Zero>Καμία ζημιά από πτώση</TraitFallIncomingDamageFactor_Zero> <!-- <En>No fall damage</En> -->
+  <TraitFallIncomingDamageFactor>{0} ζημιά από πτώση</TraitFallIncomingDamageFactor> <!-- <En>{0} fall damage</En> -->
+  <TraitFireIncomingDamageFactor_Less>{0} αντίσταση σε φωτιά</TraitFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <TraitFireIncomingDamageFactor_More>{0} ευπάθεια σε φωτιά</TraitFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <TraitMagicIncomingDamageFactor_Less>{0} αντίσταση σε μαγεία</TraitMagicIncomingDamageFactor_Less> <!-- <En>{0} magic resistance</En> -->
+  <TraitMagicIncomingDamageFactor_More>{0} ευπάθεια σε μαγεία</TraitMagicIncomingDamageFactor_More> <!-- <En>{0} magic vulnerability</En> -->
+  <TraitDamageFactorAgainstActor>{0} ζημιά σε {1}</TraitDamageFactorAgainstActor> <!-- <En>{0} damage to {1}</En> -->
+  <TraitNativeStaminaRegenIntervalFactor>Η αντοχή αναγεννάται {0}x πιο αργά</TraitNativeStaminaRegenIntervalFactor> <!-- <En>Stamina regenerates {0}x as slow</En> -->
+  <TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow>Η αντοχή αναγεννάται δύο φορές πιο αργά</TraitNativeStaminaRegenIntervalFactor_TwiceAsSlow> <!-- <En>Stamina regenerates twice as slow</En> -->
+  <TraitLastStand>Προκάλεσε {0} περισσότερη ζημιά όταν έχεις κάτω από {1} HP</TraitLastStand> <!-- <En>Deal {0} more damage when below {1} HP</En> -->
+  <TraitMaxHPOffsetPerLevel_Less>Κέρδισε {0} λιγότερο μέγ. HP ανά επίπεδο</TraitMaxHPOffsetPerLevel_Less> <!-- <En>Gain {0} less max HP per level</En> -->
+  <TraitMaxHPOffsetPerLevel_More>Κέρδισε {0} περισσότερο μέγ. HP ανά επίπεδο</TraitMaxHPOffsetPerLevel_More> <!-- <En>Gain {0} more max HP per level</En> -->
+  <TraitWalkingNoiseOffset>Θόρυβος περπατήματος {0}</TraitWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <TraitManaPerWorthyKill>Κέρδισε {0} μάνα ανά άξια εξόντωση</TraitManaPerWorthyKill> <!-- <En>Gain {0} mana per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Gain>Κέρδισε {0} HP ανά άξια εξόντωση</TraitHPPerWorthyKill_Gain> <!-- <En>Gain {0} HP per worthy kill</En> -->
+  <TraitHPPerWorthyKill_Lose>Χάσε {0} HP ανά άξια εξόντωση</TraitHPPerWorthyKill_Lose> <!-- <En>Lose {0} HP per worthy kill</En> -->
+  <TraitBackpackSlotsOffset>Θέσεις αποθέματος {0}</TraitBackpackSlotsOffset> <!-- <En>Inventory slots {0}</En> -->
+  <TraitMaxHPFactor>Μέγ. HP x{0}</TraitMaxHPFactor> <!-- <En>Max HP x{0}</En> -->
+  <TraitDamageFactorAgainstBosses>{0} ζημιά σε αρχηγούς</TraitDamageFactorAgainstBosses> <!-- <En>{0} damage to bosses</En> -->
+  <TraitNativeHealingRate>Ρυθμός θεραπείας {0}</TraitNativeHealingRate> <!-- <En>Healing rate {0}</En> -->
+  <TraitImmuneToConditionsFromDamage>Ανοσία σε {0}</TraitImmuneToConditionsFromDamage> <!-- <En>Immune to {0}</En> -->
+  <TraitImmuneToPushing>Ανοσία σε σπρώξιμο</TraitImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <TraitHungerRateFactor>Ρυθμός πείνας {0}</TraitHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <TraitWanderersAndShopkeepersPricesFactor>Τιμές καταστημάτων {0}</TraitWanderersAndShopkeepersPricesFactor> <!-- <En>Shop prices {0}</En> -->
+  <TraitCanFly>Μπορεί να πετάξει</TraitCanFly> <!-- <En>Can fly</En> -->
+  <TraitGainedExpFactor_More>Κέρδισε {0} περισσότερη εμπειρία</TraitGainedExpFactor_More> <!-- <En>Gain {0} more experience</En> -->
+  <TraitGainedExpFactor_Less>Κέρδισε {0} λιγότερη εμπειρία</TraitGainedExpFactor_Less> <!-- <En>Gain {0} less experience</En> -->
+  <NextRunRetainedExp>Διατηρημένο XP από την τελευταία προσπάθεια</NextRunRetainedExp> <!-- <En>Retained XP from last run</En> -->
+  <NextRunRetainedGold>Διατηρημένος χρυσός από την τελευταία προσπάθεια</NextRunRetainedGold> <!-- <En>Retained gold from last run</En> -->
+  <PetRatOneRunLeft>1 προσπάθεια απομένει</PetRatOneRunLeft> <!-- <En>1 run left</En> -->
+  <PetRatRunsLeft>{0} προσπάθειες απομένουν</PetRatRunsLeft> <!-- <En>{0} runs left</En> -->
+  <StartNewRun>Έναρξη</StartNewRun> <!-- <En>Start</En> -->
+  <Character>Χαρακτήρας</Character> <!-- <En>Character</En> -->
+  <Traits>Χαρακτηριστικά</Traits> <!-- <En>Traits</En> -->
+  <Boosts>Ενισχύσεις</Boosts> <!-- <En>Boosts</En> -->
+  <Floors>Όροφοι</Floors> <!-- <En>Floors</En> -->
+  <FloorCount>{0} όροφοι</FloorCount> <!-- <En>{0} floors</En> -->
+  <RoomsPerFloor>Δωμάτια ανά όροφο</RoomsPerFloor> <!-- <En>Rooms per floor</En> -->
+  <UnlockFor>Ξεκλείδωμα για {0}</UnlockFor> <!-- <En>Unlock for {0}</En> -->
+  <CompletedOnDifficulty>Ολοκληρώθηκε σε δυσκολία</CompletedOnDifficulty> <!-- <En>Completed on difficulty</En> -->
+  <HasMiniBosses>Μίνι-αρχηγοί</HasMiniBosses> <!-- <En>Mini-bosses</En> -->
+  <HasShelters>Καταφύγια</HasShelters> <!-- <En>Shelters</En> -->
+  <SpiritsSetFree>Πνεύματα που διασώθηκαν</SpiritsSetFree> <!-- <En>Spirits rescued</En> -->
+  <RunWins>Νίκες</RunWins> <!-- <En>Wins</En> -->
+  <RunLosses>Ήττες</RunLosses> <!-- <En>Losses</En> -->
+  <NewRunScreenBossLabel>{0} αρχηγός</NewRunScreenBossLabel> <!-- <En>{0} boss</En> -->
+  <CosmeticCollidesWith>Συγκρούεται με</CosmeticCollidesWith> <!-- <En>Collides with</En> -->
+  <CosmeticsInfo>Τα καλλυντικά είναι καθαρά οπτικά και δεν έχουν καμία επίδραση στο παιχνίδι, εκτός εάν αναφέρεται διαφορετικά.</CosmeticsInfo> <!-- <En>Cosmetics are purely visual and have no gameplay effects, unless otherwise stated.</En> -->
+  <ConfirmBuyCosmetic>Θέλεις να αγοράσεις το {0} για {1};</ConfirmBuyCosmetic> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <CantAffordCosmetic>Δεν έχεις αρκετά χρήματα για αυτό το καλλυντικό.</CantAffordCosmetic> <!-- <En>You can't afford this cosmetic.</En> -->
+  <Price>Τιμή</Price> <!-- <En>Price</En> -->
+  <CosmeticWillMakeFactionHostile>Προειδοποίηση: Οι {0} θα γίνουν εχθρικοί απέναντί σου</CosmeticWillMakeFactionHostile> <!-- <En>Warning: This cosmetic will make {0} hostile to you</En> -->
+  <DungeonModifiersTitle>Επιπλέον τροποποιητές μπουντρουμιού</DungeonModifiersTitle> <!-- <En>Extra dungeon modifiers</En> -->
+  <DemonNoteText>Ο χρόνος σου είναι δανεικός.\nΑπλώς εισπράττω το χρέος μου.\nΣυνέχισε να τρέχεις, με κάθε τρόπο.\nΣτο τέλος, θα βρεις την έξοδο.\nΕγώ είμαι ακριβώς από πίσω της.</DemonNoteText> <!-- <En>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</En> -->
+  <UndiscoveredEnemy>Ανεντόπιστος εχθρός</UndiscoveredEnemy> <!-- <En>Undiscovered enemy</En> -->
+
+  <!-- Misc -->
+  <HP>{0} HP</HP> <!-- <En>{0} HP</En> -->
+  <Mana>{0} μάνα</Mana> <!-- <En>{0} mana</En> -->
+  <Stamina>{0} αντοχή</Stamina> <!-- <En>{0} stamina</En> -->
+  <FromTo>{0} έως {1}</FromTo> <!-- <En>{0} to {1}</En> -->
+  <Ambushed>στην ενέδρα</Ambushed> <!-- <En>ambushed</En> -->
+  <AltitudeDamageBonus>από ψηλά</AltitudeDamageBonus> <!-- <En>from above</En> -->
+  <FromDeflectedDamage>από απόκρουση</FromDeflectedDamage> <!-- <En>from deflecting</En> -->
+  <DamageSpreadOntoSomethingElse>εξάπλωση ζημιάς</DamageSpreadOntoSomethingElse> <!-- <En>damage spread</En> -->
+  <UnidentifiedLower>άγνωστο</UnidentifiedLower> <!-- <En>unidentified</En> -->
+  <Cursed>Καταραμένο</Cursed> <!-- <En>Cursed</En> -->
+  <CursedLower>καταραμένο</CursedLower> <!-- <En>cursed</En> -->
+  <OneTurn>1 γύρος</OneTurn> <!-- <En>1 turn</En> -->
+  <TurnsCount>{0} γύροι</TurnsCount> <!-- <En>{0} turns</En> -->
+  <OneUse>1 χρήση</OneUse> <!-- <En>1 use</En> -->
+  <UsesCount>{0} χρήσεις</UsesCount> <!-- <En>{0} uses</En> -->
+  <OneCharge>1 φόρτιση</OneCharge> <!-- <En>1 charge</En> -->
+  <ChargesCount>{0} φορτίσεις</ChargesCount> <!-- <En>{0} charges</En> -->
+  <OneDiamond>1 διαμάντι</OneDiamond> <!-- <En>1 diamond</En> -->
+  <DiamondsCount>{0} διαμάντια</DiamondsCount> <!-- <En>{0} diamonds</En> -->
+  <OneStardust>1 αστερόσκονη</OneStardust> <!-- <En>1 stardust</En> -->
+  <StardustCount>{0} αστερόσκονη</StardustCount> <!-- <En>{0} stardust</En> -->
+  <OneCell>1 κελί</OneCell> <!-- <En>1 cell</En> -->
+  <CellsCount>{0} κελιά</CellsCount> <!-- <En>{0} cells</En> -->
+  <OneGold>1 χρυσός</OneGold> <!-- <En>1 gold</En> -->
+  <GoldCount>{0} χρυσός</GoldCount> <!-- <En>{0} gold</En> -->
+  <GoldCountShort>{0}χ</GoldCountShort> <!-- <En>{0}g</En> -->
+  <PressAcceptToContinue>Πατήστε [Accept] για να συνεχίσετε</PressAcceptToContinue> <!-- <En>Press [Accept] to continue</En> -->
+  <PressAcceptToContinueToLobby>Πατήστε [Accept] για να συνεχίσετε στο λόμπι</PressAcceptToContinueToLobby> <!-- <En>Press [Accept] to continue to lobby</En> -->
+  <PressWaitToRestart>Πατήστε [Wait] για επανεκκίνηση</PressWaitToRestart> <!-- <En>Press [Wait] to restart</En> -->
+  <NoOptions>καμία επιλογή</NoOptions> <!-- <En>no options</En> -->
+  <ItemMayBeCursedWarning>Προειδοποίηση: Αυτό το αντικείμενο μπορεί να είναι {0}.</ItemMayBeCursedWarning> <!-- <En>Warning: This item may be {0}.</En> -->
+  <ItemCursedWarning>Προειδοποίηση: Αυτό το αντικείμενο είναι {0}.</ItemCursedWarning> <!-- <En>Warning: This item is {0}.</En> -->
+  <CantUnequipCursedItems>Δεν μπορείτε να ξε-εξοπλίσετε {0} αντικείμενα (χωρίς πάπυρο αφαίρεσης κατάρας).</CantUnequipCursedItems> <!-- <En>You can't unequip {0} items (without curse removal scroll).</En> -->
+  <Gold>Χρυσός</Gold> <!-- <En>Gold</En> -->
+  <Leave>Αποχώρηση</Leave> <!-- <En>Leave</En> -->
+  <ActsTwicePerTurn>Ενεργεί δύο φορές ανά γύρο</ActsTwicePerTurn> <!-- <En>Acts twice per turn</En> -->
+  <ActsTimesPerTurn>Ενεργεί {0} φορές ανά γύρο</ActsTimesPerTurn> <!-- <En>Acts {0} times per turn</En> -->
+  <ActsEverySecondTurn>Ενεργεί κάθε δεύτερο γύρο</ActsEverySecondTurn> <!-- <En>Acts every second turn</En> -->
+  <ActsOnceEveryTurns>Ενεργεί μία φορά κάθε {0} γύρους</ActsOnceEveryTurns> <!-- <En>Acts once every {0} turns</En> -->
+  <DoesntGetHungry>Δεν πεινάει</DoesntGetHungry> <!-- <En>Doesn't get hungry</En> -->
+  <GetsHungryTwiceAsFast>Πεινάει δύο φορές πιο γρήγορα</GetsHungryTwiceAsFast> <!-- <En>Gets hungry twice as fast</En> -->
+  <GetsHungryTimesAsFast>Πεινάει {0} φορές πιο γρήγορα</GetsHungryTimesAsFast> <!-- <En>Gets hungry {0} times as fast</En> -->
+  <GetsHungryTwiceAsSlow>Πεινάει δύο φορές πιο αργά</GetsHungryTwiceAsSlow> <!-- <En>Gets hungry twice as slow</En> -->
+  <HungerRateMultiplier>Πολλαπλασιαστής ρυθμού πείνας: {0}</HungerRateMultiplier> <!-- <En>Hunger rate multiplier: {0}</En> -->
+  <ThrowGold>Ρίξε {0} χρυσό</ThrowGold> <!-- <En>Throw {0} gold</En> -->
+  <Chance>{0} πιθανότητα</Chance> <!-- <En>{0} chance</En> -->
+  <WorthOfTurns>αξίας {0} γύρων</WorthOfTurns> <!-- <En>worth {0} turns</En> -->
+  <AoERadius>ακτίνα {0}</AoERadius> <!-- <En>radius {0}</En> -->
+  <WholeMap>ολόκληρος ο χάρτης</WholeMap> <!-- <En>whole map</En> -->
+  <ThroughWalls>μέσα από τοίχους</ThroughWalls> <!-- <En>through walls</En> -->
+  <AroundTarget>γύρω από τον στόχο</AroundTarget> <!-- <En>around target</En> -->
+  <Used>Χρησιμοποιήθηκε</Used> <!-- <En>Used</En> -->
+  <Waiting>Αναμονή</Waiting> <!-- <En>Waiting</En> -->
+  <Interrupted>Διακόπηκε</Interrupted> <!-- <En>Interrupted</En> -->
+  <Location>σημείο</Location> <!-- <En>spot</En> -->
+  <StopTargeting>Ακύρωση στόχευσης</StopTargeting> <!-- <En>Stop targeting</En> -->
+  <QuestCompleted>Η αποστολή ολοκληρώθηκε</QuestCompleted> <!-- <En>Quest completed</En> -->
+  <QuestCompletedTip>Παράλαβε την αμοιβή σου όταν επιστρέψεις στο λόμπι</QuestCompletedTip> <!-- <En>Claim your reward when you're back in the lobby</En> -->
+  <Stationary>Ακίνητος</Stationary> <!-- <En>Stationary</En> -->
+  <OneStep>Ένα βήμα</OneStep> <!-- <En>One step</En> -->
+  <BuyConfirmation>Θέλετε να αγοράσετε το {0} για {1};</BuyConfirmation> <!-- <En>Do you want to buy {0} for {1}?</En> -->
+  <BuyConfirmation_SingleUseUnlockable>Αυτό είναι ένα μπόνους μίας χρήσης και ισχύει μόνο για την επόμενη προσπάθειά σας.</BuyConfirmation_SingleUseUnlockable> <!-- <En>This is a single-use bonus and it only applies to your next run.</En> -->
+  <Buy>Αγορά</Buy> <!-- <En>Buy</En> -->
+  <CanRewindTimeAgainIn>Διαθέσιμο σε {0}</CanRewindTimeAgainIn> <!-- <En>Available in {0}</En> -->
+  <NativeWeaponDescription>Αυτό είναι το εγγενές όπλο αυτού του χαρακτήρα.</NativeWeaponDescription> <!-- <En>This is this character's native weapon.</En> -->
+  <ChooseSpellWheelSelectorText>Επιλέξτε ένα νέο ξόρκι.\n\nΜπορείτε να επιλέξετε ένα νέο ξόρκι κάθε φορά που ανεβαίνετε επίπεδο.</ChooseSpellWheelSelectorText> <!-- <En>Choose a new spell.\n\nYou can choose a new spell every time you level up.</En> -->
+  <BossSlain>{0} εξοντώθηκε</BossSlain> <!-- <En>{0} slain</En> -->
+  <RandomTip>Συμβουλή: {0}</RandomTip> <!-- <En>Tip: {0}</En> -->
+  <FirstTip>Χρησιμοποιήστε [MoveForward][MoveLeft][MoveBack][MoveRight] για κίνηση. Πατήστε [ShowInventory] για άνοιγμα του inventory. Χρησιμοποιήστε το [Interact] για αλληλεπίδραση με αντικείμενα. Περιστραφείτε με τα [RotateLeft] και [RotateRight]. Κρατήστε πατημένο το [Inspect] για επιθεώρηση. Πατήστε [Wait] για αναμονή.</FirstTip> <!-- <En>Use [MoveForward][MoveLeft][MoveBack][MoveRight] to move. Press [ShowInventory] to open inventory. Use [Interact] to interact with objects. Rotate with [RotateLeft] and [RotateRight]. Hold [Inspect] to inspect. Press [Wait] to wait a turn.</En> -->
+  <Waits>Περιμένει</Waits> <!-- <En>Waits</En> -->
+  <Wait>Περίμενε</Wait> <!-- <En>Wait</En> -->
+  <WaitsDrunk>Περιμένει (μεθυσμένος)</WaitsDrunk> <!-- <En>Waits (drunk)</En> -->
+  <WaitsPanic>Περιμένει (πανικός)</WaitsPanic> <!-- <En>Waits (panic)</En> -->
+  <WaitsReason>Περιμένει ({0})</WaitsReason> <!-- <En>Waits ({0})</En> -->
+  <Zzz>Ζζζ</Zzz> <!-- <En>Zzz</En> -->
+  <WakesUp>Ξυπνάει</WakesUp> <!-- <En>Wakes up</En> -->
+  <GoesToCheckPossibleEnemyLocation>Πού;!</GoesToCheckPossibleEnemyLocation> <!-- <En>Where?!</En> -->
+  <NoArms>Χωρίς χέρια</NoArms> <!-- <En>No arms</En> -->
+  <NoLegs>Χωρίς πόδια</NoLegs> <!-- <En>No legs</En> -->
+  <Hostile>Εχθρικός</Hostile> <!-- <En>Hostile</En> -->
+  <MissingBodyParts>Λείπουν μέλη σώματος</MissingBodyParts> <!-- <En>Missing body parts</En> -->
+  <SeenByHostiles>Κάποιος σας βλέπει</SeenByHostiles> <!-- <En>Someone sees you</En> -->
+  <BossStillAlive>Το αφεντικό είναι ακόμα ζωντανό</BossStillAlive> <!-- <En>Boss is still alive</En> -->
+  <NotEnoughMana>Δεν υπάρχει αρκετό μάνα ({0})</NotEnoughMana> <!-- <En>Not enough mana ({0})</En> -->
+  <NotEnoughStamina>Δεν υπάρχει αρκετή αντοχή ({0})</NotEnoughStamina> <!-- <En>Not enough stamina ({0})</En> -->
+  <OnCooldown>Χρόνος επαναφόρτισης ({0})</OnCooldown> <!-- <En>Cooldown ({0})</En> -->
+  <GetCloser>Πλησιάστε</GetCloser> <!-- <En>Get closer</En> -->
+  <InvalidTarget>Μη έγκυρος στόχος</InvalidTarget> <!-- <En>Invalid target</En> -->
+  <OutOfRange>Εκτός εμβέλειας</OutOfRange> <!-- <En>Out of range</En> -->
+  <NoLineOfSight>Χωρίς οπτική επαφή</NoLineOfSight> <!-- <En>No line of sight</En> -->
+  <CantAfford>Χρειάζεστε {0}</CantAfford> <!-- <En>Need {0}</En> -->
+  <CantReach>Αδύνατη η πρόσβαση</CantReach> <!-- <En>Can't reach</En> -->
+  <NotEnoughSpaceToPickUp>Γεμάτο inventory</NotEnoughSpaceToPickUp> <!-- <En>Inventory full</En> -->
+  <Need2SameCrystals>Χρειάζονται 2 ίδιοι κρύσταλλοι</Need2SameCrystals> <!-- <En>Need 2 same crystals</En> -->
+  <NeedSpirit>Χρειάζεται πνεύμα</NeedSpirit> <!-- <En>Need spirit</En> -->
+  <NeedShovel>Χρειάζεται φτυάρι</NeedShovel> <!-- <En>Need shovel</En> -->
+  <UseShovel>Χρήση φτυαριού</UseShovel> <!-- <En>Use shovel</En> -->
+  <NeedPickaxe>Χρειάζεται αξίνα</NeedPickaxe> <!-- <En>Need pickaxe</En> -->
+  <UsePickaxe>Χρήση αξίνας</UsePickaxe> <!-- <En>Use pickaxe</En> -->
+  <CantDescendBecausePartyCantReach>Ορισμένα μέλη της ομάδας είναι πολύ μακριά</CantDescendBecausePartyCantReach> <!-- <En>Some party members are too far</En> -->
+  <CantCloseBlockedDoor>Η πόρτα είναι μπλοκαρισμένη</CantCloseBlockedDoor> <!-- <En>Door is blocked</En> -->
+  <CantSummonFollowerAlreadyExists>Ο ακόλουθος {0} υπάρχει ήδη</CantSummonFollowerAlreadyExists> <!-- <En>{0} follower already exists</En> -->
+  <DamageRangeDealtToPlayer>{0} τώρα σε εσάς</DamageRangeDealtToPlayer> <!-- <En>{0} now to you</En> -->
+  <PostProcessedDamageRange>{0} τώρα</PostProcessedDamageRange> <!-- <En>{0} now</En> -->
+  <PostProcessedPlayerHealAmount>{0} τώρα για εσάς</PostProcessedPlayerHealAmount> <!-- <En>{0} now for you</En> -->
+  <DamagePerTurn>{0} ζημιά ανά γύρο</DamagePerTurn> <!-- <En>{0} damage per turn</En> -->
+  <DamagePerTurns>{0} ζημιά ανά {1} γύρους</DamagePerTurns> <!-- <En>{0} damage per {1} turns</En> -->
+  <NumberPerTurn>{0} ανά γύρο</NumberPerTurn> <!-- <En>{0} per turn</En> -->
+  <NumberPerTurns>{0} ανά {1} γύρους</NumberPerTurns> <!-- <En>{0} per {1} turns</En> -->
+  <RestoreAll>όλα</RestoreAll> <!-- <En>all</En> -->
+  <RestoredAmountForPlayer>{0} για εσάς</RestoredAmountForPlayer> <!-- <En>{0} for you</En> -->
+  <Or>ή</Or> <!-- <En>or</En> -->
+  <And>και</And> <!-- <En>and</En> -->
+  <Score>Βαθμολογία</Score> <!-- <En>Score</En> -->
+  <FloorReached>Όροφος που φτάσατε</FloorReached> <!-- <En>Floor reached</En> -->
+  <KillCount>Εξοντώσεις</KillCount> <!-- <En>Kills</En> -->
+  <Playtime>Χρόνος παιχνιδιού</Playtime> <!-- <En>Playtime</En> -->
+  <Kills>Εξοντώσεις</Kills> <!-- <En>Kills</En> -->
+  <CombatRating>Αξιολόγηση μάχης</CombatRating> <!-- <En>Combat rating</En> -->
+  <BossesSlain>Αφεντικά που εξοντώθηκαν</BossesSlain> <!-- <En>Bosses slain</En> -->
+  <LobbyItemsCollected>Συλλεχθέντα αντικείμενα Lobby</LobbyItemsCollected> <!-- <En>Lobby items collected</En> -->
+  <NextRewardAtScoreLevel>Επόμενη ανταμοιβή στο επίπεδο {0}</NextRewardAtScoreLevel> <!-- <En>Next reward at level {0}</En> -->
+  <DaysShort>{0}μ</DaysShort> <!-- <En>{0}d</En> -->
+  <HoursShort>{0}ω</HoursShort> <!-- <En>{0}h</En> -->
+  <MinutesShort>{0}λ</MinutesShort> <!-- <En>{0}m</En> -->
+  <NoneLower>κανένα</NoneLower> <!-- <En>none</En> -->
+  <NewRecord>Νέο ρεκόρ!</NewRecord> <!-- <En>New record!</En> -->
+  <AndMore>και άλλα</AndMore> <!-- <En>and more</En> -->
+  <WelcomeTextRunWithSeed>Seed: {0}</WelcomeTextRunWithSeed> <!-- <En>Seed: {0}</En> -->
+  <DungeonModifiersCount_One>1 τροποποιητής</DungeonModifiersCount_One> <!-- <En>1 modifier</En> -->
+  <DungeonModifiersCount_More>{0} τροποποιητές</DungeonModifiersCount_More> <!-- <En>{0} modifiers</En> -->
+  <BetAmount>Στοιχηματίστε {0} χρυσό</BetAmount> <!-- <En>Bet {0} gold</En> -->
+  <Tutorial>Εκμάθηση</Tutorial> <!-- <En>Tutorial</En> -->
+  <BossKillCount>Αφεντικά που σκοτώθηκαν</BossKillCount> <!-- <En>Bosses killed</En> -->
+  <QuestsCompleted>Αποστολές που ολοκληρώθηκαν</QuestsCompleted> <!-- <En>Quests completed</En> -->
+  <NotesCollected>Σημειώσεις που βρέθηκαν</NotesCollected> <!-- <En>Notes found</En> -->
+  <ChestsOpened>Σεντούκια που ανοίχτηκαν</ChestsOpened> <!-- <En>Chests opened</En> -->
+  <RecipesUsed>Αντικείμενα που κατασκευάστηκαν</RecipesUsed> <!-- <En>Items crafted</En> -->
+  <Common>Κοινό</Common> <!-- <En>Common</En> -->
+  <Uncommon>Ασυνήθιστο</Uncommon> <!-- <En>Uncommon</En> -->
+  <Rare>Σπάνιο</Rare> <!-- <En>Rare</En> -->
+  <Epic>Επικό</Epic> <!-- <En>Epic</En> -->
+  <Unidentified>Μη αναγνωρισμένο</Unidentified> <!-- <En>Unidentified</En> -->
+  <LobbyItem>Αντικείμενο Lobby (μόνιμο)</LobbyItem> <!-- <En>Lobby (permanent) item</En> -->
+  <LobbyItemShort>Lobby</LobbyItemShort> <!-- <En>Lobby</En> -->
+  <WakeUpReason_Harmed>τραυματίστηκε</WakeUpReason_Harmed> <!-- <En>harmed</En> -->
+  <WakeUpReason_StructureSetOnFire>φωτιά κοντά</WakeUpReason_StructureSetOnFire> <!-- <En>fire nearby</En> -->
+  <WakeUpReason_LoudNoise>δυνατός θόρυβος</WakeUpReason_LoudNoise> <!-- <En>loud noise</En> -->
+  <WakeUpReason_ActorWokeUp>σύμμαχος ξύπνησε κοντά</WakeUpReason_ActorWokeUp> <!-- <En>ally woke up nearby</En> -->
+  <WakeUpReason_HostileFootsteps>εχθρικά βήματα</WakeUpReason_HostileFootsteps> <!-- <En>hostile footsteps</En> -->
+  <WakeUpReason_AlertAllyPassing>σύμμαχος σε εγρήγορση περνάει</WakeUpReason_AlertAllyPassing> <!-- <En>alert ally passing</En> -->
+  <WakeUpReason_KickedDoor>κλωτσημένη πόρτα</WakeUpReason_KickedDoor> <!-- <En>kicked door</En> -->
+  <Miss>Αποτυχία</Miss> <!-- <En>Miss</En> -->
+  <MissChance>{0} αποτυχία</MissChance> <!-- <En>{0} miss</En> -->
+  <CritChance>{0} κρίσιμο</CritChance> <!-- <En>{0} crit</En> -->
+  <CriticalHit>κρίσιμο</CriticalHit> <!-- <En>critical</En> -->
+  <CriticalHitFloatingText>Κρίσιμο χτύπημα</CriticalHitFloatingText> <!-- <En>Critical hit</En> -->
+  <ChargedAttack>φορτισμένη</ChargedAttack> <!-- <En>charged</En> -->
+  <AvailableRecipes>Διαθέσιμες συνταγές</AvailableRecipes> <!-- <En>Available recipes</En> -->
+  <WaitTurns>Αναμονή {0}</WaitTurns> <!-- <En>Wait {0}</En> -->
+  <RewindTurns>Επαναφορά {0}</RewindTurns> <!-- <En>Rewind {0}</En> -->
+  <YouHave>έχετε {0}</YouHave> <!-- <En>you have {0}</En> -->
+  <BabyLabel>μωρό {0}</BabyLabel> <!-- <En>baby {0}</En> -->
+  <BossLabel>αφεντικό {0}</BossLabel> <!-- <En>{0} boss</En> -->
+  <Intro1>Φαίνεται να βρίσκεστε σε κάποιο είδος μπουντρουμιού...</Intro1> <!-- <En>You appear to be in some sort of dungeon...</En> -->
+  <Intro2>Δεν ξέρετε πού ακριβώς βρίσκεστε, ούτε καν πώς καταλήξατε εδώ.</Intro2> <!-- <En>You don't know where you are exactly, or even how you ended up here.</En> -->
+  <Intro3>Όλα γύρω σας μοιάζουν ονειρικά. Ταυτόχρονα, μοιάζουν λίγο υπερβολικά αληθινά για να είναι απλώς ένα όνειρο.</Intro3> <!-- <En>Everything around feels somewhat dreamy. At the same time, it feels a bit too real to be just a dream.</En> -->
+  <Intro4>Σιγά σιγά αρχίζετε να θυμάστε κάτι. Τουλάχιστον ξέρετε το όνομά σας.</Intro4> <!-- <En>You slowly start to remember something. At least you know your name.</En> -->
+  <Intro5>Το όνομά σας είναι:</Intro5> <!-- <En>Your name is:</En> -->
+  <Intro6>Μόλις παρατηρήσατε κάποιον από απόσταση, αλλά είδατε μόνο μια φευγαλέα ματιά της σκιάς του. Καλύτερα να το ελέγξετε.</Intro6> <!-- <En>You've just noticed someone in the distance, but you only caught a glimpse of his shadow. You should better check it out.</En> -->
+  <Ending1>Ανοίγετε σιγά σιγά τα μάτια σας...</Ending1> <!-- <En>You slowly open your eyes...</En> -->
+  <Ending2>Ξυπνάτε σε ένα νοσοκομείο.</Ending2> <!-- <En>You wake up in a hospital.</En> -->
+  <Ending3><i>"Ξύπνησε!"</i></Ending3> <!-- <En><i>"He's awake!"</i></En> -->
+  <Ending4><i>"Τι συνέβη;"</i></Ending4> <!-- <En><i>"What happened?"</i></En> -->
+  <Ending5><i>"Πήγατε για πεζοπορία με τους φίλους σας και είχατε έναν σοβαρό τραυματισμό στο κεφάλι."</i></Ending5> <!-- <En><i>"You went for a hike with your friends and had a serious head injury."</i></En> -->
+  <Ending6><i>"Οι διασώστες σας βρήκαν την τελευταία στιγμή. Πρέπει να ξεκουραστείτε και να ανακτήσετε τις δυνάμεις σας."</i></Ending6> <!-- <En><i>"The rescuers found you just in time. You need to rest and regain your strength."</i></En> -->
+  <Ending7><i>"Πού είναι η Μάγια;"</i></Ending7> <!-- <En><i>"Where's Maya?"</i></En> -->
+  <Ending8><i>"Ποια είναι η Μάγια;"</i></Ending8> <!-- <En><i>"Who's Maya?"</i></En> -->
+  <Ending9><i>"Εκείνη με βρήκε πρώτη. Είναι καλά;"</i></Ending9> <!-- <En><i>"She found me first. Is she okay?"</i></En> -->
+  <Ending10><i>"Μπορεί να αισθάνεστε κάποια σύγχυση, αλλά θα αναρρώσετε σύντομα."</i></Ending10> <!-- <En><i>"You may be experiencing some confusion, but you'll recover soon."</i></En> -->
+  <Ending11>...</Ending11> <!-- <En>...</En> -->
+  <Ending12>Είστε σαστισμένοι, αλλά έχετε αυτή την παράξενη αίσθηση επιτυχίας. Σχεδόν σαν να έχετε αλλάξει κατά κάποιο τρόπο.</Ending12> <!-- <En>You are puzzled, yet you have this strange sense of accomplishment. Almost like you've changed in some way.</En> -->
+  <Ending13>Κλείνετε τα μάτια σας και παίρνετε μια βαθιά ανάσα, φανταζόμενοι τη ζεστασιά του ήλιου στο πρόσωπό σας. Ο καθαρός αέρας γεμίζει τα πνευμόνια σας και δεν μπορείτε παρά να χαμογελάσετε.</Ending13> <!-- <En>You close your eyes and take a deep breath, imagining the warmth of the sun on your face. The fresh air fills your lungs and you can't help but smile.</En> -->
+  <ThanksForPlayingDemo>Ευχαριστούμε που παίξατε το demo!</ThanksForPlayingDemo> <!-- <En>Thanks for playing the demo!</En> -->
+  <GameCreatedBy>Δημιουργήθηκε από</GameCreatedBy> <!-- <En>Created by</En> -->
+  <MainMenuArtBy>Γραφικά φόντου κεντρικού μενού από</MainMenuArtBy> <!-- <En>Main menu background art by</En> -->
+  <MusicBy>Μουσική από</MusicBy> <!-- <En>Music by</En> -->
+  <LogoBy>Λογότυπο από</LogoBy> <!-- <En>Logo by</En> -->
+  <CharacterModelsBy>Μοντέλα χαρακτήρων από</CharacterModelsBy> <!-- <En>Character models by</En> -->
+  <SoundEffectsBy>Ηχητικά εφέ παρέχονται από</SoundEffectsBy> <!-- <En>Sound effects provided by</En> -->
+  <ThanksForPlaying>Ευχαριστούμε που παίξατε!</ThanksForPlaying> <!-- <En>Thanks for playing!</En> -->
+  <MemoryPiece1>Το δάσος... μπίνγκο! Αρχίζετε να θυμάστε τι συνέβη πριν φτάσετε εδώ. Μια ζεστή καλοκαιρινή μέρα, πουλιά που κελαηδούν και όμορφα βουνά στον ορίζοντα - πήγατε για πεζοπορία με τους φίλους σας. Αλλά τότε, κάτι σας τράβηξε την προσοχή. Θυμάστε να χωρίζετε από την ομάδα. Αλλά γιατί;</MemoryPiece1> <!-- <En>The forest... bingo! You start to remember what happened before you got here. A warm summer day, birds singing, and beautiful mountains on the horizon - you went on a hike with your friends. But then, something caught your attention. You remember separating from the group. But why?</En> -->
+  <MemoryPiece2>Η σπηλιά! Αφήσατε την ομάδα σας αφού ακούσατε κάποιον να φωνάζει για βοήθεια. Πιστεύοντας ότι ήταν κάποιος άλλος πεζοπόρος σε κίνδυνο, ακολουθήσατε τη φωνή σε μια σπηλιά. Μέσα, γλιστρήσατε και πέσατε, σπάζοντας το πόδι σας. Φωνάξατε, αλλά κανείς δεν απάντησε. Μόνοι και πληγωμένοι, η ελπίδα σας άρχισε να σβήνει...</MemoryPiece2> <!-- <En>The cave! You left your group after hearing someone shout for help. Believing it was another hiker in trouble, you followed the voice to a cave. Inside, you slipped and fell, breaking your leg. You called out, but no one answered. Alone and hurt, your hope began to fade...</En> -->
+  <MemoryPiece3>Καθόσασταν μόνοι σε εκείνη τη σπηλιά για ώρες. Όταν ήρθε η νύχτα και άρχισε να βρέχει καταρρακτωδώς, σχεδόν χάσατε κάθε ελπίδα. Μετά από αυτό που φάνηκε σαν αιωνιότητα, είδατε ένα φως στην είσοδο της σπηλιάς. Ήταν... η Μάγια! Ανακουφιστήκατε τόσο πολύ!</MemoryPiece3> <!-- <En>You sat alone in that cave for hours. When night came and rain started pouring, you almost lost all your hope. After what felt like forever, you saw a light at the cave entrance. It was... Maya! You were so relieved!</En> -->
+  <MemoryPiece4>Χαρήκατε πάρα πολύ που είδατε τη Μάγια. Άπλωσε το χέρι της για να σας τραβήξει πάνω, και για μια στιγμή, φάνηκε ότι θα τα καταφέρνατε. Αλλά η ασταμάτητη βροχή την έκανε να γλιστρήσει και πέσατε και οι δύο κάτω, χτυπώντας με οδυνηρή δύναμη στα βράχια. Μετά από αυτό, όλα σώπασαν.</MemoryPiece4> <!-- <En>You were overjoyed to see Maya. She reached out to pull you up, and for a moment, it seemed like you would make it. But the relentless rain made her slip and you both tumbled down, striking the rocks with painful force. After that, everything went silent.</En> -->
+  <EquipmentTab>Εξοπλισμός</EquipmentTab> <!-- <En>Equip</En> -->
+  <CraftingTab>Κατασκευή</CraftingTab> <!-- <En>Craft</En> -->
+  <IdentificationTab>Αναγνώριση</IdentificationTab> <!-- <En>Identify</En> -->
+  <Name>Όνομα</Name> <!-- <En>Name</En> -->
+  <Level>Επίπεδο</Level> <!-- <En>Level</En> -->
+  <Experience>Εμπειρία</Experience> <!-- <En>Experience</En> -->
+  <ExperienceShort>XP</ExperienceShort> <!-- <En>XP</En> -->
+  <AttackDamage>Επίθεση</AttackDamage> <!-- <En>Attack</En> -->
+  <EquipmentTabTip>Δείτε όλα τα αντικείμενα που έχετε εξοπλίσει αυτή τη στιγμή.</EquipmentTabTip> <!-- <En>See all items you currently have equipped.</En> -->
+  <CraftingTabTip>Δείτε όλες τις συνταγές που μπορείτε να χρησιμοποιήσετε για να κατασκευάσετε νέα αντικείμενα. Μπορεί να είναι χρήσιμο αν χρειαστεί να αφαιρέσετε μια κατάρα ή να θεραπεύσετε ένα μέλος που λείπει.</CraftingTabTip> <!-- <En>See all recipes you can use to craft new items. It may be useful if you need to remove a curse or heal a missing limb.</En> -->
+  <IdentificationTabTip>Δείτε όλα τα μη αναγνωρισμένα αντικείμενα που έχετε στο inventory σας.\n\nΚάθε αντικείμενο αναγνωρίζεται σιγά σιγά με την πάροδο του χρόνου (εκτός αν πεινάτε). Το αντικείμενο στην κορυφή της λίστας θα αναγνωριστεί πρώτο.\n\nΣύρετε και αφήστε για να αλλάξετε τη σειρά.</IdentificationTabTip> <!-- <En>See all unidentified items you have in your inventory.\n\nEvery item slowly becomes identified over time (unless you're hungry). The item at the top of the list will be identified first.\n\nDrag and drop to reorder.</En> -->
+  <NoUnidentifiedItems>Δεν έχετε μη αναγνωρισμένα αντικείμενα</NoUnidentifiedItems> <!-- <En>You don't have any unidentified items</En> -->
+  <IdentificationQueueExplanation>Αυτή είναι η ουρά αναγνώρισής σας. Σύρετε και αφήστε για να αποφασίσετε ποιο αντικείμενο θα αναγνωριστεί επόμενο με την πάροδο του χρόνου. Μπορείτε επίσης να αναγνωρίσετε αντικείμενα σε περιπλανώμενους.</IdentificationQueueExplanation> <!-- <En>This is your identification queue. Drag and drop to decide which item should be identified next as time passes. You can also identify items at wanderers.</En> -->
+  <Craft>Κατασκευή</Craft> <!-- <En>Craft</En> -->
+  <AdjacentLower>διπλανό</AdjacentLower> <!-- <En>adjacent</En> -->
+  <WillLoseBoosts>θα χάσετε τις αγορασμένες ενισχύσεις</WillLoseBoosts> <!-- <En>you'll lose purchased boosts</En> -->
+  <NightmareLord>Άρχοντας των Εφιαλτών</NightmareLord> <!-- <En>Nightmare Lord</En> -->
+  <Hypnorak>Υπνοράκ</Hypnorak> <!-- <En>Hypnorak</En> -->
+  <Phantasmos>Φάντασμος</Phantasmos> <!-- <En>Phantasmos</En> -->
+  <AvailableSkillPoints>Διαθέσιμοι πόντοι δεξιοτήτων</AvailableSkillPoints> <!-- <En>Available skill points</En> -->
+  <UnlockedSkills>Ξεκλειδωμένες δεξιότητες</UnlockedSkills> <!-- <En>Unlocked skills</En> -->
+  <UnlockedAchievements>Ξεκλειδωμένα επιτεύγματα</UnlockedAchievements> <!-- <En>Unlocked achievements</En> -->
+  <EscapeToCancel>[Cancel] για ακύρωση</EscapeToCancel> <!-- <En>[Cancel] to cancel</En> -->
+  <EscapeToCancelShort>ESC για ακύρωση</EscapeToCancelShort> <!-- <En>ESC to cancel</En> -->
+  <FactionEnemies>Εχθροί</FactionEnemies> <!-- <En>Enemies</En> -->
+  <FactionKnownMembers>Γνωστά μέλη</FactionKnownMembers> <!-- <En>Known members</En> -->
+  <YouAreHereTip>Είστε εδώ</YouAreHereTip> <!-- <En>You are here</En> -->
+  <PlaceLinkTip>Αν επιλέξετε αυτόν τον δρόμο, θα λάβετε τα ακόλουθα</PlaceLinkTip> <!-- <En>If you choose to go this way, you'll receive the following</En> -->
+  <DungeonMapHeader>Πού να πάω;</DungeonMapHeader> <!-- <En>Where to go?</En> -->
+  <MoreEnemies>Περισσότεροι εχθροί</MoreEnemies> <!-- <En>More enemies</En> -->
+  <LessEnemies>Λιγότεροι εχθροί</LessEnemies> <!-- <En>Fewer enemies</En> -->
+  <NormalEnemies>Κανονικοί εχθροί</NormalEnemies> <!-- <En>Normal enemies</En> -->
+  <MoreGold>Περισσότερος χρυσός</MoreGold> <!-- <En>More gold</En> -->
+  <LessGold>Λιγότερος χρυσός</LessGold> <!-- <En>Less gold</En> -->
+  <NormalGold>Κανονικός χρυσός</NormalGold> <!-- <En>Normal gold</En> -->
+  <EnemyCountFactor>Αριθμός εχθρών</EnemyCountFactor> <!-- <En>Number of enemies</En> -->
+  <GoldFactor>Λάφυρα χρυσού</GoldFactor> <!-- <En>Gold loot</En> -->
+  <PlaceCrystal>Κρύσταλλος</PlaceCrystal> <!-- <En>Crystal</En> -->
+  <PlaceCrystalShort>{0} κρύσταλλος</PlaceCrystalShort> <!-- <En>{0} crystal</En> -->
+  <HealHPReward>Θεραπεία {0} HP</HealHPReward> <!-- <En>Heal {0} HP</En> -->
+  <FallIntoDescendTriggerConfirmation>Αυτή η κίνηση θα σας κάνει να πέσετε στο λάκκο. Θέλετε πραγματικά να το κάνετε;\n\nΘα πέσετε σε ένα τυχαίο σημείο στον κάτω όροφο και θα χάσετε λίγη υγεία. Δεν μπορείτε να επιστρέψετε.</FallIntoDescendTriggerConfirmation> <!-- <En>This move will make you fall into the pit. Do you really want to do it?\n\nYou'll drop into a random place on the floor below and lose some health. You can't come back.</En> -->
+  <MoveIntoRunEndPortalConfirmation>Αυτή η κίνηση θα τερματίσει την προσπάθειά σας. Θέλετε πραγματικά να το κάνετε;</MoveIntoRunEndPortalConfirmation> <!-- <En>This move will end your run. Do you really want to do it?</En> -->
+  <NeverUsedWatchRewindTip>[Rewind] για επαναφορά</NeverUsedWatchRewindTip> <!-- <En>[Rewind] to rewind</En> -->
+  <NeverInspectedAnythingTip>Θυμηθείτε να επιθεωρείτε το περιβάλλον σας με το [Inspect].</NeverInspectedAnythingTip> <!-- <En>Remember to inspect your surroundings with [Inspect].</En> -->
+  <EscapingMode>Απόδραση!</EscapingMode> <!-- <En>Escape!</En> -->
+  <ShelterReward>Ανταμοιβή</ShelterReward> <!-- <En>Reward</En> -->
+  <TextOnFirstTimeFloorReached_1>Τι είναι αυτό το μέρος; Πρέπει να βρω την έξοδο...</TextOnFirstTimeFloorReached_1> <!-- <En>What is this place? I must find the way out...</En> -->
+  <TextOnFirstTimeFloorReached_2>Κάθε φορά που έρχομαι εδώ, αυτό το μπουντρούμι αλλάζει. Αλλά γιατί;</TextOnFirstTimeFloorReached_2> <!-- <En>Every time I come here, this dungeon changes. But why?</En> -->
+  <TextOnFirstTimeFloorReached_3>Κάθε βήμα το νιώθω παράξενα οικείο, σαν να έχω ξαναβρεθεί εδώ.</TextOnFirstTimeFloorReached_3> <!-- <En>Every step feels eerily familiar, almost as if I've been here before.</En> -->
+  <TextOnFirstTimeFloorReached_4>Κάτι υπάρχει μπροστά, το νιώθω.</TextOnFirstTimeFloorReached_4> <!-- <En>There's something up ahead, I can feel it.</En> -->
+  <TextOnFirstTimeFloorReached_5>Μόλις κέρδισα μια μάχη ή κατάλαβα κάτι;</TextOnFirstTimeFloorReached_5> <!-- <En>Did I just win a battle or understand something?</En> -->
+  <TextOnFirstTimeFloorReached_6>Νιώθω πως όλα οδηγούν σε αυτό που βρίσκεται μπροστά.</TextOnFirstTimeFloorReached_6> <!-- <En>I feel like everything's led to what lies ahead.</En> -->
+  <TextOnFirstTimeFloorReached_7>Νιώθω σαν... ένα βάρος να έφυγε από το μυαλό μου. Παράξενο.</TextOnFirstTimeFloorReached_7> <!-- <En>I feel like... a weight's been lifted off my mind. Strange.</En> -->
+  <TextAfterFirstDungeonCompleted1>Γιατί σου παίρνει τόσο πολύ;</TextAfterFirstDungeonCompleted1> <!-- <En>What's taking you so long?</En> -->
+  <TextAfterFirstDungeonCompleted2>Τι ήταν αυτό;</TextAfterFirstDungeonCompleted2> <!-- <En>What was that?</En> -->
+  <YouDied>Πέθανες</YouDied> <!-- <En>You died</En> -->
+  <YouEscaped>Δραπέτευσες</YouEscaped> <!-- <En>You escaped</En> -->
+  <RunCompleted>Η προσπάθεια ολοκληρώθηκε</RunCompleted> <!-- <En>Run completed</En> -->
+  <FindLeverToOpen>Βρες μοχλό\nγια να ανοίξει</FindLeverToOpen> <!-- <En>Find lever\nto open</En> -->
+  <FollowTutorialToOpen>Ακολούθησε την εκμάθηση\nγια να ανοίξει</FollowTutorialToOpen> <!-- <En>Follow tutorial\nto open</En> -->
+  <Help>Βοήθεια</Help> <!-- <En>Help</En> -->
+  <HelpMe>Βοήθησέ με</HelpMe> <!-- <En>Help me</En> -->
+  <OverHere>Από εδώ</OverHere> <!-- <En>Over here</En> -->
+  <ReadSignTip>Κράτα πατημένο το [Inspect] για να διαβάσεις</ReadSignTip> <!-- <En>Hold [Inspect] to read</En> -->
+  <MainQuests>Κύριες αποστολές</MainQuests> <!-- <En>Main quests</En> -->
+  <SideQuests>Δευτερεύουσες αποστολές</SideQuests> <!-- <En>Side quests</En> -->
+  <ExtraQuests>Πρόσθετα</ExtraQuests> <!-- <En>Extras</En> -->
+  <AcceptQuestsInLobbyInfo>Μπορείτε να αποδεχτείτε και να αναβάλετε αποστολές στο λόμπι.</AcceptQuestsInLobbyInfo> <!-- <En>You can accept and postpone quests in the lobby.</En> -->
+  <QuestsRequireDungeonFloorInfo>Σημειώστε ότι ορισμένες αποστολές μπορούν να ολοκληρωθούν μόνο σε μπουντρούμια που έχουν αρκετούς ορόφους.</QuestsRequireDungeonFloorInfo> <!-- <En>Note that some quests can only be completed in dungeons that have enough floors.</En> -->
+  <ExtraQuest_UnlockNextDungeon>Ξεκλείδωμα επόμενου μπουντρουμιού</ExtraQuest_UnlockNextDungeon> <!-- <En>Unlock next dungeon</En> -->
+  <ExtraQuest_UnlockNextDungeonDesc>Φτάσε στο τέλος του ορόφου {0} αυτού του μπουντρουμιού για να ξεκλειδώσεις το επόμενο.</ExtraQuest_UnlockNextDungeonDesc> <!-- <En>Reach the end of floor {0} of this dungeon to unlock the next one.</En> -->
+  <ExtraQuest_FindPuzzlePiece>Εύρεση κομματιού παζλ</ExtraQuest_FindPuzzlePiece> <!-- <En>Find puzzle piece</En> -->
+  <ExtraQuest_FindPuzzlePieceDesc>Βρες το επόμενο κομμάτι του παζλ στον όροφο {0}. Αυτή τη στιγμή έχεις {1}/{2} από αυτά.</ExtraQuest_FindPuzzlePieceDesc> <!-- <En>Find the next puzzle piece on floor {0}. You currently have {1}/{2} of them.</En> -->
+  <ExtraQuest_SetSpiritsFree>Διάσωση πνευμάτων</ExtraQuest_SetSpiritsFree> <!-- <En>Spirit rescue</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_One>Υπάρχει 1 πνεύμα σε αυτό το μπουντρούμι. Ελευθέρωσέ το φέρνοντάς το στο καταφύγιο.</ExtraQuest_SetSpiritsFreeDesc_One> <!-- <En>There's 1 spirit in this dungeon. Set it free by bringing it to the shelter.</En> -->
+  <ExtraQuest_SetSpiritsFreeDesc_Multiple>Υπάρχουν {0} πνεύματα σε αυτό το μπουντρούμι. Ελευθέρωσέ τα φέρνοντάς τα στο καταφύγιο.</ExtraQuest_SetSpiritsFreeDesc_Multiple> <!-- <En>There are {0} spirits in this dungeon. Set them free by bringing them to the shelter.</En> -->
+  <TheseFollowersWillBeLeftBehind>Προειδοποίηση: Αυτοί οι ακόλουθοι θα μείνουν πίσω</TheseFollowersWillBeLeftBehind> <!-- <En>Warning: These followers will be left behind</En> -->
+  <ChooseYourSpell>Επίλεξε το ξόρκι σου</ChooseYourSpell> <!-- <En>Choose your spell</En> -->
+  <ChooseYourSpellController>Επίλεξε το ξόρκι σου ([QuickbarMenu])</ChooseYourSpellController> <!-- <En>Choose your spell ([QuickbarMenu])</En> -->
+  <QuickbarMenuNewSpell>Νέο ξόρκι</QuickbarMenuNewSpell> <!-- <En>New spell</En> -->
+  <QuickbarMenuTitle>Η γραμμή ταχείας πρόσβασης και τα ξόρκια σου</QuickbarMenuTitle> <!-- <En>Your hotbar and spells</En> -->
+  <DungeonModifiersLocked>Ξεκλειδώνεται στο επίπεδο {0}</DungeonModifiersLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <StardustInfo>Μάζεψες αστρόσκονη - ένα πολύτιμο νόμισμα!\n\nΗ αστρόσκονη μπορεί να δαπανηθεί στο λόμπι για να αγοράσεις ενισχύσεις για τις επόμενες προσπάθειές σου και να ξεκλειδώσεις ειδικά δωμάτια.\n\nΌλα τα αντικείμενα με την ένδειξη "Αντικείμενο Λόμπι" μεταφέρονται στο λόμπι. Όλα τα άλλα αντικείμενα χάνονται όταν τελειώνει η προσπάθεια.</StardustInfo> <!-- <En>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</En> -->
+  <PuzzlePieceInfo>Τα κομμάτια του παζλ, όπως και η αστρόσκονη, είναι μόνιμα αντικείμενα του λόμπι.\n\nΣυλλέξτε και τα {0} σε διαφορετικές προσπάθειες για να ξεκλειδώσετε ένα μυστικό δωμάτιο στο λόμπι.</PuzzlePieceInfo> <!-- <En>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</En> -->
+  <PetRatInfo>Έχεις έναν σύντροφο.\n\nΚάθε φορά που κινείσαι, ο Roko θα συλλέγει αυτόματα χρυσά νομίσματα στα διπλανά πλακίδια για εσένα.\n\n1 τυρί κάνει τον Roko να σε ακολουθεί μόνο για 1 προσπάθεια.</PetRatInfo> <!-- <En>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</En> -->
+  <PartyInfo>Τώρα έχεις μέλη στην ομάδα σου.\n\nΜπορείς να αλλάζεις μεταξύ τους και να διαχειρίζεσαι το απόθεμά τους ξεχωριστά. Κάθε μέλος της ομάδας παίζει τη σειρά του ανεξάρτητα.</PartyInfo> <!-- <En>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</En> -->
+  <UpgradeOrb_MaxHP>Μέγ. HP +{0}</UpgradeOrb_MaxHP> <!-- <En>Max HP +{0}</En> -->
+  <UpgradeOrb_Crit>Κρίσ. +{0}%</UpgradeOrb_Crit> <!-- <En>Crit. +{0}%</En> -->
+  <UpgradeOrb_Miss>Αποτυχία -{0}%</UpgradeOrb_Miss> <!-- <En>Miss -{0}%</En> -->
+  <UpgradeOrb_Fire>{0}% φωτιά</UpgradeOrb_Fire> <!-- <En>{0}% fire</En> -->
+  <Kick>Κλωτσιά</Kick> <!-- <En>Kick</En> -->
+  <KickDescription>Αυτός ο χαρακτήρας μπορεί να κλωτσάει πράγματα.</KickDescription> <!-- <En>This character can kick things.</En> -->
+  <MemoryPieceHereHint>Υπάρχει ένα Κομμάτι Μνήμης σε αυτόν τον όροφο</MemoryPieceHereHint> <!-- <En>There's a Memory Piece on this floor</En> -->
+  <MemoryPieceHereHint2>Αναζήτησέ το</MemoryPieceHereHint2> <!-- <En>Search for it</En> -->
+  <SearchFilter>Αναζήτηση</SearchFilter> <!-- <En>Search</En> -->
+  <DiscoveredItems>Ανακαλυφθέντα αντικείμενα</DiscoveredItems> <!-- <En>Discovered items</En> -->
+  <DiscoveredActors>Ανακαλυφθέντα πλάσματα</DiscoveredActors> <!-- <En>Discovered creatures</En> -->
+  <DiscoveredEntitiesTip>Ο Κώδικας δείχνει αντικείμενα και πλάσματα στην τυπική, μη καταραμένη τους κατάσταση. Τα πραγματικά αντικείμενα/πλάσματα μπορεί να διαφέρουν.</DiscoveredEntitiesTip> <!-- <En>Codex shows items and creatures in their typical, non-cursed state. Actual items/creatures may differ.</En> -->
+  <DailyChallenge>Ημερήσια πρόκληση</DailyChallenge> <!-- <En>Daily challenge</En> -->
+
+  <!-- Classes -->
+  <Class>Κλάση</Class> <!-- <En>Class</En> -->
+  <NoClass>Χωρίς κλάση\n\nΕπιδράσεις:\n- Φήμη και δόξα</NoClass> <!-- <En>No class\n\nEffects:\n- Fame and glory</En> -->
+  <ClassesLocked>Ξεκλειδώνεται στο επίπεδο {0}</ClassesLocked> <!-- <En>Unlocked at level {0}</En> -->
+  <ClassEffects>Επιδράσεις</ClassEffects> <!-- <En>Effects</En> -->
+  <ClassSpells>Ικανότητες: {0}</ClassSpells> <!-- <En>Abilities: {0}</En> -->
+  <ClassMaxHPOffset>Μέγ. HP</ClassMaxHPOffset> <!-- <En>Max HP</En> -->
+  <ClassMaxManaOffset>Μέγ. μάνα</ClassMaxManaOffset> <!-- <En>Max mana</En> -->
+  <ClassMaxStaminaOffset>Μέγ. αντοχή</ClassMaxStaminaOffset> <!-- <En>Max stamina</En> -->
+  <ClassDamageFactorAgainstUndead>{0} ζημιά σε απέθαντους (σκελετός, μούμια, κ.λπ.)</ClassDamageFactorAgainstUndead> <!-- <En>{0} damage to undead (skeleton, mummy, etc.)</En> -->
+  <ClassFireIncomingDamageFactor_Less>{0} αντοχή στη φωτιά</ClassFireIncomingDamageFactor_Less> <!-- <En>{0} fire resistance</En> -->
+  <ClassFireIncomingDamageFactor_More>{0} ευπάθεια στη φωτιά</ClassFireIncomingDamageFactor_More> <!-- <En>{0} fire vulnerability</En> -->
+  <ClassHungerRateFactor>Ρυθμός πείνας {0}</ClassHungerRateFactor> <!-- <En>Hunger rate {0}</En> -->
+  <ClassDisablesPressurePlates>Δεν ενεργοποιεί πλάκες πίεσης</ClassDisablesPressurePlates> <!-- <En>Doesn't activate pressure plates</En> -->
+  <ClassImmuneToPoison>Ανοσία στο δηλητήριο</ClassImmuneToPoison> <!-- <En>Immune to poison</En> -->
+  <ClassImmuneToPushing>Ανοσία στο σπρώξιμο</ClassImmuneToPushing> <!-- <En>Immune to pushing</En> -->
+  <ClassDogsAreHostile>Οι σκύλοι είναι εχθρικοί</ClassDogsAreHostile> <!-- <En>Dogs are hostile</En> -->
+  <ClassWalkingNoiseOffset>Θόρυβος περπατήματος {0}</ClassWalkingNoiseOffset> <!-- <En>Walking noise {0}</En> -->
+  <MaxFloorReachedWithClassTip>Μέγιστος όροφος που έφτασες με αυτή την κλάση: {0}</MaxFloorReachedWithClassTip> <!-- <En>Max floor you've reached with this class: {0}</En> -->
+  <MaxFloorReachedWithoutClassTip>Μέγιστος όροφος που έφτασες χωρίς κλάση: {0}</MaxFloorReachedWithoutClassTip> <!-- <En>Max floor you've reached without a class: {0}</En> -->
+
+  <!-- Play log entries -->
+  <EntityTakesDamage>Το {0} δέχεται {1} {2} ζημιά</EntityTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <EntityTakesDamageAndDies>Το {0} δέχεται {1} {2} ζημιά και πεθαίνει</EntityTakesDamageAndDies> <!-- <En>{0} takes {1} {2} damage and dies</En> -->
+  <EntityTakesDamageAndDies_Exp>{0} XP</EntityTakesDamageAndDies_Exp> <!-- <En>{0} XP</En> -->
+  <EntityTakesNoDamage>Το {0} δεν δέχεται {1} ζημιά</EntityTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <EntityGainsHP>Το {0} κερδίζει {1}</EntityGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartTakesDamage>Το {0} δέχεται {1} {2} ζημιά</BodyPartTakesDamage> <!-- <En>{0} takes {1} {2} damage</En> -->
+  <BodyPartTakesDamageAndIsDestroyed>Το {0} δέχεται {1} {2} ζημιά και καταστρέφεται</BodyPartTakesDamageAndIsDestroyed> <!-- <En>{0} takes {1} {2} damage and is destroyed</En> -->
+  <BodyPartTakesNoDamage>Το {0} δεν δέχεται {1} ζημιά</BodyPartTakesNoDamage> <!-- <En>{0} takes no {1} damage</En> -->
+  <BodyPartGainsHP>Το {0} κερδίζει {1}</BodyPartGainsHP> <!-- <En>{0} gains {1}</En> -->
+  <BodyPartDestroyedDirectly>Το {1} του {0} καταστρέφεται</BodyPartDestroyedDirectly> <!-- <En>{0}'s {1} is destroyed</En> -->
+  <DamageBlocked>Το {0} μπλοκάρει {1} {2} ζημιά</DamageBlocked> <!-- <En>{0} blocks {1} {2} damage</En> -->
+  <DamageBlockedAndDeflected>Το {0} εκτρέπει {1} {2} ζημιά στο {3}</DamageBlockedAndDeflected> <!-- <En>{0} deflects {1} {2} damage onto {3}</En> -->
+  <EntityIsPushed>Το {0} σπρώχνεται</EntityIsPushed> <!-- <En>{0} is pushed</En> -->
+  <EntityIsPulled>Το {0} τραβιέται</EntityIsPulled> <!-- <En>{0} is pulled</En> -->
+  <EntityGainsCondition>Το {0} αποκτά μια νέα κατάσταση: {1}</EntityGainsCondition> <!-- <En>{0} gets a new condition: {1}</En> -->
+  <EntityGainsUseEffect>Το {0} αποκτά μια νέα επίδραση: {1}</EntityGainsUseEffect> <!-- <En>{0} gains a new effect: {1}</En> -->
+  <BodyPartIsRestored>Το {1} του {0} αποκαθίσταται</BodyPartIsRestored> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsMana>Το {1} αποκαθίσταται για τον {0}</ActorGainsMana> <!-- <En>{1} is restored for {0}</En> -->
+  <ActorGainsStamina>Το {1} αποκαθίσταται για τον {0}</ActorGainsStamina> <!-- <En>{1} is restored for {0}</En> -->
+  <ItemIdentified>Το {0} αναγνωρίστηκε</ItemIdentified> <!-- <En>{0} is identified</En> -->
+  <ConditionWearsOff>Το {0} υποχωρεί</ConditionWearsOff> <!-- <En>{0} wears off</En> -->
+  <UseEffectWearsOff>Η επίδραση {0} υποχωρεί</UseEffectWearsOff> <!-- <En>{0} wears off</En> -->
+  <EntityPicksUpItem>Το {0} μαζεύει {1}</EntityPicksUpItem> <!-- <En>{0} picks up {1}</En> -->
+  <ItemIdentifiedOnUse_Removed>Ήταν {0}</ItemIdentifiedOnUse_Removed> <!-- <En>It was {0}</En> -->
+  <ItemIdentifiedOnUse_StillExists>Είναι {0}</ItemIdentifiedOnUse_StillExists> <!-- <En>It is {0}</En> -->
+  <CursedItemIdentifiedAfterEquipping>Το {0} είναι {1}! (πρέπει να βρεις ή να κατασκευάσεις έναν πάπυρο αφαίρεσης κατάρας)</CursedItemIdentifiedAfterEquipping> <!-- <En>{0} is {1}! (you need to find or craft a curse removal scroll)</En> -->
+  <ItemHasBeenCursed>Το {0} σου είναι πλέον {1}!</ItemHasBeenCursed> <!-- <En>Your {0} has been {1}!</En> -->
+  <CurseRemoved>Η κατάρα αφαιρέθηκε από το {0}</CurseRemoved> <!-- <En>Curse has been removed from {0}</En> -->
+  <EntityTeleportsRandomly>Το {0} τηλεμεταφέρεται σε μια τυχαία τοποθεσία</EntityTeleportsRandomly> <!-- <En>{0} teleports to a random location</En> -->
+  <EntityTeleports>Το {0} τηλεμεταφέρεται</EntityTeleports> <!-- <En>{0} teleports</En> -->
+  <GateOpens>Το {0} ανοίγει. Τώρα βρες την έξοδο.</GateOpens> <!-- <En>{0} opens. Now find the exit.</En> -->
+  <SafeOpens>Το {0} ανοίγει</SafeOpens> <!-- <En>{0} opens</En> -->
+  <GateClosesBehindYou>Μια πύλη κλείνει πίσω σου</GateClosesBehindYou> <!-- <En>A gate closes behind you</En> -->
+  <EntityHasAlreadyBeenUsed>Το {0} σβήνει αλλά δεν φαίνεται να έχει καμία επίδραση</EntityHasAlreadyBeenUsed> <!-- <En>{0} fizzles but doesn't seem to have any effect</En> -->
+  <YouAreStarving>Πεθαίνεις της πείνας</YouAreStarving> <!-- <En>You are starving</En> -->
+  <YouAreHungry>Πεινάς</YouAreHungry> <!-- <En>You are hungry</En> -->
+  <YouBoughtItem>Αγόρασες το {0}</YouBoughtItem> <!-- <En>You bought {0}</En> -->
+  <LeveledUp>Ανέβηκες επίπεδο!</LeveledUp> <!-- <En>Level up!</En> -->
+  <LeveledUp_CanChooseNewSpell>Μπορείς να επιλέξεις ένα νέο ξόρκι.</LeveledUp_CanChooseNewSpell> <!-- <En>You can choose a new spell.</En> -->
+  <LeveledUpShort>Ανέβασμα επιπέδου</LeveledUpShort> <!-- <En>Level up</En> -->
+  <ShieldRemovedBecauseHarmed>Η επίδραση της ασπίδας ακυρώθηκε επειδή έβλαψες το {0}</ShieldRemovedBecauseHarmed> <!-- <En>Shield effect has been canceled because you harmed {0}</En> -->
+  <ActorWakesUp>Το {0} ξυπνάει</ActorWakesUp> <!-- <En>{0} wakes up</En> -->
+  <TotalItems>{0} συνολικά</TotalItems> <!-- <En>{0} in total</En> -->
+  <YouSacrificedYourself>Θυσιάστηκες</YouSacrificedYourself> <!-- <En>You sacrificed yourself</En> -->
+  <GambleWin>Κερδίζεις</GambleWin> <!-- <En>You win</En> -->
+  <GambleLose>Χάνεις</GambleLose> <!-- <En>You lose</En> -->
+  <TrialCompleted>Ολοκλήρωσες τη δοκιμασία και έλαβες {0}</TrialCompleted> <!-- <En>You've completed the trial and received {0}</En> -->
+  <GlyphsCompleted>Έλυσες τον γρίφο με τους γλύφους και έλαβες {0}</GlyphsCompleted> <!-- <En>You've solved the glyph puzzle and received {0}</En> -->
+  <PlayerHealedOnKilledByWearable>Σώθηκες από το {0}</PlayerHealedOnKilledByWearable> <!-- <En>You are saved by {0}</En> -->
+  <HealedOnKilledByWearable>Ο {0} σώθηκε από το {1}</HealedOnKilledByWearable> <!-- <En>{0} is saved by {1}</En> -->
+  <TrialFailed>Απέτυχες στη δοκιμασία</TrialFailed> <!-- <En>You've failed the trial</En> -->
+  <ItemDuplicated>Το {0} έχει αντιγραφεί</ItemDuplicated> <!-- <En>{0} has been duplicated</En> -->
+  <FailedToDuplicate>Το {0} καταστράφηκε</FailedToDuplicate> <!-- <En>{0} has been destroyed</En> -->
+  <NoMoreFishHere>Δεν υπάρχει τίποτα άλλο εδώ</NoMoreFishHere> <!-- <En>There's nothing here anymore</En> -->
+  <CaughtFishing>Έπιασες {0}</CaughtFishing> <!-- <En>You caught {0}</En> -->
+  <TriggerWillActivateIn>Το {0} θα ενεργοποιηθεί σε {1}</TriggerWillActivateIn> <!-- <En>{0} will activate in {1}</En> -->
+  <ReceivedItem>Έλαβες {0}</ReceivedItem> <!-- <En>You received {0}</En> -->
+  <DevilStatueAcceptedItem>Το άγαλμα του διαβόλου δέχεται το {0} σου και σου δίνει {1}</DevilStatueAcceptedItem> <!-- <En>The devil statue accepts your {0} and gives you {1}</En> -->
+  <ActorReceivesItem>Ο {0} λαμβάνει {1}</ActorReceivesItem> <!-- <En>{0} receives {1}</En> -->
+  <ActorMisses>Ο {0} αστοχεί</ActorMisses> <!-- <En>{0} misses</En> -->
+  <EnemySpawnedNearby>Ένας {0} εμφανίστηκε κοντά</EnemySpawnedNearby> <!-- <En>{0} spawned nearby</En> -->
+  <ActorGivesItemToActor>Ο {0} δίνει το {1} στον {2}</ActorGivesItemToActor> <!-- <En>{0} gives {1} to {2}</En> -->
+  <FactionBecameHostile>Η παράταξη {0} έγινε εχθρική</FactionBecameHostile> <!-- <En>{0} faction became hostile</En> -->
+  <MissingIngredients>Δεν έχεις όλα τα συστατικά</MissingIngredients> <!-- <En>You don't have all the ingredients</En> -->
+  <DroppedItemInInvalidSlot>Αυτό το αντικείμενο δεν χωράει σε αυτή τη θέση</DroppedItemInInvalidSlot> <!-- <En>This item doesn't fit in this slot</En> -->
+  <StoleItem>Ο {0} έκλεψε το {1} από τον {2}</StoleItem> <!-- <En>{0} stole {1} from {2}</En> -->
+  <PlayerCollectedBossTrophyStardust>Μάζεψες {0} x{1}</PlayerCollectedBossTrophyStardust> <!-- <En>You've collected {0} x{1}</En> -->
+  <YouGainedSkillPoint>Κέρδισες έναν πόντο δεξιοτήτων! Άνοιξε το inventory για να τον ξοδέψεις.</YouGainedSkillPoint> <!-- <En>You've gained a skill point! Open inventory to spend it.</En> -->
+  <SetSpiritFree>Απελευθέρωσες το {0} και έλαβες {1}</SetSpiritFree> <!-- <En>You've set {0} free and received {1}</En> -->
+  <ItemRampUpUpgraded>Το επίπεδο του {0} έχει αναβαθμιστεί</ItemRampUpUpgraded> <!-- <En>The level of {0} has been upgraded</En> -->
+  <CannotUnequipCursedItem>Δεν μπορείς να αφαιρέσεις ένα καταραμένο αντικείμενο</CannotUnequipCursedItem> <!-- <En>You can't unequip a cursed item</En> -->
+  <UsedRecipe>Ο {0} κατασκευάζει {1}</UsedRecipe> <!-- <En>{0} crafts {1}</En> -->
+
+  <!-- Use label -->
+  <UseLabel_Self>Χρήση σε εμένα</UseLabel_Self> <!-- <En>Use on self</En> -->
+  <UseLabel_Other>Χρήση σε...</UseLabel_Other> <!-- <En>Use on...</En> -->
+  <PotionUseLabel_Self>Πιες το</PotionUseLabel_Self> <!-- <En>Drink</En> -->
+  <PotionUseLabel_Other>Ρίξε το...</PotionUseLabel_Other> <!-- <En>Throw...</En> -->
+  <FoodUseLabel_Self>Φάε το</FoodUseLabel_Self> <!-- <En>Eat</En> -->
+  <BombUseLabel_Other>Ρίξε τη...</BombUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SetTrapLabel_Other>Τοποθέτηση παγίδας...</SetTrapLabel_Other> <!-- <En>Set trap...</En> -->
+  <ThrownWeaponUseLabel_Other>Ρίξε το...</ThrownWeaponUseLabel_Other> <!-- <En>Throw...</En> -->
+  <SeedUseLabel_Other>Φύτεψε...</SeedUseLabel_Other> <!-- <En>Plant...</En> -->
+  <NativeWeaponUseLabel_Self>Χρήση σε εμένα</NativeWeaponUseLabel_Self> <!-- <En>Use on self</En> -->
+  <NativeWeaponUseLabel_Other>Επίθεση...</NativeWeaponUseLabel_Other> <!-- <En>Attack...</En> -->
+  <SpellUseLabel_Self>Εκτέλεση σε εμένα</SpellUseLabel_Self> <!-- <En>Cast on self</En> -->
+  <SpellUseLabel_Other>Εκτέλεση σε...</SpellUseLabel_Other> <!-- <En>Cast on...</En> -->
+  <EmptyVialUseLabel_Other>Γέμισμα με...</EmptyVialUseLabel_Other> <!-- <En>Fill with...</En> -->
+  <PlanksUseLabel_Other>Μπλοκάρισμα πόρτας...</PlanksUseLabel_Other> <!-- <En>Bar door...</En> -->
+  <ChainUseLabel_Self>Αλυσόδεσε τον εαυτό σου</ChainUseLabel_Self> <!-- <En>Chain yourself</En> -->
+  <ChainUseLabel_Other>Αλυσόδεσε...</ChainUseLabel_Other> <!-- <En>Chain...</En> -->
+  <PlacePrivateRoomStructure_Other>Τοποθέτηση...</PlacePrivateRoomStructure_Other> <!-- <En>Place...</En> -->
+  <PickUpPrivateRoomStructure_Other>Σήκωσε...</PickUpPrivateRoomStructure_Other> <!-- <En>Pick up...</En> -->
+  <FishingRodUseLabel_Other>Ψάρεμα...</FishingRodUseLabel_Other> <!-- <En>Catch fish...</En> -->
+  <PickaxeUseLabel_Other>Εξόρυξη...</PickaxeUseLabel_Other> <!-- <En>Mine...</En> -->
+  <TalkUseLabel_Other>Μίλα...</TalkUseLabel_Other> <!-- <En>Talk...</En> -->
+  <CrystalUseLabel_Self>Γοητεία</CrystalUseLabel_Self> <!-- <En>Enchant</En> -->
+  <ShovelUseLabel_Other>Σκάψε...</ShovelUseLabel_Other> <!-- <En>Dig...</En> -->
+  <KickUseLabel_Self>Κλώτσα τον εαυτό σου</KickUseLabel_Self> <!-- <En>Kick yourself</En> -->
+  <KickUseLabel_Other>Κλώτσα...</KickUseLabel_Other> <!-- <En>Kick...</En> -->
+
+  <!-- Use description -->
+  <AttackDescription_Self>Ο {0} επιτίθεται στον εαυτό του με {1}</AttackDescription_Self> <!-- <En>{0} attacks himself with {1}</En> -->
+  <AttackDescription_Other>Ο {0} επιτίθεται στον {2} με {1}</AttackDescription_Other> <!-- <En>{0} attacks {2} with {1}</En> -->
+  <UseDescription_Self>Ο {0} χρησιμοποιεί {1}</UseDescription_Self> <!-- <En>{0} uses {1}</En> -->
+  <UseDescription_Other>Ο {0} χρησιμοποιεί {1} στον {2}</UseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <PotionUseDescription_Self>Ο {0} πίνει το {1}</PotionUseDescription_Self> <!-- <En>{0} drinks {1}</En> -->
+  <PotionUseDescription_Other>Ο {0} ρίχνει το {1} στον {2}</PotionUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <ScrollUseDescription_Self>Ο {0} χρησιμοποιεί το {1} στον εαυτό του</ScrollUseDescription_Self> <!-- <En>{0} uses {1} on himself</En> -->
+  <ScrollUseDescription_Other>Ο {0} χρησιμοποιεί το {1} στον {2}</ScrollUseDescription_Other> <!-- <En>{0} uses {1} on {2}</En> -->
+  <BombUseDescription_Other>Ο {0} ρίχνει τη {1} στον {2}</BombUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <OpenUseDescription_Self>Ο {0} ανοίγει το {1}</OpenUseDescription_Self> <!-- <En>{0} opens {1}</En> -->
+  <CloseUseDescription_Self>Ο {0} κλείνει το {1}</CloseUseDescription_Self> <!-- <En>{0} closes {1}</En> -->
+  <GraveUseDescription_Self>Ο {0} ξεθάβει το {1}</GraveUseDescription_Self> <!-- <En>{0} digs up {1}</En> -->
+  <FountainUseDescription_Self>Ο {0} πίνει από το {1}</FountainUseDescription_Self> <!-- <En>{0} drinks from {1}</En> -->
+  <EnchantingTableUseDescription_Self>Ο {0} γοητεύει εξοπλισμό στο {1}</EnchantingTableUseDescription_Self> <!-- <En>{0} enchants gear at {1}</En> -->
+  <StaircaseUseDescription_Self>Ο {0} κατεβαίνει τις σκάλες</StaircaseUseDescription_Self> <!-- <En>{0} goes down the stairs</En> -->
+  <StaircaseUpUseDescription_Self>Ο {0} ανεβαίνει τις σκάλες</StaircaseUpUseDescription_Self> <!-- <En>{0} goes up the stairs</En> -->
+  <LeverUseDescription_Self>Ο {0} τραβάει το {1}</LeverUseDescription_Self> <!-- <En>{0} pulls {1}</En> -->
+  <ShrineUseDescription_Self>Ο {0} λαμβάνει ευλογία στο {1}</ShrineUseDescription_Self> <!-- <En>{0} receives blessing at {1}</En> -->
+  <FoodUseDescription_Self>Ο {0} τρώει το {1}</FoodUseDescription_Self> <!-- <En>{0} eats {1}</En> -->
+  <SetTrapDescription_Other>Ο {0} τοποθετεί το {1}</SetTrapDescription_Other> <!-- <En>{0} sets {1}</En> -->
+  <WaterUseDescription_Self>Ο {0} κολυμπάει στο {1}</WaterUseDescription_Self> <!-- <En>{0} swims in {1}</En> -->
+  <LavaUseDescription_Self>Ο {0} καίγεται στη {1}</LavaUseDescription_Self> <!-- <En>{0} burns in {1}</En> -->
+  <PressurePlateUseDescription_Self>Ο {0} πατάει στο {1}</PressurePlateUseDescription_Self> <!-- <En>{0} steps on {1}</En> -->
+  <PortalUseDescription_Self>Ο {0} τηλεμεταφέρεται</PortalUseDescription_Self> <!-- <En>{0} teleports</En> -->
+  <ThrownWeaponUseDescription_Other>Ο {0} ρίχνει το {1} στον {2}</ThrownWeaponUseDescription_Other> <!-- <En>{0} throws {1} at {2}</En> -->
+  <SeedUseDescription_Other>Ο {0} φυτεύει το {1}</SeedUseDescription_Other> <!-- <En>{0} plants {1}</En> -->
+  <SpellUseDescription_Self>Ο {0} εκτελεί το {1} στον εαυτό του</SpellUseDescription_Self> <!-- <En>{0} casts {1} on himself</En> -->
+  <SpellUseDescription_Other>Ο {0} εκτελεί το {1} στον {2}</SpellUseDescription_Other> <!-- <En>{0} casts {1} on {2}</En> -->
+  <EmptyVialUseDescription_Other>Ο {0} γεμίζει το {1} με νερό</EmptyVialUseDescription_Other> <!-- <En>{0} fills {1} with water</En> -->
+  <PlanksUseDescription_Other>Ο {0} μπλοκάρει τον/την {2}</PlanksUseDescription_Other> <!-- <En>{0} bars {2}</En> -->
+  <ChainUseDescription_Self>Ο {0} αλυσοδένεται σε έναν στύλο</ChainUseDescription_Self> <!-- <En>{0} chains himself to a post</En> -->
+  <ChainUseDescription_Other>Ο {0} αλυσοδένει τον {2} σε έναν στύλο</ChainUseDescription_Other> <!-- <En>{0} chains {2} to a post</En> -->
+  <PlacePrivateRoomStructureDescription_Other>Ο {0} τοποθετεί το {1}</PlacePrivateRoomStructureDescription_Other> <!-- <En>{0} places {1}</En> -->
+  <PickUpPrivateRoomStructureDescription_Other>Ο {0} σηκώνει το {2}</PickUpPrivateRoomStructureDescription_Other> <!-- <En>{0} picks up {2}</En> -->
+  <BandageUseDescription_Self>Ο {0} δένει τις πληγές του</BandageUseDescription_Self> <!-- <En>{0} bandages own wounds</En> -->
+  <BandageUseDescription_Other>Ο {0} δένει τις πληγές του {2}</BandageUseDescription_Other> <!-- <En>{0} bandages {2}'s wounds</En> -->
+  <SurgicalKitUseDescription_Self>Ο {0} εκτελεί χειρουργική επέμβαση</SurgicalKitUseDescription_Self> <!-- <En>{0} performs surgery</En> -->
+  <SurgicalKitUseDescription_Other>Ο {0} εκτελεί χειρουργική επέμβαση στον {2}</SurgicalKitUseDescription_Other> <!-- <En>{0} performs surgery on {2}</En> -->
+  <SkeletalRemainsUseDescription_Self>Ο {0} ψάχνει τα {1}</SkeletalRemainsUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <GamblingTableUseDescription_Self>Ο {0} τζογάρει στο {1}</GamblingTableUseDescription_Self> <!-- <En>{0} gambles at {1}</En> -->
+  <ButtonUseDescription_Self>Ο {0} πατάει το {1}</ButtonUseDescription_Self> <!-- <En>{0} presses {1}</En> -->
+  <TrialUseDescription_Self>Ο {0} ξεκινά μια πρόκληση στο {1}</TrialUseDescription_Self> <!-- <En>{0} starts a challenge at {1}</En> -->
+  <DuplicatorUseDescription_Self>Ο {0} αντιγράφει αντικείμενο στο {1}</DuplicatorUseDescription_Self> <!-- <En>{0} duplicates item at {1}</En> -->
+  <FishingRodUseDescription_Other>Ο {0} πιάνει ψάρια στο {2}</FishingRodUseDescription_Other> <!-- <En>{0} catches fish at {2}</En> -->
+  <ExtinguisherUseDescription_Self>Ο {0} σβήνει τον εαυτό του</ExtinguisherUseDescription_Self> <!-- <En>{0} extinguishes himself</En> -->
+  <ExtinguisherUseDescription_Other>Ο {0} σβήνει τον {2}</ExtinguisherUseDescription_Other> <!-- <En>{0} extinguishes {2}</En> -->
+  <AncientDeviceUseDescription_Self>Ο {0} ερευνά το {1}</AncientDeviceUseDescription_Self> <!-- <En>{0} researches {1}</En> -->
+  <WallWithCompartmentUseDescription_Self>Ο {0} ψάχνει το {1}</WallWithCompartmentUseDescription_Self> <!-- <En>{0} searches {1}</En> -->
+  <BedUseDescription_Self>Ο {0} κοιμάται στο {1}</BedUseDescription_Self> <!-- <En>{0} sleeps in {1}</En> -->
+  <PickaxeUseDescription_Other>Ο {0} εξορύσσει το {2} με το {1}</PickaxeUseDescription_Other> <!-- <En>{0} mines {2} with {1}</En> -->
+  <TalkUseDescription_Other>Ο {0} μιλάει με τον {2}</TalkUseDescription_Other> <!-- <En>{0} talks with {2}</En> -->
+  <CrystalUseDescription_Self>Ο {0} γοητεύει ένα αντικείμενο με το {1}</CrystalUseDescription_Self> <!-- <En>{0} enchants an item with {1}</En> -->
+  <ShovelUseDescription_Other>Ο {0} σκάβει το {2} με το {1}</ShovelUseDescription_Other> <!-- <En>{0} digs {2} with {1}</En> -->
+  <LimbOfferingAltarUseDescription_Self>Ο {0} προσφέρει ένα μέλος στο {1}</LimbOfferingAltarUseDescription_Self> <!-- <En>{0} offers a limb at {1}</En> -->
+  <PhantomsAltarUseDescription_Self>Ο {0} καλεί ένα Φάντασμα στο {1}</PhantomsAltarUseDescription_Self> <!-- <En>{0} summons Phantom at {1}</En> -->
+  <AltarOfRedemptionUseDescription_Self>Ο {0} απελευθερώνει ένα πνεύμα στο {1}</AltarOfRedemptionUseDescription_Self> <!-- <En>{0} sets a spirit free at {1}</En> -->
+  <CleanUpUseDescription_Self>Ο {0} καθαρίζει το {1}</CleanUpUseDescription_Self> <!-- <En>{0} cleans up {1}</En> -->
+  <BookshelfUseDescription_Self>Ο {0} κερδίζει έναν πόντο δεξιοτήτων στο {1}</BookshelfUseDescription_Self> <!-- <En>{0} gains a skill point at {1}</En> -->
+  <KickDescription_Self>Ο {0} κλωτσάει τον εαυτό του</KickDescription_Self> <!-- <En>{0} kicks himself</En> -->
+  <KickDescription_Other>Ο {0} κλωτσάει τον {2}</KickDescription_Other> <!-- <En>{0} kicks {2}</En> -->
+  <AnvilUseDescription_Self>Ο {0} αναβαθμίζει εξοπλισμό στο {1}</AnvilUseDescription_Self> <!-- <En>{0} upgrades gear at {1}</En> -->
+  <DevilStatueUseDescription_Self>Ο {0} προσφέρει ένα καταραμένο αντικείμενο στο {1}</DevilStatueUseDescription_Self> <!-- <En>{0} offers cursed item to {1}</En> -->
+
+  <!-- Directions -->
+  <Up>πάνω</Up> <!-- <En>up</En> -->
+  <Down>κάτω</Down> <!-- <En>down</En> -->
+  <North>βόρεια</North> <!-- <En>north</En> -->
+  <South>νότια</South> <!-- <En>south</En> -->
+  <West>δυτικά</West> <!-- <En>west</En> -->
+  <East>ανατολικά</East> <!-- <En>east</En> -->
+  <NorthWest>βορειοδυτικά</NorthWest> <!-- <En>north-west</En> -->
+  <NorthEast>βορειοανατολικά</NorthEast> <!-- <En>north-east</En> -->
+  <SouthWest>νοτιοδυτικά</SouthWest> <!-- <En>south-west</En> -->
+  <SouthEast>νοτιοανατολικά</SouthEast> <!-- <En>south-east</En> -->
+  <UpNorth>πάνω-βόρεια</UpNorth> <!-- <En>up-north</En> -->
+  <UpSouth>πάνω-νότια</UpSouth> <!-- <En>up-south</En> -->
+  <UpWest>πάνω-δυτικά</UpWest> <!-- <En>up-west</En> -->
+  <UpEast>πάνω-ανατολικά</UpEast> <!-- <En>up-east</En> -->
+  <UpNorthWest>πάνω-βορειοδυτικά</UpNorthWest> <!-- <En>up-north-west</En> -->
+  <UpNorthEast>πάνω-βορειοανατολικά</UpNorthEast> <!-- <En>up-north-east</En> -->
+  <UpSouthWest>πάνω-νοτιοδυτικά</UpSouthWest> <!-- <En>up-south-west</En> -->
+  <UpSouthEast>πάνω-νοτιοανατολικά</UpSouthEast> <!-- <En>up-south-east</En> -->
+  <DownNorth>κάτω-βόρεια</DownNorth> <!-- <En>down-north</En> -->
+  <DownSouth>κάτω-νότια</DownSouth> <!-- <En>down-south</En> -->
+  <DownWest>κάτω-δυτικά</DownWest> <!-- <En>down-west</En> -->
+  <DownEast>κάτω-ανατολικά</DownEast> <!-- <En>down-east</En> -->
+  <DownNorthWest>κάτω-βορειοδυτικά</DownNorthWest> <!-- <En>down-north-west</En> -->
+  <DownNorthEast>κάτω-βορειοανατολικά</DownNorthEast> <!-- <En>down-north-east</En> -->
+  <DownSouthWest>κάτω-νοτιοδυτικά</DownSouthWest> <!-- <En>down-south-west</En> -->
+  <DownSouthEast>κάτω-νοτιοανατολικά</DownSouthEast> <!-- <En>down-south-east</En> -->
+
+  <!-- Rooms -->
+  <Room_Start>Έναρξη</Room_Start> <!-- <En>Start</En> -->
+  <Room_End>Τέλος</Room_End> <!-- <En>End</En> -->
+  <Room_Lever>Μοχλός</Room_Lever> <!-- <En>Lever</En> -->
+  <Room_StoreysTransition>Σκάλα</Room_StoreysTransition> <!-- <En>Ladder</En> -->
+  <Room_BossRoom>Αφεντικό</Room_BossRoom> <!-- <En>Boss</En> -->
+
+  <!-- Conditions -->
+
+  <CanSurpriseAttack>Ευκαιρία για ενέδρα</CanSurpriseAttack> <!-- <En>Ambush opportunity</En> -->
+  <CanSurpriseAttackDesc>Αυτός ο χαρακτήρας δεν σε είδε στον προηγούμενο γύρο, οπότε θα του προκαλέσεις {0} περισσότερη ζημιά αν επιτεθείς τώρα.</CanSurpriseAttackDesc> <!-- <En>This character didn't see you in the previous turn, so you will deal {0} more damage to them if you attack now.</En> -->
+
+  <AboveYou>Πάνω από εσένα</AboveYou> <!-- <En>Above you</En> -->
+  <AboveYouDesc>Αυτός ο χαρακτήρας βρίσκεται αυτή τη στιγμή πάνω από εσένα, πράγμα που σημαίνει ότι θα προκαλέσει {0} περισσότερη ζημιά αν σε χτυπήσει από αυτή τη θέση.</AboveYouDesc> <!-- <En>This character is currently above you, which means they'll deal {0} more damage if they hit you from this position.</En> -->
+
+  <BelowYou>Κάτω από εσάς</BelowYou> <!-- <En>Below you</En> -->
+  <BelowYouDesc>Αυτός ο χαρακτήρας βρίσκεται αυτή τη στιγμή κάτω από εσάς, που σημαίνει ότι θα προκαλέσετε {0} περισσότερη ζημιά αν τον χτυπήσετε από αυτή τη θέση.</BelowYouDesc> <!-- <En>This character is currently below you, which means you'll deal {0} more damage if you hit them from this position.</En> -->
+
+  <CantSeePlayer>Δεν σας βλέπει</CantSeePlayer> <!-- <En>Can't see you</En> -->
+  <CantSeePlayerDesc>Αυτός ο χαρακτήρας δεν σας βλέπει (δεν μπορεί να δει τόσο μακριά όσο εσείς). Προσοχή όμως - μπορεί να θυμάται την τελευταία σας θέση και να θέλει να πάει να την ελέγξει!</CantSeePlayerDesc> <!-- <En>This character doesn't see you (they can't see as far as you). But beware - they may still remember your last position and want to go check it!</En> -->
+
+  <Falling>Πέφτει</Falling> <!-- <En>Falling</En> -->
+  <FallingDesc>Αυτός ο χαρακτήρας πέφτει, που σημαίνει ότι η επόμενη κίνησή του θα αφιερωθεί στην πτώση αντί για την εκτέλεση μιας ενέργειας.</FallingDesc> <!-- <En>This character is falling, which means that their next turn will have to be spent on falling down instead of performing an action.</En> -->
+
+  <UnidentifiedCondition>Άγνωστη επίδραση</UnidentifiedCondition> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedConditionDesc>Μια άγνωστη επίδραση. Προέρχεται από ένα μη αναγνωρισμένο αντικείμενο.</UnidentifiedConditionDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <SurroundedBonusDesc>Είστε περικυκλωμένοι από τουλάχιστον 2 εχθρούς, που σημαίνει ότι θα προκαλέσετε {0} περισσότερη ζημιά σε αυτόν τον χαρακτήρα αν τον χτυπήσετε από αυτή τη θέση.</SurroundedBonusDesc> <!-- <En>You're surrounded by at least 2 enemies, which means you'll deal {0} more damage to this character if you hit them from this position.</En> -->
+
+  <!-- Use effects -->
+
+  <UnidentifiedUseEffect>Άγνωστη επίδραση</UnidentifiedUseEffect> <!-- <En>Unidentified effect</En> -->
+  <UnidentifiedUseEffectDesc>Μια άγνωστη επίδραση. Προέρχεται από ένα μη αναγνωρισμένο αντικείμενο.</UnidentifiedUseEffectDesc> <!-- <En>An unknown effect. It comes from an unidentified item.</En> -->
+
+  <!-- Tips -->
+
+  <TimeTip>{0}\n{1}\n\nΑυτός είναι ο τρέχων χρόνος του παιχνιδιού. Ένα λεπτό αντιστοιχεί σε μία κίνηση.\n\nΟλόκληρο το παιχνίδι είναι turn-based. Οι περισσότερες ενέργειες, όπως το περπάτημα, η κατανάλωση φίλτρου, η επίθεση ή η αλληλεπίδραση με αντικείμενα, χρειάζονται μία κίνηση για να ολοκληρωθούν.\n\nΣυνολικές κινήσεις που πέρασαν: {2}.\nΣε αυτόν τον όροφο: {3}.</TimeTip> <!-- <En>{0}\n{1}\n\nThis is the current in-game time. One minute represents one turn.\n\nThe entire game is turn-based. Most actions take one turn to complete like walking, drinking a potion, attacking, or interacting with things.\n\nTotal turns passed: {2}.\nOn this floor: {3}.</En> -->
+  <PlayerHealthTip>Αυτοί είναι οι πόντοι ζωής του χαρακτήρα σας.\n\nΟρισμένα αντικείμενα μπορεί να αυξήσουν τους μέγιστους πόντους ζωής σας. Κάθε επίπεδο σας δίνει {0} στους μέγιστους πόντους ζωής.</PlayerHealthTip> <!-- <En>This is your character's hit points.\n\nCertain items may increase your maximum hit points. Each level gives you {0} to max hit points.</En> -->
+  <PlayerHealthRegenTip>Αν δεν πεινάτε ή λιμοκτονείτε, {0} θα θεραπεύεται κάθε {1}.</PlayerHealthRegenTip> <!-- <En>If not hungry or starving, {0} will be healed every {1}.</En> -->
+  <PlayerHealthRegenHealHPInTip>Επόμενος πόντος ζωής θεραπεύεται σε: {0}.</PlayerHealthRegenHealHPInTip> <!-- <En>Next hit point healed in: {0}.</En> -->
+  <LosingHPBecauseAboveMaxTip>Χάνετε ζωή επειδή είναι πάνω από το μέγιστο επίπεδο.</LosingHPBecauseAboveMaxTip> <!-- <En>You're losing health because it's above the maximum level.</En> -->
+  <LosingManaBecauseAboveMaxTip>Χάνετε μάνα επειδή είναι πάνω από το μέγιστο επίπεδο.</LosingManaBecauseAboveMaxTip> <!-- <En>You're losing mana because it's above the maximum level.</En> -->
+  <LosingStaminaBecauseAboveMaxTip>Χάνετε αντοχή επειδή είναι πάνω από το μέγιστο επίπεδο.</LosingStaminaBecauseAboveMaxTip> <!-- <En>You're losing stamina because it's above the maximum level.</En> -->
+  <ItemIdentificationTip>Αυτό το αντικείμενο θα αναγνωριστεί μετά από {0}. Σύρετε και αφήστε για αναδιάταξη.</ItemIdentificationTip> <!-- <En>This item will be identified after {0}. Drag and drop to reorder.</En> -->
+  <ItemUnidentifiedDescChoices>Αυτό το αντικείμενο είναι {0}. Ωστόσο, χάρη στην άψογη αντίληψή σας, μπορείτε να πείτε ότι είναι ένα από τα ακόλουθα:</ItemUnidentifiedDescChoices> <!-- <En>This item is {0}. However, thanks to your impeccable perception you can tell that it's one of the following:</En> -->
+  <IdentificationGroupsBecomeIdentifiedDesc>Αντικείμενα σαν αυτό αναγνωρίζονται μόνιμα μόλις χρησιμοποιηθούν.</IdentificationGroupsBecomeIdentifiedDesc> <!-- <En>Items like this become permanently identified once used.</En> -->
+  <ItemUnidentifiedDesc>Αυτό το αντικείμενο είναι {0}. Μπορεί να έχει άγνωστες επιδράσεις και να είναι {1} (δεν μπορείτε να ξε-εξοπλίσετε {1} αντικείμενα). Οι περιπλανώμενοι μπορούν να σας βοηθήσουν με την αναγνώριση.</ItemUnidentifiedDesc> <!-- <En>This item is {0}. It can have unknown effects and be {1} (you can't unequip {1} items). Wanderers can help you with identification.</En> -->
+  <ItemCursedDesc>Αυτό το αντικείμενο είναι {0}. Δεν μπορείτε να ξε-εξοπλίσετε {0} αντικείμενα (χωρίς πάπυρο αφαίρεσης κατάρας).</ItemCursedDesc> <!-- <En>This item is {0}. You can't unequip {0} items (without curse removal scroll).</En> -->
+  <SignTexts>Συγχαρητήρια!;Μπορείς να το κάνεις!;Πάντα πίστευα σε σένα!;Σχεδόν έφτασες!;Μακάρι να ήμουν τόσο φοβερός όσο εσύ!;Εντυπωσιακό!;Συνέχισε έτσι!;Είσαι ο καλύτερος!;Τα κατάφερες!;Ωραίος!;Είσαι φοβερός!</SignTexts> <!-- <En>Congrats!;You can do it!;I've always believed in you!;Almost there!;I wish I was as awesome as you!;Impressive!;Keep it going!;You're the best!;You made it!;Nice one!;You’re awesome!</En> -->
+  <Sign_FloorOne>Καλώς ήρθατε στον όροφο 1.\n\nΤο ταξίδι σας ξεκινά εδώ, παρόλο που μπορεί να μην είναι η πρώτη φορά που διαβάζετε αυτή την πινακίδα.\n\nΚάποια πράγματα μπορεί να φαίνονται δύσκολα στην αρχή, αλλά δεν πειράζει. Πάνω απ' όλα, πρέπει να θυμόμαστε - το να χάνεις είναι διασκεδαστικό!</Sign_FloorOne> <!-- <En>Welcome to floor 1.\n\nYour journey starts here, even though it may not be the first time you read this sign.\n\nSome things may seem difficult at first, but that's okay. Above all, we must remember - losing is fun!</En> -->
+  <Sign_AnyFloor>Καλώς ήρθατε στον όροφο {0}.</Sign_AnyFloor> <!-- <En>Welcome to floor {0}.</En> -->
+  <Sign_Shelter>Εδώ, κάθε ψυχή σταματά για να βρει το δρόμο της.</Sign_Shelter> <!-- <En>Here, every soul pauses to find its way.</En> -->
+  <BossTrophyDesc>Σκοτώθηκε στις {0}.</BossTrophyDesc> <!-- <En>Slain on the {0}.</En> -->
+  <PlayerGoldTip>Ο αριθμός των χρυσών νομισμάτων που έχετε στο απόθεμά σας. Μπορεί να υπάρχουν κάποιοι πρόθυμοι για εμπόριο σε αυτό το μπουντρούμι.</PlayerGoldTip> <!-- <En>The number of gold coins you have in your inventory. There may be some people willing to trade in this dungeon.</En> -->
+  <SpawnsNextIn>Επόμενη εμφάνιση {0} σε</SpawnsNextIn> <!-- <En>Spawns next {0} in</En> -->
+  <WontSpawnMore>Δεν θα εμφανιστούν άλλα</WontSpawnMore> <!-- <En>Won't spawn more</En> -->
+  <DisappearsIn>Εξαφανίζεται σε {0}.</DisappearsIn> <!-- <En>Disappears in {0}.</En> -->
+  <SpreadsIn>Εξαπλώνεται σε {0}.</SpreadsIn> <!-- <En>Spreads in {0}.</En> -->
+  <UseCycleUseIn>Επόμενη ενέργεια σε {0}.</UseCycleUseIn> <!-- <En>Next action in {0}.</En> -->
+  <TriggerTurnsLeft>Θα ενεργοποιηθεί σε {0}.</TriggerTurnsLeft> <!-- <En>Will activate in {0}.</En> -->
+  <ConditionOrigin>Πηγή</ConditionOrigin> <!-- <En>Source</En> -->
+  <DifficultyOrigin>Πηγή: Δυσκολία</DifficultyOrigin> <!-- <En>Source: Difficulty</En> -->
+  <WorldSituationPresentSince>Παρών από</WorldSituationPresentSince> <!-- <En>Present since</En> -->
+  <ChangeAltitudeTip>Πατήστε [Fly]+[MoveForward] για να ανεβείτε και [Fly]+[MoveBack] για να κατεβείτε.</ChangeAltitudeTip> <!-- <En>Press [Fly]+[MoveForward] to go up and [Fly]+[MoveBack] to go down.</En> -->
+  <KickDoorTip>Κρατήστε πατημένο το [Fly] για να κλωτσήσετε την πόρτα.</KickDoorTip> <!-- <En>Hold [Fly] to kick the door.</En> -->
+  <PressKeyToRewindTip>Πατήστε [Rewind] για να γυρίσετε τον χρόνο πίσω.</PressKeyToRewindTip> <!-- <En>Press [Rewind] to rewind time.</En> -->
+  <UsingThisItemCostsNoTurn>Η χρήση αυτού του αντικειμένου δεν κοστίζει κίνηση.</UsingThisItemCostsNoTurn> <!-- <En>Using this item takes no turn.</En> -->
+  <UsingThisItemCostsXOfATurn>Η χρήση αυτού του αντικειμένου κοστίζει {0} της κίνησης.</UsingThisItemCostsXOfATurn> <!-- <En>Using this item takes {0} of a turn.</En> -->
+  <UsingThisItemCostsXTurns>Η χρήση αυτού του αντικειμένου κοστίζει {0} κινήσεις.</UsingThisItemCostsXTurns> <!-- <En>Using this item takes {0} turns.</En> -->
+  <UsingThisSpellCostsNoTurn>Η χρήση αυτού του ξορκιού δεν κοστίζει κίνηση.</UsingThisSpellCostsNoTurn> <!-- <En>Using this spell takes no turn.</En> -->
+  <UsingThisSpellCostsXOfATurn>Η χρήση αυτού του ξορκιού κοστίζει {0} της κίνησης.</UsingThisSpellCostsXOfATurn> <!-- <En>Using this spell takes {0} of a turn.</En> -->
+  <UsingThisSpellCostsXTurns>Η χρήση αυτού του ξορκιού κοστίζει {0} κινήσεις.</UsingThisSpellCostsXTurns> <!-- <En>Using this spell takes {0} turns.</En> -->
+  <UsingThisNativeWeaponCostsNoTurn>Αυτή η ενέργεια δεν κοστίζει κίνηση.</UsingThisNativeWeaponCostsNoTurn> <!-- <En>Doing this takes no turn.</En> -->
+  <UsingThisNativeWeaponCostsXOfATurn>Αυτή η ενέργεια κοστίζει {0} της κίνησης.</UsingThisNativeWeaponCostsXOfATurn> <!-- <En>Doing this takes {0} of a turn.</En> -->
+  <UsingThisNativeWeaponCostsXTurns>Αυτή η ενέργεια κοστίζει {0} κινήσεις.</UsingThisNativeWeaponCostsXTurns> <!-- <En>Doing this takes {0} turns.</En> -->
+  <InteractingWithThisStructureCostsNoTurn>Η αλληλεπίδραση με αυτό το αντικείμενο δεν κοστίζει κίνηση.</InteractingWithThisStructureCostsNoTurn> <!-- <En>Interacting with this object takes no turn.</En> -->
+  <InteractingWithThisStructureCostsXOfATurn>Η αλληλεπίδραση με αυτό το αντικείμενο κοστίζει {0} της κίνησης.</InteractingWithThisStructureCostsXOfATurn> <!-- <En>Interacting with this object takes {0} of a turn.</En> -->
+  <InteractingWithThisStructureCostsXTurns>Η αλληλεπίδραση με αυτό το αντικείμενο κοστίζει {0} κινήσεις.</InteractingWithThisStructureCostsXTurns> <!-- <En>Interacting with this object takes {0} turns.</En> -->
+  <FlammableEntityTip>Αυτό το αντικείμενο είναι εύφλεκτο.</FlammableEntityTip> <!-- <En>This object is flammable.</En> -->
+  <AllowUseOnlyIfNotSeenByHostilesTip>Μπορείτε να το χρησιμοποιήσετε μόνο αν δεν σας βλέπει κανείς.</AllowUseOnlyIfNotSeenByHostilesTip> <!-- <En>You can use it only if nobody sees you.</En> -->
+  <FragileEntityTip>Αυτό το αντικείμενο είναι εύθραυστο (οι εκρήξεις θα το καταστρέψουν).</FragileEntityTip> <!-- <En>This object is fragile (explosions will destroy it).</En> -->
+  <IdentificationStoppedTip>Η αναγνώριση σταμάτησε επειδή πεινάτε.</IdentificationStoppedTip> <!-- <En>Identification has stopped because you're hungry.</En> -->
+  <ClickToPickUpTip>Κάντε κλικ για συλλογή.</ClickToPickUpTip> <!-- <En>Click to pick up.</En> -->
+  <ClickToInteractTip>Κάντε κλικ για αλληλεπίδραση.</ClickToInteractTip> <!-- <En>Click to interact.</En> -->
+  <ClickToBuyTip>Κάντε κλικ για αγορά.</ClickToBuyTip> <!-- <En>Click to buy.</En> -->
+  <ClickToPickUpTipController>Αλληλεπιδράστε για συλλογή.</ClickToPickUpTipController> <!-- <En>Interact to pick up.</En> -->
+  <ClickToInteractTipController>Αλληλεπιδράστε με αυτό το αντικείμενο.</ClickToInteractTipController> <!-- <En>Interact with this object.</En> -->
+  <ClickToBuyTipController>Αλληλεπιδράστε για αγορά.</ClickToBuyTipController> <!-- <En>Interact to buy.</En> -->
+  <DestroyOnDescendItemTip>Αυτό το αντικείμενο θα εξαφανιστεί μετά την κάθοδο.</DestroyOnDescendItemTip> <!-- <En>This item will disappear after descending.</En> -->
+  <PlayerExperienceTip>Αυτή είναι η πρόοδός σας προς το επόμενο επίπεδο. Μπορείτε να αποκτήσετε εμπειρία νικώντας εχθρούς.\n\nXP για το επόμενο επίπεδο: {0}\nΤρέχον επίπεδο: {1}\nΣυνολική εμπειρία: {2}</PlayerExperienceTip> <!-- <En>This is your progress towards the next level. You can gain experience by defeating enemies.\n\nXP to next level: {0}\nCurrent level: {1}\nTotal experience: {2}</En> -->
+  <PlayerLevelTip>Αυτό είναι το τρέχον επίπεδό σας. Μπορείτε να ανεβείτε επίπεδο νικώντας εχθρούς.\n\nΚάθε επίπεδο σας δίνει {0} στους μέγιστους πόντους ζωής. Επιπλέον, κάθε φορά που ανεβαίνετε επίπεδο μπορείτε να επιλέξετε ένα νέο ξόρκι.\n\nXP για το επόμενο επίπεδο: {2}\nΣυνολική εμπειρία: {3}</PlayerLevelTip> <!-- <En>This is your current level. You can level up by defeating enemies.\n\nEach level gives you {0} to max hit points. Additionally, every time you level up you can choose a new spell.\n\nXP to next level: {2}\nTotal experience: {3}</En> -->
+  <ScoreLevelTip>Αυτό είναι το τρέχον επίπεδό σας με βάση τη συνολική βαθμολογία από όλες τις προσπάθειές σας. Μπορείτε να κερδίσετε βαθμούς νικώντας εχθρούς και προχωρώντας στο παιχνίδι.\n\nΒαθμοί για το επόμενο επίπεδο: {0}\nΣυνολική βαθμολογία: {1}</ScoreLevelTip> <!-- <En>This is your current level based on the total score from all your runs. You can gain score by defeating enemies and progressing in the game.\n\nScore to next level: {0}\nTotal score: {1}</En> -->
+  <PlayerHungerTip>Αυτό είναι το τρέχον επίπεδο κορεσμού σας: {0}/{1}\n\nΠρέπει να τρώτε περιοδικά για να ικανοποιήσετε την πείνα σας και να αποφύγετε τις συνέπειες.\n\nΜόλις το επίπεδο κορεσμού φτάσει στο {2}, πεινάτε - δεν θα αναγεννάτε ζωή ούτε θα αναγνωρίζετε αντικείμενα.\n\nΜόλις το επίπεδο κορεσμού φτάσει στο {3}, λιμοκτονείτε - δεν θα αναγεννάτε αντοχή και θα χάνετε αργά ζωή με την πάροδο του χρόνου.</PlayerHungerTip> <!-- <En>This is your current satiation level: {0}/{1}\n\nYou need to eat periodically to satisfy your hunger and avoid consequences.\n\nOnce the satiation level reaches {2}, you become hungry - you won't regenerate health or identify items.\n\nOnce the satiation level reaches {3}, you become starving - you won't regenerate stamina and you will slowly lose health over time.</En> -->
+  <DungeonFloorTip>Αυτός είναι ο τρέχων όροφος του μπουντρουμιού. Όσο πιο χαμηλά πηγαίνετε, τόσο πιο δύσκολο γίνεται να επιβιώσετε, αλλά και τόσο πιο διασκεδαστικό γίνεται!</DungeonFloorTip> <!-- <En>This is the current dungeon floor. The lower you go, the harder it becomes to survive, but also the more fun it gets!</En> -->
+  <KilledExperienceTip>Δίνει {0} εμπειρία</KilledExperienceTip> <!-- <En>Gives {0} experience</En> -->
+  <AngeringFactionTip>Προειδοποίηση: Αν σκοτωθεί, όλα τα μέλη αυτής της παράταξης θα γίνουν εχθρικά.</AngeringFactionTip> <!-- <En>Warning: If killed, all members of this faction will become hostile.</En> -->
+  <AITip>Τακτικές: {0}</AITip> <!-- <En>Tactics: {0}</En> -->
+  <FollowerTip>Αυτός ο χαρακτήρας θα σας ακολουθήσει στον επόμενο όροφο.</FollowerTip> <!-- <En>This character will follow you to the next floor.</En> -->
+  <Conditions>Καταστάσεις</Conditions> <!-- <En>Conditions</En> -->
+  <Weapon>Όπλο</Weapon> <!-- <En>Weapon</En> -->
+  <Spells>Ξόρκια</Spells> <!-- <En>Spells</En> -->
+  <Talk>Ομιλία</Talk> <!-- <En>Talk</En> -->
+  <WhenDies>Όταν πεθαίνει</WhenDies> <!-- <En>When dies</En> -->
+  <Worn>Φορεμένο</Worn> <!-- <En>Worn</En> -->
+  <Inventory>Απόθεμα</Inventory> <!-- <En>Inventory</En> -->
+  <ActorMiscSection>Πληροφορίες</ActorMiscSection> <!-- <En>Info</En> -->
+  <CostsMana>Κοστίζει {0}</CostsMana> <!-- <En>Costs {0}</En> -->
+  <CostsStamina>Κοστίζει {0}</CostsStamina> <!-- <En>Costs {0}</En> -->
+  <PlayerManaTip>Αυτό είναι το μάνα του χαρακτήρα σας.\n\nΗ εκτέλεση ξορκιών και η χρήση μαγικών αντικειμένων κοστίζει μάνα. Το μάνα δεν αναγεννάται αυτόματα με την πάροδο του χρόνου, μπορεί να αναπληρωθεί μόνο πίνοντας φίλτρα μάνα ή αλληλεπιδρώντας με ορισμένα ειδικά αντικείμενα. Η μπάρα μάνα είναι κρυμμένη όταν δεν έχετε ξόρκια.\n\nΜπορείτε να επιλέξετε ένα νέο ξόρκι κάθε φορά που ανεβαίνετε επίπεδο.</PlayerManaTip> <!-- <En>This is your character's mana.\n\nCasting spells and using magical items costs mana. Mana doesn't regenerate automatically over time, it can only be refilled by drinking mana potions or by interacting with some special objects. The mana bar is hidden when you don't have any spells.\n\nYou can choose a new spell every time you level up.</En> -->
+  <PlayerStaminaTip>Αυτή είναι η αντοχή του χαρακτήρα σας.\n\nΗ χρήση ορισμένων αντικειμένων μπορεί να απαιτεί αντοχή. Η μπάρα αντοχής είναι κρυμμένη όταν δεν έχετε στο απόθεμά σας αντικείμενα που απαιτούν αντοχή.</PlayerStaminaTip> <!-- <En>This is your character's stamina.\n\nUsing certain items may require stamina. The stamina bar is hidden when you don't have any items requiring stamina in your inventory.</En> -->
+  <PlayerStaminaRegenTip>Αν δεν λιμοκτονείτε, {0} θα αναγεννάται κάθε {1}.</PlayerStaminaRegenTip> <!-- <En>If not starving, {0} will regenerate every {1}.</En> -->
+  <PlayerStaminaRegenNextRegenInTip>Η επόμενη αντοχή θα αναγεννηθεί σε: {0}.</PlayerStaminaRegenNextRegenInTip> <!-- <En>Next stamina will regenerate in: {0}.</En> -->
+  <AddSpellButtonTip>Επιλέξτε ένα νέο ξόρκι. Μπορείτε να επιλέξετε ένα νέο ξόρκι κάθε φορά που ανεβαίνετε επίπεδο.</AddSpellButtonTip> <!-- <En>Choose a new spell. You can choose a new spell every time you level up.</En> -->
+  <FleesOnLowHP>δραπετεύει με χαμηλή ζωή</FleesOnLowHP> <!-- <En>flees on low HP</En> -->
+  <RewindTip>Το ρολόι σας επιτρέπει να γυρίσετε τον χρόνο πίσω κατά βούληση! Γυρίστε πίσω την τελευταία κίνηση πατώντας [Rewind].\n\nΧρησιμοποιήστε το όποτε δεν σας αρέσει το αποτέλεσμα των πρόσφατων ενεργειών σας ή απλά κάνατε λάθος κλικ.\n\nΤο ρολόι έχει ένα όριο για το πόσες κινήσεις μπορείτε να γυρίσετε πίσω ταυτόχρονα, αλλά επαναφορτίζεται κάθε {0} κινήσεις. Σε αντίθεση με άλλα αντικείμενα χειραγώγησης του χρόνου, όπως οι πάπυροι επαναφοράς, το ρολόι χάνει όλες τις εναπομένουσες φορτίσεις του κάθε φορά που χρησιμοποιείτε ένα μη αναγνωρισμένο φίλτρο ή πάπυρο, εξοπλίζετε ένα καταραμένο αντικείμενο, πατάτε σε μια παγίδα ή χρησιμοποιείτε ένα ασημένιο κλειδί.\n\nΌλες οι ενέργειες στο Ricave είναι ντετερμινιστικές, πράγμα που σημαίνει ότι μετά την επαναφορά, όλα θα εξελιχθούν ακριβώς όπως πριν, αν κάνετε την ίδια κίνηση ξανά, συμπεριλαμβανομένης της πρόκλησης της ίδιας ζημιάς και των εχθρών που παίρνουν τις ίδιες αποφάσεις. Η επαναφορά του χρόνου απλώς για να πετύχετε μεγαλύτερη ζημιά δεν θα λειτουργήσει.</RewindTip> <!-- <En>The watch lets you rewind time at your will! Rewind the last turn by pressing [Rewind].\n\nUse it whenever you don't like the outcome of your recent actions or you simply missclicked.\n\nThe watch has a limit for how many turns you can rewind at once, but it recharges every {0} turns. Unlike other time-manipulation items like rewind scrolls, watch loses all its remaining charges whenever you use an unidentified potion or scroll, equip a cursed item, step on a trap, or use a silver key.\n\nAll actions in Ricave are deterministic, which means that after rewinding, everything will play out exactly the same as before if you make the same move again, including dealing the same damage and enemies making the same decisions. Rewinding time just to roll a higher dealt damage won't work.</En> -->
+  <RewindReplenishTip>Αναπληρώνεται σε: {0}</RewindReplenishTip> <!-- <En>Replenishes in: {0}</En> -->
+  <StardustTip>Η αστρόσκονη μπορεί να βρεθεί σε διάφορα μέρη στο μπουντρούμι ή να προσφερθεί ως ανταμοιβή για την ολοκλήρωση μιας αποστολής. Μπορείτε να ξοδέψετε την αστρόσκονη στο λόμπι.</StardustTip> <!-- <En>Stardust can be found in various places in the dungeon or can be offered as a reward for completing a quest. You can spend stardust in the lobby.</En> -->
+  <PuzzlePiecesTip>Συλλέξτε και τα {0} κομμάτια του παζλ για να ξεκλειδώσετε ένα ειδικό δωμάτιο στο λόμπι. Υπάρχει ένα κομμάτι παζλ σε κάθε όροφο του μπουντρουμιού, και μπορείτε να βρείτε μόνο ένα κομμάτι ανά προσπάθεια.</PuzzlePiecesTip> <!-- <En>Collect all {0} puzzle pieces to unlock a special room in the lobby. There's one puzzle piece on each floor of the dungeon, and you can only find one piece per run.</En> -->
+  <PuzzlePiecesTip_NextPuzzlePiece>Επόμενο κομμάτι παζλ στον όροφο: {0}</PuzzlePiecesTip_NextPuzzlePiece> <!-- <En>Next puzzle piece on floor: {0}</En> -->
+  <UseRange>Εμβέλεια: {0}</UseRange> <!-- <En>Range: {0}</En> -->
+  <Melee>Σώμα με σώμα</Melee> <!-- <En>Melee</En> -->
+  <YouAreInRange>είστε εντός εμβέλειας</YouAreInRange> <!-- <En>you're in range</En> -->
+  <YouAreOutOfRange>είστε εκτός εμβέλειας</YouAreOutOfRange> <!-- <En>you're out of range</En> -->
+  <PickUpPrivateRoomStructureTip>Μαζέψτε τα τοποθετημένα αντικείμενα στο ιδιωτικό σας δωμάτιο.</PickUpPrivateRoomStructureTip> <!-- <En>Pick up placed objects in your private room.</En> -->
+  <CompassTip>Αυτή τη στιγμή κοιτάτε προς τα {0}.\n\nΚινηθείτε με τα "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nΚινηθείτε πλάγια με τα "[MoveLeft]" και "[MoveRight]".\nΑνεβείτε και κατεβείτε με τα "[Fly]+[MoveForward]" και "[Fly]+[MoveBack]" εάν ο χαρακτήρας σας μπορεί να πετάξει.</CompassTip> <!-- <En>You are currently facing {0}.\n\nMove with "[MoveForward][RotateLeft][MoveBack][RotateRight]".\nStrafe with "[MoveLeft]" and "[MoveRight]".\nGo up and down with "[Fly]+[MoveForward]" and "[Fly]+[MoveBack]" if your character can fly.</En> -->
+  <WillTakeDamageIn>Θα υποστεί ζημιά σε {0}.</WillTakeDamageIn> <!-- <En>Will take damage in {0}.</En> -->
+  <WillGainHPIn>Θα κερδίσει HP σε {0}.</WillGainHPIn> <!-- <En>Will gain HP in {0}.</En> -->
+  <WillGainStaminaIn>Θα κερδίσει αντοχή σε {0}.</WillGainStaminaIn> <!-- <En>Will gain stamina in {0}.</En> -->
+  <WillGainManaIn>Θα κερδίσει μάνα σε {0}.</WillGainManaIn> <!-- <En>Will gain mana in {0}.</En> -->
+  <StaminaRegenDisabledBecauseNotTouchingGround>Η αναγέννηση αντοχής είναι απενεργοποιημένη επειδή αυτός ο χαρακτήρας δεν ακουμπά στο έδαφος.</StaminaRegenDisabledBecauseNotTouchingGround> <!-- <En>Stamina regeneration is disabled because this character is not touching the ground.</En> -->
+  <StaminaRegenDisabledBecausePlayerNotTouchingGround>Η αναγέννηση αντοχής είναι απενεργοποιημένη επειδή δεν ακουμπάτε στο έδαφος.</StaminaRegenDisabledBecausePlayerNotTouchingGround> <!-- <En>Stamina regeneration is disabled because you're not touching the ground.</En> -->
+  <CooldownTip>Χρόνος επαναφόρτισης: {0}</CooldownTip> <!-- <En>Cooldown: {0}</En> -->
+  <CooldownTurnsRemaining>Απομένουν {0}</CooldownTurnsRemaining> <!-- <En>{0} remaining</En> -->
+  <UnlockSkillFirst>Ξεκλειδώστε πρώτα το {0}</UnlockSkillFirst> <!-- <En>Unlock {0} first</En> -->
+  <YouDontHaveAnySkillPoints>Δεν έχετε πόντους δεξιοτήτων</YouDontHaveAnySkillPoints> <!-- <En>You don't have any skill points</En> -->
+  <ClickToUnlockSkill>Κάντε κλικ για ξεκλείδωμα</ClickToUnlockSkill> <!-- <En>Click to unlock</En> -->
+  <ClickToUnlockSkillController>Αλληλεπιδράστε για ξεκλείδωμα</ClickToUnlockSkillController> <!-- <En>Interact to unlock</En> -->
+  <TraitEffects>Επιδράσεις</TraitEffects> <!-- <En>Effects</En> -->
+  <EscapingModeTip>Όλες οι πύλες είναι ανοιχτές και όλοι είναι ξύπνιοι. Πρέπει να αποδράσετε τώρα!\n\nΕπιπλέον, θα εμφανιστούν διπλάσιοι αρουραίοι.</EscapingModeTip> <!-- <En>All the gates are open and everyone is awake. You have to escape now!\n\nAdditionally, twice as many rats will spawn.</En> -->
+  <PetRatTip>Ο Roko θα συλλέγει χρυσά νομίσματα στα διπλανά πλακίδια για εσάς κάθε φορά που κινείστε.</PetRatTip> <!-- <En>Roko will collect gold coins in the adjacent tiles for you whenever you move.</En> -->
+  <CheckInCodexTip>Συμβουλή: Μπορείτε να ελέγξετε τον κώδικα για τυπικά στατιστικά</CheckInCodexTip> <!-- <En>Tip: You can check codex for typical stats</En> -->
+  <InventorySortButtonTip>Ταξινόμηση αντικειμένων αποθέματος</InventorySortButtonTip> <!-- <En>Sort inventory items</En> -->
+
+  <!-- Context menu -->
+  <Unequip>Αφαίρεση εξοπλισμού</Unequip> <!-- <En>Unequip</En> -->
+  <Equip>Εξοπλισμός</Equip> <!-- <En>Equip</En> -->
+  <Unwear>Αφαίρεση ρούχου</Unwear> <!-- <En>Take off</En> -->
+  <Wear>Φόρεμα</Wear> <!-- <En>Wear</En> -->
+  <Drop>Απόρριψη</Drop> <!-- <En>Drop</En> -->
+  <Destroy>Καταστροφή</Destroy> <!-- <En>Destroy</En> -->
+  <MixWith>Ανάμειξη με {0}</MixWith> <!-- <En>Mix with {0}</En> -->
+  <LookAt>Κοίταγμα</LookAt> <!-- <En>Look at</En> -->
+  <MoveTo>Μετακίνηση σε</MoveTo> <!-- <En>Move to</En> -->
+  <UseOn>Χρήση {0} σε</UseOn> <!-- <En>Use {0} on</En> -->
+  <InteractWith>Αλληλεπίδραση με</InteractWith> <!-- <En>Interact with</En> -->
+  <Disabled>Απενεργοποιημένο</Disabled> <!-- <En>Disabled</En> -->
+  <GiveItem>Δώστε {0}</GiveItem> <!-- <En>Give {0}</En> -->
+  <WaitOptionDeath>θάνατος</WaitOptionDeath> <!-- <En>death</En> -->
+  <NoSpace>Δεν υπάρχει χώρος</NoSpace> <!-- <En>No space</En> -->
+  <CurrentlyEquippedItemIsCursed>Το τρέχον εξοπλισμένο αντικείμενο είναι καταραμένο</CurrentlyEquippedItemIsCursed> <!-- <En>Currently equipped item is cursed</En> -->
+
+  <!-- Name generator -->
+  <NameGenerator1>φανταχτερός, ισχυρός, παντοδύναμος, δυνατός, τρομακτικός, απολαυστικός, εντυπωσιακός, σφριγηλός, σαγηνευτικός, όμορφος, αξιαγάπητος, συναρπαστικός, λατρευτός, έξυπνος, γοητευτικός, αμήχανος, ανίκητος, μικρός, μεγάλος, φοβερός, χαρούμενος, λυπημένος, ασταθής, παράξενος, τρελός, συναρπαστικός, όμορφος, δελεαστικός</NameGenerator1> <!-- <En>fancy, mighty, almighty, powerful, scary, delightful, impressive, vigorous, alluring, beautiful, lovely, thrilling, adorable, clever, fascinating, awkward, invincible, little, big, frightful, happy, sad, wonky, weird, crazy, exciting, pretty, enticing</En> -->
+  <NameGenerator2>μπούμπουλας, ταπεινός, μπιρμπίλι, λεμόνης, μπερμπέρης, χαμός, κουκουνάρι, λουλούδης, μπάμπουρας, γλειφιτζούρης, ποπλάς, χοιρινός, βροντερός, ντόντης, ντόντλης, ντόπλης, μπρόμπλης, κοτόπουλος, μωβ, κουνιστός, φλύαρος, στριφογύρης, ντίγκλης, πλονκ, τρεμουλιαστός, τζίγκλης, μουτζούρης</NameGenerator2> <!-- <En>bumble, humble, beenie, lemon, garble, clutter, goober, bloom, bumber, lolly, popple, pork, rumble, donder, dondle, dopple, brobble, chicken, purple, wiggle, prattle, twiddle, dingle, plonk, wobble, jingle, doodle</En> -->
+  <NameGenerator3>αρπάγης, αξίας, αυλής, γιος, μπάρμπλης, σημάδης, τόνος, μπον, γκον, οπλή, στάιν, μπιν, δαγκωνιά, μάζα, πουφ, γέλωτας, μπαχ, δόρυ, σναρφ, φλοπ, πλοπ, μπουφ, μπλατ, σναρκ, μπορκ</NameGenerator3> <!-- <En>clutch, worth, yard, son, barble, mark, ton, bon, gon, hoof, stein, been, snapper, blob, poof, laugh, bach, dory, snarf, flop, plop, boof, blat, snark, bork</En> -->
+  <SpiritName>Πνεύμα: {0}</SpiritName> <!-- <En>Spirit of {0}</En> -->
+  <SpiritNameGenerator>Γέλιο, Αλλαγή, Ελπίδα, Μοναξιά, Αρμονία, Αποφασιστικότητα, Χαρά, Φόβος, Οργή, Θλίψη, Αγάπη, Έκπληξη, Αηδία, Περιέργεια, Ελπίδα, Απόγνωση, Εμπιστοσύνη, Σκεπτικισμός, Θάρρος, Ενοχή, Ντροπή, Ευγνωμοσύνη, Φθόνος, Ανακούφιση, Βαρεμάρα, Ηρεμία, Νοσταλγία, Ανθεκτικότητα, Ενσυναίσθηση, Προσμονή, Μετάνοια, Δέος, Ταπεινότητα, Απογοήτευση, Περιφρόνηση</SpiritNameGenerator> <!-- <En>Laughter, Change, Hope, Solitude, Harmony, Resolve, Joy, Fear, Anger, Sadness, Love, Surprise, Disgust, Curiosity, Hope, Despair, Trust, Skepticism, Courage, Guilt, Shame, Gratitude, Envy, Relief, Boredom, Calmness, Nostalgia, Resilience, Empathy, Anticipation, Regret, Awe, Humility, Frustration, Contempt</En> -->
+
+  <!-- Key codes -->
+  <KeyCode_None>Κανένα</KeyCode_None> <!-- <En>None</En> -->
+  <KeyCode_Return>Enter</KeyCode_Return> <!-- <En>Enter</En> -->
+  <KeyCode_Escape>Escape</KeyCode_Escape> <!-- <En>Escape</En> -->
+  <KeyCode_Space>Space</KeyCode_Space> <!-- <En>Space</En> -->
+  <KeyCode_Mouse0>Αριστερό Κουμπί Ποντικιού</KeyCode_Mouse0> <!-- <En>Left Mouse Button</En> -->
+  <KeyCode_Mouse1>Δεξί Κουμπί Ποντικιού</KeyCode_Mouse1> <!-- <En>Right Mouse Button</En> -->
+  <KeyCode_Mouse2>Μεσαίο Κουμπί Ποντικιού</KeyCode_Mouse2> <!-- <En>Middle Mouse Button</En> -->
+  <KeyCode_Alt>Alt</KeyCode_Alt> <!-- <En>Alt</En> -->
+  <KeyCode_Shift>Shift</KeyCode_Shift> <!-- <En>Shift</En> -->
+  <KeyCode_Control>Control</KeyCode_Control> <!-- <En>Control</En> -->
+  <KeyCode_Command>Command</KeyCode_Command> <!-- <En>Command</En> -->
+  <KeyCode_Windows>Πλήκτρο Windows</KeyCode_Windows> <!-- <En>Windows Key</En> -->
+  <ControllerKey_LT>Αριστερή σκανδάλη</ControllerKey_LT> <!-- <En>Left Trigger</En> -->
+  <ControllerKey_RT>Δεξιά σκανδάλη</ControllerKey_RT> <!-- <En>Right Trigger</En> -->
+  <ControllerKey_LB>Αριστερό κουμπί ώμου</ControllerKey_LB> <!-- <En>Left Bumper</En> -->
+  <ControllerKey_RB>Δεξί κουμπί ώμου</ControllerKey_RB> <!-- <En>Right Bumper</En> -->
+  <ControllerKey_View>Κουμπί Πίσω</ControllerKey_View> <!-- <En>Back Button</En> -->
+  <ControllerKey_Menu>Κουμπί Έναρξης</ControllerKey_Menu> <!-- <En>Start Button</En> -->
+  <ControllerKey_LSB>Κλικ αριστερού μοχλού</ControllerKey_LSB> <!-- <En>Left Stick Click</En> -->
+  <ControllerKey_RSB>Κλικ δεξιού μοχλού</ControllerKey_RSB> <!-- <En>Right Stick Click</En> -->
+
+  <!-- Score gain labels -->
+  <ScoreGain_Kill>Εξόντωση</ScoreGain_Kill> <!-- <En>Kill</En> -->
+  <ScoreGain_DoubleKill>Διπλή εξόντωση</ScoreGain_DoubleKill> <!-- <En>Double kill</En> -->
+  <ScoreGain_TripleKill>Τριπλή εξόντωση</ScoreGain_TripleKill> <!-- <En>Triple kill</En> -->
+  <ScoreGain_KillCombo>Συνδυασμός {0} εξοντώσεων</ScoreGain_KillCombo> <!-- <En>{0} kill combo</En> -->
+  <ScoreGain_NewFloor>Νέος όροφος</ScoreGain_NewFloor> <!-- <En>New floor</En> -->
+  <ScoreGain_TrialCompleted>Η δοκιμασία ολοκληρώθηκε</ScoreGain_TrialCompleted> <!-- <En>Trial completed</En> -->
+  <ScoreGain_SpecificKill>Εξόντωση {0}</ScoreGain_SpecificKill> <!-- <En>{0} kill</En> -->
+
+  <!-- Day parts -->
+  <DayPart_Morning>πρωί</DayPart_Morning> <!-- <En>morning</En> -->
+  <DayPart_Day>ημέρα</DayPart_Day> <!-- <En>day</En> -->
+  <DayPart_Evening>απόγευμα</DayPart_Evening> <!-- <En>evening</En> -->
+  <DayPart_Night>νύχτα</DayPart_Night> <!-- <En>night</En> -->
+
+  <!-- Combat ratings -->
+  <CombatRating_Unknown>-</CombatRating_Unknown> <!-- <En>-</En> -->
+  <CombatRating_S>S</CombatRating_S> <!-- <En>S</En> -->
+  <CombatRating_A>A</CombatRating_A> <!-- <En>A</En> -->
+  <CombatRating_B>B</CombatRating_B> <!-- <En>B</En> -->
+  <CombatRating_C>C</CombatRating_C> <!-- <En>C</En> -->
+  <CombatRating_D>D</CombatRating_D> <!-- <En>D</En> -->
+
+  <!-- Skill categories -->
+  <SkillCategory_Defense>ΑΜΥΝΟΜΕΝΟΣ</SkillCategory_Defense> <!-- <En>DEFENDER</En> -->
+  <SkillCategory_Attack>ΠΟΛΕΜΙΣΤΗΣ</SkillCategory_Attack> <!-- <En>WARRIOR</En> -->
+  <SkillCategory_Misc>ΤΥΧΟΔΙΩΚΤΗΣ</SkillCategory_Misc> <!-- <En>ADVENTURER</En> -->
+
+  <!-- Crystal types -->
+  <CrystalType_Red>κόκκινος</CrystalType_Red> <!-- <En>red</En> -->
+  <CrystalType_Green>πράσινος</CrystalType_Green> <!-- <En>green</En> -->
+  <CrystalType_Blue>μπλε</CrystalType_Blue> <!-- <En>blue</En> -->
+
+  <!-- Note authors -->
+  <AuthorType_1>Λέο</AuthorType_1> <!-- <En>Leo</En> -->
+  <AuthorType_2>Εύα</AuthorType_2> <!-- <En>Eve</En> -->
+
+  <!-- Recipe categories -->
+  <RecipeCategory_Utilities>Βοηθητικά</RecipeCategory_Utilities> <!-- <En>Utilities</En> -->
+  <RecipeCategory_Potions>Φίλτρα</RecipeCategory_Potions> <!-- <En>Potions</En> -->
+  <RecipeCategory_Scrolls>Πάπυροι</RecipeCategory_Scrolls> <!-- <En>Scrolls</En> -->
+  <RecipeCategory_WeaponsAndGear>Όπλα και εξοπλισμός</RecipeCategory_WeaponsAndGear> <!-- <En>Weapons and gear</En> -->
+
+</Strings>

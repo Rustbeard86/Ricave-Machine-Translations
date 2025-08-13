@@ -1,0 +1,24 @@
+<SpecTranslations>
+
+  <ChooseSpell.label>اختر تعويذة</ChooseSpell.label> <!-- <En>choose spell</En> -->
+  <ChooseSpell.ANewSpellIsChosen>تم اختيار تعويذة جديدة {0}</ChooseSpell.ANewSpellIsChosen> <!-- <En>A new spell {0} is chosen</En> -->
+
+  <MoveSelf.label>تحرك</MoveSelf.label> <!-- <En>move self</En> -->
+  <MoveSelf.Moves>{0} يتحرك {1}</MoveSelf.Moves> <!-- <En>{0} moves {1}</En> -->
+
+  <PickUpItem.label>التقط غرضًا</PickUpItem.label> <!-- <En>pick up item</En> -->
+  <PickUpItem.PicksUp>{0} يلتقط {1}</PickUpItem.PicksUp> <!-- <En>{0} picks up {1}</En> -->
+
+  <ReorderSpell.label>إعادة ترتيب التعويذة</ReorderSpell.label> <!-- <En>reorder spell</En> -->
+  <ReorderSpell.IsReordered>تمت إعادة ترتيب {1}</ReorderSpell.IsReordered> <!-- <En>{1} is reordered</En> -->
+
+  <Sleep.label>نوم</Sleep.label> <!-- <En>sleep</En> -->
+  <Sleep.Sleeps>{0} ينام</Sleep.Sleeps> <!-- <En>{0} sleeps</En> -->
+
+  <Use.label>استخدام</Use.label> <!-- <En>use</En> -->
+  <Use.UsesOn>{0} يستخدم {1} على {2}</Use.UsesOn> <!-- <En>{0} uses {1} on {2}</En> -->
+
+  <Wait.label>انتظر</Wait.label> <!-- <En>wait</En> -->
+  <Wait.Waits>{0} ينتظر</Wait.Waits> <!-- <En>{0} waits</En> -->
+
+</SpecTranslations>

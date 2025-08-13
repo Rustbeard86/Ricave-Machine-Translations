@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>puzzle prapor</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>Barevný prapor.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>trofej</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>Každá trofej z bosse generuje hvězdný prach v množství rovnajícím se patru, na kterém byl boss zabit. Hvězdný prach se doplňuje, kdykoliv dosáhneš alespoň druhého patra dungeonu.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>šatní skříň</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>Zde si můžeš změnit svůj vzhled.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>nástěnka denních výzev</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>Zúčastni se denních výzev. Všichni ostatní na světě dostávají každý den stejnou výzvu!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>vitrína</Display.label> <!-- <En>display</En> -->
+  <Display.description>Místo pro předmět.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>portál</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>Je tohle konec?</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>spouštěč závěrečného dialogu</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>cedule na chodbu</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>Za těmito dveřmi je chodba.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>dveře</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>Tyto dveře se zdají být zamčené.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>dveře</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>Tyto dveře se zdají být zamčené.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>Chceš odemknout chodbu za 60 hvězdného prachu?</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>Odemknout</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>dveře</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>Tyto dveře se zdají být zamčené.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>Chceš odemknout tréninkovou místnost za 20 hvězdného prachu?</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>Odemknout</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>Dveře paměti</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>Dveře, které lze odemknout pouze sesbíráním všech 4 Úlomků paměti.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>puzzle dveře</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>Dveře, které lze odemknout sesbíráním všech 10 dílků puzzle. Na každém patře dungeonu je jeden dílek a během jednoho průchodu můžeš najít pouze jeden. To znamená, že poslední bude na 10. patře.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>magické zrcadlo</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>Zde si můžeš změnit své vlastnosti.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>Dveře paměti</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>Dveře, které lze odemknout pouze sesbíráním všech 4 Úlomků paměti.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>Úlomek paměti</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>Neznámý Úlomek paměti.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>Úlomek paměti</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>Neznámý Úlomek paměti.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>Úlomek paměti</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>Neznámý Úlomek paměti.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>Úlomek paměti</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>Neznámý Úlomek paměti.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>schodiště</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>Schodiště vedoucí do dungeonu.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>schodiště</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>Schodiště vedoucí do dungeonu, které ti umožňuje použít specifický seed světa. Veškerý postup v lobby a úkoly jsou v tomto dungeonu deaktivovány.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>cedule soukromého pokoje</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>Tvůj soukromý pokoj. Tedy, až si ho koupíš.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>puzzle dveře</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>Dveře, které byly odemčeny sesbíráním všech dílků puzzle.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>cedule puzzle místnosti</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>Záhadná místnost.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>nástěnka úkolů</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>Zobraz všechny dostupné a dokončené úkoly.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>cedule obchodu</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>Je tu obchod. Můžeš zde utratit hvězdný prach za vylepšení pro své další průchody.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>obloha</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>Pěkný výhled.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>obloha</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>Pěkný výhled.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>schodiště</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>Schodiště vedoucí do dungeonu.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>nástěnka statistik</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>Zobraz všechny své statistiky.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>cedule tréninkové místnosti</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>Je tu tréninková místnost. Můžeš zde trénovat proti různým druhům nepřátel.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>schodiště</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>Schodiště vedoucí do tréninkové místnosti. Trénuj proti nepřátelům a bossům.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>hromada odpadků</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>Hromada odpadků blokující tuto celu. Použij hvězdný prach k jejímu trvalému odstranění.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>Chceš uklidit tuto hromadu odpadků za 40 hvězdného prachu?</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>Uklidit</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>nástěnná lampa</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>Stylová nástěnná lampa.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

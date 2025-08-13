@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>状態異常を付与</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>ターゲットに新しい状態異常を付与する。</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>ターゲットに：{0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>効果を付与</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>ターゲットに新しい効果を付与する。</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>効果を付与：{0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>鎖柱に繋ぐ</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>ターゲットを鎖柱に繋ぐ。</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>ドアにかんぬきを掛ける</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>ドアにかんぬきを掛ける。かんぬきが掛かったドアは破壊しないと通れない。</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>目くらましの閃光</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>現在あなたを見ている者全員を盲目にする。</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>目くらましの閃光 {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>潜る</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>地面に隠れる。</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>ポーションを巻物と交換</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>ポーションと引き換えにランダムな巻物を受け取る。</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>天井を崩落させる</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>他に支えがなければ天井が崩落する。</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>天井の崩落（{0} {1}ダメージ）</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>天井を崩落させる（1マス）</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>ここの天井が崩落し、下にいる者全員に危害を加える。</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>天井の崩落（1マス）（{0} {1}ダメージ）</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>スターダストを収集</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>トロフィーからスターダストを収集する。</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>スターダストを収集 x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>調理する</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>食べ物を調理する。</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>装備にエンチャント（クリスタル）</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>選んだ装備にエンチャントを付与する。</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>呪われたアイテムを捧げる</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>悪魔の像に呪われたアイテムを捧げ、報酬と交換する。</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>ダメージを与える</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>ターゲットは指定されたヒットポイントから自身のアーマー値を引いた分のダメージを受ける。</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1}ダメージ</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>破壊する</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>ターゲットは破壊される。</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>掘る</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>土などを掘り起こす。</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>壊れやすいオブジェクトを破壊</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>レンガの壁やゲートなど、壊れやすいオブジェクトを破壊する。</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>ガラスを破壊</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>窓やガラスの床など、ガラス製のオブジェクトを破壊する。</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>採掘する</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>クリスタルのような採掘可能なオブジェクトを採掘する。</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>身体部位を破壊</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>ランダムな身体部位を破壊する。</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>報酬を得る</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>ランダムな報酬を得る。</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>複製</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>選んだアイテムが複製されるか、破壊される。</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>複製（{0}の確率）</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>装備にエンチャント</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>選んだ装備にランダムなエンチャントを付与する。</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>消火する</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>火を消す。</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>食べる</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>空腹を満たす。</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>満腹度 {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>ランを終了</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>このランを終了し、ロビーに戻る。</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>魚を釣る</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>魚を釣る。</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>スキルポイントを獲得</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>スキルポイントを1つ獲得する。</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>ギャンブル</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>お金を賭けて勝負する。</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>回復</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>ターゲットのヒットポイントが指定された量だけ回復する。</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>HPを{0}回復</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>アイテムを識別</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>アイテムを識別する。</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>アイテムを識別</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>アイテムを識別する（指定されたターン数分の識別）。</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>アイテムを識別 {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>音を立てる</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>指定された範囲内で眠っている生物を起こす。</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>電子金庫を開ける</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>どこかにある電子金庫を開ける。</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>支払う</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>特定のアイテムを渡さなければならない。</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>支払う {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>引き寄せる</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>ターゲットは術者の方へ引き寄せられる。</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>引き寄せる {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>押し出す</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>ターゲットは数マス後ろに押し出される。</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>押し出す {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>ランダムに押し出す</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>ターゲットはランダムな方向に押し出される。</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>ランダムに押し出す {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>ランダムな効果</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>ランダムな効果を付与する。</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>アイテムを受け取る</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>使用者にアイテムが与えられる。</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>受け取る {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>状態異常を解除</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>ターゲットから特定の状態異常が解除される。</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>解除 {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>呪いを解く</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>ターゲットのインベントリにあるアイテムの呪いを解く。装備中のアイテムが優先される。</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>状態異常を解除</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>ターゲットから特定の状態異常が解除される。</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>解除 {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>研究する</Research.label> <!-- <En>research</En> -->
+  <Research.description>オブジェクトを研究する。</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>時計のチャージをリセット</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>時計のチャージがゼロに設定され、しばらくの間、時間を巻き戻すことができなくなる。</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>マナを回復</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>ターゲットのマナが回復する。</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>{0}マナ回復</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>失った身体部位を復元</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>ターゲットの失った身体部位がすべて復元される。</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>スタミナを回復</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>ターゲットのスタミナが回復する。</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>{0}スタミナ回復</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>ロビーに戻る</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>ロビーに戻る。現在のランは終了するが、一部のアイテムは保持される。</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>時間を巻き戻す</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>時間を遡る。</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>巻き戻す {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>火をつける</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>可燃性のオブジェクトに火をつける。</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>火をつける（{0} HP）</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>魂を解放する</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>魂を解放する。</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>オブジェクトをスポーン</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>近くに新しいオブジェクトが出現する。</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>スポーン {0}</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>ランダムな敵をスポーン</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>近くにランダムな敵が出現する。</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>オブジェクトをスポーン</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>近くに新しいオブジェクトが出現する。</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>スポーン {0}</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>盗む</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>ターゲットからアイテムを盗む。</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>失った身体部位を復元</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>ターゲットの失った身体部位がすべて復元される。</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>テレポート</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>ターゲットは指定された場所にテレポートされる。</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>ランダムな場所にテレポート</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>ターゲットはランダムな場所にテレポートされる。</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>アンロック</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>新しいアイテム、場所、またはボーナスをアンロックする。</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>アンロック {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>レベルをアップグレード</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>アイテムのレベルをアップグレードする。</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>オーブ効果をアップグレード</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>永続的なブーストを適用する。</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

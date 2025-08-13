@@ -1,0 +1,243 @@
+<SpecTranslations>
+
+  <AncientContainer.label>古代のコンテナ</AncientContainer.label> <!-- <En>ancient container</En> -->
+  <AncientContainer.description>このコンテナは3つの古代のメカニズムを使わないと開けられない。メカニズムはこの階層のどこかにあるはずだ。</AncientContainer.description> <!-- <En>This container can only be opened with 3 ancient mechanisms. They should all be on this floor somewhere.</En> -->
+  <AncientContainer.YouSeeAnAncientContainer>目の前に古代のコンテナがある。\n\n3つの古代のメカニズムを使わないと開けられない。</AncientContainer.YouSeeAnAncientContainer> <!-- <En>You see an ancient container in front of you.\n\nIt can only be opened with 3 ancient mechanisms.</En> -->
+  <AncientContainer.Open>開ける</AncientContainer.Open> <!-- <En>Open</En> -->
+
+  <AncientDevice.label>古代の装置</AncientDevice.label> <!-- <En>ancient device</En> -->
+  <AncientDevice.description>調査可能な古代の装置。3つすべてを調査すると、ロックを解除して報酬を得られる。</AncientDevice.description> <!-- <En>An ancient device of some kind which you can research. If you research all three, you can unlock it and get a reward.</En> -->
+
+  <AntidoteBasin.label>解毒剤の入った水盤</AntidoteBasin.label> <!-- <En>basin with antidote</En> -->
+  <AntidoteBasin.description>毒の解毒剤で満たされた小さな水盤。マナを消費して毒状態を解除できる。</AntidoteBasin.description> <!-- <En>A small basin filled with an antidote for poison. You can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.YouSeeAnAntidoteBasin>目の前に解毒剤の入った水盤がある。\n\nマナを消費して毒状態を解除できる。</AntidoteBasin.YouSeeAnAntidoteBasin> <!-- <En>You see an antidote basin in front of you.\n\nYou can remove the poisoned status here in exchange for some mana.</En> -->
+  <AntidoteBasin.Drink>飲む</AntidoteBasin.Drink> <!-- <En>Drink</En> -->
+
+  <Anvil.label>金床</Anvil.label> <!-- <En>anvil</En> -->
+  <Anvil.description>ここで装備のレベルをアップグレードできる。</Anvil.description> <!-- <En>You can upgrade your gear level here.</En> -->
+  <Anvil.YouSeeAnAnvilInFront>目の前に金床がある。\n\n鉄を消費して装備のレベルをアップグレードできる。</Anvil.YouSeeAnAnvilInFront> <!-- <En>You see an anvil in front of you.\n\nYou can upgrade your gear level here in exchange for iron.</En> -->
+
+  <Bed.label>ベッド</Bed.label> <!-- <En>bed</En> -->
+  <Bed.description>心地よさそうなベッド。体力を少し回復できるが、50%の確率で敵に気づかれる。</Bed.description> <!-- <En>A cozy bed. You can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.YouSeeABedInFrontOfYou>目の前にベッドがある。\n\n体力を少し回復できるが、50%の確率で敵に気づかれる。</Bed.YouSeeABedInFrontOfYou> <!-- <En>You see a bed in front of you.\n\nYou can regenerate some health here, but there's a 50% chance that an enemy will notice you.</En> -->
+  <Bed.Sleep>眠る</Bed.Sleep> <!-- <En>Sleep</En> -->
+
+  <BigMagnet.label>巨大磁石</BigMagnet.label> <!-- <En>big magnet</En> -->
+  <BigMagnet.description>2ターンごとに、周囲の者すべてを自身に引き寄せる。</BigMagnet.description> <!-- <En>Every second turn, it pulls everyone around towards itself.</En> -->
+
+  <Bookshelf.label>本棚</Bookshelf.label> <!-- <En>bookshelf</En> -->
+  <Bookshelf.description>スキルポイントを得られる本が置かれた棚。</Bookshelf.description> <!-- <En>A shelf with books which will grant you a skill point.</En> -->
+
+  <Cage.label>檻</Cage.label> <!-- <En>cage</En> -->
+  <Cage.description>何か、あるいは誰かが入っている金属の檻。このダンジョンフロアにボスがいない場合にのみ開けられる。</Cage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <Cage.YouSeeABigMetalRusty>目の前に、錆びついた大きな金属の檻がある。\n\n開けますか？</Cage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <Cage.Open>開ける</Cage.Open> <!-- <En>Open</En> -->
+
+  <Cannon.label>大砲</Cannon.label> <!-- <En>cannon</En> -->
+  <Cannon.description>射線上にいる者すべてにダメージを与える危険なトラップ。攻撃することで作動する。</Cannon.description> <!-- <En>A deadly trap which will harm everyone standing in its line of fire. Trigger it by attacking.</En> -->
+
+  <Cauldron.label>大釜</Cauldron.label> <!-- <En>cauldron</En> -->
+  <Cauldron.description>任意のポーションをランダムな巻物と交換する。</Cauldron.description> <!-- <En>Exchange any potion for a random scroll.</En> -->
+  <Cauldron.YouSeeACauldronInFront>目の前に大釜がある。\n\nここで任意のポーションをランダムな巻物と交換できる。</Cauldron.YouSeeACauldronInFront> <!-- <En>You see a cauldron in front of you.\n\nHere you can exchange any potion for a random scroll.</En> -->
+
+  <CeilingSpikes.label>天井のトゲ</CeilingSpikes.label> <!-- <En>ceiling spikes</En> -->
+  <CeilingSpikes.description>真下にいる者にダメージを与える危険なトラップ。攻撃することで作動する。</CeilingSpikes.description> <!-- <En>A deadly trap which will harm anyone standing underneath it. Trigger it by attacking.</En> -->
+
+  <Chest.label>宝箱</Chest.label> <!-- <En>chest</En> -->
+  <Chest.description>この宝箱には、人生で望むものすべてが入っている。…あるいは、腐った布切れと石ころがいくつか入っているだけかもしれない。</Chest.description> <!-- <En>This chest contains everything you could wish for in your life. Either that, or a rotting piece of cloth and some rocks.</En> -->
+
+  <DevilStatue.label>悪魔の像</DevilStatue.label> <!-- <En>devil statue</En> -->
+  <DevilStatue.description>不吉な像。呪われたアイテムを報酬と引き換えに受け入れる。</DevilStatue.description> <!-- <En>A sinister statue. Accepts cursed items in exchange for rewards.</En> -->
+  <DevilStatue.TheDevilStatueStares>悪魔の像があなたをじっと見つめている。\n\n呪われたアイテムを持っているなら、像に渡して報酬を得ることができる。</DevilStatue.TheDevilStatueStares> <!-- <En>The devil statue stares at you.\n\nIf you have any cursed item, you can give it to the statue for a reward.</En> -->
+
+  <DragonRemains.label>ドラゴンの亡骸</DragonRemains.label> <!-- <En>dragon remains</En> -->
+  <DragonRemains.description>ドラゴンの骨の山。何か隠されているかもしれない。</DragonRemains.description> <!-- <En>A pile of dragon bones. There could be something hidden here.</En> -->
+  <DragonRemains.YouSeeSomeDragonRemains>目の前にドラゴンの亡骸がある。\n\n望むなら、隠された宝を探すことができる。</DragonRemains.YouSeeSomeDragonRemains> <!-- <En>You see some dragon remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <DragonRemains.Search>探す</DragonRemains.Search> <!-- <En>Search</En> -->
+
+  <Duplicator.label>複製機</Duplicator.label> <!-- <En>duplicator</En> -->
+  <Duplicator.description>どんなアイテムでも複製できる…あるいは破壊してしまう装置。</Duplicator.description> <!-- <En>A device which can duplicate any item... or break it.</En> -->
+  <Duplicator.YouSeeADuplicatorInFront>目の前に複製機がある。\n\n30ゴールドでアイテムの複製を試せる。\n\nしかし、40%の確率で代わりにアイテムが破壊される。</Duplicator.YouSeeADuplicatorInFront> <!-- <En>You see a duplicator in front of you.\n\nFor 30 gold, you can try to duplicate an item.\n\nHowever, there's a 40% chance that the item will be destroyed instead.</En> -->
+
+  <ElectronicSafe.label>電子金庫</ElectronicSafe.label> <!-- <En>electronic safe</En> -->
+  <ElectronicSafe.description>この金庫は、どこか別の場所にあるボタンを押さないと開けられない。</ElectronicSafe.description> <!-- <En>This safe can only be opened by pressing a button somewhere else.</En> -->
+
+  <ElectronicSafeButton.label>ボタン</ElectronicSafeButton.label> <!-- <En>button</En> -->
+  <ElectronicSafeButton.description>このボタンは、どこかにある電子金庫を開ける。</ElectronicSafeButton.description> <!-- <En>This button will open an electronic safe somewhere.</En> -->
+
+  <EnchantingTable.label>エンチャントテーブル</EnchantingTable.label> <!-- <En>enchanting table</En> -->
+  <EnchantingTable.description>わずかな寄付と引き換えに装備をエンチャントする。</EnchantingTable.description> <!-- <En>Enchant your gear in exchange for a small donation.</En> -->
+  <EnchantingTable.YouSeeAnEnchantingTable>目の前にエンチャントテーブルがある。\n\nテーブルの下にコイン投入口があり、先に進むには170ゴールドの寄付が必要だと書かれた看板がある。\n\n選んだ武器か防具にランダムなエンチャントが付与される。</EnchantingTable.YouSeeAnEnchantingTable> <!-- <En>You see an enchanting table in front of you.\n\nThere's a coin slot underneath the table and a sign which says that a small donation of 170 gold coins is required to proceed.\n\nA random enchantment will be applied to your weapon or armor of choice.</En> -->
+
+  <Fountain.label>泉</Fountain.label> <!-- <En>fountain</En> -->
+  <Fountain.description>この泉の水を飲むと、効果は穏やかだが持続的な効果（良いものか悪いものか）を得られる。</Fountain.description> <!-- <En>Drink from this fountain to get a mild but long-lasting effect - positive or negative.</En> -->
+  <Fountain.YouSeeAFountainInFront>目の前に泉がある。\n\nこの水を飲むと、効果は穏やかだが持続的な魔法の効果がある。\n\n幸運を願ってゴールドを投げ入れることもできる。</Fountain.YouSeeAFountainInFront> <!-- <En>You see a fountain in front of you.\n\nDrinking from it will have a mild but long-lasting magical effect.\n\nYou can throw in some gold coins for good luck.</En> -->
+  <Fountain.Drink>飲む</Fountain.Drink> <!-- <En>Drink</En> -->
+
+  <FountainOfLife.label>生命の泉</FountainOfLife.label> <!-- <En>Fountain of Life</En> -->
+  <FountainOfLife.description>この泉の水を飲むと、体力が全回復し、マナ、スタミナ、満腹度が回復し、短時間毒への耐性を得る。</FountainOfLife.description> <!-- <En>Drinking from this fountain will fully heal you, restore all mana, stamina, and fed status, as well as provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.YouSeeAFountainOfLife>目の前に生命の泉がある。\n\nこの泉の水を飲むと、体力が全回復し、マナ、スタミナ、満腹度が回復し、短時間毒への耐性を得る。</FountainOfLife.YouSeeAFountainOfLife> <!-- <En>You see a Fountain of Life in front of you.\n\nDrinking from this fountain will fully heal you, restore all mana, stamina, and fed status and provide a short-lasting immunity to poison.</En> -->
+  <FountainOfLife.Drink>飲む</FountainOfLife.Drink> <!-- <En>Drink</En> -->
+
+  <GamblingTable.label>ギャンブル台</GamblingTable.label> <!-- <En>gambling table</En> -->
+  <GamblingTable.description>運試しに賭けてみよう。</GamblingTable.description> <!-- <En>Bet some money if you're feeling lucky.</En> -->
+  <GamblingTable.YouSeeAGamblingTable>目の前にギャンブル台がある。\n\n運試しにお金を賭けることができる。勝てば倍、負ければ没収の五分五分のチャンスだ。</GamblingTable.YouSeeAGamblingTable> <!-- <En>You see a gambling table in front of you.\n\nYou can bet some money if you're feeling lucky and have a 50/50 chance to win double or lose.</En> -->
+
+  <GildedLockbox.label>金箔の箱</GildedLockbox.label> <!-- <En>gilded lockbox</En> -->
+  <GildedLockbox.description>この箱にはコイン投入口がある。50ゴールドを入れると開けられる。</GildedLockbox.description> <!-- <En>This lockbox has a coin slot. You can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.YouSeeAGildedLockbox>目の前に金箔の箱がある。\n\n50ゴールドを入れると開けられる。</GildedLockbox.YouSeeAGildedLockbox> <!-- <En>You see a gilded lockbox in front of you.\n\nYou can open it by inserting 50 gold.</En> -->
+  <GildedLockbox.Open>開ける</GildedLockbox.Open> <!-- <En>Open</En> -->
+
+  <Grave.label>墓</Grave.label> <!-- <En>grave</En> -->
+  <Grave.description>掘って隠された宝を探す。</Grave.description> <!-- <En>Dig to search for a hidden treasure.</En> -->
+  <Grave.YouSeeAGraveInFrontOf>目の前に墓がある。\n\n間違いなく何かが埋まっている。\n\n墓を掘り起こすことも、安らかに眠らせておくこともできる。何が見つかるかは誰にも分からない。</Grave.YouSeeAGraveInFrontOf> <!-- <En>You see a grave in front of you.\n\nThere's definitely something buried here.\n\nYou can either dig up the grave or leave it in peace. Who knows what you may find here.</En> -->
+  <Grave.Dig>掘る</Grave.Dig> <!-- <En>Dig</En> -->
+
+  <GreenChest.label>緑の宝箱</GreenChest.label> <!-- <En>green chest</En> -->
+  <GreenChest.description>この宝箱は3つの緑の鍵の破片を使わないと開けられない。通常、敵が持っている。</GreenChest.description> <!-- <En>This chest can only be opened with 3 green key fragments. Usually, enemies carry them.</En> -->
+  <GreenChest.YouSeeAGreenChestInFront>目の前に緑の宝箱がある。\n\n3つの緑の鍵の破片を使わないと開けられない。</GreenChest.YouSeeAGreenChestInFront> <!-- <En>You see a green chest in front of you.\n\nIt can only be opened with 3 green key fragments.</En> -->
+  <GreenChest.Open>開ける</GreenChest.Open> <!-- <En>Open</En> -->
+
+  <HangingCage.label>吊り檻</HangingCage.label> <!-- <En>hanging cage</En> -->
+  <HangingCage.description>何か、あるいは誰かが入っている金属の檻。このダンジョンフロアにボスがいない場合にのみ開けられる。</HangingCage.description> <!-- <En>A metal cage with something or someone inside. You can open it only if there's no boss alive on this dungeon floor.</En> -->
+  <HangingCage.YouSeeABigMetalRusty>目の前に、錆びついた大きな金属の檻がある。\n\n開けますか？</HangingCage.YouSeeABigMetalRusty> <!-- <En>You see a big, metal, rusty cage in front of you.\n\nDo you want to open it?</En> -->
+  <HangingCage.Open>開ける</HangingCage.Open> <!-- <En>Open</En> -->
+
+  <HealingCrystal.label>ヒーリングクリスタル</HealingCrystal.label> <!-- <En>healing crystal</En> -->
+  <HealingCrystal.description>ヒットポイントを全回復する。</HealingCrystal.description> <!-- <En>Heals all your hit points.</En> -->
+
+  <Healplant.label>ヒールプラント</Healplant.label> <!-- <En>healplant</En> -->
+  <Healplant.description>珍しい治癒特性を持つ植物。これを使って回復ポーションを作れる。</Healplant.description> <!-- <En>A plant with unusual healing properties. You can use it to make a health potion.</En> -->
+
+  <Lever.label>レバー</Lever.label> <!-- <En>lever</En> -->
+  <Lever.description>すべてのゲートを開き、フロアの全員に警告する。脱出の準備ができたときだけ引くこと！</Lever.description> <!-- <En>Opens all gates and alerts everyone on the floor. Pull it only when you're ready to escape!</En> -->
+  <Lever.DoYouWantToPullTheLever>レバーを引きますか？\n\nすべてのゲートが開きますが、すべての敵が目を覚まします。</Lever.DoYouWantToPullTheLever> <!-- <En>Do you want to pull the lever?\n\nIt will open all gates, but all enemies will wake up.</En> -->
+  <Lever.Pull>引く</Lever.Pull> <!-- <En>Pull</En> -->
+
+  <LimbOfferingAltar.label>四肢を捧げる祭壇</LimbOfferingAltar.label> <!-- <En>limb offering altar</En> -->
+  <LimbOfferingAltar.description>ここで四肢を犠牲にして、ランダムな報酬を得ることができる。</LimbOfferingAltar.description> <!-- <En>You may sacrifice your limb here in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.YouSeeALimbOfferingAltar>目の前に四肢を捧げる祭壇がある。\n\nここで四肢を犠牲にして、ランダムな報酬を得ることができる。</LimbOfferingAltar.YouSeeALimbOfferingAltar> <!-- <En>You see a limb offering altar in front of you.\n\nHere you can sacrifice your limb in exchange for a random reward.</En> -->
+  <LimbOfferingAltar.OfferLimb>四肢を捧げる</LimbOfferingAltar.OfferLimb> <!-- <En>Offer limb</En> -->
+
+  <ManaCrystal.label>マナクリスタル</ManaCrystal.label> <!-- <En>mana crystal</En> -->
+  <ManaCrystal.description>マナを全回復し、再び呪文を使えるようにする。</ManaCrystal.description> <!-- <En>Restores all your mana, so you can use your spells again.</En> -->
+
+  <Manaplant.label>マナプラント</Manaplant.label> <!-- <En>manaplant</En> -->
+  <Manaplant.description>珍しい魔法特性を持つ植物。これを使ってマナポーションを作れる。</Manaplant.description> <!-- <En>A plant with unusual magic properties. You can use it to make a mana potion.</En> -->
+
+  <MetalCrate.label>金属の木箱</MetalCrate.label> <!-- <En>metal crate</En> -->
+  <MetalCrate.description>金属の木箱。何か役立つものが入っているかもしれない。</MetalCrate.description> <!-- <En>A metal crate. May contain something useful.</En> -->
+
+  <PhantomsAltar.label>ファントムの祭壇</PhantomsAltar.label> <!-- <En>Phantom's altar</En> -->
+  <PhantomsAltar.description>危険なファントムを召喚する。視界が悪くなる代わりに、与える物理ダメージにボーナスを得る。</PhantomsAltar.description> <!-- <En>Summon a deadly Phantom. Get a bonus to dealt physical damage in exchange for impaired sight.</En> -->
+  <PhantomsAltar.YouSeeAPhantomsAltar>目の前にファントムの祭壇がある。\n\nここで危険なファントムを召喚すると、与える物理ダメージが25%増加する。\n\nさらに、25ターンの間、視界範囲が1に設定される。</PhantomsAltar.YouSeeAPhantomsAltar> <!-- <En>You see a Phantom's altar in front of you.\n\nHere you can summon a deadly Phantom for which you'll gain +25% to dealt physical damage.\n\nAdditionally, for 25 turns your vision range will be set to 1.</En> -->
+  <PhantomsAltar.Summon>召喚</PhantomsAltar.Summon> <!-- <En>Summon</En> -->
+
+  <Portal.label>ポータル</Portal.label> <!-- <En>portal</En> -->
+  <Portal.description>マップ上のランダムな場所にテレポートする。しかし、再度使用すると、常に同じ場所に移動する。</Portal.description> <!-- <En>It will teleport you to a random location on the map. However, when used again, it will always bring you to the same location.</En> -->
+
+  <ProximityBomb.label>近接地雷</ProximityBomb.label> <!-- <En>proximity bomb</En> -->
+  <ProximityBomb.description>この爆弾には近接トリガーがあり、近づくと数ターン後に爆発する。</ProximityBomb.description> <!-- <En>This bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximityFireBomb.label>近接火炎爆弾</ProximityFireBomb.label> <!-- <En>proximity fire bomb</En> -->
+  <ProximityFireBomb.description>この火炎爆弾には近接トリガーがあり、近づくと数ターン後に爆発する。</ProximityFireBomb.description> <!-- <En>This fire bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <ProximitySmokeBomb.label>近接煙幕弾</ProximitySmokeBomb.label> <!-- <En>proximity smoke bomb</En> -->
+  <ProximitySmokeBomb.description>この煙幕弾には近接トリガーがあり、近づくと数ターン後に爆発する。</ProximitySmokeBomb.description> <!-- <En>This smoke bomb has a proximity trigger and will explode after a few turns when approached.</En> -->
+
+  <RatNest.label>ネズミの巣</RatNest.label> <!-- <En>rat nest</En> -->
+  <RatNest.description>ネズミでいっぱいの巣。邪魔をしない限り出てこない。隠された宝を探すことができる。</RatNest.description> <!-- <En>A nest full of rats. Rats won't come out unless disturbed. You can search it for a hidden treasure.</En> -->
+  <RatNest.YouSeeARatNestInFront>目の前にネズミの巣がある。\n\n望むなら、隠された宝を探すことができる。\n\nしかし、そうするとこの巣からネズミが出てくるようになる。</RatNest.YouSeeARatNestInFront> <!-- <En>You see a rat nest in front of you.\n\nIf you want, you can search for a hidden treasure here.\n\nHowever, if you do, rats will start coming out of this nest.</En> -->
+  <RatNest.Search>探す</RatNest.Search> <!-- <En>Search</En> -->
+
+  <RogueShrine.label>盗賊の祠</RogueShrine.label> <!-- <En>rogue's shrine</En> -->
+  <RogueShrine.description>わずかな寄付で、一時的にスタミナ、視界範囲、火炎ダメージ耐性を向上させる。</RogueShrine.description> <!-- <En>Gain more stamina, better vision range, and fire damage resistance for some time for a small donation.</En> -->
+  <RogueShrine.YouSeeARoguesShrineIn>目の前に盗賊の祠がある。\n\nわずかな寄付で、スタミナ、視界範囲、火炎ダメージ耐性を向上させることができる。</RogueShrine.YouSeeARoguesShrineIn> <!-- <En>You see a rogue's shrine in front of you.\n\nGain more stamina, better vision range, and fire damage resistance for a small donation.</En> -->
+  <RogueShrine.Proceed>進む</RogueShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <RunEndPortal.label>終焉のポータル</RunEndPortal.label> <!-- <En>end portal</En> -->
+  <RunEndPortal.description>輝くポータル。これが終わりだ。</RunEndPortal.description> <!-- <En>A bright portal. This is the end.</En> -->
+
+  <SacrificialAltar.label>生贄の祭壇</SacrificialAltar.label> <!-- <En>sacrificial altar</En> -->
+  <SacrificialAltar.description>この祭壇に2体のふさわしい敵を生贄に捧げると、報酬を得られる。</SacrificialAltar.description> <!-- <En>Sacrifice two worthy opponents on this altar to get a reward.</En> -->
+
+  <Safe.label>金庫</Safe.label> <!-- <En>safe</En> -->
+  <Safe.description>何か価値のあるものが入っているかもしれないが、破壊するのは厄介そうだ。爆発物を使えばあるいは？</Safe.description> <!-- <En>It may contain something valuable, but destroying it could be tricky. Maybe with some explosives?</En> -->
+
+  <Shop.label>ショップ</Shop.label> <!-- <En>shop</En> -->
+  <Shop.description>搾りたてのオレンジジュ…いや、筋力のポーションに勝るものはない。</Shop.description> <!-- <En>Nothing beats a freshly squeezed orange ju... I mean strength potion.</En> -->
+
+  <Shrine.label>祠</Shrine.label> <!-- <En>shrine</En> -->
+  <Shrine.description>無料で祝福を受けよう！</Shrine.description> <!-- <En>Receive a blessing, for free!</En> -->
+  <Shrine.YouSeeAShrineInFront>目の前に祠がある。\n\nここで祝福を受けることができる。</Shrine.YouSeeAShrineInFront> <!-- <En>You see a shrine in front of you.\n\nYou can receive a blessing here.</En> -->
+  <Shrine.Proceed>進む</Shrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <SilverChest.label>銀の宝箱</SilverChest.label> <!-- <En>silver chest</En> -->
+  <SilverChest.description>何か価値のあるものが入っていそうだ。開けるには銀の鍵が必要だ。</SilverChest.description> <!-- <En>It looks like it may contain something valuable. You need a silver key to open it.</En> -->
+  <SilverChest.YouSeeASilverChestIn>目の前に銀の宝箱がある。\n\n開けるには銀の鍵が必要だ。\n\n鍵のかかった宝箱の数よりも鍵の数の方が少ない場合があるため、鍵は賢く使うこと。</SilverChest.YouSeeASilverChestIn> <!-- <En>You see a silver chest in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked chests than available keys, so spend your keys wisely.</En> -->
+  <SilverChest.Open>開ける</SilverChest.Open> <!-- <En>Open</En> -->
+
+  <SkeletalRemains.label>骸骨の残骸</SkeletalRemains.label> <!-- <En>skeletal remains</En> -->
+  <SkeletalRemains.description>骨の山。何か隠されているかもしれない。</SkeletalRemains.description> <!-- <En>A pile of bones. There could be something hidden here.</En> -->
+  <SkeletalRemains.YouSeeSomeSkeletalRemains>目の前に骸骨の残骸がある。\n\n望むなら、隠された宝を探すことができる。</SkeletalRemains.YouSeeSomeSkeletalRemains> <!-- <En>You see some skeletal remains in front of you.\n\nIf you want, you can search for a hidden treasure here.</En> -->
+  <SkeletalRemains.Search>探す</SkeletalRemains.Search> <!-- <En>Search</En> -->
+
+  <SmallHealingCrystal.label>小さなヒーリングクリスタル</SmallHealingCrystal.label> <!-- <En>small healing crystal</En> -->
+  <SmallHealingCrystal.description>最大ヒットポイントの50%を回復する。</SmallHealingCrystal.description> <!-- <En>Heals 50% of your max hit points.</En> -->
+
+  <SmallManaCrystal.label>小さなマナクリスタル</SmallManaCrystal.label> <!-- <En>small mana crystal</En> -->
+  <SmallManaCrystal.description>最大マナの50%を回復する。</SmallManaCrystal.description> <!-- <En>Restores 50% of your max mana.</En> -->
+
+  <Staircase.label>階段</Staircase.label> <!-- <En>staircase</En> -->
+  <Staircase.description>このダンジョンの下層へと続く階段。</Staircase.description> <!-- <En>A staircase leading to the lower level of this dungeon.</En> -->
+  <Staircase.DoYouWantToGoDownThe>階段を降りてダンジョンの下層へ行きますか？\n\n戻ってくることはできません。</Staircase.DoYouWantToGoDownThe> <!-- <En>Do you want to go down the stairs to the lower level of the dungeon?\n\nYou won't be able to come back.</En> -->
+  <Staircase.Proceed>進む</Staircase.Proceed> <!-- <En>Proceed</En> -->
+
+  <StaircaseToLobby.label>ロビーへの階段</StaircaseToLobby.label> <!-- <En>staircase to lobby</En> -->
+  <StaircaseToLobby.description>ロビーへと戻る階段。現在の冒険は終了するが、経験値とゴールドの一部は次に持ち越される。また、ロビーで購入した使い切りのボーナスは失われない。</StaircaseToLobby.description> <!-- <En>A staircase leading back to the lobby. This will end your current run, but you'll keep some experience and gold for your next one. Also, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.DoYouWantToGoBackToThe>ロビーに戻りますか？\n\n現在の冒険は終了しますが、経験値の25%とゴールドの50%が次に持ち越されます。\nまた、ロビーで購入した使い切りのボーナスは失われません。</StaircaseToLobby.DoYouWantToGoBackToThe> <!-- <En>Do you want to go back to the lobby?\n\nThis will end your current run, but you'll keep 25% experience and 50% gold for your next one.\nAlso, you won't lose single-use bonuses you bought in the lobby.</En> -->
+  <StaircaseToLobby.Proceed>進む</StaircaseToLobby.Proceed> <!-- <En>Proceed</En> -->
+
+  <SurgicalBed.label>手術台</SurgicalBed.label> <!-- <En>surgical bed</En> -->
+  <SurgicalBed.description>わずかな支払いで失われた身体の部位をすべて修復できる自律型手術マシン。</SurgicalBed.description> <!-- <En>An autonomous surgical machine which can restore all missing body parts for a small payment.</En> -->
+  <SurgicalBed.YouSeeAnAutonomousSurgical>目の前に自律型手術機械が見える。\n\n下にはコイン投入口があり、看板には金貨150枚で失われた身体の部位をすべて修復できると書かれている。</SurgicalBed.YouSeeAnAutonomousSurgical> <!-- <En>You see an autonomous surgical machine in front of you.\n\nThere's a coin slot underneath and a sign which says that for 150 gold coins the machine can restore all your missing body parts.</En> -->
+  <SurgicalBed.Pay150Gold>金貨150枚を支払う</SurgicalBed.Pay150Gold> <!-- <En>Pay 150 gold</En> -->
+
+  <TimeMachine.label>タイムマシン</TimeMachine.label> <!-- <En>time machine</En> -->
+  <TimeMachine.description>過去に時間移動する。</TimeMachine.description> <!-- <En>Travel back in time.</En> -->
+  <TimeMachine.YouSeeATimeMachineIn>目の前にタイムマシンが見える。\n\nこれを使うと、過去に時間移動することができる。</TimeMachine.YouSeeATimeMachineIn> <!-- <En>You see a time machine in front of you.\n\nUsing it will make you travel back in time.</En> -->
+  <TimeMachine.Use>使う</TimeMachine.Use> <!-- <En>Use</En> -->
+
+  <TrialOfCrippling.label_2>破壊の試練</TrialOfCrippling.label_2> <!-- <En>Trial of Crippling</En> -->
+  <TrialOfCrippling.description_2>120ターン以内に身体の部位を6か所破壊し、報酬を受け取る。</TrialOfCrippling.description_2> <!-- <En>Destroy 6 body parts within 120 turns to receive a reward.</En> -->
+  <TrialOfCrippling.YouSeeATrialOfCrippling>目の前に破壊の試練が見える。\n\n金貨をいくらか支払うと、120ターン以内に身体の部位を6か所破壊するチャレンジを開始できる。\n\nチャレンジを完了すると、報酬がもらえる。</TrialOfCrippling.YouSeeATrialOfCrippling> <!-- <En>You see a Trial of Crippling in front of you.\n\nFor some gold, you can start a challenge to destroy 6 body parts within 120 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfCrippling.Pay20Gold>金貨20枚を支払う</TrialOfCrippling.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfSwiftKiller.label_2>迅速な殺し屋の試練</TrialOfSwiftKiller.label_2> <!-- <En>Trial of Swift Killer</En> -->
+  <TrialOfSwiftKiller.description_2>100ターン以内に価値ある（経験値をもたらす）敵を4体倒し、報酬を受け取る。</TrialOfSwiftKiller.description_2> <!-- <En>Kill 4 worthy (experience yielding) enemies within 100 turns to receive a reward.</En> -->
+  <TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller>目の前に迅速な殺し屋の試練が見える。\n\n金貨をいくらか支払うと、100ターン以内に価値ある敵を4体倒すチャレンジを開始できる。\n\nチャレンジを完了すると、報酬がもらえる。</TrialOfSwiftKiller.YouSeeATrialOfSwiftKiller> <!-- <En>You see a Trial of Swift Killer in front of you.\n\nFor some gold, you can start a challenge to kill 4 worthy enemies within 100 turns.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfSwiftKiller.Pay20Gold>金貨20枚を支払う</TrialOfSwiftKiller.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <TrialOfUnblemished.label_2>無傷の試練</TrialOfUnblemished.label_2> <!-- <En>Trial of Unblemished</En> -->
+  <TrialOfUnblemished.description_2>ヒットポイントを一切失うことなく、価値ある（経験値をもたらす）敵を2体倒し、報酬を受け取る。</TrialOfUnblemished.description_2> <!-- <En>Kill 2 worthy (experience yielding) enemies without losing any hit points to receive a reward.</En> -->
+  <TrialOfUnblemished.YouSeeATrialOfUnblemished>目の前に無傷の試練が見える。\n\n金貨をいくらか支払うと、ヒットポイントを一切失うことなく価値ある敵を2体倒すチャレンジを開始できる。\n\nチャレンジを完了すると、報酬がもらえる。</TrialOfUnblemished.YouSeeATrialOfUnblemished> <!-- <En>You see a Trial of Unblemished in front of you.\n\nFor some gold, you can start a challenge to kill any 2 worthy enemies without losing any hit points.\n\nOn completing the challenge, you'll receive a reward.</En> -->
+  <TrialOfUnblemished.Pay20Gold>金貨20枚を支払う</TrialOfUnblemished.Pay20Gold> <!-- <En>Pay 20 gold</En> -->
+
+  <UpgradeOrb.label>アップグレードオーブ</UpgradeOrb.label> <!-- <En>upgrade orb</En> -->
+  <UpgradeOrb.description>恒久的な効果を選択できるオーブ。追加体力、追加クリティカルヒット率、ミス率低下、火炎耐性から選べる。</UpgradeOrb.description> <!-- <En>An orb which lets you choose a permanent effect. You can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+  <UpgradeOrb.ThisIsAnUpgradeOrbWhich>これは今回のプレイに恒久的な効果を与えるアップグレードオーブだ。\n\n追加体力、追加クリティカルヒット率、ミス率低下、火炎耐性の中から選べる。</UpgradeOrb.ThisIsAnUpgradeOrbWhich> <!-- <En>This is an upgrade orb which grants permanent effects for this run.\n\nYou can choose between extra health, extra critical hit chance, lower miss chance, and fire resistance.</En> -->
+
+  <WarriorShrine.label>戦士の祠</WarriorShrine.label> <!-- <En>warrior's shrine</En> -->
+  <WarriorShrine.description>内なる戦士を解き放ち、その価値を証明せよ。最大HPを半分にする代わりに、一定時間、物理ダメージが25%上昇する。</WarriorShrine.description> <!-- <En>Unleash your inner warrior and prove that you're worthy. Halve your max HP in exchange for 25% higher physical damage for some time.</En> -->
+  <WarriorShrine.YouSeeAWarriorsShrine>目の前に戦士の祠が見える。\n\n最大HPを半分にする代わりに、400ターンの間、ダメージが25%上昇する。</WarriorShrine.YouSeeAWarriorsShrine> <!-- <En>You see a warrior's shrine in front of you.\n\nHalve your max HP in exchange for 25% higher damage for 400 turns.</En> -->
+  <WarriorShrine.Proceed>実行する</WarriorShrine.Proceed> <!-- <En>Proceed</En> -->
+
+  <WaspNest.label>スズメバチの巣</WaspNest.label> <!-- <En>wasp nest</En> -->
+  <WaspNest.description>異常に大きなスズメバチの巣。</WaspNest.description> <!-- <En>A nest of unusually large wasps.</En> -->
+
+  <WizardShrine.label>魔法使いの祠</WizardShrine.label> <!-- <En>wizard's shrine</En> -->
+  <WizardShrine.description>少額の寄付で、一定時間、最大マナを増加させ、魔法ダメージ耐性を得る。</WizardShrine.description> <!-- <En>Increase max mana and get some magic damage resistance for some time for a small donation.</En> -->
+  <WizardShrine.YouSeeAWizardsShrine>目の前に魔法使いの祠が見える。\n\n金貨80枚で、400ターンの間最大マナ+2、100ターンの間魔法ダメージ耐性を与える祝福を受けられる。</WizardShrine.YouSeeAWizardsShrine> <!-- <En>You see a wizard's shrine in front of you.\n\nFor 80 gold, you can receive a blessing which will give you +2 max mana for 400 turns and magic damage resistance for 100 turns.</En> -->
+  <WizardShrine.Pay80Gold>金貨80枚を支払う</WizardShrine.Pay80Gold> <!-- <En>Pay 80 gold</En> -->
+
+</SpecTranslations>

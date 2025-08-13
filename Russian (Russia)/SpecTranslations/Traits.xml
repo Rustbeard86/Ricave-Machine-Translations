@@ -1,21 +1,21 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <AllIn.label>ва-банк</AllIn.label> <!-- <En>all in</En> -->
   <AllIn.description>Вы начинаете с дополнительными очками навыков, но больше не сможете их получить.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
-  <AllIn.goodEffects>+3 очка навыков на старте</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
-  <AllIn.badEffects>Невозможно получить новые очки навыков</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+  <AllIn.goodEffects><li>Начинаете с 3 очками навыков</li></AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects><li>Нельзя получить больше очков навыков</li></AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
 
   <Angel.label>ангел</Angel.label> <!-- <En>angel</En> -->
   <Angel.description>Даёт способность летать и наносить больше урона Демону, но повышает уязвимость к огню, яду и магии.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
 
   <Berserker.label_2>берсерк</Berserker.label_2> <!-- <En>berserker</En> -->
   <Berserker.description_2>Временно наносите больше урона после каждого достойного убийства, но также становитесь более уязвимы.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
-  <Berserker.goodEffects>+25% к физ. урону на 6 ходов после достойного убийства</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
-  <Berserker.badEffects>+25% к получаемому физ. урону на 6 ходов после достойного убийства</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.goodEffects><li>Наносите на 25% больше физ. урона в течение 6 ходов после достойного убийства</li></Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects><li>Получаете на 25% больше физ. урона в течение 6 ходов после достойного убийства</li></Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
 
   <BossHunter.label>охотник на боссов</BossHunter.label> <!-- <En>boss hunter</En> -->
   <BossHunter.description>Вы наносите больше урона всем боссам, но они начинают бой пробуждёнными.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
-  <BossHunter.badEffects>Все боссы начинают пробуждёнными</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+  <BossHunter.badEffects><li>Все боссы изначально пробуждены</li></BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
 
   <Bulky.label>громоздкий</Bulky.label> <!-- <En>bulky</En> -->
   <Bulky.description>Вы получаете больше макс. ОЗ за уровень, но двигаетесь громче.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
@@ -37,27 +37,27 @@
 
   <MoleRat.label>кротокрыс</MoleRat.label> <!-- <En>mole-rat</En> -->
   <MoleRat.description>Даёт способность копать и частичное сопротивление стихиям, но вы получаете меньше макс. ОЗ за уровень.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
-  <MoleRat.goodEffects>Можно копать без лопаты</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+  <MoleRat.goodEffects><li>Можете копать без лопаты</li></MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
 
   <NightOwl.label>ночная сова</NightOwl.label> <!-- <En>night owl</En> -->
   <NightOwl.description>Вы лучше видите ночью, но хуже днём.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
-  <NightOwl.goodEffects>+1 к дальности обзора с 19:00 до 7:00</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
-  <NightOwl.badEffects>-1 к дальности обзора с 7:00 до 19:00</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+  <NightOwl.goodEffects><li>+1 к дальности обзора с 19:00 до 7:00</li></NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects><li>-1 к дальности обзора с 7:00 до 19:00</li></NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
 
   <Pacifist.label_2>пацифист</Pacifist.label_2> <!-- <En>pacifist</En> -->
   <Pacifist.description>Все предметы в магазинах бесплатны, и вы получаете уровни в два раза быстрее, но каждое достойное убийство стоит вам 1 ОЗ.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
 
   <Scary.label>пугающий</Scary.label> <!-- <En>scary</En> -->
   <Scary.description>Все враги впадают в панику, если вы их разбудите, но цены в магазинах выше, культы враждебны к вам, а ваша макс. выносливость снижена. Кроме того, все призраки будут следовать за вами и не оставят добычи.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
-  <Scary.goodEffects>Враги паникуют 3 хода, если вы их разбудите</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
-  <Scary.badEffects>Призраки следуют за вами и не оставляют добычи</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+  <Scary.goodEffects><li>Враги паникуют на 3 хода, если вы их пробудили</li></Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects><li>Призраки преследуют вас и не оставляют добычи</li></Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
 
   <Shaman.label>шаман</Shaman.label> <!-- <En>shaman</En> -->
   <Shaman.description>Вы получаете очко маны за каждое достойное убийство, но у вас меньше ячеек инвентаря.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
 
   <Vampire.label>вампир</Vampire.label> <!-- <En>vampire</En> -->
   <Vampire.description>Вы восстанавливаете одно очко здоровья за каждое достойное убийство, но днём регенерация здоровья отключена, вы уязвимы к огню, а собаки враждебны к вам.</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
-  <Vampire.badEffects>Нет регенерации здоровья с 7:00 до 19:00-1 к дальности обзора с 7:00 до 19:00Враждебность к собакам</Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <Vampire.badEffects><li>Нет регенерации здоровья с 7:00 до 19:00</li><li>-1 к дальности обзора с 7:00 до 19:00</li><li>Враждебность к собакам</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
   <li>-1 vision range from 7:00 to 19:00</li>
   <li>Hostile to dogs</li></En> -->
 

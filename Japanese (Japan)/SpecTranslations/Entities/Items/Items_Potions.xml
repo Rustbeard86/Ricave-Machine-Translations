@@ -1,0 +1,36 @@
+<SpecTranslations>
+
+  <Potion_Antidote.label>解毒薬</Potion_Antidote.label> <!-- <En>antidote</En> -->
+  <Potion_Antidote.description>毒の解毒薬。さらに、短時間の間、毒に対する耐性を与える。</Potion_Antidote.description> <!-- <En>An antidote for poison. Additionally, gives a short-lasting immunity to poison.</En> -->
+
+  <Potion_Beer.label>ビール</Potion_Beer.label> <!-- <En>beer</En> -->
+  <Potion_Beer.description>ここで一番の上等な飲み物。酔っぱらったキャラクターは毎ターン、ランダムな方向に移動する。</Potion_Beer.description> <!-- <En>The finest drink out here. Drunk characters move in a random direction each turn.</En> -->
+
+  <Potion_Fragility.label>脆弱化のポーション</Potion_Fragility.label> <!-- <En>Potion of Fragility</En> -->
+  <Potion_Fragility.description>短時間の間、最大ヒットポイントを減少させる。</Potion_Fragility.description> <!-- <En>Decreases the maximum number of hit points for a short time.</En> -->
+
+  <Potion_Haste.label>加速のポーション</Potion_Haste.label> <!-- <En>Potion of Haste</En> -->
+  <Potion_Haste.description>短時間の間、1ターンに2倍の行動ができるようになる。</Potion_Haste.description> <!-- <En>Do twice as many actions per turn for a short time.</En> -->
+
+  <Potion_Health.label>回復のポーション</Potion_Health.label> <!-- <En>Health Potion</En> -->
+  <Potion_Health.description>体力を回復する。これはかなり貴重なポーションだ！</Potion_Health.description> <!-- <En>Restores health. This is quite a precious potion!</En> -->
+
+  <Potion_Life.label>生命のポーション</Potion_Life.label> <!-- <En>Potion of Life</En> -->
+  <Potion_Life.description>短時間の間、最大ヒットポイントを増加させる。</Potion_Life.description> <!-- <En>Increases the maximum number of hit points for a short time.</En> -->
+
+  <Potion_Mana.label>マナ・ポーション</Potion_Mana.label> <!-- <En>Mana Potion</En> -->
+  <Potion_Mana.description>マナを回復し、カードマジックをもう少し使えるようにする。</Potion_Mana.description> <!-- <En>Restores mana so you can do some more of those card magic tricks.</En> -->
+
+  <Potion_Poison.label>毒薬</Potion_Poison.label> <!-- <En>poison</En> -->
+  <Potion_Poison.description>致死性の毒。</Potion_Poison.description> <!-- <En>A deadly poison.</En> -->
+
+  <Potion_Slowness.label>鈍足のポーション</Potion_Slowness.label> <!-- <En>Potion of Slowness</En> -->
+  <Potion_Slowness.description>行動が2倍遅くなる。対象が1ターン行動する間に、他の者は2ターン行動することになる。</Potion_Slowness.description> <!-- <En>Perform actions twice as slow - for every turn the target takes, everyone else will perform twice as many turns.</En> -->
+
+  <Potion_Strength.label>力のポーション</Potion_Strength.label> <!-- <En>Strength Potion</En> -->
+  <Potion_Strength.description>短時間の間、与える物理ダメージが増加する。ここで採れる最高級のほうれん草から作られている。</Potion_Strength.description> <!-- <En>Makes you deal more physical damage for a short time. Made from the best kind of spinach out here.</En> -->
+
+  <Potion_Weakness.label>弱体化のポーション</Potion_Weakness.label> <!-- <En>Potion of Weakness</En> -->
+  <Potion_Weakness.description>短時間の間、与える物理ダメージが減少する。</Potion_Weakness.description> <!-- <En>Makes you deal less physical damage for a short time.</En> -->
+
+</SpecTranslations>

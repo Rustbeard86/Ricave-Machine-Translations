@@ -1,0 +1,82 @@
+<SpecTranslations>
+
+  <BigMap.label>미니맵</BigMap.label> <!-- <En>minimap</En> -->
+  <BigMap.HoldMinimapOrMinimapAlt>[Minimap] 또는 [MinimapAlt] 키를 누르고 있으면 지도를 볼 수 있습니다.\n\n마우스 스크롤 휠로 확대할 수 있습니다.\n\n가장 중요한 방은 지도에 표시됩니다.</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.HoldMinimapAltToSeeThe>[MinimapAlt] 키를 누르고 있으면 지도를 볼 수 있습니다.\n\n가장 중요한 방은 지도에 표시됩니다.</BigMap.HoldMinimapAltToSeeThe> <!-- <En>Hold [MinimapAlt] to see the map.\n\nThe most important rooms will be marked on your map.</En> -->
+  <BigMap.MinimapMinimapAlt>[Minimap], [MinimapAlt]</BigMap.MinimapMinimapAlt> <!-- <En>[Minimap], [MinimapAlt]</En> -->
+  <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
+
+  <ClimbingLadders.label>오르기</ClimbingLadders.label> <!-- <En>climbing</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>다음 방으로 가서 사다리를 오르세요.\n\n사다리가 있는 타일로 걸어간 다음 [Fly] 키를 누른 상태에서 [MoveForward] 키를 눌러 올라가세요.\n\n또는 사다리를 클릭해도 됩니다.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>다음 방으로 가서 사다리를 오르세요.\n\n사다리가 있는 타일로 걸어간 다음 [Fly] 키를 누른 상태에서 [MoveForward] 키를 눌러 올라가세요.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
+
+  <DrinkingPotion.label>물약 마시기</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
+  <DrinkingPotion.TakeThePotionFromThe>상자에서 물약을 꺼내 마시세요.\n\n퀵바에서 해당 숫자 키를 눌러 물약을 사용할 수 있습니다. 이 경우에는 "1" 키입니다.</DrinkingPotion.TakeThePotionFromThe> <!-- <En>Take the potion from the chest and drink it.\n\nYou can press the corresponding number key to access the potion from the quickbar - in this case "1".</En> -->
+  <DrinkingPotion.TakeThePotionFromThe_2>상자에서 물약을 꺼내 마시세요. [Accept] 키를 눌러 상호작용하세요.\n\n[QuickbarMenu] 키를 누르면 퀵바에 있는 모든 아이템 메뉴가 표시됩니다.</DrinkingPotion.TakeThePotionFromThe_2> <!-- <En>Take the potion from the chest and drink it. Press [Accept] to interact.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.</En> -->
+
+  <Fighting.label>전투</Fighting.label> <!-- <En>fighting</En> -->
+  <Fighting.DefeatTheSkeletonClick>스켈레톤을 처치하세요. 클릭해서 공격하고, [Wait] 키로 대기합니다.\n\n플레이어가 이동하거나 공격하지 않으면 적은 움직이지 않습니다.\n\n팁:\n- 항상 신중하게 다음 수를 계획하세요.\n- 대부분의 적은 치명적이며, 체력 1포인트도 소중합니다.\n- 한 번에 여러 적에게 둘러싸이는 것을 피하세요.</Fighting.DefeatTheSkeletonClick> <!-- <En>Defeat the skeleton. Click to attack. [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+  <Fighting.DefeatTheSkeletonPress>스켈레톤을 처치하세요. [Accept] 키로 공격하고, [Wait] 키로 대기합니다.\n\n플레이어가 이동하거나 공격하지 않으면 적은 움직이지 않습니다.\n\n팁:\n- 항상 신중하게 다음 수를 계획하세요.\n- 대부분의 적은 치명적이며, 체력 1포인트도 소중합니다.\n- 한 번에 여러 적에게 둘러싸이는 것을 피하세요.</Fighting.DefeatTheSkeletonPress> <!-- <En>Defeat the skeleton. Press [Accept] to attack and [Wait] to wait.\n\nEnemies won't move unless you move or attack.\n\nTips:\n- Always plan your next move carefully.\n- Most enemies are deadly and every hit point counts.\n- Avoid being surrounded by multiple enemies at once.</En> -->
+
+  <Inspecting.label>조사하기</Inspecting.label> <!-- <En>inspecting</En> -->
+  <Inspecting.CloseYourInventoryBy>[ShowInventory] 키를 다시 눌러 소지품 창을 닫고, [Inspect] 또는 [InspectAlt] 키를 누르고 있으면 주변을 조사할 수 있습니다.\n\n모든 적을 조사하여 얼마나 위험한지 파악하는 것을 잊지 마세요.</Inspecting.CloseYourInventoryBy> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_2>[ShowInventory] 키를 다시 눌러 소지품 창을 닫고, [Inspect] 키를 누르고 있으면 주변을 조사할 수 있습니다.\n\n모든 적을 조사하여 얼마나 위험한지 파악하는 것을 잊지 마세요.</Inspecting.CloseYourInventoryBy_2> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.CloseYourInventoryBy_3>[ShowInventory] 키를 다시 눌러 소지품 창을 닫고, [Inspect] 또는 [InspectAlt] 키를 누르고 있으면 주변을 조사할 수 있습니다.\n\n모든 적을 조사하여 얼마나 위험한지 파악하는 것을 잊지 마세요.</Inspecting.CloseYourInventoryBy_3> <!-- <En>Close your inventory by pressing [ShowInventory] again and hold [Inspect] or [InspectAlt] to inspect the surroundings.\n\nRemember to inspect all enemies to know how dangerous they are.</En> -->
+  <Inspecting.InspectInspectAlt>[Inspect], [InspectAlt]</Inspecting.InspectInspectAlt> <!-- <En>[Inspect], [InspectAlt]</En> -->
+  <Inspecting.Inspect>[Inspect]</Inspecting.Inspect> <!-- <En>[Inspect]</En> -->
+
+  <Inventory.label>소지품</Inventory.label> <!-- <En>inventory</En> -->
+  <Inventory.EquipTheSwordEitherDrag>검을 장착하세요.\n\n검을 드래그하거나, 마우스 오른쪽 버튼으로 클릭하거나, "1" 키를 눌러 퀵바에서 사용할 수 있습니다.\n\n대부분의 아이템은 미확인 상태이며, 일부는 저주받았을 수도 있습니다!</Inventory.EquipTheSwordEitherDrag> <!-- <En>Equip the sword.\n\nEither drag it, right-click it, or press "1" to access it from the quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+  <Inventory.EquipTheSwordYouCanPress>검을 장착하세요.\n\n[QuickbarMenu] 키를 누르면 퀵바에 있는 모든 아이템 메뉴가 표시됩니다.\n\n대부분의 아이템은 미확인 상태이며, 일부는 저주받았을 수도 있습니다!</Inventory.EquipTheSwordYouCanPress> <!-- <En>Equip the sword.\n\nYou can press [QuickbarMenu] to show a menu with all the items in your quickbar.\n\nMost items are unidentified and some are even cursed!</En> -->
+
+  <Lever.label_2>레버</Lever.label_2> <!-- <En>lever</En> -->
+  <Lever.EveryFloorHasALeverWhich>모든 층에는 출구 방으로 가는 문을 여는 레버가 있습니다. 레버를 클릭하고 지역을 떠나세요.\n\n하지만 조심하세요! 레버를 당기면 층에 있는 모든 적들이 깨어납니다!</Lever.EveryFloorHasALeverWhich> <!-- <En>Every floor has a lever which opens the gate to the exit room. Click on it and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+  <Lever.EveryFloorHasALeverWhich_2>모든 층에는 출구 방으로 가는 문을 여는 레버가 있습니다. [Accept] 키를 눌러 당기고 지역을 떠나세요.\n\n하지만 조심하세요! 레버를 당기면 층에 있는 모든 적들이 깨어납니다!</Lever.EveryFloorHasALeverWhich_2> <!-- <En>Every floor has a lever which opens the gate to the exit room. Pull it by pressing [Accept] and leave the area.\n\nBut be careful! Pulling the lever wakes up all enemies on the floor!</En> -->
+
+  <Moving.label>이동</Moving.label> <!-- <En>moving</En> -->
+  <Moving.PressMoveForwardMoveLeft>[MoveForward], [MoveLeft], [MoveBack], [MoveRight] 키를 눌러 이동하세요.\n\n'Ricave'는 턴제 게임입니다. 한 번 이동하면 한 턴이 소모되며, 다른 모든 캐릭터도 함께 움직입니다.\n\n클릭해서 이동할 수도 있습니다.</Moving.PressMoveForwardMoveLeft> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.\n\nYou can also click to move.</En> -->
+  <Moving.PressMoveForwardMoveLeft_2>[MoveForward], [MoveLeft], [MoveBack], [MoveRight] 키를 눌러 이동하세요.\n\n'Ricave'는 턴제 게임입니다. 한 번 이동하면 한 턴이 소모되며, 다른 모든 캐릭터도 함께 움직입니다.</Moving.PressMoveForwardMoveLeft_2> <!-- <En>Press [MoveForward], [MoveLeft], [MoveBack], [MoveRight] to move.\n\nRicave is turn-based. One move takes one turn, so everyone else will move with you.</En> -->
+  <Moving.MoveForwardMoveLeftMoveBack>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</Moving.MoveForwardMoveLeftMoveBack> <!-- <En>[MoveForward], [MoveLeft], [MoveBack], [MoveRight]</En> -->
+
+  <OpeningDoors.label>문 열기</OpeningDoors.label> <!-- <En>opening doors</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt>문을 열려면, 문으로 걸어가거나 클릭하세요.</OpeningDoors.ToOpenADoorWalkIntoIt> <!-- <En>To open a door, walk into it or click it.</En> -->
+  <OpeningDoors.ToOpenADoorWalkIntoIt_2>문을 열려면, 문으로 걸어가세요.</OpeningDoors.ToOpenADoorWalkIntoIt_2> <!-- <En>To open a door, walk into it.</En> -->
+
+  <OpeningInventory.label>소지품</OpeningInventory.label> <!-- <En>inventory</En> -->
+  <OpeningInventory.PressShowInventoryTo>[ShowInventory] 키를 눌러 소지품을 여세요.</OpeningInventory.PressShowInventoryTo> <!-- <En>Press [ShowInventory] to open your inventory.</En> -->
+  <OpeningInventory.ShowInventory>[ShowInventory]</OpeningInventory.ShowInventory> <!-- <En>[ShowInventory]</En> -->
+
+  <PickingUpItems.label>아이템 줍기</PickingUpItems.label> <!-- <En>picking up items</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem>마찬가지로, 아이템을 주우려면 아이템으로 걸어가거나 클릭하세요.</PickingUpItems.SimilarlyToPickUpAnItem> <!-- <En>Similarly, to pick up an item, walk into it or click it.</En> -->
+  <PickingUpItems.SimilarlyToPickUpAnItem_2>마찬가지로, 아이템을 주우려면 아이템으로 걸어가세요.</PickingUpItems.SimilarlyToPickUpAnItem_2> <!-- <En>Similarly, to pick up an item, walk into it.</En> -->
+
+  <QuickAttack.label>빠른 공격</QuickAttack.label> <!-- <En>quick attack</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd>다음 방으로 가서 상자 근처에서 [AttackNearest] 키를 누르면 마우스에 가장 가까운 대상을 자동으로 공격합니다.\n\n[AttackNearest] 키를 누르면 마우스를 사용하는 것보다 더 편할 수 있습니다. 이 키로 주변의 여러 대상을 빠르게 파괴할 수 있습니다.</QuickAttack.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and press [AttackNearest] near the crates to automatically attack the closest target to your mouse.\n\nPressing [AttackNearest] can be more comfortable than using the mouse. It lets you quickly destroy multiple targets around you.</En> -->
+  <QuickAttack.GoIntoTheNextRoomAnd_2>다음 방으로 가서 [Accept] 키를 눌러 상자를 파괴하세요. [RotateLeft]과 [RotateRight] 키로 회전하여 상자를 마주보세요.</QuickAttack.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and press [Accept] to destroy the crates. Rotate with [RotateLeft] and [RotateRight] to face them.</En> -->
+  <QuickAttack.AttackNearest>[AttackNearest]</QuickAttack.AttackNearest> <!-- <En>[AttackNearest]</En> -->
+  <QuickAttack.Accept>[Accept]</QuickAttack.Accept> <!-- <En>[Accept]</En> -->
+
+  <Rotating.label>회전</Rotating.label> <!-- <En>rotating</En> -->
+  <Rotating.UseYourMouseToLookAround>마우스를 사용하여 주위를 둘러보거나 [RotateLeft] 또는 [RotateRight] 키를 눌러 회전하세요.\n\n이동과 달리, 회전은 턴을 소모하지 않습니다.</Rotating.UseYourMouseToLookAround> <!-- <En>Use your mouse to look around or press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.PressRotateLeftOrRotateRight>[RotateLeft] 또는 [RotateRight] 키를 눌러 회전하세요.\n\n이동과 달리, 회전은 턴을 소모하지 않습니다.</Rotating.PressRotateLeftOrRotateRight> <!-- <En>Press [RotateLeft] or [RotateRight] to rotate.\n\nUnlike moving, rotating doesn't cost a turn.</En> -->
+  <Rotating.RotateLeftRotateRight>[RotateLeft], [RotateRight]</Rotating.RotateLeftRotateRight> <!-- <En>[RotateLeft], [RotateRight]</En> -->
+
+  <Strafing.label>옆걸음</Strafing.label> <!-- <En>strafing</En> -->
+  <Strafing.PressMoveLeftOrMoveRight>[MoveLeft] 또는 [MoveRight] 키를 눌러 옆걸음질하세요.</Strafing.PressMoveLeftOrMoveRight> <!-- <En>Press [MoveLeft] or [MoveRight] to strafe.</En> -->
+  <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
+
+  <TargetingBodyParts.label>신체 부위</TargetingBodyParts.label> <!-- <En>body parts</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>[Fly] 키를 누른 상태에서 스켈레톤의 팔을 클릭하여 파괴한 다음, 평소처럼 마무리하세요.\n\n각 신체 부위는 고유의 체력을 가지고 있습니다.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>[Fly] 키를 누른 상태에서 스켈레톤의 팔에 [Accept] 키 또는 오른쪽 트리거를 눌러 파괴한 다음, 평소처럼 마무리하세요.\n\n각 신체 부위는 고유의 체력을 가지고 있습니다.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
+
+  <Tooltips.label>툴팁</Tooltips.label> <!-- <En>tooltips</En> -->
+  <Tooltips.TooltipsAreImportant>툴팁은 중요합니다! 소지품 화면의 아이템 위로 마우스를 가져가 정보를 확인하세요.\n\n찾는 모든 아이템을 확인하는 것을 잊지 마세요.</Tooltips.TooltipsAreImportant> <!-- <En>Tooltips are important! Hover over anything in the inventory screen to learn about it.\n\nRemember to inspect every item you find.</En> -->
+  <Tooltips.TooltipsAreImportant_2>툴팁은 중요합니다! 소지품 화면이 열려 있는 동안 사용해 보세요.\n\n찾는 모든 아이템을 확인하는 것을 잊지 마세요.</Tooltips.TooltipsAreImportant_2> <!-- <En>Tooltips are important! Try them out while your inventory screen is open.\n\nRemember to inspect every item you find.</En> -->
+
+  <Waiting.label>대기</Waiting.label> <!-- <En>waiting</En> -->
+  <Waiting.PressWaitToWaitATurn>[Wait] 키를 눌러 한 턴을 대기하세요.\n\n대기하면 먼저 피해를 줄 수 있고, 다음 공격을 충전할 수도 있습니다.</Waiting.PressWaitToWaitATurn> <!-- <En>Press [Wait] to wait a turn.\n\nWaiting lets you be the first one to deal damage and it also charges your next attack.</En> -->
+  <Waiting.Wait>[Wait]</Waiting.Wait> <!-- <En>[Wait]</En> -->
+
+</SpecTranslations>

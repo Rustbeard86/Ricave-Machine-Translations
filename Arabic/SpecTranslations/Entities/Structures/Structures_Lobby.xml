@@ -1,0 +1,110 @@
+<SpecTranslations>
+
+  <BannerPuzzle.label>لافتة الأحجية</BannerPuzzle.label> <!-- <En>puzzle banner</En> -->
+  <BannerPuzzle.description>لافتة ملونة.</BannerPuzzle.description> <!-- <En>A colorful banner.</En> -->
+
+  <BossTrophy.label>كأس</BossTrophy.label> <!-- <En>trophy</En> -->
+  <BossTrophy.description>كل كأس زعيم يولد غبار النجوم بما يعادل الطابق الذي قُتل فيه الزعيم. يتجدد غبار النجوم كلما وصلت إلى الطابق الثاني من الزنزانة على الأقل.</BossTrophy.description> <!-- <En>Each boss trophy generates stardust equal to the floor the boss was killed on. The stardust replenishes whenever you reach at least the second floor of the dungeon.</En> -->
+
+  <CosmeticsWardrobe.label>خزانة ملابس</CosmeticsWardrobe.label> <!-- <En>wardrobe</En> -->
+  <CosmeticsWardrobe.description>غير مظهرك هنا.</CosmeticsWardrobe.description> <!-- <En>Change your appearance here.</En> -->
+
+  <DailyChallengeBoard.label>لوحة التحدي اليومي</DailyChallengeBoard.label> <!-- <En>daily challenge board</En> -->
+  <DailyChallengeBoard.description>شارك في التحديات اليومية. كل شخص آخر حول العالم يحصل على نفس التحدي كل يوم!</DailyChallengeBoard.description> <!-- <En>Participate in daily challenges. Everyone else around the world gets the same challenge each day!</En> -->
+
+  <Display.label>عرض</Display.label> <!-- <En>display</En> -->
+  <Display.description>مكان لوضع غرض.</Display.description> <!-- <En>A place for an item.</En> -->
+
+  <EndingPortal.label>بوابة</EndingPortal.label> <!-- <En>portal</En> -->
+  <EndingPortal.description>هل هذه هي النهاية؟</EndingPortal.description> <!-- <En>Is this the end?</En> -->
+
+  <FinalDialogueTrigger.label>محفز الحوار النهائي</FinalDialogueTrigger.label> <!-- <En>final dialogue trigger</En> -->
+
+  <HallwaySign.label>لافتة الردهة</HallwaySign.label> <!-- <En>hallway sign</En> -->
+  <HallwaySign.description>يوجد ردهة خلف هذا الباب.</HallwaySign.description> <!-- <En>There's a hallway behind this door.</En> -->
+
+  <LockedDoor.label>باب</LockedDoor.label> <!-- <En>door</En> -->
+  <LockedDoor.description>يبدو هذا الباب مغلقًا.</LockedDoor.description> <!-- <En>This door seems to be locked.</En> -->
+
+  <LockedDoorHallway.label>باب</LockedDoorHallway.label> <!-- <En>door</En> -->
+  <LockedDoorHallway.description>يبدو هذا الباب مغلقًا.</LockedDoorHallway.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorHallway.DoYouWantToUnlockThe>هل تريد فتح الردهة مقابل 60 من غبار النجوم؟</LockedDoorHallway.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the hallway for 60 stardust?</En> -->
+  <LockedDoorHallway.Unlock>فتح</LockedDoorHallway.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedDoorTrainingRoom.label>باب</LockedDoorTrainingRoom.label> <!-- <En>door</En> -->
+  <LockedDoorTrainingRoom.description>يبدو هذا الباب مغلقًا.</LockedDoorTrainingRoom.description> <!-- <En>This door seems to be locked.</En> -->
+  <LockedDoorTrainingRoom.DoYouWantToUnlockThe>هل تريد فتح غرفة التدريب مقابل 20 من غبار النجوم؟</LockedDoorTrainingRoom.DoYouWantToUnlockThe> <!-- <En>Do you want to unlock the training room for 20 stardust?</En> -->
+  <LockedDoorTrainingRoom.Unlock>فتح</LockedDoorTrainingRoom.Unlock> <!-- <En>Unlock</En> -->
+
+  <LockedMemoryDoor.label>باب الذاكرة</LockedMemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <LockedMemoryDoor.description>باب لا يمكن فتحه إلا بجمع كل قطع الذاكرة الأربع.</LockedMemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <LockedPuzzleDoor.label>باب الأحجية</LockedPuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <LockedPuzzleDoor.description>باب يمكن فتحه بجمع كل قطع الأحجية العشرة. توجد قطعة أحجية واحدة في كل طابق من الزنزانة، ويمكنك العثور على قطعة واحدة فقط في كل محاولة. هذا يعني أن القطعة الأخيرة ستكون في الطابق العاشر.</LockedPuzzleDoor.description> <!-- <En>A door which can be unlocked by collecting all 10 puzzle pieces. There's one puzzle piece on every dungeon floor, and you can only find one piece per run. This means that the last one will be on the 10th floor.</En> -->
+
+  <MagicMirror.label>مرآة سحرية</MagicMirror.label> <!-- <En>magic mirror</En> -->
+  <MagicMirror.description>غير سماتك هنا.</MagicMirror.description> <!-- <En>Change your traits here.</En> -->
+
+  <MemoryDoor.label>باب الذاكرة</MemoryDoor.label> <!-- <En>Memory Door</En> -->
+  <MemoryDoor.description>باب لا يمكن فتحه إلا بجمع كل قطع الذاكرة الأربع.</MemoryDoor.description> <!-- <En>A door which can only be unlocked by collecting all 4 Memory Pieces.</En> -->
+
+  <MemoryPiece1Status.label>قطعة ذاكرة</MemoryPiece1Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece1Status.description>قطعة ذاكرة غير معروفة.</MemoryPiece1Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece2Status.label>قطعة ذاكرة</MemoryPiece2Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece2Status.description>قطعة ذاكرة غير معروفة.</MemoryPiece2Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece3Status.label>قطعة ذاكرة</MemoryPiece3Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece3Status.description>قطعة ذاكرة غير معروفة.</MemoryPiece3Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <MemoryPiece4Status.label>قطعة ذاكرة</MemoryPiece4Status.label> <!-- <En>Memory Piece</En> -->
+  <MemoryPiece4Status.description>قطعة ذاكرة غير معروفة.</MemoryPiece4Status.description> <!-- <En>An unknown Memory Piece.</En> -->
+
+  <NewRunStaircase.label>درج</NewRunStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunStaircase.description>درج يؤدي إلى الزنزانة.</NewRunStaircase.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <NewRunWithSeedStaircase.label>درج</NewRunWithSeedStaircase.label> <!-- <En>staircase</En> -->
+  <NewRunWithSeedStaircase.description>درج يؤدي إلى الزنزانة ويسمح لك باستخدام بذرة عالم محددة. يتم تعطيل كل تقدم الردهة والمهام في هذه الزنزانة.</NewRunWithSeedStaircase.description> <!-- <En>A staircase leading to the dungeon which lets you use a specific world seed. All lobby progress and quests are disabled in this dungeon.</En> -->
+
+  <PrivateRoomSign.label>لافتة الغرفة الخاصة</PrivateRoomSign.label> <!-- <En>private room sign</En> -->
+  <PrivateRoomSign.description>غرفتك الخاصة. عندما تشتريها، بالطبع.</PrivateRoomSign.description> <!-- <En>Your private room. Once you buy it, that is.</En> -->
+
+  <PuzzleDoor.label>باب الأحجية</PuzzleDoor.label> <!-- <En>puzzle door</En> -->
+  <PuzzleDoor.description>باب تم فتحه بجمع كل قطع الأحجية.</PuzzleDoor.description> <!-- <En>A door which has been unlocked by collecting all the puzzle pieces.</En> -->
+
+  <PuzzleRoomSign.label>لافتة غرفة الأحجية</PuzzleRoomSign.label> <!-- <En>puzzle room sign</En> -->
+  <PuzzleRoomSign.description>غرفة غامضة.</PuzzleRoomSign.description> <!-- <En>A mysterious room.</En> -->
+
+  <QuestLog.label>لوحة المهام</QuestLog.label> <!-- <En>quest board</En> -->
+  <QuestLog.description>شاهد كل المهام المتاحة والمكتملة.</QuestLog.description> <!-- <En>See all available and completed quests.</En> -->
+
+  <ShopRoomSign.label>لافتة المتجر</ShopRoomSign.label> <!-- <En>shop sign</En> -->
+  <ShopRoomSign.description>يوجد متجر هنا. يمكنك إنفاق غبار النجوم لشراء تعزيزات لمحاولاتك القادمة.</ShopRoomSign.description> <!-- <En>There's a shop here. You can spend stardust to buy boosts for your next runs.</En> -->
+
+  <Sky.label>سماء</Sky.label> <!-- <En>sky</En> -->
+  <Sky.description>منظر جميل.</Sky.description> <!-- <En>A nice view.</En> -->
+
+  <Skybox.label>سماء</Skybox.label> <!-- <En>sky</En> -->
+  <Skybox.description>منظر جميل.</Skybox.description> <!-- <En>A nice view.</En> -->
+
+  <StaircaseLocked.label>درج</StaircaseLocked.label> <!-- <En>staircase</En> -->
+  <StaircaseLocked.description>درج يؤدي إلى الزنزانة.</StaircaseLocked.description> <!-- <En>A staircase leading to the dungeon.</En> -->
+
+  <StatsBoard.label>لوحة الإحصائيات</StatsBoard.label> <!-- <En>stats board</En> -->
+  <StatsBoard.description>شاهد كل إحصائياتك.</StatsBoard.description> <!-- <En>See all your stats.</En> -->
+
+  <TrainingRoomSign.label>لافتة غرفة التدريب</TrainingRoomSign.label> <!-- <En>training room sign</En> -->
+  <TrainingRoomSign.description>توجد غرفة تدريب هنا. يمكنك التدرب ضد أنواع مختلفة من الأعداء.</TrainingRoomSign.description> <!-- <En>There's a training room here. You can train against various kinds of enemies.</En> -->
+
+  <TrainingRoomStaircase.label>درج</TrainingRoomStaircase.label> <!-- <En>staircase</En> -->
+  <TrainingRoomStaircase.description>درج يؤدي إلى غرفة التدريب. تدرب ضد الأعداء والزعماء.</TrainingRoomStaircase.description> <!-- <En>A staircase leading to the training room. Train against enemies and bosses.</En> -->
+
+  <TrashPile.label>كومة قمامة</TrashPile.label> <!-- <En>trash pile</En> -->
+  <TrashPile.description>كومة قمامة تسد هذه الخلية. استخدم غبار النجوم لإزالتها بشكل دائم.</TrashPile.description> <!-- <En>A pile of trash blocking this cell. Use stardust to permanently remove it.</En> -->
+  <TrashPile.DoYouWantToCleanUpThis>هل تريد تنظيف كومة القمامة هذه مقابل 40 من غبار النجوم؟</TrashPile.DoYouWantToCleanUpThis> <!-- <En>Do you want to clean up this trash pile for 40 stardust?</En> -->
+  <TrashPile.CleanUp>تنظيف</TrashPile.CleanUp> <!-- <En>Clean up</En> -->
+
+  <WallLamp.label>مصباح حائط</WallLamp.label> <!-- <En>wall lamp</En> -->
+  <WallLamp.description>مصباح حائط أنيق.</WallLamp.description> <!-- <En>A stylish wall lamp.</En> -->
+
+</SpecTranslations>

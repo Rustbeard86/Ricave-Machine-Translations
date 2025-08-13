@@ -1,0 +1,57 @@
+<SpecTranslations>
+
+  <BodyPartsDamage.label>นักกายวิภาค</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>สร้างความเสียหายเพิ่มขึ้น 30% เมื่อโจมตีส่วนของร่างกายโดยตรง</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>เหนียวเหนอะหนะ</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>มีโอกาส 50% ที่จะพันธนาการใครก็ตามที่โจมตีคุณเป็นเวลา 1 เทิร์นโดยอัตโนมัติ</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>กันระเบิด</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>ได้รับความเสียหายจากการระเบิดน้อยลง 80%</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>ฟื้นตัวเร็ว</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>การฟื้นฟูพลังชีวิตตามธรรมชาติเร็วขึ้นสองเท่า</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>กระฉับกระเฉง</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>การฟื้นฟูค่าความแข็งแกร่งตามธรรมชาติเร็วขึ้นสองเท่า</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>พลังชีวิต</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>ได้รับ +1 พลังชีวิตสูงสุด</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>จอมเวท</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>ได้รับ +1 มานาสูงสุด และได้รับความเสียหายจากเวทมนตร์น้อยลง 50%</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>นักกีฬา</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>ได้รับ +2 ค่าความแข็งแกร่งสูงสุด</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>นักสะเดาะกุญแจ</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>เปิดหีบสีเขียว, ภาชนะโบราณ, และประตูหลวงได้โดยไม่ต้องหากุญแจ และยังสามารถเปิดกรงได้โดยไม่ต้องเอาชนะบอสก่อน</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>นักต่อรอง</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>เจ้าของร้านขายสินค้าในราคาที่ถูกลง 50% และนักพเนจรจะระบุไอเทมโดยใช้ทองน้อยลง 50%</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>นักชิม</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>อาหารฟื้นฟู HP ได้มากกว่าปกติสองเท่า</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>นักเก็บของ</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>ค้นหาเนื้อดิบในดันเจี้ยนได้มากขึ้น</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>โจร</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>ค้นหากับดักที่สามารถวางได้ในดันเจี้ยนมากขึ้น</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>กันการตก</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>กระโดดจากความสูงเท่าใดก็ได้โดยไม่ได้รับความเสียหายจากการตก นอกจากนี้คุณยังตกลงมาเร็วขึ้นด้วย</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>ปัดป้องการโจมตี</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>ความเสียหายที่ป้องกันด้วยโล่จะถูกเบี่ยงเบนไปยังศัตรูแบบสุ่มที่อยู่ติดกับคุณ โดยไม่รวมผู้โจมตี</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>ผู้เชี่ยวชาญโล่</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>การใช้โล่ใช้ค่าความแข็งแกร่งน้อยลง 50%</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>นักพรต</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>คุณไม่จำเป็นต้องกินบ่อย - ใช้เวลานานขึ้นสองเท่ากว่าจะหิว</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>โบนัสเมื่อถูกล้อม</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>สร้างความเสียหายเพิ่มขึ้น 25% ตราบใดที่มีศัตรูอย่างน้อย 2 ตัวอยู่ติดกับคุณ</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

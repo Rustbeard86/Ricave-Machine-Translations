@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>thêm trạng thái</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>Mục tiêu sẽ nhận một trạng thái mới.</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>lên mục tiêu: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>thêm hiệu ứng</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>Mục tiêu sẽ nhận một hiệu ứng mới.</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>thêm hiệu ứng: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>trói vào cọc xích</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>Trói mục tiêu vào một cọc xích.</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>chặn cửa</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>Chặn một cánh cửa. Cách duy nhất để đi qua những cánh cửa bị chặn là phá hủy chúng.</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>chớp sáng gây mù</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>Làm mù tất cả những ai đang nhìn thấy bạn.</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>chớp sáng gây mù {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>đào hang</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>Ẩn mình dưới lòng đất.</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>đổi thuốc lấy giấy cuộn</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>Bạn sẽ nhận được một giấy cuộn ngẫu nhiên để đổi lấy bất kỳ loại thuốc nào.</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>sập trần nhà</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>Trần nhà sẽ sập nếu không có trụ đỡ nào khác.</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>sập trần nhà ({0} {1} sát thương)</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>sập trần nhà (một ô)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>Trần nhà ở đây sẽ sập và gây hại cho tất cả những ai ở bên dưới.</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>sập trần nhà (một ô) ({0} {1} sát thương)</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>thu thập bụi sao</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>Thu thập bụi sao từ chiến lợi phẩm.</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>thu thập bụi sao x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>nấu ăn</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>Nấu một ít thức ăn.</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>phù phép trang bị (pha lê)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>Áp dụng một bùa phép lên trang bị bạn chọn.</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>dâng vật phẩm bị nguyền</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>Dâng vật phẩm bị nguyền cho tượng quỷ để đổi lấy phần thưởng.</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>gây sát thương</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>Mục tiêu sẽ mất một lượng máu nhất định trừ đi giáp của họ.</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1} sát thương</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>phá hủy</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>Mục tiêu sẽ bị phá hủy.</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>đào</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>Đào những thứ như đất.</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>phá hủy vật thể dễ vỡ</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>Phá hủy các vật thể dễ vỡ như tường gạch và cổng.</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>phá hủy kính</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>Phá hủy các vật thể làm bằng kính như cửa sổ và sàn kính.</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>khai thác</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>Khai thác các vật thể có thể khai thác, như pha lê.</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>phá hủy bộ phận cơ thể</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>Phá hủy một bộ phận cơ thể ngẫu nhiên.</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>nhận phần thưởng</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>Nhận một phần thưởng ngẫu nhiên.</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>nhân đôi</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>Một vật phẩm bạn chọn sẽ được nhân đôi hoặc bị phá hủy.</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>nhân đôi (cơ hội {0})</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>phù phép trang bị</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>Áp dụng một bùa phép ngẫu nhiên lên trang bị bạn chọn.</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>dập tắt</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>Dập tắt mọi ngọn lửa.</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>cho ăn</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>Làm dịu cơn đói của bạn.</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>độ no {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>kết thúc lượt chơi</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>Kết thúc lượt chơi này và trở về sảnh chờ.</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>câu cá</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>Bắt một con cá.</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>nhận điểm kỹ năng</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>Nhận một điểm kỹ năng.</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>đánh bạc</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>Cược tiền của bạn và xem liệu bạn có thắng không.</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>hồi máu</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>Mục tiêu sẽ được hồi lại một lượng máu nhất định.</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>hồi {0} máu</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>giám định vật phẩm</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>Giám định một vật phẩm.</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>giám định vật phẩm</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>Giám định các vật phẩm (giá trị giám định tương đương với số lượt được chỉ định).</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>giám định vật phẩm {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>gây tiếng động</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>Đánh thức các sinh vật đang ngủ trong bán kính nhất định.</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>mở két sắt điện tử</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>Mở một két sắt điện tử ở đâu đó.</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>trả</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>Bạn sẽ phải đưa đi một số vật phẩm nhất định.</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>trả {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>kéo</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>Mục tiêu sẽ bị kéo về phía người thi triển.</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>kéo {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>đẩy</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>Mục tiêu sẽ bị đẩy lùi lại vài ô.</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>đẩy {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>đẩy ngẫu nhiên</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>Mục tiêu sẽ bị đẩy theo một hướng ngẫu nhiên.</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>đẩy ngẫu nhiên {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>hiệu ứng ngẫu nhiên</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>Áp dụng một hiệu ứng ngẫu nhiên.</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>nhận vật phẩm</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>Một vật phẩm sẽ được trao cho người dùng.</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>nhận {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>xóa trạng thái</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>Một trạng thái nhất định sẽ được xóa khỏi mục tiêu.</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>xóa {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>giải lời nguyền</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>Giải lời nguyền khỏi một vật phẩm trong kho đồ của mục tiêu. Điều này sẽ ưu tiên giải lời nguyền khỏi các vật phẩm đã trang bị.</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>xóa trạng thái</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>Một trạng thái nhất định sẽ được xóa khỏi mục tiêu.</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>xóa {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>nghiên cứu</Research.label> <!-- <En>research</En> -->
+  <Research.description>Nghiên cứu một vật thể.</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>đặt lại lượt sạc đồng hồ</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>Lượt sạc đồng hồ của bạn sẽ được đặt về không, vì vậy bạn sẽ không thể tua lại thời gian trong một lúc.</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>hồi mana</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>Mục tiêu sẽ được hồi lại mana.</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>hồi {0} mana</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>phục hồi các bộ phận cơ thể bị thiếu</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>Mục tiêu sẽ được phục hồi tất cả các bộ phận cơ thể bị thiếu.</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>hồi thể lực</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>Mục tiêu sẽ được hồi lại thể lực.</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>hồi {0} thể lực</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>trở về sảnh chờ</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>Trở về sảnh chờ. Lượt chơi hiện tại của bạn sẽ kết thúc, nhưng bạn sẽ giữ lại được một số thứ.</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>tua lại thời gian</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>Quay ngược thời gian.</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>tua lại {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>đốt cháy</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>Đốt cháy một vật thể dễ cháy.</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>đốt cháy ({0} máu)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>giải thoát linh hồn</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>Giải thoát một linh hồn.</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>triệu hồi một vật thể</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>Một vật thể mới sẽ xuất hiện gần đó.</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>triệu hồi {0}</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>triệu hồi kẻ địch ngẫu nhiên</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>Một kẻ địch ngẫu nhiên sẽ xuất hiện gần đó.</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>triệu hồi một vật thể</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>Một vật thể mới sẽ xuất hiện gần đó.</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>triệu hồi {0}</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>trộm</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>Trộm một vật phẩm từ mục tiêu.</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>phục hồi các bộ phận cơ thể bị thiếu</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>Mục tiêu sẽ được phục hồi tất cả các bộ phận cơ thể bị thiếu.</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>dịch chuyển</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>Mục tiêu sẽ được dịch chuyển đến vị trí được chỉ định.</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>dịch chuyển đến vị trí ngẫu nhiên</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>Mục tiêu sẽ được dịch chuyển đến một vị trí ngẫu nhiên.</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>mở khóa</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>Mở khóa một vật phẩm, địa điểm hoặc phần thưởng mới.</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>mở khóa {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>nâng cấp độ</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>Nâng cấp độ của một vật phẩm.</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>nâng cấp hiệu ứng ngọc</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>Áp dụng một tăng cường vĩnh viễn.</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>

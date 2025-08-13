@@ -1,0 +1,64 @@
+<SpecTranslations>
+
+  <AllIn.label>Alles oder nichts</AllIn.label> <!-- <En>all in</En> -->
+  <AllIn.description>Beginne mit zusätzlichen Fähigkeitspunkten, aber du kannst niemals weitere erhalten.</AllIn.description> <!-- <En>Start with extra skill points, but you can't acquire more of them ever.</En> -->
+  <AllIn.goodEffects>Beginne mit 3 Fähigkeitspunkten</AllIn.goodEffects> <!-- <En><li>Start with 3 skill points</li></En> -->
+  <AllIn.badEffects>Kann keine weiteren Fähigkeitspunkte erhalten</AllIn.badEffects> <!-- <En><li>Can't get more skill points</li></En> -->
+
+  <Angel.label>Engel</Angel.label> <!-- <En>angel</En> -->
+  <Angel.description>Kann fliegen und dem Dämon mehr Schaden zufügen, ist aber anfälliger für Feuer-, Gift- und Magieschaden.</Angel.description> <!-- <En>Be able to fly and deal more damage to the Demon at the cost of fire, poison, and magic damage vulnerability.</En> -->
+
+  <Berserker.label_2>Berserker</Berserker.label_2> <!-- <En>berserker</En> -->
+  <Berserker.description_2>Verursacht nach jedem würdigen Kill vorübergehend mehr Schaden, wird aber auch anfälliger.</Berserker.description_2> <!-- <En>Temporarily deal more damage after each worthy kill, but also become more vulnerable.</En> -->
+  <Berserker.goodEffects>Verursacht 25 % mehr phys. Schaden für 6 Züge nach einem würdigen Kill</Berserker.goodEffects> <!-- <En><li>Deal 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+  <Berserker.badEffects>Erhält 25 % mehr phys. Schaden für 6 Züge nach einem würdigen Kill</Berserker.badEffects> <!-- <En><li>Get 25% more phys. damage for 6 turns after a worthy kill</li></En> -->
+
+  <BossHunter.label>Bossjäger</BossHunter.label> <!-- <En>boss hunter</En> -->
+  <BossHunter.description>Verursacht mehr Schaden bei allen Bossen, aber sie beginnen wach.</BossHunter.description> <!-- <En>Deal more damage to all bosses, but they'll start awake.</En> -->
+  <BossHunter.badEffects>Alle Bosse beginnen wach</BossHunter.badEffects> <!-- <En><li>All bosses start awake</li></En> -->
+
+  <Bulky.label>Massig</Bulky.label> <!-- <En>bulky</En> -->
+  <Bulky.description>Erhält mehr max. LP pro Stufe, aber die Bewegungen sind lauter.</Bulky.description> <!-- <En>Gain more max HP per level at the cost of louder movement.</En> -->
+
+  <Explorer.label>Entdecker</Explorer.label> <!-- <En>explorer</En> -->
+  <Explorer.description>Beginne mit zusätzlicher Ausrüstung und finde mehr Gold, aber die maximale Ausdauer und das maximale Mana sind reduziert.</Explorer.description> <!-- <En>Start with extra gear and find more gold at the cost of reduced max stamina and mana.</En> -->
+
+  <Giant.label>Riese</Giant.label> <!-- <En>giant</En> -->
+  <Giant.description>Werde immun gegen Stoßen und Ziehen und erhalte einen kleinen Bonus auf max. LP, aber die Hungerrate, der Fallschaden und die Preise sind erhöht.</Giant.description> <!-- <En>Become immune to pushing and pulling, and gain a small boost to max HP at the cost of increased hunger rate, higher fall damage, and higher prices.</En> -->
+
+  <Insectoid.label>Insektoid</Insectoid.label> <!-- <En>insectoid</En> -->
+  <Insectoid.description>Werde ein Freund der Spinnen und erhalte etwas Giftresistenz, aber Wanderer sind dir feindlich gesinnt und du bist anfällig für Feuer.</Insectoid.description> <!-- <En>Become a friend to spiders and gain some poison resistance at the cost of wanderers being hostile to you and fire vulnerability.</En> -->
+
+  <LastStand.label>Letztes Gefecht</LastStand.label> <!-- <En>last stand</En> -->
+  <LastStand.description>Verursacht mehr Schaden bei niedrigen LP, aber die Ausdauer regeneriert langsamer.</LastStand.description> <!-- <En>Deal more damage when you're at low HP at the cost of slower stamina regeneration.</En> -->
+
+  <LizardSkin.label>Echsenhaut</LizardSkin.label> <!-- <En>lizard skin</En> -->
+  <LizardSkin.description>Erhält Immunität gegen Gift, Blutung und Knochenbrüche und heilt schneller, aber die max. LP sind halbiert.</LizardSkin.description> <!-- <En>Gain poison, bleeding, and bone breaking immunity, and heal faster at the cost of halved max HP.</En> -->
+
+  <MoleRat.label>Mullratte</MoleRat.label> <!-- <En>mole-rat</En> -->
+  <MoleRat.description>Kann graben und erhält etwas Elementarresistenz, aber erhält weniger max. LP pro Stufe.</MoleRat.description> <!-- <En>Be able to dig and gain some elemental resistance at the cost of gaining less max HP per level.</En> -->
+  <MoleRat.goodEffects>Kann ohne Schaufel graben</MoleRat.goodEffects> <!-- <En><li>Can dig without shovel</li></En> -->
+
+  <NightOwl.label>Nachteule</NightOwl.label> <!-- <En>night owl</En> -->
+  <NightOwl.description>Sieht nachts besser, aber tagsüber schlechter.</NightOwl.description> <!-- <En>See better at night, but worse during the day.</En> -->
+  <NightOwl.goodEffects>+1 Sichtweite von 19:00 bis 7:00 Uhr</NightOwl.goodEffects> <!-- <En><li>+1 vision range from 19:00 to 7:00</li></En> -->
+  <NightOwl.badEffects>-1 Sichtweite von 7:00 bis 19:00 Uhr</NightOwl.badEffects> <!-- <En><li>-1 vision range from 7:00 to 19:00</li></En> -->
+
+  <Pacifist.label_2>Pazifist</Pacifist.label_2> <!-- <En>pacifist</En> -->
+  <Pacifist.description>Alle Shop-Gegenstände sind kostenlos und du steigst doppelt so schnell auf, aber jeder würdige Kill kostet dich 1 LP.</Pacifist.description> <!-- <En>All shop items are free and you level up twice as fast, but each worthy kill costs you 1 HP.</En> -->
+
+  <Scary.label>Furchteinflößend</Scary.label> <!-- <En>scary</En> -->
+  <Scary.description>Alle Gegner geraten in Panik, wenn sie von dir geweckt werden, aber die Preise sind höher, Kulte sind dir feindlich gesinnt und die maximale Ausdauer ist reduziert. Zusätzlich folgen dir alle Geister und hinterlassen keine Beute.</Scary.description> <!-- <En>All enemies panic if awoken by you at the cost of higher prices, cults being hostile to you, and reduced max stamina. Additionally, all ghosts will follow you and drop no loot.</En> -->
+  <Scary.goodEffects>Gegner geraten für 3 Züge in Panik, wenn sie von dir geweckt werden</Scary.goodEffects> <!-- <En><li>Enemies panic for 3 turns if awoken by you</li></En> -->
+  <Scary.badEffects>Geister folgen dir und hinterlassen keine Beute</Scary.badEffects> <!-- <En><li>Ghosts follow you and drop no loot</li></En> -->
+
+  <Shaman.label>Schamane</Shaman.label> <!-- <En>shaman</En> -->
+  <Shaman.description>Erhält einen Manapunkt für jeden würdigen Kill, hat aber weniger Inventarplätze.</Shaman.description> <!-- <En>Gain a mana point for each worthy kill at the cost of having fewer inventory slots.</En> -->
+
+  <Vampire.label>Vampir</Vampire.label> <!-- <En>vampire</En> -->
+  <Vampire.description>Erhält einen Lebenspunkt für jeden würdigen Kill zurück, aber die Gesundheitsregeneration ist tagsüber deaktiviert, du bist anfällig für Feuer und Hunde sind dir feindlich gesinnt.</Vampire.description> <!-- <En>Regain one hit point for every worthy kill at the cost of disabled health regeneration during the day, fire vulnerability, and dogs being hostile to you.</En> -->
+  <Vampire.badEffects><li>Keine Lebenspunkte-Regeneration von 7:00 bis 19:00 Uhr</li><li>-1 Sichtweite von 7:00 bis 19:00 Uhr</li><li>Hunden feindlich gesinnt</li></Vampire.badEffects> <!-- <En><li>No health regen from 7:00 to 19:00</li>
+  <li>-1 vision range from 7:00 to 19:00</li>
+  <li>Hostile to dogs</li></En> -->
+
+</SpecTranslations>

@@ -1,0 +1,57 @@
+<SpecTranslations>
+
+  <BodyPartsDamage.label>해부학자</BodyPartsDamage.label> <!-- <En>anatomist</En> -->
+  <BodyPartsDamage.description>신체 부위를 직접 조준할 때 30%의 추가 피해를 줍니다.</BodyPartsDamage.description> <!-- <En>Deal 30% more damage when directly targeting a body part.</En> -->
+
+  <EntangleOnAttacked.label>끈끈함</EntangleOnAttacked.label> <!-- <En>sticky</En> -->
+  <EntangleOnAttacked.description>자신을 공격하는 적을 50% 확률로 1턴 동안 자동으로 옭아맵니다.</EntangleOnAttacked.description> <!-- <En>50% chance to automatically entangle anyone who attacks you for 1 turn.</En> -->
+
+  <ExplosionProtection.label>방폭</ExplosionProtection.label> <!-- <En>blastproof</En> -->
+  <ExplosionProtection.description>폭발로 받는 피해가 80% 감소합니다.</ExplosionProtection.description> <!-- <En>Receive 80% less explosion damage.</En> -->
+
+  <FasterHealing.label>빠른 회복</FasterHealing.label> <!-- <En>quick recovery</En> -->
+  <FasterHealing.description>자연 체력 재생 속도가 두 배 빨라집니다.</FasterHealing.description> <!-- <En>Natural health regeneration is twice as fast.</En> -->
+
+  <FasterStaminaRegen.label>활력</FasterStaminaRegen.label> <!-- <En>vigorous</En> -->
+  <FasterStaminaRegen.description>자연 스태미나 재생 속도가 두 배 빨라집니다.</FasterStaminaRegen.description> <!-- <En>Natural stamina regeneration is twice as fast.</En> -->
+
+  <IncreasedMaxHP.label>생명력</IncreasedMaxHP.label> <!-- <En>vitality</En> -->
+  <IncreasedMaxHP.description>최대 체력이 +1 증가합니다.</IncreasedMaxHP.description> <!-- <En>Get +1 max HP.</En> -->
+
+  <IncreasedMaxMana.label>마법사</IncreasedMaxMana.label> <!-- <En>mage</En> -->
+  <IncreasedMaxMana.description>최대 마나가 +1 증가하고 마법 피해를 50% 덜 받습니다.</IncreasedMaxMana.description> <!-- <En>Get +1 max mana and receive 50% less magic damage.</En> -->
+
+  <IncreasedMaxStamina.label>운동선수</IncreasedMaxStamina.label> <!-- <En>athlete</En> -->
+  <IncreasedMaxStamina.description>최대 스태미나가 +2 증가합니다.</IncreasedMaxStamina.description> <!-- <En>Get +2 max stamina.</En> -->
+
+  <Lockpicking.label>자물쇠 전문가</Lockpicking.label> <!-- <En>lockpicker</En> -->
+  <Lockpicking.description>열쇠 없이 초록색 상자, 고대의 보관함, 왕실의 문을 열 수 있습니다. 또한, 보스를 먼저 처치하지 않고도 우리를 열 수 있습니다.</Lockpicking.description> <!-- <En>Open green chests, ancient containers, and royal doors without having to find any keys. Also, open cages without having to defeat the boss first.</En> -->
+
+  <LowerPrices.label>흥정가</LowerPrices.label> <!-- <En>bargainer</En> -->
+  <LowerPrices.description>상점 주인이 50% 할인된 가격으로 아이템을 판매하고, 방랑자가 50% 저렴한 금화로 아이템을 감정해 줍니다.</LowerPrices.description> <!-- <En>Shopkeepers sell items at 50% lower prices and wanderers identify items for 50% less gold.</En> -->
+
+  <MoreHealthFromFood.label>미식가</MoreHealthFromFood.label> <!-- <En>gourmand</En> -->
+  <MoreHealthFromFood.description>음식으로 회복되는 체력이 평소보다 두 배 많아집니다.</MoreHealthFromFood.description> <!-- <En>Food recovers twice as much HP as usual.</En> -->
+
+  <MoreRawMeat.label>수집가</MoreRawMeat.label> <!-- <En>scavenger</En> -->
+  <MoreRawMeat.description>던전에서 더 많은 날고기를 발견합니다.</MoreRawMeat.description> <!-- <En>Find more raw meat in the dungeon.</En> -->
+
+  <MoreTraps.label_2>도적</MoreTraps.label_2> <!-- <En>rogue</En> -->
+  <MoreTraps.description_2>던전에서 설치형 덫을 더 많이 발견합니다.</MoreTraps.description_2> <!-- <En>Find more deployable traps in the dungeon.</En> -->
+
+  <NoFallDamage.label>안전 낙하</NoFallDamage.label> <!-- <En>fallproof</En> -->
+  <NoFallDamage.description>어떤 높이에서 뛰어내려도 낙하 피해를 받지 않습니다. 추가로, 더 빨리 떨어집니다.</NoFallDamage.description> <!-- <En>Jump from any height with no fall damage. Additionally, you fall faster.</En> -->
+
+  <ShieldDeflect.label>공격 쳐내기</ShieldDeflect.label> <!-- <En>deflect attacks</En> -->
+  <ShieldDeflect.description>방패로 막은 피해가 공격자를 제외한 인접한 무작위 적에게 반사됩니다.</ShieldDeflect.description> <!-- <En>Damage blocked with a shield is deflected onto a random enemy adjacent to you, excluding the attacker.</En> -->
+
+  <ShieldStamina.label>방패 전문가</ShieldStamina.label> <!-- <En>shield expert</En> -->
+  <ShieldStamina.description>방패 사용 시 소모되는 스태미나가 50% 감소합니다.</ShieldStamina.description> <!-- <En>Using shields costs 50% less stamina.</En> -->
+
+  <SlowerHunger.label>고행자</SlowerHunger.label> <!-- <En>ascetic</En> -->
+  <SlowerHunger.description>식사를 자주 할 필요가 없습니다. 허기를 느끼기까지 두 배 더 오래 걸립니다.</SlowerHunger.description> <!-- <En>You don't have to eat as much - take twice as long to get hungry.</En> -->
+
+  <SurroundedBonus.label>포위 보너스</SurroundedBonus.label> <!-- <En>surrounded bonus</En> -->
+  <SurroundedBonus.description>주변에 2명 이상의 적이 있는 동안 25%의 추가 피해를 줍니다.</SurroundedBonus.description> <!-- <En>Deal 25% more damage as long as there are at least 2 enemies adjacent to you.</En> -->
+
+</SpecTranslations>

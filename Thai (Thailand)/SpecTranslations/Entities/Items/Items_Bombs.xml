@@ -1,0 +1,21 @@
+<SpecTranslations>
+
+  <Bomb_Damage.label>ระเบิดทำลายล้าง</Bomb_Damage.label> <!-- <En>explosive bomb</En> -->
+  <Bomb_Damage.description>เป้าหมายและทุกคนที่อยู่ติดกันจะได้รับความเสียหาย</Bomb_Damage.description> <!-- <En>The target and everyone adjacent will take damage.</En> -->
+
+  <Bomb_Drunkenness.label>ระเบิดมึนเมา</Bomb_Drunkenness.label> <!-- <En>drunkenness bomb</En> -->
+  <Bomb_Drunkenness.description>เป้าหมายและทุกคนที่อยู่ติดกันจะมึนเมา</Bomb_Drunkenness.description> <!-- <En>The target and everyone adjacent will become drunk.</En> -->
+
+  <Bomb_Fire.label>ระเบิดเพลิง</Bomb_Fire.label> <!-- <En>fire bomb</En> -->
+  <Bomb_Fire.description>การระเบิดจะทำให้เกิดไฟในทุกช่องที่อยู่ติดกัน</Bomb_Fire.description> <!-- <En>The explosion will start fires in all adjacent cells.</En> -->
+
+  <Bomb_Freeze.label>ระเบิดเยือกแข็ง</Bomb_Freeze.label> <!-- <En>freeze bomb</En> -->
+  <Bomb_Freeze.description>เป้าหมายและทุกคนที่อยู่ติดกันจะถูกแช่แข็ง</Bomb_Freeze.description> <!-- <En>The target and everyone adjacent will become frozen.</En> -->
+
+  <Bomb_Poison.label>ระเบิดพิษ</Bomb_Poison.label> <!-- <En>poison bomb</En> -->
+  <Bomb_Poison.description>กลุ่มควันพิษจะปรากฏขึ้นในทุกช่องที่อยู่ติดกัน</Bomb_Poison.description> <!-- <En>A poison cloud will appear in every adjacent cell.</En> -->
+
+  <Bomb_Smoke.label>ระเบิดควัน</Bomb_Smoke.label> <!-- <En>smoke bomb</En> -->
+  <Bomb_Smoke.description>กลุ่มควันจะปรากฏขึ้นในทุกช่องที่อยู่ติดกัน</Bomb_Smoke.description> <!-- <En>A smoke cloud will appear in every adjacent cell.</En> -->
+
+</SpecTranslations>

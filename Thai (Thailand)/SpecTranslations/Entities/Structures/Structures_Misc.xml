@@ -1,0 +1,346 @@
+<SpecTranslations>
+
+  <BarredDoor.label>ประตูติดสลัก</BarredDoor.label> <!-- <En>barred door</En> -->
+  <BarredDoor.description>ประตูติดสลัก ทางเดียวที่จะผ่านไปได้คือต้องทำลายมัน</BarredDoor.description> <!-- <En>A barred door. The only way to get through is to destroy it.</En> -->
+
+  <Barrel.label>ถังไม้</Barrel.label> <!-- <En>barrel</En> -->
+  <Barrel.description>ถังไม้เก่า อาจมีของที่มีประโยชน์อยู่ข้างใน</Barrel.description> <!-- <En>An old barrel. May contain something useful.</En> -->
+
+  <Bars.label>ลูกกรง</Bars.label> <!-- <En>bars</En> -->
+  <Bars.description>ลูกกรงเหล็ก</Bars.description> <!-- <En>Metal bars.</En> -->
+
+  <BeerBarrel.label>ถังเบียร์</BeerBarrel.label> <!-- <En>beer barrel</En> -->
+  <BeerBarrel.description>ถังที่เต็มไปด้วยเบียร์ หากถูกทำลายจะทำให้ทุกคนที่อยู่ใกล้ ๆ เมา</BeerBarrel.description> <!-- <En>A barrel full of beer. It'll make everyone nearby drunk if destroyed.</En> -->
+
+  <BigCrate.label>ลังไม้ใบใหญ่</BigCrate.label> <!-- <En>big crate</En> -->
+  <BigCrate.description>ลังไม้เก่า อาจมีของที่มีประโยชน์อยู่ข้างใน</BigCrate.description> <!-- <En>An old crate. May contain something useful.</En> -->
+
+  <BigMagicTrap.label>กับดักเวทมนตร์ขนาดใหญ่</BigMagicTrap.label> <!-- <En>big magic trap</En> -->
+  <BigMagicTrap.description>กับดักเวทมนตร์ร้ายแรง ทางที่ดีคือโยนคนอื่นเข้าไปแทน</BigMagicTrap.description> <!-- <En>A deadly magic trap. Best to throw someone else into it.</En> -->
+
+  <BigPoisonTrap.label>กับดักพิษขนาดใหญ่</BigPoisonTrap.label> <!-- <En>big poison trap</En> -->
+  <BigPoisonTrap.description>กับดักพิษร้ายแรง ทางที่ดีคือโยนคนอื่นเข้าไปแทน</BigPoisonTrap.description> <!-- <En>A deadly poison trap. Best to throw someone else into it.</En> -->
+
+  <BlueCrystal.label>คริสตัลสีน้ำเงิน</BlueCrystal.label> <!-- <En>blue crystal</En> -->
+  <BlueCrystal.description>ขุดมันด้วยพลั่วแล้วนำไปใช้ร่ายมนตร์ใส่อาวุธของคุณเพื่อเพิ่มเอฟเฟกต์เวทมนตร์ คุณต้องรวบรวมคริสตัลสีเดียวกัน 2 ชิ้นเพื่อร่ายมนตร์ใส่อุปกรณ์ของคุณ</BlueCrystal.description> <!-- <En>Mine it with a pickaxe and use it to enchant your weapon with a magic effect. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <Bonfire.label>กองไฟ</Bonfire.label> <!-- <En>bonfire</En> -->
+  <Bonfire.description>คุณสามารถทำอาหารที่นี่ได้</Bonfire.description> <!-- <En>You can cook something here.</En> -->
+  <Bonfire.YouSeeABonfireInFront>คุณเห็นกองไฟอยู่ตรงหน้า\n\nคุณสามารถทำอาหารที่นี่ได้</Bonfire.YouSeeABonfireInFront> <!-- <En>You see a bonfire in front of you.\n\nYou can cook some food here.</En> -->
+
+  <Boulder.label>ก้อนหินใหญ่</Boulder.label> <!-- <En>boulder</En> -->
+  <Boulder.description>ก้อนหินใหญ่ขวางทางคุณอยู่</Boulder.description> <!-- <En>A big boulder blocking your path.</En> -->
+
+  <BrickWall.label>กำแพงอิฐ</BrickWall.label> <!-- <En>brick wall</En> -->
+  <BrickWall.description>กำแพงอิฐเก่านี้ดูไม่ค่อยมั่นคงนัก</BrickWall.description> <!-- <En>This old brick wall doesn't look very stable.</En> -->
+
+  <Bridge.label>สะพาน</Bridge.label> <!-- <En>bridge</En> -->
+  <Bridge.description>สะพานไม้ที่ติดไฟได้</Bridge.description> <!-- <En>A wooden, flammable bridge.</En> -->
+
+  <CeilingBars.label>ลูกกรงเพดาน</CeilingBars.label> <!-- <En>ceiling bars</En> -->
+  <CeilingBars.description>ลูกกรงเหล็กบนเพดาน</CeilingBars.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingBarsReinforced.label>ลูกกรงเพดาน (เสริมความแข็งแกร่ง)</CeilingBarsReinforced.label> <!-- <En>ceiling bars (reinforced)</En> -->
+  <CeilingBarsReinforced.description>ลูกกรงเหล็กบนเพดาน</CeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling.</En> -->
+
+  <CeilingSupport.label>เสาค้ำเพดาน</CeilingSupport.label> <!-- <En>ceiling support</En> -->
+  <CeilingSupport.description>ช่วยรับน้ำหนักของเพดาน</CeilingSupport.description> <!-- <En>Helps support the weight of the ceiling.</En> -->
+
+  <CeilingWithPipe.label>เพดานพร้อมท่อ</CeilingWithPipe.label> <!-- <En>ceiling with a pipe</En> -->
+  <CeilingWithPipe.description>เพดานที่มีท่อ</CeilingWithPipe.description> <!-- <En>A ceiling with a pipe.</En> -->
+
+  <Chain.label>โซ่</Chain.label> <!-- <En>chain</En> -->
+  <Chain.description>โซ่ที่ห้อยลงมาจากเพดาน</Chain.description> <!-- <En>A chain hanging from the ceiling.</En> -->
+
+  <ChainPost.label>เสาโซ่</ChainPost.label> <!-- <En>chain post</En> -->
+  <ChainPost.description>เสาหินที่มีโซ่ติดอยู่</ChainPost.description> <!-- <En>A stone post with a chain attached to it.</En> -->
+
+  <Chair.label>เก้าอี้</Chair.label> <!-- <En>chair</En> -->
+  <Chair.description>นั่งพักผ่อนในดันเจี้ยนที่สวยงามแห่งนี้</Chair.description> <!-- <En>Sit and relax in this beautiful dungeon.</En> -->
+
+  <Crates.label>ลังไม้</Crates.label> <!-- <En>crates</En> -->
+  <Crates.description>อาจจะมีหรือไม่มีของที่มีประโยชน์อยู่ข้างใน</Crates.description> <!-- <En>May or may not contain something useful.</En> -->
+
+  <CultistCircle.label>วงกลมของลัทธิ</CultistCircle.label> <!-- <En>cultist circle</En> -->
+  <CultistCircle.description>สัญลักษณ์แปลก ๆ บนพื้น ไม่ถูกกับน้ำมนต์</CultistCircle.description> <!-- <En>Some strange symbols on the floor. They don't go well with holy water.</En> -->
+
+  <CutGrass.label>หญ้าที่ถูกตัด</CutGrass.label> <!-- <En>cut grass</En> -->
+  <CutGrass.description>เศษหญ้า</CutGrass.description> <!-- <En>Grass remains.</En> -->
+
+  <CutsceneTrigger.label>ตัวกระตุ้นคัตซีน</CutsceneTrigger.label> <!-- <En>cutscene trigger</En> -->
+
+  <CyanWallLamp.label>โคมไฟติดผนังสีฟ้าอมเขียว</CyanWallLamp.label> <!-- <En>cyan wall lamp</En> -->
+  <CyanWallLamp.description>โคมไฟติดผนังสีฟ้าอมเขียวมีสไตล์</CyanWallLamp.description> <!-- <En>A stylish, cyan wall lamp.</En> -->
+
+  <DamagedCeilingBars.label>ลูกกรงเพดานที่เสียหาย</DamagedCeilingBars.label> <!-- <En>damaged ceiling bars</En> -->
+  <DamagedCeilingBars.description>ลูกกรงเหล็กบนเพดาน ดูเหมือนว่ามีใครบางคนพังมันเข้ามา</DamagedCeilingBars.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DamagedCeilingBarsReinforced.label>ลูกกรงเพดานที่เสียหาย (เสริมความแข็งแกร่ง)</DamagedCeilingBarsReinforced.label> <!-- <En>damaged ceiling bars (reinforced)</En> -->
+  <DamagedCeilingBarsReinforced.description>ลูกกรงเหล็กบนเพดาน ดูเหมือนว่ามีใครบางคนพังมันเข้ามา</DamagedCeilingBarsReinforced.description> <!-- <En>Metal bars in the ceiling. It looks like someone smashed through them.</En> -->
+
+  <DangerDoor.label>ประตูสีแดง</DangerDoor.label> <!-- <En>red door</En> -->
+  <DangerDoor.description>มีด่านท้าทายพิเศษอยู่หลังประตูบานนี้ แต่ระวังให้ดี มันอาจจะยากมาก!</DangerDoor.description> <!-- <En>There's an optional challenge behind this door. But beware, it may be really difficult!</En> -->
+  <DangerDoor.YouSeeARedDoorInFront>คุณเห็นประตูสีแดงอยู่ตรงหน้า\n\nมีด่านท้าทายพิเศษอยู่หลังประตูบานนั้น\n\nแต่ระวังให้ดี มันอาจจะยากมาก!</DangerDoor.YouSeeARedDoorInFront> <!-- <En>You see a red door in front of you.\n\nThere's an optional challenge behind it.\n\nBut beware, it may be really difficult!</En> -->
+  <DangerDoor.Open>เปิด</DangerDoor.Open> <!-- <En>Open</En> -->
+
+  <DescendTrigger.label>หลุม</DescendTrigger.label> <!-- <En>hole</En> -->
+  <DescendTrigger.description>หลุมนี้จะนำคุณไปยังชั้นล่างของดันเจี้ยน</DescendTrigger.description> <!-- <En>This hole will lead you to the lower level of this dungeon.</En> -->
+
+  <Dirt.label>กองดิน</Dirt.label> <!-- <En>dirt</En> -->
+  <Dirt.description>ใช้พลั่วขุดเพื่อเปิดทาง ใครจะรู้ว่าคุณจะเจออะไรที่นี่</Dirt.description> <!-- <En>Dig into it with a shovel to clear a path. Who knows what you can find here.</En> -->
+
+  <DiscoBall.label>ลูกบอลดิสโก้</DiscoBall.label> <!-- <En>disco ball</En> -->
+  <DiscoBall.description>ลูกบอลดิสโก้สีสันสดใส แต่มันมาทำอะไรที่นี่?</DiscoBall.description> <!-- <En>A colorful disco ball. But what is it doing here?</En> -->
+
+  <Door.label>ประตู</Door.label> <!-- <En>door</En> -->
+  <Door.description>การเปิดประตูนี้อาจเป็นการตัดสินใจที่ดีที่สุดในชีวิตของคุณ หรืออาจจะแย่ที่สุด คุณยังสามารถเลือกที่จะเตะมันแทน ซึ่งจะผลักศัตรูทั้งหมดที่ยืนอยู่อีกด้านหนึ่ง</Door.description> <!-- <En>Opening this door could be the best decision of your life, or the worst. You can also decide to kick it instead, which will push all enemies standing on the other side.</En> -->
+
+  <Fan.label>พัดลม</Fan.label> <!-- <En>fan</En> -->
+  <Fan.description>อย่างน้อยที่นี่ก็มีอากาศถ่ายเทบ้าง</Fan.description> <!-- <En>At least there's some ventilation here.</En> -->
+
+  <Fence.label>รั้ว</Fence.label> <!-- <En>fence</En> -->
+  <Fence.description>รั้วไม้ ทำให้คุณมองทะลุได้ แต่ผ่านไปไม่ได้</Fence.description> <!-- <En>A wooden fence. Lets you see through it, but not pass.</En> -->
+
+  <Fire.label_2>ไฟ</Fire.label_2> <!-- <En>fire</En> -->
+  <Fire.description>ตัวละครใดก็ตามที่ผ่านไปจะถูกไฟคลอก ไฟจะลามไปยังวัตถุไวไฟที่อยู่ติดกัน แต่ไม่ลามไปยังตัวละคร</Fire.description> <!-- <En>Any passing character will be set on fire. Fire spreads onto other adjacent flammable objects, but not characters.</En> -->
+
+  <Floor.label>พื้น</Floor.label> <!-- <En>floor</En> -->
+  <Floor.description>พื้น... หรือเพดาน ขึ้นอยู่กับว่าคุณยืนอยู่ตรงไหน</Floor.description> <!-- <En>A floor... or a ceiling depending on where you're standing.</En> -->
+
+  <FloorBars.label>ลูกกรงพื้น</FloorBars.label> <!-- <En>floor bars</En> -->
+  <FloorBars.description>ลูกกรงเหล็กในพื้น</FloorBars.description> <!-- <En>Metal bars in the floor.</En> -->
+
+  <FloorBarsReinforced.label>ลูกกรงพื้น (เสริมความแข็งแกร่ง)</FloorBarsReinforced.label> <!-- <En>floor bars (reinforced)</En> -->
+  <FloorBarsReinforced.description>ลูกกรงเหล็กในพื้น ลูกกรงเหล่านี้ทนทานต่อการระเบิด</FloorBarsReinforced.description> <!-- <En>Metal bars in the floor. These bars are resistant to explosions.</En> -->
+
+  <Frame.label>กรอบ</Frame.label> <!-- <En>frame</En> -->
+  <Frame.description>ทางเลือกอื่นในการไปยังห้องถัดไป</Frame.description> <!-- <En>An alternative way to get to the other room.</En> -->
+
+  <Gate.label>ประตูรั้ว</Gate.label> <!-- <En>gate</En> -->
+  <Gate.description>ต้องมีคันโยกอยู่ที่ไหนสักแห่งเพื่อเปิดประตูรั้วนี้</Gate.description> <!-- <En>There must be a lever somewhere to open this gate.</En> -->
+
+  <GateReinforced.label>ประตูรั้ว (เสริมความแข็งแกร่ง)</GateReinforced.label> <!-- <En>gate (reinforced)</En> -->
+  <GateReinforced.description>ต้องมีคันโยกอยู่ที่ไหนสักแห่งเพื่อเปิดประตูรั้วนี้ ประตูรั้วนี้ทนทานต่อการระเบิด</GateReinforced.description> <!-- <En>There must be a lever somewhere to open this gate. This gate is resistant to explosions.</En> -->
+
+  <GlassWall.label>กำแพงแก้ว</GlassWall.label> <!-- <En>glass wall</En> -->
+  <GlassWall.description>ดูว่ามีอะไรอยู่อีกด้าน คุณสามารถโยนหินเพื่อทำลายมันได้</GlassWall.description> <!-- <En>See what's on the other side. You can throw a stone to break it.</En> -->
+
+  <Glyph1.label>สัญลักษณ์</Glyph1.label> <!-- <En>glyph</En> -->
+  <Glyph1.description>ภาพวาดลึกลับบางอย่าง มันมีความหมายอะไรหรือเปล่า?\n\nด้านล่างเขียนว่า: Nopaew</Glyph1.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Nopaew</En> -->
+
+  <Glyph2.label>สัญลักษณ์</Glyph2.label> <!-- <En>glyph</En> -->
+  <Glyph2.description>ภาพวาดลึกลับบางอย่าง มันมีความหมายอะไรหรือเปล่า?\n\nด้านล่างเขียนว่า: Romra</Glyph2.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Romra</En> -->
+
+  <Glyph3.label>สัญลักษณ์</Glyph3.label> <!-- <En>glyph</En> -->
+  <Glyph3.description>ภาพวาดลึกลับบางอย่าง มันมีความหมายอะไรหรือเปล่า?\n\nด้านล่างเขียนว่า: Llorcs</Glyph3.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Llorcs</En> -->
+
+  <Glyph4.label>สัญลักษณ์</Glyph4.label> <!-- <En>glyph</En> -->
+  <Glyph4.description>ภาพวาดลึกลับบางอย่าง มันมีความหมายอะไรหรือเปล่า?\n\nด้านล่างเขียนว่า: Noitop</Glyph4.description> <!-- <En>Some mysterious drawing. Does it mean anything?\n\nAt the bottom it says: Noitop</En> -->
+
+  <GoldenDoor.label>ประตูทอง</GoldenDoor.label> <!-- <En>golden door</En> -->
+  <GoldenDoor.description>ประตูทองนี้สามารถเปิดได้ด้วยกุญแจทองเท่านั้น</GoldenDoor.description> <!-- <En>This golden door can only be opened with a golden key.</En> -->
+
+  <GooPuddle.label>แอ่งเมือก</GooPuddle.label> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description>แอ่งเมือกที่จะทำให้ตัวละครใดก็ตามที่ผ่านไปเคลื่อนที่ช้าลง</GooPuddle.description> <!-- <En>A pool of goo which will slow down any passing character.</En> -->
+
+  <Grass.label>หญ้า</Grass.label> <!-- <En>grass</En> -->
+  <Grass.description>พงหญ้าที่ยาวผิดปกติ</Grass.description> <!-- <En>A patch of unusually long blades of grass.</En> -->
+
+  <GreenCrystal.label>คริสตัลสีเขียว</GreenCrystal.label> <!-- <En>green crystal</En> -->
+  <GreenCrystal.description>ขุดมันด้วยพลั่วแล้วนำไปใช้เพื่อเพิ่มคุณสมบัติป้องกันของอุปกรณ์ของคุณ คุณต้องรวบรวมคริสตัลสีเดียวกัน 2 ชิ้นเพื่อร่ายมนตร์ใส่อุปกรณ์ของคุณ</GreenCrystal.description> <!-- <En>Mine it with a pickaxe and use it to boost your gear's protective properties. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <GreenWallLamp.label>โคมไฟติดผนังสีเขียว</GreenWallLamp.label> <!-- <En>green wall lamp</En> -->
+  <GreenWallLamp.description>โคมไฟติดผนังสีเขียวมีสไตล์</GreenWallLamp.description> <!-- <En>A stylish, green wall lamp.</En> -->
+
+  <HangingRope.label>เชือก</HangingRope.label> <!-- <En>rope</En> -->
+  <HangingRope.description>เชือกที่ห้อยลงมาจากเพดาน</HangingRope.description> <!-- <En>A rope hanging from the ceiling.</En> -->
+
+  <Hatch.label>ประตูช่อง</Hatch.label> <!-- <En>hatch</En> -->
+  <Hatch.description>นี่คือที่ที่คุณจากมา ไม่มีการย้อนกลับ - เวลามีแต่จะเดินไปข้างหน้าใช่ไหม?</Hatch.description> <!-- <En>This is where you came from. There's no going back - time only moves forward, right?</En> -->
+
+  <InvisibleBlocker.label>สิ่งกีดขวาง</InvisibleBlocker.label> <!-- <En>blocker</En> -->
+
+  <IronOre.label>แร่เหล็ก</IronOre.label> <!-- <En>iron ore</En> -->
+  <IronOre.description>ขุดมันด้วยพลั่วแล้วนำไปใช้ที่ทั่งเพื่ออัปเกรดระดับอุปกรณ์ของคุณ</IronOre.description> <!-- <En>Mine it with a pickaxe and use it at an anvil to upgrade your gear level.</En> -->
+
+  <Ladder.label>บันได</Ladder.label> <!-- <En>ladder</En> -->
+  <Ladder.description>บันไดที่คุณสามารถใช้เพื่อขึ้นไปยังชั้นบนได้</Ladder.description> <!-- <En>A ladder you can use to reach the upper level.</En> -->
+
+  <Lava.label>ลาวา</Lava.label> <!-- <En>lava</En> -->
+  <Lava.description>ไม่ใช่ที่ที่ดีที่สุดที่จะอยู่</Lava.description> <!-- <En>Not the best place to be in.</En> -->
+
+  <Liana.label>เถาวัลย์</Liana.label> <!-- <En>liana</En> -->
+  <Liana.description>เถาวัลย์ที่คุณสามารถปีนได้</Liana.description> <!-- <En>A liana which you can climb.</En> -->
+
+  <LobbySign.label>ป้ายล็อบบี้</LobbySign.label> <!-- <En>lobby sign</En> -->
+  <LobbySign.description>ทางนี้จะนำกลับไปที่ล็อบบี้</LobbySign.description> <!-- <En>This way leads back to the lobby.</En> -->
+
+  <MagicColumns.label>เสา</MagicColumns.label> <!-- <En>columns</En> -->
+  <MagicColumns.description>เสาบาง ๆ สี่ต้น</MagicColumns.description> <!-- <En>Four thin columns.</En> -->
+
+  <MagicFire.label>ไฟเวทมนตร์</MagicFire.label> <!-- <En>magic fire</En> -->
+  <MagicFire.description>ตัวละครใดก็ตามที่ผ่านไปจะถูกไฟคลอก ไฟประเภทนี้จะไม่ลามไปยังวัตถุที่อยู่ติดกัน</MagicFire.description> <!-- <En>Any passing character will be set on fire. This type of fire doesn't spread onto adjacent objects.</En> -->
+
+  <MagicWall.label>กำแพงเวทมนตร์</MagicWall.label> <!-- <En>magic wall</En> -->
+  <MagicWall.description>กำแพงเวทมนตร์ที่จะหายไปในไม่ช้า</MagicWall.description> <!-- <En>A magic wall which will disappear soon.</En> -->
+
+  <Pedestal.label>แท่น</Pedestal.label> <!-- <En>pedestal</En> -->
+  <Pedestal.description>แท่นหินที่แข็งแรง</Pedestal.description> <!-- <En>A sturdy, stone pedestal.</En> -->
+
+  <Pillar.label>เสา</Pillar.label> <!-- <En>pillar</En> -->
+  <Pillar.description>ทำหน้าที่ค้ำเพดานให้มั่นคงได้อย่างดีเยี่ยม</Pillar.description> <!-- <En>Does a great job at keeping the ceiling stable.</En> -->
+
+  <PinkWallLamp.label>โคมไฟติดผนังสีชมพู</PinkWallLamp.label> <!-- <En>pink wall lamp</En> -->
+  <PinkWallLamp.description>โคมไฟติดผนังสีชมพูมีสไตล์</PinkWallLamp.description> <!-- <En>A stylish, pink wall lamp.</En> -->
+
+  <PipeSmoke.label>ควันจากท่อ</PipeSmoke.label> <!-- <En>pipe smoke</En> -->
+  <PipeSmoke.description>ควันพิษที่มาจากท่อ</PipeSmoke.description> <!-- <En>A toxic smoke coming from a pipe.</En> -->
+
+  <Piston.label>ลูกสูบ</Piston.label> <!-- <En>piston</En> -->
+  <Piston.description>ยืดและหด</Piston.description> <!-- <En>Extends and retracts.</En> -->
+
+  <Planks.label>แผ่นไม้</Planks.label> <!-- <En>planks</En> -->
+  <Planks.description>กองแผ่นไม้ จะดรอปแผ่นไม้หากถูกทำลายด้วยขวาน</Planks.description> <!-- <En>A pile of wooden planks. Will drop planks if destroyed with an axe.</En> -->
+
+  <Platform.label>แท่น</Platform.label> <!-- <En>platform</En> -->
+  <Platform.description>แท่นที่มีค้ำยันไม้ติดอยู่กับกำแพง</Platform.description> <!-- <En>A platform with a wooden support attached to the wall.</En> -->
+
+  <PoisonCloud.label>กลุ่มควันพิษ</PoisonCloud.label> <!-- <En>poison cloud</En> -->
+  <PoisonCloud.description>ตัวละครใดก็ตามที่ผ่านไปจะติดพิษ</PoisonCloud.description> <!-- <En>Any passing character will become poisoned.</En> -->
+
+  <Pond.label>บ่อน้ำ</Pond.label> <!-- <En>pond</En> -->
+  <Pond.description>บ่อน้ำเล็ก ๆ เหมาะสำหรับดับไฟ คุณยังสามารถเติมน้ำใส่ขวดที่นี่ได้ด้วย</Pond.description> <!-- <En>A small pond. Good for extinguishing fires. You can also fill vials with water here.</En> -->
+
+  <PressurePlate.label>แผ่นรับแรงกด</PressurePlate.label> <!-- <En>pressure plate</En> -->
+  <PressurePlate.description>แผ่นรับแรงกดที่จะทำงานทันทีที่มีคนเหยียบ</PressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it.</En> -->
+
+  <RedCrystal.label>คริสตัลสีแดง</RedCrystal.label> <!-- <En>red crystal</En> -->
+  <RedCrystal.description>ขุดมันด้วยพลั่วแล้วนำไปใช้เพื่อทำให้อาวุธของคุณร้ายกาจยิ่งขึ้น คุณต้องรวบรวมคริสตัลสีเดียวกัน 2 ชิ้นเพื่อร่ายมนตร์ใส่อุปกรณ์ของคุณ</RedCrystal.description> <!-- <En>Mine it with a pickaxe and use it to make your weapon more deadly. You need to collect 2 crystals of the same color to enchant your gear.</En> -->
+
+  <RedCutGrass.label>หญ้าสีแดงที่ถูกตัด</RedCutGrass.label> <!-- <En>cut red grass</En> -->
+  <RedCutGrass.description>เศษหญ้าสีแดง</RedCutGrass.description> <!-- <En>Red grass remains.</En> -->
+
+  <RedLamp.label>โคมไฟสีแดง</RedLamp.label> <!-- <En>red lamp</En> -->
+  <RedLamp.description>โคมไฟที่เปล่งแสงสีแดงเข้ม</RedLamp.description> <!-- <En>A lamp emitting deep red light.</En> -->
+
+  <Rock.label>หิน</Rock.label> <!-- <En>rock</En> -->
+  <Rock.description>หินขนาดกลาง ทำลายมันเพื่อรับหินสำหรับขว้าง</Rock.description> <!-- <En>A medium-sized rock. Break it to get a throwable stone.</En> -->
+
+  <RoyalDoor.label>ประตูหลวง</RoyalDoor.label> <!-- <En>royal door</En> -->
+  <RoyalDoor.description>ประตูหลวงนี้สามารถเปิดได้ด้วยกุญแจหลวงเท่านั้น</RoyalDoor.description> <!-- <En>This royal door can only be opened with a royal key.</En> -->
+
+  <SecretPassage.label>กำแพง</SecretPassage.label> <!-- <En>wall</En> -->
+  <SecretPassage.description>กำแพงนี้อยู่ที่นี่มานานแล้ว และดูเหมือนว่าจะไม่ไปไหนในเร็ว ๆ นี้</SecretPassage.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <SecretRoomTrigger.label>กลไกห้องลับ</SecretRoomTrigger.label> <!-- <En>secret room trigger</En> -->
+
+  <Shelf.label>ชั้นวางของ</Shelf.label> <!-- <En>shelf</En> -->
+  <Shelf.description>ชั้นวางของที่มีของบางอย่างวางอยู่</Shelf.description> <!-- <En>A shelf with some things on it.</En> -->
+
+  <Sign.label>ป้าย</Sign.label> <!-- <En>sign</En> -->
+
+  <SilverDoor.label>ประตูเงิน</SilverDoor.label> <!-- <En>silver door</En> -->
+  <SilverDoor.description>ประตูเงินนี้สามารถเปิดได้ด้วยกุญแจเงินเท่านั้น อาจมีของล้ำค่าอยู่ด้านหลัง</SilverDoor.description> <!-- <En>This silver door can only be opened with a silver key. There could be something precious behind it.</En> -->
+  <SilverDoor.YouSeeASilverDoorInFront>คุณเห็นประตูเงินอยู่ตรงหน้า\n\nมันสามารถเปิดได้ด้วยกุญแจเงินเท่านั้น\n\nโปรดทราบว่าอาจมีประตูที่ล็อกอยู่มากกว่าจำนวนกุญแจที่มี ดังนั้นจงใช้กุญแจของคุณอย่างชาญฉลาด</SilverDoor.YouSeeASilverDoorInFront> <!-- <En>You see a silver door in front of you.\n\nIt can only be opened with a silver key.\n\nNote that there may be more locked doors than available keys, so spend your keys wisely.</En> -->
+  <SilverDoor.Open>เปิด</SilverDoor.Open> <!-- <En>Open</En> -->
+
+  <Smoke.label>ควัน</Smoke.label> <!-- <En>smoke</En> -->
+  <Smoke.description>กลุ่มควันที่บดบังทัศนวิสัย</Smoke.description> <!-- <En>A smoke cloud which blocks the view.</En> -->
+
+  <Soffit.label>ฝ้าเพดาน</Soffit.label> <!-- <En>soffit</En> -->
+  <Soffit.description>ด้านล่างของเพดาน</Soffit.description> <!-- <En>An underside of the ceiling.</En> -->
+
+  <SpawnerPressurePlate.label>แผ่นกด</SpawnerPressurePlate.label> <!-- <En>pressure plate</En> -->
+  <SpawnerPressurePlate.description>แผ่นกดที่จะทำงานทันทีที่มีคนเหยียบลงไป ป้ายเขียนว่า "ระวัง! อันตราย!"</SpawnerPressurePlate.description> <!-- <En>A pressure plate which activates as soon as someone steps on it. The sign says "Beware! Danger!".</En> -->
+
+  <SpiderWeb.label>ใยแมงมุม</SpiderWeb.label> <!-- <En>spider web</En> -->
+  <SpiderWeb.description>ให้ใยแมงมุมซึ่งสามารถใช้เป็นส่วนผสมได้</SpiderWeb.description> <!-- <En>Yields spider silk, which can be used as an ingredient.</En> -->
+
+  <StaircaseRoomSign.label>ป้ายห้องบันได</StaircaseRoomSign.label> <!-- <En>staircase room sign</En> -->
+  <StaircaseRoomSign.description>ห้องนี้มีบันไดที่นำไปสู่ชั้นต่อไปของดันเจี้ยน คุณมักจะต้องหาคันโยกเพื่อเปิดประตู</StaircaseRoomSign.description> <!-- <En>This room has a staircase leading to the next dungeon floor. You usually need to find a lever to open the gate.</En> -->
+
+  <Stairs.label>บันได</Stairs.label> <!-- <En>stairs</En> -->
+  <Stairs.description>คุณสามารถเดินขึ้นบันไดหรือลงบันไดได้ - นี่คือวิธีการทำงานของบันไดโดยทั่วไป</Stairs.description> <!-- <En>You can either go up the stairs or down the stairs - this is how stairs work in general.</En> -->
+
+  <Table.label>โต๊ะ</Table.label> <!-- <En>table</En> -->
+  <Table.description>โต๊ะเล็ก ๆ</Table.description> <!-- <En>A small table.</En> -->
+
+  <TemporarilyOpenedDoor.label>วงกบประตู</TemporarilyOpenedDoor.label> <!-- <En>door frame</En> -->
+  <TemporarilyOpenedDoor.description>ประตูที่เปิดอยู่ คุณสามารถปิดมันได้ หากคุณทำในขณะที่ยืนอยู่ข้างใน คุณจะถูกผลักออกไปในทิศทางแบบสุ่ม</TemporarilyOpenedDoor.description> <!-- <En>An open door. You can close it. If you do while standing inside, you'll get pushed away in a random direction.</En> -->
+
+  <TemporaryGate.label>ประตูอัตโนมัติ</TemporaryGate.label> <!-- <En>automatic gate</En> -->
+  <TemporaryGate.description>ประตูที่ปิดชั่วคราว มันน่าจะเปิดออกในอีกสักครู่</TemporaryGate.description> <!-- <En>A temporarily-closed gate. It should open after a while.</En> -->
+
+  <Throne.label>บัลลังก์</Throne.label> <!-- <En>throne</En> -->
+  <Throne.description>บัลลังก์สำหรับบุคคลสำคัญ</Throne.description> <!-- <En>A throne for someone important.</En> -->
+
+  <Torch.label>คบเพลิง</Torch.label> <!-- <En>torch</En> -->
+  <Torch.description>คบเพลิง คุณจะสังเกตเห็นมันก็ต่อเมื่อมันดับไปแล้ว อีกอย่าง ฉันสงสัยว่าทำไมมันถึงไม่เคยเผาไหม้จนหมด บางทีอาจเป็นเพราะพวกมันไม่ได้พัฒนาเกม</Torch.description> <!-- <En>A torch. You only notice them when they're gone. Also, I wonder why they never seem to burn out, maybe because they don't develop games.</En> -->
+
+  <ToxicWater.label>น้ำพิษ</ToxicWater.label> <!-- <En>toxic water</En> -->
+  <ToxicWater.description>น้ำนี้ดูเหมือนจะปนเปื้อน</ToxicWater.description> <!-- <En>This water seems to be contaminated.</En> -->
+
+  <Toxofungus.label>เห็ดพิษ</Toxofungus.label> <!-- <En>toxofungus</En> -->
+  <Toxofungus.description>เชื้อราพิษที่ปล่อยสปอร์พิษออกมาเมื่อถูกทำลาย ปลอดภัยที่จะเดินผ่านตราบใดที่มันไม่ถูกรบกวน</Toxofungus.description> <!-- <En>A poisonous fungus that releases toxic spores when destroyed. Safe to walk on as long as it's not disturbed.</En> -->
+
+  <UnstableBridge.label>สะพานที่ไม่มั่นคง</UnstableBridge.label> <!-- <En>unstable bridge</En> -->
+  <UnstableBridge.description>สะพานไม้ที่ติดไฟได้ ดูเหมือนว่ามันจะพังลงได้ทุกเมื่อ</UnstableBridge.description> <!-- <En>A wooden, flammable bridge. It looks like it can collapse anytime soon.</En> -->
+
+  <Ventillation.label>ช่องระบายอากาศ</Ventillation.label> <!-- <En>ventilation</En> -->
+  <Ventillation.description>อาจจะทำให้พวกโครงกระดูกอยู่กันอย่างสุขสบาย</Ventillation.description> <!-- <En>Makes skeletons live comfortably, probably.</En> -->
+
+  <Vines.label>เถาวัลย์</Vines.label> <!-- <En>vines</En> -->
+  <Vines.description>เถาวัลย์หนาที่ขวางทางอยู่ สามารถมองทะลุผ่านได้</Vines.description> <!-- <En>Thick vines blocking the path. Can be seen through.</En> -->
+
+  <VioletTorch.label>คบเพลิงสีม่วง</VioletTorch.label> <!-- <En>violet torch</En> -->
+  <VioletTorch.description>คบเพลิงที่มีเปลวไฟสีม่วงสว่าง ช่างดูแปลกประหลาด</VioletTorch.description> <!-- <En>A torch with a bright, violet flame. Quite odd.</En> -->
+
+  <VioletWallLamp.label>โคมไฟติดผนังสีม่วง</VioletWallLamp.label> <!-- <En>violet wall lamp</En> -->
+  <VioletWallLamp.description>โคมไฟติดผนังสีม่วงที่มีสไตล์</VioletWallLamp.description> <!-- <En>A stylish, violet wall lamp.</En> -->
+
+  <Wall.label>กำแพง</Wall.label> <!-- <En>wall</En> -->
+  <Wall.description>กำแพงนี้อยู่ที่นี่มานานแล้ว และดูเหมือนว่าจะไม่ไปไหนในเร็ว ๆ นี้</Wall.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece1.label>กำแพง</WallPiece1.label> <!-- <En>wall</En> -->
+  <WallPiece1.description>กำแพงนี้อยู่ที่นี่มานานแล้ว และดูเหมือนว่าจะไม่ไปไหนในเร็ว ๆ นี้</WallPiece1.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece2.label>กำแพง</WallPiece2.label> <!-- <En>wall</En> -->
+  <WallPiece2.description>กำแพงนี้อยู่ที่นี่มานานแล้ว และดูเหมือนว่าจะไม่ไปไหนในเร็ว ๆ นี้</WallPiece2.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece3.label>กำแพง</WallPiece3.label> <!-- <En>wall</En> -->
+  <WallPiece3.description>กำแพงนี้อยู่ที่นี่มานานแล้ว และดูเหมือนว่าจะไม่ไปไหนในเร็ว ๆ นี้</WallPiece3.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece4.label>กำแพง</WallPiece4.label> <!-- <En>wall</En> -->
+  <WallPiece4.description>กำแพงนี้อยู่ที่นี่มานานแล้ว และดูเหมือนว่าจะไม่ไปไหนในเร็ว ๆ นี้</WallPiece4.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallPiece5.label>กำแพง</WallPiece5.label> <!-- <En>wall</En> -->
+  <WallPiece5.description>กำแพงนี้อยู่ที่นี่มานานแล้ว และดูเหมือนว่าจะไม่ไปไหนในเร็ว ๆ นี้</WallPiece5.description> <!-- <En>This wall has been here for a long time and most likely not going anywhere anytime soon.</En> -->
+
+  <WallWithCompartment.label>กำแพงพร้อมช่องลับ</WallWithCompartment.label> <!-- <En>wall with compartment</En> -->
+  <WallWithCompartment.description>กำแพงนี้มีช่องลับซ่อนอยู่</WallWithCompartment.description> <!-- <En>This wall has a secret compartment.</En> -->
+
+  <WallWithHole.label>กำแพงที่มีรู</WallWithHole.label> <!-- <En>wall with a hole</En> -->
+  <WallWithHole.description>กำแพงที่มีรู</WallWithHole.description> <!-- <En>A wall with a hole.</En> -->
+
+  <WallWithPipe.label>กำแพงที่มีท่อ</WallWithPipe.label> <!-- <En>wall with a pipe</En> -->
+  <WallWithPipe.description>กำแพงที่มีท่อ</WallWithPipe.description> <!-- <En>A wall with a pipe.</En> -->
+
+  <Water.label>น้ำ</Water.label> <!-- <En>water</En> -->
+  <Water.description>น้ำลึกระดับอก เหมาะสำหรับดับไฟ</Water.description> <!-- <En>Chest-deep water. Good for extinguishing fires.</En> -->
+
+  <Window.label>หน้าต่าง</Window.label> <!-- <En>window</En> -->
+  <Window.description>ดูว่ามีอะไรอยู่อีกด้านหนึ่ง</Window.description> <!-- <En>See what's on the other side.</En> -->
+
+  <WoodenFloor.label>พื้นไม้</WoodenFloor.label> <!-- <En>wooden floor</En> -->
+  <WoodenFloor.description>คงจะน่าเสียดายถ้ามีใครมาจุดไฟเผาพื้นไม้สวย ๆ นี้</WoodenFloor.description> <!-- <En>It'd be a shame if someone set this beautiful wooden floor on fire.</En> -->
+
+  <WoodenWall.label>กำแพงไม้</WoodenWall.label> <!-- <En>wooden wall</En> -->
+  <WoodenWall.description>แผ่นไม้บนกำแพงนี้เริ่มผุพังแล้ว แต่ดูเหมือนว่าจะไม่ได้รบกวนโครงกระดูกแถวนี้เลย</WoodenWall.description> <!-- <En>The planks on this wall are starting to rot. However, it doesn't seem to bother any skeletons out here.</En> -->
+
+  <YellowCutGrass.label>หญ้าสีเหลืองที่ถูกตัด</YellowCutGrass.label> <!-- <En>cut yellow grass</En> -->
+  <YellowCutGrass.description>เศษหญ้าสีเหลือง</YellowCutGrass.description> <!-- <En>Yellow grass remains.</En> -->
+
+  <YellowWallLamp.label>โคมไฟติดผนังสีเหลือง</YellowWallLamp.label> <!-- <En>yellow wall lamp</En> -->
+  <YellowWallLamp.description>โคมไฟติดผนังสีเหลืองที่มีสไตล์</YellowWallLamp.description> <!-- <En>A stylish, yellow wall lamp.</En> -->
+
+</SpecTranslations>

@@ -1,0 +1,33 @@
+<SpecTranslations>
+
+  <BlindingFlashAbility.label>clarão ofuscante</BlindingFlashAbility.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlashAbility.description>Cega toda a gente que te consiga ver por um curto período de tempo. Não custa turnos a usar.</BlindingFlashAbility.description> <!-- <En>Blind everyone who can currently see you for a short time. Costs no turns to use.</En> -->
+
+  <DeceiveAbility.label>enganar</DeceiveAbility.label> <!-- <En>deceive</En> -->
+  <DeceiveAbility.description>Torna o alvo hostil para toda a gente por um curto período de tempo. Não custa turnos a usar.</DeceiveAbility.description> <!-- <En>Make target hostile to everyone else for a short time. Costs no turns to use.</En> -->
+
+  <EntangleAdjacentAbility.label>emaranhar adjacentes</EntangleAdjacentAbility.label> <!-- <En>entangle adjacent</En> -->
+  <EntangleAdjacentAbility.description>Emaranha toda a gente adjacente a ti por um curto período de tempo. Não custa turnos a usar.</EntangleAdjacentAbility.description> <!-- <En>Entangle everyone adjacent to you for a short time. Costs no turns to use.</En> -->
+
+  <HasteAbility.label>aceleração</HasteAbility.label> <!-- <En>haste</En> -->
+  <HasteAbility.description>Age duas vezes por turno por um curto período de tempo. Não custa turnos a usar.</HasteAbility.description> <!-- <En>Act twice per turn for a short time. Costs no turns to use.</En> -->
+
+  <JumpAbility.label>saltar</JumpAbility.label> <!-- <En>jump</En> -->
+  <JumpAbility.description>Salta instantaneamente para qualquer casa adjacente, mesmo na vertical. Não custa turnos a usar.</JumpAbility.description> <!-- <En>Instantly jump onto any adjacent tile, even vertically. Costs no turns to use.</En> -->
+
+  <PushAbility.label>empurrar</PushAbility.label> <!-- <En>push</En> -->
+  <PushAbility.description>Empurra qualquer um a 1 casa de distância. Não custa turnos a usar.</PushAbility.description> <!-- <En>Push anyone 1 cell away. Costs no turns to use.</En> -->
+
+  <RandomEscapeAbility.label>fuga aleatória</RandomEscapeAbility.label> <!-- <En>random escape</En> -->
+  <RandomEscapeAbility.description>Teletransporta-te para um local aleatório no mapa. Não custa turnos a usar.</RandomEscapeAbility.description> <!-- <En>Teleport to a random location on the map. Costs no turns to use.</En> -->
+
+  <SpawnLianaAbility.label>gerar liana</SpawnLianaAbility.label> <!-- <En>spawn liana</En> -->
+  <SpawnLianaAbility.description>Gera lianas no local designado e sobe-as.</SpawnLianaAbility.description> <!-- <En>Spawn lianas at the designated location and climb them.</En> -->
+
+  <SpawnPoisonCloudAbility.label>nuvem de veneno</SpawnPoisonCloudAbility.label> <!-- <En>poison cloud</En> -->
+  <SpawnPoisonCloudAbility.description>Gera uma nuvem de veneno no local designado. Não custa turnos a usar.</SpawnPoisonCloudAbility.description> <!-- <En>Spawn a cloud of poison at the designated location. Costs no turns to use.</En> -->
+
+  <SummonPhantomAbility.label>invocar fantasma</SummonPhantomAbility.label> <!-- <En>summon phantom</En> -->
+  <SummonPhantomAbility.description>Invoca um fantasma amigável para te ajudar em batalhas. Apenas um fantasma pode estar vivo de cada vez.</SummonPhantomAbility.description> <!-- <En>Summon a friendly phantom to aid you in battles. Only one phantom can be alive at a time.</En> -->
+
+</SpecTranslations>

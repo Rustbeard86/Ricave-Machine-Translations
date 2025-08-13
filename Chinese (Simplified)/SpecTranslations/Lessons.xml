@@ -1,4 +1,4 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <BigMap.label>小地图</BigMap.label> <!-- <En>minimap</En> -->
   <BigMap.HoldMinimapOrMinimapAlt>按住 [Minimap] 或 [MinimapAlt] 查看地图。\n\n你可以用鼠标滚轮缩放。\n\n最重要的房间会在你的地图上标记出来。</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
@@ -7,8 +7,8 @@
   <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
 
   <ClimbingLadders.label>攀爬</ClimbingLadders.label> <!-- <En>climbing</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd>进入下一个房间并爬上梯子。\n\n走到有梯子的格子上，然后按住 [Fly] 并按下 [MoveForward] 向上爬。\n\n或者，你也可以直接点击梯子。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd_2>进入下一个房间并爬上梯子。\n\n走到有梯子的格子上，然后按住 [Fly] 并按下 [MoveForward] 向上爬。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>进入下一个房间并爬上梯子。\n\n走到有梯子的格子上，然后在按住 [Fly] 的同时按下 [MoveForward] 即可向上攀爬。\n\n或者，你也可以直接点击梯子。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>进入下一个房间并爬上梯子。\n\n走到有梯子的格子上，然后在按住 [Fly] 的同时按下 [MoveForward] 即可向上攀爬。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
   <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
 
   <DrinkingPotion.label>饮用药水</DrinkingPotion.label> <!-- <En>drinking potions</En> -->

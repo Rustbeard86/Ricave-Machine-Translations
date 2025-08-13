@@ -1,0 +1,46 @@
+<SpecTranslations>
+
+  <Entangle.label>behálózás</Entangle.label> <!-- <En>entangle</En> -->
+  <Entangle.description>Rövid időre mozgásképtelenné tesz valakit. Fontos, hogy a behálózott ellenfelek továbbra is tudnak támadni a helyükről.</Entangle.description> <!-- <En>Make someone unable to move for a short time. Note that entangled enemies can still attack from their position.</En> -->
+
+  <Feed.label>táplálás</Feed.label> <!-- <En>feed</En> -->
+  <Feed.description>Olyan, mintha ennél valamit, de valójában nem eszel semmit. Mágia.</Feed.description> <!-- <En>It's like eating something, but without actually eating anything. Magic.</En> -->
+
+  <Fireball.label>tűzlabda</Fireball.label> <!-- <En>fireball</En> -->
+  <Fireball.description>Lőj ki egy tűzlabdát, amely robbanást okoz, és tüzet gyújt az összes szomszédos mezőn.</Fireball.description> <!-- <En>Cast a fireball which will make an explosion and start fires in all adjacent cells.</En> -->
+
+  <Freeze.label>fagyasztás</Freeze.label> <!-- <En>freeze</En> -->
+  <Freeze.description>Rövid időre megfagyasztja a célpontot. A megfagyasztott ellenfelek nem tudnak mozogni vagy támadni.</Freeze.description> <!-- <En>Freeze the target for a short time. Frozen enemies can't move or attack.</En> -->
+
+  <GooPuddle.label_2>trutyitócsa</GooPuddle.label_2> <!-- <En>goo puddle</En> -->
+  <GooPuddle.description_2>Létrehoz egy trutyitócsát, amely lelassít minden áthaladó karaktert.</GooPuddle.description_2> <!-- <En>Spawn a puddle of goo which will slow down any passing character.</En> -->
+
+  <Growth.label>burjánzás</Growth.label> <!-- <En>growth</En> -->
+  <Growth.description>Létrehoz egy 3x3-as területen füvet és indákat. Jó az ellenfelek feltartóztatására.</Growth.description> <!-- <En>Spawn a 3x3 patch of grass and vines. Good for blocking enemies.</En> -->
+
+  <Heal.label>gyógyítás</Heal.label> <!-- <En>heal</En> -->
+  <Heal.description>Visszaállít némi életerőt és gyógyítja a vérzést.</Heal.description> <!-- <En>Restore some health and cure bleeding.</En> -->
+
+  <Identification.label>azonosítás</Identification.label> <!-- <En>identification</En> -->
+  <Identification.description>Azonosít egy általad választott tárgyat. Használd ezt a varázslatot magadon, hogy azonosíts egy tárgyat a leltáradból.</Identification.description> <!-- <En>Identify an item of your choice. Use this spell on yourself to identify an item from your inventory.</En> -->
+  <Identification.ChooseAnItemToIdentify>Válassz egy tárgyat az azonosításhoz.</Identification.ChooseAnItemToIdentify> <!-- <En>Choose an item to identify.</En> -->
+
+  <MagicWall.label_2>mágikus fal</MagicWall.label_2> <!-- <En>magic wall</En> -->
+  <MagicWall.description_2>Létrehoz egy ideiglenes mágikus falat.</MagicWall.description_2> <!-- <En>Spawn a temporary magic wall.</En> -->
+
+  <MassPush.label>tömeges lökés</MassPush.label> <!-- <En>mass push</En> -->
+  <MassPush.description>Ellök mindenkit magad körül.</MassPush.description> <!-- <En>Push everyone away from you.</En> -->
+
+  <Push.label>lökés</Push.label> <!-- <En>push</En> -->
+  <Push.description>Ellök valakit magadtól.</Push.description> <!-- <En>Push someone away from you.</En> -->
+
+  <Strike.label>csapás</Strike.label> <!-- <En>strike</En> -->
+  <Strike.description>Sebzést okoz a célpontnak.</Strike.description> <!-- <En>Deal damage to the target.</En> -->
+
+  <Teleport.label>teleportálás</Teleport.label> <!-- <En>teleport</En> -->
+  <Teleport.description>Teleportálj a kijelölt helyre. Jó a gyors meneküléshez, mivel a varázslat használata nem kerül körbe.</Teleport.description> <!-- <En>Teleport to the designated location. Good for making a quick escape, since using this spell costs no turn.</En> -->
+
+  <TeleportRandomly.label>véletlen teleportálás</TeleportRandomly.label> <!-- <En>random teleportation</En> -->
+  <TeleportRandomly.description>A célpontot a térkép egy véletlenszerű helyére teleportálja.</TeleportRandomly.description> <!-- <En>Teleport the target to a random location on the map.</En> -->
+
+</SpecTranslations>

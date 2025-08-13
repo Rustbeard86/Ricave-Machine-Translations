@@ -1,0 +1,214 @@
+<SpecTranslations>
+
+  <AddCondition.label>lägga till tillstånd</AddCondition.label> <!-- <En>add condition</En> -->
+  <AddCondition.description>Målet kommer att få ett nytt tillstånd.</AddCondition.description> <!-- <En>The target will gain a new condition.</En> -->
+  <AddCondition.OnTarget>på målet: {0}</AddCondition.OnTarget> <!-- <En>on target: {0}</En> -->
+
+  <AddUseEffect.label>lägga till effekt</AddUseEffect.label> <!-- <En>add effect</En> -->
+  <AddUseEffect.description>Målet kommer att få en ny effekt.</AddUseEffect.description> <!-- <En>The target will gain a new effect.</En> -->
+  <AddUseEffect.AddEffect>lägg till effekt: {0}</AddUseEffect.AddEffect> <!-- <En>add effect: {0}</En> -->
+
+  <AttachToChainPost.label>fäst vid kedjestolpe</AttachToChainPost.label> <!-- <En>attach to chain post</En> -->
+  <AttachToChainPost.description>Fäst målet vid en kedjestolpe.</AttachToChainPost.description> <!-- <En>Attach the target to a chain post.</En> -->
+
+  <BarDoor.label>bomma för dörr</BarDoor.label> <!-- <En>bar door</En> -->
+  <BarDoor.description>Bomma för en dörr. Det enda sättet att ta sig igenom bommade dörrar är att förstöra dem.</BarDoor.description> <!-- <En>Bar a door. The only way to get through barred doors is to destroy them.</En> -->
+
+  <BlindingFlash.label>bländande blixt</BlindingFlash.label> <!-- <En>blinding flash</En> -->
+  <BlindingFlash.description>Blända alla som för närvarande kan se dig.</BlindingFlash.description> <!-- <En>Blind everyone who can currently see you.</En> -->
+  <BlindingFlash.BlindingFlash>bländande blixt {0}</BlindingFlash.BlindingFlash> <!-- <En>blinding flash {0}</En> -->
+
+  <Burrow.label>gräv ner</Burrow.label> <!-- <En>burrow</En> -->
+  <Burrow.description>Göm dig i marken.</Burrow.description> <!-- <En>Hide in the ground.</En> -->
+
+  <Cauldron.label_2>byt trolldryck mot skriftrulle</Cauldron.label_2> <!-- <En>exchange potion for scroll</En> -->
+  <Cauldron.description_2>Du kommer att få en slumpmässig skriftrulle i utbyte mot valfri trolldryck.</Cauldron.description_2> <!-- <En>You will receive a random scroll in exchange for any potion.</En> -->
+
+  <CheckCollapseCeiling.label>rasera tak</CheckCollapseCeiling.label> <!-- <En>collapse ceiling</En> -->
+  <CheckCollapseCeiling.description>Taket kommer att rasa om det inte finns något annat stöd.</CheckCollapseCeiling.description> <!-- <En>The ceiling will collapse if there's no other support.</En> -->
+  <CheckCollapseCeiling.CollapseCeilingDamage>rasera tak ({0} {1} skada)</CheckCollapseCeiling.CollapseCeilingDamage> <!-- <En>collapse ceiling ({0} {1} damage)</En> -->
+
+  <CheckCollapseCeilingSingle.label>rasera tak (en ruta)</CheckCollapseCeilingSingle.label> <!-- <En>collapse ceiling (one cell)</En> -->
+  <CheckCollapseCeilingSingle.description>Taket här kommer att rasa och skada alla under det.</CheckCollapseCeilingSingle.description> <!-- <En>The ceiling here will collapse and harm everyone underneath.</En> -->
+  <CheckCollapseCeilingSingle.CollapseCeilingOneCell>rasera tak (en ruta) ({0} {1} skada)</CheckCollapseCeilingSingle.CollapseCeilingOneCell> <!-- <En>collapse ceiling (one cell) ({0} {1} damage)</En> -->
+
+  <CollectBossTrophyStardust.label>samla stjärnstoft</CollectBossTrophyStardust.label> <!-- <En>collect stardust</En> -->
+  <CollectBossTrophyStardust.description>Samla stjärnstoft från trofén.</CollectBossTrophyStardust.description> <!-- <En>Collect stardust from the trophy.</En> -->
+  <CollectBossTrophyStardust.CollectStardustX>samla stjärnstoft x{0}</CollectBossTrophyStardust.CollectStardustX> <!-- <En>collect stardust x{0}</En> -->
+
+  <Cook.label>laga mat</Cook.label> <!-- <En>cook</En> -->
+  <Cook.description>Laga lite mat.</Cook.description> <!-- <En>Cook some food.</En> -->
+
+  <CrystalEnchant.label>förtrolla utrustning (kristall)</CrystalEnchant.label> <!-- <En>enchant gear (crystal)</En> -->
+  <CrystalEnchant.description>Applicera en förtrollning på valfri utrustning.</CrystalEnchant.description> <!-- <En>Apply an enchantment to your gear of choice.</En> -->
+
+  <CursedItemForReward.label>offra förhäxat föremål</CursedItemForReward.label> <!-- <En>offer cursed item</En> -->
+  <CursedItemForReward.description>Offra ett förhäxat föremål till djävulsstatyn i utbyte mot en belöning.</CursedItemForReward.description> <!-- <En>Offer cursed item to the devil statue in exchange for a reward.</En> -->
+
+  <Damage.label>gör skada</Damage.label> <!-- <En>deal damage</En> -->
+  <Damage.description>Målet kommer att förlora det angivna antalet hälsopoäng minus deras rustning.</Damage.description> <!-- <En>The target will lose the specified number of hit points minus their armor.</En> -->
+  <Damage.Damage>{0} {1} skada</Damage.Damage> <!-- <En>{0} {1} damage</En> -->
+
+  <Destroy.label>förstör</Destroy.label> <!-- <En>destroy</En> -->
+  <Destroy.description>Målet kommer att förstöras.</Destroy.description> <!-- <En>The target will be destroyed.</En> -->
+
+  <DestroyDiggable.label>gräv</DestroyDiggable.label> <!-- <En>dig</En> -->
+  <DestroyDiggable.description>Gräv upp saker som jord.</DestroyDiggable.description> <!-- <En>Dig up things like dirt.</En> -->
+
+  <DestroyFragile.label>förstör ömtåliga föremål</DestroyFragile.label> <!-- <En>destroy fragile objects</En> -->
+  <DestroyFragile.description>Förstör ömtåliga föremål som tegelväggar och grindar.</DestroyFragile.description> <!-- <En>Destroy fragile objects like brick walls and gates.</En> -->
+
+  <DestroyGlass.label>krossa glas</DestroyGlass.label> <!-- <En>destroy glass</En> -->
+  <DestroyGlass.description>Förstör föremål gjorda av glas som fönster och glasgolv.</DestroyGlass.description> <!-- <En>Destroy objects made of glass like windows and glass floors.</En> -->
+
+  <DestroyMineable.label>bryt</DestroyMineable.label> <!-- <En>mine</En> -->
+  <DestroyMineable.description>Bryt föremål som kan brytas, som kristaller.</DestroyMineable.description> <!-- <En>Mine objects which can be mined, like crystals.</En> -->
+
+  <DestroyRandomBodyPart.label>förstör kroppsdel</DestroyRandomBodyPart.label> <!-- <En>destroy body part</En> -->
+  <DestroyRandomBodyPart.description>Förstör en slumpmässig kroppsdel.</DestroyRandomBodyPart.description> <!-- <En>Destroy a random body part.</En> -->
+
+  <DropReward.label>få belöning</DropReward.label> <!-- <En>get reward</En> -->
+  <DropReward.description>Få en slumpmässig belöning.</DropReward.description> <!-- <En>Get a random reward.</En> -->
+
+  <DuplicateChance.label>duplicera</DuplicateChance.label> <!-- <En>duplicate</En> -->
+  <DuplicateChance.description>Ett valfritt föremål kommer att dupliceras eller förstöras.</DuplicateChance.description> <!-- <En>An item of your choice will be duplicated or destroyed.</En> -->
+  <DuplicateChance.DuplicateChance>duplicera ({0} chans)</DuplicateChance.DuplicateChance> <!-- <En>duplicate ({0} chance)</En> -->
+
+  <EnchantChosenItem.label>förtrolla utrustning</EnchantChosenItem.label> <!-- <En>enchant gear</En> -->
+  <EnchantChosenItem.description>Applicera en slumpmässig förtrollning på valfri utrustning.</EnchantChosenItem.description> <!-- <En>Apply a random enchantment to your gear of choice.</En> -->
+
+  <Extinguish.label>släck</Extinguish.label> <!-- <En>extinguish</En> -->
+  <Extinguish.description>Släck all eld.</Extinguish.description> <!-- <En>Extinguish any fire.</En> -->
+
+  <Feed.label_2>ät</Feed.label_2> <!-- <En>feed</En> -->
+  <Feed.description_2>Stilla din hunger.</Feed.description_2> <!-- <En>Satisfy your hunger.</En> -->
+  <Feed.Satiation>mättnad {0}</Feed.Satiation> <!-- <En>satiation {0}</En> -->
+
+  <FinishRun.label>avsluta omgång</FinishRun.label> <!-- <En>finish run</En> -->
+  <FinishRun.description>Avsluta denna omgång och återvänd till lobbyn.</FinishRun.description> <!-- <En>Finish this run and return to the lobby.</En> -->
+
+  <Fishing.label>fiska</Fishing.label> <!-- <En>catch fish</En> -->
+  <Fishing.description>Fånga en fisk.</Fishing.description> <!-- <En>Catch a fish.</En> -->
+
+  <GainSkillPoint.label>få färdighetspoäng</GainSkillPoint.label> <!-- <En>gain skill point</En> -->
+  <GainSkillPoint.description>Få en färdighetspoäng.</GainSkillPoint.description> <!-- <En>Gain one skill point.</En> -->
+
+  <GamblingTable.label_2>spela</GamblingTable.label_2> <!-- <En>gamble</En> -->
+  <GamblingTable.description_2>Satsa dina pengar och se om du vinner.</GamblingTable.description_2> <!-- <En>Bet your money and see if you win.</En> -->
+
+  <Heal.label_2>hela</Heal.label_2> <!-- <En>heal</En> -->
+  <Heal.description_2>Målet kommer att få det angivna antalet hälsopoäng återställda.</Heal.description_2> <!-- <En>The target will have the specified number of hit points restored.</En> -->
+  <Heal.HealHP>hela {0} HP</Heal.HealHP> <!-- <En>heal {0} HP</En> -->
+
+  <Identify.label>identifiera ett föremål</Identify.label> <!-- <En>identify an item</En> -->
+  <Identify.description>Identifiera ett föremål.</Identify.description> <!-- <En>Identify an item.</En> -->
+
+  <IdentifyTurns.label>identifiera föremål</IdentifyTurns.label> <!-- <En>identify items</En> -->
+  <IdentifyTurns.description>Identifiera föremål (det angivna antalet turers värde av identifiering).</IdentifyTurns.description> <!-- <En>Identify items (the specified number of turns worth of identification).</En> -->
+  <IdentifyTurns.IdentifyItems>identifiera föremål {0}</IdentifyTurns.IdentifyItems> <!-- <En>identify items {0}</En> -->
+
+  <MakeNoise.label>gör oljud</MakeNoise.label> <!-- <En>make noise</En> -->
+  <MakeNoise.description>Väck sovande varelser inom den angivna radien.</MakeNoise.description> <!-- <En>Wake up sleeping creatures in the given radius.</En> -->
+
+  <OpenElectronicSafe.label>öppna elektroniskt kassaskåp</OpenElectronicSafe.label> <!-- <En>open electronic safe</En> -->
+  <OpenElectronicSafe.description>Öppna ett elektroniskt kassaskåp någonstans.</OpenElectronicSafe.description> <!-- <En>Open an electronic safe somewhere.</En> -->
+
+  <Pay.label>betala</Pay.label> <!-- <En>pay</En> -->
+  <Pay.description>Du måste ge bort vissa föremål.</Pay.description> <!-- <En>You'll have to give away certain items.</En> -->
+  <Pay.Pay>betala {0}</Pay.Pay> <!-- <En>pay {0}</En> -->
+
+  <Pull.label_2>dra</Pull.label_2> <!-- <En>pull</En> -->
+  <Pull.description_2>Målet kommer att dras mot den som kastar.</Pull.description_2> <!-- <En>The target will be pulled towards the caster.</En> -->
+  <Pull.Pull>dra {0}</Pull.Pull> <!-- <En>pull {0}</En> -->
+
+  <Push.label_2>knuffa</Push.label_2> <!-- <En>push</En> -->
+  <Push.description_2>Målet kommer att knuffas bakåt några rutor.</Push.description_2> <!-- <En>The target will be pushed a few cells back.</En> -->
+  <Push.Push_2>knuffa {0}</Push.Push_2> <!-- <En>push {0}</En> -->
+
+  <PushInFarthestDir.label>slumpmässig knuff</PushInFarthestDir.label> <!-- <En>random push</En> -->
+  <PushInFarthestDir.description>Målet kommer att knuffas i en slumpmässig riktning.</PushInFarthestDir.description> <!-- <En>The target will be pushed in a random direction.</En> -->
+  <PushInFarthestDir.RandomPush>slumpmässig knuff {0}</PushInFarthestDir.RandomPush> <!-- <En>random push {0}</En> -->
+
+  <RandomMildLongLastingEffect.label>slumpmässig effekt</RandomMildLongLastingEffect.label> <!-- <En>random effect</En> -->
+  <RandomMildLongLastingEffect.description>Applicera en slumpmässig effekt.</RandomMildLongLastingEffect.description> <!-- <En>Apply a random effect.</En> -->
+
+  <Receive.label>ta emot föremål</Receive.label> <!-- <En>receive item</En> -->
+  <Receive.description>Ett föremål kommer att ges till användaren.</Receive.description> <!-- <En>An item will be given to the user.</En> -->
+  <Receive.Receive>ta emot {0}</Receive.Receive> <!-- <En>receive {0}</En> -->
+
+  <RemoveCondition.label>ta bort tillstånd</RemoveCondition.label> <!-- <En>remove condition</En> -->
+  <RemoveCondition.description>Ett visst tillstånd kommer att tas bort från målet.</RemoveCondition.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveCondition.Remove>ta bort {0}</RemoveCondition.Remove> <!-- <En>remove {0}</En> -->
+
+  <RemoveCurse.label>ta bort förbannelse</RemoveCurse.label> <!-- <En>remove curse</En> -->
+  <RemoveCurse.description>Ta bort förbannelse från ett föremål i målets inventarie. Detta kommer att prioritera att ta bort förbannelse från utrustade föremål.</RemoveCurse.description> <!-- <En>Remove curse from an item in the target's inventory. This will prioritize removing curse from equipped items.</En> -->
+
+  <RemoveFirstConditionOfSpecs.label>ta bort tillstånd</RemoveFirstConditionOfSpecs.label> <!-- <En>remove condition</En> -->
+  <RemoveFirstConditionOfSpecs.description>Ett visst tillstånd kommer att tas bort från målet.</RemoveFirstConditionOfSpecs.description> <!-- <En>A certain condition will be removed from the target.</En> -->
+  <RemoveFirstConditionOfSpecs.Remove>ta bort {0}</RemoveFirstConditionOfSpecs.Remove> <!-- <En>remove {0}</En> -->
+
+  <Research.label>forska</Research.label> <!-- <En>research</En> -->
+  <Research.description>Forska om ett föremål.</Research.description> <!-- <En>Research an object.</En> -->
+
+  <ResetTurnsCanRewind.label>återställ klockans laddningar</ResetTurnsCanRewind.label> <!-- <En>reset watch charges</En> -->
+  <ResetTurnsCanRewind.description>Dina klockladdningar kommer att nollställas, så du kommer inte att kunna spola tillbaka tiden på ett tag.</ResetTurnsCanRewind.description> <!-- <En>Your watch charges will be set to zero, so you won't be able to rewind time for some time.</En> -->
+
+  <RestoreMana.label>återställ mana</RestoreMana.label> <!-- <En>restore mana</En> -->
+  <RestoreMana.description>Målets mana kommer att återställas.</RestoreMana.description> <!-- <En>The target will have their mana restored.</En> -->
+  <RestoreMana.RestoreMana>återställ {0} mana</RestoreMana.RestoreMana> <!-- <En>restore {0} mana</En> -->
+
+  <RestoreMissingBodyParts.label>återställ saknade kroppsdelar</RestoreMissingBodyParts.label> <!-- <En>restore missing body parts</En> -->
+  <RestoreMissingBodyParts.description>Målets alla saknade kroppsdelar kommer att återställas.</RestoreMissingBodyParts.description> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <RestoreStamina.label>återställ uthållighet</RestoreStamina.label> <!-- <En>restore stamina</En> -->
+  <RestoreStamina.description>Målets uthållighet kommer att återställas.</RestoreStamina.description> <!-- <En>The target will have their stamina restored.</En> -->
+  <RestoreStamina.RestoreStamina>återställ {0} uthållighet</RestoreStamina.RestoreStamina> <!-- <En>restore {0} stamina</En> -->
+
+  <ReturnToLobby.label>återvänd till lobbyn</ReturnToLobby.label> <!-- <En>return to lobby</En> -->
+  <ReturnToLobby.description>Återvänd till lobbyn. Din nuvarande omgång kommer att avslutas, men du får behålla vissa saker.</ReturnToLobby.description> <!-- <En>Return to the lobby. Your current run will end, but you'll keep some things.</En> -->
+
+  <RewindTime.label_2>spola tillbaka tiden</RewindTime.label_2> <!-- <En>rewind time</En> -->
+  <RewindTime.description>Gå tillbaka i tiden.</RewindTime.description> <!-- <En>Go back in time.</En> -->
+  <RewindTime.Rewind>spola tillbaka {0}</RewindTime.Rewind> <!-- <En>rewind {0}</En> -->
+
+  <SetOnFire.label>tänd eld på</SetOnFire.label> <!-- <En>set on fire</En> -->
+  <SetOnFire.description>Tänd eld på ett brännbart föremål.</SetOnFire.description> <!-- <En>Set a flammable object on fire.</En> -->
+  <SetOnFire.SetOnFireHP>tänd eld på ({0} HP)</SetOnFire.SetOnFireHP> <!-- <En>set on fire ({0} HP)</En> -->
+
+  <SetSpiritFree.label_2>befria ande</SetSpiritFree.label_2> <!-- <En>set spirit free</En> -->
+  <SetSpiritFree.description_2>Befria en ande.</SetSpiritFree.description_2> <!-- <En>Set a spirit free.</En> -->
+
+  <Spawn.label>skapa ett föremål</Spawn.label> <!-- <En>spawn an object</En> -->
+  <Spawn.description>Ett nytt föremål kommer att dyka upp i närheten.</Spawn.description> <!-- <En>A new object will appear nearby.</En> -->
+  <Spawn.Spawn>skapa {0}</Spawn.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <SpawnRandomEnemy.label>skapa slumpmässig fiende</SpawnRandomEnemy.label> <!-- <En>spawn random enemy</En> -->
+  <SpawnRandomEnemy.description>En slumpmässig fiende kommer att dyka upp i närheten.</SpawnRandomEnemy.description> <!-- <En>A random enemy will appear nearby.</En> -->
+
+  <SpawnUntilCeilingAndFloor.label>skapa ett föremål</SpawnUntilCeilingAndFloor.label> <!-- <En>spawn an object</En> -->
+  <SpawnUntilCeilingAndFloor.description>Ett nytt föremål kommer att dyka upp i närheten.</SpawnUntilCeilingAndFloor.description> <!-- <En>A new object will appear nearby.</En> -->
+  <SpawnUntilCeilingAndFloor.Spawn>skapa {0}</SpawnUntilCeilingAndFloor.Spawn> <!-- <En>spawn {0}</En> -->
+
+  <Steal.label>stjäl</Steal.label> <!-- <En>steal</En> -->
+  <Steal.description>Stjäl ett föremål från målet.</Steal.description> <!-- <En>Steal an item from the target.</En> -->
+
+  <SurgicalBed.label_2>återställ saknade kroppsdelar</SurgicalBed.label_2> <!-- <En>restore missing body parts</En> -->
+  <SurgicalBed.description_2>Målets alla saknade kroppsdelar kommer att återställas.</SurgicalBed.description_2> <!-- <En>The target will have all their missing body parts restored.</En> -->
+
+  <Teleport.label_2>teleportera</Teleport.label_2> <!-- <En>teleport</En> -->
+  <Teleport.description_2>Målet kommer att teleporteras till den angivna platsen.</Teleport.description_2> <!-- <En>The target will be teleported to the designated location.</En> -->
+
+  <TeleportRandomly.label_2>teleportera till slumpmässig plats</TeleportRandomly.label_2> <!-- <En>teleport to random location</En> -->
+  <TeleportRandomly.description_2>Målet kommer att teleporteras till en slumpmässig plats.</TeleportRandomly.description_2> <!-- <En>The target will be teleported to a random location.</En> -->
+
+  <UnlockUnlockable.label>lås upp</UnlockUnlockable.label> <!-- <En>unlock</En> -->
+  <UnlockUnlockable.description>Lås upp ett nytt föremål, en ny plats eller en bonus.</UnlockUnlockable.description> <!-- <En>Unlock a new item, place, or bonus.</En> -->
+  <UnlockUnlockable.Unlock>lås upp {0}</UnlockUnlockable.Unlock> <!-- <En>unlock {0}</En> -->
+
+  <UpgradeItemRampUp.label>uppgradera nivå</UpgradeItemRampUp.label> <!-- <En>upgrade level</En> -->
+  <UpgradeItemRampUp.description>Uppgradera nivån på ett föremål.</UpgradeItemRampUp.description> <!-- <En>Upgrade the level of an item.</En> -->
+
+  <UpgradeOrb.label_2>uppgradera kloteffekt</UpgradeOrb.label_2> <!-- <En>upgrade orb effect</En> -->
+  <UpgradeOrb.description_2>Applicera en permanent förstärkning.</UpgradeOrb.description_2> <!-- <En>Apply a permanent boost.</En> -->
+
+</SpecTranslations>
