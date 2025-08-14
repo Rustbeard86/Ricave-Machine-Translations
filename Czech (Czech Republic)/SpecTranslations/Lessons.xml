@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>části těla</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>Podržte [Fly] a klikněte na ruku kostlivce, abyste ji zničili, a pak ho normálně doražte.\n\nKaždá část těla má své vlastní body zdraví.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>Podržte [Fly] a stiskněte [Accept] nebo pravou spoušť na ruce kostlivce, abyste ji zničili, a pak ho normálně doražte.\n\nKaždá část těla má své vlastní body zdraví.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Podrž [Fly] a kliknutím na paži kostlivce ji znič. Poté ho normálně doraž.\n\nKaždá část těla má vlastní životy.\n\nPamatuj, že stisknutím [Wait] můžeš počkat.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Podrž [Fly] a stisknutím [Accept] nebo Right Trigger na paži kostlivce ji znič. Poté ho normálně doraž.\n\nKaždá část těla má vlastní životy.\n\nPamatuj, že stisknutím [Wait] můžeš počkat.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>popisky</Tooltips.label> <!-- <En>tooltips</En> -->

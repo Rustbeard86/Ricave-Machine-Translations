@@ -1,4 +1,4 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <BigMap.label>minimapa</BigMap.label> <!-- <En>minimap</En> -->
   <BigMap.HoldMinimapOrMinimapAlt>Mantén pulsado [Minimap] o [MinimapAlt] para ver el mapa.\n\nPuedes hacer zoom con la rueda del ratón.\n\nLas salas más importantes aparecerán marcadas en tu mapa.</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>partes del cuerpo</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>Mantén pulsado [Fly] y haz clic en el brazo del esqueleto para destruirlo, luego acaba con él de forma normal.\n\nCada parte del cuerpo tiene sus propios puntos de vida.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>Mantén pulsado [Fly] y pulsa [Accept] o el Gatillo Derecho sobre el brazo del esqueleto para destruirlo, luego acaba con él de forma normal.\n\nCada parte del cuerpo tiene sus propios puntos de vida.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Mantén pulsado [Fly] y haz clic en el brazo del esqueleto para destruirlo, luego acábalo de forma normal.\n\nCada parte del cuerpo tiene sus propios puntos de vida.\n\nRecuerda que puedes pulsar [Wait] para esperar.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Mantén pulsado [Fly] y pulsa [Accept] o el Gatillo Derecho sobre el brazo del esqueleto para destruirlo, luego acábalo de forma normal.\n\nCada parte del cuerpo tiene sus propios puntos de vida.\n\nRecuerda que puedes pulsar [Wait] para esperar.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>descripciones</Tooltips.label> <!-- <En>tooltips</En> -->

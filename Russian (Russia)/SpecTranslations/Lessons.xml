@@ -1,4 +1,4 @@
-﻿<SpecTranslations>
+<SpecTranslations>
 
   <BigMap.label>миникарта</BigMap.label> <!-- <En>minimap</En> -->
   <BigMap.HoldMinimapOrMinimapAlt>Удерживайте [Minimap] или [MinimapAlt], чтобы увидеть карту.\n\nВы можете приближать и отдалять карту с помощью колеса прокрутки.\n\nСамые важные комнаты будут отмечены на вашей карте.</BigMap.HoldMinimapOrMinimapAlt> <!-- <En>Hold [Minimap] or [MinimapAlt] to see the map.\n\nYou can zoom in with the scroll wheel.\n\nThe most important rooms will be marked on your map.</En> -->
@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>части тела</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>Удерживайте [Fly] и кликните по руке скелета, чтобы уничтожить её, затем добейте его как обычно.\n\nУ каждой части тела есть свои очки здоровья.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>Удерживайте [Fly] и нажмите [Accept] или правый триггер, наведясь на руку скелета, чтобы уничтожить её, затем добейте его как обычно.\n\nУ каждой части тела есть свои очки здоровья.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Зажмите [Fly] и щёлкните по руке скелета, чтобы её уничтожить, а затем добейте его как обычно.\n\nУ каждой части тела есть свои очки здоровья.\n\nНе забывайте: можно нажать [Wait], чтобы подождать.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Зажмите [Fly] и нажмите [Accept] или правый триггер на руке скелета, чтобы её уничтожить, а затем добейте его как обычно.\n\nУ каждой части тела есть свои очки здоровья.\n\nНе забывайте: можно нажать [Wait], чтобы подождать.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>подсказки</Tooltips.label> <!-- <En>tooltips</En> -->

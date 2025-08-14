@@ -7,8 +7,8 @@
   <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
 
   <ClimbingLadders.label>tırmanma</ClimbingLadders.label> <!-- <En>climbing</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd>Bir sonraki odaya git ve merdivene tırman.\n\nMerdivenin olduğu karoya yürü ve ardından yukarı çıkmak için [Fly] tuşuna basılı tutarken [MoveForward] tuşuna bas.\n\nAlternatif olarak, doğrudan merdivene tıklayabilirsin.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd_2>Bir sonraki odaya git ve merdivene tırman.\n\nMerdivenin olduğu karoya yürü ve ardından yukarı çıkmak için [Fly] tuşuna basılı tutarken [MoveForward] tuşuna bas.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>Bir sonraki odaya git ve merdivene tırman.\n\nYukarı çıkmak için merdivenin olduğu karoya yürü ve ardından [Fly] basılı tutarken [MoveForward] tuşuna bas.\n\nAlternatif olarak, sadece merdivene tıklayabilirsin.</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>Bir sonraki odaya git ve merdivene tırman.\n\nYukarı çıkmak için merdivenin olduğu karoya yürü ve ardından [Fly] basılı tutarken [MoveForward] tuşuna bas.</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
   <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
 
   <DrinkingPotion.label>iksir içme</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>vücut parçaları</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>[Fly] tuşuna basılı tut ve iskeletin koluna tıklayarak onu yok et, sonra normal şekilde işini bitir.\n\nHer vücut parçasının kendi can puanı vardır.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>[Fly] tuşuna basılı tut ve iskeletin koluna [Accept] veya Sağ Tetik tuşuna basarak onu yok et, sonra normal şekilde işini bitir.\n\nHer vücut parçasının kendi can puanı vardır.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>İskeletin kolunu yok etmek için [Fly] basılı tut ve kola tıkla, ardından işini normal bir şekilde bitir.\n\nHer vücut parçasının kendi can puanı vardır.\n\nBeklemek için [Wait] tuşuna basabileceğini unutma.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>İskeletin kolunu yok etmek için [Fly] basılı tut ve kola [Accept] veya Sağ Tetik ile bas, ardından işini normal bir şekilde bitir.\n\nHer vücut parçasının kendi can puanı vardır.\n\nBeklemek için [Wait] tuşuna basabileceğini unutma.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>ipuçları</Tooltips.label> <!-- <En>tooltips</En> -->

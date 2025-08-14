@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>części ciała</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>Przytrzymaj [Fly] i kliknij na ramię szkieleta, aby je zniszczyć, a następnie wykończ go normalnie.\n\nKażda część ciała ma swoje własne punkty życia.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>Przytrzymaj [Fly] i naciśnij [Accept] lub Prawy Spust na ramieniu szkieleta, aby je zniszczyć, a następnie wykończ go normalnie.\n\nKażda część ciała ma swoje własne punkty życia.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Przytrzymaj [Fly] i kliknij na ramię szkieletu, aby je zniszczyć, a następnie dobij go normalnie.\n\nKażda część ciała ma własne punkty życia.\n\nPamiętaj, że możesz nacisnąć [Wait], aby poczekać.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Przytrzymaj [Fly] i naciśnij [Accept] lub Prawy Spust na ramieniu szkieletu, aby je zniszczyć, a następnie dobij go normalnie.\n\nKażda część ciała ma własne punkty życia.\n\nPamiętaj, że możesz nacisnąć [Wait], aby poczekać.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>podpowiedzi</Tooltips.label> <!-- <En>tooltips</En> -->

@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>ส่วนของร่างกาย</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>กด [Fly] ค้างไว้แล้วคลิกที่แขนของโครงกระดูกเพื่อทำลายมัน จากนั้นกำจัดมันตามปกติ\n\nแต่ละส่วนของร่างกายมีแต้มพลังชีวิตเป็นของตัวเอง</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>กด [Fly] ค้างไว้แล้วกด [Accept] หรือ Right Trigger ที่แขนของโครงกระดูกเพื่อทำลายมัน จากนั้นกำจัดมันตามปกติ\n\nแต่ละส่วนของร่างกายมีแต้มพลังชีวิตเป็นของตัวเอง</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>กด [Fly] ค้างไว้แล้วคลิกที่แขนของโครงกระดูกเพื่อทำลายมัน จากนั้นจัดการเขาตามปกติ\n\nร่างกายแต่ละส่วนมีค่าพลังชีวิตเป็นของตัวเอง\n\nอย่าลืมว่าคุณสามารถกด [Wait] เพื่อรอได้</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>กด [Fly] ค้างไว้แล้วกด [Accept] หรือ Right Trigger ที่แขนของโครงกระดูกเพื่อทำลายมัน จากนั้นจัดการเขาตามปกติ\n\nร่างกายแต่ละส่วนมีค่าพลังชีวิตเป็นของตัวเอง\n\nอย่าลืมว่าคุณสามารถกด [Wait] เพื่อรอได้</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>คำแนะนำเครื่องมือ</Tooltips.label> <!-- <En>tooltips</En> -->

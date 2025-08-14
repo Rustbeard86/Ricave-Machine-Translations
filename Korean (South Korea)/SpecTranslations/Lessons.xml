@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>신체 부위</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>[Fly] 키를 누른 상태에서 스켈레톤의 팔을 클릭하여 파괴한 다음, 평소처럼 마무리하세요.\n\n각 신체 부위는 고유의 체력을 가지고 있습니다.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>[Fly] 키를 누른 상태에서 스켈레톤의 팔에 [Accept] 키 또는 오른쪽 트리거를 눌러 파괴한 다음, 평소처럼 마무리하세요.\n\n각 신체 부위는 고유의 체력을 가지고 있습니다.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>[Fly] 키를 누른 상태에서 해골의 팔을 클릭하여 파괴한 다음, 평소처럼 마무리하세요.\n\n각 신체 부위는 고유한 체력을 가지고 있습니다.\n\n[Wait] 키를 눌러 대기할 수 있다는 것을 기억하세요.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>[Fly] 키를 누른 상태에서 해골의 팔에 [Accept] 키 또는 오른쪽 트리거를 눌러 파괴한 다음, 평소처럼 마무리하세요.\n\n각 신체 부위는 고유한 체력을 가지고 있습니다.\n\n[Wait] 키를 눌러 대기할 수 있다는 것을 기억하세요.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>툴팁</Tooltips.label> <!-- <En>tooltips</En> -->

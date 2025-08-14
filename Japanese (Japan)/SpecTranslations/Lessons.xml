@@ -7,8 +7,8 @@
   <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
 
   <ClimbingLadders.label>はしごを登る</ClimbingLadders.label> <!-- <En>climbing</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd>次の部屋に行き、はしごを登ってください。\n\nはしごのあるタイルまで歩いて行き、[Fly]を押しながら[MoveForward]を押すと登ることができます。\n\nまたは、はしごをクリックするだけでも登れます。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd_2>次の部屋に行き、はしごを登ってください。\n\nはしごのあるタイルまで歩いて行き、[Fly]を押しながら[MoveForward]を押すと登ることができます。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>次の部屋へ進み、はしごを登りましょう。\n\nはしごのあるマスへ移動し、[Fly]を押しながら[MoveForward]を押すと登れます。\n\nまたは、はしごをクリックするだけでも登れます。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>次の部屋へ進み、はしごを登りましょう。\n\nはしごのあるマスへ移動し、[Fly]を押しながら[MoveForward]を押すと登れます。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
   <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
 
   <DrinkingPotion.label>ポーションを飲む</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>部位破壊</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>[Fly]キーを長押ししながらスケルトンの腕をクリックして破壊し、その後通常通りとどめを刺しましょう。\n\n各部位にはそれぞれ独自のヒットポイントがあります。</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>[Fly]キーを長押ししながらスケルトンの腕の上で[Accept]キーまたは右トリガーを押して破壊し、その後通常通りとどめを刺しましょう。\n\n各部位にはそれぞれ独自のヒットポイントがあります。</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>[Fly]を押しながらスケルトンの腕をクリックして破壊し、その後は通常通りに倒しましょう。\n\n各部位にはそれぞれヒットポイントがあります。\n\n[Wait]を押すと待機できることを覚えておきましょう。</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>[Fly]を押しながら、スケルトンの腕に対して[Accept]か右トリガーを押して破壊し、その後は通常通りに倒しましょう。\n\n各部位にはそれぞれヒットポイントがあります。\n\n[Wait]を押すと待機できることを覚えておきましょう。</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>ツールチップ</Tooltips.label> <!-- <En>tooltips</En> -->

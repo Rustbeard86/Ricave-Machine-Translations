@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>partes do corpo</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>Mantém [Fly] premido e clica no braço do esqueleto para o destruíres, depois acaba com ele normalmente.\n\nCada parte do corpo tem os seus próprios pontos de vida.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>Mantém [Fly] premido e prime [Accept] ou o Gatilho Direito no braço do esqueleto para o destruíres, depois acaba com ele normalmente.\n\nCada parte do corpo tem os seus próprios pontos de vida.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Mantém [Fly] premido e clica no braço do esqueleto para o destruir, e depois acaba com ele normalmente.\n\nCada parte do corpo tem os seus próprios pontos de vida.\n\nLembra-te que podes premir [Wait] para esperar.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Mantém [Fly] premido e prime [Accept] ou o Gatilho Direito no braço do esqueleto para o destruir, e depois acaba com ele normalmente.\n\nCada parte do corpo tem os seus próprios pontos de vida.\n\nLembra-te que podes premir [Wait] para esperar.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>dicas</Tooltips.label> <!-- <En>tooltips</En> -->

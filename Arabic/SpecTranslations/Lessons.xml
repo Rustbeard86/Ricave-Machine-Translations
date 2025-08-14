@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>أجزاء الجسم</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>اضغط باستمرار على [Fly] وانقر على ذراع الهيكل العظمي لتدميرها، ثم اقضِ عليه بشكل عادي.\n\nكل جزء من الجسم له نقاط صحة خاصة به.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>اضغط باستمرار على [Fly] واضغط على [Accept] أو الزناد الأيمن على ذراع الهيكل العظمي لتدميرها، ثم اقضِ عليه بشكل عادي.\n\nكل جزء من الجسم له نقاط صحة خاصة به.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>استمر بالضغط على [Fly] وانقر على ذراع الهيكل العظمي لتدميرها، ثم أجهز عليه كالمعتاد.\n\nلكل جزء من الجسد نقاط إصابة خاصة به.\n\nتذكر أنه يمكنك الضغط على [Wait] للانتظار.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>استمر بالضغط على [Fly] واضغط على [Accept] أو الزناد الأيمن على ذراع الهيكل العظمي لتدميرها، ثم أجهز عليه كالمعتاد.\n\nلكل جزء من الجسد نقاط إصابة خاصة به.\n\nتذكر أنه يمكنك الضغط على [Wait] للانتظار.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>التلميحات</Tooltips.label> <!-- <En>tooltips</En> -->

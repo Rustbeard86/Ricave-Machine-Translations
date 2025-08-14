@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>parti del corpo</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>Tieni premuto [Fly] e clicca sul braccio dello scheletro per distruggerlo, poi finiscilo normalmente.\n\nOgni parte del corpo ha i propri punti ferita.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>Tieni premuto [Fly] e premi [Accept] o il Grilletto Destro sul braccio dello scheletro per distruggerlo, poi finiscilo normalmente.\n\nOgni parte del corpo ha i propri punti ferita.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Tieni premuto [Fly] e fai clic sul braccio dello scheletro per distruggerlo, poi finiscilo normalmente.\n\nOgni parte del corpo ha i propri punti ferita.\n\nRicorda che puoi premere [Wait] per attendere.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Tieni premuto [Fly] e premi [Accept] o il grilletto destro sul braccio dello scheletro per distruggerlo, poi finiscilo normalmente.\n\nOgni parte del corpo ha i propri punti ferita.\n\nRicorda che puoi premere [Wait] per attendere.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>suggerimenti</Tooltips.label> <!-- <En>tooltips</En> -->

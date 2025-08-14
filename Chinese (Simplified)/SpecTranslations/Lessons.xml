@@ -7,8 +7,8 @@
   <BigMap.MinimapAlt>[MinimapAlt]</BigMap.MinimapAlt> <!-- <En>[MinimapAlt]</En> -->
 
   <ClimbingLadders.label>攀爬</ClimbingLadders.label> <!-- <En>climbing</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd>进入下一个房间并爬上梯子。\n\n走到有梯子的地块上，然后按住 [Fly] 再按 [MoveForward] 即可向上爬。\n\n或者，你也可以直接点击梯子。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
-  <ClimbingLadders.GoIntoTheNextRoomAnd_2>进入下一个房间并爬上梯子。\n\n走到有梯子的地块上，然后按住 [Fly] 再按 [MoveForward] 即可向上爬。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd>进入下一个房间并爬上梯子。\n\n走到有梯子的格子上，然后在按住 [Fly] 的同时按下 [MoveForward] 向上爬。\n\n或者，你也可以直接点击梯子。</ClimbingLadders.GoIntoTheNextRoomAnd> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.\n\nAlternatively, you can just click on the ladder.</En> -->
+  <ClimbingLadders.GoIntoTheNextRoomAnd_2>进入下一个房间并爬上梯子。\n\n走到有梯子的格子上，然后在按住 [Fly] 的同时按下 [MoveForward] 向上爬。</ClimbingLadders.GoIntoTheNextRoomAnd_2> <!-- <En>Go into the next room and climb the ladder.\n\nWalk into the tile with the ladder and then press [MoveForward] while holding [Fly] to go up.</En> -->
   <ClimbingLadders.FlyMoveForward>[Fly] + [MoveForward]</ClimbingLadders.FlyMoveForward> <!-- <En>[Fly] + [MoveForward]</En> -->
 
   <DrinkingPotion.label>饮用药水</DrinkingPotion.label> <!-- <En>drinking potions</En> -->
@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>身体部位</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>按住 [Fly] 并点击骷髅的手臂来摧毁它，然后用常规方式击败他。\n\n每个身体部位都有独立的生命值。</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>按住 [Fly] 并对准骷髅的手臂按下 [Accept] 或 右扳机键 来摧毁它，然后用常规方式击败他。\n\n每个身体部位都有独立的生命值。</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>按住 [Fly] 并点击骷髅的手臂来摧毁它，然后用常规方式解决它。\n\n每个身体部位都有各自的生命值。\n\n记住，你可以按 [Wait] 来等待。</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>按住 [Fly] 并对准骷髅的手臂按下 [Accept] 或右扳机键来摧毁它，然后用常规方式解决它。\n\n每个身体部位都有各自的生命值。\n\n记住，你可以按 [Wait] 来等待。</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>工具提示</Tooltips.label> <!-- <En>tooltips</En> -->

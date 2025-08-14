@@ -67,8 +67,8 @@
   <Strafing.MoveLeftMoveRight>[MoveLeft], [MoveRight]</Strafing.MoveLeftMoveRight> <!-- <En>[MoveLeft], [MoveRight]</En> -->
 
   <TargetingBodyParts.label>bộ phận cơ thể</TargetingBodyParts.label> <!-- <En>body parts</En> -->
-  <TargetingBodyParts.HoldFlyAndClickOnThe>Giữ [Fly] và nhấp vào cánh tay của bộ xương để phá hủy nó, sau đó kết liễu hắn như bình thường.\n\nMỗi bộ phận cơ thể có điểm máu riêng.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
-  <TargetingBodyParts.HoldFlyAndPressAccept>Giữ [Fly] và nhấn [Accept] hoặc Cò Phải vào cánh tay của bộ xương để phá hủy nó, sau đó kết liễu hắn như bình thường.\n\nMỗi bộ phận cơ thể có điểm máu riêng.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndClickOnThe>Giữ [Fly] và nhấp vào cánh tay của bộ xương để phá hủy nó, sau đó kết liễu hắn như bình thường.\n\nMỗi bộ phận cơ thể có điểm máu riêng.\n\nHãy nhớ rằng bạn có thể nhấn [Wait] để chờ.</TargetingBodyParts.HoldFlyAndClickOnThe> <!-- <En>Hold [Fly] and click on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
+  <TargetingBodyParts.HoldFlyAndPressAccept>Giữ [Fly] và nhấn [Accept] hoặc Cò Phải vào cánh tay của bộ xương để phá hủy nó, sau đó kết liễu hắn như bình thường.\n\nMỗi bộ phận cơ thể có điểm máu riêng.\n\nHãy nhớ rằng bạn có thể nhấn [Wait] để chờ.</TargetingBodyParts.HoldFlyAndPressAccept> <!-- <En>Hold [Fly] and press [Accept] or Right Trigger on the skeleton's arm to destroy it, then finish him normally.\n\nEach body part has its own hit points.</En> -->
   <TargetingBodyParts.Fly>[Fly]</TargetingBodyParts.Fly> <!-- <En>[Fly]</En> -->
 
   <Tooltips.label>chú giải</Tooltips.label> <!-- <En>tooltips</En> -->

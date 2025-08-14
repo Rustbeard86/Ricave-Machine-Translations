@@ -249,6 +249,11 @@
   <DungeonModifiersTitle>Extra dungeon modifiers</DungeonModifiersTitle>
   <DemonNoteText>Your time is borrowed.\nI'm merely collecting my debt.\nBy all means, keep running.\nEventually, you'll find the exit.\nI'm just beyond it.</DemonNoteText>
   <UndiscoveredEnemy>Undiscovered enemy</UndiscoveredEnemy>
+  <ManagePartyInfo1>Here you can take other people with you to the dungeon. Party members provide an optional playstyle.</ManagePartyInfo1>
+  <ManagePartyInfo2>Party members attract more enemies, so all runs where you take someone with you will have {0} more enemies.</ManagePartyInfo2>
+  <PartyMemberLocked>Rescue {0} spirits to unlock</PartyMemberLocked>
+  <PartyMemberLockedSingle>Rescue 1 spirit to unlock</PartyMemberLockedSingle>
+  <UnlockedTraitsCount>Unlocked</UnlockedTraitsCount>
 
   <!-- Misc -->
   <HP>{0} HP</HP>
@@ -531,7 +536,7 @@
   <StardustInfo>You've collected stardust - a precious currency!\n\nStardust can be spent in the lobby to buy boosts for your next runs and unlock special rooms.\n\nAll items marked with "Lobby item" carry over to the lobby. All other items are lost when the run ends.</StardustInfo>
   <PuzzlePieceInfo>Puzzle pieces, just like stardust, are permanent lobby items.\n\nCollect all {0} of them across different runs to unlock a secret room in the lobby.</PuzzlePieceInfo>
   <PetRatInfo>You have a companion.\n\nWhenever you move, Roko will automatically collect gold coins in the adjacent tiles for you.\n\n1 cheese makes Roko follow you only for 1 run.</PetRatInfo>
-  <PartyInfo>You now have party members.\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.</PartyInfo>
+  <PartyInfo>You now have party members!\n\nYou can switch between them and manage their inventory separately. Each party member takes their turn independently.\n\nYou can toggle whether they should follow you or wait.</PartyInfo>
   <UpgradeOrb_MaxHP>Max HP +{0}</UpgradeOrb_MaxHP>
   <UpgradeOrb_Crit>Crit. +{0}%</UpgradeOrb_Crit>
   <UpgradeOrb_Miss>Miss -{0}%</UpgradeOrb_Miss>
@@ -993,5 +998,11 @@
   <RecipeCategory_Potions>Potions</RecipeCategory_Potions>
   <RecipeCategory_Scrolls>Scrolls</RecipeCategory_Scrolls>
   <RecipeCategory_WeaponsAndGear>Weapons and gear</RecipeCategory_WeaponsAndGear>
+
+  <!-- Party member AI modes -->
+  <PartyMemberAIMode_Follow>Follow</PartyMemberAIMode_Follow>
+  <PartyMemberAIMode_Stay>Stay</PartyMemberAIMode_Stay>
+  <PartyMemberAIModeTip>Change the follow mode for this party member.</PartyMemberAIModeTip>
+  <PartyMemberAIMode>Follow mode</PartyMemberAIMode>
 
 </Strings>
